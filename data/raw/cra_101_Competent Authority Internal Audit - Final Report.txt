@@ -1,0 +1,136 @@
+Competent Authority Internal Audit
+Final Report
+Corporate Audit and Evaluation Branch
+October 2010
+Table of Contents
+Executive Summary
+Introduction
+Objective and Scope of Audit
+1.0 Program Delivery
+1.1 Roles and responsibilities
+1.2 Policies and procedures
+2.0 Management of Information
+2.1 Use of information
+2.2 Authorized information
+2.3 Reporting program pesults
+Conclusion
+Executive Summary
+Background:
+A competent authority is a person legally delegated to perform a designated function. Canada's Competent Authority for tax treaties is the Minister of National Revenue or the Minister's authorized representatives in the Compliance Programs Branch (CPB) and the Legislative Policy and Regulatory Affairs Branch (LPRAB) of the Canada Revenue Agency (CRA).
+Competent authority assistance is provided to individuals or entities that fall within the scope of the 87 tax treaties
+[Footnote 1]
+that Canada has negotiated with other countries. The primary purpose of tax treaties is to eliminate double taxation and prevent fiscal evasion.
+The Legislative Policy Directorate (LPD) in the LPRAB manages the legislative and regulatory processes and is functionally responsible for the legislative and policy framework governing all CRA international activities where Canada's tax regime is being applied. In the CRA, its competent authority responsibilities include leading CRA participation in tax treaty negotiations and exchange of information agreements, resolving policy and interpretive issues with treaty partners and dealing with certain taxpayer specific cases, for example, involving non-discrimination articles in treaties and the limitation on benefits provision in the Canada-United States treaty.
+The Competent Authority Services Division (CASD) in the CPB deals with cases related to specific taxpayers and is responsible for the following competent authority activities.
+Mutual agreement procedures to resolve double taxation and taxation which is contrary to tax treaties.
+Advance pricing arrangements to confirm appropriate transfer pricing for future tax years.
+The actual exchange of taxpayer information between CRA and other countries.
+The exchange of collection assistance referrals between CRA and other countries.
+The International and Aggressive Tax Planning Section in the Taxpayer Services and Debt Management Branch (TSDMB) administers the Treaty Collections Program. Under the program, the presence of an assistance in collection article in a treaty and a bilateral agreement enables Canada and its treaty partners to exchange information and collect outstanding debts on behalf of each other.
+Objective
+: The objective of the audit was to determine whether controls to support and facilitate competent authority activities in the CRA were in place and working as intended. The focus of the audit was on the controls that would ensure the delivery of competent authority activities and the management of information exchanged.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Conclusion
+: Overall, we found that controls to support and facilitate competent authority activities in the CRA were in place. However, there are opportunities for improvement to increase communication between areas involved with competent authority activities. As well, the reporting process should be further developed to enable CASD to assess the impact of bulk data sent to tax services offices and provide feedback to treaty partners.
+Communications between the CASD and CPB auditors and between the CASD and collectors in the Aggressive Tax Planning (ATP) centres of expertise regarding CASD competent authority negotiations were not comprehensive. Auditors expressed a need for more detailed information on why the CASD overturned audit's decisions. Collectors in ATP were unclear on the competent authority process and expressed a need for more communication when the CASD is involved in negotiations with taxpayers who have an outstanding debt. When the CASD is involved in competent authority negotiations, it should use a more horizontal and comprehensive communications approach with internal stakeholders within CPB and TSDMB. This increased communication would ensure that collectors are fully informed to make collection decisions.
+Interviews indicated that approval, review, and tracking controls were in place to ensure that only authorized information was exchanged. An opportunity for improvement was identified regarding the reporting of program results on the outcomes from bulk data sent to auditors in the field. The CASD should improve their program reporting process to determine the full benefits of the bulk data sent to the field and to provide feedback to treaty partners on the outcomes of the data exchanged.
+Action Plan:
+CPB agrees with the recommendations and the action plans with related timelines are included in this report.
+Introduction
+Co-operation among tax administrations, including the sharing of tax information, is a key tool in protecting the integrity of Canada's tax system. Canada has entered into tax treaties with 87 other countries
+[Footnote 2]
+. The primary purposes of tax treaties are to eliminate double taxation and prevent fiscal evasion. Each treaty identifies the respective countries' Competent Authority, who is the person legally delegated to perform a designated function. In all cases, Canada's Competent Authority is the Minister of National Revenue or the Minister's authorized representative.
+In Canada the persons authorized to act as a competent authority are: Minister of National Revenue; Assistant Commissioner, Compliance Programs Branch (CPB); Assistant Commissioner, Legislative Policy and Regulatory Affairs Branch (LPRAB); Director General, International and Large Business Directorate (ILBD); Director General, Legislative Policy Directorate (LPD); Director, International, Provincial and Strategic Policy Division; and Director, Competent Authority Services Division (CASD).
+Functionally, competent authority activities are shared between LPD within LPRAB and ILBD within CPB. The Director General, LPD and Director of International, Provincial and Strategic Policy Division are the competent authority for issues concerning the application of tax treaties by resolving policy and interpretive issues with treaty partners and dealing with certain taxpayer specific cases.
+LPD is also responsible for managing the legislative and regulatory processes within the Canada Revenue Agency (CRA) and is functionally responsible for the legislative and policy framework governing all CRA international activities where Canada's tax regime is being applied. The International Legislative Affairs Section of International, Provincial and Strategic Policy Division in LPD is responsible for leading CRA participation in tax treaty negotiations and exchange of information agreements.
+The Director, CASD, of ILBD serves as the competent authority for resolving cases related to specific taxpayers. As of March 31, 2009, the CASD had a workforce of 44 employees. CASD is responsible for the majority of competent authority activities as follows:
+Mutual Agreement Procedures (MAP) which are for assistance where taxation is not in accordance with a treaty or to avoid double taxation. In the 2008-2009 fiscal year 306 cases were completed with 203 cases remaining in inventory as of March 31, 2009.
+Advance Pricing Arrangements (APA) which are arrangements between a taxpayer and a tax administration that confirms appropriate transfer pricing methodology. Ten APA requests were completed in the 2008-2009 fiscal year with 84 cases remaining in inventory as of March 31, 2009.
+Exchange of Information (EoI) which allows Canada to exchange taxpayer specific information with other countries. In the 2008-2009 fiscal year a total of 1,385 requests to and from other countries were completed with 876 cases remaining in inventory as of March 31, 2009.
+Assistance in Collection (AiC) which allows Canada and its four participating treaty partners to lend assistance to each other in the collection of revenue claims. AiC requests are exchanged to and from other countries through CASD.
+All aspects of MAP and APA activities are conducted within CASD. CASD is responsible for administering, controlling, and reviewing EoI requests, and coordinates and transmits assistance in collection requests. All communication between the CRA and the Competent Authority for other countries is coordinated by CASD. Field office staff are responsible for APAs and for issuing reassessments required to give effect to MAP settlements.
+In addition, the International and Aggressive Tax Planning Section of the Accounts Receivable Tax Programs Division in the Tax Services and Debt Management Branch (TSDMB) functions as the collection program administrator under bilateral agreements with the four participating treaty partners that administers the Assistance in Collection treaty article. The presence of an assistance in collection article in a treaty enables Canada and its treaty partner to exchange information for the purpose of collecting tax debts on behalf of each other.
+Objective and Scope of Audit
+The objective of the audit was to determine whether controls to support and facilitate competent authority activities in the CRA were in place and working as intended. The focus of the audit was on the controls that would ensure the delivery of competent authority activities and the management of information exchanged.
+Examination work was conducted from April to December of 2009. This entailed the review of documents as well as interviews with staff and management in CPB, TSDMB and LPRAB at Headquarters and selected Tax Services Offices (TSO) in the Pacific and Ontario regions.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Findings, recommendations and action plans
+1.0 Program Delivery
+1.1 Roles and responsibilities
+Within CRA, employees in CPB, LPRAB, and TSDMB work together to deliver competent authority activities. Roles and responsibilities were defined, communicated, and understood. Collaboration between CPB and LPRAB was evident. For example, under the 5th Protocol of the Canada-U.S. tax treaty, it was expected that policy changes would result from specific taxpayer requests related to limitations on benefits (i.e. denying treaty benefits to a company in a foreign country due to owner residency issues). As a result, the CASD and the LPD agreed that for the first few years, the LPD would handle specific taxpayer requests related to the limitation on benefits provision.
+Through the Treaty Collections program in the TSDMB, assistance in collections is conducted between the CRA and its treaty partners. Assistance in collections requests to and from CRA are coordinated through CASD. CASD and TSDMB employees understood their roles and responsibilities with regard to such requests as provided in bilateral agreements (Memoranda of Understanding).
+After competent authority negotiations are finalized, CASD provides feedback to international auditors on why the CASD overturned audit's decisions on cases (e.g. on transfer pricing). However, auditors expressed a need for more detailed information to improve the quality of their files and to understand the types of documentation deficiencies that result in the overturning of cases.
+ATP centres of expertise have been established in the TSDMB. The ATP areas work with International Audit from the pre-assessment to the post-assessment stages of an audit during which competent authority decisions may also be made. Prior to the establishment of the ATP centres of expertise, collectors usually became involved in tax cases at the post assessment stage (i.e. after an audit was completed and competent authority decisions were made) without knowledge of the pre-assessment issues or revenue risks. Collectors in ATP were unclear on the competent authority process and expressed a need for more communication when the CASD is involved in negotiations with taxpayers who have outstanding debt. More communication between ATP and CASD would ensure that collectors are fully informed to make collection decisions and enable them to advise taxpayers on the competent authority process.
+Recommendation
+When the CASD is involved in competent authority negotiations, it should use a more horizontal and comprehensive communications approach with internal stakeholders within CPB and TSDMB.
+Action Plan
+CASD has developed a communications action plan that will be implemented in the fall of 2010. The essential elements of the plan include:
+The protocol for auditors to raise concerns to CASD
+An explanation of the roles of CASD and auditors as required by the Mutual Agreement Procedure with an emphasis on the reasons why there might be a discrepancy between what the auditor proposes and the manner in which Competent Authority settles.
+The establishment of guidelines to facilitate communication and sharing of information between auditors and CASD.
+Thus, upon receipt of a request for competent authority, CASD will contact the international auditor responsible for the adjustment to discuss the case and collect pertinent facts.
+While preparing the position paper for negotiations, CASD will discuss the proposed adjustment with the auditor.
+At the close of the case, CASD will conduct a post-mortem with the international auditor to review and discuss the settlement.
+The communication plan will be shared with all TSOs by November 30th.
+In Fall 2010, CASD will work with TSDMB to develop an awareness session to be delivered by March 31, 2011. The awareness session will focus on competent authority processes that may intersect collections activities, hence providing a more holistic communication approach. Furthermore, an all-TSO and Tax Centre memorandum will be distributed by TSDMB in November 2010, to advise collections officers of the procedures that are to be followed when requesting the status of competent authority cases.
+1.2 Policies and procedures
+Policies and procedures for competent authority activities exist and overall were found to be effective and adequate. These policies and procedures were readily available to staff and provided clear instruction for the various workloads. In addition, staff indicated that internal procedures were consistent with the procedures described in competent authority information circulars available to the public.
+2.0 Management of Information
+Various types of information exchanges are made between Canada and other tax treaty countries. For example, information exchanged can be related to specific taxpayers (e.g. to determine residency) or to the automatic exchange of information which involves the exchange of bulk data (e.g. records of capital gains paid to individuals or corporations).
+2.1 Use of information
+The CASD has developed an
+Exchange of Information Services Reference Guide - 2009
+which is available to all CRA employees. The guide provides an overview of the exchange of information provisions under tax treaties Canada has with other countries. It includes country specific guidelines for the use of information (e.g. for goods and services tax and/or income tax purposes) received from other countries, what information can be disclosed to taxpayers, and whether a treaty allows the exchange of information for criminal matters. Auditors in the field were aware of and/or utilized the guide. They reported that the guide was comprehensive and understandable.
+The automatic exchange of information involves the transmission of bulk data between the CRA and its tax treaty partners. This program evolves and matures as more countries agree to exchange information with Canada. The bulk data is used to identify unreported or underreported income and may result in tax file reassessments. Generally, reassessments have to be completed within a certain time period (e.g. three years for income tax) before the tax return becomes statute barred (i.e. return can no longer be reassessed).
+Due to different fiscal year ends and statute barred limitations in other countries, some bulk data that CASD received was not usable. From 2006 to 2009, 7% of bulk files received were unworkable because the years in question were statute barred. CASD provided feedback to its tax treaty partners when data exchanged needed to be expedited.
+The majority of bulk data (80%), consisting primarily of dividend, interest and pension or government service income, is forwarded by the CASD to the Individual Returns Directorate (IRD) in the Assessment & Benefits Services Branch (ABSB) where the data is reviewed and forwarded to the Foreign Source Matching Program (FSMP) in the International Tax Services Office (ITSO). Prior to the fall of 2008, CASD encountered delays in forwarding bulk data to the IRD. The hiring of additional staff in CASD has addressed the timeliness issues.
+The remainder of the bulk data (20%) is reviewed by CASD to determine if the amounts have been reported, and if not, is sent to the International Audit area in the tax services offices. Data is accompanied by a memo describing the tax authority, what the data relates to (e.g. capital gains), and the parameters for its disclosure to taxpayers. The data is reviewed by International Audit and data unrelated to the area is forwarded to the Small and Medium Enterprise (SME) section. International and SME auditors interviewed were unclear about the objectives and parameters of how to fully utilize bulk data they received. In addition, SME auditors were unclear on the extent to which they should incorporate the work related to bulk data into their workload.
+In January 2010, changes were made to referral procedures for bulk data. As a result, bulk data is sent to the Workload Development area of SME for review and action. Specific information exchanges continue to be referred to the International Audit area of the TSOs.
+2.2 Authorized information
+Adequate controls were in place to ensure that when countries requested information from the CRA only authorized information was provided. Auditors reported that they were aware of and could utilize the appropriate CASD contacts and guidelines if clarification was ever needed on whether they were allowed to provide information requested by another country. All information sent by CRA auditors to other countries was reviewed and approved by CASD managers.
+The TSDMB
+Treaty Collections Program Manual
+outlines procedures for referrals received from a treaty partner. TSDMB employees were aware of the manual and referred to it when necessary. Referrals received specified the tax treaty under which assistance in collections were authorized and provided information on the foreign tax debtor. Referrals to TSDMB were tracked by the Treaty Collections liaison. In TSDMB, information sent to another country as a result of referrals received for assistance in collections was reviewed and/or approved by managers in the field, the TSDMB Treaty Collections liaison, and CASD.
+2.3 Reporting program results
+When the CASD directs bulk data received through the automatic exchange of information to the field, it also provides a feedback form to be completed for each file. However, less than 40% of these forms were returned to CASD. Feedback allows the CASD to gather statistical information to report on program results. This information should be used to determine whether there are benefits in continuing to send those types of records to the field. It also enables CASD to provide feedback to the treaty partners on the results obtained from bulk information exchanged. Due to the limited number of feedback forms returned, CASD did not perform an analysis to determine the benefits of bulk data received.
+Recommendation
+The CASD should improve their program reporting process to determine the benefits of bulk data sent to the field through the automatic exchange of information and to provide feedback to treaty partners on the outcomes of the data exchanged.
+Action Plan
+For the period January to December 2009, the EoI section within CASD received 112 responses out of 233 files. Of these responses, approximately 70% took more than three months to be returned. Further analysis of the rate of response and the contents will be undertaken during this fiscal year. As part of this initiative, by the end of fiscal year 2010-2011, EoI and the SMED will complete an evaluation of the usefulness of the feedback questionnaire. If the feedback questionnaire is determined not to be useful, CASD will establish and implement another reporting mechanism by the end of the fiscal year 2011-2012 to enable them to evaluate the benefits of bulk data sent to the field through the automatic exchange of information.
+Meetings between the CASD and the SMED will also take place in the Fall of 2010 to establish procedures on how and when to monitor the results of referrals to the TSOs.
+In addition, EoI conducts outreach sessions in each region every two years. In order to increase awareness and emphasize the importance of the automatic exchanges and the feedback provided to the treaty partners, invitations to these sessions will be extended to employees from Small and Medium Enterprises.
+Commencing in the Fall of 2010, EoI will meet with the TSOs' Workload Development area during the outreach sessions to obtain their views on bulk data exchanged. This would include resource issues, difficulties encountered with the referrals, quality of the data, success stories, etc. After each of these sessions, a report will be prepared to summarize any issues and, where applicable, communicated to treaty partners. Outreach sessions in all regions will be completed by the end of fiscal year 2012 – 2013.
+Conclusion
+Overall, we found that controls to support and facilitate competent authority activities in the CRA were in place. However, there are opportunities for improvement to increase communication between areas involved with competent authority activities. As well, the reporting process should be further developed to enable CASD to assess the impact of bulk data sent to tax services offices and provide feedback to treaty partners.
+Communications between the CASD and CPB auditors and between the CASD and collectors in the Aggressive Tax Planning (ATP) centres of expertise regarding CASD competent authority negotiations were not comprehensive. Auditors expressed a need for more detailed information on why the CASD overturned audit's decisions. Collectors in ATP were unclear on the competent authority process and expressed a need for more communication when the CASD is involved in negotiations with taxpayers who have an outstanding debt. When the CASD is involved in competent authority negotiations, it should use a more horizontal and comprehensive communications approach with internal stakeholders within CPB and TSDMB. This increased communication would ensure that collectors are fully informed to make collection decisions.
+Interviews indicated that approval, review, and tracking controls were in place to ensure that only authorized information was exchanged. An opportunity for improvement was identified regarding the reporting of program results on the outcomes from bulk data sent to auditors in the field. The CASD should improve their program reporting process to determine the full benefits of the bulk data sent to the field and to provide feedback to treaty partners on the outcomes of the data exchanged.
+Footnote _ftn1
+Data current as of March 26, 2009 - The Department of Finance Canada website indicates 87 treaties have been entered into force.
+Return to footnote
+_ftn1
+Referrer
+Footnote _ftn2
+Data current as of March 26, 2009 - The Department of Finance Canada website indicates 87 treaties have been entered into force.
+Return to footnote
+_ftn2
+Referrer
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2011-01-07

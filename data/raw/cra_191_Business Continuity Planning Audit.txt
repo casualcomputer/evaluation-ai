@@ -1,0 +1,143 @@
+Business Continuity Planning Audit
+Corporate Audit and Evaluation Branch
+October 2005
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+Development of BCPs
+Communication of BCPs
+Testing of BCPs
+Maintenance of BCPs
+Level of Guidance and Support
+Conclusion
+Executive summary
+Background:
+Under an MOU signed in 2001 with Treasury Board, Canada Revenue Agency (CRA) follows the Government Security Policy (GSP). Thus, CRA's Financial Administration Manual (FAM) requires that all offices develop, communicate, test and maintain Business Continuity Plans (BCP) in order to ensure the continued availability of essential business functions, resources, services, and assets. A BCP is designed to provide the information required to minimize the impact of a service interruption, and lists strategies for efficient and timely recovery of operations following a major service disruption. A
+Guide to Completing a Business Continuity Plan
+(the Guide) is included as an Appendix to Chapter 4 of the FAM and specifies that, once it is completed, the BCP must be distributed to those responsible for managing incident and recovery operations and a copy must be stored off-site.
+The Finance & Administration Branch (F&A), Security Directorate, Emergency Management Division (EMD) is functionally responsible for ensuring that the Agency meets all legislative and accountability requirements, and demonstrates due diligence, by having in place an effective emergency management infrastructure. This role includes the provision of advice, instruction, resources and logistical support. At the regional and local levels, Finance & Administration, Security Services provides support and oversight. Finally, managers at individual sites are responsible for the development, testing, and maintenance of effective BCPs for their sites.
+In addition to the local BCPs developed for each CRA office, the Agency maintains distinct continuity plans for Information Technology services and data as well as strategic continuity plans for Agency-critical functions that are national in scope. This audit focused on the local plans exclusively and coverage of IT continuity planning is provided by an internal audit reported in December 2004.
+Objectives:
+The objectives of the internal audit were to assess whether BCPs are being developed, communicated, tested, and maintained by Agency sites in compliance with CRA policy (effectively the same as Treasury Board policy), and to assess the level of guidance and support for Business Continuity Planning that is provided by EMD to CRA operations.
+The audit was conducted between November 2004 and January 2005 at selected sites in the Northern Ontario (NOR) and Pacific Regions, and at the Assessment & Client Services Branch (A&CS) in Headquarters. EMD and local/regional Finance and Administration, Security Services were included, in the context of their governance, functional accountability, and support and oversight responsibilities.
+Conclusion:
+All 24 sites audited had BCPs in place that were developed using the CRA
+Guide.
+However, half of these were in an older format and did not include information such as positions and phone numbers of key stakeholders. While the plans reflected the use of the grid methodology provided in the guide, interviews and analysis demonstrated that this was not well understood.
+Interviewees were also not aware of an inventory distributed to regions by EMD in 2002. The inventory contains critical business functions and recovery times identified and prioritized by HQ Branches. This caused inconsistency in how these functions and associated recovery times were defined in local sites.
+There has also not been regular testing and updating of plans or systematic monitoring and review of plans for quality or adherence to the
+Guide.
+Roles and responsibilities regarding BCPs are unclear to many interviewees. Most interviewees expressed the need for more training in the development of BCPs; staff on site BCP teams are often only temporarily assigned to this type of planning. In addition, where sites have been identified as a back-up site in another BCP, local management may not be aware. However, it should be noted that the identified gaps do not invalidate the BCPs in place.
+Action Plan:
+EMD in conjunction with Regional Assistant Directors, Security Services, will address these issues in their action plans, chiefly through expansion of its tabletop testing, which has been well received, and which provides a quick, intensive training experience that is particularly helpful useful in understanding roles and responsibilities. EMD will update the
+Guide
+, and will sample BCPs and provide feedback to sites on the quality of their plans as well as implementing and monitoring a requirement that BCPs be tested on a regular basis. It will also communicate the need for consistency in national and regional definitions and recovery times for critical business functions, when it re-issues the national inventory. A revised version of the national inventory is being issued by EMD in 2005.
+Introduction
+In fulfilling its mandate, the Canada Revenue Agency (CRA) provides services to more than 23 million individual tax filers, in excess of 1 million corporations, and 2.8 million GST/HST registrants. The Agency's activities involve protecting the public interest, supporting our democratic institutions, enhancing the competitiveness of our economic system, and supporting progress in Canadian society.
+Business continuity planning encompasses the development and timely execution of plans, measures, procedures and arrangements to ensure minimal or no interruption to the availability of critical services and assets. CRA has chosen to follow the general Government Security Policy, and the Commissioner signed an MOU with Treasury Board to this effect in May 2001. This policy calls for the establishment of a business continuity program to provide for the continued availability of critical (and other) services and assets, when warranted by a threat and risk assessment. The Security Volume, Chapter 4 of Canada Revenue Agency's Finance and Administration Manual (FAM) outlines the requirement that “all offices develop, maintain and test Business Continuity Plans in order to ensure the continued availability of critical business functions, resources and services.” An Appendix to Chapter 4 contains a
+Guide to Completing a Business Continuity Plan
+(BCP) (the Guide). A documented BCP provides information to minimize the impact of a service interruption, and lists strategies for efficient and timely recovery of operations following a major service disruption. The
+Guide
+specifies that once a BCP is completed, it must be distributed to those responsible for managing incident and recovery operations, and that a copy must be stored off-site.
+The Finance & Administration Branch (F&A), Security Directorate, Emergency Management Division (EMD) is functionally responsible for ensuring that the Agency meets all legislative and accountability requirements, and demonstrates due diligence, by having in place an effective emergency management infrastructure; this role includes the provision of advice, instruction, resources and logistical support. At the regional and local levels, Finance & Administration, Security Services provides support and oversight. In regions, typically one staff member in the Security area has a role as Regional BCP Coordinator, while HQ branches appoint Branch Coordinators. Finally, the Director and managers at individual sites are responsible for the development, testing, and maintenance of effective BCPs for their sites.
+Focus of the audit
+The audit objectives were to assess whether BCPs are being developed, communicated, tested, and maintained by Agency sites, in compliance with the Treasury Board and Agency policy, and to assess the level of guidance and support for Business Continuity Planning that is provided by EMD to CRA operations.
+Between November 2004 and January 2005, BCPs were reviewed at ten offices in the Pacific and Northern Ontario Regions, and at the Assessment & Client Services Branch in Headquarters. Each office maintained a number of “site” or building BCPs, (a separate building needs its own recovery plan). The audit thus reviewed BCPs for 24 out of 136 sites in the Agency, or 18% of the total. Accordingly, the findings may not be representative of the state of business continuity planning for the Agency as a whole. EMD and local/regional Security Services were included in the context of their governance, functional accountability, and support and oversight responsibilities. In addition, 85 interviews with personnel were conducted to examine business continuity planning processes. Information technology continuity was excluded from the audit scope, as it was recently examined in a national internal audit of Informatics Technology Continuity Planning. The action plan in regard to IT continuity is a parallel process under the control of ITB. However, the audit did review whether an IT component was attached to site BCPs.
+Findings, recommendations and action plans
+Development of BCPs
+CRA policy requires that site management develop their BCPs in accordance with the
+Guide
+provided as an Appendix to Chapter 4 of the FAM. This
+Guide
+is available to managers on the F&A intranet site. Key among the requirements for each BCP is a documented business impact analysis to identify and prioritize critical Agency assets and services.
+All of the BCPs reviewed had included a documented business impact analysis, using a version of the
+Guide
+from EMD. However, five out of the ten offices had BCPs that were in an outdated format that does not include information called for in the current version of the
+Guide
+, such as positions and phone numbers of key stakeholders. In one office, the BCP showed use of an updated grid for Business Impact Analysis (BIA), but the older format in the rest of the plan. The four remaining offices had BCPs that indicated a total of 92 business functions that must be recovered in seven days or less after an incident – however, only 34 of these business functions had achieved BIA scores that support this need. Staff frequently did not understand how the BIA grid worked, and sometimes they “force-fit” rankings to reflect local ideas around a function's importance. The actual BIA grid, stemming from Y2K, was designed to fit the government definition of critical services. With the departure of the Customs Branch, the scoring needs to be reviewed to reflect CRA new business lines.
+An Agency-level impact analysis of Critical Business Functions is maintained by EMD. This key document was last circulated in 2002 to assist operational sites in the development of their BCPs. It provides recovery times identified by HQ branches for their critical business functions. Local rankings for functions should also be cross-referenced with this inventory. The audit found most interviewees to be unaware of its existence. This creates inconsistency between HQ and various sites regarding what are determined to be Agency critical business functions and appropriate timeframes for their recovery. At the time of the audit, EMD was revising this document. It is acknowledged that the lack of consistency does not invalidate the BCPs in place.
+None of the BCPs reviewed showed a valid current IT component, attached to the plan. ITB's action plan subsequent to the recent IT Continuity Planning audit is intended to rectify this situation, and is being undertaken in a parallel process, under the control of ITB.
+Recommendations
+EMD, jointly with Regional Security and Branch BCP Coordinators should take steps to ensure that all sites are aware of and apply the revised BCP Guide instructions (Appendix to Chapter 4 of FAM) for the preparation of their plans.
+EMD should review the current BIA grid/methodology, in consultation with users, and provide training in use of the revised BIA.
+Call letters for BCPs should remind local BCP coordinators to use the updated inventory of Agency Critical Business Functions in their site BCP planning.
+Action Plan
+EMD has reiterated with the regions and branches the policy requirement to have BCPs prepared in the new format as they are updated, by March 31, 2006, and will continue to do so.
+A new Business Impact Analysis grid will be created by EMD and incorporated in Chapter 4 of the Security Volume, FAM by December 2005. Increased BCP awareness activities will also assist offices in understanding how this grid should be used.
+On May 24, 2005, EMD presented a list of the Agency Critical Business Functions to the Security Steering Committee. Members agreed that the list would be circulated to all Branch Heads for final approval.
+Communication of BCPs
+The
+Guide
+requires that sites distribute copies of plans and updates, to those responsible for managing incident and recovery operations. Copies should be provided to the local Director, Assistant Directors, BCP Management Team, Security and Emergency Measures Team, Public Affairs Team, Regional F&A Director, and Security Directorate. Copies must be readily accessible to these individuals when activation is required. In addition, a copy of the plan must be stored off-site.
+The audit found this requirement to be met, with most recovery team members having received copies of their site plans, and the local office Director ensured a copy was retained offsite. However, there were few indications that updates are circulated. The
+Guide
+currently specifies that distribution of the completed BCP and of any updates will occur, but does not specify who should undertake this distribution. It also suggests that BCPs be distributed to stakeholders. However, the audit found that BCPs are not routinely exchanged between sites. Interviewees were also uncertain whether backup sites know they have this backup role, or how others sites' BCPs, if activated, might affect their own operations. The Guide contains little information in regard to how to make these arrangements with the alternate site, and who is responsible. This in turn creates a risk to smooth activation of BCPs in the event of a disaster.
+Recommendations
+EMD and Regional Security should clarify who has responsibility for the ultimate distribution of BCPs. As well, EMD should clarify how sites should make arrangements with alternate sites.
+Action Plan
+EMD will amend the policy/guidelines by December 31, 2005 to include distribution to all those who have roles or responsibilities within the plan, according to the requirements of their role or level of involvement. EMD will amend the policy /guidelines to ensure that document control procedures, including copy distribution and amendment records are instituted and followed by plan owners. EMD will also improve the advice offered in the
+Guide
+with respect to arrangements with backup sites.
+Testing of BCPs
+The testing of plans allows participants to become familiar with the functionality of their plans before a disaster occurs, and thereby reduces the potential for faulty decisions, confusion, extended recovery time, and excessive costs when a plan has to be activated. A common form of testing takes teams of participants through a simulated emergency (tabletop test), allowing them to review and discuss the actions they would take per their BCPs, without actually performing these actions.
+The audit found that the Agency policy requirement to test BCPs regularly was not met. No recent testing had occurred in A&CS. A tabletop exercise was conducted in NOR in Belleville in January 2005. This exercise was intended as a training session for the newly appointed BCP coordinator, who would then conduct exercises throughout the region. In Pacific Region, two offices had conducted tabletop exercises, led by EMD in January 2005, and two others conducted similar tests in 2001-2002. EMD is now expanding its tabletop testing; it has been well received. To maintain business continuity during an emergency requires that all stakeholders understand their roles and responsibilities. Tabletop testing provides this understanding, directly involving stakeholders in a quick, intensive training experience. It offers educational value for managers at all levels, as well as for staff on site BCP teams who are often only temporarily assigned to this type of planning.
+Recommendations
+Tabletop testing should be expanded to ultimately encompass all sites within the Agency, with EMD responsible for facilitating sessions at HQ and for training regional BCP coordinators to facilitate sessions within regions.
+Testing of plans should be done regularly and records kept by regions and reported to EMD when these are conducted.
+Action Plan
+EMD fully agrees with the first recommendation and is proceeding. Six regions have received the train-the trainer tabletop testing. EMD will retain this training responsibility at HQ, at least for now, with similar training exercises to be conducted following completion of HQ BCPS and approval of Agency Critical Business Functions, with a target for completion in 2006.
+Testing will be completed during fiscal 2005-2006 and every two years thereafter; the latter has been discussed with Treasury Board Secretariat (TBS) and found to be fair and reasonable. EMD will also institute a requirement for a short post-test report, to include type of test, participants and lessons learned.
+Maintenance of BCPs
+Agency policy calls for sites to update their BCPs. There is some lack of consistency between policy documents respecting how often this should be done, paragraph 4 of the
+Guide
+(Appendix to Chapter 4 of FAM) indicates “annually”, whereas the FAM policy chapter indicates “periodically.” Security Directorate has responsibility for ensuring that plans are updated, although it presently has no formal mechanism for this. Policy also calls for monitoring of Agency readiness – this implies review and monitoring of BCPs and feedback to plan developers.
+The audit found that of the ten offices where BCPs were reviewed, seven had either developed a BCP for the first time or updated it to at least some degree during the preceding 12 months. For two other offices, revision dates were March 2003 and January 2000, and the last office had a plan that had existed only as a series of drafts since 2002. A plan that is out of date may be less than effective when activated in an emergency.
+EMD conducted a survey in 2003-2004 of Business Continuity and Emergency plans. It was reported that 132 out of 136 sites had Business Continuity plans. BCP status was again surveyed in March 2005. To date, some limited sampling has been done to provide advice, confirm quality or procedures, usually upon request by those in process of developing a plan. More systematic review and feedback could improve the quality of plans, ensure adherence to the current
+Guide
+format, and encourage cross-reference to the Agency Critical Business Functions inventory for recovery times.
+Recommendations
+Security Directorate should implement and monitor a requirement for the regular and ongoing updating of BCPs. Regional BCP Coordinators should annually issue reminders for local site coordinators to update BCPs; EMD should remind HQ coordinators.
+Security Directorate should implement a monitoring program to ensure that BCPs contain all of the required information and elements, and that recovery times correspond with those for HQ critical business functions. Follow-up with BCP developers should occur where plans are missing required information/elements, or BIAs are not done correctly. Regional BCP Coordinators should review BCPs in their home regions; EMD should monitor HQ functional branch BCPs.
+Action Plan
+EMD will reword the policy to ensure consistency in the review procedures, i.e, to read, “updated annually or whenever there are significant changes to the organization, functions or service levels.” This change will be completed by December 2005. EMD's revised policy, scheduled for December 2005, will reflect the recommendation in regard to issuing annual reminders.
+EMD and Regional Security will monitor plans. The FAM Security Chapter 4 will be amended accordingly by December 2005. Furthermore, EMD will conduct random sampling of plans, as agreed upon jointly with each Region, beginning in fiscal 2006-2007. EMD will review these selected plans for process only, however, it will not comment on the content from the program perspective. Various types of exercises (table-top, communication, operational, command and control) can be used to validate content and currency of plans.
+Level of Guidance and Support
+The audit found additional opportunities for EMD to strengthen its guidance and support to CRA operations, to help them keep their BCPs in better compliance with policy requirements.
+In terms of information provided by EMD to support the development of site BCPs, most interviewees expressed satisfaction with current policies and the
+Guide
+. At the same time, effective governance in any area requires understanding of roles and responsibilities, and many interviewees felt unsure in this regard. In particular, local staff assigned by Directors to coordinate or participate in business continuity planning for sites lacked a clear understanding of what the BCP is supposed to do for them at their particular site. They also did not understand the purpose of its various components, the terminology, and associated roles and responsibilities. The Agency's governance and organizational structures in the area of business continuity (and wider emergency) planning was not well understood.
+Interviewees expressed the need for training, particularly in how to design an effective BCP. Most had not received any such training or were unaware of what was available. All interviewees (including local BCP Coordinators and managers named in the plans as recovery team members) agreed that some sort of “awareness” session at the very least would be beneficial.
+Recommendation
+Security Directorate, in consultation with Regional F&A, should act to ensure that key players in field office business continuity planning understand their roles and responsibilities.
+Action Plan
+Specific roles of BCP Coordinators were addressed in the new Regional Security structure, which was announced on May 26, 2005.
+The tabletop exercises being conducted in all the regions will assist in creating the required culture change and recognition of the importance of having in place a sound business continuity planning program.
+In addition, during Emergency Preparedness Week (May 1-7, 2005) presentations were shown daily to all employees on InfoZone and comments solicited. They covered the BCP Program – prevention, preparedness, response and recovery. The employee feedback will help EMD focus its subsequent awareness efforts. Awareness activities will also take place for Fire Prevention Week in October.
+Recommendation
+An orientation session should be designed and provided to staff on how to develop a BCP, with regional BCP coordinators trained to deliver this session to site BCP coordinators in the regions, and EMD conducting the session at HQ.
+Action Plan
+All F&A Regional Security Coordinators have now participated in BCP “train-the-trainer” sessions. EMD agrees that training sessions must be conducted at HQ. A BCP training session was provided to the Policy and Planning Branch in March 2005 and to the Human Resources Branch in May. In addition, three meetings were held with HQ BCP Coordinators at which training was conducted. Additional training will be provided upon request.
+A MS PowerPoint presentation that follows the BCP development process was put on the web in June 2005, as orientation material. The regions were informed of that fact.
+Treasury Board Secretariat (TBS) is also conducting a 3-day course across the country and the regions have been encouraged to attend.
+Conclusion
+The sites audited in Northern Ontario and Pacific Regions, and A&CS had BCPs developed for their sites. These were in compliance with Agency policy requirements, but not all were adhering to the latest format for plans or to the approved methodology for establishing priorities for business recovery. Sites are also meeting policy requirements to communicate these plans to operational staff responsible for incident and recovery operations. However, staff were uncertain whether backup sites know they have this backup role, or how others sites' BCPs, if activated, might affect their own operations. The requirement for regular testing of plans was not being met, and updating of plans is not occurring consistently. Roles and responsibilities in the area of business continuity planning are not clear to many who are involved in developing BCPs, and most expressed a need for more training in this process. Staff on site BCP teams are often only temporarily assigned to this type of planning.
+EMD has outlined action plans to address these issues by providing clearer guidance and direction to sites, chiefly through expansion of its tabletop testing, which is helpful in providing an understanding of roles and responsibilities, and updates to its policy and
+Guide
+. EMD will also implement and monitor a requirement that BCPs be tested on a regular basis, and sample and provide feedback to sites on the quality of their plans. Direct or web-based training will be provided for staff on BCP development. Finally, more direct involvement and support of senior management at the local level, e.g. through tabletop exercises, and Headquarters level, e.g. through involvement in identifying and validating Agency critical business functions, will bring about a culture change that recognizes the importance of the business continuity program.
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2006-01-20

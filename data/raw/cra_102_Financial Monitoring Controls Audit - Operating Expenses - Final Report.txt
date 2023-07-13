@@ -1,0 +1,223 @@
+Financial Monitoring Controls Audit - Operating Expenses
+Final Report
+Corporate Audit and Evaluation Branch
+October 2010
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+1.0 Framework Design and Compliance with Monitoring Controls
+2.0 Oversight of Monitoring Controls
+Conclusion
+Executive Summary
+Background
+: The Canada Revenue Agency (CRA) is required under the provisions of the
+Canada Revenue Agency Act
+to submit financial statements for its operations as part of the Agency's Annual Report to Parliament. Two sets of financial statements are prepared each year by the Financial Administration Directorate (FAD) of the Finance and Administration (F&A) Branch in CRA. One set is for reporting of revenues and expenses processed by the CRA in the administration of tax laws and benefit programs (referred to as Administered Activities) and the other set of statements cover operational expenses and revenues (Agency Activities). Activities that are carried out by CRA in meeting its mandate are financed through Parliamentary appropriations which in the 2010-2011 Main Estimates amounted to $4.5 billion.
+[Footnote 1]
+F&A has implemented an ongoing
+Financial Administration Monitoring Framework
+(the Framework) to ensure accounting information is accurate, complete and timely.
+[Footnote 2]
+The Office of the Auditor General (OAG) is responsible for auditing and issuing an opinion on the fair presentation of CRA's financial statements each year.
+The Framework provides a common basis from which the effectiveness of the monitoring processes and controls for financial activities can be assessed across the Agency. It is structured in the same way as the financial statements and there is a separate section for the monitoring of assets, liabilities, expenses and revenues. The audit of the operating expense monitoring controls is to be the first of a series that will, over time, look at each of these key activities. Subsequent audits will be planned using a risk-based approach and in consultation with F&A.
+Objective:
+The objective of the audit was to assess the adequacy of the design and operation of the key ongoing monitoring processes and controls set out in the
+Financial Administration Monitoring Framework
+for Agency Activities related to the reporting and accounting of operating expenses.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Conclusion
+: Overall, operating expense monitoring controls are in place and carried out in a manner consistent with the Framework. Critical errors
+[Footnote 3]
+were found in monitoring activities related to invoice documents and payments, however the largest error affecting the dollar value of operating expenses in the financial statements was of $91. These monitoring activities should be improved to enhance the design, effectiveness and oversight, as this will better enable F&A to assess the degree to which the objectives of the Framework are met and will contribute to the overall accuracy and completeness of operating expense transactions.
+Action Plan:
+F&A recognizes the need for improvements to key monitoring activities for invoice documents and payments and has action plans in place to address them. Action plans include improvements to the identification and review of transactions, quality assurance processes and degree of headquarters oversight of the controls activities.
+Introduction
+The Canada Revenue Agency (CRA) is required under the provisions of the
+Canada Revenue Agency Act
+to submit financial statements for its operations as part of the Agency's Annual Report to Parliament. Two sets of financial statements are prepared each year by the Financial Administration Directorate (FAD) of the Finance and Administration (F&A) Branch in CRA. One set is for the reporting of revenues and expenses processed by the CRA in the administration of tax laws and benefit programs (referred to as Administered Activities) and the other set of statements cover operational expenses and revenues (Agency Activities). Activities that are carried out by CRA in meeting its mandate are financed through Parliamentary appropriations which in the 2010-2011 Main Estimates amounted to $4.5 billion.
+[Footnote 4]
+F&A has implemented an ongoing
+Financial Administration Monitoring Framework
+(the Framework) and makes use of a
+Transition to New Year
+document to ensure accounting information is accurate, complete and timely.
+[Footnote 5]
+The Office of the Auditor General (OAG) is responsible for auditing and issuing an opinion on the fair presentation of the CRA's financial statements each year, and F&A relies on these controls as a means of mitigating the risk of receiving a qualified opinion on the Agency Activities statements.
+The Framework for the Agency Activities is structured in the same way as the financial statements themselves and there is a separate section for the monitoring of assets, liabilities, expenses and revenues. It is a large and comprehensive document in which roles, responsibilities and monitoring processes for the various types of transactions included under each of these sections are set out in detail. Monitoring responsibilities are carried out by finance officers in the regions and at Headquarters (HQ) as well as at the level of the budget manager.
+The Framework provides a common basis from which the effectiveness of the monitoring processes and controls for financial activities can be assessed across the Agency. The internal audit of the operating expense monitoring controls is the first of a series of audits that will, over time, look at each of the key activities.
+Focus of the Audit
+The objective of the audit was to assess the adequacy of the design and operation of the key ongoing monitoring processes and controls set out in the
+Financial Administration Monitoring Framework
+for Agency Activities related to the reporting and accounting of operating expenses.
+While salary and benefit expenses make up the largest share of operating expenses in CRA, audit testing did not look at the accuracy and completeness of these transactions as more extensive work related to these expenses had recently been completed in the 2008 Compensation Management internal audit.
+[Footnote 6]
+In addition, the delegated financial authorities set out in the
+Financial Administration Act
+were not addressed as these are the subject of an internal audit currently underway.
+[Footnote 7]
+Audit testing was carried out in the Atlantic, Quebec and Ontario regions as well as in F&A at HQ during 2009-2010. All monitoring activities identified in the Framework for operating expenses were subject to review with one exception. Monitoring responsibilities assigned to budget managers in relation to exercising their financial authorities and approving expenses did not fall within the scope of this audit, as noted above, and were therefore not assessed.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings, Recommendations and Action Plans
+1.0 Framework Design and Compliance with Monitoring Controls
+The monitoring responsibilities and procedures for operating expenses, as set out in the current Framework
+,
+focus on five control areas:
+invoice documents and payments;
+cost assignment and budget variances;
+salary reconciliation;
+posting of real property expenditures; and
+cancelled cheques.
+Audit work was performed in each of the five areas; however, testing was primarily centered on the key monitoring requirements established for invoice documents and payments since these are applicable to all operating expenses.
+Comments from interviews and results of document reviews indicate that the design of the monitoring controls was consistent with Treasury Board policies and directives and aligned with standard accounting assertions. The Framework document itself is also accessible and available in both official languages on Infozone. It is periodically reviewed and updates to the controls are routinely incorporated into review procedures and communicated to those assigned monitoring responsibilities in the related work areas.
+The operation of the controls in the five areas was also examined through interviews with those responsible for conducting the controls and walkthroughs of the control processes. Overall, monitoring activities were carried out by financial staff in a manner consistent with what is described in the Framework. There were instances where differences were observed in the frequency of a review or in the area that actually carried out the review process, but this did not have an impact on the end results of the monitoring itself.
+However, compliance testing
+[Footnote 8]
+conducted by the audit team to assess the design and effectiveness of the monitoring controls in the Framework did indicate that there were opportunities to improve certain aspects of the monitoring processes for invoice documents and payments which, if addressed, would add to its overall effectiveness. These findings are summarized in the sections that follow.
+1.1 Pre-Payment and Post-Payment Reviews - Design
+Key monitoring processes for invoice documents and payments are currently comprised of two separate reviews involving the monthly examination of payment documents in each region. The design of the pre-payment and post-payment reviews is effective, however there were areas where improvements could be made in relation to the transaction selection processes as well as in the documentation and analysis of the review results.
+All high risk/sensitive transactions are subjected to a pre-payment review and medium-low risk transactions are randomly selected on a statistical sample basis to undergo a post-payment review. The transactions that are considered high risk or sensitive are established by F&A and listed in the Framework. These include, among others, transactions greater than $5,000, tuition advances, salary advances, hospitality claims and payments to another level of government.
+The Corporate Administrative System (CAS) is programmed to select high-risk/sensitive transactions automatically, with the exception of certain items that must be manually identified for review at the time the transaction is entered. These exceptions include, for example, extended travel and combined personal and business travel.
+In the Frameworkthe roles and responsibilities for pre-payment review are currently not defined and local practices vary as to whether financial services agents identify and review transactions that were not manually identified for pre-payment review at the time that they were created.
+In addition, audit testing indicated an inconsistency in the automated identification of transactions for pre-payment review. The high-risk/sensitive transaction selection program in CAS does not identify interdepartmental settlement transactions for pre-payment review even when they meet high-risk/sensitive criteria.
+The selection criteria established by F&A for the pre-payment review have not been re-examined since implementation in 2002; therefore, it is not known if they all still remain relevant (i.e. continue to reflect a high degree of risk) or complete. Without regular review for relevancy, key risks may not be addressed by current selection criteria for monitoring purposes.
+For post-payment review, medium and low risk transactions are randomly selected for monthly statistical sampling by CAS. However, the population is not stratified prior to sample selection and, in one region, the current process resulted in a relatively low dollar value (i.e. $1 to $6) of post-payment review samples that made up 30% of the total sample selected. This results in lost opportunities for more efficient allocation of resources and also increases the risk that samples are not sufficiently representative to reflect the actual error rate of medium and low risk transactions.
+For both types of review, the Framework does not define roles and responsibilities for documenting results within the financial files, and the level of detail included by finance staff for the audit samples varied significantly. Some files were only initialled, while others contained a complete checklist of fields reviewed. In addition, although financial services agents are required to question transactions that appear not to be business related, supporting information on file explaining the purpose of such transactions was not always sufficient. Insufficient requirements for documentation of review may give the appearance of a lack of accountability that may make efforts to detect and prevent errors less effective.
+Monitoring results from pre-payment or post-payment transaction review are not systematically compiled and analyzed to ensure the ongoing relevance and effectiveness of the monitoring of specific types of transactions. Without this type of analysis, it is difficult to mitigate the risk of errors against the extent of monitoring in place, or to determine the extent to which established monitoring controls are working as intended.
+Recommendation 1
+FAD should revise the Framework to clarify and give more details on roles and responsibilities related to pre-payment and post-payment review processes, quality review and oversight. The Framework should also elaborate the extent to which financial services agents should request and document justification to validate the business-related needs for transactions, and their responsibilities regarding the identification and review for transactions that should have been manually marked for pre-payment review but may have been missed.
+Action Plan
+The Financial Reporting and Accounting Division (FRAD) in FAD will modify the Framework to reflect the roles and responsibilities for pre-payment and post-payment review processes, monitoring and oversight as part of the next scheduled update. Financial services agents are required to question transactions that appear not to be business related. The FRAD will ensure that this requirement is clearly stated in the procedures as well as the need to document the results of such enquiries. Planned start is September 2010 and target completion date is December 31, 2011.
+Recommendation 2
+FAD should work with the regions to develop procedures for recording and analyzing data on the type and frequency of errors at the regional and national level for pre-payment and post-payment reviews, and use this analysis as a basis for determining the ongoing relevance and effectiveness of specific review criteria.
+Action Plan
+The FRAD will modify the Framework to add recording and analyzing data on the frequency of error for both the pre-payment and post-payment review controls. The FRAD will review the relevance and effectiveness of pre-payment review criteria. Planned start is September 2010 and target completion date is December 31, 2011.
+Recommendation 3
+FAD should review business requirements for CAS transaction selection programs for pre-payment and post-payment review in order to ensure they meet the established criteria.
+Action Plan
+The FRAD will review the transaction selection programs for post-payment review in CAS for potential improvements.
+The FRAD and the Financial Policy, Systems and Control Division (FPSCD) in FAD will explore the feasibility of system automation for the identification of high-risk/sensitive transactions currently needing manual identification for pre-payment review. The FRAD will also assess opportunities for introducing compensating controls prior to the issuance of the payment.
+This will be done by the FRAD and the FPSCD starting in January 2011.
+1.2 Pre-Payment and Post-Payment Reviews - Effectiveness
+Audit tests conducted to assess compliance to monitoring processes indicated opportunities to improve documentation and overall effectiveness. A sampling approach was used to further assess the effectiveness of the operation of the pre-payment and the post-payment reviews.
+Three groups of operating expense transactions (135 per group) were randomly selected from CAS for 2008-2009 from three separate populations:
+high risk and sensitive transactions;
+medium and low risk transactions that had undergone a post-payment review; and
+medium and low risk transactions that had not been reviewed.
+Audit testing was designed to assess the attributes of each group (critical errors
+[Footnote 9]
+as defined by F&A) rather than the dollar value impact of errors found. The sample size was sufficient to allow the error rates obtained from the sample analysis to be used to conclude on the probability that the population error rate exceeded the threshold and tolerable error rates set by F&A.
+For purposes of the testing for this audit, a tolerable error rate was agreed to by Internal Audit and F&A for the first two groups of samples taken from transactions that had been previously reviewed by finance staff. Although it was expected that these groups should not have any remaining errors, a margin of error (2%) was granted in recognition of the manual nature of these reviews. The tolerable error rate used for the third group of samples taken from the remaining medium/low risk transactions that had not been reviewed by financial staff was 10% as specified in the F&A Statistical Sampling Policy.
+The Framework defines a critical error as being one that requires a correction to be made and identifies four basic categories in which they fall: non-compliance with legal requirements or incorrect information related to the payee, amount or coding. Examples of these that were observed in the audit testing included: original receipt or invoice not on file (without justification), improper authorization, hotel charges that were above the contract rate, incorrect General Ledger (GL) account and Reporting Object coding, and incorrect jurisdiction and tax codes.
+While the percentage of total critical errors found exceeded the tolerable rates
+[Footnote 10]
+, only 8 of the 40 errors had an impact on the dollar value of the operating expenses. The majority of these errors (5 of 8) however, involved less than $5 while the remaining ranged from $14 to $91.
+Different factors that were found to have contributed to the error rates observed in the transactions previously reviewed by financial staff include inconsistencies in the documentation of the results, in quality review practices, and in follow through of corrective action. As a result, critical errors are not corrected prior to the issuance of payments for high risk transactions, and post-payment error results reported for medium and low risk transactions could be underestimated and hence less reliable in determining whether the actual error rates are within the tolerable limits.
+For the medium and low risk transactions not previously reviewed, the understatement of errors in post-payment review as noted above contributes to the higher critical error rate observed. The error rate observed exceeds the tolerable limit and this demonstrates the need for error analysis to be performed to determine where most frequent critical errors occur in order to take remedial action.
+Furthermore, compliance testing revealed that monitoring controls do not include the reconciliation of the total of all hospitality expenses against the original authorized amount for the events. This is a gap in the controls that may result in hospitality expenses exceeding authorized amounts.
+A total of 60 transactions from specific types of GL accounts were selected to determine if miscoding could compromise the pre-payment control. Of this total, 44 were incorrectly coded to a GL account and reporting object. Forty of the 44 errors related to acquisition card transactions; 34 of the 44 errors were to GL accounts with "Miscellaneous" or "Other" in the title, for example Miscellaneous Materials and Supplies (77745), Other Professional Services (74425) and Other Business Services (74762). Eight of the 44 errors were hospitality or refreshment and meals expenses which were coded to GL accounts that do not meet criteria for pre-payment review and consequently, the pre-payment review was bypassed.
+The complexity of the chart of accounts contributes to the risk of such errors, as it contains approximately 460 GL accounts, divided between 40 reporting objects, to which discretionary operating expenses can be coded.
+Recommendation 4
+FAD should work with the regions to ensure that pre-payment and post-payment review activities are consistently documented in logs and in individual financial files at the time of review and that the Framework elaborates procedures on how and by when corrective action should be taken.
+Action Plan
+Logs documenting post-payment review activities currently exist however, F&A agrees that maintaining additional information would be beneficial. The FRAD will undertake to expand the documentation of the monitoring steps performed, including sign-offs by the staff involved. As for pre-payment review activities, evidence of review is currently documented for every transaction but F&A acknowledges that additional information, including the type of errors found, would be useful. The FRAD, in consultation with the regions, will revise the approach with the view of improving the process starting in September 2010. Target completion date: March 31, 2011.
+Recommendation 5
+FAD should work with regional finance areas to clearly identify and include in the Framework roles and responsibilities to ensure verification of total hospitality expenses against the original authorized amount.
+Action Plan
+The FRAD will establish a process to ensure that hospitality expenses are reviewed to ensure they don't exceed the authorized amounts. The start date is September 2010 and target completion date is December 31, 2010.
+Recommendation 6
+FAD should undertake a review to determine the feasibility of reducing the number of GL accounts for discretionary operating expenses while maintaining a sufficient level of detail to meet internal and external reporting requirements and to clarify ambiguities in GL account descriptions where they are most frequently encountered.
+Action Plan
+FAD agrees that additional details are needed in the description of GL accounts. A review of all GL accounts was commenced in September 2009 by FAD. The objective of the review was to reduce the number of GL accounts and clarify the descriptions as recommended. The expected date of completion of the review is December 31, 2010.
+In addition, starting in September 2010, FRAD will perform additional monitoring on all GL accounts that have "Miscellaneous" or "Other" in the descriptions in order to ensure that transactions coded to these accounts are appropriate.
+2.0 Oversight of Monitoring Controls
+The Framework is reviewed by FAD at least annually and on an ad hoc basis as required, to assess and ensure that monitoring activities remain relevant. Although a formal documented change process is not in place, the Operating and Maintenance (O&M) unit of FAD annually requests updates from associated stakeholders (i.e. Human Resources Branch, Real Property and Service Integration Directorate, Resource Management Directorate, Non-Financial Asset Accounting Unit, etc.) and an electronic record is kept of the comments and decisions.
+Without a log of change requests, assessments cannot be completed to ascertain whether recommended changes are implemented on a timely basis. However, most changes are initiated in-house by FAD rather than from external stakeholders. Changes are communicated to stakeholders in a timely manner in advance of an actual update of the Framework.
+In pre-payment and post-payment reviews, corrective action took place in the form of team leaders identifying and providing training to financial service agents and by financial services staff communicating with client branches or offices in order to correct and prevent the occurrence of errors. An additional group of 40 transactions was selected from transactions in which errors had been identified in post-payment review undertaken by finance. It was found that corrective action had not been completed before the fiscal year-end for 28% (11 of 40) of these transactions.
+Quality assurance of invoice documents and payments subject to monitoring activities was limited. Transactions subject to pre-payment review were not systematically reviewed to assess the quality of the verification. Furthermore, only one of the four regions reviewed the quality of verification in post-payment review beyond confirmation of errors detected as part of the initial verification.
+Limited oversight was provided by the FAD for monitoring activities related to invoice documents and payments. The FAD did not review pre-payment review activities and, for post-payment activities, the review was limited to consistently high regional error rates and whether regional statistical sampling batches had been processed in a timely manner. FAD review did not include an assessment of the quality of the results of monitoring activities or verification that corrective action was taken when critical errors were observed.
+Recommendation 7
+FAD should ensure more rigorous quality review of pre-payment and post-payment review activities and expand the oversight function in HQ to verify that processes are being followed, to assess the quality of the results, and to verify that corrective action takes place to address deficiencies.
+Action Plan
+F&A concurs that additional oversight of the post-payment review process is required. The monitoring group within the FRAD will review the process. This will include verifying, via review, the post-payment review results submitted by the transactional sites, reviewing/clarifying the definition and classification of errors, as well as providing guidance regarding the correction of identified errors. Once implemented, the FRAD will be performing these reviews monthly.
+For pre-payment review, in addition to keeping a log of errors found, and in consultation with the regions, the FRAD will undertake to standardize the desk procedures and checklists nationwide to ensure consistency. Training material will also be updated to address these issues.
+These initiatives will be started in September 2010 with a target completion date of December 31, 2011.
+C
+onclusion
+Operating expense monitoring controls are in place and being carried out in a manner consistent with the Framework. Weaknesses were found in the effectiveness and oversight over key monitoring activities which limit the ability of F&A to monitor the degree to which the objectives of the Framework are being met. F&A recognizes there are improvements that could be made in certain areas and has action plans in place to address the issues identified in the audit. Action plans include improvements to the identification and review of transactions, quality assurance practices and degree of headquarters oversight of the controls activities.
+Footnotes
+Footnotes
+Footnote _ftn1
+Treasury Board of Canada, Estimates and Supply, 2010-2011 Main Estimates
+Return to footnote
+_ftn1
+Referrer
+Footnote _ftn2
+A policy outlining a similar monitoring framework for the Administered Revenues statements came into effect April 2010.
+Return to footnote
+_ftn2
+Referrer
+Footnote _ftn3
+Critical Error - an error serious enough to require that a correction be made, while a non-critical error is considered not material and poses minimum risk. The critical errors found through the sampling process form the basis for measuring the adequacy and accuracy of the verification process
+Return to footnote
+_ftn3
+Referrer
+Footnote _ftn4
+Treasury Board of Canada, Estimates and Supply, 2010-2011 Main Estimates
+Return to footnote
+_ftn4
+Referrer
+Footnote _ftn5
+A policy outlining a similar monitoring framework for the Administered Revenues statements came into effect April 2010.
+Return to footnote
+_ftn5
+Referrer
+Footnote _ftn6
+The accuracy and timeliness of pay transactions was reviewed.
+Return to footnote
+_ftn6
+Referrer
+Footnote _ftn7
+Internal audit of
+Financial Administration Act
+(FAA) Accountabilities - Agency Activities
+Return to footnote
+_ftn7
+Referrer
+Footnote _ftn8
+Compliance testing determined whether transaction review monitoring activities carried out by financial staff adhered to the processes as they are described in the
+Framework
+.
+Return to footnote
+_ftn8
+Referrer
+Footnote _ftn9
+Critical Error - an error serious enough to require that a correction be made, while a non-critical error is considered not material and poses minimum risk. The critical errors found through the sampling process form the basis for measuring the adequacy and accuracy of the verification process
+Return to footnote
+_ftn9
+Referrer
+Footnote _ftn10
+The statistical probabilities that high-risk/sensitive transactions subjected to pre-payment review, medium/low risk transactions previously subjected to post-payment review and medium/low risk transactions not previously reviewed exceed their established critical error thresholds are 99.95 %, 70 % and 92 %, respectively.
+Return to footnote
+_ftn10
+Referrer
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2011-01-07

@@ -1,0 +1,321 @@
+Internal Audit - Risk Assessment and Audit File Selection in Compliance Programs
+Final Report
+Audit, Evaluation, and Risk Branch
+November 2016
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+1.0 Risk Assessment
+2.0 File Selection
+Conclusion
+Acknowledgement
+Appendix A
+Appendix B
+Appendix C
+Appendix D
+Appendix E
+Appendix F
+Executive Summary
+Background:
+Canadians expect that the Canada Revenue Agency (CRA) is well managed, information is safeguarded, and resources are used effectively and efficiently, while ensuring that taxpayers meet their compliance obligations. They also expect integrity and fairness in our processes, which promote the consistent treatment of all taxpayers.
+Domestic Compliance Programs Branch (DCPB) and International, Large Business and Investigation Branch (ILBIB) have mandates to enhance compliance with the laws the Agency administers. Programs within the branches include client service, education, as well as verification and enforcement activities to promote GST/HST and income tax compliance. The verification and enforcement activities include reviews, examinations, audits, and investigations.
+DCPB and ILBIB have developed risk assessment and audit file selection processes to aid in identifying the highest risk areas of non-compliance in each program activity. The objective of these processes is to address non-compliance while effectively and efficiently utilizing the resources available. Each program has a unique combination of electronic and manual risk assessing and file selection processes to identify high risk cases of non-compliance in order to take appropriate corrective measures, and generally deter non-compliance.
+Focus of the Audit:
+The objective of this audit is to assess the existence and effectiveness of the control environment with respect to the risk assessment, workload development, and audit file selection processes in place for selected DCPB and ILBIB programs to ensure they support program and branch goals and objectives.
+Conclusion:
+The Agency applies risk assessment in selecting files for audit and over the past three fiscal years, according to the Annual Report to Parliament, the tax revenue impact from CRA audit has grown. The Agency makes use of risk assessments from establishing the context of risk at the strategic level, through the functional and business line levels to addressing risk through detailed operational risk assessment at the program and activity levels. Risk assessments are undertaken throughout ILBIB and DCPB to identify areas of potential non-compliance and then using that information to select high risk files for audit.
+The audit revealed certain opportunities for enhancements to both risk assessment and file selection processes, including efforts to continuously improve the effectiveness of the risk identification activity, such as continuing to invest in and refine automated tools and improved data analysis capacity. To further enhance the control environment, ILBIB and DCPB need to ensure that all their programs have strong controls in place to monitor and evaluate processes against established goals and objectives.
+Improved information sharing and communication between the independent processes is needed to better leverage existing risk intelligence, and more generally, to better inform both risk assessment and file selection processes.
+Recommendations and Action Plans:
+Management agrees with the recommendations in the audit report. Action plans are in place for all of the recommendations and for those related to greater automation, funded in Budget 2016, execution of the plan is underway. Generally, most of the action plans are dedicated to monitoring and evaluating the risk assessment and audit file selection processes so that the programs can continuously improve the manner in which they identify and address areas of potential non-compliance. Specific action plans to address each recommendation are outlined in the appendices.
+Introduction
+Canadians expect that the Canada Revenue Agency (CRA) is well managed, information is safeguarded, and resources are used effectively and efficiently, while ensuring that taxpayers meet their compliance obligations. They also expect integrity and fairness in our processes, which promote the consistent treatment of all taxpayers.
+CRA has established and maintained broad systems of internal control to help mitigate the risks related to the achievement of program goals. Internal control activities are designed to provide reasonable assurance that particular objectives are achieved as intended and may be categorized by the type or nature of activity. It is important to understand that no one control measure alone can provide adequate assurance; rather it is their combination that provides strength in the internal controls.
+To enhance compliance with the laws the Agency administers, the Domestic Compliance Programs Branch (DCPB) and International, Large Business and Investigation Branch (ILBIB) have programs that make use of client service, education, and verification and enforcement activities to promote GST/HST and income tax legislation compliance. The verification and enforcement activities include reviews, examinations, audits, and investigations.
+DCPB and ILBIB have developed risk assessment and audit file selection processes to aid in identifying the highest risk areas of non-compliance for each program activity. The objective of these processes is to address non-compliance while effectively and efficiently utilizing the resources available. While each program has this common objective, each program subject to our review had a unique combination of electronic and manual processes tailored to their program needs. The intent of these processes was to identify high risk cases of non-compliance in order to take appropriate corrective measures, and generally, to deter non-compliance.
+To facilitate the risk assessment and file selection, DCPB and ILBIB created business intelligence/workload development areas within each of their compliance programs. In 2013, the Business Intelligence and Quality Assurance Division (BIQA) was implemented as a business transformation initiative. BIQA is a centralized regional organization that reports to the Regional Assistant Commissioners and receives guidance from the functional programs in Headquarters. The Business Intelligence (BI) team gathers, analyzes, and integrates data from different sources in order to identify risk across the country. The information collected is then applied, in combination with other program-specific process information, to their screening process during workload development.
+The DCPB programs that employ the BI team are:
+Income Tax Small and Medium Business Audit Programs (SME)
+GST/HST Small and Medium Business Audit Programs
+Aggressive GST/HST Planning
+DCPB and ILBIB programs that have created their own independent risk assessment and file selection processes within their areas include:
+Criminal Investigations
+Scientific Research and Experimental Development (SR&ED)
+GST/HST Large Business Audit
+Offshore Compliance
+Refund Integrity Program (RI)
+Specialty Audit
+International and Large Business
+Focus of the Audit
+The objective of the audit is to assess the existence and effectiveness of the control environment with respect to the risk assessment, workload development, and audit file selection processes in place for selected DCPB and ILBIB programs to ensure they support program and branch goals and objectives.
+The following DCPB programs were included in this audit:
+GST/HST:
+Refund Integrity
+Aggressive GST/HST Planning (BIQA)
+Large Business Audit
+Small and Medium Audit (BIQA)
+Small Business and Medium Business Audit (Income tax) (BIQA)
+In addition, the following ILBIB programs were selected for inclusion:
+Offshore Compliance
+Criminal Investigations
+In total, seven compliance program areas were included in the scope of this audit. In line with the Audit, Evaluation, and Risk Branch Risk-Based Audit and Evaluation Plan 2016-2019, these programs were selected based on their size and the maturity of their risk assessment and file selection processes. The intent of the audit was to include as many programs as possible within the scope, however not all compliance programs were included, as explained below.
+International and Large Business Directorate in ILBIB and Specialty Audit Division in DCPB were programs excluded from this audit given that other recent engagements done by Internal Audit examined the risk assessment and audit file selection processes of these specific areas. In addition, the SR&ED program in DCPB was excluded from this audit as it was in the process of developing a new national risk scoring methodology for SR&ED claims in fiscal 2016-2017.
+The examination phase of the audit took place from March 2016 to August 2016.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings, Recommendations and Action Plans
+Through our examination of controls in place within the risk assessment and audit file selection processes, particular emphasis was placed on both the existence of controls, as well as their effectiveness in meeting the goals and objectives of the program. In assessing effectiveness, the internal auditors applied several audit criteria, such as the tools employed by the program and the controls in place to aid the program in assessing their individual contribution to effectiveness. While most programs have multiple goals and objectives, such as optimizing the allocation of resources, deterring non-compliance, and assessing/re-assessing tax, all controls reviewed were linked to a particular desired program outcome.
+Given that the seven compliance program areas selected for this audit originated from two separate compliance branches, each program had different operational environments that impacted the risk assessment and file selection processes. This report serves to identify common audit findings, highlight noteworthy good practices as well as certain opportunities for continued improvement.
+Detailed findings, recommendations and action plans by program are included as appendices to this report and referenced where relevant in the appropriate sections below.
+1.0 Risk Assessment
+Identifying risk
+CRA’s high-level compliance risks and strategies for risk identification and risk mitigation are developed at the Agency and Branch levels. The compliance branches, DCPB and ILBIB, further refine the various compliance risks within specific client segments and business lines. Sophisticated automated tools such as algorithms are then applied to client segments to create populations where risk may be present. Finally, operational level processes are designed to further refine the population to a more practical level that can be selected for audit. While conducting tests within the compliance programs, the internal audit team found strong evidence that all programs reviewed followed a documented process to identify risk, which is crucial to identifying files of potential concern for audit.
+The effectiveness of the risk assessment process is largely dependent on the information, inputs and the tools used for the initial risk identification activity. Including relevant, accurate and complete information, as well as employing automated tools, enables a more comprehensive and efficient process. DCPB programs included in this audit had access to adequate information available on CRA systems to factor into their risk assessments.
+External sources of information
+PROTECTED
+were also available to CRA staff to more accurately assess risk in certain populations of files. The GST/HST programs and the SME Income Tax program have developed algorithms to identify risk segments. All the programs had processes in place to review and amend the algorithms but the frequency at which this was done was inconsistent. The use of algorithms and other sophisticated data analytical tools and techniques may be powerful methods to aid the risk identification activity. However, there is a need to regularly review and amend the algorithms to further enhance the identification of risk.
+The Offshore Compliance program works within an environment where it is responsible for identifying taxpayers with overseas transactions that are, in some cases, trying to evade the CRA and their tax obligations. Presently, the program receives information in the form of large Electronic Funds Transfers (EFTs) from financial institutions and Treaty Information (TI) from foreign countries.
+PROTECTED
+Findings, Recommendations and Action Plans: Refer to Appendices: A - 1 and 2, B - 3, C - 1 and 2, D - 1 and 2, E -1 and 2
+Assessing risk
+Once the risks specific to the program have been identified, these risks need to be assessed with the intent to develop a workload for review. When assessing risk, the programs had criteria by which the staff responsible to assess specific risk in files analyzed the information gathered during the risk identification process. Each program had a checklist that itemized the criteria used to assess whether or not risk existed in a particular file. It is important to note that at this point forward, the assessment of risk is done on a case-specific basis.
+Internal Audit found several instances where the completed checklist was included in the file; the checklist documented when risk was identified in the file and provided justification for the file to be referred to the audit function. The checklist was included in the file to better inform the audit function of the important risk drivers and risks highlighted during the preliminary risk identification activity. Conversely, when risk was not identified in the individual file, programs still retained copies of the checklist on a shared drive for reference purposes and future analysis to further inform the risk assessment process. Retaining completed checklists and other relevant risk information is a good practice since it can provide the review function with up-to-date risk intelligence.
+All of the programs within the scope of the audit were strong in this area. The internal audit confirmed that each program assessed risk within the files and clearly documented the risk.
+Findings: Refer to Appendices C - 2, D - 4
+Prioritizing risk
+Generally, the audit found that programs maintained a strong risk-focus and prioritized risk throughout the process. This was reflected from the overarching compliance strategy set at the Agency and Branch levels, to the application of risk-based criteria included in the algorithms and the risk-screening tools such as the operational checklists. A good practice found is the cyclical reassessment of risk during the audit process. Depending on the needs of the program, some files were risk-assessed to create a hierarchy of priority files by risk level, while other programs determined the suitability of the file by risk criteria and created a pool of eligible files.
+The Refund Integrity (RI) program has developed an automated risk assessment process: the Pre-Assessment National Inventory (PANI),
+PROTECTED
+. After the implementation of the automated process in the 2012-2013 fiscal period, the increase in recoveries indicated that the combination of the PANI-automated and manual processes are more effective in identifying higher risk files. RI is able to specifically define their population (e.g., anyone filing a credit return) which allows the ability to better prioritize risk and measure effectiveness in achieving certain outcomes. Refund Integrity reviews its risk processes for credit returns in real time and will adjust algorithms and threshold based on intake and results.
+Findings, Recommendations and Action Plans: Refer to Appendices: C - 5, D - 4, E - 1 and 5, F - 1
+Monitoring and evaluating risk processes
+An effective risk assessment process is one that is formalized, clearly documented and permits continuous monitoring and feedback to better inform and improve the risk outputs, including risk information and decisions around audit file selection. As well, a monitoring process needs to be in place to review and inform the entire risk assessment process. Monitoring is essential to evaluating the process and identifying controls in the program that require strengthening.
+All of the compliance programs reviewed had well documented risk assessment processes including case-specific risk assessments. However, few programs had documented controls to monitor and evaluate the results of the overall risk assessment process. No formal processes were in place to monitor or review the risk assessments to ensure the Agency was targeting the best taxpayer segments given available information. Further, the internal audit did not find evidence that emphasis was given to monitoring the risk assessment process, even when the program had a well- established quality assurance program.
+During the monitoring and evaluation of the risk processes, it is imperative that decisions taken are clearly documented to better shape and provide reliable feedback for the entire risk assessment process. Documenting these decisions creates a history for the program and staff to build on previous work rather than being forced to start over in determining what risks have been effectively mitigated. Monitoring was not found to be a strong area of control for the programs subject to this audit, and improvements in this important control area have been identified.
+Findings, Recommendations and Action Plans: Refer to Appendices:  A - 3, B - 1 and 2, C - 3, D - 3, E - 3 and 4, F -2
+2.0 File Selection
+File selection process
+A strong file selection process is necessary to ensure the audit function within a program has appropriate files to review. Workload and file selection processes should consider the risk information identified in the risk assessment process, along with other important factors such as resource availability, capacity and knowledge of the auditors.
+Recent changes have taken place in DCPB and ILBIB to strengthen integrity controls by separating the workload development process from the audit function. As these processes are relatively new, the internal audit assessed the controls and tools that were in place to enable the program to effectively select files for audit. Given the separation of the audit and workload teams, it was evident that the newer file selection process is more dependent on the results of the risk assessment to identify files for audit. This will encourage better leveraging and sharing of risk information between processes and also allow for higher risk files to be more promptly addressed.
+Findings, Recommendations and Action Plans: Refer to Appendices: A - 4, B - 4, C - 4, E - 5, F - 3
+Monitoring and evaluating file selection
+As with the risk assessment process, in order to ensure the file selection process is working as intended, a monitoring process needs to be in place to review and inform the file selection process. Monitoring the selection of files would also include oversight of the processes and documentation that clearly demonstrates the linkage of the file selected to the results from the audit function. By linking these two processes, the workload development teams responsible for file selection can ensure that a robust and transparent file selection process is in place.
+The monitoring process for file selection should incorporate documented feedback from the various offices responsible for file selection at the local level and from the auditing functions themselves. In many instances, Internal Audit observed informal processes where the audit function provided either verbal and/or written (email) feedback to the file selection function at the local levels; however this was case-specific and not documented or aggregated to inform the process at a program level. For example, the BI team in BIQA has established many informal networks where stakeholders in the audit function provide feedback to the regional BI team leaders. Feedback includes case-specific concerns and re-evaluation of risks; however this information is utilized on a case by case basis and is not used to find systemic concerns within the process.
+Consistent with Internal Audit’s findings regarding the monitoring and evaluating of risk processes, the majority of the programs with quality assurance initiatives focused on the execution of the file rather than whether or not the file should have been selected in the first place. Given that the file selection teams have been segregated from the audit teams, the monitoring programs should review whether or not the files are being adequately risk-assessed and rightfully selected for audit.
+Monitoring and evaluation of risk assessment and file processes will be supported with the recent introduction of INTEGRAS, a case management system that will provide information to aid in the feedback process.
+Findings, Recommendations and Action Plans: Refer to Appendices:  A - 4, B - 1, C - 1 and 4, D - 3, F - 2
+Information sharing
+Generally, the risk assessment and file selection processes of the CRA’s compliance programs are separated by business lines and grouped by subject matter and/or by revenue. Therefore, risk assessments try to identify the high risk files within these segments. This approach was justified in the Organization for Economic Co-operation and Development’s 2004 report:
+Compliance Risk Management: Managing and Improving Tax Compliance,
+which states that the activities of the revenue authority in themselves modify and shape the operating context. Separating programs by these criteria helps the Agency in further segmenting the population for risk assessing and for resourcing purposes, however the segmentation can make communication and information sharing more complicated. Information is shared between Income Tax and GST/HST with respect to the results of any compliance action taken. However given that the population of potential taxpayers overlaps from program to program, DCPB and ILBIB should consider sharing the results of risk assessment information between the programs. Taxpayers are being risk-assessed by these programs individually using criteria designed solely for that program. Sharing the data gathered between the various business intelligence/risk assessment functions could better inform both the risk assessment and file section processes.
+Conclusion
+The Agency applies risk assessment in selecting files for audit and over the past three fiscal years, according to the Annual Report to Parliament, the tax revenue impact from CRA audit has grown. The Agency makes use of risk assessments from establishing the context of risk at the strategic level, through the functional and business line levels to addressing risk through detailed operational risk assessment at the program and activity levels. Risk assessments are undertaken throughout ILBIB and DCPB to identify areas of potential non-compliance and then using that information to select high risk files for audit.
+The audit revealed certain opportunities for enhancements to both risk assessment and file selection processes, including efforts to continuously improve the effectiveness of the risk identification activity, such as continuing to invest in and refine automated tools and improved data analysis capacity. To further enhance the control environment, ILBIB and DCPB need to ensure that all their programs have strong controls in place to monitor and evaluate processes against established goals and objectives.
+Improved information sharing and communication between the independent processes is needed to better leverage existing risk intelligence, and more generally, to better inform both risk assessment and file selection processes.
+Acknowledgement
+In closing, we would like to acknowledge, recognize and thank DCPB, ILBIB, as well as the Ontario, Pacific and Prairie audit and BIQA teams for their time, cooperation and the information provided during the course of this engagement.
+Appendix A
+Summary of Findings
+GST/HST Refund Integrity Section (RI), Aggressive GST/HST Planning and Refund Integrity Division,
+GST/HST Directorate, Domestic Compliance Programs Branch (DCPB)
+Finding number
+Finding
+Recommendation
+Action Plan
+1
+The GST/HST Refund Integrity program has an automated and a manual risk assessment process in place.
+The results of these risk assessments are captured in the computer systems and support the goals and objectives of CRA by selecting high risk accounts for further screening and examination and therefore contributing to improve GST/HST compliance.
+None
+None
+2
+RI’s risk assessment process uses appropriate tools.
+None
+None
+3
+The results of the risk assessment process are monitored and the impact on workload development is evaluated on a regular basis. Changes to the risk algorithm are made based on analysis of results and feedback from the field.
+None
+None
+4
+Detailed file selection processes exist in RI and use automated risk assessment systems and the screener review to select higher risk files. The file selection targets overall compliance, the results are analyzed and changes and modification to the model are initiated, based on the results of the program analysis, to improve the risk assessment and file selection processes.
+None
+None
+Appendix B
+Summary of Findings
+Aggressive GST/HST Planning Section, Aggressive GST/HST Planning and Refund Integrity Division,
+GST/HST Directorate, Domestic Compliance Programs Branch (DCPB)
+Finding number
+Finding
+Recommendation
+Action Plan
+1
+Risk assessment and file selection results for the Aggressive GST/HST Planning (AGP) program are not being reviewed and/or evaluated to provide feedback to Business Intelligence (BI) to aid in strengthening the workload and file selection processes.
+DCPB should develop, document and implement a comprehensive monitoring plan to review and evaluate risk assessment and file selection results to provide feedback to BI to strengthen workload and file selection.
+Aggressive GST/HST Planning will develop a monitoring framework by the end of December 2016 that will detail how the risk assessment and file selection process of the AGP BI team will be monitored.
+An AGP Officer will monitor the BI activity on a quarterly basis. Results from the monitoring reports will be analyzed at Headquarters (HQ). The reports and feedback will be shared with the BI team.
+Completion date: March 2017 with ongoing monitoring
+2
+Results of the risk assessment process are subject to limited monitoring. Although files are tracked regionally by program, sub program and then selection reason codes, these are not used to analyze the related results within the AGP workloads.
+There is no systematic analysis of the results of the various workloads to evaluate the impact on workload development, nor are there specific performance indicators for all workloads.
+DCPB should develop, document and implement a systematic process to evaluate the various areas of workload.
+Performance measures should be developed for all new workload to recognize the non-monetary value of results achieved.
+The AGP program receives its workload through either referrals from other program areas or through proactive analysis (files selected by BI). In September 2016, system enhancements were implemented within the AGP program allowing us to segregate audits selected using proactive analysis from those that have been referred to the program through other channels. The enhancements further allowed us to validate the types of files being selected through proactive analysis. To support the evaluation of the workload, field monitoring visits will be conducted to gather feedback from AGP auditors in the field. Results from analysis of the files and the field monitoring visits will be reported on an annual basis, with the first report expected Q1 2017-2018. The reports will also discuss best practices and recommendations.
+In addition to the above-noted activities, the existing quarterly reports will be modified to report on files obtained through proactive analysis.
+Completion date: Fully implemented by March 2018
+3
+Risk assessment process in the AGP program are documented in detail and undertaken using the documented process and appropriate tools.
+None
+None
+4
+Documented file selection processes exist with the AGP program. Approaches to file selection are strategic, and target overall compliance.
+None
+None
+Appendix C
+Summary of Findings
+Large Business Audit & Program Integration Division, GST/HST Directorate, Domestic Compliance Programs Branch (DCPB)
+Finding number
+Finding
+Recommendation
+Action Plan
+1
+Detailed and documented risk assessment processes exist within the GST/HST Large Business Audit (LBA) program.
+However, not all Regional Risk Assessment Committees (RRAC) are keeping mandatory minutes of meetings and there is no guidance on the content of the minutes or the frequency of the RRAC meetings.
+DCPB should develop guidelines for RRAC meetings that address the frequency of meetings, the timeliness and content of mandatory minutes, and the documenting of important decisions.
+The LBA section will work with the RRACs to adjust the Terms of Reference (ToR) to specifically address the frequency of meetings, the timeliness and content of mandatory minutes, and the documenting of important decisions. HQ will monitor that the ToR are honoured by requesting that minutes, decision docs etc. be placed in RRAC/HQ shared drives.
+Completion date: March 2017
+2
+Risk assessments are undertaken utilizing appropriate tools; results are reviewed and evaluated to inform workload selection.
+Risk assessment tools (e.g. GRAM, GREAT) aid to fully capture and explain issues considered and support the ratings given.
+None
+None
+3
+Results of risk assessment processes are monitored to evaluate the impact on workload development.
+GST/HST LBA is actively monitoring the risk assessment process to ensure consistency in the workload development process.
+None
+None
+4
+Detailed and documented file selection processes exist within the GST/HST LBA program; file selection utilizes and documents the information gathered in the risk assessments to select higher risk files; and criteria exist to evaluate the results of the files selected, their impacts to the program and are utilized in a feedback loop to improve the risk assessment and file selection processes.
+None
+None
+5
+The implementation of the file portability pilot
+PROTECTED
+aid in the development of strategies for the selection of higher risk files within the GST/HST LBA program.
+None
+None
+Appendix D
+Summary of Findings
+Small & Medium Business Audit Division, GST/HST Directorate & Business Intelligence Division, Small and Medium Enterprises Directorate,
+Domestic Compliance Programs Branch (DCPB)
+Finding number
+Finding
+Recommendation
+Action Plan
+1
+Risk assessment processes that exist for workload development are documented and aligned with organizational goals and objectives.
+None
+None
+2
+Risk assessments are undertaken using documented processes and appropriate tools, which are reviewed and evaluated by BIQA managers.
+However, the outcomes of the reviews are not well documented and the information is not used beyond each regional BIQA.
+DCPB should provide guidelines for documenting decisions made at regional and branch level meetings that involve changes to the business intelligence or risk assessment processes.
+DCPB should formalize a feedback process where the evaluation of regional results is shared between regions.
+DCPB will create and implement guidelines for the documenting, sharing and retention of decisions made at regional and branch level meetings that involve changes to the business intelligence or risk assessment processes.
+Completion date: March 2017
+DCPB will develop processes and mechanisms for the sharing of results between regions.
+Completion date: March 2018
+DCPB will develop and implement processes and procedures which will support the regular analysis and evaluation of business intelligence information, and the subsequent use of this information to inform and influence program and operating decisions with respect to BI operations and audit file selection.
+Completion date: March 2019
+3
+Collection and monitoring of data at both the risk assessment and file selection stages is taking place, however there is no comprehensive monitoring and evaluation of the outcomes of these processes.
+DCPB should monitor and evaluate the results of the risk assessment and file selection processes in order to assess the impact of workload development on audit results.
+DCPB will leverage workload development and case management systems to ensure that risk assessment and file selection information is captured for all cases actioned by regional BI functions.
+Completion date: March 2017
+DCPB will develop indicators to assess the effectiveness of workload development and its impact on audit results.
+Completion date: September 2017
+DCPB will conduct regular monitoring and reporting to evaluate the outcome of the risk assessment and file selection processes.
+Completion date: June 2017 and ongoing
+DCPB will utilize monitoring results to inform and influence program and operating decisions.
+Completion date: March 2018 and ongoing
+DCPB will analyze completed audits to determine the impact of workload development on audit results.
+Completion date: March 2020
+4
+The criteria and rationale used to select the higher risk files are documented and based on detailed risk assessments.
+Files selected by BIQA are linked to a strategic plan with the approach to target overall compliance.
+None
+None
+Appendix E
+Summary of Findings
+Offshore Compliance Division (OCD), Offshore and Aggressive Planning Directorate (OATPD),
+International, Large Business and Investigations Branch (ILBIB)
+Finding number
+Finding
+Recommendation
+Action Plan
+1
+PROTECTED
+PROTECTED
+PROTECTED
+2
+Risk assessments are limited by the amount of transactional information the OCD has on hand. However, the OCD risk assessments do include a review of a vast array of internal and external information.
+Memoranda of Understanding with governmental and private sector agencies need to be established or expanded to obtain more complete information that can be used to identify potential non-compliance.
+OATPD aims to develop its ability to encompass a wide range of 3rd party data into its risk assessment by leveraging the CRA BI Renewal Project, which will pave the way for acquiring data from other governments and agencies as well as private sector.
+OATPD will continue to explore on an ongoing basis new datasets that are relevant to the work of the OATPD.
+Completion date: Ongoing
+3
+Criteria have not been developed to evaluate the results of files selected by the workload development area in the Offshore Compliance Section of OATPD, or the impacts to the offshore compliance program(s).
+ILBIB should develop criteria to aid in the analysis of the audit results from its file selection process, and the impacts to the offshore compliance program(s).
+By FYE 2016-2017 the Offshore Workload Development Section will be initiating regular workload discussions and feedback sessions with the offshore audit program advisors within headquarters.
+For the fiscal year 2016-2017 and ongoing, in order to ensure that the risk assessment and workload development processes are continuously improved and refined, OATPD has created a spreadsheet that is tailored to the EFT workload, that will enable the auditors to be able to quickly input any findings or observations that they note in their case in relation to EFT-generated files.
+Completion date: March 2017
+4
+Electronic Funds Transfers and Offshore Business Intelligence Section (EFT & OBIS) has a feedback process to evaluate results obtained from their intelligence; however, there is no evidence that this process is being effectively utilized.
+ILBIB should utilize EFT & OBIS’s feedback process to evaluate results obtained, and modify the quality of intelligence selected.
+EFT & OBIS has implemented a feedback process and has obtained information through that process.  EFT & OBIS will review all feedback received to date by the end of Q3 2016-2017, and will continue to seek meaningful feedback from the users of EFT data on an ongoing basis.
+Completion date: March 2017
+5
+Detailed and documented file selection processes exist, and the intelligence selection process is documented.
+Strategic approaches to file selection target offshore non-compliance.
+None
+None
+Appendix F
+Summary of Findings
+Criminal Investigations Directorate (CID)
+International, Large Business and Criminal Investigations Directorate (ILBIB)
+Finding number
+Finding
+Recommendation
+Action Plan
+1
+In December 2015, Criminal Investigations Program (CIP) implemented the Prioritization and Governance Framework, a risk-based model designed to guide the CRA’s Criminal Investigations Division (CID) in the application of its investigative resources against the most serious cases of tax evasion or fraud. The framework was also designed to help Assistant Directors to ensure their resources are focused on combating the most serious threats, and to facilitate the realignment of resources from low to high priority areas, as required.
+There is no specific policy to ensure CIP field offices will focus on High Priority cases (Tier 1 files) rather than Low Priority cases (Tier 3 files).
+ILBIB should prepare guidelines for field offices to ensure the appropriate focus on High Priority cases.
+CIP will ensure that CIP policy manuals are updated to specifically state that CIP field offices will focus on High Priority cases (Tier 1 files) rather than Low Priority cases (Tier 3 files). CIP is also in the process of reviewing its priorities and will ensure the appropriate communication approach is adopted.
+Completion date: March 2017
+2
+CIP has a monitoring process in place for completed and in-progress files and is currently developing a revised quality assurance program.
+ILBIB should give priority to the development of a CIP quality assurance program as the feedback process that will aid in strengthening the program’s controls and operations.
+CIP will: (a) finalize the development of its Quality Assurance Program: and (b) incorporate feedback processes to better utilize the results of completed cases in the workload selection processes.
+Completion date: March 2017
+3
+CID has a National Workload Selection Process that is detailed and shared with all staff.
+Files that are selected for investigation are documented and linked to program priorities, ensuring that files selected will help achieve program goals.
+None
+None
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2017-01-27

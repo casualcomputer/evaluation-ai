@@ -49,13 +49,13 @@ class WebScraper:
         names = []
         for link in soup.find_all('a'):
             url = link.get('href')
-            if url is not None and (url := self.is_evaluation(url)):
+            if url is not None and (url := self.is_evaluation(url, self.patterns)):
                 urls.append(url)
                 names.append(link.text)
         return urls, names
     
-    def is_evaluation(self, url):
-        for pattern in self.patterns:
+    def is_evaluation(self, url, patterns):
+        for pattern in patterns:
             if pattern in url:
                 return 'https://www.canada.ca/' + url
         return False
@@ -108,15 +108,40 @@ class CanadaRevenueAgencyScraper(WebScraper):
 
     BASE_URL = 'https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/internal-audit-program-evaluation.html'
     PREFIX = 'cra'
-    PATTERNS = ['internal-audit-program-evaluation']
-
-    def __init__(self, base_url=BASE_URL, prefix=PREFIX, patterns=PATTERNS, save_path=WebScraper.SAVE_PATH):
+    PATTERNS = ['evaluation']
+    
+    P_PATTERNS = ['internal-audit-program-evaluation']
+    
+    def __init__(self, p_patterns=P_PATTERNS, base_url=BASE_URL, prefix=PREFIX, patterns=PATTERNS, save_path=WebScraper.SAVE_PATH):
         super().__init__(base_url, prefix, patterns, save_path)
+        self.p_patterns = p_patterns
+
+    def get_evaluation_urls(self, soup):
+        urls = []
+        names = []
+        for p_link in soup.find_all('a'):
+            p_url = p_link.get('href')
+            if p_url is not None and (p_url := self.is_evaluation(p_url, self.p_patterns)):
+                p_content = requests.get(p_url).content
+                soup = BeautifulSoup(p_content, 'html.parser')
+                for link in soup.find_all('a'):
+                    url = link.get('href')
+                    if url is not None and (url := self.is_evaluation(url, self.patterns)):
+                        urls.append(url)
+                        names.append(link.text)
+
+        #urls to remove
+        rm_urls = ['https://www.canada.ca//en/revenue-agency/programs/about-canada-revenue-agency-cra/internal-audit-program-evaluation.html']
+        for rm_url in rm_urls:
+            i = urls.index(rm_url)
+            urls.pop(i)
+            names.pop(i)
+        return urls, names
 
 def main():
-    print('Scraping data from Health Canada')
-    hc_scraper = HealthCanadaScraper()
-    hc_scraper.run()
+    # print('Scraping data from Health Canada')
+    # hc_scraper = HealthCanadaScraper()
+    # hc_scraper.run()
 
     print('Scraping data from Canada Revenue Agency')
     cra_scraper = CanadaRevenueAgencyScraper()

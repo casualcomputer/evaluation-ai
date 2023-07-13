@@ -1,0 +1,285 @@
+Audit of GST/HST Visitor and Domestic Rebates Programs
+Corporate Audit and Evaluation Branch
+February 2006
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+Internal Controls Over Claims Processing
+Processing Procedures
+Separation of Duties
+Electronic Security Controls
+Automated Validity Checks
+Control of Source Documentation
+Audit of Claims
+Monitoring
+Conclusion
+Executive summary
+Background:
+The
+Excise Tax Act
+provides for a rebate of the Goods and Services Tax/Harmonized Sales Tax (GST/HST) paid by individuals and organizations under various programs. Domestic rebate programs include the
+New Housing Rebate, New Residential Rental Rebate, General Rebate, Public Service Body (PSB) Rebate, and Government Rebate.
+The
+Visitor Rebate
+program (including Duty Free Shop rebates) provides a rebate to foreign visitors of the GST/HST paid by them on certain purchases made during their visit to Canada.
+For the fiscal year 2004-2005, the Summerside Tax Centre (STC) processed over 230,000 domestic rebate claims for a total rebate of approximately $3.5B (70% to PSBs); and over 622,000 visitor rebate claims for a total rebate of approximately $59M. Domestic Rebate programs were delivered with a budget of $3.3M and 81 FTEs and the Visitor Rebate program was delivered with a budget of $2.8M and 67 FTEs. An additional
+PROTECTED
+visitor rebate claims were processed at participating Duty Free Shops across Canada for a total rebate of
+PROTECTED
+. All visitor and domestic rebate claims (except for domestic rebate claims for Québec[
+Footnote 1
+]) are processed at the STC. Functional direction is provided by the Assessment and Client Services Branch (A&CS).[
+Footnote 2
+]
+Objective:
+The objective of the audit was to assess the adequacy and effectiveness of internal controls over the processing of visitor and domestic rebate claims at the STC. The scope of the audit did not include an assessment of the effectiveness of the audit process for rebate claims at Tax Services Offices or a review of the Third Party Service Providers for the Visitor Rebate Program. The audit covered the fiscal year 2004-2005.
+Findings and Recommendations:
+The audit established that overall the internal controls were adequate and effective. Improvements can be made in the following areas:
+1) A separation of duties control, with respect to data input and authorization functions, is not in place for Government Rebate and Duty Free Shop Rebate claims. These claims represent
+PROTECTED
+of all rebate claims processed at the STC and
+PROTECTED
+of the total amount rebated for all rebate programs during 2004-2005. It is recommended that the A&CS Branch in conjunction with the STC should implement internal controls related to separation of duties in the processing of Government Rebate and Duty Free Shop claims.
+2) An audit process is not in place for Government Rebate claims. It is recommended that Policy and Planning Branch (P&P)[
+Footnote 3
+], with A&CS Branch, and Compliance Programs Branch (CPB) implement a process to ensure that the Government Rebate amounts are correctly calculated.
+3) Monitoring activities should be enhanced to include representative sampling of transactions in all rebates programs.
+Conclusion:
+Overall, for the period tested, internal controls over the processing of GST/HST rebate claims at the STC were adequate and effective. Audit tests that included the review of over 2100 rebate claims indicated that key internal controls for
+New Housing, New Residential Rental, PSB, General
+, and
+Visitor
+rebate claims, were functioning as intended.
+Action Plans:
+A&CS, CPB, P&P and the STC agree with the recommendations and have provided actions plans to address the audit findings.
+A&CS will address issues related to the separation of duties in the processing of Duty Free Shop and Government Rebate Claims through system enhancements to supplement existing manual controls.
+P&P, with A&CS, and CPB will consult with Finance Canada and the provinces to implement a process to ensure that the Government Rebate amounts are correctly calculated.
+A&CS will enhance monitoring activities through the sampling of claims in the Visitor and Domestic Rebate programs and the generation of ad hoc reports to target unusual transactions.
+Introduction
+The
+Excise Tax Act
+provides for a rebate of the Goods and Services Tax/Harmonized Sales Tax (GST/HST) paid by individuals and organizations under various programs including the
+New Housing Rebate
+, the
+New Residential Rental Rebate
+, the
+General Rebate
+, the
+Public Service Bodies Rebate
+, the
+Visitor Rebate
+, and the
+Government Rebate
+. All rebate claims are processed at the Summerside Tax Centre (STC) except for domestic rebate claims in Québec that are processed by Revenu Québec. For the fiscal year 2004-2005, over 850,000 rebate claims were processed at the STC and over $3.5B was rebated. These programs were delivered with a combined budget of $6.1M including 148 FTEs. The Assessment and Client Services Branch (A&CS)[
+Footnote 4
+] is responsible for functional direction of this program.
+The
+New Housing Rebate
+and the
+New Residential Rental Rebate
+programs provide a means for a builder or a purchaser to recover a percentage of the GST/HST paid on the cost of constructing a new home or substantially renovating an existing home. During 2004-2005, over 125,000 claims were processed, and over $630M was rebated.[
+Footnote 5
+]
+The
+General Rebate
+program includes 19 different types of rebates. One example is the rebate of GST/HST paid by foreign representatives in Canada. The diplomatic representatives of countries, that have reciprocal agreements with the Government of Canada, are eligible to file for a rebate of all the GST/HST they have been charged on personal purchases made during their official assignment in this country. For 2004-2005, over 12,000
+General
+Rebate
+claims were processed for a total of approximately $79M.
+Under the
+Public Service Bodies
+(PSB)
+Rebate
+program, a portion of GST/HST paid by municipalities, universities, schools, hospitals, charities, and non-profit organizations is refunded. For 2004-2005, over 91,000 claims were processed for a total of approximately $2.5B or 70% of the total amount for all rebate programs combined. Rebates of this type average approximately $27,000 per claim; however, rebate claims of some large municipalities, may be in the multi-million dollar range.
+The
+Visitor Rebate
+program provides a rebate to foreign visitors of the GST/HST paid by them on certain purchases and accommodations during their visit to Canada. This program is characterized by a large number of small transactions averaging approximately $100 per claim. During 2004-2005, more than 622,000 claims were processed at the STC for a total rebate of $59M. An additional
+PROTECTED
+visitor rebate claims were processed at participating Duty Free Shops across Canada for a total rebate of
+PROTECTED
+.[
+Footnote 6
+] The Visitor Rebate program accounts for over 73% of all rebate claims processed at the STC but represents only 2% of the total amount of GST/HST rebated for all rebate programs combined.
+The
+Government Rebate
+program was established pursuant to Comprehensive Integrated Tax Coordination Agreements between the Minister of Finance and the provinces of Nova Scotia, New Brunswick, and Newfoundland and Labrador in 1996 within the context of sales tax harmonization with those provinces. The province of Prince Edward Island and the territory of Nunavut joined the program in 2000. Under the program, government departments of participating provinces, crown corporations, boards, commissions, and agencies are eligible to claim a rebate of GST/HST paid on their purchases. Rebates are claimed by filing periodic applications with the Canada Revenue Agency. During the fiscal year 2004-2005, 549 claims were processed for a total of rebate of $312M.
+All GST/HST rebates are categorized as one of two types:
+account
+or
+non-account
+.
+Account
+rebate claims are identified as those from taxpayers who have a business number (BN) with the Agency and file rebate claims on a regular or prescribed basis. In the
+GST Production
+mainframe system
+(
+GST System
+)
+, these claims are stored electronically according to the business number of the taxpayer. PSB rebate claims fall into the
+account
+category. Visitor rebate claims are categorized as
+non-account
+indicating that the client does not have a business number with the agency and makes claims on an irregular or infrequent basis.
+Non-account
+claims are electronically maintained according to a document locator number that is unique to each claim.
+Focus of the audit
+The objective of the audit was to assess the adequacy and effectiveness of internal controls over the processing of visitor and domestic rebate claims at the STC. The scope of the audit did not include an assessment of the effectiveness of the audit process for rebate claims at Tax Services Offices (TSO) or a review of the Third Party Service Providers for the Visitor Rebate Program. The audit covered the fiscal year 2004-2005.
+The audit methodology included the review of a statistically valid sample of rebate claims, for all rebate types that were processed during 2004-2005. The review was conducted to determine whether controls were in place and functioning. Controls examined included processing procedures, separation of duties with respect to data input and authorization functions, electronic security controls, automated validity checks designed to reject claims for further review, control of source documentation, and an audit process.
+Findings, recommendations and action plans
+Internal Controls Over Claims Processing
+A system of internal controls ensures that program risks are addressed and that organizational goals and objectives, related to compliance with applicable laws and regulations, are achieved efficiently and effectively.
+Internal controls related to the processing of rebate claims at the STC include detailed processing procedures, separation of duties with respect to data input and authorization functions, electronic security controls, automated validity checks designed to reject claims for further review, control of source documentation, and an audit process.
+Processing Procedures
+Detailed processing procedures have been established for each rebate type for all stages of claims processing. All employees have access to processing procedures that are available on the CRA intranet site. The procedures are maintained by the A&CS Branch, Business Returns and Payments Processing Directorate (BRPPD) and are updated regularly.
+An audit test was performed to assess whether processing procedures for the
+Visitor Rebate
+Program were correctly applied with respect to eligibility of the claims for rebate. Each claim in the sample was reviewed to determine whether it had been originally assessed correctly in terms of the amount rebated to the claimant. The sample results indicated that the total net dollar error amount in the sample was minimal (less than 1% of the total value of all claims in the sample). The audit test examined 562 Visitor Rebate claims from 2004-2005, which was a representative sample at a statistical confidence level of 95% with a precision level of +/- 2 percentage points.
+An audit test was also performed on 207
+Government Rebate
+claims to determine whether only claims from eligible government entities were approved and accurately processed. Finance Canada has established a list of provincial government entities that are eligible to claim rebates under this program. New entities are required to make application to Finance Canada for approval. The audit test of claims from 2004-2005 indicated that only claims from eligible entities were approved and payments were made for the correct amount.
+Separation of Duties
+Separation of duties is a key financial control designed to ensure that one employee is not able to control a transaction from beginning to end. In a system of good internal control, the functions of keying claims into the GST System and approving the claims for payment must be segregated.
+At the STC, the manual processing of rebate claims for most rebate programs is segregated such that claim input and authorization functions are performed by different employees. However, separation of duties is not in place for transactions in the
+Government Rebate System
+(GRS) and the
+Duty Free Shop Rebate System
+(DFSRS). These computer systems are standalone meaning that claims processed are not entered into the GST System. Claims are both keyed into these systems and approved by one employee respectively who, therefore, has control of all transactions. For DFSRS claims, compensating controls include the semi-annual review of claims submitted by Duty Free Shops. The
+DFSRS
+and
+GRS
+are scheduled to be integrated into the new GST/HST
+Rebates Processing System
+in 2008 as part of the GST Redesign initiative.[
+Footnote 7
+]
+The GST System processed over 633,000 non-account rebates during 2004-2005. A rebate processed without a BN permits changes to be made to a claim after it has been finalized. This effectively weakens separation of duties as the employee who authorizes payment also has control of information in key data fields in the GST System including the payee name, the address, and the amount of the payment. The GST/HST Redesign team has indicated that this control deficiency will be addressed in 2006 when Domestic rebate claims will be processed in the Rebates Processing System (RPS) and in 2008 when Visitor rebate claims will be processed in the RPS. Specifically, as of October 2006, all Domestic rebate claims will be assigned a BN. In October 2008 all Visitor rebate claims will be processed with some form of a BN. In the interim, the STC has implemented enhanced manual processing procedures related to the process of keying claims.
+Recommendation
+The A&CS Branch in conjunction with the STC should implement internal controls related to separation of duties in the processing of Government Rebate and Duty Free Shop claims.
+Action Plan
+Domestic and Visitor Rebates Sections have initiated research and consulted with the Information Technology Branch on options that include system enhancements that will segregate duties and add functionality for a second officer to review/approve claims before a payment is issued. It is anticipated that the enhancements to the Government Rebate System and Duty Free Shop Rebate System will be implemented in July 2006. Once the GRS and DFSRS systems become part of the new Rebates Processing System (RPS) in 2008, the processing flow will be similar to all other rebate programs with a separate system for keying, processing and accounting. The STC will also
+implement a quality assurance process for Government Rebate and Duty Free Shop Rebate claims starting in January 2006. A random sample of all claims processed will be reviewed on a regular basis.
+Electronic Security Controls
+In the automated processing environment, it is important to maintain separation of duties with respect to claims processing. Employees only have access rights to systems that are compatible with their duties. A management control system of user access rights ensures that employees do not accumulate user access rights when they change jobs within an organization.
+In the GST System, access profiles include separate profiles for an employee who keys a claim into the system and a series of different profiles for claim approval that are related to the level of approval authority held by an employee. An audit test of computer user profiles held by employees in the Rebates Division of the STC indicated that employees only held user profiles in the GST System that were compatible with their duties. The management of user access profiles in the Rebates Division at the STC is supported by a local application called
+Profile Requests Online
+(PRO). The PRO system is used to identify which specific user profiles are required for a particular job and also functions by automatic deletion of previous access rights to systems when an employee changes positions within the STC.
+User access privileges also include specific dollar approval authorities that are associated with a user profile. For example, a first-level reviewer of a rebate claim would have authority to approve claims up to a specific value in certain rebate programs. If a particular claim were to exceed this threshold, the GST System would prompt the reviewer to seek secondary approval. An audit test that examined 562 Visitor Rebate claims and 459 General Rebate claims indicated that this control was functioning as intended. For transaction values sampled that exceeded approval thresholds, there was a record in the GST System of the user identification of a senior reviewer or manager in the approval process for that particular claim.
+Automated Validity Checks
+In the GST System, a number of automated validity checks (including random selection) are applied to rebate claims to detect those that may not comply with legislation or that may warrant investigation for some other reason. Selected returns are further reviewed at the STC or electronically forwarded to the appropriate local TSO for further review and approval. Validity checks have been established by the A&CS Branch - Business Returns and Payments Processing Directorate (BRPP), which is functionally responsible for processing all rebate claims and the Compliance Programs Branch (CPB), which is functionally responsible for compliance with respect to mainly account-based rebate claims.
+A PSB rebate claim may be rejected by the system and electronically referred to a Tax Services Office if the claim fails any of a series of systems edits. For example, if the value of a claim exceeds an established system or account threshold, it will be rejected for further review. An audit test of a sample of rebate claims, for each rebate type, indicated that automated validity checks, related to account thresholds, were working in all instances.
+In terms of the overall functioning of all automated validity checks, the audit test of a sample of PSB rebate claims indicated that 59% were referred by the system to TSOs for further review, 23% were rejected by the system to address technical issues with the claim (within the STC), while 18% were automatically approved for payment by the GST system. The audit test examined 477 PSB rebate claims from 2004-2005, which was a representative sample at a statistical confidence level of 95% with a precision level of +/- 2 percentage points.
+Control of Source Documentation
+Once rebate claims have been data captured through the
+Rebate Document Capture
+S
+ystem
+into the GST System, the batches of claims are forwarded to the File Control Unit at the STC. All batches are entered by DLN into the
+Inventory Request System
+(IRS). This system is used to track the location of all rebate claims. The audit tests of a sample of rebate claims for all rebate programs included the request for the original claim to support the transaction recorded in the GST System
+.
+The File Control unit was able to provide the original claims for all 2183 transactions that were examined during the audit.
+Audit of Claims
+Rebate claims processed at the STC are subject to audit except for Government Rebate claims, which represent less than 1% of the volume of all rebate claims. The audit process is supported by processing procedures as well as systems automated validity checks.
+At the STC claims are subject to a review and verification process. Claims are reviewed to verify that required information is provided and that the claimant is eligible for the rebate. If any rebate claim requires further review, it is electronically forwarded to the appropriate TSO for further review or audit. Rebate claims are also selected by the GST system for further review by TSOs. For example, in an audit test sample of 478
+New Housing Rebate
+claims, 57% of the claims were reviewed and approved at the STC, 17% were referred to Tax Services Offices for review and approval, and 26% were automatically approved by the GST system.
+Similarly, in the
+Visitor Rebate
+program, over 46% of claims were rejected by the GST System for further review during 2004-2005. An internal audit test to determine the effectiveness of the audit process for Visitor Rebate claims confirmed that the audit process was generating results. A review of a sample of claims indicated that 41% of the claims in the sample were either adjusted, cancelled, or disallowed when reviewed by STC employees. The impact of the review process was a net adjustment downward of 25% of the total value of the sample.
+An audit process is not in place for
+Government Rebate
+claims. Under the program, government departments of participating provinces, crown corporations, boards, commissions, and agencies are eligible to claim a rebate of GST/HST paid on their purchases. The Comprehensive Integrated Tax Coordination Agreements (CITCAs) between the Minister of Finance and the provinces of Newfoundland and Labrador, Nova Scotia, and New Brunswick do not contain provision for the audit of rebate claims. Reciprocal Taxation Agreements (RTAs) with the province of Prince Edward Island and the territory of Nunavut do contain a clause that permits CRA officials access to documents to determine the amount of the rebate to which the Province or Territory is entitled. No claims for Prince Edward Island or Nunavut have been reviewed, as there is currently no provision in the agreements or arrangements that formally provides for a means by which overpayments can be set-off against future rebate payments. However, some claims have been denied when filed by non-qualifying entities. In addition, there are a small number of entities that claim rebates under both the PSB rebate program and the
+Government Rebate
+program for the same filing periods[
+Footnote 8
+]. An audit process in the
+Government Rebate
+program could identify any potential error or overlap in amounts claimed by entities in more than one rebate program. Since 1997 over 4,300
+Government Rebate
+claims have been processed for a total amount rebated of approximately $2.5B.
+Recommendation
+Policy and Planning Branch (P&P)
+[
+Footnote 9
+]
+, with A&CS, and CPB should implement a process to ensure that the Government Rebate amounts are correctly calculated.
+Action Plan
+P&P, with A&CS and CPB will consult with Finance Canada and enter into discussions with the Provinces to ensure that their accounting system and internal controls are set up to verify that the rebates are calculated correctly and are justified
+.
+P&P, with A&CS and CPB will enter into discussions with Finance Canada with the view to amending the CITCA and the RTAs to include provisions to:
+allow for a process that will ensure the Government Rebates are correctly calculated; and
+provide for a means by which overpayments (underpayments) to particular provinces could, if discovered after the fact, be set-off against future rebate payments.
+Monitoring
+A monitoring program, within the context of a claims processing operation, consists of: (1) review of claims for processing quality and (2) processes designed to detect errors and unusual transactions.
+The STC employs a quality assurance review of claims processing in order to verify compliance with accepted procedures and policies and to ensure consistent quality output. The quality assurance process includes the review of a percentage of paper claims that have been processed at the review and verification stage of processing. Claims are reviewed against established criteria such as the existence of supporting documentation and appropriateness of action taken in respect of a claim.
+The STC, in conjunction with A&CS (BRPP) conducts a semi-annual quality review of claims submitted by participating Duty Free Shops (DFS). The review mandate is to verify compliance of the stores with the defined DFS procedures and to reconcile the financial and claim information provided on the Individual Visitor Refund Application forms. For each DFS selected for review, monitoring procedures include the review of a sample of rebate transactions.
+The
+Visitor Rebate Monitoring Program Sampling Plan
+was established in 1999 following an internal audit recommendation. The plan was based on a statistically valid approach developed in conjunction with the Statistics and Information Management Directorate of the Policy and Planning Branch. The objective of the sampling plan was to ensure an accurate assessment of claims processing quality at the STC. The monitoring program was conducted on a quarterly basis from 2000/2001 to 2003/2004. This review process was discontinued as it was considered a duplication of the quality assurance process. However, the sampling plan does have certain advantages over the quality assurance process since it is used to randomly select transactions from the higher risk segment of the entire population of
+Visitor Rebate
+claims recorded in the GST System; and is objective in terms of the use of a statistically valid approach in the sample selection process.
+The resumption of a review of a statistically valid sample of transactions on a regular basis, and the monitoring of certain non-account transactions in the
+GST system
+should reduce the risk that errors and unusual transactions would go undetected. This is especially important given that the GST System permits changes to be made to a non-account claim after it has been finalized. (
+see page 6
+)
+Recommendations
+1) The A&CS Branch
+(Visitor Rebates Program)
+should continue and enhance the Visitor Rebate Monitoring Sampling Plan. The plan should include a review of the quality of processing, and the examination of the entire transaction, related to a rebate claim, up to and including the issuance of a payment.
+2) The A&CS Branch (Domestic Rebates Program) should consider a similar sampling program designed to address the specific characteristics of each rebate type. The sampling of electronic transactions would be useful in detecting unusual transactions, errors, and to assess the effectiveness of the quality assurance program.
+3) The A&CS Branch
+(Visitor and Domestic Rebates Programs) should request r
+egular ad hoc reports to identify transactions where changes have been made to a claim after it has been finalized. Reports of this nature would provide compensating control until certain enhancements of the GST system are implemented through the GST Redesign Initiative in 2008.
+Action Plans
+1) The Visitor Rebate Quarterly Monitoring Sampling Plan will be reinstated effective January 2006. This monitoring activity will be conducted at headquarters. The procedures for this review will be expanded upon to include:
+verification of claims where the amounts rebated were increased by Review and Verification Clerks and Client Service Officers in the STC (this review will be determined by reports generated on an ad hoc basis);
+a sampling review of addresses will be conducted; this will include a comparison review of the address in the Public Works and Government Services Canada cheque system and the address on the rebate claim in the Visitor Rebate Processing System; and
+claims where name changes were made during processing.
+2) Domestic Rebates currently has a post assessment review program for certain general rebates but there is no formal monitoring plan for other rebate types. Since each rebate type is different and has different risks, a monitoring program would need to be customized for each of the Domestic Programs. Domestic Rebates Program (DRP), A&CS will begin immediately to develop and implement a monitoring plan by the end of this fiscal year (2005-2006). Members of the DRP team in Headquarters will perform the monitoring.
+3) The processing of Domestic Rebates will migrate to the new Rebate Processing System in October 2006. Enhancements to the non-account rebate process will be incorporated into the new system. In the interim, DRP, in Headquarters plans to use existing data files to identify claims that have been increased and these claims will be reviewed in detail.
+Conclusion
+Overall, internal controls over the processing of GST/HST rebate claims at the Summerside Tax Centre are adequate and were effective for the period tested. Audit tests that included the review of over 2100 rebate claims indicated that key internal controls for
+New Housing, New Residential Rental, PSB, General
+, and
+Visitor
+rebate claims, were functioning as intended.
+A&CS, P&P, CPB and the STC agree with the recommendations and have provided actions plans to address the audit findings. A&CS will address issues related to separation of duties in the processing of Duty Free Shop and Government Rebate claims through system enhancements to supplement existing manual controls. A&CS will also enhance monitoring activities through the sampling of claims in the Visitor and Domestic rebate programs and the generation of ad hoc reports to target unusual transactions
+.
+P&P, with A&CS and CPB will continue to liaise with stakeholders in the Government Rebate Program, and provide input to future negotiations with the provinces regarding the program and specifically with respect to the review of claims.
+Footnotes
+[Footnote 1]
+Revenu Québec is responsible for administering the GST in Québec
+[Footnote 2]
+Further to a CRA realignment effective January 24th, 2006 these responsibilities now rest with the Assessment and Benefit Services Branch; the audit report retains the terminology appropriate to the time of the audit and the recommendations apply to the successor organizational units.
+[Footnote 3]
+Further to a CRA realignment effective January 24th, 2006 these responsibilities now rest with the Corporate Strategies and Business Development Branch; the audit report retains the terminology appropriate to the time of the audit and the recommendations apply to the successor organizational units.
+[Footnote 4]
+Further to a CRA realignment effective January 24th, 2006 these responsibilities now rest with the Assessment and Benefit Services Branch; the audit report retains the terminology appropriate to the time of the audit and the recommendations apply to the successor organizational units.
+[Footnote 5]
+All references in this report to the number of claims processed and amounts rebated, do not include claims processed by Revenu Québec.
+[Footnote 6]
+Visitors may obtain a cash rebate by submitting their receipts in person at participating land border Duty Free Stores.
+[Footnote 7]
+The GST/HST Redesign initiative is a large information technology project the objective of which is to modernize the delivery of the GST/HST programs, operations and services. The GST/HST Redesign project was initiated in 2000 and will be implemented through a series of releases that are planned until 2009. As part of the project, a new Rebates Processing System is scheduled for implementation in October 2006.
+[Footnote 8]
+These entities have been identified by Finance Canada as eligible to file claims under the PSB and Government Rebate programs.
+[Footnote 9]
+Further to a CRA realignment effective January 24th, 2006 these responsibilities now rest with the Corporate Strategies and Business Development Branch; the audit report retains the terminology appropriate to the time of the audit and the recommendations apply to the successor organizational units.
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2006-04-20

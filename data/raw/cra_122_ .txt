@@ -1,0 +1,103 @@
+2008-2009 Selected Fiscal Year-End Procedures Audit
+Final Report
+Corporate Audit and Evaluation Branch
+October 2009
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, recommendations and action plans
+Conclusion
+Executive Summary
+Background:
+The Canada Revenue Agency (CRA) prepares annual Administered Activities Financial Statements for the reporting of tax revenues. The financial information is incorporated into the
+Public Accounts of Canada
+and is included in the Agency’s Annual Report to Parliament. As in prior years, the Financial Administration Directorate (FAD) in the Finance and Administration Branch (F&A) requested Internal Audit (IA) assistance in providing assurance to management on the accuracy and completeness of selected financial information to be reported in these statements. For this year, the audit was centred on one area, the allowance for doubtful accounts (ADA) estimates for the 2008-2009 fiscal year.
+The work was carried out in conjunction with the annual audit of the 2008-2009 CRA financial statements conducted by the Office of the Auditor General (OAG), which is responsible for issuing an audit opinion on their fair presentation. The audit approach, methodology and results were shared with FAD and the OAG. The work performed by IA was relied on by the OAG in the formulation of its opinion on the CRA Administered Activities Financial Statements approved by the CRA Board of Management in August 2009.
+Objective:
+The objective of the audit was to provide assurance to management on the completeness and accuracy of the data extracted from CRA source systems in the sampling of accounts receivable and used by F&A in establishing the ADA rates for the 2008-2009 fiscal year.
+Verification of the calculation and projection of the ADA rates and impact of any errors in these procedures on the account balances that would appear in the financial statements did not fall within the scope of this audit.
+The audit took place between October 2008 and August 2009 and was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Conclusion:
+Improvements could be made in the collection of source data used by FAD in the calculation of the ADA rates. IA reviewed the accuracy and completeness of data captured for a 10% sub-sample of the accounts selected by FAD for the 2008-2009 estimates and errors were identified in 19% of these accounts (11% of line items
+[Footnote 1]
+). Further analysis revealed that only 6% of these accounts (3% of line items) had errors that could have potentially affected calculation of the ADA rates. In comparison, the overall error rate for accounts that could have affected the ADA in 2007-2008, was 3% (1% for line items). The small number and distribution of the dollar value of the errors this year did not allow for an estimate of the monetary impact of the final results.
+The potential impacts of errors found in this year’s data collection were mitigated in some measure by how the current year ADA calculations were ultimately carried out by FAD. For example, accounts with outstanding balances from the sample tax years used in the 2007-2008 fiscal year ADA estimates were carried over to the current year sample and updated. For some revenue streams the updated balances in certain years showed no significant change from the prior year and the previous year data was therefore used for the current year calculations instead. In addition, action was taken after IA had completed its testing to correct the recurring errors that had been the main contributors to the higher error rates in the GST and T1 data. With these changes having been made the overall error rate from the IA review can no longer be projected to the data base that was used for the ADA calculations and is not applicable to the final ADA results.
+In future years, improved controls and further refinement of the data collection methodology and training, as well as automation of the data collection process itself, where feasible, would add to the reliability of the source data collected for use in the calculation of the ADA rates in the future.
+Action Plan:
+As part of the annual process, FAD will continue to conduct a full review of the data collection process in order to reduce the probability of errors. This will include reviewing business process and system changes as well as incorporating enhancements or additional controls in the Data Collection Guides and other guidelines.
+FAD will also continue to supplement the guidelines by providing adequate training
+if the data collection remains a manual process. FAD will implement additional quality measures and tolerance rate(s) prior to the next data collection cycle.
+Last year, FAD committed to investigating the feasibility of automating the data collection process within 3 to 5 years (i.e. fiscal year 2010-2011 to 2012-2013) and has proactively opted to start this investigation in 2009-2010 to address data accuracy and integrity concerns inherent in a manual process.
+Introduction
+The Canada Revenue Agency (CRA) prepares annual Administered Activities Financial Statements for the reporting of tax revenue using full accrual accounting. The Office of the Auditor General (OAG) audits these statements each year and is responsible for issuing an opinion on their fair presentation. The financial information is incorporated into the
+Public Accounts of Canada
+and is included in the Agency’s Annual Report to Parliament.
+As in prior years, the Financial Administration Directorate (FAD) in the Finance and Administration Branch (F&A) requested the assistance of Internal Audit (IA) in the Corporate Audit and Evaluation Branch (CAEB) in providing assurance to management on the accuracy and completeness of selected procedures or information used in the preparation of the above-mentioned financial statements. For this year, the audit was centred on one area, the allowance for doubtful accounts (ADA) estimates for the 2008-2009 fiscal year.
+The audit approach, methodology and results were shared with FAD and OAG. The work performed by IA was relied on by the OAG in the formulation of its opinion on the CRA Administered Activities Financial Statements that were approved by the CRA Board of Management in August 2009.
+Focus of the
+Audit
+The objective of the audit was to provide assurance to management on the completeness and accuracy of the data extracted from CRA source systems in the sampling of accounts receivable for use by F&A in establishing the allowance for doubtful accounts (ADA) rates for the 2008-2009 fiscal year.
+The audit was carried out between October 2008 and August 2009. Previous year-end audit recommendations related to the ADA methodology were also followed-up in this year’s audit. Verification of the calculation and projection of the ADA rates and impact of any errors in these procedures on the account balances that would appear in the financial statements did not fall within the scope of this audit.
+This audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings, recommendations and action plans
+The allowance for doubtful accounts is established and used by management to indicate their best estimate of the collectibility of revenue amounts assessed but not collected. For the 2008-2009 fiscal year, FAD took steps to improve the methodology introduced in 2007-2008, which is based on the aging of accounts receivable (A/R), by changing such things as increasing the sample size and developing new formulas. With this method, historical information on amounts collected or written-off for randomly selected samples from different age categories is captured and used to determine an ADA rate for the A/R in each age category. Last year, IA reviewed the ADA collection process and made a number of recommendations, for which FAD developed and implemented actions plans (e.g., additional quality assurance measures).
+Current year estimates were based on data from four tax years (2000 to 2003). Accounts receivable from each revenue stream in these years were stratified by age and dollar value. Approximately 5,000 accounts in total (that included approximately 15,300 line items
+[Footnote 2]
+) were then randomly selected for use by FAD in the data gathering exercise.
+The data was collected manually for each revenue stream by reviewers at the Sudbury and Summerside Tax Centres (TC). A 10% sub-sample of the accounts from each revenue stream was identified at random by IA to assess the accuracy and completeness of the information that they had recorded. IA replicated the data capture procedures for each account in the sub-sample to verify compliance with the FAD data capture guidelines and accuracy of the information. The data review and analysis were primarily focused on three revenue streams: T1 (personal income tax), GST (goods and services tax) and T2 (corporate income tax).
+IA found that 19% of the total number of accounts (11% of line items) in the sub-sample had one or more errors in the data collected. Further analysis of these records showed that 6% of the errors on accounts (or 3% of errors on line items) could have potentially affected the ADA estimates for this year. For comparison purposes, in the testing of data accuracy carried out by IA in 2007-2008, the final error rate for accounts that could have affected the ADA was 3% (or 1% for line items). The small number and distribution of the dollar value of the errors this year did not allow for an estimate of the monetary impact of the final results.
+The increase in the error rate this year was largely attributable to the high number of errors found in the data that was recorded for T1 (16% of the accounts or 6% for line items
+[Footnote 3]
+) and to a lesser extent, the GST (4% for accounts or 2% for line items). An analysis of the data indicated that for both T1 and GST the higher rates were largely due to recurring errors that could not have been identified through existing FAD data quality control procedures (e.g., incorrect starting date used for data collection).
+In contrast, the T2 data collection results in 2008-2009 had significantly improved in comparison with those in 2007-2008. For the current year, the T2 rate of errors that could have impacted the ADA for both accounts and line items was 1%, while in 2007-2008 these rates were 4% for accounts (or 3% for line items).
+Results of the audit testing were shared with FAD and errors were validated as each data file was completed. The potential impacts of errors found in this year’s data collection were later mitigated in some measure by how the current year ADA calculations were ultimately carried out by FAD. For example, accounts with outstanding balances from the 2000 to 2002 sample years used in the 2007-2008 fiscal year ADA estimates had been carried over to the current year sample for updating. A subsequent analysis by FAD of the updated balances however, showed no significant changes from the prior year for certain years in some revenue streams. As a result, the previous year data for the sample accounts in those years was used for the current year calculations instead.
+In addition, action was taken after IA had completed its testing to correct the recurring errors that had been the main contributors to the higher error rates in the GST and T1 data. With these changes having been made the overall error rate from the IA review can no longer be projected to the database that was used for the ADA calculations and is not applicable to the final ADA results.
+The final step in the data collection process was the preparation of the Preliminary and Combined data files that were later used by a CRA statistician in calculating the ADA rates. IA reviewed the consistency of the formulas used in these files and found only a few minor errors that were brought to FAD’s attention and corrected. FAD will consider including additional reviews of the Preliminary and Combined templates prior to the next data collection cycle.
+Recommendation #1
+The Financial Administration Directorate (FAD) in F&A
+should analyze the errors found in each revenue stream to identify cause(s) and then clarify procedures in the Data Collection Guidelines prior to the next data collection process to reduce the probability of these errors occurring again. FAD should supplement the updated guidelines by ensuring adequate training is provided to all reviewers who will be collecting ADA data next year.
+Action Plans
+As part of a standard annual process, FAD will continue to conduct a full review of the data collection process for each cycle in order to reduce the probability of errors. This entails not only analyzing errors but also reviewing business process and system changes for their potential impact as well as incorporating enhancements or additional controls in the Data Collection Guides and other guidelines.
+FAD will also continue to supplement the data collection guides by providing adequate training that will include all reviewers
+.
+Recommendation #2
+FAD should implement additional quality assurance measures (e.g. Headquarters’ review of a representative sample of the data collected by the tax centre reviewers) prior to submission of information to IA for assessment of accuracy if the manual approach is to be used again next year.
+Action Plans
+Provided that the data collection remains a manual process, FAD will implement additional quality measures prior to the next data collection cycle.
+Recommendation #3
+FAD should establish tolerance rate(s) for errors that would affect the ADA prior to the next data collection exercise as well as identify the type of corrective action that is to be taken if actual rates are higher.
+Action Plans
+FAD will implement tolerance rate(s) for errors in the data collection prior to the next cycle. If these rates are exceeded, corrective action will be initiated on a case by case basis.
+Recommendation #4
+FAD should actively begin examining the feasibility of automating data capture processes where possible.
+Action Plans
+Last year, FAD committed to investigating the feasibility of automating the data collection process within 3-5 years (i.e. fiscal year 2010-2011 to 2012-2013). FAD has proactively opted to start this investigation in 2009-2010 fiscal year to address data accuracy and integrity concerns inherent in a manual process.
+Conclusion
+Improvements could be made in the collection of the source data used by FAD in the calculation of the ADA rates in future years. In 2008-2009, errors were identified in the data captured for 19% of the total number of accounts (11% of line items) in the IA sub-sample. However, further analysis revealed that only 6% of the accounts (3% of line items) had errors that could have potentially affected the calculation of the ADA rates.
+Improved controls and further refinement of the data collection methodology and training, as well as automation of the process itself where feasible would add to the reliability of the source data collected for the calculation of the ADA rates in the future.
+Footnotes
+[Footnote 1]
+An account can have a number of entries (called line items) for different years.
+[Footnote 2]
+An account can have a number of entries (called line items) for different years.
+[Footnote 3]
+Errors that could have affected the ADA
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2010-01-18

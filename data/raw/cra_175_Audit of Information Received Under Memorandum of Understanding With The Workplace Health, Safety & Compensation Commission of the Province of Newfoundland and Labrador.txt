@@ -1,0 +1,130 @@
+Audit of Information Received Under Memorandum of Understanding With The Workplace Health, Safety & Compensation Commission of the Province of Newfoundland and Labrador
+Corporate Audit and Evaluation Branch
+October 2006
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+Use and Disclosure of Information
+Security and Safeguarding of Information
+Management of User Access Privileges
+Storage
+Encryption
+Destruction of Information
+Security Awareness
+Conclusion
+Executive Summary
+The Canada Revenue Agency (CRA) has entered into a large number of Memoranda of Understanding (MOUs) and agreements with federal, provincial and territorial departments and agencies. This audit dealt with information received by the CRA under the MOU with the Workplace Health, Safety & Compensation Commission (WHSCC) of the Province of Newfoundland and Labrador (NF&L), signed on April 1, 2004.
+The purpose of the MOU between the CRA and the WHSCC is to exchange information in order to identify non-filers and non-registrants in their respective operational programs. Information provided to the CRA is registrant and employer data from WHSCC accounts.
+Information exchange MOUs signed since 2001 generally include a clause whereby both parties will conduct periodic internal audits of the use, disclosure, and security with respect to information provided to each other. The audits are to be conducted within two years of the effective date of the MOU and, thereafter, at a minimum of once every five years.
+Objective:
+The objective of the audit was to provide assurance that the CRA is in compliance with the terms and conditions governing the use, disclosure, and security of information received from the WHSCC. The audit was conducted during the fiscal year 2005-2006, and was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Conclusion:
+Based on the audit work performed, it is our opinion that the CRA is generally in compliance with the terms and conditions of the MOU governing the use, disclosure, and security of information received from the WHSCC except as follows. The audit found that information stored on removable media, such as compact disks and files containing client information that are transmitted via e-mail are not encrypted according to CRA security standards. As well, information received from the WHSCC has not been destroyed where there is no longer a program related need to retain the information. There was no evidence that information was used for other than the purpose for which it was intended, or disclosed to anyone outside of the terms of the MOU.
+Action Plan:
+The Partnership Opportunities Section (POS) of the Taxpayer Services and Debt Management Branch will ensure that CDs containing databases of confidential client information are encrypted using approved CRA methods. Confidential client information, transmitted via e-mail, will also be encrypted. In addition, CDs and files were to be destroyed where there is no longer a business requirement to retain them. The POS has indicated that action plans would be implemented by July 31, 2006.
+Introduction
+The Canada Revenue Agency (CRA) has entered into a large number of Memoranda of Understanding (MOUs) and agreements with federal, provincial and territorial departments and agencies. This audit dealt with information received by the CRA under the MOU with the Workplace Health, Safety & Compensation Commission (WHSCC) of the Province of Newfoundland and Labrador (NF&L), signed on April 1, 2004.
+The purpose of the MOU between the CRA and the WHSCC is to exchange information in order to identify non-filers and non-registrants in their operational programs. Information provided to the CRA is registrant and employer data from WHSCC accounts.
+In 2003 the CRA (Partnership Opportunities Section of the Taxpayer Services and Debt Management Branch) received an information database on a compact disk from the WHSCC. The database contained account information on over 40,000 employers in Newfoundland and Labrador. The provincial database was then compared to employer information in several CRA systems such as INFODEC [
+Footnote 1
+], PAYDAC [
+Footnote 2
+], and BN [
+Footnote 3
+]. The comparison of the CRA and provincial databases produced two distinct files. The first file contained the names of employers who were registered with the WHSCC but did not appear to be registered for CRA programs. The second file contained the names of employers in Newfoundland and Labrador that were registered for CRA programs but did not appear to be registered with the WHSCC. The second file was subsequently copied to a compact disk and hand delivered to the WHSCC.
+In 2004, the CRA and the WHSCC jointly issued letters to about 400 employers in NF&L that were identified as potentially not being registered for CRA programs. The letters advised the employers to contact the CRA within 30 days to determine if registration was required. Subsequently, the Registrant Identification Program (RIP) unit at the Summerside Tax Centre (STC) initiated telephone contact with NF&L employers who did not respond to the letters within 30 days. Of those employers that the RIP unit was able to contact, some voluntarily registered for CRA programs. Additionally, the names of some employers were referred to the NF&L Tax Services Office (Non-Filer / Non Registrant Section) for further follow up. The Partnership Opportunities Section has indicated that, overall, the CRA registered 25 new registrants in NF&L. These new registrants reported a combination of gross payroll, income, and GST totaling approximately $900,000.
+Information exchange MOUs signed since 2001 generally include a clause whereby both parties will conduct periodic internal audits of the use, disclosure, and security with respect to information provided to each other. The audits are to be conducted within two years of the effective date of the MOU and, thereafter, at a minimum of once every five years.The inclusion of the internal audit clause was part of a Corporate Strategies and Business Development Branch initiative to strengthen the security and client confidentiality provisions of existing MOUs that provided for the exchange of confidential client information.
+Focus of the Audit
+The objective of the audit was to provide assurance that the CRA is in compliance with the terms and conditions governing the use, disclosure, and security of information received from the WHSCC.
+The scope of the audit included the Summerside Tax Centre (Registrant Identification Program), the Partnership Opportunities Section (POS) of the Taxpayer Services and Debt Management Branch (TSDMB), and the Information Technology Branch (Revenue and Accounting Systems and the Compliance and Business Intellligence Directorates). The audit was conducted during the fiscal year 2005-2006, and was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings, Recommendations and Action Plans
+Use and Disclosure of Information
+The MOU with the WHSCC states that information will be released to the CRA for the primary purpose of identifying non-filers and non-registrants in its operational programs. The MOU also states that the CRA will not disclose the information to a third party without first obtaining consent from the WHSCC.
+The data provided by the WHSCC is accessible only to a limited number of employees in the Agency and cannot be accessed through any of its mainframe systems. Therefore, limited audit procedures were performed in this area as the risks from inappropriate use and disclosure considered low. There was no evidence that information was used for other than the purpose for which it was intended.
+A review of documentation on the POS project, related to NF&L, indicated that information received from the WHSCC was used only to identify and register NF&L employers who were not registered for CRA programs. Once the original database was received from the province, it was transmitted to the Information Technology Branch for the purpose of comparing the data with that stored in CRA systems. Subsequently, less than 1% of the original data was electronically transmitted to the Summerside Tax Centre to facilitate telephone contact with less than 400 NF&L employers. Information on a small number of employers was transmitted to the Newfoundland and Labrador TSO where contact was unable to be made by the STC. Those interviewed indicated that the information received from WHSCC has not been communicated outside the CRA. Furthermore, the Security, Risk Management, and Internal Affairs Directorate of the Finance and Administration Branch has indicated that there have been no reported security incidents with respect to information received under the MOU.
+Controls in place regarding security awareness of employees (discussed later in this report) also serve to strengthen and enhance compliance with the terms and conditions for the use and disclosure of information. The implementation of specific measures such as registers of information sent and received would further support management controls in terms of monitoring and follow-up on the usage of information.
+Security and Safeguarding of Information
+The MOU with the WHSCC contains an appendix that outlines CRA security standards for the handling of protected client information. In addition, a separate document entitled
+Security Standards – CRA and Non-Federal Organizations Protection of Information
+was also jointly signed by the CRA and the WHSCC. Overall, the two documents refer to over 30 security standards applicable to the handling, storage, and disposition of information.
+Internal audit conducted a risk assessment to determine the most significant risks in relation to the information received from the WHSCC. The Information Security Division of the Finance and Administration Branch provided expert advice during the risk assessment. Based on the assessment, controls were examined in the following areas:
+Management of User Access Privileges;
+Storage;
+Encryption;
+Destruction of Information; and
+Security Awareness.
+Management of User Access Privileges
+The security of confidential client information is enhanced when access to information systems is only granted to employees when the information is needed to perform work-related activities. Furthermore, a management control system of user access rights ensures that employees do not accumulate user access rights when they change jobs within an organization. CRA security standards require that a record of all computer system access privileges is to be created and maintained for each person. In addition, a user's access privilege is to be kept current and immediately revoked or suspended when access to perform the assigned functions is no longer required. These security standards have been met in the RIP unit at the STC.
+An audit test of computer user profiles held by employees in the RIP unit at the STC indicated that employees only held user profiles in CRA mainframe systems that were compatible with their duties. Employees in the RIP unit require access to systems such as RAPID, Cortax, GST, and the BN systems to research whether employers, previously identified as potential non-registrants, are actually registered for CRA programs.
+The management of user access profiles at the STC is supported by a local application called
+Profile Requests Online
+(PRO). The PRO system is used to identify which specific user profiles are required for a particular job and also functions by automatic deletion of previous access rights to systems when an employee changes positions within the STC.
+Storage
+CRA security standards require that information stored on removable media such as compact disks (CDs) be stored in a locked cabinet. Furthermore, information should be stored on a server and not on an individual's computer hard drive. Based on physical inspection and interviews, these standards have been met in the POS.
+The observation of the storage of CDs in the POS, containing information received from the WHSCC, indicated that they were stored in a locked cabinet. In addition, electronic files containing the information were observed to be stored on a local file server.
+Encryption
+According to CRA security policies for the storage and electronic transmission of taxpayer information, removable media such as CDs, containing databases of confidential client information, should be encrypted using CRA approved methods. The CRA security standard included in the MOU requires that that removable media be encrypted. In addition, client information transmitted electronically via e-mail must also be encrypted.
+CDs containing client information databases received from the WHSCC are stored and transmitted without having been encrypted according to CRA standards. The employer information includes the name, address, telephone number, CRA business number, and estimated dollar value of payroll.
+In addition to backup copies of the CDs, other files containing related data subsets have been created though cross-referencing of the provincial data with CRA data. The cross-referencing was done to identify CRA registrants who are not registered as employers with the WHSCC; as well as employers who are registered with the WHSCC but not with the CRA. These files are stored in the POS as well as in the Information Technology Branch (ITB). Therefore, in addition to the original CD received from the WHSCC, several copies exist of either the original database or data subsets. These CDs are password protected but not encrypted according to CRA information security policy. Furthermore, files containing client information have been transmitted via e-mail within the CRA without encryption.
+Recommendation
+The POS of the Taxpayer Services and Debt Management Branch, should ensure that CDs containing databases of client information are encrypted according to CRA security policies. In addition, files containing client information that are transmitted via e-mail, should also be encrypted.
+Action Plan
+The POS will consult with ITB to ensure that CDs containing databases of confidential client information are encrypted according to CRA security policies. In addition, files sent via the CRA internal electronic mail system will be encrypted using the CRA approved encryption tool. An e-mail confidentiality clause will be attached to the electronic mail.
+The use of WINZIP 9, the approved encryption tool, is now mandatory for the transfer of confidential client information by POS. All employees of POS have had WINZIP 9 loaded on their computer system and the electronic version of the procedures manual has been distributed. Internal partners will be alerted to the need to use a similar encryption tool. Training in the use of WINZIP 9 has also been provided.
+POS responded that action plans would be implemented by July 31, 2006.
+Destruction of Information
+In accordance with the Finance and Administration Manual – Security Volume, classified and designated "Protected" information that is no longer required must be promptly discarded in a manner that will completely destroy the information. The MOU with the WHSCC also states that information is to be destroyed when no longer required. The MOU does not, however, prescribe specific retention periods for information.
+A CD containing a client information database was received from the WHSCC in 2003. In addition to the original CD received from the province, several copies exist of either the original database or data subsets. These CDs are stored in the POS and copies of the CDs are also stored in ITB (Revenue and Accounting Systems and the Compliance and Business Intelligence Directorates). The project undertaken by POS, relating to information received from WHSCC, was completed in 2004. Internal Audit found no program related need to retain the information.
+Several CRA branches and the Atlantic Region were involved in the project to identify employers, in Newfoundland and Labrador, who may not have been registered for CRA programs. This required that data files be shared among various parts of the organization.
+Recommendation
+The POS of the TSDMB should ensure that CDs and other electronic files containing databases of information received under the MOU are destroyed in accordance with information security policies. The POS should also advise other branches and regions, where the information is transmitted, of the requirement to destroy the information when it is no longer required.
+Action Plan
+The POS will begin immediately destroying extra copies of the compact discs containing the confidential information and will contact partners within the CRA and request that they destroy discs within their possession. POS will also contact the WHSCC advising them of our intention to destroy the discs. The destruction process will be completed by July 31, 2006.
+Security Awareness
+CRA administrative security standards related to the computing environment, and referenced in the MOU, include the following:
+Users are not to use access privileges for personal benefit or curiosity
+Computer system accounts and passwords are never to be shared
+Users are to ensure that access privileges are protected against unauthorized access when leaving their active session or when leaving the premises
+The audit did not find any instances in which the RIP unit at the STC compromised on the CRA security standards.
+In the Atlantic Region, an audit trail initiative commenced in November 2005. The initiative involves the selection of a random sample of employee user IDs in the region on a bi-monthly basis. Using the On-line Audit Trail System (OATS), a record is generated of each employee's access to taxpayer accounts in the RAPID, CORTAX and Business Number systems. Managers are then required to certify that accesses are for work-related purposes. Internal Audit reviewed a sample of an OATS report of systems accesses that was generated for an employee at the Summerside Tax Centre for January 2006. In addition, a review was done of the document that certified that all accesses to taxpayer accounts were according to CRA policies and guidelines. The document, signed by the employee's manager, also certified that the employee was informed of the review.
+A security awareness program is in place in the CRA and is delivered both on national and local levels. The program promotes awareness of policies and procedures related to the protection of CRA personnel, information, and physical assets. At the Summerside Tax Centre all employees that were interviewed reported that they had received security awareness training when they first joined the agency and periodically thereafter. Security issues are also regularly discussed at team meetings and employees also receive security reminders via e-mail. Additionally, security posters were observed reminding employees, for example, to lock their computers when they leave their workstations to prevent the inadvertent disclosure of confidential information. An additional and compensating control exists in the computing environment as users are automatically locked out of the network after 10 minutes of inactivity.
+On a national level, the
+Security, Risk Management, and Internal Affairs Directorate
+of the Finance and Administration Branch launched the electronic interactive awareness session called
+Protecting Agency Employees, Information, and Assets: I make it my business
+in February 2006 as part of security awareness week in the CRA. The session is composed of several modules. The modules cover such topics as personnel security screening, categorization and protection of information, reporting of security incidents, and access to personal income tax information. Additionally, at regular intervals throughout the year, the Directorate sends newsletters to all CRA employees via e-mail. The newsletters cover a range of security topics including e-mail security best practices, access to CRA systems, and protecting user IDs and passwords.
+Conclusion
+Based on the audit work performed, it is our opinion that the CRA is generally in compliance with the terms and conditions of the MOU governing the use, disclosure, and security of information received from the WHSCC except as follows. The audit found that information stored on removable media, such as compact disks and files containing client information that are transmitted via e-mail are not encrypted according to CRA security standards. As well, information received from the WHSCC has not been destroyed where there is no longer a program related need to retain the information. There was no evidence that information was used for other than the purpose for which it was intended, or disclosed to anyone outside of the terms of the MOU.
+Footnotes
+[Footnote 1]
+The Information Declaration System captures and stores information (e.g. T4 and T5 slips) provided by Employers, Financial Institutions and Government Agencies. The system is supportive of the
+Income Tax Act
+, and the
+Canada Pension Plan
+and
+Employment Insurance Act
+.
+[Footnote 2]
+The Payroll Deductions Accounting and Collection system (PAYDAC) provides an automated solution for all payroll deduction activities.
+[Footnote 3]
+The Business Number System contains registration data for over 8 million accounts of 4.7 million sole proprietorships, corporations, and partnerships.
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2007-01-04

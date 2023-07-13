@@ -1,0 +1,112 @@
+Audit of Information Received Under Memorandum of Understanding with The Workplace Safety and Insurance Board of Ontario
+Corporate Audit and Evaluation Branch
+October 2006
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+Use and Disclosure of Information
+Security and Safeguarding of Information
+Management of User Access Privileges
+Storage
+Encryption
+Destruction of Information
+Security Awareness
+Conclusion
+Executive Summary
+The Canada Revenue Agency (CRA) has entered into a large number of Memoranda of Understanding (MOUs) and agreements with federal, provincial and territorial departments and agencies. This audit dealt with information received by the CRA under the MOU with the Workplace Safety and Insurance Board (WSIB) of Ontario, signed on March 29, 2004.
+Information exchange MOUs signed since 2001 generally include a clause whereby both parties will conduct periodic internal audits of the use, communication to others and security with respect to information provided to each other. The MOU with the WSIB stipulates that the first audit shall be conducted within two years after the date the MOU comes into effect and thereafter on a periodic basis, at least once every five years. According to the MOU with the WSIB, the CRA and the WSIB agree to exchange information in order to identify non-filers and non-registrants in their respective operational programs. Registrant and employer data from WSIB accounts is provided to the CRA.
+Objective:
+The objective of the audit was to provide assurance that the CRA is in compliance with the terms and conditions governing the use, communication to others and security of information received from the WSIB. This audit was conducted during the fiscal year 2005-2006, and was conducted in accordance with
+International Standards for the Professional Practice of Internal Auditing.
+Conclusion:
+Based on the audit work performed, it is our opinion that the CRA is generally in compliance with the terms and conditions governing the use, communication to others and security of information received from the WSIB except as follows. The audit found that information stored on removable media, such as compact disks (CDs) and files containing client information that are transmitted via e-mail were not encrypted in accordance with CRA security standards and the terms of the MOU. Information received from the WSIB had not been destroyed where there was no longer a business requirement to retain the information. There was no evidence that information was used for other than the purpose for which it was intended, or disclosed to anyone outside of the terms of the MOU.
+Action Plan:
+The Partnership Opportunities Section (POS) of the Taxpayer Services and Debt Management Branch will ensure that CDs containing databases of confidential client information are encrypted using approved CRA methods. Confidential client information, transmitted via e-mail, will also be encrypted. In addition, CDs and files were to be destroyed where there is no longer a business requirement to retain them. The POS has indicated that action plans would be implemented by July 31, 2006.
+Introduction
+The Canada Revenue Agency (CRA) has entered into a large number of memoranda of Understanding (MOUs) and agreements with federal, provincial and territorial departments and agencies. This audit dealt with information received by the CRA under the MOU with the Workplace Safety and Insurance Board of Ontario (WSIB) signed on March 29, 2004.
+Information exchange MOUs signed since 2001 generally include a clause whereby both parties will conduct periodic internal audits of the use, communication, and security with respect to information provided to each other. The inclusion of the internal audit clause was part of a Corporate Strategies and Business Development Branchinitiative to strengthen the security and client confidentiality provisions of existing MOUs that provided for the exchange of confidential client information.
+The MOU with the Workplace Safety and Insurance Board of Ontario stipulates that the first audit shall be conducted within two years after the date the MOU comes into effect and thereafter on a periodic basis, at least once every five years. This audit was conducted during the fiscal year 2005-2006. In accordance with the terms of the MOU, this internal audit report will be communicated to the province of Ontario by the Corporate Strategies and Business Development Branch.
+This MOU establishes the administrative framework that governs the relationship between the CRA and the WSIB for the receipt or exchange of information in order to identify non-filers and non-registrants in their operational programs.
+In 2003, the Partnership Opportunities Section (POS) of the CRA's Taxpayer Services and Debt Management Branch (TSDMB) received the first information database on a compact disk (CD) from the WSIB of Ontario. The database contained account information on over 225,000 Ontario employers.
+Consequently, in 2004, the CRA and the WSIB jointly issued letters to about 7,500 employers in Ontario that were identified as potentially not being registered for CRA programs. The letters advised the employers to contact the CRA within 30 days to determine if registration was required. The Registrant Identification Program (RIP) unit at the Summerside Tax Centre initiated telephone contact with Ontario employers who did not respond to the letters within 30 days. Of those employers that the RIP unit was able to contact, some voluntarily registered for CRA programs. Additionally, the names of some employers were referred to the Southern Ontario Regional Champion in the Toronto West Tax Services Office (TSO) and the Northern Ontario Champion in the Kingston TSO for further distribution to Trust Accounts Divisions in other Ontario TSOs for follow up. The POS has indicated that overall, the CRA registered 304 new registrants from the initial mailing campaign. These new registrants reported a total gross payroll of approximately $8-10 million when submitting their remittances. The latest statistics provided by the WSIB indicate that 8,351 new registrants were assessed $31 million in premiums and to date, have collected $20.7 million of the assessments.
+Focus of the Audit
+The objective of the audit was to provide assurance that the CRA is in compliance with the terms and conditions governing the use, communication to others, and security of information received from the WSIB of Ontario.
+The scope of the audit included the Summerside TC, Toronto West and Hamilton TSOs and the POS in TSDMB. The audit was conducted during the fiscal year 2005-2006, and was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings, Recommendations and Action Plans
+Use and Disclosure of Information
+According to this MOU, information is to be used by the CRA solely for the administration and enforcement of the
+Income Tax Act
+and the
+Excise Tax Act;
+and information is only to be disclosed to others under the terms and conditions set out in the MOU.
+The data provided by the WSIB is accessible only to a limited number of employees in the agency and cannot be accessed through any of its mainframe systems. Therefore, limited audit procedures were performed in this area as the risks from inappropriate use and disclosure considered low. There was no evidence that information was used for other than the purpose for which it was intended.
+All selected interviewees reported that they used the information received from the WSIB solely for the intended purpose and that they were not aware of any security incidents relating to the inappropriate use and communication of information received from the WSIB. The Security, Risk Management, and Internal Affairs Directorate of the Finance and Administration Branch (FAB) confirmed that there have been no reported security incidents with respect to information received under the MOU.
+Controls in place regarding security awareness for employees (discussed later in this report) strengthen and enhance compliance to the terms and conditions for the use and disclosure of information. The implementation of specific measures such as registers of information sent and received would further support management controls in terms of monitoring and follow-up on the usage of information.
+Security and Safeguarding of Information
+Appendix E of the MOU outlines the requirements for the confidentiality and security of information, including adherence to the
+CCRA Security Standards for the Handling of Protected Client Information
+that includes security standards applicable to the handling, storage, and disposition of information. A separate document entitled “
+Security Standards – CRA and Non-Federal Organizations Protection of Information”
+was also jointly signed by the CRA and the WSIB. Overall, the two documents refer to over 30 security standards applicable to the handling, storage, and disposition of information.
+Internal audit conducted a risk assessment of the security standards, with support from the Information Security Division in FAB. The assessment determined the most significant risks within selected standards related to information received from the WSIB. Based on this assessment, the audit examined controls in the following areas:
+Management of User Access Privileges;
+Storage;
+Encryption;
+Destruction of Information; and
+Security Awareness.
+Management of User Access Privileges
+The security of confidential client information is enhanced when access to information systems is granted only to employees when the information is needed to perform work-related activities. The CRA security standards require that a record of all computer system access privileges is to be created and maintained for each person. A management control system of user access rights ensures that employees do not accumulate user access rights when they change jobs within an organization. User access privilege is to be kept current and immediately revoked or suspended when access to perform the assigned functions is no longer required.
+These security standards have been met in the RIP unit at the Summerside Tax Centre (STC) and in the selected Ontario TSOs. An audit test of computer user profiles held by selected employees indicated that user profiles were compatible with their duties. The management of user access profiles at the STC is supported by a local application called
+Profile Requests Online
+(PRO). PRO is used to identify specific user profiles required for a particular job and functions by automatic deletion of previous system access rights when employees change positions within the STC. The online request system used by the Ontario TSOs will soon be updated, based on the WebSAM application, developed by the Information Technology Division in the former Northern Ontario Region.
+Storage
+CRA security standards require that information stored on removable media such as compact disks (CDs) be stored in a locked cabinet. Furthermore, information should be stored on a server and not on an individual's computer hard drive. These standards have been met in the POS.
+The observation of the storage of CDs containing information received from WSIB in the POS, indicated that they were stored in a locked cabinet. In addition, electronic files containing the information were observed to be stored on a local file server.
+Encryption
+According to CRA security policies for the storage and electronic transmission of taxpayer information, information transmitted electronically and removable media such as CDs, containing databases of confidential client information, should be encrypted using CRA approved methods. Under the terms of the MOU, the CRA and the WSIB agreed that client information transmitted electronically and/or stored on removable media will be encrypted.
+Contrary to CRA security policies, CDs containing confidential client information databases received from the WSIB were transmitted without encryption. Similarly, files containing client information received from the WSIB were also transmitted without encryption. Client information included name, address, telephone number, CRA business number, and estimated dollar value of payroll.
+In addition to backup copies of the CDs, other files containing related data subsets have been created though cross-referencing of the provincial data with CRA data. The cross-referencing was done to identify CRA registrants who are not registered as employers with the WSIB as well as employers who are registered with the WSIB but not with the CRA. These files are stored in POS as well as in the Information Technology Branch (ITB). Therefore, copies of the original CDs exist of either the original database or data subsets. These CDs are password protected but not encrypted in accordance with the CRA information security policy. Furthermore, files containing client information have been transmitted via e-mail within the CRA without encryption.
+Recommendation
+The POS in the TSDMB, should ensure that CDs containing databases of client information are encrypted according to CRA security policies. In addition, files containing client information that are transmitted via e-mail should also be encrypted.
+Action Plan
+The POS will consult with ITB to ensure that CDs containing databases of confidential client information are encrypted according to CRA security policies. In addition, files sent via the CRA internal electronic mail system will be encrypted using the CRA approved encryption tool. An e-mail confidentiality clause will be attached to the electronic mail.
+The use of WINZIP 9, the approved encryption tool, is now mandatory for the transfer of confidential client information by POS. All employees of POS have had WINZIP 9 loaded on their computer system and the electronic version of the procedures manual has been distributed. Internal partners will be alerted to the need to use a similar encryption tool. Training will also be requested if needed.
+POS responded that action plans would be implemented by July 31, 2006
+.
+Destruction of Information
+In accordance with the Finance and Administration Manual – Security Volume, classified and designated "Protected" information that is no longer required must be promptly discarded in a manner that will completely destroy the information. The MOU with the WSIB also states that information is to be destroyed when no longer required. However, the MOU does not prescribe specific retention periods for information.
+In 2003, a CD containing a client information database was received from the WSIB for a project undertaken by the POS. In addition to the original CD, multiple copies exist of either the original database or data subsets. These CDs are stored in POS and copies of the CDs are also stored in the ITB. The POS project was completed in 2004. It does not appear that there is any further need to retain the information obtained under the MOU.
+Recommendation
+The POS of the TSDMB should ensure that CDs and other electronic files containing databases of information received under the MOU are destroyed in accordance with information security policies. The POS should also advise other branches and regions, where the information is transmitted, of the requirement to destroy the information when it is no longer required.
+Action Plan
+The POS will begin immediately destroying extra copies of the compact discs containing the confidential information and will contact partners within the CRA and request that they destroy discs within their possession. POS will also contact the WSIB advising them of our intention to destroy the discs. The destruction process will be completed by July 31, 2006.
+Security Awareness
+CRA security standards related to the computing environment, and contained in the MOU, include the following:
+Users are not to use access privileges for personal benefit or curiosity purposes;
+Computer system accounts and passwords are never to be shared; and
+Users are to ensure that access privileges are protected against unauthorized access when leaving their active session or when leaving the premises.
+The audit did not find any instances in which the CRA security standards were compromised. Security awareness initiatives are in place in the CRA and delivered nationally and locally. These initiatives promote awareness of policies and procedures related to the protection of CRA personnel, information, and physical assets. All selected interviewees at the Toronto West and Hamilton TSOs reported that they had received security awareness training when they first joined the Agency and periodically thereafter. Security issues were discussed regularly at team meetings. Employees received security reminders via e-mail. Additionally, security posters were posted, reminding employees to lock their computers when they leave their workstations to prevent the inadvertent disclosure of confidential information.
+In February 2006, the Security, Risk Management and Internal Affairs Directorate of FAB launched the electronic interactive awareness session called “
+Protecting Agency Employees, Information, and Assets: I make it my business
+” as part of security awareness week in the CRA. The session, composed of several modules, included such topics as personnel security screening, categorization and protection of information, reporting of security incidents, and access to personal income tax information. At regular intervals throughout the year, the Directorate sends newsletters to all CRA employees via e-mail. The newsletters cover a range of security topics including e-mail security best practices, access to CRA systems and protecting user IDs and passwords.
+Conclusion
+Based on the audit work performed, it is our opinion that the CRA is generally in compliance with the terms and conditions governing the use, communication to others and security of information received from the WSIB except as follows. The audit found that information stored on removable media, such as compact disks (CDs) and files containing client information that are transmitted via e-mail were not encrypted in accordance with CRA security standards and the terms of the MOU. Information received from the WSIB had not been destroyed where there was no longer a business requirement to retain the information. There was no evidence that information was used for other than the purpose for which it was intended, or disclosed to anyone outside of the terms of the MOU.
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2007-01-04
