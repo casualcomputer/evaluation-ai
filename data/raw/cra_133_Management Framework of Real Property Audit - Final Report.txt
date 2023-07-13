@@ -1,0 +1,317 @@
+Management Framework of Real Property Audit
+Internal Audit Report
+Corporate Audit and Evaluation Branch
+January 2009
+Table of Contents
+Executive Summary
+Introduction
+Objective and Scope of Audit
+Findings, Recommendations and Action Plans
+1.0 Strategic and Operational Real Property Planning
+1.1 Mandate, Goals, Objectives, Priorities and Plans
+1.2 Organizational Structure
+1.3 Committees
+1.4 Roles and Responsibilities
+1.5 Financial Management and Approval Authorities
+1.6 Policies and Procedures
+2.0 Client Services
+2.1 Annual Planning
+2.2 Service Standards
+2.3 Client Feedback
+2.4 Reporting Mechanism for Dispute Resolution (CRA/PWGSC)
+3.0 Monitoring
+3.1 Performance Measurement
+3.2 Compliance
+3.3 Systems and Tools
+3.4 Risk Management Process
+3.5 Training and Learning
+Conclusion
+Appendix – Acronyms
+Executive Summary
+Background:
+The Canada Revenue Agency's (CRA) real property operating environment is governed by its authority as defined in Bill C-43. This Bill vests the CRA with administrative authority intended to support the specific needs of the Agency. In regards to real property it includes the power to acquire, dispose of, and manage real property (RP) according to its own rules and regulations; and, to choose its own service providers. CRA entered into a performance based partnership with Public Works and Government Services Canada (PWGSC) as CRA's exclusive real property service provider. A management framework and unique reporting structure were also put in place to fulfill these accountabilities, led by a Director General, Real Property and Service Integration Directorate (RPSID), accountable to senior management in both the CRA and PWGSC.
+In March of 2007, the Treasury Board approved a joint
+CRA
+/PWGSC submission. CRA was allocated the necessary funds to exercise its authorities establishing a quasi market-based real property reimbursing regime with PWGSC. The operating framework of the regime was outlined in a new Real Property Services Agreement (RPSA) between
+CRA
+and PWGSC. This partnership assigned each party with distinct responsibilities and accountabilities. CRA's stewardship accountabilities focus on defining its accommodation requirements and program governance. As CRA's exclusive service provider, PWGSC is accountable to provide quality, timely and cost effective accommodation solutions and real property services that meet the CRA's specifications. The RPSA further states that an independent formal review of the services and the business partnership will take place three years after the implementation of the CRA's quasi-reimbursing status.
+In addition to the role of the RPSID at Headquarters, the regional real property function has a crucial role to play in the delivery of real property services. With the field restructuring of the Finance and Administration function in 2006, RP Centres of Expertise (COEs) were established consisting of real property and accommodation staff.
+Objective and scope:
+The objective of the internal audit was to determine whether the CRA's real property program has the necessary management framework and mechanisms in place to support its accountabilities and objectives.
+Even though the real property roles, responsibilities and activities are shared between CRA and PWGSC, the scope of this internal audit focussed on CRA management responsibilities in regards to real property including the function at Headquarters and in the regions.
+The examination phase of the audit was conducted from March to June 2008. Interviews and review of key documentation were conducted at Headquarters and in four regions. Of the twelve regional sites chosen, three were located in the National Capital Region, four in Atlantic, two in Quebec, and three in Prairies. Examination of real property projects was limited to those recently completed during the 2007-2008 fiscal year and included call centres in the Atlantic and Prairies.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Conclusion:
+The RPSID implemented a basic management framework to support its accountabilities and objectives. In order to implement this framework, a governance structure, an investment planning process, a project approval process, the RPSA and five regional COE were established. However, opportunities exist to improve and further develop this framework.
+Several important initiatives such as, developing a business plan, updating 1999 Finance and Administration Manual (FAM) real property policies, reviewing the real property committees' structure, developing formal training profiles and training plans were not in place or fully developed. This can be explained by the fact that permanent resources had not been secured and thus there were delays in staffing the positions permanently. The RPSID would strongly benefit by having a business plan outlining its priorities, goals and vision. Such a plan should include mandate, strategic directions and demonstrate the RPSID's valuable role within CRA.
+The framework supporting the development and management of major tenant service projects comprising of funding plans, the annual Long-Term Accommodation Investment Plan, the preparation of project charters and the creation of project teams were in place and were well managed by the RPSID, the COE and PWGSC. Clients were generally satisfied with the quality of minor tenant service projects; however, there was confusion with respect to roles and responsibilities. In addition, there were no uniform mechanisms to collect client feedback nationally.
+The absence of a fully developed effective performance measurement framework limits CRA's ability to monitor, formally assess and report on performance as required by the RPSA. Service standards need to be further developed, performance measures established, and a reporting and monitoring framework implemented.
+By acting on these opportunities, RPSID and PWGSC will be prepared to annually evaluate client satisfaction and implement the RPSA in its entirety. The RPSID needs to be prepared for the independent formal review of the services and the business partnership, planned for 2010, three years after the implementation of RPSA.
+Action Plans:
+The RPSID is in agreement with the recommendations and has developed relevant action plans to address them and strengthen the real property program within the Agency. A few recommendations have already been acted upon during the course of the internal audit, while the remaining recommendations will be completed over the next few quarters. Furthermore and as needed, it will be necessary for the RPSID to consult and collaborate with other entities involved in the delivery of real property services.
+The RPSID completed their first business plan in December 2008 and staffing actions and selection processes are also in progress. Meetings have been initiated with other CRA Branches to coordinate the delivery of real property services. Furthermore, draft committee charters have also been developed and necessary consultations will follow. However, one area that will require a longer time frame will be the development of entire real property policy suite. A first step consists of identifying and appointing the required resources, and aligning to the larger corporate policy initiative currently underway. Additional to these activities, the RPSID will develop tools to support staff for project management.
+The RPSID recognizes the value added of monitoring activities and performance reporting. Therefore, efforts will be taking place to improve monitoring functions. An annual performance report was completed and approved in December 2008, covering fiscal year 2007-2008 and quarterly performance reporting on major tenant service projects will occur in the third quarter of 2008-2009. As well, a project status report template for major projects has been drafted.
+Introduction
+The enactment of Bill C-43,
+Canada Customs and Revenue Agency Act
+, in 1999 provided the Canada Customs and Revenue Agency, now Canada Revenue Agency (CRA), with the legislative authority to carry out its mandate. Bill C-43 vested the CRA with administrative authorities intended to support the specific needs of the Agency. It includes the authority to acquire, dispose of, and manage real property (RP) according to its own rules and regulations; and to choose its own service providers. After an evaluation of alternatives and deliberation at the senior levels in both organizations, it was agreed in 2002 that CRA enter into a renewed performance based partnership with Public Works and Government Services Canada (PWGSC) as CRA's exclusive real property service provider.
+Since then, CRA's real property portfolio has been managed under the spirit of this partnership while PWGSC received funds directly from the Treasury Board. In March of 2007, CRA was allocated the necessary funds to exercise its authorities when the Joint CRA/PWGSC Treasury Board Submission was approved, officially setting in place the new Quasi Market-Based Reimbursing Regime. The Joint Treasury Board Submission resulted in the direct transfer of gross program expenditures of $273.8M from Treasury Board Secretariat (TBS) to CRA beginning in fiscal year 2007-2008. This transfer covered the aggregate of the annual market-based rent as per the Occupancy Instruments, and the estimated annual fit-up costs associated with renewing or replacing CRA occupied space. The total transfer is placed in a Special Purpose Allotment (SPA) from which CRA reimburses PWGSC on a quarterly basis for services rendered.
+It was agreed that the new regime would be guided by a Real Property Service Agreement (RPSA) that was signed by both organizations in April 2007. Under this regime, CRA purchases all accommodation solutions from PWGSC. The RPSA outlines each party's accountabilities. The CRA as the recipient of services exercises a stewardship role and is accountable for providing strategic direction pertaining to its program driven requirements, defining and communicating its accommodation and service requirements to PWGSC in a timely and effective manner. As CRA's exclusive service provider, PWGSC is accountable to provide quality, timely and cost effective accommodation solutions and real property services that meet CRA's specifications. PWGSC is also responsible for developing, in consultation with CRA, meaningful and appropriate levels of service and performance for the delivery of required services. A management framework and unique reporting structure were put in place to fulfill these accountabilities. The Real Property and Service Integration Directorate (RPSID), Finance and Administration Branch (FAB), is led by a Director General who is accountable to senior management in both CRA and PWGSC.
+Space is provided by PWGSC on the basis of Treasury Board authorities that establish the total amount of space a department can occupy by fiscal year.
+[Footnote 1]
+According to the RPSID's current Long-Term Accommodation Investment Plan,
+CRA
+is the largest user of PWGSC's portfolio of crown-owned and crown-leased space, occupying over 927,600 square meters at 150 sites across Canada.
+[Footnote 2]
+Objective and Scope of Audit
+The objective of the internal audit was to determine whether the CRA's real property program has the necessary management framework and mechanisms in place to support its accountabilities and objectives.
+Even though the real property roles, responsibilities and activities are shared between CRA and PWGSC, the scope of this internal audit focussed on CRA management responsibilities in regards to real property including the function at Headquarters and in the regions. The audit work was developed under the following three lines of enquiry:
+Strategic and Operational Real Property Planning;
+Client Services; and
+Monitoring.
+The examination phase of the audit was conducted from March to June 2008. Interviews and review of key documentation was conducted at Headquarters and in four regions. Of the 12 regional sites chosen, 3 were located in the National Capital Region, 4 in Atlantic, 2 in Quebec, and 3 in Prairies. Examination of real property projects was limited to those recently completed during the 2007-2008 fiscal year and included Call Centres in Atlantic and Prairies.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Findings, Recommendations and Action Plans
+1.0 Strategic and Operational Real Property Planning
+Strategic and operational planning consists of establishing an organization's mandate, goals, objectives, policies, procedures, organizational structure and financial management to support program objectives. These main elements should be clearly defined and communicated to all levels of the organization.
+1.1 Mandate, Goals, Objectives, Priorities and Plans
+The mandate, goals, objectives, priorities and plans should be clearly defined and communicated regularly at the national, regional and local level in support of the delivery of the CRA's real property program.
+There were informal goals, objectives and priorities that were not clearly defined or consolidated in a strategic real property planning document, such as a Directorate business plan. The RP management team stated that the absence of such a plan was a result of a lack of staff and multiple priorities, one of which was the finalization of the RPSA. Although the FAB Business Plan includes some RPSID initiatives these were listed more as expected results and outcomes, such as the full implementation of the RPSA. The RPSID and regions prepare an annual Long-Term Accommodation Investment Plan (LTAIP) that is used for operational purposes and is shared internally within CRA and also with PWGSC. This plan is a useful tool outlining CRA's strategic direction for the planning and management of its accommodation portfolio and includes a national five year investment plan, on-going and future real property and lease renewal projects.
+InfoZone, the Agency's internal Web site, presents the mandate for each of the three real property divisions. However, there is no clearly defined mandate for the Directorate on this site, or in any other document reviewed during the audit. Interviews with real property staff and clients revealed the need to define and communicate the mandate.
+Recommendation
+The RPSID should develop a business plan that includes the RPSID's mandate, goals, objectives and priorities and is in line with CRA's strategic direction.
+Action Plan
+The RPSID completed their first business plan confirming the mission, mandate, vision objectives and direction for the RP program and approved by the Real Property Management Committee in December 2008.
+1.2 Organizational Structure
+An approved and fully implemented organizational structure is needed at all levels, both in the regions and at RPSID, to ensure that goals, objectives, roles and responsibilities are fulfilled. Furthermore, the structure should be flexible to allow for adaptability to program changes.
+The RP program includes a total of 181 full time equivalents, 56 of which were located in Headquarters and 125 in CRA offices in the regions including Administration staff. The program consists of three Headquarters divisions led by a Director General accountable to both CRA and PWGSC and five regional teams led by regional assistant directors. The National Real Property Stewardship Division (
+NRP
+Stewardship Division) performs the corporate role in the development of the framework and strategic direction for CRA's real property program; the Programming, Resources and Evaluation Division (PRED) is responsible for the strategic and tactical management of the RP program's fiscal, resource and performance management obligations and accountabilities; and National Real Property Solutions Division (NRP Solutions) is responsible for liaising with PWGSC for national solutions issues as well as the NCR stewardship and delivery of accommodation solutions and services to the CRA Branches at Headquarters.
+The regional real property function has an integral role to play in the delivery of real property services. The organizational structures in the regions visited have been implemented according to the approved May 2006 Finance and Administration (F&A) reorganization model. Following the reorganization, COEs were created in each region. They were comprised of six real property staff headed by an Assistant Director, Real Property, and accommodation staff supervised by an Assistant Director, Administration.
+The National Capital Region operates with two units reporting to the NRP Solutions Division director. The first unit, National Capital Area Stewardship (NCA Stewardship) was staffed by CRA employees only. The second, the Integrated Services Team Unit was comprised of both CRA and PWGSC employees and supervised by a PWGSC manager. At the time of the audit, the Integrated Services Team Unit included seven CRA employees in its operation that were actually identified as part of the NCA Stewardship unit according to the directorate organizational chart provided to the internal audit team. Therefore, this division was not operating as per the chart given by the RPSID. The management team explained their intention to review this structure.
+In addition, there were a few lengthy acting appointments and many positions that were not staffed. Consequently, several important RPSID initiatives were deferred. RPSID's senior management explained that they were unable to secure some permanent positions due to the pending status of the RPSA prior to its signing in 2007.
+Recommendations
+RPSID should resolve their operational structure within the NRP Solutions Division.
+RPSID should staff all authorized positions so it can efficiently manage the real property program and its initiatives.
+Action Plans
+The RPSID recognizes the need to resolve the operational structure within the NRP Solutions Division. Discussions will be initiated soon with the intent to harmonize the operational and organizational structure by the end of the third quarter in 2009-2010.
+Staffing actions and selection processes are in progress in the RPSID and anticipated completion is in the third quarter of 2009-2010.
+1.3 Committees
+The "Real Property Management Framework" (RPMF) outlines the governance structure of the real property program. The RPMF is a fundamental document providing information on real property authorities and the committee structure. Committees are part of the decision making process and therefore exercise an important role towards the achievement of the real property program's objectives.
+Six real property committees were in place and only one of them, the Strategic Investment Board (SIB) has a formally approved mandate and charter. However, the charter which dates back to June 2000 is not reflective of the current organizational structure. The membership of the SIB includes the Director General, RPSID, the F&A Regional directors and the National Real Property Solutions Division's Director. The National Investment Analysis Committee, consisting of RPSID staff, was created in 2002 and formally constituted in 2005 and provides SIB with a review and challenge function for real property investments.
+There is also the National Capital Region Accommodations Committee (NCRAC) in operation at the NCR for supporting Program Branch clients and Agency requirements in the provision of office and special purpose spaces. The interrelation of the remaining three committees of RP staff, the Directorate Management Committee, the Real Property Management Committee and the Real Property Operations Committee was not clear and some of their roles and responsibilities were very similar. A review of the committee structure was initiated, but was put on hold by the RPSID due to a multiplicity of demands and priorities on available resources.
+Recommendation
+RPSID should review the mandates and formalize the terms of reference of the committees to ensure that they contribute to the effective delivery of the real property program.
+Action Plan
+Progress has been made in this area, as draft committee charters have been prepared for each committee. The NRP Stewardship Division will initiate the necessary consultations and final charters will be completed in the first quarter in 2009-2010.
+1.4 Roles and Responsibilities
+It is important that roles and responsibilities be clearly defined, communicated, understood and function at all levels of the real property program since multiple players are involved in the delivery of real property services. The following internal and external stakeholders play a significant role in the delivery of real property and accommodation services within the CRA:
+The Accommodation officers in all regions, except the NCR;
+Information Technology Branch;
+Security, Risk Management and Internal Affairs Directorate;
+RP clients located in the Branches and Regions;
+Branch Facility Officers fulfilling particular needs in the NCR;
+PWGSC, CRA's exclusive real property service provider in the areas of Accommodation, Property, Facility and Project management;
+PWGSC's exclusive property management service provider;
+Sub-contractors hired to execute RP and accommodation work; and
+Building owners, in leased facilities.
+The Administration function in the regions operates in partnership with RP. They have an integral role to play with the RP COE. The RP COE is headed by the Assistant Director of Real Property and is also comprised of staff from the Administration Directorate. Stewardship, oversight and service delivery of the RP program are responsibilities of the RP COE, while the Administration function oversees the day-to-day management of accommodation services and minor tenant service projects (expenditures of less than $100K) across the respective regions. The accommodation officers report to both the RP COE and also to their Administration managers. In one of the four regions visited, the internal audit team noted some confusion regarding this dual reporting relationship within the COE. Clients receiving real property services mentioned that these confusions resulted into project delays, since the accommodation officers' roles and responsibilities were not clearly defined.
+The size, complexity and costs related to projects and the type of building ownership dictate which stakeholders are involved in the delivery of services. Interviews with CRA clients in the regions visited confirmed that such roles and responsibilities are not always clearly established, assigned, understood or communicated. The absence of clearly stated COE roles and responsibilities resulted in the inability to follow certain project status and hold players accountable. Furthermore, some clients in the regions visited expressed that projects were delayed due to a lack of established communication and coordination between stakeholders and clients, thereby resulting in unexpected project delivery costs, delayed timelines and frustration by the clients. As a result, some clients needed to exercise extensive monitoring of projects. Also, there were concerns and confusion with respect to which organization (RPSID, Administration Directorate, Program Branches, Information Technology Branch, Security Directorate, etc.) was responsible for certain costs.
+Recommendation
+The RPSID should clarify and communicate roles and responsibilities for all the entities involved in real property and accommodation activities.
+Action Plan
+The PRED has recently initiated meetings with the ITB, Administration Directorate and the Security Risk Management and Internal Affairs Directorate to clarify roles and responsibilities. The PRED intends to document and circulate these roles and responsibilities. The anticipated completion is in the fourth quarter of 2009-2010.
+1.5 Financial Management and Approval Authorities
+The budget allocation process and real property project management requires the support of managers that have the appropriate real property and financial delegation authorities to fulfill their responsibilities. The processes should be clearly defined and periodically assessed to support the efficient use of resources and based on objectives, priorities and expected results.
+The CRA's Real Property budget for fiscal year 2007-2008 was $308M. This amount includes rentals and fit-up costs; major and minor tenant service budgets; and salaries and ongoing operations and maintenance for all RP resources.
+PRED is responsible for coordinating the funding requirements and budget allocation processes for the Directorate and the regions. Review of documentation and interviews with managers indicated that funding plans were implemented and mechanisms were in place to periodically assess that resources were allocated according to the approved budget for the real property projects. However, CRA is faced with the challenge of receiving timely information from PWGSC. Many HQ and regional staff and managers mentioned that the lack of timely information frequently resulted in project delivery delays and resource lapses, including one of over $700K. The Pacific Region, as mentioned in the current LTAIP, was successful in obtaining more timely financial information on completed projects from the regional PWGSC managers.
+The real property approval authorities were well defined in supporting RPSID and regional documentation. The RPMF describes the three levels of approval authorities involved in the real property project approval process. The first involves the regional Finance and Administration directors who approve minor tenant services projects of less than $100K. The second consists of the SIB that approves planned major projects having real property expenditures of $100K or more funded by either RPSID and/or the affected program area. The third level, resides with the Resources and Investment Management Committee (RIMC), a CRA corporate committee. The RIMC approves planned major projects having expenditures of $1M or more in two situations. It will approve cases where the costs related to the CRA Real Property component of the project may exceed $1M in any fiscal year and where the RIMC, the Agency Management Committee or Treasury Board approval was not already obtained. Furthermore, RIMC also approves cases where there is a request for incremental funding from the Agency's Strategic Priorities Fund. In addition to the three levels described above and as per the RPSA, the final level involves projects whose total is greater than $20M, which are approved by the Resources Committee of the Board of Management.
+The projects that were chosen as part of the audit examination involved the first two levels of authorities as they did not exceed the $1M threshold. The interviews and the review of project documentation confirmed that the approval process was functioning as intended and was respected.
+Recommendation
+RPSID should implement, in collaboration with their service provider (PWGSC), a national mechanism to ensure the timely transfer of financial information and progress on projects.
+Action Plans
+By the end of fiscal year 2008-2009, the PRED will implement a project status report for all major tenant service projects. Further development will occur in fiscal year 2009-2010 to also include other significant minor tenant services projects.
+During fiscal year 2009-2010, in collaboration with PWGSC, the PRED will also take necessary action to further implement financial performance measures stated in the RPSA.
+1.6 Policies and Procedures
+Appropriate and applicable policies and procedures should be established and communicated to provide operational guidance to Headquarters, regional and local staff. Such policies and procedures are needed to ensure that real property projects are executed consistently while reflecting the needs of the CRA.
+CRA's FAM chapters on real property and the real property policy framework have not been formally reviewed nor updated since November 1999. These policies do not always reflect the current reality as several notable changes have occurred at CRA and within the real property organization since 1999. Among these changes included the departure of Customs from the Agency, the Finance and Administration reorganization of 2006 and the official approval of the RPSA in April 2007. In 2006, an initiative was proposed to review and update the policy and procedure suite; however, it was never completed due to other priorities, such as finalizing the RPSA.
+One issue raised during the audit concerned the inaccuracy of the delegated real property authorities in the Real Property Management Operational Procedure, Real Property Authority, in FAM, dated November 1999. In November 2007, Internal Audit brought this situation to the attention of RPSID who recognized the outdated documentation and was following up with the Administration Directorate. As of November 2008, FAM documentation had not been modified.
+Also, there were tools, documents, standards and guidelines on Infozone, the Agency's internal Web site, while others were under development. During the audit, there were no final national procedures for providing direction to the COEs by the RPSID. However, a new and valuable initiative was recently advanced as the Atlantic COE was tasked to draft Standard Operating Procedures (SOPs) for joint CRA/PWGSC planning and preparation of Regional Accommodation Plans and Investment Analysis Reports to be applied nationally by RPSID.
+Recommendation
+The RPSID should review and update the policies and procedures to accurately reflect the changes that have occurred since 1999, including approved real property authorities.
+Action Plans
+The RPSID recognizes the importance of revising the current policies and procedures. RPSID is now coordinating work on the RP FAM within the larger review of the Agency Corporate Policy Governance Structure framework currently underway. The timeline given to review and update all existing governance instruments is to be within a 5 year time frame.
+NRP Stewardship Division intends to identify, appoint and execute the necessary resources required to conduct the review. It will also involve other directorates, as required. RPSID intends to expedite the review and final updates of policies, directives, procedures, guidelines and standards sooner than the five year time frame, which will be done in sequence and completed by the NRP Stewardship Division in the fourth quarter of 2010-2011.
+Furthermore, PRED will review the relevant sections of FAM that address the delegation of authority and ensure the information is current and appropriate in 2009-10.
+2.0 Client Services
+Real property and accommodation services are delivered by several entities and are provided to clients across Canada. To effectively meet the needs of different clients, a consistent and formal planning process is needed. This process can be further supported by establishing service standards and a client feedback mechanism to assess the delivery of services so future client services may be improved if required.
+2.1 Annual Planning
+It is important for the real property annual planning process to include a consistent and effective approach to gathering information from the clients in order to provide them with an opportunity to express their real property needs.
+The contact between Real Property and their clients is an initial step in the annual planning process that culminates in the LTAIP. This plan sets out the strategic direction for the planning and management of the CRA's accommodation portfolio along with a national five-year investment plan.
+The COE in the regions send out annual call letters asking directors to identify their real property needs. Stakeholders expressed appreciation for this practice. On the other hand, the real property planning process in the NCR is less formal, whereby NRP Solutions Division consults the real property client branch representatives concerning their needs. Most of these representatives were middle management staff and members of the National Capital Region Accommodations Committee (NCRAC). Interviews in the NCR indicated that this informal consulting process was not always reaching branch heads in some HQ branches. This lack of awareness resulted in NRP Solutions not always being aware of future strategic NCR branches needs.
+Recommendation
+To ensure consistency within the NCR, the RPSID should establish a formal process for branch heads requesting information on their real property needs.
+Action Plan
+Consultations are currently made on a project basis and through regular meetings with program representatives. However, the NRP Solutions Division is now developing a more structured and formal annual planning process to address NCR accommodation demands. This new process will be completed by June 2009.
+2.2 Service Standards
+National client service standards for all real property services should be established and communicated to evaluate the efficiency of the RPSA, the performance of PWGSC and provide measurable targets for client satisfaction. Established client service standards may also assist the RPSID with the independent formal review of the RPSA planned for 2010.
+As per the RPSA, CRA and PWGSC are accountable to ensure that appropriate accommodation and real property services are delivered. PWGSC is to provide quality, timely and cost effective services, while the CRA is to define and communicate service requirements to PWGSC.
+At the time of the audit, few client service standards existed and were mostly applicable only to the NCR. Some qualitative measures related to the client satisfaction dimension included responsiveness and quality of service. In addition, the standard relating to project cost management of the financial management dimension was under development. While these standards existed on paper, they still need to be further developed.
+Clearly established client service standards applicable to all CRA regions and the RPSID were absent. Such an absence resulted into RPSID's inability to assess the delivery of services it provided to clients and the services provided by PWGSC.
+Recommendation
+In accordance with the RPSA, RPSID should work with PWGSC to develop and communicate key service standards to stakeholders.
+Action Plan
+Service standards will be developed by the PRED with PWGSC and embedded in the RPSID's recently developed performance management and reporting framework. Following the maturity of the standards, they will be communicated to the stakeholders. These steps will be completed in 2009-2010.
+2.3 Client Feedback
+It is important to have a mechanism in place and used to capture client feedback on the delivery of real property services to provide clients with an opportunity to express their level of satisfaction on the service delivered.
+Site visits and interviews with senior regional managers, including the NCR, indicated that they were generally satisfied with the quality and timeliness of accommodation services and real property projects, particularly large projects such as the call centres. However, clients were not satisfied with the delays associated with some minor tenant service projects.
+Client feedback on completed projects was not consistently captured as there were different mechanisms in place in all the regions visited. Furthermore, the mechanisms were not being used to their full capacities.
+For example, in the NCR there is an integrated Access database compiling information contained in the Request for Accommodation Services (RFAS) forms. These forms include a client feedback section permitting clients to provide information on the timeliness and satisfaction level on the received services. However, the RPSID was not returning the RFAS forms to clients to request their feedback in a timely manner. As a result, RFAS' were not always completed by the clients and the RPSID had great difficulty obtaining a complete and reliable assessment of client satisfaction throughout this process.
+Also, the F&A Branch recently developed a Helpdesk Solution System known as WINFAST to provide CRA clients with a means of requesting and receiving services provided within their branch. Small accommodation service requests can be logged through this system and managed by Accommodation officers. There is also a feature within WINFAST that can collect client feedback. An assessment on the effectiveness of this function was not possible as this feature was temporarily not working at the time of this audit.
+Finally, every two years PWGSC conducts a government-wide survey to evaluate real property services. The CRA has not participated in this survey in the past, but is a participant in the 2008 survey. RPSID will be provided a report of the survey results specific to CRA occupancies during last quarter of 2008-2009.
+Recommendation
+RPSID should develop a national client satisfaction feedback mechanism to enable them to improve their services
+.
+Action Plan
+PRED has developed a client satisfaction survey to support the project status report for all major tenant service projects as an initial step. This mechanism will be fully operational by the end of fiscal year 2008-2009. Furthermore, as part of our continued development of a performance management framework, mechanisms will be further developed in 2009-2010 to collect client feedback on all of our real property services. During the same period, PRED will also assess how the findings of the PWGSC survey can be used to address client concerns and real property issues. The results of this survey are expected to be provided to RPSID during the first quarter of fiscal year 2009-2010.
+2.4 Reporting Mechanism for Dispute Resolution (CRA/PWGSC)
+In the context of the RPSA in which the PWGSC is the exclusive real property service provider, a process is needed to capture information on dispute resolutions and how they were resolved with the objective of preventing similar disputes in the future.
+There is a formal process outlined in the RPSA for resolving disputes between CRA and PWGSC. All interviews with RP and Accommodation managers confirmed that disputes are resolved informally at the lowest level, referring to a higher level only when necessary.
+No evidence could be obtained that RPSID and the regions formally captured dispute resolution information. RPSID could benefit from establishing a system or tool to capture and consolidate information on disputes. This would allow the RPSID to consult this information as required and also assist them in resolving similar issues arising elsewhere. This practice would also permit CRA and PWGSC to maintain a good working relationship.
+Recommendation
+RPSID should implement national guidelines and tools to capture comprehensive information on dispute resolution to prevent and resolve similar issues.
+Action Plan
+This activity will be an ongoing evolution as performance reporting progresses. A reporting tool will be integrated with the performance management and reporting initiative in 2009-2010 by the PRED.
+3.0 Monitoring
+Monitoring is the responsibility of all managers at all levels and must be performed for the purposes of making informed decisions; reporting on accountabilities; identifying, evaluating and mitigating risks; assessing the quality of work; and continuously improving the operations. Effective monitoring includes the need for controls to ensure compliance and the ability to measure performance, to report on progress and improve operations. To fulfill and support these functions, adequate systems and tools are needed.
+3.1 Performance Measurement
+An effective performance measurement framework will facilitate the ongoing measurement of progress towards the achievement of organizational goals and objectives.
+The RPSA states that the CRA and PWGSC business partnership is performance-based. According to the RPSA, a "Performance Management Framework established by the CRA and PWGSC is a systematic approach to measure the performance of the Service Provider" in relation to the agreed upon client expectations. The success of the RPSA is dependant on the evolution and development of appropriate and acceptable benchmarks, effective performance measures and their targets, and the required tools to capture data and report on client expectations, timelines, value for money and cost control. The RPSA acknowledges the absence of service levels and established benchmarks in many service areas.
+A review of supporting documentation and interviews indicated that little progress has been made to develop performance measures to date and many aspects of the performance measurement framework need further development. The RPSID, COEs and administration staff used the Corporate Administrative System (CAS) as their primary tool to track financial expenses on real property. Other tools such as project charters, informal progress reports, committee meetings and space reports were used; however, there was no common tool available and applicable for the regions and the RPSID. Until an effective performance measurement framework is developed, CRA is not in a position to effectively assess the performance of PWGSC and the real property program. Furthermore, CRA could not identify performance gaps, set improvement targets or improve upon results.
+Recommendation
+RPSID should further develop and enhance its performance measurement framework against established goals and objectives.
+Action Plans
+In December 2008, PRED completed an annual performance report for fiscal year 2007-2008. This report will be posted on Infozone during the fourth quarter of 2008-2009 and will be provided to appropriate PWGSC stakeholders. Such a report will be prepared annually.
+A preliminary performance management framework is being developed by PRED and will be presented to Directorate Management Committee in March 2009 for approval. This document will be evolving over the next two to three fiscal years.
+Furthermore, quarterly performance reporting on major tenant services projects will commence in the third quarter of 2008-2009. These reports will also evolve over the next two to three fiscal years and will eventually expand to include significant minor tenant services and RPSID initiatives.
+3.2 Compliance
+Controls must be in place and operate effectively to ensure compliance with key legislation, regulations authorities and agreements.
+Review of documentation and interviews confirmed that CRA implemented adequate controls ensuring compliance with abiding legislation, regulations, authorities and agreements. For example, for projects examined as part of the audit, both the CRA and PWGSC applied appropriate controls to make certain that CRA and Government of Canada (GoC) Fit-up Standards were respected. Some managers with different accommodation needs were not satisfied with all of the CRA standards and requested permission to deviate from the approved fit-up standards.
+RPSID has implemented procedures for managers to submit requests for non-compliant fit-up standards to NRP Stewardship Division and ultimately for decision by the Assistant Commissioner of F&A. All approved requests are posted on Infozone. However, there was no record of other requests that do not go through the complete process for different reasons. In documenting all requests, NRP Stewardship Division would demonstrate consistency of application of the fit-up standards and eliminate or reduce the need to address similar requests.
+Recommendation
+The RPSID should track all requests for non-compliant fit‑up standards, decisions and rationale for future reference.
+Action Plan
+The NRP Stewardship Division recognizes the merits of this recommendation and will immediately implement an approach that collects and registers all requests submitted for decision making. Best practices, and/or guidance commentary will then be posted on Infozone, within a reasonable amount of time following the date of the request.
+3.3 Systems and Tools
+Systems and associated tools containing complete and timely information on costs, timelines, space portfolio management, project status and follow-up are an integral part of monitoring and reporting on activities.
+The RPSID uses CAS to report on financial activities and project costs which are tracked in this system through the use of internal order numbers. In addition, RPSID relies on PWGSC for space portfolio management information contained in their systems.
+RP staff collected project information from a variety of sources, primarily for the purpose of providing clients with informal progress reports. There was little or no guidance from RPSID for consistency with respect to data captured and there were no requirements for formal reporting, either at the national or regional levels. Regional offices, including the NCR and the local offices use different Microsoft Office applications to track specific project activity. These applications have not been designed to produce national reports.
+In the NCR, both CRA and PWGSC capture RFAS information on separate databases, resulting in duplicate keying because the systems are not integrated and only a few CRA and PWGSC employees have access to both systems. In addition, clients complained that the RFAS was not sent to them in a timely manner following the completion of a project. Some project officers wait until year end to finalize the RFAS forms. Often, and particularly at year end, clients mentioned that multiple RFAS' arrived on their desks when they were not even aware that the project was completed. Therefore, at the time of the audit, NRP Solutions did not have complete data in their RFAS reports, as it was not updated in a timely manner and many clients did not provide feedback in the relevant section of the RFAS.
+Not all project and accommodation officers have access to project management tools and most of them do not have access to clear procedures or guidance. In two of the four regions visited, some clients mentioned that few of the minor tenant service projects were not properly monitored causing unexpected delays.
+There were no tools or systems and little guidance for project leaders and accommodation officers regarding information that should be included in a project file. Audit test results indicated that the information contained in a project file varied from one project to the next. Project files ranged from very basic documentation to several binders of information. It was difficult to determine whether the appropriate procedures were applied and adequate information pertinent to the projects was included in the files. This situation may represent difficulties for those consulting these project files in the absence of the officers responsible for the project. With the exception of one region, which started to develop a list of key documentation to include in project file, there was no evidence of guidance in this area in headquarters or other regions.
+Recommendation
+RPSID should review their existing systems and tools and implement an improved and consistent approach to both monitor and report on real property activities.
+Action Plan
+Such reporting will begin to be incorporated into the quarterly reporting activity in the third quarter of 2008-2009. The activity will be fully operational in the fourth quarter of 2008-2009. Further efforts to implement the RFAS format nationally will be pursued in the next fiscal year to ensure uniformity of application. Project management tools will also be incorporated in a RP training profile scheduled for completion in fiscal year 2010-2011. The NRP Stewardship Division will develop appropriate procedures for the documentation of major and minor tenant services projects, along with a key document checklist to ensure project files are maintained in a timely fashion. A draft will be prepared by the end of second quarter in 2009-2010 for regional consultation.
+3.4 Risk Management Process
+The Enterprise Risk Management Policy was approved by the CRA's Board of Management on March 23rd, 2006. The purpose of the policy is to establish an ongoing process that will identify to the fullest extent possible the risks facing the Agency. This process will bring to light new and emerging risks and monitor the status of known risks. Branch Heads are responsible for implementing this policy within their branch.
+Although risks may be identified by projects using different tools depending on the size of project, this process was not consistent throughout RPSID and the regions. Through interviews and documentation review, no evidence was found to indicate that a documented risk management process was in place to ensure that real property risks and opportunities from all sources were identified and addressed from a directorate perspective.
+Recommendation
+RPSID should implement a formal risk management process in accordance with CRA's Enterprise Risk Management Policy.
+Action Plan
+The NRP Solutions Division is developing a Directorate risk management plan consistent with the Agency-wide Enterprise Risk Management program and the Finance and Administration's risk plan to identify any real property risks and associated mitigation strategies. This activity will be completed by March 2009.
+3.5 Training and Learning
+Staff involved in real property activities should receive the appropriate training and guidance and understand the applicable regulations, policies, procedures and guidelines to effectively deliver services.
+Job competency profiles have been developed for most jobs in RPSID. However, RPSID recognizes the need but has not yet developed a formal training plan or training profile for each position. Approaches to training vary by region and consist primarily of on-the-job and informal learning events at Real Property forums.
+Many interviewees identified training as an issue within their own areas. For example, clients in one of the four regions visited expressed specific concerns about errors in the floor plans and that they were not updated. Furthermore, in two other regions, concerns were communicated over accommodation employees not having sufficient training and experience to lead projects.
+Recommendations
+RPSID should implement a formal training plan and profile for each position at HQ and COEs.
+RPSID should work with the Administration Directorate to develop training plans and profiles for staff who conduct real property activities.
+Action plan
+Components of overall training plan, training profiles and training modules will be developed and available in 2009-2010. Full training plans and package will be completed in 2010–2011. Additional resources will be required to take on this work. PRED has initiated meetings with Human Resources to establish a structured training framework. PRED is also participating on a work group led by the TBS that addresses RP training and certification. A training manual on CAS is nearing completion.
+Conclusion
+The RPSID, a fairly new organization with many shared responsibilities and accountabilities was established to direct all aspects of CRA's real property portfolio from planning to implementing accommodations nationally.
+From 2006-2007, RPSID implemented a basic management framework to support its accountabilities and objectives. In order to implement this framework, a governance structure, an investment planning process, a project approval process, the RPSA, and five regional COE were established. However, opportunities exist to improve and further develop the framework.
+RPSID needs to staff its vacant positions so it can advance pending initiatives. There were many vacant and a few lengthy acting positions within the RPSID at Headquarters, since CRA was unable to secure permanent resources as the agreement between PWGSC and CRA was not official until 2007. As a result, several important initiatives such as developing a business plan, updating 1999 FAM real property policies, reviewing the real property committees' structure, developing formal training profiles and training plans were delayed. The RPSID would strongly benefit by having a business plan outlining its priorities, goals and vision. Such a plan should include mandate, strategic directions and demonstrate the valuable role of the RPSID within CRA.
+Major real property projects are generally well planned and managed by the RPSID, the COE and PWGSC through adequate operational activities, such as the funding plans, the annual Long-Term Accommodation Investment Plan, the preparation of project charters and the creation of project teams. Although clients were generally satisfied with the quality of projects, there was confusion and concern with respect to roles and responsibilities. In addition, mechanisms to collect client feedback were not used in a consistent manner.
+The absence of a fully developed effective performance measurement framework limits CRA's ability to monitor, formally assess and report on performance as required by the RPSA. Service standards need to be further developed, performance measures established, and a reporting and monitoring framework implemented.
+By acting on these opportunities, RPSID and PWGSC will be prepared to annually evaluate client satisfaction and to implement the RPSA in its entirety. The RPSID needs to be prepared for the independent formal review of the services and the business partnership, planned for 2010, three years after the implementation of RPSA.
+Appendix
+– Acronyms
+CAS
+Corporate Administrative System
+COE
+Centre of Expertise
+CRA
+Canada Revenue Agency
+FAB
+Finance and Administration Branch
+FAM
+Finance and Administration Manual
+GoC
+Government of Canada
+HQ
+Headquarters
+LTAIP
+Long-Term Accommodation Investment Plan
+NCR
+National Capital Region
+NCRAC
+National Capital Region Accommodations Committee
+NRP Solutions
+National Real Property Solutions Division
+NRP
+Stewardship Division
+National Real Property Stewardship Division
+PRED
+Programming, Resources and Evaluation Division
+PWGSC
+Public Works Government Services Canada
+RFAS
+Request for Accommodation Services
+RIMC
+Resources and Investment Management Committee
+RP
+Real property
+RPMF
+Real Property Management Framework
+RPSA
+Real Property Services Agreement
+RPSID
+Real Property and Service Integration Directorate
+SIB
+Strategic Investment Board
+TBS
+Treasury Board Secretariat
+Footnotes
+Footnotes
+Footnote _ftn1
+Long-Term Accommodation and Investment Plan 2008/2009-2012/2013, Executive Summary, page 5.
+Return to footnote
+_ftn1
+Referrer
+Footnote _ftn2
+Long-Term Accommodation and Investment Plan 2008/2009-2012/2013, Executive Summary, page 1.
+Return to footnote
+_ftn2
+Referrer
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2009-04-09

@@ -1,0 +1,271 @@
+Distributed Computing Environment Server Lifecycle Management Audit
+Final Report
+Corporate Audit and Evaluation Branch
+January 2009
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+1.0 Governance.
+2.0 Needs Analysis and Acquisition
+2.1 Needs Analysis, Cost-Benefit Analysis, Risk Assessments, and Forecasting
+2.2 Threat and Risk Assessment for the Distributed Computing Environment
+2.3  Non-Core Server Funding Commitment Forecasting
+3.0 Operation and Use
+3.1 Operating Procedures
+3.2 ITB-DTIM-DSD File Transfer Protocol Intranet Site
+3.3 IT Asset Management
+3.4 Server Inventory Reconciliation in Service Desk
+3.5 Accounting for Server Capital Assets
+3.6 Server Network Operating System License Management
+4.0 Disposal
+4.1 Hard Drive Overwrite Utility Software
+4.2 Reusing End-of-Life Servers
+5.0 Sustainable Development
+5.1 Server Supply Arrangement
+Conclusion
+Executive Summary
+Background:
+The Canada Revenue Agency (CRA) has approximately 2,000 servers
+[Footnote 1]
+located nationally outside the Data Centres to deliver solutions to meet its program objectives for the Distributed Computing Environment (DCE). Roughly half of these servers are managed by IT support organizations within ITB, the other Headquarters (HQ) branches and the regions, referred together in this report as “IT support organizations”. The other half is managed separately by other groups. The Information Technology Branch (ITB), Data and Technology Infrastructure Management (DTIM), Distributed Services Directorate (DSD) is responsible for the national governance framework for the DCE. ITB-DTIM-DSD has functional and financial authority for national IT support in the regions only, but works with HQ IT Support Directors to ensure that the DCE platform operates consistently in regions and HQ branches.
+For the purposes of this audit, DCE servers are servers located in buildings nationwide, excluding the Data Centres. They are categorized as core and non-core servers. Both types are referred together in this report as “servers”. Core servers include file, print, email and other common infrastructure servers. These servers are funded by an ongoing core server renewal plan. They are managed by IT support organizations. Non-core servers include application, database, Intranet and local lab servers. They are funded by branches and regions (as opposed to the core server renewal plan), and are managed and supported by IT support organizations and other groups.
+Servers should be managed according to CRA Materiel Management Lifecycle policy, which is comprised of four phases: needs analysis, acquisition, operation and use, and disposal.
+Objective:
+The objective of the audit was to assess the extent to which key management controls are established for DCE server lifecycle management.
+The examination phase was conducted from November 2007 to September 2008.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+and the
+Information Systems Audit and Control Association’s (ISACA)
+‘Control Objective for Information and Related Technology’ (COBIT).
+Conclusion:
+CRA has policies in place to address materiel management lifecycle and security requirements for servers. ITB has an established governance framework to direct, control and support DCE server lifecycle management. However, there are groups managing servers that are not included within this framework. There is no single point of accountability for all servers in the Agency, and there is no consensus as to what is considered a valid DCE server. Consequently, servers are managed inconsistently by various groups using different processes and tools.
+The absence of a single IT asset management system also contributes to the use of multiple tools to manage servers. As a result, there may be duplication of effort and inaccurate national inventories. Management may not have complete and reliable data to accurately assess program costs and meet the needs for DCE replacement or improvements.
+Inconsistencies in managing server Network Operating System (NOS) licences could result in license liability and increased costs for the Agency.
+CRA needs to ensure that Agency data is permanently removed from server hard drives prior to transfer or disposal. The overwrite utility software recommended in CRA policy for the permanent removal of data has limitations with certain server hard drives.
+To better manage servers, the Agency needs to improve and expand the established governance framework to include all areas that manage servers, strengthen controls to manage servers in a consistent manner, improve inventory control, and ensure that security of confidential data is not jeopardized.
+Action Plan:
+ITB will develop a strategy, costing impacts and proposal to strengthen DCE server governance to include all areas managing servers by Q2 2009-2010. This new governance would require Agency Management Committee (AMC) approval.
+A single Agency-wide IT asset management system has begun to be implemented. Future direction and funding are still to be determined. ITB-DTIM-DSD will collaborate with partners and stakeholders by Q2 2009-2010, to see if interim improvements can be made in the current asset management processes prior to the new system implementation across the Agency.
+ITB-DTIM-DSD will work with Finance and Administration Branch (F&A), Administration Directorate (AD) to address NOS license management, by developing and implementing processes to stop the disparity between hardware assets and licenses, and launching a Request for Information to examine the feasibility of implementing an Agency-wide software inventory tool by Q4 2009-2010.
+ITB informed responsible areas in Q3 2008-2009 how to manage the transfer and disposal of server hard drives until an approved solution is available. ITB, Operations Services Directorate and F&A, Security, Risk Management and Internal Affairs Directorate are currently reviewing a National Master Standing Offer (NMSO) product list of media erasure/destruction products.  Target Completion – Q2 2009-2010.
+Introduction
+In support of its program objectives the Canada Revenue Agency (CRA) relies on information technology systems. Within CRA, the Information Technology Branch (ITB) has responsibility for managing and operating the network and computing infrastructure
+[Footnote 2]
+.
+For the purposes of this audit, Distributed Computing Environment (DCE) servers
+[Footnote 3]
+are servers located in buildings nationwide, excluding the Data Centres. They are categorized as core and non-core servers. Both types are referred together in this report as “servers”.
+Core servers include file, print, email and other common infrastructure servers. These servers are funded by an ongoing core server renewal plan. They are managed by IT support organizations within ITB, the other Headquarters (HQ) branches and the regions, referred together in this report as “IT support organizations”. Non-core servers include application, database, Intranet and local lab servers. They are funded by branches and regions (as opposed to the core server renewal plan), and are managed and supported by IT support organizations and other groups.
+Servers should be managed according to CRA Materiel Management Lifecycle policy, which is comprised of four phases: needs analysis, acquisition, operation and use, and disposal.
+Over the past eight years ITB led several national initiatives to improve the lifecycle management of servers, including obtaining central funding for the DCE core server renewal and working with Finance and Administration Branch (F&A) to establish a Supply Arrangement for the procurement of servers. The Managed Distributed Environment (MDE) program was established to provide improved and consistent delivery of IT services, reduce the complexity of the DCE and the total cost of ownership, as well as position the Agency to adapt to new technologies in response to business requirements. A horizontal review of the MDE identified the need to better understand the business value related to non-core servers.
+As a result, the Server Clean-up initiative was started to ensure that all servers were appropriately funded and managed. Inconsistencies between data sources made it difficult to determine the current status, role, and location of active and decommissioned servers. The Server Asset Management Strategy was then initiated to address the weaknesses found in the Server Clean-up initiative. As part of this initiative ITB started producing monthly analysis reports using Service Desk
+[Footnote 4]
+and other automated tools. The August 2007 report identified a total of 2,313 servers, of which 500 (389 in HQ) did not have an identified purpose.
+Focus of the Audit
+The objective of the audit was to assess the extent to which key management controls are established for DCE server lifecycle management.
+The scope of this audit was national and included ITB (excluding data centres), Human Resources Branch, F&A, Public Affairs Branch, Legislative Policy and Regulatory Affairs Branch, as well as the Pacific, Prairie and Ontario regions.
+The audit methodology included a questionnaire which was distributed to key management contacts having responsibility for DCE server lifecycle management, for further distribution within their areas of responsibility. The questionnaires received were analyzed and included 676 core servers and 803 non-core servers, for a total of 1,479 servers. File reviews, interviews with staff and management in ITB and F&A, and follow-up enquiries related to the questionnaire submissions with managers and staffs were also conducted.
+The examination phase was conducted from November 2007 to September 2008.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+and the
+Information Systems Audit and Control Association’s (ISACA)
+‘Control Objective for Information and Related Technology’ (COBIT).
+Findings, Recommendations and Action Plans
+1.0 Governance
+A complete governance framework to direct, control and support DCE server lifecycle management should exist. All organizations within the Agency that manage servers should be included in the governance framework. Industry best practices (COBIT) defines governance as leadership, organizational structures, processes, controls, tools, measurements, reporting, and monitoring to ensure that the enterprise’s IT sustains and extends the organization’s strategies and objectives.
+CRA policies address materiel management lifecycle and security requirements for servers. ITB, Data and Technology Infrastructure Management (DTIM), Distributed Services Directorate (DSD) has an established governance framework to direct, control and support DCE server lifecycle management. However, there are groups managing servers that are not included within this framework. There is no single point of accountability for all servers in the Agency, and there is no consensus as to what is considered a valid DCE server.
+ITB-DTIM-DSD is mandated to provide a stable, secure, managed, effective and integrated DCE. Clear accountabilities and linkages are in place within DSD and with other stakeholders. ITB-DTIM-DSD provides functional direction and guidance to IT support organizations, and is evolving its national IT Service Management based on a global standard, IT Infrastructure Library (ITIL), for the consistent and measurable delivery of IT support services. Well-defined guidelines and protocols are established for developing, approving, distributing and conducting official communications for all distributed services.
+To improve DCE asset management within ITB, branch senior management approved a proposal in February 2008 to make ITB-DTIM-DSD the program owner of DCE asset management within ITB from acquisition to disposal (excluding the data centres). The resulting changes to processes and procedures are underway and will be completed by the end of March 2009.
+Without an Agency-wide governance structure, it is difficult to manage and report on the physical and financial information of all servers. A more inclusive governance framework would improve the accuracy and completeness of national inventories, facilitate effective and efficient planning, reduce duplication of effort, and allow management to accurately assess program costs and meet the needs for DCE replacement or improvements.
+Recommendation
+CRA should expand the ITB-DTIM-DSD governance framework to include all organizations managing servers.
+Action Plan
+ITB will develop a strategy, costing impacts and proposal to strengthen DCE server governance to include all areas managing servers. This new governance would require Agency Management Committee (AMC) approval. Note that IT Governance has been identified as an ITB risk within the Agency’s Integrated Risk Management framework, and analysis is currently underway to develop a mitigation strategy and plan. Target Completion – Q4 2009-2010.
+2.0 Needs Analysis and Acquisition
+2.1
+Needs Analysis, Cost-Benefit Analysis, Risk Assessments, and Forecasting
+CRA policy states that needs analysis, cost-benefit analysis, risk assessments and forecasting should be consistently completed for server acquisitions.
+ITB has processes in place to address needs, cost-benefit and forecasting analysis for core servers and is currently addressing Threat and Risk Assessment (TRA) requirements (see Section 2.2). However, policy requirements are not always met for the acquisition of non-core servers, as per the following questionnaire results:
+41%, or 13 of 32 respondents that purchased non-core servers did not complete needs analysis, 47% did not complete cost-benefit analysis, and 50% did not complete forecasting; and
+59%, or 10 of 17 respondents managing non-core servers that require submission of a Technical Security Review (TSR) or TRA did not submit either to the appropriate security groups.
+The existing server acquisition process managed by ITB does not address all policy requirements for non-core server acquisition, and there is no compliance monitoring. Stronger controls would better position the Agency to realize value for money, efficiency gains, and mitigate security risks.
+Recommendations
+ITB-DTIM-DSD should improve existing controls to ensure that policy requirements are complied with for non-core server acquisitions.
+F&A, Security, Risk Management and Internal Affairs Directorate (SRMIAD) should follow up with the questionnaire respondents who were required by policy to submit a TSR or TRA for existing non-core servers but have not.
+Action Plan
+ITB-DTIM-DSD will improve the procurement process to ensure that policy requirements for needs analysis, cost-benefit analysis, risk assessments and forecasting are complied with. Target Completion – Q4 2009-2010.
+ITB, Operations Services Directorate (OSD), Information Technology Security Services Division (ITSSD) purchased the Network Access Control (NAC) software which prevents unauthorized devices from accessing Agency networks. This solution is scheduled to be implemented by March 2010. This will significantly improve the risk posture for the Agency.
+F&A-SRMIAD will work with ITB-OSD-ITSSD to perform an analysis of the list provided by Internal Audit, target completion for analysis - Q4 2008-2009, and follow-up with the identified areas to ensure that TSRs or TRAs are duly completed. Target Completion for outstanding/missing TSRs/TRAs – Q3 2009-2010.
+F&A-SRMIAD, during its next policy review process, will review, and where deemed necessary, ensure that the policy wording is clear and concise in regards to TSR/TRA requirements and will make any necessary adjustments. Target Completion - Q1 2009-2010.
+2.2  Threat and Risk Assessment for the Distributed Computing Environment
+CRA policy states that TRAs “are to be reviewed and updated annually; when changes to existing systems/applications or data sensitivity are contemplated or occurring; or when changes in threat and system/product vulnerabilities have been identified that could create new risks or affect the existing security position.”
+The TRA for the DCE has not been updated since 1998. As a result, the security of the DCE has not been formally assessed and approved by ITB-OSD-ITSSD.
+Recommendation
+ITB should review, update and submit a TRA for the DCE, and implement a mandatory TRA review mechanism for the DCE.
+Action Plan
+The TRA for the DCE has been completed and ITB-OSD-ITSSD is currently undergoing signoff review.
+ITB-OSD-ITSSD
+is in discussions with F&A-SRMIAD to initiate a Certification and Accreditation (C&A) program. This will involve development of a model C&A process, performing a gap analysis (model to actual practises), followed by implementation. This program would be broad-based and would ensure that security policies are met and recommendations are addressed. Funding for a formal C&A program is still to be determined. Target Completion for the formal C&A process implementation – Q2 2010-2011.
+ITB-DTIM-DSD will initiate an annual TRA review process to ensure that the TRA for the DCE is up-to-date. Target Completion – Q3 annually.
+2.3
+Non-Core Server Funding Commitment Forecasting
+As per ITB’s procedure and COBIT, funding commitment for installation, support and renewal costs is required for server acquisitions in order to identify and map all IT costs and to support a transparent cost model.
+Funding commitments are not always identified and tracked for installation, support and renewal of non-core servers. ITB-DTIM-DSD does not track whether commitment was provided for all non‑core server lifecycle costs. Questionnaire results indicated that 29%, or 12 of 41 respondents do not know the source of renewal funding for existing non-core servers under their responsibility.
+A better understanding of the lifecycle funding commitment would improve the Agency’s capacity to effectively plan and efficiently manage the DCE.
+Recommendation
+ITB-DTIM-DSD should improve existing controls to ensure that funding commitment for all non-core server lifecycle requirements are identified and tracked, including installation, support and renewal costs.
+Action Plan
+ITB-DTIM-DSD will improve the procurement process to ensure that all non-core server funding commitments are identified and tracked. Target Completion – Q4 2009-2010.
+3.0 Operation and Use
+3.1
+Operating Procedures
+CRA policy states that procedures shall be developed, documented and implemented for addressing changes and problems with production systems. Key stakeholders should be included in a framework that integrates relevant policies and procedures. Finally, configuration procedures should be integrated with change management, incident management and problem management procedures, as defined in COBIT.
+ITB-DTIM-DSD National Standard Operating Procedures (NSOPs) are in place, communicated and followed by most IT support organizations, but at least half of the groups outside IT support organizations do not follow documented operating procedures, apart from hardware disposal activities.
+Questionnaire results from IT support organizations indicated that:
+93%, or 26 of 28 respondents follow the Hardware Receive, Deploy, Repair, and Replace NSOPs;
+96% follow the Hardware Disposal NSOP;
+86% follow the Hardware Move, and Planned Infrastructure Monitoring NSOPs; and
+71% have a monitoring process in place to ensure that server activity NSOPs are followed.
+Questionnaire results from groups outside IT support organizations indicated that:
+50%, or 11 of 22 respondents do not follow documented local operating procedures for hardware receive and planned infrastructure monitoring; and
+64% do not follow documented local operating procedures for hardware deploy, repair, move, and replace.
+The NSOPs are based on best practices and address relevant policy requirements, but the development framework needs improvement, as per the following observations:
+There is no formal review process in place to ensure the published NSOPs are kept current as priority was placed on developing new NSOPs.
+ITB and regional IT Directors sign-off on NSOPs, but HQ branches are not included in the sign-off process.
+More inclusive use of NSOPs would mitigate operational and security risks, and support knowledge management. Up-to-date NSOPs would result in the efficient and consistent management of servers.
+Recommendations
+ITB-DTIM-DSD should:
+establish a formal review process to ensure NSOPs are kept current and updates are communicated;
+include key management from all areas required to follow NSOPs in the sign-off process; and
+monitor and ensure compliance to the NSOPs.
+ITB should expand the use of the NSOPs to all areas managing servers.
+Action Plan
+ITB-DTIM-DSD is currently:
+updating the NSOP development and maintenance guide which will be published, along with a review schedule, on the Intranet. Target Completion – Q4 2008-2009; and
+developing a Terms of Reference for the NSOP Working Group which will include committee member roles and responsibilities. Membership and NSOP sign-off will be expanded to other IT support organizations not currently participating in the group. Target Completion - Q4 2008-2009.
+In fiscal 2007-2008, ITB-DTIM-DSD put forward a business case for the creation of a Continuous Improvement and Quality Assurance Section (CIQAS). At the time the proposal was not accepted; however, the proposal will be re-tabled for next fiscal year. This section would be responsible to monitor, review, verify and report on the delivery of the IT Support program, including NSOPs. Target Completion (pending funding approval) – Q1 2010-2011.
+Subject to governance being enhanced under section 1.0 above, ITB will expand and communicate the use of NSOPs to all areas managing servers. Target Completion – Q4 2009-2010.
+3.2
+ITB-DTIM-DSD File Transfer Protocol Intranet Site
+Frequent reviews and updates of installation procedures are essential if they are to be relevant. Installation procedures located on the ITB-DTIM-DSD File Transfer Protocol (FTP) Intranet site are not consistently updated on a timely basis, and areas referencing these procedures are not always informed when updates occur. Consequently, employees could follow outdated procedures resulting in potential operational, financial, and security risks.
+Recommendation
+ITB-DTIM-DSD should develop a monitoring process to ensure published documentation is kept current, and inform stakeholders of published updates on a timely basis.
+Action Plan
+ITB-DTIM-DSD is currently reviewing processes and procedures for current
+ITB‑DTIM‑DSD FTP Intranet site updates in order to enhance the structure, accuracy and currency of the content. A communication process will be developed to send notifications of updates when required. Target Completion – Q2 2009-2010.
+3.3  IT Asset Management
+CRA policy states that ITB is responsible for establishing the requirements for the IT hardware and software inventory process. Policy further states that an inventory of all hardware components shall be maintained and should identify, as a minimum, manufacturer/supplier, model/version number, serial number and location of asset. Additionally, COBIT states that all relevant information on IT assets should be maintained in one central repository.
+ITB-DTIM-DSD is responsible for the DCE inventory process, but this does not include all servers. Furthermore, a single IT asset management system has not been implemented throughout the Agency. There are other groups managing their own servers using various tools and processes not linked to one another or to the Corporate Administrative System (CAS).
+All IT support organizations reviewed use Service Desk to track their servers. In addition, 89%, or 25 of 28 IT support organization questionnaire respondents indicated that they conduct monitoring to ensure employees, in their area of responsibility, are recording their server activities accurately in Service Desk. On the other hand, groups outside IT support organizations use one or more of the following tools:
+27%, or 6 of 22 of questionnaire respondents use Service Desk;
+18% use Infoman;
+55% use MS Access or Excel; and
+14% do not use any tool.
+An Agency-wide IT asset management system and supporting processes would reduce duplication of effort, financial inefficiencies, inaccurate inventories, difficulties in managing maintenance and support contracts, and ineffective and inefficient planning.
+Recommendations
+ITB should identify one group responsible for establishing the requirements for the DCE hardware and software inventory process for the entire Agency.
+ITB should implement a single Agency-wide IT asset management system to manage all DCE assets through their lifecycle.
+ITB should communicate the inventory tracking process to all areas managing servers, and monitor compliance.
+Action Plan
+For core servers, Service Desk is used as the Agency-wide tracking tool. Processes are already in place for the tracking and validation of these servers. Non-core servers outside the control of IT support organizations still remain an issue. With the endorsement and support of an enhanced governance model (referenced in under section 1.0 above), these tracking processes could be expanded to all areas managing servers. For DCE software, ITB-DTIM-DSD will be launching a Request For Information (RFI) to examine the feasibility of implementing an Agency wide software inventory tool. Target Completion – Q4 2009-2010.
+A single Agency-wide IT asset management system has begun to be implemented. Future direction and funding are still to be determined. ITB-DTIM-DSD will collaborate with partners and stakeholders to see if interim improvements can be made in the current asset management processes prior to the new system implementation across the Agency. Target Completion – Q2 2009-2010.
+Subject to governance being enhanced under section 1.0 above, ITB-DTIM-DSD will communicate inventory tracking processes to all areas managing servers and will monitor compliance. Target Completion – Q4 2009-2010.
+3.4
+Server Inventory Reconciliation in Service Desk
+A process should exist to reconcile server inventory. COBIT states that periodic reviews of configuration data should be conducted to verify and confirm the integrity of current and historical configuration.
+ITB-DTIM-DSD, as part of the Server Asset Management Strategy initiative, developed monthly server inventory analysis reports, but has not reconciled the discrepancies with Service Desk stakeholders. An established reconciliation process would improve server inventory accuracy, and support effective and efficient planning and reporting.
+Recommendation
+ITB-DTIM-DSD should improve the current process, in collaboration with Service Desk stakeholders, to reconcile server inventory.
+Action Plan
+ITB–DTIM-DSD, in collaboration with other stakeholders, will work to document a formal process to reconcile server inventory. In 2007-2008, a physical inventory of all regional and HQ servers was completed to ensure that core servers under the control of IT support organizations were accurately accounted for in Service Desk. The lessons learned from the process will be extended to other physical DCE assets. A portion of this recommendation will be addressed by the inclusion of server data in the Technology Infrastructure Quarterly Report (TIQR). Server reporting will be included in the Q2 2008-2009 TIQR. Target Completion – Q2 2009-2010.
+3.5  Accounting for Server Capital Assets
+CRA policy states that managers are required to accurately account for and report on capital assets ($10,000 or more) in CAS for the year-end certification process. Not all managers are consistently accounting for and reporting on capital assets. The following findings were noted:
+For Fiscal Year 2006-2007, two HQ branches and one region did not submit the “Accounting for Capital Assets” certificate and corresponding Asset Balance Reports. Additionally, one region signed off on their certificate even though the Asset Balance Reports were not verified by 11 managers.
+Serial numbers are not always recorded in the CAS Asset Master Record (AMR) for capital assets as required by policy, as the AMR data field for inputting the serial number is not mandatory. This results in serial numbers not being entered consistently, creating difficulties when reconciling AMR records with physical assets.
+Capital assets received and recorded in CAS are tracked by other organizations using multiple asset-tracking tools not linked to CAS. This impairs the reconciliation of capital assets in CAS.
+Capital assets with an AMR in CAS are not consistently removed from active status when they are disposed.
+The cost centre code identifying the physical location of a capital asset is not maintained consistently in CAS, as required by policy.
+AMRs are not always created or updated in CAS when capital asset status is affected through the upgrading or combining of servers.
+Recommendation
+F&A should take the lead, working with ITB, to review, improve and monitor existing processes to reconcile capital asset records in CAS with the existing asset management system(s).
+Action Plan
+F&A-Administration Directorate (AD) and F&A-Financial Administration Directorate (FAD) will work together, along with ITB, to review, improve and monitor the Capital Assets Management process. F&A-AD will take the lead, working with FAD and ITB, to establish a framework for managing non-Capital Assets (less than $10,000). This is expected to address the reconciliation process for assets. The first step will be to establish the work plan by Q4 2008-2009.
+3.6 Server Network Operating System License Management
+Network Operating System (NOS) licenses should be consistently managed to ensure compliance with licensing agreements. CRA policy states that managers are responsible for ensuring the availability of information systems and processes for the accurate recording, tracking and inventory of materiel under their control. Furthermore, COBIT states that periodic reviews of installed software should be conducted to ensure licensing compliance.
+NOS license management needs to be improved as NOS licenses are not consistently managed. Monitoring conducted by ITB does not include all servers, and not all managers responsible for non-core servers maintain an inventory of NOS licenses, as required by policy.
+ITB-DTIM-DSD works with F&A-AD to track the total number of licenses included in the CRA Enterprise License Agreement (ELA). ITB-DTIM-DSD also monitors the NOS license requirements for active core servers in the HQ branches and regions under the ELA. Non-core servers are not covered under the ELA, but non-core server NOS licenses purchased since 2002 have been added to the ELA, and ITB-DTIM-DSD does not track which licenses were added for core versus non-core servers.
+Fifty-one percent, or 21 of 41 non-core server questionnaire respondents indicated that they do not maintain an inventory of NOS licenses for various reasons such as: taking over responsibility from other groups without receiving NOS licenses; assuming it is the responsibility of either the HQ function, ITB, or the local client; or that they were unable to find their license documentation.
+There are multiple areas responsible for managing the NOS licensing for servers which creates confusion and inefficiencies.
+Furthermore, the current processes could result in license liability and increased costs for the Agency.
+Recommendations
+ITB-DTIM-DSD should take the lead, working with F&A-AD to centralize the management and monitoring of NOS licensing for all servers, and communicate the requirements to affected areas.
+Action Plan
+ITB-DTIM-DSD is working with F&A-AD to address this issue. In particular, processes are being developed and implemented which will stop the disparity between hardware assets and licenses, and that, where required, ensure that additional licenses are purchased for new servers. Additionally, ITB-DTIM-DSD will be launching an RFI to examine the feasibility of implementing an Agency-wide software inventory tool. Target Completion – Q4 2009-2010.
+4.0 Disposal
+4.1 Hard Drive Overwrite Utility Software
+The Agency should have an approved and effective overwrite utility software for the permanent removal of data from server hard drives. Furthermore, COBIT states that procedures should be defined and implemented to ensure that business requirements for protection of sensitive data and software are met when data and hardware are disposed or transferred.
+The overwrite utility software recommended in CRA policy is not always effective on server hard drives. Supporting documents referenced in policy state the limitations of this software. In addition, there is no process in place to ensure that an effective tool is available in a timely and ongoing fashion. Despite the limitation of this software, 54%, or 27 of 50 questionnaire respondents have used it on server hard drives.
+There is a risk that data is not permanently erased prior to server hard drive transfer or disposal. Some areas are stockpiling or destroying hard drives to address the risk. CRA needs to ensure the ongoing availability of an effective tool to permanently erase Agency data, which would also support sustainable development.
+Recommendations
+F&A-SRMIAD, working with
+ITB-OSD-ITSSD
+,
+should immediately communicate to areas managing servers, interim procedures for transferring and disposing of server hard drives until an approved overwrite utility software is available.
+F&A-SRMIAD should take the lead, working with ITB-OSD-ITSSD to replace the current overwrite utility software, as a priority, with a tool that permanently removes all data from server hard drives.
+Action Plan
+F&A-SRMIAD, in collaboration with ITB-OSD-ITSSD, informed responsible areas in Q3 2008-2009 how to manage the transfer and disposal of server hard drives until an approved solution is available.
+A National Master Standing Offer (NMSO), including numerous media erasure/destruction products, was published in October 2008. ITB-OSD-ITSSD will be responsible for evaluating and recommending product(s) that CRA can procure and integrate based on best practices. Decisions on procurement and procedures for use will be done jointly between F&A-SRMIAD and ITB-OSD-ITSSD. Erasure/destruction procedures will include concise instructions for when hard drives are to be sanitized and when they are to be destroyed. The NMSO product list is currently being reviewed and products assessed. Current thoughts are that CRA will require a blended Software/Hardware solution. ITB will issue a communiqué to the field advising them of review status and that hard drives should be stored locally until such time as the solution is available for deployment. Target completion – Q2 2009-2010.
+4.2 Reusing End-of-Life Servers
+A policy should define the Agency’s position on and conditions for the reuse of end-of-life servers.
+CRA policy promotes the reuse of moveable assets within the Agency when practical, feasible and cost-effective, but does not take into consideration the risks related to IT assets. It is not clear if, when and how end-of-life servers can be reused and managed.
+Thirty-two percent, or 16 of 50 questionnaire respondents
+indicated that since 2003, they have reused end-of-life servers.
+While there could be capital cost savings, end-of-life servers that are reused are at risk of no longer having a warranty, being beyond economical repair, not having a valid NOS license, inhibiting platform upgrades, potential hardware failure, and increased support costs.
+Recommendation
+ITB should take the lead, working with F&A, to develop a policy concerning the reuse of end-of-life servers taking into account the risks and benefits.
+Action Plan
+ITB-DTIM-DSD will take the lead, working with F&A, to develop and implement a policy related to the reuse of end-of-life servers. Target Completion – Q2 2009-2010.
+5.0 Sustainable Development
+5.1
+Server Supply Arrangement
+The
+Server Supply Arrangement does not take into consideration Sustainable Development (SD) principles, such as reduction/elimination of environmentally harmful materials, energy conservation, and packaging, in support of CRA’s Sustainable Development Strategy.
+Recommendations
+F&A-AD should ensure that SD criteria are included in the next Server Supply Arrangement that will come into effect in 2009.
+Action Plan
+The current Server Supply Arrangement will be replaced by a contract for servers targeted for award Q2 2009-2010. F&A-AD will work with F&A, Strategic Management and Program Support Directorate, Sustainable Development Division to add the appropriate SD criteria into the Request For Proposal.
+Conclusion
+CRA has policies in place to address materiel management lifecycle and security requirements for servers. ITB has an established governance framework to direct, control and support DCE server lifecycle management. However, there are groups managing servers that are not included within this framework. There is no single point of accountability for all servers in the Agency, and there is no consensus as to what is considered a valid DCE server. Consequently, servers are managed inconsistently by various groups using different processes and tools.
+The absence of a single IT asset management system also contributes to the use of multiple tools to manage servers. As a result, there may be duplication of effort and inaccurate national inventories. Management may not have complete and reliable data to accurately assess program costs and meet the needs for DCE replacement or improvements.
+Inconsistencies in managing server Network Operating System (NOS) licences could result in license liability and increased costs for the Agency.
+CRA needs to ensure that Agency data is permanently removed from server hard drives prior to transfer or disposal. The overwrite utility software recommended in CRA policy for the permanent removal of data has limitations with certain server hard drives.
+To better manage servers, the Agency needs to improve and expand the established governance framework to include all areas that manage servers, strengthen controls to manage servers in a consistent manner, improve inventory control, and ensure that security of confidential data is not jeopardized.
+Footonotes
+[Footnote 1]
+Servers are computers that provide services to other computers.
+[Footnote 2]
+Infrastructure is defined as mainframe, network, telecommunications, distributed, and online processing systems.
+[Footnote 3]
+Servers are computers that provide services to other computers.
+[Footnote 4]
+The Service Desk application supports incident management and IT asset management for IT assets under the responsibility of HQ branch and regional IT support organizations. In 2004, ITB consolidated Service Desk data from eight remote servers in the regions and National Capital Region (NCR) into one national database.
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2009-04-09

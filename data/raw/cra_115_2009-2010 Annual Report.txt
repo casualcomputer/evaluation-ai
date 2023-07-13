@@ -1,0 +1,313 @@
+2009-2010 Annual Report
+Final Report
+Corporate Audit and Evaluation Branch
+April 2010
+Introduction
+Mandate
+Financial Resources
+Branch Performance
+Summary of Approved Reports
+Internal Audits
+Program Evaluations
+Business Advisory Activities
+Deferred Or Cancelled Engagements
+Follow-Up Activities
+OAG Liaison
+Professional Practices and Corporate Services
+Internal Disclosures
+Appendix I
+Appendix II
+Appendix III
+Introduction
+Corporate Audit and Evaluation Branch (CAEB) carries out independent and objective assurance and business advisory engagements and evaluations designed to add value and improve Canada Revenue Agency (CRA) operations. CAEB helps CRA accomplish its objectives by bringing a systematic, disciplined approach to evaluate programs and improve the effectiveness of risk management, control, and governance processes. It operates in accordance with the CRA Internal Audit Policy, CRA Program Evaluation Policy, the
+International Standards for the Professional Practice of Internal Auditing,
+the
+Information Systems Audit and Control Association
+IT audit and control standards and the
+Standard on Evaluation for the Government of Canada.
+The Chief Audit Executive (CAE) and Director General of Program Evaluation is accountable to the CRA Commissioner and Chief Executive Officer (CEO) and the Audit Committee of the Board of Management (Board). The CAE is responsible for the Branch's Internal Audit (IA), Program Evaluation (PE), Professional Practices and Corporate Services (PPCS), and Office of the Auditor General (OAG) Liaison functions. In addition, the CAE is the Senior Officer for Internal Disclosures for the CRA pursuant to the
+Public Servants Disclosure Protection Act.
+CAEB operates within a well-defined governance framework that includes: a Management Audit and Evaluation Committee (MAEC) chaired by the CEO and comprised of CRA senior executives; a Board comprised of external members that are independent of the CRA. The CAE participates as a member of the Agency Management Committee (AMC) and is also a member of the CRA Resource and Investment Management Committee (RIMC) and has established working relationships with other CRA senior management and Board committees. The MAEC is the reporting/approval committee for the IA and PE functions.
+Appendix I
+provides a list of CAEB contacts.
+The CRA IA and PE policies require the CAE to periodically report to senior management and the Board on authority, responsibility and performance relative to an established plan. This is met through in-year reports, a follow-up report, an annual business plan, as well as this annual report that provides an overview of the Branch performance for the 2009-2010 fiscal year. Information is presented on program delivery results as measured against the objectives set out in the
+2009-2010 CAEB Business Plan
+, as well as branch developments and accomplishments.
+In addition to this report, to further promote transparency, the CAEB budget and major activities are reported to Canadians through the annual CRA Departmental Report on Plans and Priorities, the CRA Departmental Performance Report and all final IA and PE reports are posted to the CRA website.
+Mandate
+The CAEB mandate is to support the achievement of the CRA strategic goals by providing the CEO and senior management with independent and objective information, advice and assurance on the soundness of the CRA management framework and on the effectiveness, efficiency and economy of its strategies, programs and practices.
+The work of CAEB supports the oversight role played by the Board
+[Footnote 1]
+, through its Audit Committee, for those CRA activities falling within the Board's sphere of responsibility in accordance with the
+Canada Revenue Agency Act
+. CAEB provides the Board with regular and timely assurance and information on CRA activities through presentation of MAEC approved reports in addition to progress-to-plan status reports and briefings on work being conducted in key high risk areas.
+IA contributes to the effective management of program delivery and to strengthening accountability by providing information on the adequacy and effectiveness of the CRA's internal control systems. The information provided by PE supports decision-making related to program relevance, design, resourcing and performance and, in addition, supports improved management accountability. PE also serves as a centre of expertise providing advice and guidance to program areas on evaluation methodologies and performance measurement.
+Audits and evaluations are identified using a risk-based approach that includes consideration of Agency-wide risks identified in the CRA Corporate Risk Inventory (CRI) and through CAEB's own analysis of CRA risks. CAEB also takes into consideration the CRA Corporate Business Plan (CBP), the Treasury Board Secretariat (TBS) Management Accountability Framework (MAF) and the Board of Management Oversight Framework (BoMOF). Additionally, CAEB consults with the OAG, the Commissioner of the CRA, the Board and CRA senior management to ensure key stakeholder needs are met.
+CAEB operations also include the Office of the Liaison to the OAG and the Office for Internal Disclosures. Further information about their functions is included within this report.
+Financial Resources
+CAEB delivered its mandate in 2009-2010 from an operating budget of approximately $10.6 million including the salaries of 122 full-time equivalents (FTE). Program evaluators, internal auditors, professional practices, corporate services and OAG Liaison staff are located in the National Capital Region (NCR). CAEB internal auditors are also located in the Pacific, Ontario, Quebec, and Atlantic regions. There are also two program evaluators located in the Atlantic region.
+Branch Performance
+The
+Corporate Audit and Evaluation Branch 2009-2012 Business Plan
+was aligned with the priorities of the
+2009-2010 to 2010-2011 CRA Corporate Business Plan.
+The CRA business capacity relies on a robust financial infrastructure, responsible tax administration, effective governance and a capable workforce. In developing the plan, CAEB also took into consideration TBS/Office of the Comptroller General (OCG) internal audit policy requirements including working towards the provision of an independent annual report on the adequacy and effectiveness of risk management, control and governance processes within the Agency (modified “holistic opinion”). Efforts in this regard continue to be made to ensure appropriate processes are in place that will, in time, allow for more specific reporting on these three elements in the CAEB Annual Report.
+To support the mandate and goals of the CRA, CAEB conducted internal audits and program evaluations. In addition, IA provided business advisory services to CRA management and PE provided advice and guidance to program and senior management. Final audit and evaluation reports were tabled with the MAEC for approval and were reviewed by the Board. The reports presented findings on strengths and opportunities for improvement and included management action plans to address all recommendations and observations made by CAEB. The purpose of these reports was to provide management with assurance regarding the effective delivery of CRA programs, policies, and initiatives and the accuracy of the information reported to central agencies and Parliament. The ultimate goal of the audits and evaluations was to enhance CRA management capacity and program effectiveness.
+During 2009-2010, eight final audit reports and two final evaluation reports were completed and approved by the MAEC and reviewed by the Board. As of March 31, 2010, twenty-three additional internal audit engagements were underway including seven in the reporting phase, eleven in the examination phase and five in the planning phase. The PE Division currently has six evaluation frameworks and studies underway.
+Summary of Approved Reports
+The audits and evaluations conducted by CAEB during 2009-2010 examined areas across the spectrum of the CRA Program Activity Architecture (PAA). The work focussed on areas such as financial and other controls, information technology, governance, program delivery and effectiveness. The following summaries provide a brief overview of CAEB reports approved in 2009-2010. The entire reports are available on the CRA website at:
+//www.cra-arc.gc.ca/gncy/ntrnl/menu-eng.html
+Management action plans have been developed to address all observations and recommendations outlined in approved reports. CAEB will monitor all management action plans through the CAEB cyclical follow-up process.
+Linkages to the CRA 2007 CRI and 2008-2009 CBP Priorities are reflected in
+Appendix
+II.
+Internal Audits
+Audit of Horizontal Case Management
+The Corporate Case system was developed in the late 1990's and was to be the first step towards CRA achieving interaction/coexistence with legacy systems to provide case management functions, such as inventory tracking, file transfers, and a notepad. Globus, one of the newer iterations of Corporate Case, was the next evolutionary step towards achieving technological horizontality, and also represented the CRA's first attempt at creating a case management system with a focus on achieving business horizontality.
+The objective of the audit was to determine whether an appropriate and effective governance structure was in place to support the Globus system, and that controls were in place to ensure that the system design met business needs. Globus was used as a case study to identify opportunities for improvement and lessons learned to assist senior management in the development of future horizontal case management systems. The audit found that Globus made progress in advancing technological horizontality, and provided a relatively low-cost solution that is generally meeting program-specific needs, however, Globus has not met its vision of becoming an enterprise-wide case management system.
+Audit of the CPP/EI Rulings Program
+The
+Canada Pension Plan (CPP)
+and
+Employment Insurance (EI)
+programs provide benefits to workers upon retirement, disability or unemployment and are jointly administered by the Canada Revenue Agency (CRA) and Human Resources and Skills Development Canada (HRSDC). The CPP/EI Rulings Division in the Legislative Policy and Regulatory Affairs Branch (LPRAB) is mandated to develop policies, procedures and working tools in relation to rulings being issued by the CRA pursuant to the CPPand EIlegislation. This division is also responsible for providing functional direction to CPP/EI rulings employees located in Tax Services Offices (TSO) and Tax Centres (TC).
+The objective of the audit was to determine whether the governance, risk management, and controls in place to manage the CPP/EI Rulings program are adequate. The audit concluded that the governance, risk management and controls in place to manage the CPP/EI Rulings program at the headquarters, regional and local office levels are effective in meeting program goals. During the engagement, it was observed that the functional support to field offices is strong, and lines of communication with internal and external stakeholders are well-established. Some areas for improvement were noted including the need to strengthen controls related to quality of rulings decisions and program outputs; the need for consistent workload management in all offices and improvements to program governance.
+2008-2009 Selected Fiscal Year End Procedures Audit
+The CRA prepares annual Administered Activities Financial Statements for the reporting of tax revenues. The financial information is incorporated into the
+Public Accounts of Canada
+and is included in the CRA Annual Report to Parliament. As in prior years, the Financial Administration Directorate (FAD) in the Finance and Administration Branch (F&A) requested IA assistance in providing assurance to management on the accuracy and completeness of selected financial information to be reported in these statements.
+The objective of the audit was to provide assurance to management on the completeness and accuracy of the data extracted from CRA source systems in the sampling of accounts receivable and used by F&A in estimating the Allowance for Doubtful Accounts (ADA). CAEB concluded that there are opportunities for improvement in areas such as quality controls, guidelines and training for the data collection. As was recommended last year, possible automation of the process still needs to be considered.
+Non-resident Tax and Excise / Other Levies Transaction Flow-through Audits (2 audits)
+The CRA is responsible for assessing and collecting a broad range of taxes on behalf of the federal, provincial and territorial governments. Within CRA, the Assessment and Benefit Services Branch (ABSB) is functionally responsible for administering the assessment and revenue payment processes, while F&A Branch is responsible for ensuring that these revenues are appropriately accounted for and reported. In 2004-2005, at the request of F&A, the IA Division developed a cyclical audit plan to support CRA in meeting its responsibilities with respect to the accounting and reporting of revenues. The plan set out a systematic approach to provide F&A with assurance, over time, of the accuracy and completeness of CRA financial data on tax revenues and the adequacy of controls.
+The objective of these audits was to provide assurance with respect to the accuracy and appropriateness of the automated flow of revenue data, from their respective source documents to the relevant CRA processing systems through to the CRA General Ledger, the Revenue Ledger (RL). Results of the non-resident and excise / other levies audits showed that transaction data for both these revenue streams flowed accurately and appropriately through CRA automated systems, from the source documentation of the selected returns through to the respective RL accounts.
+Information Technology Security Audit
+The IA Division completed an information technology (IT) security 5 year review and follow-up audit in 2004. It reported that managers and employees understood the importance of IT security and were generally aware of IT security policies. Management was making progress in implementing action plans to address audit findings but sustained effort was still required particularly with regards to security policies and awareness, monitoring and reporting on compliance to security policies, standalone internet workstations, and identity and access management.
+The objective of the audit was to assess the progress achieved on the implementation and effectiveness of the action plans resulting from the 2004 IT security audit to ensure security risks are properly managed and compliance with security policies has improved. The audit found that progress has been made since 2004 to ensure security risks are properly managed and compliance with security policies is improved. Improvements have been made in the areas of identity administration, and the management and oversight of user-ID access to the Agency's networks and systems. Assignment of roles and responsibilities has been established and implemented for monitoring server and workstation logs. Automated monitoring of network connected computers and portable devices are being performed by Information Technology Branch (ITB). F&A has also made improvements to security policies and awareness training to adequately cover subjects such as: unapproved software, screen savers, virus protection, data encryption and transport security for laptops and other portable devices.
+Further improvements are recommended in the areas of:
+segregation of duties;
+minimum system access rights in headquarters;
+horizontal access issue management; and
+monitoring and reporting for compliance.
+Information Received under the Memorandum of Understanding (MOU) with Service Nova Scotia and Municipal Relations (SNSMR) Audit
+The MOU with SNSMR contains an internal audit clause requiring the CRA to “conduct periodic internal audits of its use, communication to others, security, retention and disposal with respect to information provided by SNSMR under the MOU”.
+The objective of the audit was to determine whether the CRA is in compliance with the terms and conditions of the MOU. The audit results indicated there was no evidence that the information received from Nova Scotia was used for purposes other than for the administration and enforcement of the
+Income Tax Act
+and
+Excise Tax Act
+. It was determined that one particular use of the information was not within the parameters established in the MOU but legal for administration of the
+Income and Excise Tax Acts
+. The audit also found that there were instances of non-compliance with CRA policies related to the management of user access privileges, systems access accountability, and the storage of protected and classified information and assets.
+Taxpayer Services Telephone Enquiries Audit
+The Taxpayer Services Directorate (TSD) of the Taxpayer Services and Debt Management Branch (TSDMB) is mandated to provide accessible, timely and accurate information to taxpayers and benefit recipients in order to facilitate their voluntary compliance within the self-assessment system. The telephone channel remains the preferred method of service delivery of the Canadian public.
+The objective of the audit was to determine whether appropriate controls are in place to achieve the goals and objectives of the telephone enquiries service. The audit concluded that Controls currently in place to achieve the goals and objectives of the telephone enquiries service are focused primarily on accessibility and timeliness. An indicator for accuracy of agent-provided information should be clearly defined and integrated into the program accountability framework to provide management with a sufficient level of assurance and enable reporting on performance. Service Complaints received via the telephone channel in call centres should be tracked and analyzed, and integrated with Service Complaint data from the formal, written channels in order to provide a holistic assessment of this indicator of taxpayer and benefit recipient satisfaction levels.
+Management action plans have been developed to address all observations and recommendations outlined in approved reports. CAEB will monitor all management action plans through the CAEB cyclical follow-up process.
+Program Evaluations
+Evaluation of the Headquarters Region Managers Exchange Pilot Program (HRMEPP)
+The evaluation was undertaken at the request of the Assistant Commissioner, Pacific Region in his role as Management Group (MG) Champion. The program was introduced in 2006-2007 to give managers an opportunity to gain a better understanding of both headquarters and regional perspectives. The evaluation concluded that the HRMEPP goals could be attained within existing exchange opportunities and recommended that the formal program be discontinued. Since the completion of the evaluation, the program has been cancelled.
+Evaluation of GST/HST Delinquent Filing and Remitting
+The evaluation was undertaken to examine the profile and attitudes of non-compliant populations, assess program effectiveness and explore opportunities for improvement. The evaluation recommended a number of areas to explore including reinstating limited account maintenance activities to TSDMB; increasing the level of GST/HST prosecutions and their publication; reviewing the current delivery model and business rules to identify and reduce duplication; and examining the costs and benefits of a more comprehensive business registration process.
+Interdepartmental Evaluations
+The PE Division also plays a coordinating or liaison role with respect to interdepartmental evaluations led by other federal government departments. During 2009-2010 this included evaluations of the
+Government of Canada's Investment in the 2010 Olympic and Paralympic Winter Games
+(Canadian Heritage), the
+Universal Child Care Benefits Program
+(Human Resources and Skills Development Canada) and
+Anti-Money Laundering and Anti-Terrorist Financing Regime
+(Finance).
+Business Advisory Activities
+Internal Audit
+The IA Division provides business advisory services to Branches and Senior Management of the CRA upon request with consideration given to the availability of CAEB resources and the requirement to maintain independence in compliance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+For example, in 2009-2010, a business advisory undertaken by IA Division included advice and consultation related to Information Technology Readiness for the 2010 Winter Olympic Games.
+Program Evaluation
+During 2009-2010 the PE Division responded to requests for advice and guidance on results measurement for 12 projects. Much of the advisory work was related to the measurement requirement for RIMC projects. Client surveys and other feedback received from branches about advice and guidance received from the PE Division was positive (e.g. an average rating of 6.2 on a seven point scale across six attributes of client satisfaction).
+For example, the PE Division provided advice and guidance to TSDMB by completing a study to collect baseline data for the
+Integrated Revenue Collections (IRC) Benefits Measurement Plan,
+which was required by the RIMC. This study is intended to assist TSDMB in reporting back to the RIMC on the extent to which the expected benefits of IRC (Phase 1) have been achieved.
+In 2009-2010, the PE Division developed a guidance document titled
+Measuring and
+Reporting the Benefits of a RIMC Project: Guide for Business Case Owners
+to standardize the advice the PE Division provides and to assist those involved with RIMC projects in understanding the benefits measurement planning and reporting requirements at each stage of the RIMC process.
+In addition, PE developed a new document to provide an overview of the PE function within the CRA. The document,
+Program Evaluation in the CRA
+, is intended to provide CRA managers with an explanation of how programs are selected for evaluation, what type of advice and guidance is available from the PE function, what steps are involved in the evaluation process and what methodologies may be used.
+Deferred Or Cancelled Engagements
+For various reasons, engagements are sometimes deferred or cancelled.
+Appendix III
+provides the rationale for engagements that were deferred or cancelled during 2009-2010.
+Follow-Up Activities
+Professional standards require the IA function to perform follow-up activities to determine if management action plans have been effectively implemented.
+CAEB's annual follow-up process is based on self-assessment by CRA management, supplemented by more in-depth procedures where warranted. CRA management is responsible for reporting the progress made in implementing their action plans. CAEB may request, if warranted, additional supporting information or documentation to ensure an accurate conclusion is drawn. The annual follow-up report is presented to the MAEC and Board.
+This year the self-assessment process focussed on 74 action plans resulting from internal audit reports that were approved by the MAEC in 2006-2007 and 38 action plans remaining from prior year audits.
+Overall, there were 68 action plans that CRA management reported as implemented that were confirmed by CAEB as completed (61%) with the majority being those from the 2006-2007 audits. In addition, 31 of the remaining (28%) had satisfactory progress or were no longer relevant as actions or circumstances had overtaken the need to do further work. The remaining 13 action plans (11%) related to 3 previous audits were not considered complete and have been brought to senior management's attention. The entire report is available on the CRA website at:
+www.cra-arc.gc.ca/gncy/ntrnl/menu-eng.html
+OAG Liaison
+The OAG Liaison function continued to work closely with the OAG and with CRA branches/regions to facilitate the fulfilment of the Auditor General's responsibility as Parliament's auditor. As such, CAEB contributed to the dissemination of performance information on the CRA by ensuring that, in the reports made by the Auditor General of Canada to Parliament, the information concerning the CRA was presented fairly and accurately.
+The OAG Liaison was involved in a number of key 2009-2010 OAG reports that have been tabled in Parliament including Interest on Advance Payments to Corporate Taxpayers and Income Tax Legislation - Department of Finance Canada and Canada Revenue Agency. Additionally, the OAG Liaison also worked closely with the OAG and CRA management on several other audits that will be tabled in 2010-2011.
+The OAG Liaison contributed to the OAG annual monitoring process that requires chief audit executives to coordinate departments and agencies self-assessment of progress in implementing the recommendations contained in previous OAG audit reports. The results of the 2008-2009 monitoring exercise were presented to the Board at the June 2009 meeting.
+Further information on OAG reports to Parliament is available on the OAG website at:
+http://www.oag-bvg.gc.ca/internet/English/parl_lp_e_856.html
+.
+Professional Practices and Corporate Services
+The Professional Practices and Corporate Services Division (PPCS) provided branch-wide guidance, advice and support services to CAEB. This included branch planning and reporting, quality review, quality assurance, training and methodologies, financial management services, human resource and other administrative services. In addition, PPCS prepared the
+2009-2012 CAEB Business Plan
+and
+2008-2009 Annual Report
+that were approved by MAEC in April 2009 and tabled with the Board in June 2009.
+PPCS continued to build upon the stringent CAEB Quality Review (QR) process to ensure that all products were developed in accordance with Professional Standards. In addition to the existing formal QR process for all products, a more robust pre-QR review process was put in place to guide and provide constructive advice to audit and evaluation teams during all phases of CAEB engagements.
+CAEB success in implementing the automated working paper module of TeamMate
+mc
+, a software package designed for auditors led to CAEB being asked to chair a government working group to share expertise, best practices and lessons learned. During 2009-2010, there were many other requests received for CAEB to share expertise and professional practices including the hosting of a delegation from Indonesia.
+In light of the Agency-wide Information Management Initiative, PPCS continued to position CAEB to address other information management challenges by ensuring the management of information in CAEB was in compliance with legislative/legal requirements and still meet the business needs of the Branch while at the same time reducing paper, electronic and web content storage.
+To support the Individual Learning Plans (ILP) completed by 100% of CAEB employees, PPCS delivered CAEB developed training and coordinated outside training opportunities. During 2009-2010, CAEB developed and commenced delivering an IA Training Course for non-auditors to allow employees from across the CRA to learn more about the IA process and encourage interest in management controls and other aspects of programs within CAEB. PPCS also provided support to employees undertaking professional designations such as the Certified Internal Auditor (CIA). In partnership with three other federal departments, the PE Division sponsored a two week Evaluator Professional Development Program designed and delivered by professors from Carleton University in June 2009. The course covered the federal government evaluation policy, research design, logic models, performance indicators, data analysis techniques, cost-effectiveness analysis and the presentation of evaluation findings.
+In support of the CAEB Integrated Workforce Plan, CAEB continued to proactively attract and recruit staff with a mix of academic backgrounds and program experience, including specialized financial and information technology backgrounds. In addition to selection processes that were completed or in progress during 2009-2010, CAEB further built upon relationships with universities and colleges to recruit Masters level students for the PE function. CAEB also worked with other Branches within the CRA to encourage assignments with CAEB both inside of and outside of formal training programs such as the Middle Management Development Program (MMDP) and the Executive Development Program (EXDP). CAEB also participated in TBS sponsored training/assignment programs such as the Chartered Accountant Student Recruitment (CAST) initiative. To meet the challenge of an aging workforce and the need to both have potential new leaders in place and pass on corporate memory, CAEB took concrete action in 2009-2010 including the completion of an Executive Cadre (EC) Succession Plan and the introduction of a mentoring program.
+A component of the CAEB recruitment and retention strategy is to ensure that official language and diversity are addressed in a positive, proactive manner. During 2009-2010, CAEB encouraged and supported all employees and managers taking part in both formal and informal language training including the provision of internally developed lunch and learn sessions. To further contribute to employee retention, the Branch Human Resource Committee analysed the results of the 2009 Public Service Employee Survey to ensure that all areas for improvement indicated in the CAEB results would be addressed. Managers and employees were engaged to discuss the results and concerns leading to an action plan being developed to address significant areas for improvement.
+CAEB continued to support the CRA transition to end-state pre-qualified processes in 2010-2011 by encouraging and providing resources for employees to achieve their base competency profile. In partnership with Appeals Branch, CAEB provided an on-site competency consultant resulting in increased competency awareness among employees and more voluntary assessments being completed by CAEB staff.
+PPCS continued to work with the Corporate Secretariat to provide quality value-added reporting to MAEC and the Board including the introduction of linkages to CRA risks and priorities for all tabled planning documents and reports. The IA and PE Policies were updated to reflect the current activities of IA and PE and to meet new CRA standards for Corporate Policy instruments; both policies were approved by the Board.
+Internal Disclosure
+s
+The CRA established the Office for Internal Disclosures in 2008 as a result of the
+Public Servants Disclosure Protection Act
+(PSDPA). Commonly referred to as whistle blowing, the purpose of the
+Act
+is to encourage public sector employees to come forward if they believe in good faith that serious wrongdoing has taken place or will take place and to provide protection to them against reprisal when they do so.
+The CAE is the Senior Officer for Internal Disclosure for the CRA and in this capacity continued to support and direct the activities related to this key accountability tool. During 2009-2010, the CAE continued to raise management and employee awareness of the function including delivering several presentations in the Pacific Region as a culmination of the Regional visits commenced in 2008-2009. So far, over 40 presentations have been made to over 2300 employees across the country. An Annual Report on Internal Disclosure was tabled at Agency Management Committee (AMC) and with the Board. The Annual Report of Internal Disclosures was submitted by the Commissioner and CEO of the CRA to the Office of the Chief Human Resources Officer (formally the Canada Public Service Agency).
+Appendix I
+CAEB CONTACTS
+Patricia A. MacDonald
+Chief Audit Executive and Director GeneralProgram Evaluation
+Telephone (613) 957-7522
+Annie Boudreau
+Director, Internal Audit, CorporateFunctions
+Telephone (613) 957-7552
+Gita Bhatt
+Director, Internal Audit, Tax Operations
+Telephone (613) 941-5664
+Myles Kennedy
+Director, Program Evaluation
+Telephone (613) 954-7881
+Maura Butko
+Director, Professional Practices andCorporate Services
+Telephone (613) 954-7840
+Appendix II
+Approved Final Reports Linkages
+2007 Corporate Risk Inventory (CRI) and CRA 2009-2010 Corporate Priorities
+Internal Audit or Program Evaluation
+Corporate Risk
+Corporate Priority
+Audit of Horizontal Case Management
+Protection of Information
+Information Technology Responsiveness
+Government of Canada (GoC)Legislative, Regulatory and Policy Framework: Compliance with VariousLegislation, Regulations and Policies
+Skilled, Knowledgeable and Ethical Workforce: Employee Ethical Conduct
+Resources and Performance: Resource Optimization, Clients/Stakeholders/Taxpayers and Benefit Recipients' Expectations
+Information Technology
+Tax Integrity
+Business Sustainability
+Audit of the CPP/EI Rulings Program
+Government of Canada (GoC) Legislative, Regulatory and Policy Framework: Compliance with Various Legislation, Regulations and Policies
+Clients/Stakeholders/Taxpayersand Benefit Recipients' Expectations
+Strengthening Service
+Tax Integrity
+Business Sustainability
+2008-2009 Selected Fiscal Year End Procedures Audit
+GoC Legislative, Regulatory and Policy Framework:Compliance with Various Legislation, Regulations and Policies
+Protection of Information
+Tax Integrity
+Strengthening Service
+Business Sustainability
+Information Technology
+Non-resident Tax and Excise / Other Levies Transaction Flow-through Audits
+( 2 audits)
+GoC Legislative, Regulatory and Policy Framework: Compliance with Various Legislation, Regulations and Policies
+Protection of Information
+Tax Integrity
+Strengthening Service
+Business Sustainability
+Information Technology
+Information Technology Security Audit
+Protection of Information
+Information Technology Responsiveness
+GoC Legislative, Regulatoryand Policy Framework: Compliance with Various Legislation, Regulations andPolicies
+Skilled, Knowledgeable andEthical Workforce: Employee Ethical Conduct
+Clients/Stakeholders/Taxpayersand Benefit Recipients' Expectations
+Information Technology
+Tax Integrity
+Business Sustainability
+Information Received under the Memorandum of Understanding (MOU)with Service Nova Scotiaand Municipal Relations (SNSMR)  Audit
+Protection of Information
+GoC Legislative, Regulatory and Policy Framework:Compliance with Various Legislation, Regulations and Policies
+Skilled, Knowledgeable and Ethical Workforce: Employee Ethical Conduct
+Clients/Stakeholders/Taxpayers and BenefitRecipients'  Expectations
+Tax Integrity
+Business Sustainability
+Taxpayer Services Telephone Enquiries  Audit
+Clients/Stakeholders/Taxpayers and Benefit Recipients' Expectations
+Government of Canada (GoC)Legislative, Regulatory and Policy Framework: Compliance with Various Legislation, Regulations and Policies
+Skilled, Knowledgeable andEthical Workforce
+Protection of Information
+Strengthening Service
+Tax Integrity
+Evaluation of the Headquarters Region Managers Exchange PilotProgram (HRMEPP)
+Skilled, Knowledgeable andEthical Workforce
+People
+Evaluation of GST/HST Delinquent Filing and Remitting
+Protection of Information
+GoC Legislative, Regulatoryand Policy Framework: Compliance with Various Legislation, Regulations andPolicies
+Clients/Stakeholders/Taxpayersand Benefit Recipients'  Expectations
+Tax Integrity
+Business Sustainability
+Appendix III
+2009-2010 Cancelled or Deferred Audit Engagements
+Engagement
+Cancelled or Deferred
+Rationale
+MOU in respect to the access and protection of Information fromthe Société de l'assurance automobile du Québec (SAAQ)
+Deferred
+The MOU has not yet been signed due tolegal points between the CRA and the SAAQ that need to be addressed. Theaudit will be initiated within a year of the MOU signature.
+MOU with Respect to the Exchange of Information with CBSA
+Cancelled
+Unless advised otherwise by CSBDB, this audit will be performed when CAEB is advised to conduct it, at a timemutually agreed with CBSA.
+National Collections Pools
+Deferred
+Consultation with TSDMB andprioritization of audits resulted in a mutual decision to defer the audit to2012-2013.
+Trust Accounts Examination
+Deferred
+Based on discussions with the Branch,the audit has been deferred to 2012-2013 and the Trust Compliance NationalInventories (TCNI) audit has been launched instead.
+Privileged User Risk Management (PURM)
+Deferred
+The program was transferred from ITBto F&A in April 2009. The feasibility of including the areas ofexamination for this audit in the Cyclical IT Security Audit is also beingtaken into consideration during the deferral period.
+Human Resources Service Delivery
+Cancelled
+The implementation of the new HRService Delivery Model was initiated in the Regions in 2006 and HQ in 2008.The new model has not been fully implemented in HQ. Also, significant auditcoverage of HR Programs by CRA and the OAG has taken place in recent years.
+IT Responsiveness
+Cancelled
+Audits of
+IT Continuity
+and
+ITCapacity to Meet New Benefit Programs
+will include the planned areas ofexamination.
+Footnote
+Footnote
+Footnote _ftn1
+Board of Management Oversight Framework (BoMOF)
+Return to footnote
+_ftn1
+Referrer
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2010-07-09

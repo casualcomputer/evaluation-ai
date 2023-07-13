@@ -1,0 +1,130 @@
+Universal Child Care Benefit (UCCB) Program Audit
+Final Report
+Corporate Audit and Evaluation Branch
+October 2010
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings
+1.0 Program Management
+2.0 Reliability and Protection of Information
+3.0 Compliance Measures
+Conclusion
+Executive Summary
+Background
+: The Canada Revenue Agency (CRA) plays an important role in the effort to support families, children, low and moderate income households and persons with disabilities by providing benefits, credits and other related services. One of the CRA's strategic outcomes, identified in the 2008-2009 Corporate Business Plan, is to ensure that eligible families and individuals receive timely and accurate benefit payments.
+The Universal Child Care Benefit (UCCB) was introduced in the May 2006 Federal Budget as the first element of Canada's Universal Child Care Plan
+[Footnote 1]
+. The
+Universal Child Care Benefit Act
+received Royal Assent on June 22nd, 2006. The UCCB is a taxable benefit designed to assist Canadian families with young children under six years of age, by supporting their child care choices through direct financial support. The first UCCB payments were issued in July 2006. These payments are in the amount of $100 per month, to a maximum of $1,200 per year.
+Human Resources and Skills Development Canada (HRSDC) and the CRA entered into a memorandum of understanding (MOU) on September 1
+st
+, 2006. As stated, HRSDC has primary authority and overall responsibility for the UCCB and the CRA is responsible for program delivery on its behalf. This approach strives to maximize cost efficiencies by drawing upon the CRA's experience in the delivery of income benefits to Canadians, and by leveraging existing data systems, infrastructure, and processes already in place within the CRA for the Canada Child Tax Benefit (CCTB).
+The Benefit Programs Directorate (BPD) of the Assessment and Benefit Services Branch (ABSB) is accountable for the UCCB program delivery with respect to the identification, validation, determination and payment of the benefit. Program objectives are realized with the support of staff from the Individual and Benefit Services Division (IBSD) in Tax Centres (TCs) and at the International Tax Services Office (ITSO).
+Objective
+: The objectives of this audit were to assess whether:
+the CRA management framework in place supported the ongoing delivery and maintenance of the UCCB program; and
+the UCCB program was delivered in accordance with the terms and conditions of the MOU with HRSDC.
+As UCCB leverages existing data systems, infrastructure and processes in place for the CCTB, this audit relied on previous audit work completed in the 2006 CRA Internal Audit of Benefit Programs.
+The examination phase of the audit was conducted in the ABSB and selected TCs from August 2009 to March 2010.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Conclusion:
+Overall, the CRA management framework in place supports the ongoing delivery and maintenance of the UCCB program. Policies and procedures are in place and followed for the processing of UCCB benefit applications, requests for adjustments, and correspondence. Training has been developed and provided to staff. To provide additional clarity for work descriptions that are general in nature, BPD has provided online information to specify the roles and responsibilities of IBSD staff.
+Employee access privileges for the processing of UCCB activities are provided to employees on a need to know basis. Controls are in place at each office visited to ensure that employee system access privileges are reviewed twice per year in accordance with CRA's Policy on Access Accountability and Authentication to Agency Information Technology Systems. BPD has also taken steps to strengthen the monitoring of benefit activities through the Quality Review Strategy, implemented in 2008. This strategy ensures that all offices apply a minimum level of work review for all their employees.
+In accordance with the MOU signed between the CRA and HRSDC, the Agency provides HRSDC with aggregate information on program delivery. In addition, both parties have agreed, subject to compliance with their respective laws, to develop a protocol to share taxpayer personal information required by HRSDC to facilitate the administration of the UCCB legislation. Although the protocol is not yet approved and ratified, extensive communication is ongoing between HRSDC and the CRA with the objective to finalize it in 2011.
+Introduction
+The Canada Revenue Agency (CRA) supports the efforts of federal, provincial and territorial
+[Footnote 2]
+governments to assist families, children, low and moderate income households and persons with disabilities by providing benefits, credits and other related services. One of the CRA's strategic outcomes, identified in the 2008-2009 Corporate Business Plan, is to ensure that eligible families and individuals receive timely and accurate benefit payments.
+The Universal Child Care Benefit (UCCB) was introduced in the May 2006 Federal Budget as the first element of Canada's Universal Child Care Plan
+[Footnote 3]
+. The
+Universal Child Care Benefit Act
+received Royal Assent on June 22nd, 2006. The UCCB is a taxable benefit designed to assist Canadian families with young children by supporting their child care choices through direct financial support. The first UCCB payments were issued in July 2006. These payments are in the amount of $100 per month, to a maximum of $1,200 per year, in respect of each child under the age of six years.
+Human Resources and Skills Development Canada (HRSDC) and the CRA entered into a memorandum of understanding (MOU) on September 1
+st
+, 2006. HRSDC has primary authority and overall responsibility for the UCCB, which includes all matters related to its administration, communication, evaluation, accountability, policy and program development, policy direction and any legislative changes
+[Footnote 4]
+. Overall direction is also provided to Service Canada, a branch of HRSDC, on matters related to promotion and outreach activities.
+The CRA is responsible for UCCB program delivery on behalf of HRSDC. This approach strives to maximize cost efficiencies by drawing upon the CRA's experience in the delivery of income benefits to Canadians, and by leveraging existing data systems, infrastructure and processes already in place within the CRA for the Canada Child Tax Benefit (CCTB).
+The Benefit Programs Directorate (BPD) of the Assessment and Benefit Services Branch (ABSB) is accountable for the development and coordination of the UCCB program with respect to the identification, validation, determination and payment of the benefit. Employees of the Individual and Benefit Services Division (IBSD) in Tax Centres (TCs) are responsible for the processing of UCCB applications and requests for adjustments, and responding to correspondence. In 2008-2009, UCCB payments totalling $2.5 billion were issued to 1.48 million families
+[Footnote 5]
+.
+Focus of the Audit
+The objectives of this audit were to assess whether:
+the CRA management framework in place supported the ongoing delivery
+and maintenance of the UCCB program; and
+the UCCB program was delivered in accordance with the terms and conditions of the MOU entered into by the CRA and HRSDC.
+The UCCB leverages existing data systems, infrastructure and processes that are already in place for the CCTB. Therefore, where appropriate, the audit relied on previous audit work completed in the 2006 CRA Internal Audit of Benefit Programs.
+The examination phase of the audit was conducted in the ABSB and selected TCs from August 2009 to March 2010.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Findings
+1.0 Program Management
+Internal controls are in place to support the management and delivery of the UCCB program. Policies and procedures for processing UCCB applications and all associated workloads are contained in the Benefit Online Manual on the BPD intranet site that is accessible by IBSD staff. Interviews with management and employees of IBSD and a random sample review of processed files confirmed that these policies and procedures are in place and followed.
+Roles and responsibilities for the processing of UCCB activities are defined, communicated, and understood by IBSD employees in TCs. An online facility on the BPD intranet site supports existing benefit programs work descriptions with detailed information on duties to be performed for each employee group and level.
+The BPD library website and the CRA learning site offer learning products related to the general benefits program, including UCCB specific material. In addition to the training provided when the UCCB was first introduced, there has been subsequent training to ensure that staff are kept informed and current on matters related to the delivery of the UCCB program.
+Work reviews are performed regularly in IBSD to ensure that employees understand and apply procedures consistently. Through the Quality Review Strategy implemented in 2008, the BPD monitors offices to ensure compliance to the established policies and procedures with regard to the quality of work.
+BPD contributes to the CRA sustainable development effort by promoting electronic services in the delivery of the UCCB program wherever practical. The Automated Benefits Application (ABA) facility is currently operational in British Columbia, Nova Scotia, Ontario, Prince Edward Island and Quebec. Implementation in other provinces and territories is being done progressively with full completion anticipated in 2012.
+2.0 Reliability and Protection of Information
+Management in the offices visited stated that rules for the identification and assignment of system access privileges for employees are followed and reviewed twice per year in accordance with CRA's Policy on Access Accountability and Authentication to Agency Information Technology Systems. These access privileges are aligned with the required duties of IBSD staff. This adherence to policy for the identification and assignment of system access privileges helps mitigate the risk of internal fraud and enhances the protection of confidential information.
+The protection of information is further enhanced by the CRA's Business Continuity Plans (BCP). BCPs are essential tools to ensure the effective coordination for the timely recovery or continued availability of critical business functions and services in the event of an interruption of service in the CRA. In accordance with the Business Continuity Planning Policy, the plan for ABSB is current and includes UCCB.
+In accordance with the MOU, the Agency provides HRSDC with aggregate information on program delivery. In addition, both parties have agreed, subject to compliance with their respective laws, to develop a protocol to share taxpayer personal information required by HRSDC to facilitate the administration of the UCCB legislation. Although the protocol is not yet approved and ratified, extensive communication is ongoing between HRSDC and the CRA, with the objective of finalizing the protocol in 2011.
+3.0 Compliance Measures
+The CRA, in consultation with HRSDC, ensures that information regarding UCCB is current through modification of its guides, forms and other publications and updating the Internet site whenever applicable. The BPD Communication Strategy is also updated with information on UCCB.
+Automated processes for the determination of recipients' eligibility and entitlement to UCCB depend on the same systems that are used for the CCTB. Consequently, built-in validities and warning messages that are already in place are also applicable to UCCB. Systems controls are in place and working to prevent and detect non-compliance by applicants and recipients with regard to eligibility and entitlements.
+The Validation and Controls (V&C) section achieves its program objectives with the support of IBSD staff. Although UCCB is not specified in any of the V&C projects, a recipient identified for CCTB may also be receiving UCCB and as a result, be reviewed for both benefits. This information is used for the identification of risks and trends and to identify and carry out validation projects. The Benefit Examination Team (BET) staff can send referrals to the Enforcement Division for possible prosecution, and when warranted, penalties under section 163(2) of the
+Income Tax Act
+are recommended and applied.
+Conclusion
+Overall, the CRA management framework in place supports the ongoing delivery and maintenance of the UCCB program. Policies and procedures are in place and followed for the processing of UCCB benefit applications, requests for adjustments and correspondence. Training has been developed and provided to staff. To provide additional clarity for work descriptions that are general in nature, BPD has provided online information to specify the roles and responsibilities of IBSD staff.
+Employee access privileges for the processing of UCCB activities are provided to employees on a need to know basis. Controls are in place at each office visited to ensure that these privileges are reviewed twice per year in accordance with CRA's Policy on Access Accountability and Authentication to Agency Information Technology Systems. BPD has also taken steps to strengthen the monitoring of benefit activities, including the Quality Review Strategy implemented in 2008. This strategy ensures that all offices apply a minimum level of work review for all their employees.
+In accordance with the MOU signed between the CRA and HRSDC, the Agency provides HRSDC with aggregate information on program delivery. In addition, both parties have agreed, subject to compliance with their respective laws, to develop a protocol to share taxpayer personal information required by HRSDC to facilitate the administration of the UCCB legislation. Although the protocol is not yet approved and ratified, extensive communication is ongoing between HRSDC and the CRA with the objective to finalize it in 2011.
+Footnotes
+Footnotes
+Footnote _ftn1
+Treasury Board Submission, Background (paragraph 3), p. 12
+Return to footnote
+_ftn1
+Referrer
+Footnote _ftn2
+CRA Corporate Business Plan, p. A6
+Return to footnote
+_ftn2
+Referrer
+Footnote _ftn3
+Treasury Board Submission, Background (paragraph 3), p. 12
+Return to footnote
+_ftn3
+Referrer
+Footnote _ftn4
+Joint Treasury Board Submission, Program Description (paragraph 7)
+Return to footnote
+_ftn4
+Referrer
+Footnote _ftn5
+Canada Revenue Agency Snapshot  2008-2009
+Return to footnote
+_ftn5
+Referrer
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2011-01-07

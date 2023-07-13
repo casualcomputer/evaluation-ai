@@ -6,10 +6,11 @@ class WebScraper:
     
     SAVE_PATH = '../../data/raw'
 
-    def __init__(self, base_url, prefix, patterns, save_path=SAVE_PATH, verbose=False):
+    def __init__(self, base_url, prefix, patterns, p_patterns=None, save_path=SAVE_PATH, verbose=False):
         self.base_url = base_url
         self.prefix = prefix
         self.patterns = patterns
+        self.p_patterns = p_patterns
         self.save_path = save_path
         self.verbose = verbose
     
@@ -23,9 +24,7 @@ class WebScraper:
                 os.remove(os.path.join(self.save_path, file))
 
     def scrape_evaluations(self):
-        page = requests.get(self.base_url)
-        soup = BeautifulSoup(page.content, 'html.parser')
-        urls, names = self.get_evaluation_urls(soup)
+        urls, names = self.get_evaluation_urls()
         names = [name.replace('/', '-') for name in names]
 
         success = 0
@@ -44,17 +43,35 @@ class WebScraper:
 
         print(f'Saved {success}/{len(urls)} evaluations')
 
-    def get_evaluation_urls(self, soup):
+    def get_evaluation_urls(self):
         urls = []
         names = []
+        if self.p_patterns is not None:
+            p_urls, _ = self.get_urls(self.base_url, self.p_patterns)
+            for p_url in p_urls:
+                _urls, _names = self.get_urls(p_url, self.patterns)
+                urls += _urls
+                names += _names
+        else:
+            urls, names = self.get_urls(self.base_url, self.patterns)
+        return urls, names
+
+    def get_urls(self, url, pattern):
+        page = requests.get(url)
+        soup = BeautifulSoup(page.content, 'html.parser')
+        urls = []
+        names = []
+
         for link in soup.find_all('a'):
             url = link.get('href')
-            if url is not None and (url := self.is_evaluation(url, self.patterns)):
+            if url := self.is_match(url, pattern):
                 urls.append(url)
                 names.append(link.text)
         return urls, names
-    
-    def is_evaluation(self, url, patterns):
+
+    def is_match(self, url, patterns):
+        if url is None:
+            return False
         for pattern in patterns:
             if pattern in url:
                 return 'https://www.canada.ca/' + url
@@ -88,7 +105,7 @@ class WebScraper:
             return False
 
 class HealthCanadaScraper(WebScraper):
-    
+    #REQUIRED
     BASE_URL = 'https://www.canada.ca/en/health-canada/corporate/transparency/corporate-management-reporting/evaluation.html'
     PREFIX = 'hc'
     PATTERNS = [
@@ -102,46 +119,24 @@ class HealthCanadaScraper(WebScraper):
     ]
     
     def __init__(self, base_url=BASE_URL, prefix=PREFIX, patterns=PATTERNS, save_path=WebScraper.SAVE_PATH):
-        super().__init__(base_url, prefix, patterns, save_path)
+        super().__init__(base_url, prefix, patterns, save_path=save_path)
 
 class CanadaRevenueAgencyScraper(WebScraper):
-
+    #REQUIRED
     BASE_URL = 'https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/internal-audit-program-evaluation.html'
     PREFIX = 'cra'
     PATTERNS = ['evaluation']
     
+    #OPTIONAL
     P_PATTERNS = ['internal-audit-program-evaluation']
     
     def __init__(self, p_patterns=P_PATTERNS, base_url=BASE_URL, prefix=PREFIX, patterns=PATTERNS, save_path=WebScraper.SAVE_PATH):
-        super().__init__(base_url, prefix, patterns, save_path)
-        self.p_patterns = p_patterns
-
-    def get_evaluation_urls(self, soup):
-        urls = []
-        names = []
-        for p_link in soup.find_all('a'):
-            p_url = p_link.get('href')
-            if p_url is not None and (p_url := self.is_evaluation(p_url, self.p_patterns)):
-                p_content = requests.get(p_url).content
-                soup = BeautifulSoup(p_content, 'html.parser')
-                for link in soup.find_all('a'):
-                    url = link.get('href')
-                    if url is not None and (url := self.is_evaluation(url, self.patterns)):
-                        urls.append(url)
-                        names.append(link.text)
-
-        #urls to remove
-        rm_urls = ['https://www.canada.ca//en/revenue-agency/programs/about-canada-revenue-agency-cra/internal-audit-program-evaluation.html']
-        for rm_url in rm_urls:
-            i = urls.index(rm_url)
-            urls.pop(i)
-            names.pop(i)
-        return urls, names
+        super().__init__(base_url, prefix, patterns, p_patterns=p_patterns, save_path=save_path)
 
 def main():
-    # print('Scraping data from Health Canada')
-    # hc_scraper = HealthCanadaScraper()
-    # hc_scraper.run()
+    print('Scraping data from Health Canada')
+    hc_scraper = HealthCanadaScraper()
+    hc_scraper.run()
 
     print('Scraping data from Canada Revenue Agency')
     cra_scraper = CanadaRevenueAgencyScraper()

@@ -1,0 +1,229 @@
+Business Intelligence Decision Support
+Internal Audit Report
+Corporate Audit and Evaluation Branch
+January 2008
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+1.0 Project Management – Management Processes and Practices
+1.1 Project Governance
+1.2 Project Charter
+1.3 Business Case
+1.4 Risk and Issue Management Processes
+1.5 Change and Quality Management Processes
+1.6 Project Plans/Schedules and Performance Measurement
+1.7 Monitoring and Reporting Processes
+1.8 Project Human Resources
+2.0 Communication
+2.1 Marketing and Communication Strategies and Plans
+2.2 ADW/Data Mart Production Users
+2.3 Data Stewardship
+Conclusion
+Appendix
+Executive Summary
+Background:
+The Business Intelligence Decision Support (BIDS) Program is an Information Technology Branch (ITB) sponsored Agency-wide initiative to address the shortfalls in the current information delivery environment. The Program was initially launched in 2002 and in May 2004, the Agency's senior executives approved the Agency Data Warehouse (ADW) under the BIDS Program as the model for business intelligence and decision support in the Canada Revenue Agency (CRA).
+BIDS is a large, complex Program requiring participation by client branches. The ADW will be the single source of tactical and strategic decision support systems in the Agency, and it is expected that the ADW will be populated with data from all key operational and corporate administrative systems within CRA by 2009. ITB, as the sponsor for BIDS, expects that the ADW will grow significantly, effectively providing the decision support requirements of the Agency's major projects, such as Integrated Revenue Collections (IRC), Compliance Systems Redesign (CSR), and the Goods and Services Tax/Harmonized Sales Tax (GST/HST) Redesign.
+Objective:
+The objective of the audit was to determine whether adequate project management practices, and effective communication and coordination processes are in place to ensure successful implementation of the BIDS Program within CRA.
+ITB refers to the BIDS initiative as a Program. The audit was conducted using methodology and best practices related to project management as it was felt that this was most relevant to the BIDS initiative.
+Conclusion:
+ITB has made progress on the development, implementation and maintenance of the ADW. The audit revealed a need for clearer and more effective BIDS Program governance and sponsorship. A strong business driven “BIDS vision” and buy-in from stakeholders is required. Without firm commitments from all branches, it may be difficult for the Program to maintain its tactical and strategic Agency vision.
+While some aspects for an effective project management framework have been defined and implemented, there were weaknesses noted in processes for approval and review (i.e. project charter and business cases), risk and issue management and communication. The Program lacked an Agency-wide communication strategy and plan. The business value was not clearly understood by the business stakeholders. Data stewardship issues remain unresolved. Client requirements were not always fully addressed.
+Successful delivery of the Program will require strengthening of commitments from all branches, an effective project management framework and internal communication strategy.
+Action Plan:
+BIDS Management, Business and ITB, agrees with the recommendations and have revised the previous BIDS Governance model/framework to move the Program Sponsorship from ITB to Assessment and Benefit Services Branch (ABSB). BIDS Management has added Governance for Policy Oversight and Executive sponsorship to fulfill the need for clearer and more effective governance and sponsorship. The new Governance is proposing the creation of a BIDS Program Management Office. Funding approval will be required.
+Furthermore, by Q1 of 08-09, BIDS Business and BIDS ITB plan to create a new BIDS Program Charter to clearly define, approve and communicate the BIDS Program and to formalize the BIDS Program risk and issue management escalation and resolution process via the new BIDS Program Charter. Future BIDS Business Cases will be approved by the BIDS Steering Committee, before being tabled for RIMC discussion and approval.
+BIDS ITB will create a BIDS data quality management document to formalize and communicate BIDS quality management standards, tools and guidelines by Q1 of 08-09. The BIDS Sponsor will develop a BIDS Program Master Plan that will integrate all major project milestones falling within the scope of the BIDS Program by Q2 of 08-09.
+BIDS Business will create and communicate a BIDS Program Communication Strategy and Plan during Q2 08-09 and identify BIDS Program issues or risks associated with Data Stewardship.
+Introduction
+The Business Intelligence Decision Support (BIDS) Program mandate is to create a responsive environment and architecture within the Agency to support tactical and strategic decision support requirements. It is a program being run by the BIDS Division within Solutions Directorate of Information Technology Branch (ITB). The program has an Agency-wide scope that requires participation and commitment of many Canada Revenue Agency (CRA) branches for the development and implementation of BIDS.
+For more than 25 years, CRA has been developing business intelligence/decision support systems following industry and technology standards and practices that lead to the construction of “stove-pipe” solutions as opposed to Agency-wide initiatives to coordinate the collection of data for all lines of business. Integrated business solutions and increased emphasis on performance measurement and management are key business drivers that have furthered the need for an Agency-wide business intelligence decision support solution.
+The BIDS Model (illustrated in attached Appendix) depicts an integrated view of CRA's strategic approach to the Agency's data management. A key component of BIDS is the development of the Agency Data Warehouse (ADW). This is a project where data is extracted from the source systems, transformed into consistent data, and loaded into the ADW. Getting data into one enterprise-wide data collection, with all areas of the Agency agreeing on a consistent view and definition of the data, is one of the most challenging aspects of implementing data warehousing at CRA.
+BIDS is a multi-year program that began in 2002. It is complex in that it spans the Agency, introduces new technology and it could potentially affect a large number of Agency staff. BIDS incorporates the majority of the Agency's information holdings, effectively replicating the vast amount of existing information across the Agency. There are approximately 130 employees dedicated to the BIDS program. As of November 2006, the ITB BIDS Resource and Investment Management Committee (RIMC) briefing documents show costs for the Program totalling
+PROTECTED
+.
+Requirements for ad hoc queries and operational and strategic reports will be met through the use of data marts and standard reporting tools. An ADW/data mart is data extracted from the ADW and tailored to support the specific analytical requirements of a business unit or function. It provides advanced querying, reporting, and other information analysis capabilities. For example, the Benefits Programs Directorate (BPD), in the Assessment and Benefit Services Branch (ABSB), uses a suite of data marts organized around three main topics of interest: the Goods and Services Tax Credit (GSTC), the Canada Child Tax Benefit (CCTB), and the Disability Tax Credit. These data marts consolidate program and benefit recipient information originally found in many different systems such as T1 Accounting, T1 Assessing and Individual Credit Determination systems into reports that allow BPD management to satisfy their reporting obligations to Agency senior management and to external organizations (e.g. Department of Finance). Reports produced with ADW data marts also permit BPD program officers to perform investigative work to respond to queries from field officers.
+BIDS has played an important role in the success of implementing a number of new programs, including the Universal Child Care Benefit (UCCB) and the Alberta Resource Rebate (ARR). The accuracy of information provided by BIDS before issuing the payments and the speed at which the information was available allowed the BPD to predict impacts and estimate the costs of issuing such benefits, greatly assisting CRA and its partner province in making key decisions.
+ITB expects the ADW will be populated with data from all the major source systems by 2008-2009. Since 2003, data elements increased from 1,700 to 6,000. A total of 14 ADW/data marts were established and supported as of December 2006 (i.e. T1, CAS Material Management component, Canada Child Tax Benefit (Benefits Program), Risk Management Decision Support (IRC)).
+Focus of the Audit
+The objective of the audit was to provide senior management with assurance as to the adequacy of project management practices in place, and the effectiveness of communication and coordination processes in place to ensure successful implementation of BIDS within CRA.
+While ITB refers to the BIDS initiative as a program, the audit was conducted using methodology and best practices related to project management as it was felt that this was most relevant to the BIDS initiative.
+The examination phase of the audit was conducted between July 2006 and April 2007. Methodology included audit tests and interviews with management and staff at ITB and six functional branches.
+The audit was conducted in accordance with the
+“International Standards for the Professional Practice of Internal Auditing.”
+Findings, Recommendations and Action Plans
+1.0 Project Management – Management Processes and Practices
+1.1 Project Governance
+CRA's Project Management Policy and RIMC Administration Procedures and Document Guidelines require that all CRA projects have a governance structure in accordance with best practices of project management. Project governance, according to the Project Management Institute (PMI), consists of several key functions including establishing agreements and securing necessary reviews and approvals; measuring the project's outputs, benefits and value; monitoring stakeholders' commitments; and ensuring that required direction is obtained at each appropriate stage of the project. The Project Sponsor is responsible for ensuring that Agency stakeholders understand the benefits, value and importance of the project.
+The Program Sponsor for BIDS is the Assistant Commissioner (AC) of ITB. The BIDS Division within the Solutions Directorate in ITB is responsible for the Program. As the overall scope of the Program encompasses many different branches and business areas, the governance structure for the Program also includes a BIDS Business Team within the Assessment and Benefit Services Branch (ABSB) that is responsible for the development of a business framework to facilitate an Agency-wide approach to managing data, infrastructure, processes, technology and services. The team acts as a liaison between business and information technology to promote the use of common effective BIDS activities within CRA.
+A BIDS Director General (DG) level Steering Committee has been mandated to oversee the BIDS program with representation from most branches. A BIDS ITB Program Management Office has been established in ITB on a temporary basis to support the Program and other specific Business Intelligence (BI) solutions within ITB. The BIDS ITB Program Management Office is responsible for establishing and coordinating standards for management processes, communication, reporting, monitoring and implementing methodologies.
+Although several elements of governance are in place for BIDS, the structure has not been fully effective in dealing with cross-functional client and corporate issues. ITB has not secured approvals and agreements with stakeholders, and the number of users to date is limited, as the value and benefits of the Program are not well understood by business stakeholders.
+The BIDS ITB Program Management Office's mandate, including roles and responsibilities, has not been clearly communicated to business branches. Consequently, business stakeholders questioned the effectiveness of the BIDS ITB Program Management Office to the Program due to lack of awareness of these. Stakeholders believe that BIDS should be “business driven” and would benefit from business executive sponsorship and oversight. As a result, the DG level participation at the BIDS DG Steering Committee has been declining as members have expressed concerns about the effectiveness of the Committee and the appropriateness of issues discussed.
+Recommendations
+The BIDS Program Sponsor and DG Steering Committee should clearly define, approve and communicate the BIDS Program, organizational structure and roles and responsibilities for all partners, including the DG Steering Committee.
+The BIDS DG Steering Committee members should review the governance framework of the BIDS Program to ensure it can effectively deal with cross-functional client and corporate issues.
+Action Plan
+BIDS Business and BIDS ITB will:
+Create a new BIDS Program Charter to clearly define, approve and communicate the BIDS Program (what it includes and does not include), organizational structure and roles and responsibilities for all partners, including the DG Steering Committee. The target completion date: 08/09 Q1.
+Revise the current BIDS Governance model/framework to move the Program Sponsorship from ITB to ABSB and to add Governance for Policy Oversight and Executive sponsorship. (completed)
+Prepare a presentation for the new Governance Model. (completed)
+Seek new Governance Model approval from the BIDS Steering Committee. (completed)
+Develop a transition plan for the shift in governance. The target completion date: 07/08 Q3.
+BIDS Business will prepare a Funding Request to establish a BIDS Business Program Management Office. (This name is being used until an official name for this Office is selected.) The target completion date: 08/09 Q2.
+1.2 Project Charter
+Although the use of project charters is not a specific CRA Project Management Policy requirement, it is an ITB standard and a requirement of the Treasury Board Secretariat (TBS) policies. A project charter clearly defines a project definition to bring stakeholders into necessary agreement. A project charter consists of a mission statement including background, benefits, goals, objectives, scope, assumptions and constraints. It sets out the approved project objectives, roles and responsibilities, delegated authorities and allocated resources.
+In 2002, a draft “BIDS Program Charter” was prepared, setting out the objectives, scope, high-level deliverables and program roles and responsibilities. However, this document has not been submitted to stakeholders for formal approval or updated for changes. It also lacks detail on design assumptions, costs, milestones, deliverables and timeframes and does not have clear and measurable objectives.
+Recommendations
+The BIDS Program Sponsor should update the “Program Charter” and obtain formal approval from stakeholders in accordance with ITB standards.
+Finance and Administration Branch should update the CRA's Project Management Policy to include project charters as a requirement that reflects best project management practice and to align with the ITB standards and TBS guidelines.
+Action Plan
+BIDS Business and BIDS ITB will draft a new BIDS Program Charter to clearly define, situate and formalize the BIDS Program, including details on the organizational structure, roles and responsibilities of all partners, and role and responsibilities of the DG Steering Committee. The target completion date: 08/09 Q1.
+F&A will consider updating CRA's Project Management Policy with a view to better articulating the need for project charters, or equivalent documentation, as a requirement that reflects best project management practice. This will be done in conjunction with the exercise that is currently underway to identify improvements to the RIMC project approval and monitoring process (and documentation requirements), to be presented to RIMC for consideration and approval in January 2008. The target completion date: 07/08 Q4.
+1.3 Business Case
+In accordance with the CRA Project Management Policy 2006 and TBS guidelines, a business case puts the investment decision into a strategic context, and positions the business objectives and options that will affect both the decision and the investment itself. A business case provides the information necessary to make an informed decision about whether a project should proceed. It establishes commitments that will form the baseline against which progress of the project will be continuously monitored and performance and success will be measured and evaluated. It includes an analysis of all the costs, benefits and risks associated with a proposed investment and offers reasonable alternatives.
+The BIDS Program is broken down into three major phases. Phase I (fiscal years 2002- 2003 and 2003-2004) is completed. Phase II (fiscal years 2004- 2005 to 2008-2009) is currently in progress. Phase III is scheduled to begin in fiscal year 2008-2009, and will be the ongoing support of the ADW and Business Analysis environment within the CRA.
+At program initiation and approval stages of Phase I, the Resource and Investment Management Committee (RIMC) did not exist. Consequently, there was no formal project management policy in place in the Agency that required business cases. In November 2006, a business case was prepared for Phase II. It included information about costs of the Program and requirements for funding. However, it lacked several elements and received limited approval and funding from RIMC. Specifically, it lacked milestones, deliverables and baseline commitments against which the progress of BIDS could be continuously monitored and against which performance and success could be measured and evaluated.
+Several different audiences throughout the Agency, including the BIDS DG Steering Committee, Operations Committee, RIMC and the Agency Management Committee (AMC), had reviewed the BIDS Business Case. However, there was no indication or evidence that the BIDS Business Case was formally approved by the above authorities and business stakeholders.
+The ITB BIDS documents reported funding to November 2006 was
+PROTECTED
+. The Program Sponsor was going to RIMC for additional funding of
+PROTECTED
+. These costs only reflect ITB's direct investment in BIDS and do not include specific client funded BI solutions development costs such as data marts for the GST-HST Redesign. The BIDS financial resource plans reviewed did not include total cost figures or specific BI solutions development/maintenance external to ITB. Sound business and funding decisions would be difficult to make without knowing the total Agency cost for BIDS.
+BIDS Closeout reports have not been produced for the completed Phase I (reporting periods 02/03 and 03/04) and for Phase II (A) (prior year periods 04/05 and 05/06). Formal closure of these two Phases would help minimize the inherent risk associated with large, lengthy and complex projects.
+Recommendations
+The BIDS Program Sponsor should:
+ensure all future comprehensive business cases meet the requirements of the CRA Project Management Policy and are approved by all stakeholders and considers all costs associated with the Program ; and
+produce close-out reports, approved by the appropriate authorities, at the conclusion of present and future phases.
+Action Plan
+BIDS Program Sponsor will ensure RIMC Secretariat guidelines and directions will be followed when producing future Business Cases. Future Business Cases will need to be approved by the BIDS Steering Committee before being tabled for RIMC discussion and approval.
+BIDS ITB Program Management Office will produce a close-out report at the end of Phase II (Current Business Case, planned to be completed by end of 08-09).
+BIDS ITB will produce a BIDS Program Historical Reference to factually document evidence of past BIDS Program Approvals by the Resource and Project Review Committee (RPRC), AMC, other Investment Plan approval authorities (2002 to 2007). The target completion date: 07/08 Q4.
+1.4 Risk and Issue Management Processes
+The Agency's Integrated Risk Management (IRM) Policy states that successful delivery of a project or service is contingent upon the effective and strategic management of risks. A formal risk and issue management process allows management and stakeholders to focus on risks and issues in a co-ordinated effort.
+Project risks and issues are escalated from project leaders to managers. BIDS ITB project managers and the ITB Program Management Office monitored risks and issues through monthly project status reports (PSR), as well as discussion at weekly BIDS manager meetings. When required, risks and issues are escalated to the BIDS Steering Committee for discussion.
+Although the project teams have made progress in the right direction to document priority risks and issues, comments from the interviewees and lack of documentation confirmed that program risks and issues were not consistently tracked or documented. Consequently, some individual teams were maintaining their own logs.
+A formal consolidated risk and issue log, to help managers identify risks and issues, was not evident at the beginning of the audit. However, by the end of the audit, project teams were being encouraged to use a “Project Status Log” as the standard.
+The audit also found that a consistent, consolidated and approved BIDS Risk Management process had not been formally established and communicated. The process in place at the time of the audit lacked an integrated approach. Without a consolidated formalized risk management process, a consistent integrated approach to identifying, evaluating, addressing, monitoring and reporting risks is compromised.
+There has been a significant amount of work done to define, revise and improve the issue management process since the start of the internal audit, but none of the processes have received final approval. The “BIDS Issue management process/procedure” was in draft format. It had been communicated to the BIDS management team and subsequently disseminated to their respective teams and sections. A draft communiqué with procedures on the “BIDS Issue Resolution Process” was prepared. However, it was not a coordinated effort with business stakeholders.
+Recommendations
+The BIDS ITB Program Management Office should, in consultation with business stakeholders, formalize the risk and issue management escalation and resolution processes to ensure a consistent and integrated approach to the management and reporting of risks and issues throughout the life of a program. The BIDS Program Sponsor should communicate the processes to the Program stakeholders.
+The BIDS ITB Program Management Office should ensure that new risks and issues are continually identified, assessed, addressed, tracked, consolidated and reported in accordance with the CRA's IRM policy.
+Action Plan
+BIDS Business and BIDS ITB will:
+Formalize the BIDS Program risk and issue management escalation and resolution process. This will be performed via the new BIDS Program Charter. The target completion date: 08/09 Q1.
+1.5 Change and Quality Management Processes
+An effective change management process will ensure that system changes are approved and properly implemented in a consistent and timely manner with minimum disruption. For effective change management, standards, policies, procedures, documentation, tracking and escalation processes should exist.
+Change management procedures and processes within ITB for the BIDS Program were well defined, approved and timely. The implementation of BIDS system design changes were documented, tracked, and effectively maintained through the change request and management process, e.g. change logs, approvals and reviews.
+Quality management is a systematic way of ensuring that all the activities necessary to design, develop and implement IT services, which satisfy the requirements of the organization and of users, take place as planned and that the activities are carried out effectively. Effective quality management processes help ensure that the end product will satisfy the user requirements.
+These processes were in place and adequate to ensure that each “ADW release” involved review, analysis, approval and decision to proceed within the ADW's development methodology life cycle. However, at the time of the audit, the BIDS Program quality management processes, standards and guidelines were not formally documented and communicated. Employees may not understand the quality standards related to the BIDS Program without formal guidelines and standards for quality management processes.
+The ITB BIDS Division formed a Data Quality Team in 2006 to look at monitoring and measuring of ADW data quality. However, issues still remain, including acquisition of automated Quality Review tools.
+The audit also found some inconsistencies in user requirement gathering/ documentation process. The business requirements template was not consistently used. Some requirements were forwarded via Excel spreadsheets that did not always include the level of detail required for analysis. The BIDS ITB Program Management Office strongly encouraged the use of the template as the standard but inconsistencies continue to exist.
+Recommendations
+ITB should formalize, document and communicate BIDS quality management standards, tools and guidelines.
+The BIDS Business Team should formally enforce the use of the business requirements template as a standard procedure to ensure business requirements are complete, consistent and clearly identified.
+Action Plan
+BIDS ITB will create a BIDS data quality management document. The target completion date: 08/09 Q1.
+BIDS Business Team will ensure processes to monitor and report the use of the templates to add data to the ADW will be established. The target completion date: 07/08 Q4.
+1.6 Project Plans/Schedules and Performance Measurement
+Project work plans and schedules are essential for effective project oversight or day-to-day management. Well-defined project plans and schedules will permit proper project tracking and control and also help ensure that projects meet user needs and expected results in a timely manner. The appropriate breakdown of tasks over reasonable timeframes establishes not only the deliverables to be produced, but also the resources that will be required.
+Overall, appropriate BIDS Program plans and schedules have been established. The BIDS IT Team is working with the Computer Assisted Audit Selection document as a comprehensive project work plan. Detailed information is contained in their work plans that include specific tasks for completion within each phase of system development; starting dates; finishing dates; and human resources assigned to each task. In general, the plans are complete and detailed enough to allow effective project tracking and control. The plans are communicated to and followed by staff and management. Variance from the work plans requires management approval. However, an integrated BIDS Master Program Plan, containing links between all BIDS sub-projects and task inter-dependencies as well as resource requirements and related project critical paths, was not evident to ensure effective Program oversight.
+A formal implementation plan with a detailed prioritization schedule for project implementations was not in place. The BIDS ADW “3yr Roadmap” shows the quarterly release dates from 2005-2007; however, it is at a very high level. The prioritization committee has started the process of developing an implementation strategy.
+A Service Delivery Model should reflect how the organization chooses to address its service delivery functions. It is important to develop a model that is most efficient and best aligned with the business objectives.
+ITB created a one page Service and Delivery Model schematic document for BIDS that demonstrates all the phases of a Service Delivery Process. However, the roles and responsibilities for the Service Delivery Model were not clearly defined and communicated with clients/stakeholders.
+Project success criteria and performance measurement indicators enable project teams to monitor, measure, establish continuous improvement processes and identify areas of concern. The BIDS project performance measurement indicators and project success criteria were either weak or non-existent. Consequently, project measurement practices are not sufficient to inform management on the ability of the BIDS Program to achieve its planned results. The BIDS ITB Program Management Office and the BIDS management team are aware of these weaknesses and have commented that they are working on developing and formalizing performance measurement indicators and project success criteria.
+Recommendations
+The BIDS Program Sponsor should develop a detailed overall Program Master Plan and Implementation Strategy in conjunction with client representatives.
+The BIDS Program Sponsor should develop and communicate a more clearly defined Service and Delivery Model.
+The BIDS Program Sponsor should develop, document and communicate clearly defined performance measurement indicators and project success criteria to track and measure progress towards planned results.
+Action Plan
+The new BIDS Program Management Office, if properly funded, will:
+Develop a BIDS Program Master Plan that will integrate all major project milestones falling within the scope of the BIDS Program. The target completion date: 08/09 Q3;
+Develop and communicate a BIDS Service and Delivery Model. The target completion date: 08/09 Q3; and
+Develop, document and communicate performance measurement indicators and project success criteria to track and measure progress towards planned results. The target completion date: 08/09 Q4.
+1.7 Monitoring and Reporting Processes
+Successful implementation of large multi-year projects require effective and ongoing project monitoring and reporting processes to ensure timely and efficient delivery of various project deliverables, including post-implementation and lessons learned. Lack of proper monitoring and reporting could lead to the project being late, over budget, and not meeting user expectations.
+The reporting process used in the BIDS ITB Program Management Office is the Managed Status Reporting Program. The Enterprise Project Management Office in ITB is tracking progress of the Program through the Managed Status Reports. There are a significant number of reports being produced on a weekly, and/or monthly basis and used to effectively monitor the ADW component of the BIDS Program.
+The BIDS ITB Program Management Office monitors progress against various BIDS project reports. Key reports include the PSR with project details, the dashboard reporting tool, and the ITB branch wide summary (high-level report). The PSR reports are completed by managers and submitted to the DG level. The detailed reports are fed upwards to the higher-level ITB branch wide summary report. The Directors, DGs and AC review this report in their monthly meetings.
+The BIDS ITB Program Management Office monitors and controls the status reporting by tracking and ensuring that reports are completed and sent to the right offices. Meetings take place at all levels. Project managers hold weekly meetings with their teams to review project status. Weekly divisional management meetings are held with all project managers.
+At the time of the audit, the post implementation reporting and review process was not formalized. As the BIDS ITB Program Management Office roles and responsibilities evolve, ITB intends to include the formalization of a post implementation review as ADW/data marts are put into production. Some of the BIDS project teams use lessons learned for their specific section activity (development, monitoring); however, a formal process is not in place to ensure lessons learned are being horizontally reviewed and considered or shared with BIDS IT development team and the clients.
+Monitoring by the BIDS ITB Program Management Office of project budgets and costs associated with the BIDS Division is conducted in accordance with policies, procedures and guidelines from ITB, CRA Resource Management, and RIMC. Variances between budgeted and actual are followed up and explained.
+Recommendation
+The BIDS ITB Program Management Office should formalize and communicate post-implementation review, lessons learned and reporting processes to all impacted stakeholders.
+Action Plan
+BIDS ITB Project Office will develop and communicate a formal Project Close-out process that will include post-implementation review and lessons learned. The target completion date: 07/08 Q4.
+1.8 Project Human Resources
+Project Human Resource (HR) plans help ensure efficient, effective human resource utilization for on-time and on-budget delivery of projects. HR requirements for the overall BIDS Program are not defined or identified, including the skills/knowledge required as outlined in the RIMC Guidelines for Business Cases.
+Evidence obtained during the majority of interviews indicated that Program resources were inadequate in terms of number of employees, training and skill level. ITB and business client areas have expressed concerns regarding their staff's lack of appropriate skill sets, high stress levels due to the lack of resources, tight deadlines and lack of business and technical knowledge. During interviews, some stakeholders shared their concerns over an effective HR strategy to recruit, train and retain people.
+Recommendation
+The BIDS Program Sponsor should identify the HR requirements for the overall BIDS Program and implement an appropriate HR strategy to address BIDS skills and expertise deficiencies.
+Action Plan
+BIDS Business & BIDS ITB will:
+Identify the HR requirements for the overall BIDS Program (Staffing Plans). The target completion date: 07/08 Q4.
+Develop and implement an appropriate HR strategy to address BIDS skills and expertise deficiencies. The target completion date: 08/09 Q2.
+2.0 Communication
+2.1 Marketing and Communication Strategies and Plans
+Although the general concept of BIDS was supported, the levels of commitment to this Program varied across the branches. A strong marketing and communication strategy is important to ensure Agency-wide understanding and commitment to the BIDS Program. Failure to effectively communicate the purpose, benefits, challenges, successes and decisions during the course of the Program may have negative impacts on Program progress.
+Currently, communication exists in various forums: BIDS Business Forum, BIDS DG Steering Committee, the Report-Net Swat Team, and the ADW working group. The BIDS Business Team held a “BIDS Day” event in September 2006 and has developed a quarterly Newsletter that is available on the InfoZone. However, the BIDS business value is not clearly articulated and/or understood by some stakeholders. Although the BIDS IT Team has developed a communication plan for communication within ITB, a plan for communication with business stakeholders has not been clearly defined.
+A BIDS Communication Strategy document dated July 2005 (for discussion purpose only) was still in draft format. In 2006-2007, the BIDS Business Team have made progress in their communication processes with the stakeholders through the BIDS Prioritization Committee meetings that include members from most branches. The team plans to improve BIDS marketing and communication processes through more involvement with the ITB development team as well as consultative meetings with BIDS stakeholders.
+Recommendations
+The BIDS Program Sponsor should update and formalize an Agency-wide internal Communication Strategy to improve communication with the stakeholders to ensure that they understand the business value of BIDS.
+The BIDS Program Sponsor should develop an Agency-wide internal Communication Plan to improve communication with the stakeholders. The ITB Communication Plan should be used as a model.
+The BIDS Business Team should market and promote ADW capabilities and sustain user commitments by highlighting Program successes.
+Action Plan
+BIDS Business will:
+Create and communicate a BIDS Program Communication Strategy. The target completion date: 08/09 Q2.
+Create and communicate a BIDS Program Communication Plan. The target completion date: 08/09 Q2.
+Market and promote ADW capabilities through the execution of the BIDS Program communications and marketing plan. The target completion date: 08/09 Q2.
+2.2 ADW/Data Mart Production Users
+The BIDS Program's success is reliant on a full understanding of its users requirements and effective client service. Client satisfaction is essential to ensure the progression of the BIDS Program.
+The BIDS ITB Program Management Office and Business Team need to improve support for BIDS production (data mart) users during implementation, post-implementation and maintenance. The current support level and maintenance for BIDS are inconsistent. The BIDS IT Team and the BIDS Business Team were not able to provide a complete list of production data marts and their users to ensure effective production support. During the audit, it was found that a formal user feedback process was not in place. Some users were unclear about where and how to communicate their concerns regarding implementation, reporting and program status. A clear user feedback process would help mitigate the impact from client confusion or concerns.
+Some users have expressed frustration with ITB's choice
+PROTECTED
+as the Agency reporting tool. The decision
+PROTECTED
+was made by ITB with limited client consultation and limited communication. Comments expressed during our interviews indicated that some clients found the tool inadequate due to the loss of some required functionality (e.g. complex querying).
+Recommendation
+The BIDS IT and Business Teams should support ADW/data mart users in the planning, implementation and maintenance of ADW/data marts and provide an appropriate process for user feedback.
+Action Plan
+BIDS Business & BIDS ITB will:
+Promote and Communicate the BIDS Program Services. The target completion date: 07/08 Q4.
+Create a formal BIDS Centre of Expertise for Best Practices, etc. (completed)
+Perform a gap analysis
+PROTECTED
+in relation to specific exploration and research requirements. The target completion date: 07/08 Q4.
+2.3 Data Stewardship
+Data stewardship is the business-led management of data as a corporate asset throughout its lifecycle. It should methodically address issues from an overall CRA perspective so that needs can be quickly addressed and the solutions immediately used throughout the Agency.
+Progress has been made in terms of data stewardship awareness through workshops and data stewardship working group meetings. Many clients indicated that a key remaining issue impacting BIDS is the resolution of ADW data definitions. One data element could potentially have many definitions by business users. A clear understanding of the data definitions is essential for useful reporting and data analysis.
+Furthermore, the client branches do not appear to have a common understanding of data stewardship and its relation to BIDS. A lack of understanding may impede CRA's strategic approach to improve data quality and address corporate data management needs to meet business requirements.
+Recommendation
+The BIDS Business Team should identify, analyze and address data stewardship issues and risks.
+Action Plan
+BIDS Business will:
+Identify BIDS Program issues or risks associated with Data Stewardship.
+Corporate Strategies and Business Development Branch (CSBDB) is taking on the responsibility for Data Stewardship. BIDS Business Team will raise the issues to CSBDB for resolution.
+Conclusion
+Although the general concept of BIDS was supported, the levels of commitment to this Program varied across the branches. The audit revealed a need for clearer and more effective BIDS Program governance and sponsorship, especially when dealing with cross-functional client and corporate issues. “Business buy-in” is critical to the success of BIDS due to its dependency on the business branches to provide commitment, communicate user requirements, fund data marts and support strategic direction. Interviews with key stakeholders in branches revealed that they do not have a common understanding of the Program's purpose, scope and benefits.
+While our audit found that some aspects for an effective project management framework have been defined and implemented, there were weaknesses noted in processes for approval and review, risk and issue management, client support and data stewardship.
+Appendix
+BIDS Model
+The BIDS Model (illustrated below) depicts an integrated view of CRA's strategic approach to the Agency's data management. The data flow begins at the source systems, is extracted by the Extract Transform Load (ETL), moves to the ADW, onward to the secondary data acquisition or data delivery, is distributed to the various data marts and finally to the desktops where managers and business analysts will be able to query the Agency-wide data without impacting the operational systems.
+(PROTECTED)
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2008-04-18
