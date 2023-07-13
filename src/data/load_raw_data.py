@@ -40,7 +40,6 @@ class WebScraper:
             if os.path.exists(file_path):
                 success += 1
         file_path = f'{self.save_path}/{self.prefix}_all.txt'
-        print([type(text) for text in texts])
         self.write_to_file('\n'.join(texts), file_path)
 
         print(f'Saved {success}/{len(urls)} evaluations')
@@ -160,8 +159,8 @@ def scrape_nrc():
     nrc_scraper.run()
 
 def main():
-    # scrape_health_canada()
-    # scrape_cra()
+    scrape_health_canada()
+    scrape_cra()
     scrape_nrc()
 
 if __name__ == '__main__':
