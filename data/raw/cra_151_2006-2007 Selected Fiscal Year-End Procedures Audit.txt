@@ -1,0 +1,65 @@
+2006-2007 Selected Fiscal Year-End Procedures Audit
+Internal Audit Report
+Corporate Audit and Evaluation Branch
+February 2008
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+Changes to the Revenue Ledger (RL) Trial Balance Accrual Processes
+Allowance for Doubtful Accounts
+Follow-up of 2005-2006 Selected Fiscal Year-end Procedures Audit
+Conclusion
+Executive Summary
+Background:
+The Canada Revenue Agency (CRA) prepares annual Administered Activities Financial Statements for the reporting of tax revenues using full accrual accounting. As in prior years, the Finance and Administration (F&A) Branch requested Internal Audit Division's (IAD) assistance in providing assurance to management on the accuracy and completeness of selected financial information to be reported in these statements.
+The work was carried out in conjunction with the annual audit of the financial statements conducted by the Office of the Auditor General (OAG) who is responsible for issuing an audit opinion on their fair presentation. IAD efforts were focused on two areas that were considered more at risk for the 2006-2007 fiscal year. The audit approach and methodology for the year-end work was discussed with F&A and the OAG and the IAD results were used by the OAG in formulating its opinion on the CRA Administered Activities Financial Statements that were approved in August 2007.
+Objective:
+The objective of the audit was to provide assurance to management on the completeness and accuracy of selected year-end procedures. These were related to system changes in the trial balance accrual processes in the Revenue Ledger (RL) and the accounts receivable analysis used in establishing the year-end Allowance for Doubtful Accounts (ADA). In addition, the status of management action plans from the previous fiscal year-end audit was assessed. The scope of the audit did not include the verification of amounts that would appear in the financial statements.
+The audit took place between February and September 2007 and was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Conclusion:
+Overall, the financial reporting procedures and information relating to the selected year-end procedures examined by IAD were found to be accurate and complete in all material respects. Management has taken action with respect to fine-tuning system changes in the trial balance accrual processes in the Revenue Ledger (RL) to reduce the possibility of incorrect accrual in certain situations. In regards to the second area examined, changes to the review process used in estimating the allowance for doubtful accounts (ADA) are being developed and management is working towards implementation of a new methodology for the 2007-2008 fiscal year. Progress made on the other action plan item from the previous fiscal year-end audit was also satisfactory.
+Introduction
+The Canada Revenue Agency (CRA) prepares annual Administered Activities Financial Statements for the reporting of tax revenue using full accrual accounting. The Office of the Auditor General (OAG) audits these statements and is responsible for issuing an opinion on their fair presentation each year.
+As in prior years, the Finance and Administration (F&A) Branch requested the assistance of the Internal Audit Division (IAD) of the Corporate Audit and Evaluation Branch (CAEB) in providing assurance to management on the accuracy and completeness of selected financial information to be reported in these statements. The audit work focused on areas that were considered at risk for the 2006-2007 fiscal year.
+The audit approach and methodology for the year-end work was discussed with F&A and the OAG and results of the IAD work was used by the OAG in the formulation of its opinion on the CRA's Administered Activities Financial Statements that were approved in August 2007.
+Focus of the Audit
+The objective of the audit was to provide assurance to management on the completeness and accuracy of selected year-end procedures. These were related to system changes in the trial balance accrual processes in the Revenue Ledger (RL) and the accounts receivable analysis used in establishing the year-end Allowance for Doubtful Accounts (ADA). In addition, the status of management action plans from the previous fiscal year-end audit was assessed. The scope of the audit did not include the verification of amounts that would appear in the financial statements.
+The audit took place between February and September 2007. Audit work included the review and analysis of sample RL transactions, and the review of quality control and other procedures established to ensure the accuracy of the information used in determining the allowance for doubtful accounts (ADA). IAD also followed-up on the status of the action plans from the previous fiscal year-end audit.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings, Recommendations and Action Plans
+Changes to the Revenue Ledger (RL) Trial Balance Accrual Processes
+Key changes were made in the RL's Accrual Accounting Engine (AAE) to accommodate the April 2007 implementation of the redesigned GST/HST systems. At the same time, changes were made to reduce the manual intervention needed because of an existing system limitation in RL
+1
+. IAD reviewed these changes to the automated procedures and confirmed the accuracy of the postings to RL of the related accrual entries.
+A random sample of 69 accrued GST/HST transactions in RL and 10 additional RL transactions received from the SA system were tested to verify accuracy and completeness. All samples were appropriately categorized and accrued to the correct period. The accrual entries associated with the second system change were also found to be correct although there were minor inconsistencies in the processing of data with zero values and in the population of one document field for some transactions. F&A initiated corrective action to address these before the next fiscal year-end.
+Allowance for Doubtful Accounts
+The allowance for doubtful accounts is established to indicate management's best estimate of the collectibility of amounts assessed but not yet paid. This has typically been calculated by CRA on the basis of a year-end review of a sample of accounts receivable having a balance of less than $10 million. An allowance is also calculated for accounts over $10 million based on a total review of these accounts.
+As in previous years, work performed by IAD in this area was primarily focused on the review and verification of data selection, reconciliation and quality control processes and re-performing queries and calculations. Observations were shared with the OAG and merged with the information provided earlier by the OAG in their communications with CRA management on the overall results of the 2006-2007 financial statements audit.
+Follow-up of 2005-2006 Selected Fiscal Year-end Procedures Audit
+There were two items from the previous fiscal year-end audit for which management action plans had been prepared in response to the findings. These were improving the methodology used in determining ADA rates and completing the separation of the Canada Border Services Agency (CBSA) and CRA revenue accounts in the RL.
+With respect to the ADA methodology, F&A has been looking into ways that it could be improved to make it more objective and timely. Changes have been proposed and are now being assessed for planned implementation in the 2007-2008 fiscal year. Regarding the status of the separation of RL accounts, CRA has supported CBSA efforts in developing their own RL system and they were on track to meet the planned January 2008 production release date.
+Conclusion
+Overall, the financial reporting procedures and information relating to the selected year-end procedures examined by IAD were found to be accurate and complete in all material respects. Management has taken action with respect to fine-tuning system changes in the trial balance accrual processes in the Revenue Ledger (RL) to reduce the possibility of incorrect accrual in certain situations. In regards to the second area examined, changes to the review process used in estimating the allowance for doubtful accounts (ADA) are being developed and management is working towards implementation of a new methodology for the 2007-2008 fiscal year. Progress made on the other action plan item from the previous fiscal year-end audit was also satisfactory.
+Footnote
+[Footnote 1]
+The system limitation caused related transactions transmitted as a single document from source systems to be mistakenly split into separate documents for processing when that limit was exceeded.
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2008-04-18

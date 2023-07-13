@@ -1,0 +1,74 @@
+2009-2010 Selected Fiscal Year-End Procedures Audit
+Final Report
+Corporate Audit and Evaluation Branch
+October 2010
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings
+Conclusion
+Executive Summary
+Background:
+The Canada Revenue Agency (CRA) prepares annual Administered Activities Financial Statements for the reporting of tax revenues. The financial information is incorporated into the
+Public Accounts of Canada
+and is included in the Agency’s Annual Report to Parliament. As in prior years, the Financial Administration Directorate (FAD) in the Finance and Administration (F&A) Branch requested Internal Audit (IA) assistance in providing assurance to management on the accuracy of the data used to derive the allowance for doubtful accounts (ADA) estimates for the 2009-2010 fiscal year.
+The work was carried out in conjunction with the annual audit of the 2009-2010 CRA financial statements conducted by the Office of the Auditor General (OAG), which is responsible for issuing an audit opinion on their fair presentation. The audit approach, methodology and results were shared with FAD and the OAG. The work performed by IA was relied on by the OAG in the formulation of its opinion on the CRA Administered Activities Financial Statements approved by the CRA Board of Management in August 2010.
+Objective:
+The objective of the audit was to provide assurance to Agency management on the accuracy of the data extracted from CRA source systems in the sampling of accounts receivable less than $10 million, which are used by F&A in establishing the ADA estimates for the 2009-2010 fiscal year.
+Verification of the calculation and projection of the ADA rates and impact of any errors in these procedures on the account balances that would appear in the financial statements did not fall within the scope of this audit.
+The audit took place between October 2009 and June 2010 and was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Conclusion
+: Significant improvements have been made in the accuracy of source data used by FAD in the calculation of the ADA rates. IA reviewed the accuracy of data for a 10% sub-sample of the line items
+[Footnote 1]
+selected by FAD for the 2009-2010 estimates, and errors were identified in 1.94% of these line items. Further analysis revealed that 0.16% of these line items had errors that could have potentially affected the calculation of the ADA rates. In comparison, in 2008-2009, errors were identified in 10.43% of the line items and the overall error rate that could have affected the ADA was 3%.
+The small number and distribution of the dollar value of the errors this year did not allow for an estimate of the monetary impact of the final results.
+Introduction
+The Canada Revenue Agency (CRA) prepares annual Administered Activities Financial Statements for the reporting of tax revenue using full accrual accounting. The Office of the Auditor General (OAG) audits these statements each year and is responsible for issuing an opinion on their fair presentation. The financial information is incorporated into the
+Public Accounts of Canada
+and is included in the Agency’s Annual Report to Parliament.
+As in prior years, the Financial Administration Directorate (FAD) in the Finance and Administration (F&A) Branch requested the assistance of Internal Audit (IA) in the Corporate Audit and Evaluation Branch (CAEB) in providing assurance to management on the accuracy of selected procedures or information used in the preparation of the above-mentioned financial statements.
+The audit approach, methodology and results were shared with FAD and the OAG. The work performed by IA was relied on by the OAG in the formulation of its opinion on the CRA Administered Activities Financial Statements that were approved by the CRA Board of Management in August 2010.
+Focus of the
+Audit
+The objective of the audit was to provide assurance to management on the accuracy of the data extracted from CRA source systems in the sampling of accounts receivable less than $10 million for use by F&A in establishing the allowance for doubtful accounts (ADA) estimates for the 2009-2010 fiscal year.
+The audit was carried out between October 2009 and June 2010. Previous year-end audit recommendations related to the ADA methodology were also followed-up in this year’s audit. Verification of the calculation and projection of the ADA rates and impact of any errors in these procedures on the account balances that would appear in the financial statements did not fall within the scope of this audit.
+This audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings
+The allowance for doubtful accounts is established and used by management to indicate their best estimate of the collectibility of revenue amounts assessed but not collected. In the 2009-2010 fiscal year, FAD introduced additional quality assurance measures to improve the reliability of the data collected from the CRA source systems that are used for calculation of the ADA estimates. In addition, FAD implemented action plans for the IA recommendations provided in the 2008-2009 Selected Fiscal Year End Procedures Audit.
+Current year estimates were based on data from five tax years (2000 to 2004) for all revenue streams, except for GST and Subledger - Miscellaneous, which was based on four years (2001 – 2004). Accounts receivable from each revenue stream in these years were stratified by age and dollar value. Approximately 17,800 line items
+[Footnote 2]
+were then randomly selected for use by FAD in the data gathering exercise.
+The data was collected manually for each revenue stream by reviewers at the Sudbury and Summerside Tax Centres (TC). A representative 10% sub-sample of the accounts from each revenue stream was identified at random by IA to assess the accuracy of the collected information. IA replicated the data capture procedures for each account in the sub-sample to verify compliance with the FAD data capture guidelines and accuracy of the information. The data review and analysis were primarily focused on three revenue streams: T1 (Personal Income Tax), T2 (Corporate Income Tax) and GST (Goods and Services Tax).
+IA found that 1.94% of line items in the sub-sample had one or more errors in the data collected. Further analysis of these records showed that only 0.16% of the errors could have potentially affected the ADA estimates for this year. In comparison, in 2008-2009, errors were identified in 10.43% of the data collected and the overall error rate that could have affected the ADA was 3%. The small number and distribution of the dollar value of the errors did not allow for an estimate of the monetary impact of the final results.
+As a part of verification of the data accuracy, IA also reviewed the account balances for the FAD samples of T1, T2 and GST in the corresponding source systems to ensure that accounts over $10M had not been inadvertently included in the sample
+[Footnote 3]
+. Final collected data for these revenue streams did not include accounts over $10M. FAD indicated that the current sample selection and reconciliation procedures mitigate the risk of accidentally selecting an account with a balance over $10M.
+Notable improvement in the reliability of data can be largely attributed to enhancements made in the data collection guides and training provided by FAD to the Sudbury and Summerside TC staff responsible for data collection. To sustain this improvement, it would be useful to continue to document ADA related procedures in greater detail.
+Conclusion
+Significant improvements have been made in the collection of the source data used by FAD in the calculation of the ADA estimates. In 2009-2010, errors were identified in 1.94% of line items in the IA sub-sample and only 0.16% of these errors could have potentially affected the calculation of the ADA estimates.
+Footnotes
+[Footnote 1]
+An account can have a number of entries (called line items) for different years.
+[Footnote 2]
+An account can have a number of entries (called line items) for different years.
+[Footnote 3]
+According to the ADA methodology, a total review of all accounts over $10M is to be carried out separately to calculate a specific ADA rate for these accounts
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2011-01-07

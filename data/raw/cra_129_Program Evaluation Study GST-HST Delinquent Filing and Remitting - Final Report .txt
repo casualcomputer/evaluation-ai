@@ -1,0 +1,374 @@
+Program Evaluation Study GST/HST Delinquent Filing and Remitting
+Final Report
+Corporate Audit and Evaluation Branch
+April 2009
+Table of Contents
+Executive Summary
+Introduction
+Background
+Evaluation Methodology
+Limitations and Constraints
+Findings from the Evaluation
+1.0 Client Profile
+1.1 Evidence of repeat non-compliance
+1.2 Half of new registrants failed to file or remit on time
+1.3 Evidence indicates that the majority of GST/HST non-compliance occurs in the $30,000 to $100,000 gross annual sales range
+1.4 Province of registration does not affect the level of non-compliance
+1.5 Industry sector does not appear to affect the rate of non-compliance
+2.0 Causes of Non-compliance
+3.0 The Impact of Non-compliance
+3.1 Non-compliance affects the integrity of the tax system
+4.0 Effectiveness of Program Delivery
+4.1 Majority of Non-compliant inventory is less than 5 years old
+4.2 Growth in non-compliance affects resolution rate
+4.3 Opportunities exist to optimize resources
+5.0 Opportunities for Improvement
+5.1 Evidence suggests that the business registration process may not adequately support CRA compliance and enforcement efforts
+5.2 GST/HST Redesign has had unintended impacts on client service
+5.3 Prosecution of those who fail to file
+5.4 Implementation of a risk management framework
+5.5 Horizontal working relationships – A catalyst for change
+6.0 Going Forward
+Annex A
+Executive Summary
+This report presents the findings of the GST/HST Delinquent Filing and Remitting Evaluation Study. The purpose of this evaluation was to assess program effectiveness, to examine the profile and attitudes of the non–compliant populations, and explore opportunities for improvement.
+The Taxpayer Services and Debt Management Branch (TSDMB) is responsible for these programs. Other branches within the Canada Revenue Agency (CRA) play a significant role in supporting TSDMB in achieving its objectives. This includes activities such as registration, payment and return processing and communications.
+For this evaluation, we profiled the GST/HST registrant base and looked at macro level delinquency rates, trends over five years, and compliance patterns of 3.2 million active GST registrants. Through CRA interviews, public focus groups and literature reviews, we gathered information from all regions and from other jurisdictions with similar tax collection systems.
+TSDMB is currently implementing a multi–year strategic plan to address non–compliance. We note that TSDMB's business transformation strategy represents a departure from the way the branch currently conducts business, in particular the move to a more holistic client view. We observed a high level of commitment by TSDMB and regional operations to program delivery, client service and the TSDMB business transformation strategy. We believe that these planned future strategic directions combined with commitment to client service should provide a stronger foundation for managing compliance at the CRA.
+On March 31, 2007 there were 3.2 million GST registrants. Of this total population, 776,432
+[Footnote 1]
+accounts remained unresolved with one or more returns or remittances outstanding.
+Our client profiles show that most non–compliance occurs in the $30,000 to $100,000 gross annual sales range and that the province of registration and the industry sector does not appear to affect the rate of non–compliance. Our analysis from 2005–2007 indicates that 50% of the 297,889 new registrants in 2005–2006 did not meet their first filing or remitting obligation. Furthermore 60% of the non–compliant population had one or more non–compliance events in the previous four fiscal years.
+TSDMB resolved a comparable number of GST/HST non–compliant accounts from 2002–2003 to 2006–2007. In 2002–2003, TSDMB resolved 95% (617,920) of the accounts that became non–compliant during that year. In 2006–2007, the resolution rate decreased to 62% (614,867). During this same period, TSDMB increased actual dollar recovery by 20% with a 10% reduction in resources. However, trend analysis of program data from 2002–2007 indicates that there has been a 52% growth in non–compliant inventory levels. As a result, TSDMB's capacity to address non–compliance has become more difficult due to the increase in the non–compliant inventory.
+GST registrants consulted as part of the independent public opinion research indicated that they did not have any great difficulties learning about their GST/HST filing and remitting requirements, and associated with this, few reported instances of non–compliance that can be attributed to lack of information. The most common reason for failure to comply with their GST/HST filing and remitting obligations was cash flow. This is consistent with the observations of most CRA managers and staff interviewed who felt that the majority of repeat non–compliant behavior is a conscious decision on the part of the GST registrant. When cash flow is low, registrants may give priority to other suppliers and themselves, and postpone or avoid filing and making payments to the CRA.
+Opportunities exist for the CRA to improve program effectiveness and change the behavior of new GST/HST registrants and those who repeatedly fail to file or remit. We recommend the following actions be explored:
+develop an early intervention strategy to positively influence new registrants' behavior towards compliance;
+review the program delivery model and business rules to identify and reduce duplication of effort and improve program efficiency;
+strengthen the business registration process to capture all relevant information to support CRA compliance and enforcement actions;
+reinstate account maintenance activities to TSDMB personnel;
+increase the level of GST/HST prosecutions for "Failure to File";
+implement a risk management framework;
+continue to develop horizontal working relationships as a catalyst for change; and
+build on best practices such as those in the Atlantic and Pacific regions.
+Introduction
+In May 2007, the CRA Management Committee approved the framework for the GST/HST Delinquent Filing and Remitting Evaluation. The framework identified the following three issues for the evaluation.
+How effectively is the CRA addressing GST/HST filing and remitting non–compliance?
+To what extent are GST/HST non–compliant profiles and constraints influencing GST/HST filing and remitting non–compliance?
+Are there alternatives or modifications that will improve the CRA's effectiveness and efficiency in addressing GST/HST filing and remitting non–compliance?
+This evaluation report summarizes the findings related to these issues.
+Background
+The
+Excise Tax Act
+(ETA) requires any person carrying on a commercial activity in Canada to register for GST/HST purposes where his or her annual taxable supplies are more than $30,000 or if the person is a public service body, more than $50,000. A person who makes $30,000 or less or $50,000 or less for a public service body is considered to be a "small supplier" under the ETA and is not required to register but may do so voluntarily. GST/HST registrants are required to charge their customers tax on the taxable goods and services supplied to them and collect the tax in trust for the Government of Canada. GST/HST registrants can also claim an input tax credit to recover the GST/HST paid or owed for goods or services acquired, imported, or brought into a participating province for use, consumption, or supply in the course of their commercial activities.
+The Taxpayer Services and Debt Management Branch (TSDMB) is responsible to ensure GST/HST registrants meet their filing and remitting obligations for all revenue lines, including GST/HST. The Debt Management Compliance Directorate is responsible to ensure GST/HST registrants self–assess their tax liability and file tax returns and the Accounts Receivable Directorate ensures any outstanding debt is collected.
+When GST/HST registrants fail to comply with their filing and remitting obligations, the CRA intervenes with compliance activities. Automated enforcement actions and human intervention in regional field offices are used to obtain outstanding returns and tax debts. A more detailed description of the programs and their activities can be found in
+Annex A
+, which includes a combined logic model for these two programs. A logic model illustrates the interrelationships and linkages of the major activities of the program, the sub–activities, program outputs, and program outcomes.
+In recent years, TSDMB has faced challenges with respect to the growth in workloads and trends in non–compliance as well as technical limitations that have impaired its ability to develop integrated reporting and analytical capabilities. At the same time TSDMB was required to manage its programs within budgetary constraints while pursuing improvements to business processes to achieve greater operating efficiency and to strengthen GST/HST compliance.
+In response to these challenges, TSDMB is undertaking a multi–year business transformation strategy that supports the CRA's two strategic themes of
+Excellence in Program Delivery and A Workplace Committed to Excellence
+. To accomplish operational excellence and to ensure the integrity and fairness of the Canadian system of tax and benefit administration, TSDMB's focus is on:
+strengthening service;
+enhancing our efforts to address non–compliance;
+reinforcing trust; and
+maintaining effective relationships.
+In respect to a workplace committed to excellence, TSDMB's focus is on the CRA's goals to:
+develop and implement human resource strategies;
+have the right people, in the right place, at the right time with the appropriate skills, knowledge and motivation to do the job;
+attract, recruit, and retain resources strategically; and
+utilize competency–based HR management principles.
+As part of this strategic plan, TSDMB has introduced numerous initiatives and program changes over the last five years, one of which was a modified delivery model with the establishment of the GST/HST National Compliance Inventory Centres and Collections Pools in April 2004. The goal of this modified delivery approach was to manage workloads in a cost effective manner by evolving the programs from geographically–based programs into a more holistic program that will consider all aspects of the compliance and collections actions when managing an account. It was also meant to complement compliance activities undertaken by Tax Services Offices and the National Collections Call Centre, and to ensure timely actions are taken against non–compliant taxpayers. The main responsibilities of the three tiers of the delivery model are:
+The National Collections Call Centre conducts mainly outbound calls to collect tax debts below specified dollar limits and to obtain outstanding GST/HST returns;
+The National Compliance Inventory Centres and National Collection Pools conduct mainly outbound calls to collect tax debts below specified dollar limits and to obtain outstanding GST/HST returns that were not resolved by the National Collections Call Centre within specified timelines. The National Collection Pools conduct enforcement actions such as garnishees, and the National Compliance Inventory Centres conduct enforcement actions such as preparing notice of assessments; and
+The Tax Services Offices perform reviews of books and records and conduct a full range of legal actions, such as seizing assets and placing liens on the property of tax debtors.
+Another major initiative included implementing a redesigned GST/HST Production System in April 2007. This system identifies non–compliant accounts and allocates workloads, based on risk scoring of dollar amounts and business rules, to regional field offices for compliance activities. GST/HST Redesign is part of the Business Suite initiatives to move towards common platforms for business tax revenue systems.
+With respect to the collection of accounts receivable including GST/HST debts, in 2006 the Office of the Auditor General (OAG) and the Standing Committee on Public Accounts (PAC) expressed concerns with the increasing tax debt and ageing accounts; lack of a risk management framework, including an effective risk scoring system and debtor profiles. The CRA responded to the OAG concerns with information on planned actions, and those completed. The PAC recommendations were responded to through an action plan tabled by the CRA in September 2006.
+Evaluation Methodology
+For this evaluation study, we used the following methodologies:
+analyzed the non–compliant accounts from the CRA GST Production System
+[Footnote 2]
+and profiled the GST/HST non–compliant population from the GST registrant base;
+established macro–level statistics on delinquency rates, trends, and compliance patterns based on 3.2 million GST/HST registrants;
+conducted interviews and focus groups with 325 CRA managers and staff in headquarters and in the Atlantic, Ontario, Prairie and Pacific Regions;
+commissioned an independent consulting firm, to conduct public opinion research with 80 non–compliant registrants
+[Footnote 3]
+in 2006, to determine GST/HST registrants' opinions on the constraints and obstacles faced in meeting their tax obligations; and
+reviewed the results of related studies and literature from other jurisdictions and countries.
+Limitations and Constraints
+The
+Excise Tax Act
+does not define degrees of non–compliance. There is no distinction between one day, one month or one year in terms of non–compliance with the Act. Our client profile was based on the Act's definition of non–compliance, i.e. a GST/HST registrant who has failed to file a return or make a remittance by the due date. A repeat non–complier is a registrant having more than one event of delinquency as described in the previous sentence. We were interested in examining the degree of non–compliance; however in the absence of a formal definition it would be arbitrary on our part to define these degrees. Thus our analysis was focused on repeat non–compliers and new registrants drawn from the GST/HST registrant population.
+Our capacity to analyze the non–compliant accounts and to evaluate the most effective method to resolve an account was limited. This was largely because there was no central system to exchange, capture and track registrant information from the various systems used by the three tiers of the program delivery model. Therefore our analysis of the effectiveness of program delivery was based on available information from the GST Production System and focused on overall changes and trends over a five–year period.
+Findings from the Evaluation
+Our main evaluation findings are discussed in the following sections:
+Client Profile;
+Causes of Non–compliance;
+Impact of Non–compliance;
+Effectiveness of Program Delivery;
+Opportunities for Improvement; and
+Going Forward.
+1.0 Client Profile
+GST/HST registrants act as trustees for the Canadian government and are required by law to ensure these monies are remitted to the government for the benefit of all Canadians. GST/HST registrants must submit returns and remittances to the CRA on a monthly, quarterly or annual basis depending on their sales volumes. GST/HST charged to customers and input tax credits claimed on purchases are both recorded on the return. GST/HST non–compliance occurs when a registrant fails to file a return or to pay an amount owing when it becomes due.
+On March 31, 2007 there were 3.2 million GST registrants. Of this total population, 776,432
+[Footnote 4]
+accounts remained unresolved with one or more returns or remittances outstanding. To better understand the types of non–compliant behavior that may be contributing to non–compliance, we explored the prevalence of two types of non–compliance: repeat non–compliance and new registrants. We also looked at potential predictors of non–compliance which included gross annual sales; province of registration and corresponding level of non–compliance; and the industry sectors most prone to non–compliance.
+1.1 Evidence of repeat non–compliance
+Analysis of a representative and statistically valid sample
+[Footnote 5]
+of 478 non–compliant accounts, revealed that in 2006–2007, 60% had non–compliant events in the previous four years with an average of two periods of non–compliance per fiscal year. In comparing each of the four previous years to the 2006–2007 non–compliant population, we found that 36% of the 2006–2007 non–compliant population also had non–compliance in 2005–2006, 32% in 2004–2005, 30% in 2003–2004 and 26% in 2002–2003. Repeated non–compliant events over multiple successive years indicate a pattern of non–compliance which can impact the effectiveness of program delivery.
+Figure 1
+Fiscal Year
+Percentage of non–compliant accounts in 2006–2007 found to be non–compliant in a previous fiscal year
+2005–2006
+36%
+2004–2005
+32%
+2003–2004
+30%
+2002–2003
+26%
+Source: GSTProd
+1.2 Half of new registrants failed to file or remit on time
+The CRA recognizes that some non–compliance may relate to last minute filing and remitting and record keeping. To offset this, intervention by the CRA occurs at a minimum 30 days after the filing and remitting due date. Our analysis revealed that in 2005–2006 there were 297,889 new GST/HST registrants. Of this population, 50% or 147,546 registrants did not meet their first filing and/or remitting obligation
+[Footnote 6]
+. Further analysis revealed that from 2002–2003 to 2006–2007, there has been a 10% growth in the proportion of new registrants who failed to meet their first filing and remitting obligation. This suggests that the CRA needs to have an early intervention strategy to address concerns with new registrants.
+This new strategy could include exploring a new practice of the Australian Taxation Office
+[Footnote 7]
+(ATO). In February 2007, the ATO advised that they piloted an innovative approach of text messaging their taxpayers advising them of their filing obligations before the due date. According to the ATO, this resulted in an 82% improvement in on–time filing. This trial was further expanded in October 2006 to those who filed their 2005 individual tax return late. This resulted in a 92% improvement in on–time filing. Results such as those obtained by the ATO indicate that early intervention strategies have the potential to significantly increase compliance.
+Recommendation
+TSDMB
+should explore the development of an early intervention strategy in an effort to positively influence new registrant behavior towards GST/HST filing and remitting compliance.
+Management Response
+We concur with this finding and recommendation. TSDMB is exploring new ways to prevent or detect taxpayers' non–compliance with their filing and remitting obligations prior to their entry into any resource intensive workflows relating to the Debt Management programs.
+We agree that targeted strategies are necessary to address non–compliance and are developing a proposal for proactive communication with taxpayers.
+1.3 Evidence indicates that the majority of GST/HST non–compliance occurs in the $30,000 to $100,000 gross annual sales range
+The CRA assigns an initial filing and remitting frequency to a GST/HST registrant based on the estimated level of gross annual sales. Adjustments to the filing and remitting frequency can be made as a result of a change in the actual reported level of gross annual sales or a request by the registrant. In reviewing data, most GST/HST non–compliance for filing and remitting occurs in the $30,000 to $100,000 gross annual sales range.
+Further analysis showed that information on the estimated gross annual sales was not available for 59% of non–compliant registrants. This affects the CRA's ability to estimate and assess the amount of GST/HST as a necessary first step to achieving compliance. The need for this information at registration is addressed in more detail in "Opportunities for Improvement".
+1.4 Province of registration does not affect the level of non–compliance
+In comparing the registrant population by province to the level of non–compliance we found that the province of registration has no impact on delinquency, as the breakdown of the non–compliant population is consistent across the provinces.
+1.5 Industry sector does not appear to affect the rate of non–compliance
+Analysis of data and interviews with CRA managers and staff revealed that non–compliance was most prevalent in the Construction (15%), Professional, Scientific and Technical Services (13%) and Retail Trade (8%) sectors. These figures are consistent with the distribution of GST registrants by major industry group. Therefore the industry sector does not appear to affect the rate of non–compliance for GST/HST filing and remitting. However, it should be noted that the industry code was not available for 20% of the 2005–2006 registrant base. The need for this information at registration is addressed in more detail in "Opportunities for Improvement".
+2.0 Causes of Non–compliance
+Our analysis revealed that there is no common denominator for GST/HST accounts that become non–compliant after registration. Once registered, similarity between registrants who become non–compliant is difficult to identify since the accounts take on their own unique characteristics depending on the actions taken by the CRA and the registrants' behavior towards non–compliance.
+CRA staff observed through their interactions with registrants that some non–compliance may be attributable to a lack of understanding, record keeping and attitudes towards collecting and remitting GST/HST on behalf of the federal government. It was also their belief that much of the repeat non–compliance was a conscious decision on the part of the registrant.
+GST registrants consulted as part of the independent public opinion research indicated that they did not have any great difficulties learning about their GST/HST filing and remitting requirements, and associated with this, few reported instances of non–compliance that can be attributed to lack of information.
+Analysis of the GST/HST non–compliant accounts revealed that 57% were related to registrants not meeting their filing obligations. There are indicators that the majority of these accounts would eventually result in an outstanding debt. This is supported by the public opinion research that was commissioned as part of this evaluation. Non–compliant registrants indicated that the most common reason for not filing was cash flow. If registrants chose not to make a remittance they most likely would be non–compliant for filing the GST/HST return. In situations where registrants fail to file a return, the CRA must issue a demand to file or raise a notice of assessment before starting further enforcement actions such as garnishment or seizures and sales. This allows for the establishment of an estimated GST/HST net amount payable and results in a remitting non–compliance.
+Many managers and staff observed that when cash flow becomes a problem registrants may delay remittances and returns by not taking these funds from operating revenue. While this may meet their short term objective of remaining current with other obligations, any delay in meeting their tax obligation can result in unmanageable tax consequences. The ATO experience
+[Footnote 8]
+with cash flow is similar to the opinion of CRA managers and staff interviewed and is consistent with the public opinion research that was undertaken with GST/HST registrants.
+Managers and staff also believe that most repeat non–compliant registrants are aware of the environment in which the CRA operates. By this they mean registrants delay taking appropriate action to resolve their non–compliance until the CRA arrives at their door or initiates strong enforcement actions such as garnishment or seizure and sale. It was observed that registrants having a history of repeat non–compliance have learned to manipulate the CRA's efforts to recover tax returns and arrears payments. Staff stated that arrangements for payment often extend into subsequent filing periods which challenge the registrant to pay both current and future filing and remitting obligations. In their opinion, arrangement parameters should reflect the nature of the tax debt as "Trust Funds" and should only be accepted after assessing the ability of registrants to pay their debt. This would have a positive effect on inventory levels and convey the importance of meeting filing and remitting deadlines.
+In addition, external factors such as the state of the economy, can impact the ability of registrants to meet their financial obligations, including payment of tax. During downward shifts in the Canadian economy, there could be a corresponding impact on the CRA's efforts to improve compliance as GST/HST registrants focus their attention on their other credit obligations.
+There is no single factor that explains why non–compliance occurs. That being said, opportunities for the CRA to improve its program administration exist. This is corroborated by the majority of managers and staff interviewed who stated that the CRA needs stronger enforcement and new strategies to deal with non–compliance. This topic is addressed in more detail in the section on "Effectiveness of Program Delivery and Opportunities for Improvement".
+3.0 The Impact of Non–compliance
+The primary goal of a revenue authority is to collect taxes and duties payable in accordance with the law and to do this in such a manner that will sustain confidence in the tax system and its administration.
+3.1 Non–compliance affects the integrity of the tax system
+On an individual basis, the tax risk from non–compliant registrants may be insignificant, but collectively, the amounts are significant
+[Footnote 9]
+. However, there is a related concern beyond the value of overdue accounts receivable in that non–compliant registrants enjoy a distinct competitive advantage over compliant registrants. This statement is consistent with the opinion
+[Footnote 10]
+of the ATO authorities who recognized the importance of strong debt recovery mechanisms. For the CRA, industry associations consulted as part of a previous CRA evaluation
+[Footnote 11]
+have made the point that unless CRA corrects non–compliance and levels the playing field, compliant businesses may become non–compliant to ensure they can remain competitive.
+Notwithstanding the above adverse impacts of GST/HST filing and remitting non–compliance, there is an unfair tax burden for Canadians having to pay GST/HST on their purchases of goods and services, if the money collected is not remitted to the government in accordance with the
+Excise Tax Act
+.
+4.0 Effectiveness of Program Delivery
+During this study, we reviewed a number of corporate documents produced by the CRA and TSDMB, which reflect the transformation strategy currently underway to improve compliance. We note that TSDMB's strategic plan is a departure from the way the branch currently conducts business, in particular the move to using a more holistic client view. We also noted that the new Integrated Revenue Collections (IRC) technological platform will enable TSDMB to begin making strategic use of information and to improve the way the branch identifies, manages and distributes workloads, and measures results.
+We observed a high level of commitment to program delivery and client service among managers and staff in TSDMB and in regional field offices visited. TSDMB and regional personnel interviewed had a consistent understanding of legislation, policies, procedures, and business rules and are aware and support the TSDMB strategic plan. The human resource element will continue to be a critical factor in achieving TSDMB's strategic goals.
+We agree that these planned future strategic directions should provide a stronger foundation for managing compliance at the CRA. A description of the current delivery model is outlined in Annex A.
+4.1 Majority of non–compliant inventory is less than 5 years old
+To reduce the overall portfolio of non–compliant accounts, CRA uses various intervention strategies in an attempt to gain compliance. Despite these efforts, it is recognized that there will continue to be instances where registrants do not meet their filing and/or remitting obligations. Accounts that become non–compliant during the year are routed to various levels of the delivery model and form part of the "inventory" or "intake" for that period.
+By looking at the non–compliant inventory as of March 31, 2007, we found that 89% of accounts became non–compliant within the last five years. The remaining 11% extend beyond the five years and remained unresolved as of March 31, 2007. Figure 2 depicts the composition of the total unresolved accounts since 1991–1992.
+Figure 2
+Source: GSTProd
+4.2 Growth in non–compliance affects resolution rate
+TSDMB's capacity to resolve accounts has been relatively consistent from 2002–2003 to 2006–2007, however, the number of repeat non–compliers and new registrants who became non–compliant has increased during the same period. This has contributed to the growth of non–complaint accounts remaining unresolved at year end.
+During 2002–2003, TSDMB resolved 95% (617,920) of its intake
+[Footnote 12]
+of 650,433 GST/HST non–compliant accounts. In 2006–2007, TSDMB resolved 62% (614,867) of its intake of 991,721 by March 31, 2007. This represents a 33% decrease from 2002–2003 in the resolution of non–compliant accounts; however, it should be noted that during the same period the total number of non–compliant accounts increased by 52% (Figure 3).
+Figure 3
+Source: GSTProd
+We reviewed TSDMB budget and resource allocation documents for the trust accounts (filing) and accounts receivable (remitting) activities. For all revenue lines, in 2002–2003 approximately 4,064 full time equivalents (FTE) were used compared to 3,619 FTEs in 2006–2007. This represents a 10% decrease in resources. The specific FTEs allocated to the GST/HST revenue line cannot be distinguished as the majority of offices work inventories containing multiple revenue lines. Despite the 10% reduction in FTEs, TSDMB has seen an increase in overall GST dollar recovery of 20%, from 2.25 billion to 2.7 billion. TSDMB has stated that efficiencies may have been gained through technology and work processes.
+4.3 Opportunities exist to optimize resources
+Our review found that compliance efforts may be duplicated within the three tiers of the program delivery model. The reasons include re–evaluating the non–compliant account to determine the correct degree of enforcement, timelines or resolution of the account not being met at a previous level of the delivery model, and re–routing of accounts to another area.
+As part of our analysis, we reviewed a non–representative sample of 305 accounts provided by the National Collections Call Centre that had been arranged for payments, returns, or both. Of these 305 accounts, 45% of registrants maintained their arrangements. The remaining 55% were not resolved as originally reported by the National Collections Call Centre with half being repeat non–compliers with multiple successive non–compliance events. These specific accounts were then sent to the National Compliance Inventory Centres to obtain the return or the National Collection Pools to collect the debt outstanding.
+Many managers and staff observed through their review of non–compliant accounts that the behaviors of repeat non–compliers are not positively influenced by the National Collection Call Centre since staff cannot initiate any type of enforcement to address non–compliance such as raising a notice of notional assessment, garnishments, seizure and sale, and prosecutions. Our review of the non–representative sample of accounts revealed that business rules allow the National Collections Call Center to accept arrangements for remittances or returns which extend beyond timeframes permitted at other levels of the delivery model. This was consistent with the observations of managers and staff who stated that the business rules for the National Collections Call Centre need to be revised to better reflect the nature of the call centre environment and to evoke real change in repeat non–compliant registrant behavior.
+Furthermore, managers and staff stated that efficiencies could be gained if the non–geographic National Compliance Inventory Centres and National Collections Pools were merged. The current process which has one officer calling for returns followed by another officer initiating contact to obtain payment could be more efficient. Many considered that the National Compliance Inventory Centres (returns) and National Collection Pools (remittances) activities ought to be combined to facilitate contact by a single officer having the authority to address both filing and remitting non–compliance in a single contact with a GST/HST registrant. This would support TSDMB's strategic plan to transform its operations toward a holistic integrated service and debt management approach for its programs by integrating workloads where it makes business sense to do so.
+Considering the growth in the number of non–compliant accounts for repeat non–compliance and the high percentage of non–compliance for new registrants, along with the decrease in resolution rate, TSDMB needs to revisit the current delivery model to minimize duplication and adjust business rules in an effort to positively influence taxpayer behavior towards GST/HST filing and remitting compliance.
+Recommendation
+TSDMB should review the current delivery model and business rules to identify and reduce duplication and positively influence taxpayer behavior towards GST/HST filing and remitting compliance.
+Management Response
+We concur with this finding and recommendation. We have identified enhancements to the compliance delivery model and will be implementing the Trust Compliance National Inventory (TCNI) in 2009. This model will allow for a new work distribution process based on national risk scoring of all TSOR compliance cases.
+We have also identified this issue in the Debt Management Program Delivery Model Action Plan as follows:
+4.4.4   Items requiring further study
+Integrate compliance workloads and consider further integration with Collections workloads, thereby working cases more holistically.
+This action plan was prepared in the fall 2008 and details activities that will be undertaken to study new ways of managing the workload development, workload management, and workload distribution of each program in the Debt Management portfolio. As a result, TSDMB is committed to complete further review and effect changes that will lead to identifying and reducing areas of duplication.
+5.0 Opportunities for Improvement
+The delivery model, even with the recommended changes, is based on reacting to non–compliance by individual GST/HST registrants after non–compliance has occurred. CRA needs to develop a process that prevents and deters non–compliance rather than react to repeat non–compliant behavior.
+The current procedures for addressing non–compliant registrants do not reflect the differences between those that have one non–compliant event and those with repeat events. In our focus groups, managers and staff supported stronger administration and enforcement, particularly where registrants have a previous history of being non–compliant. This will send a strong message that the CRA is committed to collect taxes and duties in accordance with the law and in such manner that will sustain confidence in the tax system and its administration by all Canadians.
+5.1 Evidence suggests that the business registration process may not adequately support CRA compliance and enforcement efforts
+Although registration was not the focus of our evaluation, it was consistently raised as a major impediment to the GST/HST Delinquent Filing and Remitting program. GST/HST registrants act as trustees for the Canadian government and are required by law to collect and remit funds to the government for the benefit of all Canadians. The current registration process was designed to maximize the number of voluntary registrations and minimize the burden on taxpayers who fully comply. We recognize the benefits of having a process which facilitates timely registration, however this presents challenges when GST/HST non–compliance occurs.
+The majority of CRA managers and staff in TSDMB and Tax Services Offices stated that the lack of comprehensive information at registration causes difficulties in carrying out compliance and enforcement activities. For example, effort is often required to identify, locate, and update the status of proprietors, directors, partners, and shareholders. The process is further impeded by the lack of estimated sales which is critical to initiate enforcement measures such as garnishment, seizure and sale, and prosecutions. CRA managers and staff for registration, payment and return processing also supported the need for a stronger registration process. However, the function responsible for the BN system, within the Assessment and Benefit Services Branch (ABSB), stated most of the information that they would like to see gathered would be out of date between the time lapse of registration, the start of economic activity, and the lapse between these two dates and when non–compliance occurs. It was their opinion that the most up–to–date financial information could be drawn from other sources such as previous GST/HST filings, personal and corporate tax filings, payroll remittances or even internet searches. Although these other avenues exist to gather information, CRA managers and staff responsible for the GST/HST Delinquent Filing and Remitting Program stated that research of other CRA records often does not provide the required information. Based on their experience they believe that once non–compliance has occurred, the registrants are often non–compliant with other revenue lines.
+Our literature research of best practices in the financial services organizations indicates that individuals or businesses applying for a business loan are familiar with the process of providing significant information to lenders to obtain credit to start and meet their business objective. Our research also revealed that the registration processes for other federal and provincial government departments such as Passport Canada, Employment Insurance, Transport Canada Vessel Regulations and provincial drivers' licenses require comprehensive information prior to issuance. This is considered the norm versus the exception in a registration process. Providing comprehensive information at registration provides the applicant with certain responsibilities, rights and privileges. For GST/HST registrants, they have the responsibility to collect, remit and file GST returns but they are also entitled to credits for GST paid on their purchases. Research also indicated that the Inland Revenue Service in the United Kingdom collects more than 40 data elements at the time of business registration.
+Our analysis of the GST/HST registrant data revealed 59% of registrant accounts did not contain estimated annual gross sales figures. This is a critical element required to support enforcement and compliance activities. For example, in situations where registrants fail to file a return, the CRA must issue a demand to file or raise a notice of assessment before starting further enforcement actions. This allows for the establishment of an estimated GST/HST net amount payable. The absence of gross annual sales figures (estimated or actual) increases the potential for unnecessary delays to deal with non–compliance.
+We also noted that 20% of registrants did not include the industry type. This information is critical for profiling registrants and developing risk assessment strategies to deal with non–compliance. We did not undertake any analysis to quantify other missing registration information (e.g. physical address); however, front line officers consistently raised this as an impediment to the timely performance of compliance activities. They also consistently indicated that additional financial information (e.g. bank, account number, incorporation particulars, list of Directors and addresses) would facilitate compliance and enforcement activities.
+Consultation with the Excise and GST/HST Rulings Directorate confirmed that the CRA can request any information it considers necessary to administer and enforce the
+Excise Tax Act
+with the exception of requesting the SIN of the directors or partners of the corporation or firm applying to register for GST/HST.
+We recognize that it is important to minimize the burden on taxpayers and that a certain degree of non–compliance will exist in any registration process. However any strengthening of the GST/HST registration process has the potential to convey the importance of a registrant's responsibility as a trustee for the Government of Canada. This could also have a positive impact on improving debt recovery and reducing CRA administrative costs. If we consider that registration is a one–time requirement, the CRA needs to ensure that the information gathered is sufficient to support compliance and enforcement activities.
+Recommendation
+ABSB, in consultation with CRA stakeholders, should explore the costs and benefits of a more comprehensive business registration process to ensure that information gathered supports CRA compliance and enforcement activities.
+Management Response
+We concur with this finding and recommendation. The Business Returns Directorate will produce an updated strategy for business identification by December 31, 2009. This will be based on existing and new analysis of processes with reference to international benchmarks and will include a cost–benefits analysis of various approaches and consultation with CRA stakeholders.
+5.2 GST/HST Redesign has had unintended impacts on client service
+The GST/HST Redesign initiative was not the main focus of our evaluation, however it was consistently raised as a major concern by managers and staff interviewed from all regions within Canada. In April 2007, administration of GST/HST data moved to a new computerized platform designed to manage all aspects of the non–compliance filing and remitting programs. This redesigned system has built–in efficiencies to improve the management of this workload, ultimately benefiting the CRA and its clients. In large part, the system redesign has been implemented; however, as with any change of this magnitude, some unintended impacts are to be expected.
+A review of reports and workload disposal plans from 2007–2008 revealed that the program experienced processing delays for GST/HST returns and payments. While some processing delays were anticipated, additional impacts on client service were experienced as a result of incorrect notices and collection letters being issued to otherwise compliant registrants. Before redesign, front line officers at the National Collections Call Centre, National Compliance Inventory Centres, National Collections Pools, and Tax Services Offices conducted limited account maintenance activities on non–compliant accounts. This included the movement of GST/HST returns and payments to the appropriate filing or remitting periods. This allowed for a timely resolution of administrative errors at first contact with the registrant, reduced the need of forwarding simple requests to other areas within the CRA for completion, allowed front line officers to remove non–priority accounts from their inventories, and improved client service as payments and returns were placed in the appropriate filing or remitting period in a timely manner. However, with the redesigned system, this authority has been removed and all accounting and maintenance transactions have to be processed by the Assessment and Benefit Services Branch (ABSB).
+ABSB, which processes returns, payments, and adjustments, experienced significant pressures in dealing with the increased workload when the GST Redesign was implemented. Staffing levels increased significantly to address the increased workload during the transitional phase. The early training material provided by all Functional areas to regional staff was not as clear or precise as it could have been. This, combined with the new unfamiliar systems, realigned workloads, misdirected work requests and the large number of system fixes required post–implementation, resulted in backlogs. ABSB has stated that they have addressed the majority of the processing delays and are committed to continuing with a plan of action to improve service delivery.
+Although improvements have been realized, many managers and staff from Trust Compliance and Revenue Collections and TSDMB stated that the return of this front–line function, albeit on a limited basis
+[Footnote 13]
+, would help them manage their workload, resolve more accounts, and, most importantly, give them the tools and the ability to resolve limited account maintenance issues at first contact with the registrant. In an era of constrained resources, the importance of collaborative relationships between CRA business lines cannot be underestimated. We were informed that TSDMB is willing to reinstate this function in collaboration with ABSB. A sharing of resources between TSDMB and ABSB would benefit both groups by optimizing efficiencies and improving overall service delivery.
+Recommendation
+ABSB, in consultation with TSDMB, should explore the reinstatement of limited account maintenance activities to TSDMB personnel with appropriate training and monitoring.
+Management Response
+We concur with this finding and recommendation. Major system implementations historically result in workload delays during the transitional period (which was when the evaluation was conducted) and inventory volumes in the Tax Centres are now stabilized.
+ABSB agrees to investigate the account maintenance activities referred to in this report, in conjunction with its stakeholders which include TSDMB, so that proper impacting and appropriate action can be undertaken.
+5.3 Prosecution of those who fail to file
+Most managers interviewed do not consider the current level of prosecutions as a "credible enforcement" response to the filing and remitting problem, considering that there are hundreds of thousands of non–compliant filers at any one time, many having two or more overdue returns.
+The
+Excise Tax Act
+provides the CRA with the ability to prosecute registrants who fail to file GST/HST returns as required under the legislation. Anyone who does not file a GST return as required, or who does not comply with a court order to file is guilty of an offence. On summary conviction, a person or corporation is subject to a fine of $1,000 to $25,000 and imprisonment for up to twelve months for each count.
+In 2002–2003, the CRA completed 19 prosecutions for failure to file GST/HST returns compared to 22 prosecutions in 2006–2007. The T1 and T2 revenue lines average 1,000 prosecutions for failure to file per year. Staff responsible for failure to file activities told us that there is a critical need to improve the results in this area to ensure adequate coverage and reinforce the CRA's commitment to addressing non–compliant behavior.
+It has been recognized that communication is a powerful tool which influences taxpayer behavior and leverages the impact of our tax administrative efforts. Although no empirical data exists, officers preparing cases for prosecution for failure to file reported that they note a considerable increase in inquiries from non–compliant registrants as a result of a publicized successful prosecution. Registrants call and offer to resolve their accounts to avoid the embarrassment of having their names published by local media.
+We recognize that costs are associated with the prosecution of those who fail to file; however, successful prosecutions, when publicized, send a clear message to other non–compliant registrants and demonstrate the CRA's commitment to addressing non–compliant behavior. This positive effect is clearly recognized in the Tax Service Offices where they receive an increase in calls from non–compliant registrants immediately after a notice is published.
+Recommendation
+TSDMB should explore an increase in the level of GST/HST prosecutions and publicize the results of prosecutions to demonstrate the CRA's commitment to addressing non–compliant behavior.
+Management Response
+We concur with this finding and recommendation. TSDMB will undertake a review of the level of prosecutions to ensure a balanced approach with program productivity. We will also work with the Public Affairs Branch (PAB) to explore and find creative ways of publicizing the prosecutions.
+5.4 Implementation of a risk management framework
+TSDMB utilizes several different enforcement measures to correct non compliant behaviour, based on the severity of each particular case. These enforcement measures are currently in practice by officers to varying degrees within each level of the delivery model, based on CRA–established criteria. While there is a cost associated with enforced compliance actions, there is a corresponding benefit realized in both the dollars recovered and in its impact on client behaviour. TSDMB has recognized both the need for these tools and the need to use them in an effective and responsible manner.
+The Accounts Receivable Directorate (ARD) recognized the need to manage risk and developed a risk management framework specific to the accounts receivable workloads. This framework outlines the processes that will be followed to assess the risk factors that may impact accounts receivable operations. It sets out ARD goals and objectives, defines the roles and responsibilities of the stakeholders, and details the activities they will perform at each stage in the process. Ultimately, the framework is intended to provide ARD with increased capacity to manage risk by enhancing its ability to identify and track fluctuations and trends in inventories, and to identify specific taxpayer segments that require a modified or enhanced series of enforcement measures. Understanding the effectiveness and appropriateness of the range of CRA enforcement tools (i.e. notices, letters, telephone contact and more enforced measures such as garnishment, debt certification and seizure and sale) and the associated cost for debt recovery, is a critical element of a successful debt management program. This, in turn, should allow ARD to better develop workload strategies that are timely, effective, and coordinated. Any gain in the methods used in the application of enhanced enforcement measures will likely contribute to the overall success of the program. This could include benefits such as:
+efficiencies in program management and delivery;
+fewer resources to administer GST filing and remitting programs; and
+job enrichment for CRA employees.
+The ARD risk management framework is a complementary piece to TSDMB's front end overall risk assessment strategy. While our review revealed that plans are currently in place to implement the ARD risk management framework there is no formal risk management framework in place for the Debt Management Compliance Directorate (DMCD). DMCD uses a structured approach for the management of risks which includes activities such as the review of statistical results, section action plans, program monitoring and quality review. The impact of compliance activities in one area can extend beyond the area where it was initiated and can have a positive or negative impact on compliance. The development of a formal risk management framework for DMCD, in consultation with ARD, should allow TSDMB to begin making greater strides in improving compliance behaviour.
+Recommendation
+TSDMB should explore the development of a formal risk management framework for the Debt Management Compliance Directorate.
+Management Response
+We concur with this finding and recommendation. We recognize that a risk management framework is an integral part of effective program management as set out in the TBS Management Accountability Framework (MAF), and will work towards the development of one for the Debt Management Compliance Directorate.
+5.5 Horizontal working relationships – A catalyst for change
+The GST/HST non–compliant filing and remitting problem is not just a TSDMB problem, rather it crosses CRA program branches. TSDMB can achieve only limited success on its own in dealing with the GST/HST non–compliance challenge, particularly in terms of changing taxpayer behavior. Although compliance committees exist in Headquarters and most Tax Services Offices, managers and staff stated that there is a need to increase horizontal working relationships, which includes the sharing of information and resources towards a common goal to address non–compliance.
+A positive example of working horizontally to manage and influence compliant behavior can be found in the Pacific Region in preparing for the 2010 Olympics. The objective is to be proactive and to influence compliance behavior up–front by preventing non–compliance before it occurs as opposed to reacting after it becomes a problem. To achieve this objective, the Pacific Region established cross–functional compliance committees to promote compliance with GST/HST registration and filing and remitting obligations, in addition to income tax compliance management.
+Another example is the New Registrant Outreach Program currently underway in the Atlantic Region. Initially approved in June 2007, this pilot focuses attention on new registrants to ensure a solid compliance foundation within the target group. The objective is to improve tax compliance, attitudes, and behaviors. Officers visit new registrants, explain the legislative requirements for filing and remitting, and discuss the need to maintain proper records, along with issues related to having employees.
+Although these horizontal working relationships have not been assessed, the individuals responsible stated that they have seen the value of horizontal working relationships. Having open communication and sharing information has assisted them in clarifying their individual role and inter–relationships and in the creation of a common goal towards improving overall compliance activities. The CRA should continue to strengthen horizontal working relationships within the CRA to influence GST/HST registrant behavior.
+6.0 Going Forward
+It would take time to implement the recommendations contained in this report. Some recommendations could be implemented now, while others would need to be phased in over the next two to three years. In some respects, the implications are profound and entail fundamental shifts in how CRA management conducts business. This includes changes in the delivery model, changes in external communication practices, and ways to influence GST/HST registrant behavior.
+Annex A
+GST/HST Non-compliant Filing and Remitting Logical Model Description
+The Debt Management Compliance Directorate and the Accounts Receivable Directorate in the Taxpayer Services and Debt Management Branch provide program management and support to field offices that administer and manage the program. This is achieved through formulating and communicating national guidelines, policies and procedures, allocating resources and workload for program delivery, and providing training and functional direction through program monitoring and reporting to identify risks and strategies to address them.
+These programs promote and encourage voluntary compliance by educating and providing information to GST/HST registrants through electronic web–based information, general enquiries, and written information as well as through community visits, industry seminars and trade fairs. Media and news releases of the consequences of taxpayers not meeting their tax obligations are used as a deterrent to non–compliance. However, the CRA is required to intervene with compliance activities when a GST registrant fails to comply with their filing and remitting obligations. The first phase of intervention is when the CRA GST/HST system identifies non compliant accounts and issues computer–generated notices to the non–compliant taxpayer. If the return and/or remittance are not received within the specified period, the CRA GST/HST system allocates the account, based on risk scoring of dollar amounts and business rules, to field offices at either the National Collections Call Centre; the GST National Compliance Inventory Centres; the GST National Collection Pools; or the appropriate Tax Services Office for a series of graduated enforcement and collection actions.
+The National Collections Call Centre conducts mainly outbound calls to collect tax debts below specified dollar limits and to obtain outstanding GST/HST returns from non–compliant filers. The GST National Compliance Inventory Centres and the GST National Collection Pools conduct mainly outbound calls to collect tax debts below specified dollar limits and to obtain outstanding GST returns that were not resolved by the National Collections Call Centre within specified timelines. The GST National Collection Pools conduct some enforcement actions such as garnishees while the National Compliance Inventory Centres conduct some enforcement actions such as preparing notional assessments. The Tax Services Offices work on the larger and more complex accounts. Collectors conduct a full range of legal actions, such as seizing assets and placing liens on the property of tax debtors, while trust examiners conduct reviews of books and records. The modified delivery approach, based on a tiered workload distribution process, is intended to ensure that non–compliant accounts are allocated, in order of relative risk and priority, to the next available qualified employee to take timely action against non–compliant taxpayers.
+The major activities of the GST/HST Delinquent Filing and Remitting programs support the achievement of the objectives to improve efficiencies in program management and delivery and taxpayer compliance with Canada's tax legislation and regulations governing GST/HST.
+PROGRAM
+GST/HST Delinquent Filing and Remitting
+MAJOR ACTIVITIES
+Program Management and Support
+Client Education
+Compliance
+SUB–ACTIVITIES
+Legislative review, policy and procedure  development
+Resource and workload planning
+Functional direction and training
+Performance monitoring and  reporting
+Risk assessment and strategy development
+General Enquiries
+Web-based general information
+Mail Out (forms and general information)
+Community Visits
+Industry Seminars
+Trade Fairs
+Publicity of prosecution cases
+Verification
+Enforcement
+Collection
+Account review and maintenance
+OUTPUTS
+Policy, procedures and manuals
+Resources & workload allocation
+Guidance, training courses and tools
+Performance and monitoring reports
+Program delivery changes
+Electronic–based information and paper–based publications
+Resolved client enquiries
+Information, advice and guidance provided to taxpayers on their GST /HST filing and remitting requirements
+Media / News Releases
+Legal warning, failure to file and/or pay notice issued
+Trust Examinations and Collection Field Visits
+Leads and Referrals
+Debt established and notional assessments raised
+Penalties, interest, garnishees and seizures applied
+Filing and payment arrangements
+Returns obtained and debt collected
+Accounts reviewed and updated
+IMMEDIATE OUTCOMES
+Consistent  application of policies and procedures
+Knowledgeable and trained personnel
+Improved ability to identify risks and implement strategies to address non-compliance
+Improved program delivery
+Increased level of understanding by taxpayers on tax legislation and regulations governing GST/ HST
+Increased exposure of CRA's competence in delivering equitable treatment to taxpayers
+Maximize tax debt collection
+Reduce the level of aged inventory
+Increased compliance to filing requirements
+INTERMEDIATE OUTCOMES
+Optimize resource utilization
+Improved effectiveness of the GST/HST Delinquent Filing and Remitting to address non-compliance
+Increased level of voluntary compliance to GST/HST filing and remitting requirements
+Improved integrity and fairness in the tax system
+Increased efficiency in the management of outstanding returns and debt owed
+Improved taxpayer behaviour to comply with GST/HST filing and remitting requirements
+ULTIMATE OUTCOMES
+Efficiencies in program management and delivery
+Compliance with Canada's tax legislation and regulations governing GST/HST
+Footnotes
+[Footnote 1]
+Includes all unresolved Non-compliant accounts from fiscal year 1991-1992 to 2006-2007 that were still active as March 31, 2007.
+[Footnote 2]
+Excludes accounts under the responsibility of Revenue Quebec
+[Footnote 3]
+Non representative sample
+[Footnote 4]
+Includes all unresolved Non-compliant accounts from fiscal year 1991-1992 to 2006-2007 that were still active as of March 31, 2007.
+[Footnote 5]
+95% confidence level and 5% error rate
+[Footnote 6]
+The rate was calculated with the new registration base for each specific fiscal year and then tracked for the following two fiscal years to identify the first non compliance event in order to accommodate annual filing which is the most common filing frequency for new registrants.
+[Footnote 7]
+Lodgment compliance: improvement, innovation and lock-in, Australian Taxation Office, February 2007
+[Footnote 8]
+GST Non-compliant Remitters – processes, penalties and program impact, Australian Taxation Office, February 2007
+[Footnote 9]
+CRA Annual Report to Parliament 2007-2008, p. 50
+[Footnote 10]
+GST Non-compliant Remitters – processes, penalties and program impact, Australian Taxation Office, February 2007
+[Footnote 11]
+Contract Payment Reporting System Evaluation, Canada Revenue Agency, 2005
+[Footnote 12]
+Non-compliant accounts created in the fiscal year with no carry over to the subsequent year
+[Footnote 13]
+Exclude deregistration and stop file activities
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2009-07-10

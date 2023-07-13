@@ -1,0 +1,104 @@
+2007-2008 Selected Fiscal Year-End Procedures Audit
+Final Report
+Corporate Audit and Evaluation Branch
+December 2008
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+1.0 Allowance for Doubtful Accounts (ADA)
+2.0 Removal of Canada Border Services Agency (CBSA) Account Balances from the Revenue Ledger (RL)
+3.0 Conversion of Softwood Lumber (SL) Information
+Conclusion
+Executive Summary
+Background:
+The Canada Revenue Agency (CRA) prepares annual Administered Activities Financial Statements for the reporting of tax revenues using full accrual accounting. As in prior years, the Finance and Administration Branch (F&A) requested Internal Audit Division’s (IAD) assistance in providing assurance to management on the accuracy and completeness of selected financial information to be reported in these statements.
+The work was carried out in conjunction with the annual audit of the financial statements conducted by the Office of the Auditor General (OAG) who is responsible for issuing an audit opinion on their fair presentation. IAD efforts were focused on three areas that were considered by management to be at risk for the 2007-2008 fiscal year. The audit approach, methodology and results were discussed with F&A as work progressed and the OAG used portions of the work performed by IAD in the formulation of its opinion on the CRA’s Administered Activities Financial Statements.
+Objective:
+The objective of the audit was to provide assurance to management on the completeness and accuracy of financial information resulting from selected year-end procedures or system changes. These were related to the accounts receivable analysis used in establishing the current year-end Allowance for Doubtful Accounts (ADA) and the removal of the Canada Border Services Agency (CBSA) account balances from the CRA Revenue Ledger (RL). In addition, the integration of the softwood lumber financial information in the CRA Other Levies Assessing System (OLAS) was reviewed. The scope of the audit did not include the verification of amounts that would appear in the financial statements. Areas requiring follow-up from previous fiscal year-end audits were also related to the ADA and the CBSA split from RL.
+The examination phase of the audit took place between February and August 2008 and was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Conclusion:
+In general, the financial reporting procedures and information in the areas examined by IAD were found to be accurate and complete in all material respects. Entry amounts in the CBSA Trial Balance prepared by CRA were made up of only CBSA related revenues which were appropriately transferred to CBSA and then reversed in the CRA RL system. IAD reviewed the migration of the softwood lumber data from a manual database and confirmed the accuracy and completeness of the financial information that had been transferred to OLAS and automatically posted to RL.
+One area where improvements could be made though is in connection with the data collection for the ADA estimates. IAD reviewed a 10% sample of the records selected by F&A for use in the ADA calculations to assess the accuracy and completeness of the information compiled for each account. Errors were identified in the data captured for 20% of the sample and further analysis revealed 3%
+[Footnote 1]
+of these records had errors that could have affected the ADA estimates. The small number and distribution of the dollar value of these errors however, did not allow for an accurate estimate of the monetary impact of the final results. Nonetheless, improved controls in the data capture process and further refinement of the ADA methodology would add to the reliability and timeliness of the ADA estimates in the future.
+Action Plan:
+F&A will introduce enhancements to the ADA data capture process that will reduce the risk of errors in the data collection activity for 2008-2009. These enhancements will also provide the flexibility to make changes to the ADA formula if they become necessary without the need for modifying the data templates each time as well. Additionally, over the course of the next three to five years, F&A will explore the feasibility of fully automating the ADA data capture process.
+Introduction
+The Canada Revenue Agency (CRA) prepares annual Administered Activities Financial Statements for the reporting of tax revenue using full accrual accounting. The Office of the Auditor General (OAG) audits these statements each year and is responsible for issuing an opinion on their fair presentation.
+As in prior years, the Finance and Administration Branch (F&A) requested the assistance of the Internal Audit Division (IAD) of the Corporate Audit and Evaluation (CAEB) in providing assurance to management on the accuracy and completeness of selected procedures or information used in the preparation of these financial statements. The audit was focused on specific areas that were considered to be at risk for the 2007-2008 fiscal year.
+The audit approach, methodology and results were discussed with F&A as work progressed and the OAG used portions of the work performed by IAD in the formulation of its opinion on the CRA’s Administered Activities Financial Statements.
+Focus of the Audit
+The objective of the audit was to provide assurance to management on the completeness and accuracy of financial information resulting from selected year-end processes or system changes related to the:
+accounts receivable analysis used in establishing the current year-end Allowance for Doubtful Accounts (ADA);
+removal of the Canada Border Services Agency (CBSA) account balances from the CRA Revenue Ledger (RL); and
+integration of softwood lumber (SL) financial information in the CRA Other Levies Assessing System (OLAS).
+General verification of account balances that would appear in the financial statements did not fall within the audit scope.
+Audit testing was primarily carried out between February and August 2008. It included the examination of the data capture process used by F&A for the ADA analysis, review and reconciliation of the CBSA Trial Balance prepared by CRA, as well as a reconciliation of SL account balances after the conversion to an automated system. The only areas requiring follow-up from previous fiscal year-end audits were related to ADA and the CBSA split from RL and were therefore also dealt with through this testing.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings, Recommendations and Action Plans
+1.0 Allowance for Doubtful Accounts (
+ADA)
+The allowance for doubtful accounts is established and used by management to indicate their best estimate of the collectibility of revenue amounts assessed but not paid. For the 2007-2008 fiscal year, F&A introduced a new methodology which is based on the aging of accounts receivable (A/R) and is intended to provide more objective and timely estimates than in prior years
+[Footnote 2]
+. With this method, historical information on amounts collected or written-off for randomly selected accounts from different age categories is captured and used to determine an ADA rate for the A/R in each category.
+Current year estimates were based on data from three fiscal years (2000 to 2002). Accounts receivable from each revenue stream in these years were stratified by age and dollar value and approximately 7,000 accounts in total were then randomly chosen for use by F&A in the data gathering exercise. As the review of each revenue stream was completed by F&A, a 10% sub-sample of the accounts was identified at random by IAD to assess the accuracy and completeness of the information that had been recorded.
+IAD replicated the data capture procedures for each account in the sub-sample to verify compliance with the F&A data capture guidelines and accuracy of the information. Processes followed by F&A in compiling the final results used in the ADA analysis were also reviewed. IAD found that 20% of the records in the sub-sample had one or more errors in the data collected. Further analysis of these records showed that 3%
+[Footnote 3]
+of the errors could have affected the ADA estimates this year. However, the small number and broad distribution of the dollar value of these errors did not allow for an accurate estimate of the monetary impact of the final results. Nonetheless, the accuracy of the initial data capture process could be improved upon which would add to the reliability and timeliness of the ADA estimates in the future.
+Almost half of the 20% of the records with errors initially identified by IAD would also have been identified by F&A through their variance control testing if it had been applied earlier in the process. In effect, the overall error rate in the sub-sample dropped to 11%
+[Footnote 4]
+when corrections to the data made by F&A were taken into account after this quality control testing was completed. Most of the errors that F&A was not able to identify through this testing occurred in data fields that were not used in the ADA analysis, but needed to be included to ensure all information that could affect account balances was captured. IAD took this into account in calculating the final error rate of 3%.
+Multiple versions of data templates were produced by F&A in compiling the overall results due to changes needed as the ADA methodology was being refined. In general, audit testing found slight variances with the number of records included in the multiple versions but no material errors were found in the data captured. Even so, the creation of multiple versions added to the time needed to complete the review and increased the risk of transcription or calculation errors because of the manual nature of the data capture processes used.
+Recommendation #1
+F&A should ensure quality control procedures are applied as early as possible in the data capture and review process used in the ADA analysis for the 2008-2009 financial reporting. In addition, F&A should examine the feasibility of automating data capture processes where possible.
+Action Plans
+Prior to the next data collection activity in 2008-2009, F&A will introduce enhancements to the data capture process which includes the incorporation of  additional fields to adequately segregate relevant information and the establishment of quality control procedures within the data capture templates. In addition, over the course of the next three to five years, F&A will explore the feasibility of fully automating the data capture process.
+Recommendation #2
+F&A should ensure early stabilization of the ADA methodology and formula that are to be used for the 2008-2009 financial reporting in order to reduce the number of template versions produced and minimize the risk of errors.
+Action Plans
+With the implementation and adoption of the new ADA methodology in the 2007-2008 fiscal year, F&A anticipates only minor changes to the ADA formula may be needed in the future. Enhancements to be added to the 2008-2009 data collection templates will provide additional flexibility in implementing any changes and reducing the need of having to restructure the data and producing several versions of templates.
+2.0 Removal of Canada Border Services Agency (CBSA) Account Balances from the Revenue Ledger (RL)
+The CBSA became a separate entity in 2004, but continued to share certain accounts with CRA in the RL system for recording and reporting of revenue transactions. This arrangement had to be changed to allow for separate financial reporting to Public Works and Government Services (PWGSC) for the Public Accounts. With the assistance of CRA, CBSA implemented its own RL system in January 2008 and the CRA RL system was adjusted at that time to remove CBSA financial information. This required the posting of reversal entries by F&A to offset the CBSA balances transferred to the new CBSA system.
+IAD reviewed the January 2008 CBSA Trial Balance prepared by CRA at the time the CBSA RL went into production and confirmed the accuracy and completeness of the data transferred to CBSA. All entry amounts were made up of only CBSA related revenues and these amounts had been accurately reversed from the CRA RL system. Documentation prepared by F&A in reconciling the cash receipts account was reviewed and the accuracy of the transfer of monies that belonged to CBSA as identified in the reconciliation was verified.
+There were a few instances noted where CBSA related revenues continued to post within the CRA RL system after the trial balance date in January 2008. These, however, have since been reversed and F&A has taken action to block those RL accounts belonging to CBSA that could still accept postings.
+3.0 Conversion of Softwood Lumber (SL) Information
+In October 2006, CRA began collecting softwood lumber charges under the Softwood Lumber Agreement between the Government of Canada and the Government of the United States in accordance with the
+Softwood Lumber Products Export Charge Act
+,
+2006
+. The SL returns assessment information was maintained in a manual database and journal entries were manually posted in the RL monthly by F&A up until October 2007. At that time, the SL processing was moved to the automated Other Levies Assessment System (OLAS). The previous manual journal entry amounts were reversed in RL prior to the conversion and the SL information was then processed through OLAS and the Standardized Accounting (SA) system and reposted again automatically to RL.
+IAD reviewed the conversion process and confirmed the accuracy and completeness of the financial information that had been transferred to OLAS and SA and reposted to RL. There were discrepancies between pre and post conversion A/R and revenue amount totals, but these could largely be attributed to transactions still to be converted pending final audit approval and timing differences in postings. F&A also completed a reconciliation of A/R between SA and RL at year end to ensure completeness of the SL postings in SA and in the Financial Statements.
+The data mapping between systems was also reviewed and field codes on softwood lumber forms were found to map correctly through OLAS to RL.
+A random sample of 75 taxpayer accounts that were in the manual SL database were tested to verify the accuracy of amounts transferred through OLAS to SA and posted to RL. The postings in RL were found to be consistent with the pre-conversion manual SL database amounts for all accounts tested. Nine of the sample accounts had variances in the amounts posted in SA, but these were minimal (variances ranged from $0.01 to $125.77) and were the result of automated accounting recalculations on SA.
+Conclusion
+In general, the financial reporting procedures and information in the areas examined by IAD were found to be accurate and complete in all material respects. Entry amounts in the CBSA Trial Balance prepared by CRA were made up of only CBSA related revenues which were appropriately transferred to CBSA and then reversed in the CRA RL system. IAD reviewed the migration of softwood lumber data from the manual database and confirmed the accuracy and completeness of the financial information that had been transferred to OLAS and SA and reposted to RL.
+However, one area where improvements could be made is in the data collection for the ADA estimates. IAD reviewed a 10% sample of the records selected by F&A for use in the ADA calculations to assess the accuracy and completeness of the information compiled for each account. Errors were identified in the data captured for 20% of the sample and further analysis revealed 3% of these records had errors that could have affected the ADA estimates. The small number and the broad distribution of the dollar value of these errors however, did not allow for an accurate estimate of the monetary impact of the final results. Nonetheless, improved controls in the data capture process and further refinement of the methodology would add to the reliability and timeliness of the ADA estimates in the future.
+Footnotes
+[Footnote 1]
+Projecting these results onto the entire sample of accounts examined by F&A, it is 95% certain that the number of accounts examined by F&A with data recording errors that could affect the ADA would be less than 3.9%. Financial impact of the results could not be projected due to the low number of errors identified in the IAD sub-sample.
+[Footnote 2]
+Prior to this year, the ADA was calculated by CRA on the basis of a year-end review by experienced collections personnel of a sample of A/R having a balance of less than $10 million. The ADA for accounts over $10 Million was and continues to be, based on a total review of these accounts.
+[Footnote 3]
+Projecting these results onto the entire sample of accounts examined by F&A, it is 95% certain that the number of accounts examined by F&A with data recording errors that could affect the ADA would be less than 3.9%. Financial impact of the results could not be projected due to the low number of errors identified in the IAD sub-sample.
+[Footnote 4]
+In projecting this result onto the entire sample of accounts examined by F&A, it is 95% certain that the number of accounts with data recording errors would be less than 13.3%.
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2009-04-09

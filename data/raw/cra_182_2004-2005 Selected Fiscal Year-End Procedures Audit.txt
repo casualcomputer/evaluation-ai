@@ -1,0 +1,143 @@
+2004-2005 Selected Fiscal Year-End Procedures Audit
+Corporate Audit and Evaluation Branch
+February 2006
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+1. Cash
+1.1 Allocation of Cash Receipts
+1.2 Cash on Hand Methodology
+2. Allowance for Doubtful Accounts (ADA)
+2.1 Sample Selection
+2.2 Review Process
+2.3 Application of Review Results
+3. Accounts Receivable
+3.1 Reconciliations - Data Selects Containing April/May Payments
+3.2 Follow Up of 2003-2004 Fiscal Year-End Audit
+Conclusion
+Executive summary
+Background:
+The Canada Revenue Agency (CRA) presents its annual Administered Activities Financial Statements on a full accrual basis of accounting. As in prior years, the Finance and Administration Branch (F&A) requested Internal Audit Division's (IAD) assistance in providing management with assurance with respect to selected financial information contained in these statements.
+The work was carried out in association with the annual audit of the financial statements conducted by the Office of the Auditor General (OAG) who is responsible for issuing an audit opinion. IAD efforts were focused on three components of the statements: Cash, Accounts Receivable (AR) and the Allowance for Doubtful Accounts (ADA). The results of the audit were used by the OAG in the formulation of its opinion on the statements.
+Objective:
+The objective of the audit was to provide management assurance on the completeness and accuracy of selected cash and client account information and the suitability and application of the ADA. The scope of the audit did not include the verification of the amounts that would appear in the financial statements, but focused on specific areas as described below:
+1. accuracy of the date used to allocate cash receipts to the proper fiscal year and the methodology used by F&A to determine the year-end cash on hand;
+2. adequacy of the procedures used by the Revenue Collections Branch (RCB)[
+Footnote 1
+] to determine the proportion of uncollectible accounts (ADA rates) and the working papers prepared by F&A in the calculation of the ADA; and
+3. accuracy of the reconciliations of April and May 2005 payments between source system data selects and accounts receivable amounts in the Revenue Ledger (RL); and the progress made in implementing action plans resulting from the IAD 2003-2004 fiscal year-end audit.
+The audit took place between February and December 2005. The work on the April and May reconciliations was carried out after the issuance of the audit opinion by the OAG to avoid interference with the OAG's audit.
+Conclusion:
+Information relating to the three components of the financial statements examined by IAD was found to be reliable. Audit results for each area are summarized below:
+For the cash component of the Administered Activities Financial Statements, the audit found that the date used to allocate cash receipts to the proper fiscal year was accurate, and that the methodology used by F&A to determine cash on hand was appropriate. Some recording errors were found but they were not material to this year's audit results and would have had little or no impact on the accuracy of taxpayer accounts.
+For the ADA component, the audit found that the RCB procedures were adequate to ensure the accuracy of the ADA rates, and that F&A properly applied the rates in the CRA Administered Activities Financial Statements. However, a number of procedural issues were identified that could, if not corrected, increase the risk of error in the future.
+For the AR component, the results of IAD work indicate that the reconciliations and the program logic used by Information Technology Branch were consistent with the accrual accounting methodology used by F&A. However, gaps in the reconciliation process continue to exist and more detailed examination and data analysis will be needed to identify their origin. IAD will continue to assist F&A in examining these reconciliation differences in conjunction with its year-end audit work for 2005-2006.
+IAD also followed up on all key findings identified in the 2003-2004 Selected Fiscal Year-End audit and concluded that all action plans related to the recommendations had been satisfactorily implemented.
+Action Plan:
+Finance and Administration accepted IAD recommendations to address procedural issues in the verification of payment dates, allowance for doubtful accounts estimates and accounts receivable reconciliations. An action plan to clarify the procedures for this fiscal year-end has been developed by the branch in partnership with the Revenue Collections Branch.
+Introduction
+The Canada Revenue Agency (CRA) prepares annual Administered Activities Financial Statements on a full accrual basis of accounting. These statements are prepared by the Revenue Accounting, Reporting and Analysis Division of the Finance and Administration Branch (F&A) using accrual accounting methodologies approved by a steering committee comprised of representatives from the Department of Finance, Treasury Board Secretariat, Public Works and Government Services Canada, the Office of the Auditor General (OAG) and the CRA.
+As in prior years, the F&A requested Internal Audit Division's (IAD) assistance in the verification of selected financial statement information considered a potential risk from a financial reporting perspective. This work was carried out in association with the annual audit of the financial statements conducted by the Office of the Auditor General (OAG) who is responsible for issuing an audit opinion.
+Focus of the audit
+The objective of the audit was to provide management assurance on the completeness and accuracy of selected cash and client account information and the suitability and application of the Allowance for Doubtful Accounts (ADA). The scope of the audit did not include the verification of the amounts that would appear in the financial statements, but focused on specific areas as described below:
+1. accuracy of the date used to allocate cash receipts to the proper fiscal year and the methodology used by F&A to determine the year-end cash on hand;
+2. adequacy of the procedures used by the Revenue Collections Branch (RCB)[
+Footnote 2
+] to determine the proportion of uncollectible accounts (ADA rates) and the working papers prepared by F&A in the calculation of the ADA; and
+3. accuracy of the reconciliations of April and May 2005 payments between source system data selects and accounts receivable amounts in the Revenue Ledger (RL); and the progress made in implementing action plans resulting from the IAD 2003-2004 fiscal year-end audit.
+The audit took place between February and December 2005. Audit work included the review and analysis of sample transactions, examination of payment data reconciliations and the review of supporting documentation and key working papers of F&A and RCB. A review of the potential sources for the variances in the reconciliations of April and May payments was also carried out after the issuance of the audit opinion by the OAG.
+Findings, recommendations and action plans
+1. Cash
+The allocation of cash to the proper fiscal year is an important element in determining the amount of cash reported on the Administered Activities Financial Statements. Also considered is cash on hand, which represents cash receipts received in the old fiscal year but deposited in the new fiscal year (approximately $4 billion).
+Results of audit testing indicate that the date used to allocate cash receipts to the proper fiscal year was accurate and the methodology used by F&A to determine cash on hand was appropriate. While not material to the overall results, some errors in the recording of dates were identified with the majority of these being in the recording of the date of payment made at financial institutions. These errors represented a delay of less than two days and would have had little or no impact on the accuracy of the taxpayer accounts.
+1.1 Allocation of Cash Receipts
+The allocation of cash to the proper fiscal year is done by F&A using the payment-received date (date) information recorded in the CRA client accounting systems and the Revenue Ledger (RL). To assess the accuracy of the date recorded in these systems IAD selected 300 payments processed at the Ottawa Technology Centre and four field offices for review.
+Keying errors can occur in data entry and a maximum error rate was therefore established, as a tolerance level for determining accuracy. Following consultations with the OAG, a materiality-based error rate of 6% in the date was set for the purpose of this verification.
+The date recorded in the client accounting system was not correct in 10 out of the 300 samples selected, or 3.3% of the sampled population. Therefore, at a 95% confidence level, the estimated maximum possible error rate of the date was 5.6%. As a result, IAD concluded that the accuracy of the received date recorded in the client accounting system was adequate for the purpose of allocating cash receipts to the proper fiscal year.
+The date recorded in the RL was found not to be correct in 12 out of the 300 samples, or 4% of the sampled population. Of those in error, 10 were the same as had been identified in the client accounting systems. At a 95% confidence level, IAD estimated that the maximum possible error rate of the date in the RL was 6.4%, or slightly above the established threshold. However, F&A was able to demonstrate that the results of the cash allocation using RL were substantially the same as that using the client accounting systems. As a result, IAD concluded that the received date in the RL was sufficiently accurate for the purpose of allocation of cash receipts to the proper fiscal year.
+Although the overall result was positive, IAD found that seven of the 12 identified errors had occurred in the date of payment recorded at financial institutions (FI-remitted payments). This relatively high proportion can be attributed for the most part to insufficient verification of the date information. Since the overall error rates were within the pre-established threshold, there was no impact on the conclusion this year. However, should these types of errors persist, they may have an impact on conclusions made in future years.
+Recommendation
+F&A should work with the Assessment and Client Services Branch (ACSB)
+[
+Footnote 3
+]
+to ensure sufficient verification of FI-remitted payment date information around year-end.
+Action Plan
+F&A will advise the ACSB that, as part of the year-end procedures issued by F&A, additional verification procedures for FI-remitted payments at year-end should be implemented in order to reduce the error rate.
+1.2 Cash on Hand Methodology
+Cash on hand represents cash receipts, which were deposited in the new fiscal year, but received in the old fiscal year. The cash on hand is accounted for as cash receipts in the old year, and hence is a key element in the allocation of cash to the proper fiscal year. In 2004-2005, the amount of cash on hand was approximately $ 4 billion.
+In recent years, F&A has improved its methodology of calculating cash on hand by perfoming additional verification of the amounts received from different sources. For that reason, the scope of the audit work in this area was significantly reduced compared to previous years.
+Rather than performing a complete verification of cash on hand, as in the past, the audit focus was on the methodology to ensure that the sources used and the methods of calculation were sound. Based on its review, IAD concluded that the method used by F&A to determine cash on hand was sound, and provided CRA management with sufficient assurance with respect to its accuracy.
+2. Allowance for Doubtful Accounts (ADA)
+Generally accepted accounting standards require that accounts receivable be presented in financial statements at their estimated realizable value. In doing so, allowances for doubtful accounts (ADA) are established indicating management's best estimate of the collectibility of amounts assessed but not yet paid. In the CRA, the ADA is calculated based on the evaluation of the collectibility of a sample of accounts receivable as assessed by experienced collections personnel.
+IAD found that the procedures used by RCB were adequate to ensure the accuracy of the ADA rates, and that F&A had properly applied the rates in the CRA Administered Activities Financial Statements. There were, however, a number of procedural issues identified which if not corrected, could increase the risk of errors in the future.
+2.1 Sample Selection
+Approximately 3,000 accounts receivable were selected for review in estimating the general ADA rate for 2004-2005. These were taken from data extracts drawn from five different CRA client accounting systems: Personal Tax (T1), Corporate Tax (T2), Source Deductions (T4), Goods and Services Tax (GST), and Automated Sub ledger (ASL).
+To ensure completeness of the populations subject to sampling, F&A reconciled the data derived from the client accounting systems to the information recorded in RL. Significant variances with the GST and ASL revenue systems were initially identified but F&A was able to explain them. IAD reviewed the reconciliations performed by F&A, validated the reasons given for the variances and concluded that the population data used for the sampling was complete.
+It is worthwhile to note that, due to time constraints, the selection of samples was performed prior to the completion of the data reconciliations. This could have put the validity of the sample at risk and caused avoidable delays had a significant problem with the data been found.
+2.2 Review Process
+The review of accounts receivable was carried out by regional collection staff at three CRA locations under the direction of RCB. IAD examined and was satisfied with the quality control procedures that were established to ensure accuracy of the results. To some extent, the details provided to regional staff to search for the samples were insufficient as the results indicated that four out of the 3000 items selected for review could not be found in the client account systems using the sample information that had been provided. In addition, the instructions to field officers were silent as to what to do when sample items could not be found.
+Not being able to evaluate these few items was not an issue this year but the impact of not being able to locate sample items in a database in future years could be significant depending on their number and value.
+To monitor the quality of the sample review carried out by regional staff, the Office of the Auditor General (OAG) asked a separate group of staff from RCB (the monitoring group) to verify the accuracy of about 10% of the sample. Though the monitoring group had some substantial differences with the evaluation results obtained by the regional staff, these were addressed and did not have an impact on the OAG opinion on the financial statements.
+The main cause of the differences was that for some large accounts, the sample review indicated that they were uncollectible, whereas the monitoring group concluded for the same accounts that the outcome could not be determined (for the purposes of the ADA rate determination, when the outcome could not be determined, it was to be assumed that the account was fully-collectible).
+Since the OAG monitoring is only carried out at the end of the field review process, in the future, the existence of significant differences in the outcome of the field and monitoring group reviews could result in missing the deadlines for establishing the ADA rates.
+2.3 Application of Review Results
+To ensure consistency of ADA rate determination from year to year, F&A performed a variance analysis in each of the five revenue streams and some significant variances were identified. In following-up on these, it was found that the precision of the ADA estimates within revenue streams was not always adequate to explain the variances observed.
+Subsequent discussions revealed a different understanding between F&A and RCB on the objective of the sample. It was confirmed that the sample design was not meant to achieve accurate rates within each revenue stream but rather an accurate overall rate. To be able to estimate rates for each revenue stream, as F&A would like, there would need to be an increase in the already substantial sample size.
+IAD found that F&A correctly applied the ADA to the accounts receivable data for 2004-2005, except in the case of T1 accounts receivable resulting from assessments in April and May, which were considered to be mostly seasonal. F&A felt that the rate calculated by RCB was inappropriate, and calculated its own rate to take these into account, based on assumed collection patterns of the receivables in the period subsequent to the year-end.
+IAD performed an analysis of F&A's estimated rate using historical data for 2002 and 2003 tax years and determined that it was plausible. However, the analysis indicated considerable margin of error in the underlying assumptions of the collection patterns of the receivables. Therefore, the OAG did not accept F&A's rate, and recorded an error resulting from the application of a rate different than that calculated by RCB. The error was not material and did not change the OAG opinion on the Administered Activities Financial Statements.
+Recommendation
+RCB should ensure that Accounts Receivable data extracted from client accounting systems are reconciled with the information recorded in RL before selecting the sample of accounts to be used in estimating the ADA rates.
+Action Plan
+RCB is monitoring the quality of data with ITB to ensure that all data extracts are in agreement with the RL prior to incorporation into the process for the ADA Review in 2005-2006.
+Recommendation
+RCB should ensure sufficient information is provided to field officers for locating sample items and clear instructions are communicated on the procedures to follow if an item cannot be found.
+Action Plan
+RCB has brought this issue up with ITB and additional fields will be added to the data extract to ensure that all accounts can be located. Instructions to field officers will include procedures to follow in case sample items cannot be located.
+Recommendation
+RCB should ensure that the methodology used for sample review is consistent with that of the OAG monitoring group, and clearly communicate these procedures to the field officers evaluating the sample in 2005-2006.
+Action Plan
+RCB is currently refining the ADA Review software to address these issues. In particular, RCB is designing a wizard format that would allow the field officers to follow a prescribed approach to the evaluation of all accounts, which will be consistent with the approach used by the monitoring group.
+Recommendation
+RCB and F&A should work together to ensure that the objectives of the sample review and application of the ADA rates are formally agreed to and commonly understood by all parties involved.
+Action Plan
+RCB and F&A are discussing the different options and plan to have an agreed-upon objective for 2005-2006.
+Recommendation
+The precision level of the methodology developed by F&A for determining the ADA rate of T1 accounts receivable from April and May in 2004-2005 should be improved if it is to be used in 2005-2006.
+Action Plan
+F&A is currently reviewing its approach and is expecting to have an improved estimate for 2005-2006.
+3. Accounts Receivable
+3.1 Reconciliations - Data Selects Containing April/May Payments
+Reconciliations of April/May payments provide a proof of accuracy of amounts used in the determination of accounts receivable at year-end and IAD undertook to review their appropriateness and accuracy. Audit results indicate that the reconciliations and the program logic used by ITB in the Accounts Receivable data selects for these payments were consistent with the accrual accounting methodology used by F&A. Although considered sufficiently accurate for financial statement purposes, there are differences that continue to exist.
+The OAG has recommended that F&A identify the root causes of the differences and IAD agreed to do a more in-depth review of the reconciliations in order to assist F&A in identifying the reasons. The timing of this was postponed until the fall after the OAG finished its work, so as to not interfere with the OAG's audit.
+IAD's work included a review of the accrual accounting methodology and its application in the reconciliation process, a review of the requests for data selects and a review of the program logic used by the Information Technology Branch (ITB) to produce the data selects.
+It became apparent that the initial audit procedures undertaken by IAD would not be successful in helping to discover the cause of the reconciliation differences, and that additional analysis would be required. Discussions have started with F&A on this additional audit work to be conducted in 2005-2006.
+3.2 Follow Up of 2003-2004 Fiscal Year-End Audit
+The 2003-2004 Selected Fiscal Year-End procedures audit identified a number of issues relating to the accuracy of accounts receivable data selects used by F&A in its year-end accrual methodology that required corrective action. Those issues were reported in an IAD management letter issued in June 2005 to F&A and action plans were developed.
+IAD followed up on all key findings identified in the previous Fiscal Year-End audit and concluded that all action plans related to the recommendations had been satisfactorily implemented.
+Conclusion
+Information relating to the three components of the financial statements examined by IAD was found to be reliable. Finance and Administration accepted IAD recommendations to address procedural issues in the verification of payment dates, allowance for doubtful accounts estimates and accounts receivable reconciliations. An action plan to clarify the procedures for this fiscal year-end has been developed by the branch in partnership with the Revenue Collections Branch.
+Footnotes
+[Footnote 1]
+Further to a CRA realignment effective January 24th, 2006 these responsibilities now rest with the Tax Services and Debt Management Branch (TSDMB); the audit report retains the terminology appropriate to the time of the audit and the recommendations apply to the successor organizational units.
+[Footnote 2]
+Further to a CRA realignment effective January 24th, 2006 these responsibilities now rest with the Tax Services and Debt Management Branch (TSDMB); the audit report retains the terminology appropriate to the time of the audit and the recommendations apply to the successor organizational units.
+[Footnote 3]
+Further to a CRA realignment effective January 24th, 2006 these responsibilities now rest with the Assessment and Benefits Services Branch (ABSB); the audit report retains the terminology appropriate to the time of the audit and the recommendations apply to the successor organizational units.
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2006-04-20

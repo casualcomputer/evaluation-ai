@@ -1,0 +1,214 @@
+National Audit of Business Travel and Hospitality Expenses
+Corporate Audit and Evaluation Branch
+June 2005
+Executive Summary
+Introduction
+Focus of the Audit and Methodology
+Findings, Recommendations and Action Plans
+Compliance with and Understanding of Policies
+Business Travel
+Hospitality, Refreshments/Meals at Work-Related Events
+Controls Currently in Place
+Statistical Sampling
+Additional Business Insurance
+Cost-Effective and Efficient use of Resources in Business Travel Management
+Conclusion
+Executive summary
+The Canada Revenue Agency (CRA) has its own travel and hospitality polices entitled
+Travel Policy
+and
+Hospitality Policy; Refreshments/Meals at Work-Related Events.
+They were revised in October 2002 and in January 2002, respectively, and the revised hospitality guidelines were published in October 2003 following the Horizontal Reviews. The objectives of these policies are to ensure standard and fair treatment of all travelling employees and to guarantee that hospitality expenses are incurred in a business-like manner, with due regard to economy and probity.
+Recent amendments to these two policies, the different Finance and Administration structure in some regions and the CRA's Administrative Reform and Renewal are important changes in service delivery that prompted the choice of this audit.
+Objective and Scope:
+The objective of this audit consisted in assuring proper application of the revised travel and hospitality policies by paying special attention to:
+compliance with these policies;
+controls currently in place; and
+cost-effective and efficient use of resources in business travel management.
+Four regions were audited: Atlantic, Quebec, Southern Ontario and the Prairie regions as well as the Finance and Administration and the Revenue Collections Branches at Headquarters.
+This audit was for the 2003-2004 fiscal year and the planning and examination phases were carried out from May 2004 to April 2005.
+Conclusion:
+Generally speaking, the new Business
+Travel Policy
+was well received by all stakeholders and many changes made it easier to use. Tests carried out on Corporate Administrative Systems (CAS) transactions for the 2003-2004 fiscal year indicate an adequate level of compliance. However, new provisions regarding travel within the Headquarters Area had significant impacts on distances claimed by employees. Furthermore, a deficiency was identified in the
+Statistical Sampling Guidelines and Procedures
+, in terms of the level of control by the Financial Administration Directorate (FAD). In fact, error rates were not adjusted to reflect results from the previous period.
+Other deficiencies were also demonstrated in applying the controls in the new
+Hospitality Policy; Refreshments/Meals at Work-Related Events
+. Test results indicate that numerous payments were made in the absence of proper compliance with the requirements set out in the policy, procedures and guidelines. Some of these deficiencies are attributable to the difficulty in applying the new policy, which has two different types of expenses and creates confusion among users.
+All stakeholders who were consulted are aware of the cost-effective and efficient use of resources in business travel management. Periodic monitoring of the budget allocated to this activity constitutes the primary means of control by managers. However, there is no official tool available to ensure that these requirements are met.
+Action Plans:
+The FAD provided action plans to address all of the findings raised. Among other things, the FAD has already begun revising both policies involved and will take the necessary measures to remind the stakeholders concerned of their roles and responsibilities.
+To ensure compliance with the guidelines on statistical sampling, the Director, Corporate Accounting Division (CAD) will ensure that his team monitors the error rates on a monthly basis.
+Furthermore, in order to meet the need to improve business travel management in terms of cost-effectiveness and efficient use of resources, the FAD will develop a Web-based costing tool to allow comparison between the usage of private motor vehicles and car rentals.
+Introduction
+The Finance and Administration Branch (FAB) of the Canada Revenue Agency (CRA) is responsible for financial policies, directives, controls, systems and various financial services for employees. Financial Services Units (FSUs) are responsible for the final processing of requests for the reimbursement of expenses under section 33 of the
+Financial Administration Act
+, following approval by the delegated manager exercising his or her authority under section 34 of the Act.
+The CRA has its own travel and hospitality polices entitled
+Travel Policy
+(travel) and
+Hospitality Policy; Refreshments/Meals at Work-Related Events
+(hospitality). These policies are different from those of the Treasury Board Secretariat and are found in the Finance and Administration Manual. They were revised in October 2002 and in January 2002, respectively, and the revised hospitality guidelines were published in October 2003 following the Horizontal Reviews. The objectives of these policies are to ensure standard and fair treatment of all travelling employees and to guarantee that hospitality expenses are incurred in a business-like manner, with due regard to economy and probity.
+Recent amendments to the policies on travel and hospitality, the different Finance and Administration structures in the regions and the CRA's Administrative Reform and Renewal are important changes in service delivery that prompted the Quebec Region internal audit team to suggest that the application of these policies be audited.
+In this perspective, the audit team limited the audit period to the first complete fiscal year following the revisions, that is, 2003-2004. For this period, the financial reports of the CRA (including Customs) indicate the following expense amounts:
+business travel: $57.2 M;
+hospitality: $0.6 M; and
+refreshments/meals at work-related events: $1.2 M.
+The audit was approved by the Internal Audit and Program Evaluation Committee and is part of the 2004-2007 annual plan of the Corporate Audit and Evaluation Branch.
+Focus of the audit and methodology
+The objective of this audit consisted of assuring proper application of the revised business travel and hospitality policies by paying special attention to:
+compliance to these policies;
+controls currently in place; and
+the cost-effective and efficient use of resources in business travel management.
+Four regions were audited namely Atlantic, Quebec, Southern Ontario and the Prairie regions as well as the Finance and Administration and the Revenue Collections Branches at Headquarters.
+For each of the four regions visited, the examination included the Audit and Revenue Collections divisions of a tax services office as well as various responsibility centres of each of the regional offices concerned.
+The planning and examination phases were carried out between May 2004 and April 2005. During that period, interviews were held with managers and employees who travel on CRA business, as well as with those in charge of managing hospitality activities in the selected sites.
+Furthermore, tests were carried out on Corporate Administrative Systems (CAS) travel and hospitality transactions for the 2003-2004 fiscal year.
+As for travel, we used the Audit Command Language (ACL) software to take a statistically valid sampling of transactions from the appropriate database for examination purposes (desired 90% confidence coefficient with an expected error rate of 6% and an accuracy level of +/- 10%). For the selected sites, the total number of data entries was 36,911, resulting in a sample of 157 files to audit.
+As for hospitality, refreshments/meals at work-related events for selected sites, all transactions of $500 and over, i.e. 112 files, were audited. The 62 other audited files were randomly selected out of a population of 2,086 files. The total sampling represents 174 files, 67 in hospitality expenses and 107 in refreshments/meals at work-related events. For all of these selected transactions, a review of documents processed by the FSUs was carried out at each of the sites visited.
+Findings, recommendations and action plans
+Compliance with and Understanding of Policies
+Business Travel
+Overall, the new Business
+Travel Policy
+was well received by managers and employees when it came into force on October 1, 2002. Many changes made its application easier, that is, the use of ground distance in defining the Headquarters Area and the establishment of a single kilometric rate when using a privately owned vehicle for CRA business.
+Tests on CAS transactions for fiscal year 2003-2004 show a proper degree of compliance with the Business
+Travel Policy.
+In fact, out of the 157 files of the audited sample, only 10
+1
+or 6.4% had critical errors, which meets Headquarters expectations. These errors comprised missing receipts, claims not signed by employees or incorrect or missing authorizations pursuant to the delegation of authority to persons authorized to sign under section 34 of the
+Financial Administration Act
+(FAA).
+Another test was carried out to audit the processing times of the travel expense claims. To calculate the time, the date the "Travel Expense Claim" form was signed by the employee was used as the starting point, while the refund cheque date entered in the CAS was deemed the file closure date. Out of the 157 files of the audited sample, test results showed an average processing time of 11.6 days, which is reasonable.
+However, new provisions with regard to travel within the Headquarters Area had a significant impact on employee claims. The major concern of many managers and employees is with their difficulty determining the usual means of transportation used by "travelling auditors" to get to their workplace.
+The interpretation and application of provisions relative to this aspect of the policy are complex and are not understood and used in the same way by all stakeholders. These provisions were clarified in March 2004, several months after the new policy was introduced. "Travelling auditors" are presumed to use their own vehicles as the usual means of transportation, even if they use public transportation to get to work (e.g. a Tax Services Office) when they are not on government business. This interpretation has a direct impact on the starting point for calculating the number of kilometres travelled on government business. It is important to note that some "travelling auditors" from the Quebec Region have contested this interpretation provided by Headquarters and grievances are currently pending.
+Auditors who travel frequently within their Headquarters Area have specifically reported difficulty interpreting provisions relative to the calculation of presumed kilometres versus kilometres actually travelled. These employees, having presumably started their trip from their place of work, which is not always the case, must therefore calculate the approximate distance travelled. This scenario raises two potential risks:
+a calculation error for the kilometric distance reimbursed since it was an approximation, or
+the actual distance travelled may have been less than that reimbursed, and could result in a taxable benefit.
+In addition to the potential risk of error in determining the number of kilometres travelled and to be reimbursed, the current policy for travel within the Headquarters Areas requires managers to consider the interpretation and application of three different possible scenarios regarding their employees:
+the employee who usually uses a private vehicle to get to his or her place of work (Policy, section 4.1.1c, 2
+nd
+paragraph);
+the employee whose private vehicle is not the usual means of transportation (Policy, section 4.1.1c, 3
+rd
+paragraph); and
+the employee who works at home (telework) (Policy, section 9, paragraph t).
+Divergent interpretations and applications of these Business
+Travel Policy
+provisions lead to non-uniform treatment of employees depending on their category. For example, teleworkers are always subject to the "lesser of two distances rule"
+2
+when claiming the number of kilometres, yet this rule does not apply to other employees since the policy was reviewed in October 2002. As well, one tax services office created its own local policy for a specific type of employees, going as far as to consider the employee's place of residence and the exact time to return home.
+Recommendations
+The Financial Administration Directorate (FAD) should review the Business Travel Policy in order to clarify the various provisions that concern users, that require many interpretations and that may lead to different application.
+The FAD should create a communication method to advise employees how to fairly and consistently interpret travel issues within the Headquarters Area.
+Action Plans
+The CRA Business Travel Policy is currently under review. A consultant will benchmark the CRA Business Travel Policy against the policies of other government/large private organizations and also determine industry best practices. The project plan also includes surveying employees, focus group meetings across the Agency and after the new policy is written, providing the necessary training. Throughout the process consultations will take place with managers, employees and unions. The development of the new Travel Policy is expected by June 2006.
+FAD will look at its options and create an effective communication method to advise employees how to fairly and consistently interpret travel issues. This is expected to be completed by fall 2005.
+Hospitality, Refreshments/Meals at Work-Related Events
+The new
+Hospitality Policy; Refreshments/Meals at Work-Related Events
+was published in January 2002. At all of the sites visited, the persons interviewed indicated that the policy structure and differences between hospitality expenses and those related to refreshments/meals at work-related events lead to confusion with regard to the application and interpretation of policy provisions applicable to each of the two types of expenses. Several months after its publication and after the guidelines were issued on October 1, 2003, managers still had to consult with financial officers on a regular basis before proceeding with a policy-related activity because it was difficult to apply. This is why two regions have even provided a user guide or table and reference in order to facilitate its interpretation and application.
+Despite those efforts, tests show that there is confusion over these two types of expenses, which are linked to two different accounts in the General Ledger. At the sites visited, out of a total 1,415 data entry for hospitality expenses, refreshments/meals at work-related events, 234 (17%) were corrected by various users.
+In order to determine the degree of compliance with the policy, procedures and guidelines and to be able to assess the controls currently in place, tests were carried out on a sample of transactions for hospitality expenses, refreshments/meals.
+For all of the sites visited, tests on expense transactions for hospitality and refreshments/meals incurred during the 2003-2004 fiscal year indicate that 79
+3
+of the 174 files in the audited sample, that is, 45.4%, do not meet the policy requirements in terms of the following:
+the most common error, noted in 62 or 35.6% of the cases, involved the absence of the mandatory Hospitality Expenses Information Form – T1239 (Appendix B) or a lack of information in the refreshments/meals at work-related events expense files;
+six cases involved the delegation of authority to persons authorized to sign under section 34 of the
+Financial Administration Act
+(FAA):
+two cases of more than $3,000 were not authorized by the Commissioner;
+another case of more than $3,000 was authorized by the Commissioner after the event;
+one case of more than $3,000 where the total final cost exceeded the original authorization by more than 10% and was not referred to the Commissioner for re-approval;
+two cases were authorized by an employee who did not have authorization under section 34 of the FAA.
+absence of supporting documentation (detailed invoices or receipts) in 11 or 6.3% of the cases; and
+in two cases, there is no file to support the expense entered in CAS.
+Both hospitality expenses and refreshments/meals at work-related events are subject to two levels of control:
+Approval by a duly authorized manager under section 34 of the FAA;
+Systematic blocking process of these transactions in the CAS for verification by financial officers authorized under section 33 of the FAA.
+The results of the two previous tests indicate that, despite these two controls, numerous payments are carried out in the absence of proper compliance with policy, procedure and guideline requirements. Weaknesses in applying controls increase the risk of some transactions not meeting set policy objectives.
+Recommendations
+The FAD should make the required clarifications to the policy and guidelines in order to better adapt these documents to their specific needs and take the required action to ensure understanding and application within CRA.
+The FAD should remind managers (article 34) and financial officers (article 33) of their responsibility to ensure that the expenses associated with hospitality (74745) or meals/refreshments provided during work-related activities (74746) meet policy requirements, especially with respect to the following:
+appropriate supporting documents for both type of expenses such as detailed receipt;
+duly completed form T1239 Appendix B for hospitality expenses (74745); and
+appropriate description of activities related to meals or refreshments (74746).
+The FAD should make available appropriate training sessions for all users of the hospitality, refreshments/meals at work-related events policy.
+Action Plans
+The FAD is currently rewriting the Hospitality Policy to make it more logical and easier to follow. For instance, definitions of the categories will be provided. Once completed, a draft version of the revised policy will be circulated to users for comments. It is anticipated, that it will be ready for release and implementation by early 2006.
+At the time of implementing the new Hospitality Policy, the Manager of Financial Policy will ensure managers, Financial Agents and administrative staff will be reminded of their roles and responsibilities with regard to the FAA, choosing general ledger accounts and forms to use.
+The FAD currently supports the Management Group Learning Plan and the EX/SM Workshops, which are presented in Headquarters and the Regions, on “Hospitality”. Furthermore, the Manager, Financial Control is developing a ‘Financial Concepts Course' that is to be made available Agency wide that will include a section on Hospitality. It is expected to be ready in April 2006.
+Controls Currently in Place
+Statistical Sampling
+In the course of the 2002-2003 fiscal year, finance officers implemented policies, guidelines and procedures on account verification and statistical sampling applicable to all transactions, including business travel. At the payment request stage, the policy indicated that the CRA must perform risk management by using a statistical sampling method for low- and medium-risk financial transactions and by performing a complete verification of all other transactions.
+Every region, as well as HQ, enters the data for the sampling parameters into CAS. This system produces a monthly list of samples to verify for all FSUs under their jurisdiction. The responsible officer from the Region/HQ then informs the FSUs, which retrieve their files and verify them according to the national procedure. For their part, financial officers and/or clerks verify their selected accounts, complete a report of the errors found and send it to the responsible officer from the Region/HQ who then analyzes it.
+According to the Finance and Administration Manual,
+4
+the error rate should be adjusted monthly based on the actual rate for the previous month. However, the error rate used to determine the size of monthly statistical sampling has not changed since the start of the process. Since this part of the guidelines has not been implemented, the number of samples to assess on a monthly basis has remained unchanged, when they should have been adjusted upward or downward in order to reflect past results.
+Consequently, verification by sampling does not take into account the error rate observed and does not meet the rules of the statistical sampling plan.
+Recommendation
+The FAD should analyze the results obtained from the statistical sampling conducted on a monthly basis in each region/ headquarters, and ensure the error rate is adjusted, as stated in the guidelines.
+Action Plans
+The Director, Corporate Accounting Division (CAD) will ensure his team monitors the error rate on a monthly basis and contacts the appropriate Regions or Branches at Headquarters beginning September 2005.
+Furthermore, since there is a difference between the statistical sampling policy and the way it is being applied, they will both be reviewed and the necessary corrective action will be taken by CAD beginning September 2005.
+Additional Business Insurance
+The Business
+Travel Policy
+mentions that to be sure that travellers have proper protection, privately owned vehicles used for CRA business must have public liability insurance and property damage insurance valued at one million dollars.
+However, the policy is not specific as to who is responsible to ensure that adequate protection is in effect. This is why some offices have added a specific mention on the “annual authorization to travel” form to specify that employees must have adequate car insurance coverage when they are authorize to use privately owned vehicle.
+Recommendations
+The FAD should specify, in the « Roles and responsibility » section of the travel policy, the responsibilities of travellers and managers with respect to the requirement to have, as a minimum, Basic Insurance Coverage including $1 Million Public Liability and Property Damage.
+The FAD should elaborate and share an annual travel authorisation template where the travellers' responsibilities are clearly spelled out with respect to adequate car insurance coverage.
+Action Plans
+The new Travel Policy will specify the roles and responsibilities of the managers and employees with respect to the requirement for Basic Insurance Coverage.
+The Annual Travel Authority form will clearly indicate the need for the necessary minimum Basic Insurance Coverage on vehicles used for Agency business. The Financial Policy, Systems and Control Division will develop the new form and CAD will implement this new form for the 2006 annual travel authority review period. Through consultations, Manager, Financial Policy will determine if this form will be part of the appendices of the new travel policy.
+Cost-Effective and Efficient use of Resources in Business Travel Management
+Among other things, the Business
+Travel Policy
+requirements set out that: "It is the prerogative of the employer to determine whether, when, where, by whom and by what means travel will be undertaken and to select the mode and class of transportation and the accommodation to be used, subject to the provisions of this policy." To this end, all stakeholders who were consulted are aware of the cost-effective and efficient use of resources in business travel management. The periodic monitoring of the budget allocated to this activity constitutes the primary means of monitoring by managers. Furthermore, every trip requires prior authorization, while employees who are required
+to travel frequently may receive annual travel authorization. However, managers do not have the necessary tools to ensure that trips are carried out in the most cost-effective manner.
+The policy makes a distinction in travel processing, according to the mode of transportation used. Specifically, a provision in the module on travel in Canada (section 4.3.1d) allows travellers to use a privately owned vehicle when he or she could choose to use commercial transportation (plane or train), on the condition that the costs incurred (kilometric rate and other costs incurred en route) do not exceed the cost that would have been incurred had the employee used available commercial transportation. Therefore, managers must use additional rigour when applying this provision in the management of business travel involving this mode of transportation.
+In the absence of similar provisions applying to rental vehicles and in order to comply with the policy vis-à-vis the identification of the mode of transportation to use during authorized travel, one tax services office developed a "cost benefit" tool to assess the cost of using a privately owned vehicle as opposed to a rental vehicle.
+In a context where several modes of transportation are possible for a business trip, this type of tool reduces the risk that decisions will be made without considering potential alternatives aimed at reducing CRA business travel costs.
+Recommendations
+The FAD should examine the feasibility of modifying the policy to include rental vehicle in addition to commercial transportation (air or rail) in the options offered to employees when travelling outside the Headquarters area (sections 4.2 and 4.3).
+The FAD should offer a cost-benefit analysis tool to assist the various stakeholders in ensuring that all business travels are managed economically.
+Action Plans
+The FAD is developing a web-based costing tool to allow comparison between the usage of private motor vehicles and car rentals. The tool used at the Halifax Tax Services Office will be used as a model. This new Agency wide tool will be available on the Infozone in the summer 2005.
+The applicable modules of the CRA Business Travel Policy will be amended during the complete review of the policy to incorporate this option and tool for the use by managers and employees.
+Conclusion
+Generally speaking, the new Business
+Travel Policy
+was well received by all stakeholders and many changes made it easier to use. Tests carried out on Corporate Administrative Systems (CAS) transactions for the 2003-2004 fiscal year indicate an adequate level of compliance. However, new provisions regarding travel within the Headquarters Area had significant impacts on distances claimed by employees. Furthermore, a deficiency was identified in the
+Statistical Sampling Guidelines and Procedures
+, in terms of the level of control by the Financial Administration Directorate (FAD). In fact, error rates were not adjusted to reflect results from the previous period.
+Other deficiencies were also demonstrated in applying the controls in the new
+Hospitality Policy; Refreshments/Meals at Work-Related Events
+. Test results indicate that numerous payments were made in the absence of proper compliance with the requirements set out in the policy, procedures and guidelines. Some of these deficiencies are attributable to the difficulty in applying the new policy, which has two different types of expenses and creates confusion among users.
+All stakeholders who were consulted are aware of the cost-effective and efficient use of resources in business travel management. Periodic monitoring of the budget allocated to this activity constitutes the primary means of control by managers. However, there is no official tool available to ensure that these requirements are met.
+The FAD provided action plans to address all of the findings raised. Among other things, the FAD has already begun revising both policies involved and will take the necessary measures to remind the stakeholders concerned of their roles and responsibilities.
+1
+It should be noted that one file has two errors.
+2
+According to the policy, "when (employees are) required to travel to a location other than their workplace, the lesser amount of travel expenses between home and the duty travel location, or the workplace and the duty travel location, will be reimbursed."
+3
+It should be noted that two files contain two errors.
+4
+Financial Administration Volume, Chapter 8, Section 3 – Guidelines and procedures – CCRA Statistical Sampling Plan, paragraph 2.3.
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2005-11-23

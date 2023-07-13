@@ -1,0 +1,74 @@
+Protection of Information: Memorandum of Understanding with the Royal Canadian Mounted Police
+Internal Audit Report
+Corporate Audit and Evaluation Branch
+February 2008
+Table of Contents
+Introduction
+Focus of the Audit
+Observations
+Conclusion
+Introduction
+In the Canada Revenue Agency (CRA), the Charities Directorate (the Directorate) of the Legislative Policy and Regulatory Affairs Branch (LPRAB) is responsible for registering charities and ensuring their compliance with the
+Income Tax Act (ITA)
+.
+The CRA also has a national security mandate relating to the registration of charities. In December 2001, the enactment of the
+Charities Registration (Security Information) Act (CRSIA)
+, under Part 6 of
+The Anti-terrorism Act
+, re-defined the role and importance of protecting the integrity of Canada's registration system for charities in support of Canada's anti-terrorism objectives. The Charities Directorate role is to ensure that organizations suspected of links with terrorist activities are denied or lose charitable status under the
+ITA
+.
+In delivering this mandate, the Directorate uses intelligence and classified information obtained from partner organizations. It must ensure that this information is appropriately safeguarded. Unauthorized access to this information would constitute an offence under the
+Security of Information Act
+.
+To better support the exchange of information described above, the CRA and the Royal Canadian Mounted Police (RCMP) entered into a memorandum of understanding (MOU) on May 30, 2005. The purpose of the MOU is “To provide a clear and objective understanding of each of the parties' roles and responsibilities under the
+CRSIA
+.”
+The MOU requires both parties to ensure that procedures are in place to safeguard the information and protect it from any further disclosure. Therefore, the CRA is required to ensure that all information received under this MOU will be maintained and accounted for in accordance with information management policies and procedures. Further, the terms of the MOU require the CRA to conduct an internal audit of the protection of information within two years of the signing date.
+The protection of classified information is established in this MOU, and in a number of key documents, including the
+Security of Information Act
+, the Government Security Policy (GSP) and CRA's Finance and Administration Manual (FAM). The GSP established by the Treasury Board of Canada Secretariat prescribes the application of safeguards to reduce the risk of injury and preserve the confidentiality of assets, including information. CRA's FAM also provides policy and guidance on the protection of assets, including security awareness, security screening, physical security, and IT security. It also provides policies and guidelines on the handling, storage, transmission and destruction of sensitive information.
+Focus of the Audit
+The objective of the audit was to determine whether the CRA is in compliance with the conditions governing the receipt, use, protection, storage, and destruction of information received from the RCMP and in accordance with the MOU signed on May 30, 2005.
+The audit was conducted in the Charities Directorate, Legislative Policy and Regulatory Affairs Branch of the CRA. Interviews were also held with representatives from the Finance and Administration Branch, Information Technology Branch and the Corporate Strategies and Business Development Branch. The examination phase was conducted from June to December 2007. Information received from the RCMP for the period from January 2006 to April 2007 was included in the examination.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Observations
+The audit confirmed that information received from the RCMP was adequately safeguarded. The program area complied with the relevant policies, procedures, laws and regulations related to the protection of information received from the RCMP. The audit identified a high level of awareness and understanding of legislation, policies, procedures, and best practices among employees of the program. There was no evidence that the information was used for any purpose other than for the enforcement and administration of the CRSIA and the ITA, or disclosed to any other entity. Further, the audit confirmed that necessary preventive controls have been implemented for the storage and protection of the information received.
+Interviews held with officials within the Charities Directorate, the Security Directorate of the Finance and Administration Branch and IT Security Services indicated a high level of knowledge of security protocols and standards. The Directorate has invested considerably in a secure facility and IT infrastructure for the program operations. Employees and managers interviewed in the program area had appropriate and valid security clearances; a need to know; and had received security awareness training.
+A senior IT security specialist with extensive security experience was contracted to provide services related to the identification, development, documentation, maintenance, and implementation of all security aspects pertaining to the program area's IT and operational environment, including Standard Operating Procedures on security protocols.
+Site visits, review of supporting documentation and interviews demonstrated that controls are in place to ensure a secure and approved environment. These controls are in compliance with the GSP, relevant security standards and CRA's FAM. For example, to fulfill the prerequisite of storing classified information in appropriate secured zones, the Directorate completed appropriate and documented threat and risk assessments of its facilities. The RCMP conducted its own review of the facilities. Internal audit site visits and testing confirmed that physical access to classified information was restricted through controlled points of entry. Information was stored according to RCMP security standards and located in appropriate security zones. In addition to a secure environment, the audit team noted that employees were provided with clear guidance on the protection of information and complied with operating procedures.
+The information received from the RCMP for the review period was appropriately identified, logged, stored and tracked. A 100 per cent file review of information received for the January 2006-April 2007 period was conducted. Files containing classified information were tightly controlled and appropriately tracked. Security standards require that classified information is stored in a security-approved locked filing cabinet or safe listed in the RCMP Security Equipment Guide and located in a Security or High Security Zone. Site visits confirmed that storage of information from the RCMP was appropriate. Furthermore, any classified information within the program area was stored on the secure classified network.
+The MOU states that information provided under the MOU “will be retained for the minimum period that is required by subsection 6(1) of the
+Privacy Act
+and the administrative policies of the government of Canada. Thereafter, it must be immediately destroyed or returned to the other party”. To date, none of the classified information received from the RCMP has been authorized for destruction.
+However, the audit team noted one area with regards to the wording in the MOU that should be clarified. The “Confidentiality and Security of Information “ section of the MOU, clause 11, states that information received by the CRA from the RCMP “will be treated according to the security classification assigned to it”. Clause 12 goes on to state that the “general conditions and procedures for the security of information are outlined in Annex C”. Annex C includes a chart outlining security requirements for handling CRA information designated “Protected”. Since the information received from the RCMP is designated “Classified”, this chart does not provide the appropriate guidance and could create confusion on the appropriate level of safeguarding of the information received from the RCMP.
+Recommendation
+In the next updating of the MOU, the narrative and chart at Annex C should be revised to include specific guidance on the protection of classified information. It should be noted that this guidance is currently available both in the FAM and the “Information Classification Security Standard Guide” available on the Information Policy and Governance Division InfoZone site. This would provide certainty for all parties that the information received from the RCMP is protected according to guidelines for safeguarding classified information.
+Action Plan
+1.
+Charities Directorate will work with the Federal and Provincial/Territorial Relations Division, Client Relations Directorate, Corporate Strategies and Business Development Branch to establish a time-frame for revising the existing MOUs.
+2.
+In preparation for the re-drafting of these MOUs, the Charities Directorate, LPRAB, will undertake, by September 30, 2008, to have:
+initiated discussions with the RCMP to obtain their formal concurrence and input with regard to these specific changes;
+drawn up a proposed list of issues to be addressed when the MOUs are assigned for revision;
+discussed those issues with the RCMP to obtain their input and concurrence; and
+based on those discussions, prepared an initial draft of proposed amendments to the MOUs.
+Conclusion
+The CRA has appropriate security controls in place for safeguarding the information received from the RCMP. This audit found the CRA to be in compliance with the conditions governing the receipt, use, protection, and storage of information received from the RCMP, and in accordance with the MOU signed on May 30, 2005. Information received was handled in compliance with relevant legislation, policies and procedures.
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2008-04-18

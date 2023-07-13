@@ -1,0 +1,327 @@
+Internal Audit (Follow-up) – Contract Bidding and Awards Process
+Final Report
+Audit, Evaluation, and Risk Branch
+June 2017
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations, and Action Plans
+1.0 Compliance with policies and procedures
+1.1 Contracts Directive and Procurement Planning and Administration Procedures
+1.2 After-the-fact Contracting Situations Directive
+1.3 Procurement Compliance Review Directive
+1.4 Training and education
+2.0 Monitoring and quality review
+2.1 Accuracy and reliability of procurement data and segregation of duties
+2.2 Trend analysis
+2.3 Follow-up process
+Conclusion
+Acknowledgement
+Appendices
+Appendix A: Glossary of Abbreviations
+Appendix B: 2014 Contract Bidding and Awards Process Audit
+Appendix C: Disposition of Recommendations from the 2014 Audit
+Executive Summary
+Background
+A commitment to fairness, openness, and transparency in procurement is a requirement set out by the Government of Canada in the Financial Administration Act. Section 61 of the Canada Revenue Agency Act provides the Canada Revenue Agency (CRA) with full authority to contract, with the exception of contracts for legal services. The Agency must also comply with provisions of several complex trade agreements. In addition, under section 30(1) of the Canada Revenue Agency Act, the CRA has authority over all matters relating to general administrative policy in the Agency, including policies with respect to contracting.
+The Audit, Evaluation, and Risk Branch (AERB) completed the Contract Bidding and Awards Process Audit in August 2014 (see
+Appendix B
+). Opportunities for improved internal controls were identified to promote adherence to procurement policy instruments, completeness of supporting documentation, and data accuracy. Action plans were developed by the Administration Directorate (AD) of the Finance and Administration Branch (FAB) to address the recommendations.
+Objective
+The objective of this audit is to validate the implementation of action plans to address the recommendations of the 2014 Contract Bidding and Awards Process Audit.
+Conclusion
+Of the 15 recommendations from the 2014 audit, 11 have been fully implemented, 3 have been partially addressed and 1 has not been implemented. Further opportunities therefore exist to continue to enhance internal controls by:
+documenting certain mandatory requirements;
+providing guidance to procurement officers on exceptions to operational procedures;
+improving the accuracy of coding of contracts generating intellectual property;
+enforcing compliance reviews; and
+monitoring trends.
+While this audit was not designed to specifically uncover integrity lapses, auditors were alert to this as a potential risk and exercised due care in the completion of audit testing. No cases of integrity lapses were identified in the sample of contracts reviewed as part of this audit.
+Action Plan
+The FAB agreed with the recommendations in this report and has developed related actions plans. The AD plans include updated pertinent internal procedures and checklists, providing training and education to procurement staff and implementing a new compliance tool, which aims to improve internal controls and monitoring. The AERB has reviewed management’s action plans and concluded that they are adequate and reasonable to address the recommendations.
+Introduction
+A commitment to fairness, openness, and transparency in procurement is a requirement set out by the Government of Canada in the Financial Administration Act. Section 61 of the Canada Revenue Agency Act provides the Canada Revenue Agency (CRA) with full authority to contract, with the exception of contracts for legal services. Under the Shared Services Canada Act, Shared Services Canada is responsible for the acquisition and provision of hardware and software, including security software, for end user devices. The CRA also uses Public Services and Procurement Canada for construction
+Footnote
+1
+, advertising, public opinion research requirements and in situations when there is a clear benefit to the CRA to do so. The Agency must also comply with provisions of several complex trade agreements, such as the North American Free Trade Agreement. In addition, under section 30(1) of the Canada Revenue Agency Act, the CRA has authority over all matters relating to general administrative policy in the Agency, including policies with respect to contracting.
+CRA has established and maintained broad systems of internal control to help mitigate the risks related to the achievement of program goals. Internal control activities are designed to provide reasonable assurance that particular objectives are achieved as intended and may be categorized by the type or nature of activity. It is important to understand that no one control measure alone can provide adequate assurance; rather it is their combination that provides strength in the internal controls.
+Within the CRA, the Commissioner and Chief Executive Officer is responsible for executive oversight of the procurement function. Accountability and authority for procurement policies and services reside within the Administration Directorate (AD) of the Finance and Administration Branch (FAB).
+The AD is responsible for ensuring the fair, equitable, and transparent acquisition of goods and services to support the achievement of the Agency’s business goals. The directorate is the functional authority
+Footnote
+2
+for procurement within the Agency and, as such, is responsible for the systems and procedures used within the CRA in relation to the receipt, handling and evaluation of bids/proposals for CRA procurement contracts and contractual arrangements. The AD is also responsible for providing quality assurance and compliance oversight of the CRA’s procurement activities.
+In fiscal year 2016-2017, the CRA reported a total of 653 new contracts, competitive and non-competitive, totalling $57M.
+The Audit, Evaluation, and Risk Branch (AERB) completed the Contract Bidding and Awards Process Audit in August 2014. The objective of this follow-up audit was to provide assurance that the internal controls in the CRA contract bidding and awards process were in place and functioning as intended. The 2014 audit identified opportunities for improved internal controls to promote adherence to policy instruments, completeness of supporting documentation, and data accuracy.
+The AD developed action plans to address the 15 recommendations from the 2014 audit. Measures identified included the development or update of applicable documentation, such as policy instruments, forms and checklists, the provision of timely training of staff, as well as enhancement of its compliance, monitoring, and reporting activities.
+Focus of the Audit
+The objective of this follow-up audit was to validate the implementation of action plans to address the recommendations of the 2014 Contract Bidding and Awards Process Audit.
+The follow-up audit focused on validating the action plans implemented and ensuring that they address the recommendations and underlying issues observed in the 2014 audit.
+The examination phase of the audit took place from October 2016 to April 2017 in Headquarters. Samples were obtained from April 1, 2016, to November 30, 2016.
+The audit was conducted in accordance with the International Standards for the Professional Practice of Internal Auditing.
+Findings, Recommendations, and Action Plans
+As with other internal audits, the recommendations presented in this report only address issues of significance or mandatory requirements. Of the 15 recommendations from the 2014 audit, 11 have been fully implemented, 3 have been partially addressed and 1 has not been implemented. See
+Appendix C
+for a disposition of recommendations from the 2014 audit.
+While this audit was not designed to specifically uncover integrity lapses, auditors were alert to this as a potential risk and exercised due care in the completion of audit testing. No cases of integrity lapses were identified in the sample of contracts reviewed as part of this audit.
+1.0 Compliance with policies and procedures
+1.1 Contracts Directive and Procurement Planning and Administration Procedures
+File documentation
+The 2014 audit found that complete information was not consistently maintained in the procurement files and there were inconsistencies between policy instruments and internal procedures.
+Recommendations #2 and #3 from
+Appendix C
+were adequately addressed through updates to policy instruments and the elimination of internal procedures thereby resolving the issue of inconsistency. Furthermore, adherence to policy instruments by procurement officers was reinforced through the introduction of checklists and inclusion of performance expectations related to file documentation.
+Statement of work review
+The 2014 audit found that evidence was not consistently on file to confirm that the procurement officer had reviewed and validated the statement of work (SOW). Furthermore, a review of non-competitive contracts identified only a few contracts where it could be concluded that the procurement officer did in fact review whether or not the contract would result in the establishment of an employer-employee relationship
+Footnote
+3
+. Although the SOW is considered a critical document within the procurement process and the employer-employee relationship needs to be avoided given employment status impacts, documented evidence was not required for both these aspects.
+The documentation requirements of the SOW review process employed subsequent to the 2014 audit were inconsistent for certain files as only one of the two mandatory file checklists introduced included tools and tasks for reviewing and validating a SOW and avoiding employer-employee relationships. As such, recommendation #4 from Appendix C was only partially addressed.
+Recommendation: The AD of the FAB should require procurement officers to document their review of client prepared mandatory documents and their consideration of employer-employee relationships for low risk procurements.
+Action Plan
+The AD has updated the Low Risk Approval Form and Checklist to include a task confirmation that procurement officers have reviewed the statement of work and that the potential for employer-employee relationships has been considered.
+Completion date: Completed
+In addition, measures implemented since the 2014 audit included having procurement officers issue and then obtain acknowledgement emails from the project authority in accordance with internal procedures and checklist requirements. In the sample, two of the contract files did not include an acknowledgement email as it was left to the procurement officer’s judgement; a practice that could lead to inconsistencies.
+The risk of disputes and associated financial costs, including legal challenges, are diminished when SOW information is clearly expressed or documented. Furthermore, the Agency may save expenses and achieve value for money as the services would be as expected or value-added if the SOW information is adequate.
+Recommendation: The AD of the FAB should provide guidance to procurement officers on the applicability and exceptions to sending and obtaining an acknowledgement email.
+Action Plan
+The AD will distribute a notice to all procurement officers, advising them of the factors that create a potential for employer-employee relationships, including guidance on the applicability of the acknowledgement e-mail. The notice will require that, in those rare situations where it is determined that the acknowledgment e-mail is not applicable, the procurement officer must clearly document on the procurement file their rationale for not sending the e-mail.
+Completion date: September 2017
+Document storage
+In the 2014 audit, the audit trail was difficult to follow as records management practices varied and the use of the primary software application for document storage was not enforced.
+Recommendation #5 from
+Appendix C
+was adequately addressed through updates to the policy instruments.
+1.2 After-the-fact Contracting Situations Directive
+In the 2014 audit, issues of inconsistency were identified in the definition of an after-the-fact (ATF) contracting situation
+Footnote
+4
+between the Directive and the National Trend Analysis and Review document (now entitled the National Review and Trend Analysis).
+Recommendation #7 from
+Appendix C
+was adequately addressed through an update to the Directive, which now aligns with the report.
+1.3 Procurement Compliance Review Directive
+At the time of the 2014 audit, the Procurement Compliance Review Directive (PCRD) required a mandatory compliance review of sole-source contracts exceeding $25K at the pre-solicitation
+Footnote
+5
+stage. This requirement; however, did not accurately represent the procurement process as no pre-solicitation stage existed for these types of contracts.
+A review of the updated PCRD found that it still includes the aforementioned requirement. While the AD confirmed that pre-solicitation stage would not occur for these types of contracts, the directorate opted to retain this requirement in pre-solicitation section of the PCRD rather than creating a separate and new section for instances where there could be a negotiation prior to the next stage of the procurement process; pre-award
+Footnote
+6
+.
+Recommendation #9 from Appendix C was adequately addressed by the AD’s rationale taking into consideration the associated risks.
+1.4 Training and education
+Bid-evaluation
+The 2014 audit found that a few competitive contracts did not have evidence in the procurement file to illustrate that the contract bids were evaluated by the procurement officer against the mandatory criteria. Furthermore, for one of the aforementioned contracts, there was no evidence to support that the successful bidder was compliant with the non-financial portion of the mandatory criteria.
+Recommendation #1 from Appendix C was adequately addressed through specific training requirements, including those related to bid evaluation and contractor selection methodologies, as well as other informal and complementary procurement related training. In addition, adherence by procurement officers was reinforced through the introduction of mandatory checklists.
+Coding accuracy and completeness
+In the 2014 audit, results of a comparative review of procurement file documentation and data from the 2012-2013 fiscal year indicated a lack of accuracy in the classification and identification of certain aspects of procurement transactions.
+Given this, the AD implemented the following measures to reinforce the importance of coding accuracy:
+included performance expectations for procurement staff related to data accuracy, validation and reporting to stakeholders;
+issued monthly validation call letters supporting the validation process (see 2.1.1 below);
+created a central repository of coding documents accessible by procurement staff;
+disseminated and discussed information at management and team meetings; and
+issued supplementary instructions and communiqués to procurement staff.
+In addition, subsequent to the 2014 audit, the Intellectual Property Ownership Directive was simplified and now includes the requirement that intellectual property (IP) coding “must be completed in the CAS [Corporate Administrative System] for all contracts,” and coding instructions in an appendix to support procurement staff.
+Since the 2014 audit, the number of contracts coded as generating IP has declined, which is consistent with the understanding that the majority of the CRA’s contracts do not generate any IP. A review of the 2014 and 2015 Procurement Activity Reports (PARs) identified instances of coding inaccuracies in relation to those transactions coded as having generated IP (0.3% of transactions in the 2014 PAR and less than 1% of the transactions in the 2015 PAR). While 14 of 24 (58%) of transactions coded as generating IP from the 2014 and 2015 PAR combined were corrected through monitoring and quality review activities prior to the commencement of this audit, 9 (38%) remained inaccurate. Given the small population of contracts generating IP, procurement officers may not be proficient with how they should be treated. As such, recommendation #6 from Appendix C was only partially addressed.
+The Agency must be able to rely on the completeness and accuracy of reported IP data. Furthermore, reliable and accurate IP information should be available for analysis to identify trends and patterns.
+Recommendation: The AD of the FAB should implement measures to improve the accuracy of contracts coded as generating intellectual property.
+Action Plan
+The AD will provide IP information sessions to all procurement officers to ensure full understanding and application of the IP Ownership Directive.
+Completion date: September 2017
+After-the-fact contracting situations
+The 2014 audit found that a few instances in a non-competitive sample review where the client went directly to the vendor to request services and discussed contractual matters prior to involving the AD.
+Recommendation #8 from
+Appendix C
+was adequately addressed through the development and delivery of training material to clients and procurement staff. Also, the CRA’s intranet now contains detailed information to educate stakeholders on proper procurement processes as well as corresponding roles and responsibilities. In addition, a presentation made to Procurement Review and Oversight Committee (PROC) in March 2016 on the 2014-2015 National Review and Trend Analysis of ATF Contracting Situations, for which action plans were subsequently implemented and communications made to all staff to ensure all issues identified have been understood and addressed.
+2.0 Monitoring and quality review
+2.1 Accuracy and reliability of procurement data and segregation of duties
+In the 2014 audit, data integrity issues were noted with the procurement information presented in reports and data deficiencies, including coding errors. Furthermore, mandatory compliance reviews were also not consistently conducted and procurement officers were responsible for submitting their own contracting files for review, thus not respecting the principle of segregation of duties (SOD).
+Given this, the AD monitored procurement transactions for accuracy and reliability of information through the following activities:
+maintaining peer/management reviews;
+enhancing the validation process;
+enhancing compliance reviews;
+performing targeted/ad-hoc reviews;
+implementing new procurement coding and accuracy reviews;
+performing ATF contracting situations reviews; and
+maintaining PROC, a committee that reviews the CRA’s high risk/high dollar value procurements for compliance purposes.
+To follow-up on data deficiencies that were identified in the 2014 audit, the AERB initially considered performing a file review. In validating the AD’s procurement accuracy and coding review methodology and its statistical sampling approach, the AERB opted instead to rely on the review conducted by the AD. The results of this review have indicated an overall improvement in data accuracy from 2014.
+In terms of ATF contracting situations, the related indicator is reviewed in a number of the above activities, including the validation process, compliance process and procurement coding accuracy reviews. In addition, the accuracy and coding of ATF contracting situations is validated by the Contracting Division in preparation of their management reports, such as the Semi-Annual Contracting Report and quarterly Performance Dashboard. Information is also validated again by the Compliance and Program Review Section (CPRS) as an independent challenge function in their preparation of the annual National Review and Trend Analysis of ATF Contracting Situations and the quarterly ATF Contracting Situations Dashboard.
+The implementation of the above monitoring measures adequately addressed recommendation #15 from the 2014 audit.
+With respect to compliance reviews, there is still a reliance on procurement officers to submit their own files; however, the following compensating controls were implemented to address SOD concerns:
+increased management oversight;
+independent reconciliation between files anticipated and received; and
+enhanced monitoring activities, such as the validation process.
+The implementation of these compensation controls adequately address recommendation #11 from the 2014 audit.
+In addition, the peer/management review is considered the preventative measure to ensure compliance reviews are conducted for files; however, peer reviews are only recommended; not mandatory. As such, recommendation #10 from
+Appendix C
+was only partially addressed.
+The effectiveness and value-added of the compliance review is increased and the risk of disputes and associated financial costs, including legal challenge, is reduced when procurement files are subject to compliance review.
+Recommendation: The AD of the FAB should implement preventative measures to enforce adherence to the Procurement Compliance Review Directive (PCRD) for files requiring mandatory compliance reviews.
+Action Plan
+The AD will develop and implement a new Procurement Approval and Oversight (PAO) tool, which will include flags to identify files that require a mandatory compliance review and prevent the finalization of files until the mandatory compliance review is completed, where applicable. Additionally, the tool will provide management in the Contracting Division as well as the Compliance and Program Review Section (CPRS) with access to view all files that have been flagged for a mandatory compliance review, allowing them to proactively follow-up to ensure those files are submitted.
+Completion date: December 2017
+2.2 Trend analysis
+In the 2014 audit, concerns were raised with the subjectivity of the mandatory compliance reviews and the results from these reviews were not analyzed to identify trends and patterns.
+Given this, the compliance review guidelines were developed and published thereby adequately addressing recommendation #12 from
+Appendix C
+. The results, however, were not analyzed to identify trends and patterns or to support continuous improvement. While the AD did conduct a review of sole source contracts as well as several ad-hoc targeted coding reviews with findings shared within the directorate for corrective action, the reviews were not comprehensive. The directorate also indicated that an improved compliance tool was in development and therefore not subject to this audit. As such, recommendation #14 from
+Appendix C
+has not been implemented.
+Recommendation: The AD of the FAB should support continuous improvement by performing detailed analysis of results from compliance reviews.
+Action Plan
+The Compliance and Program Review Section (CPRS) will conduct trend analysis of file review findings, which will be shared with the Director of the Contracting Division on a periodic basis to allow for continuous process improvement. The new PAO tool will allow for the automated collection of data from the compliance reviews, which will support the trend analysis. Trend analysis will only begin once the tool has been in place for approximately six months (once sufficient data has been captured).
+Completion date: September 2018
+2.3 Follow-up process
+In the 2014 audit, the CPRS mandate and process did not include follow-up on results for review activities.
+The CPRS indicated that the manager and procurement officer are responsible for ensuring that the appropriate action is taken based on compliance report observations. In circumstances where issues are escalated to management, the CPRS will also ensure that the appropriate action is taken.
+A sample of 12 compliance reports with observations were reviewed to ensure the appropriate action was taken and found that action was taken or deemed not required upon further consideration for 95% of the compliance observations.
+Recommendation #13 from
+Appendix C
+was adequately addressed given these results.
+Conclusion
+Of the 15 recommendations from the 2014 audit, 11 have been fully implemented, 3 have been partially addressed and 1 has not been implemented. This has improved internal controls to promote adherence to procurement policy instruments and operational procedures; completeness of supporting documentation; and data accuracy. Further opportunities therefore exist to continue to enhance internal controls by:
+documenting of certain mandatory requirements;
+providing guidance to procurement officers on exceptions to operational procedures;
+improving the accuracy of coding of contracts generating intellectual property;
+enforcing compliance reviews; and
+monitoring trends.
+Acknowledgement
+In closing, we would like to acknowledge, recognize and thank the AD of the FAB for the time dedicated and the information provided during the course of this engagement.
+Appendices
+Appendix A: Glossary of Abbreviations
+This list is derived from the CRA glossary, and provides the long form of standard acronyms and initialisms:
+AD
+Administration Directorate
+ATF
+After-the-fact
+AERB
+Audit, Evaluation, and Risk Branch
+CRA
+Canada Revenue Agency
+CPRS
+Compliance and Program Review Section
+FAB
+Finance and Administration Branch
+IP
+Intellectual property
+PAR
+Procurement Activity Report
+PCRD
+Procurement Compliance Review Directive
+PROC
+Procurement Review and Oversight Committee
+SOD
+Segregation of duties
+SOW
+Statement of work
+Appendix B: 2014 Contract Bidding and Awards Process Audit
+Contract bidding and awards process audit – Final report 2014
+Appendix C: Disposition of Recommendations from the 2014 Audit
+2014 Internal Audit
+Contract Bidding and Awards
+2017 Internal Audit (Follow-up)–
+Contract Bidding and Awards
+Recommendation
+Section
+Reviewed
+Results
+1) FAB should provide training and guidance on a timely basis to all procurement specialists on the bid evaluation aspect of the procurement process.
+3.1.4.1
+Bid evaluation
+Previous recommendation was addressed.
+2) FAB should strengthen review controls of contracting files for compliance to the Contracts Directive. i.e. contracting processes and associated procedures.
+3.1.1.1
+File Documentation
+Previous recommendation was addressed.
+3) FAB should update the Contracts Directive to reflect the documentation requirements for low dollar value IT contracts and to ensure consistency between the internal procedures and the Directive.
+3.1.1.1
+File Documentation
+Previous recommendation was addressed.
+4) As a best practice, FAB should require procurement specialists to fully document their review of client prepared mandatory documents and their consideration of the employer-employee relationship.
+3.1.1.2
+Statement of work review
+Previous recommendation was partially addressed.
+New recommendation issued:
+The AD of the FAB should require procurement officers to document their review of client prepared mandatory documents and their consideration of employer-employee relationships for low risk procurements.
+The AD of the FAB should provide guidance to procurement officers on the applicability and exceptions to sending and obtaining an acknowledgement email.
+5) As a best practice, FAB should develop procedures that enforce the use of Synergy for all contract management processes and review existing controls in place to improve document storage.
+3.1.1.3
+Document Storage
+Previous recommendation was addressed.
+6) FAB should educate procurement specialists in the importance of coding accuracy and completeness and perform regular monitoring on these aspects.
+3.1.4.2 Coding accuracy and completeness
+Previous recommendation was partially addressed. New recommendation issued: The AD of the FAB should implement measures to improve the accuracy of contracts coded as generating intellectual property.
+7) FAB should clarify in the After-the-Fact Contracting Situations Directive the definition of ATFs to improve consistency in identifying and coding.
+3.1.2 After-the-fact Contracting Situations Directive
+Previous recommendation was addressed.
+8) FAB should educate clients and procurement staff on the importance of having valid contracts in place to request and receive goods and services, in addition to the consequences of invalid contracts.
+3.1.4.3 After-the-fact contracting situations
+Previous recommendation was addressed.
+9) FAB should review and update the mandatory criteria in the Procurement Compliance Review Directive for appropriateness and relevancy.
+3.1.3 Procurement Compliance Review Directive
+Previous recommendation was addressed.
+10) FAB should clarify and enforce adherence to the files requiring mandatory review in accordance with the Procurement Compliance Review Directive.
+3.2.1 Accuracy and reliability of procurement data and segregation of duties
+Previous recommendation was partially addressed. New recommendation issued: The AD of the FAB should implement preventative measures to enforce adherence to the Procurement Compliance Review Directive (PCRD) for files requiring mandatory compliance reviews.
+11) FAB should implement controls to respect the principle of segregation of duties.
+3.2.1 Accuracy and reliability of procurement data and segregation of duties
+Previous recommendation was addressed.
+12) FAB should develop comprehensive guidelines to strengthen the review process for consistency and to capture relevant and reliable information that is timely and useful to identify trends and patterns.
+3.2.2 Trend analysis
+Previous recommendation was addressed.
+13) As a best practice, FAB should include a follow-up process to improve the value-added, particularly with respect to recommendations.
+3.2.3 Follow-up process
+Previous recommendation was addressed.
+14) FAB should support continuous process improvement by performing detailed trend analysis of results from mandatory file reviews.
+3.2.2 Trend analysis
+Previous recommendation was not addressed. New recommendation issued: The AD of the FAB should support continuous improvement by performing detailed analysis of results from compliance reviews.
+15) FAB should monitor key elements of procurement transactions for accuracy and reliability of information captured for reporting purposes.
+3.2.1 Accuracy and reliability of procurement data and segregation of duties
+Previous recommendation was addressed.
+Footnote 1
+Procurement authority for construction requirements, with the exception of emergency contracts, has not been delegated by the Commissioner to any positions within the CRA.
+Return to footnote
+1
+Referrer
+Footnote 2
+Functional  Authority - organizations that are mandated to provide the framework, determine, develop, implement, and monitor the policies, procedures, guidelines, standards, and practices of a particular field, activity, or function. For example, the Administration Directorate is the functional authority for all aspects of the management of materiel in the CRA. Source: CRA Master Glossary
+Return to footnote
+2
+Referrer
+Footnote 3
+An employer-employee relationships is a relationship that exists when persons (employees), for pay or other consideration, enter into the service of others (employers) and devote their personal labour for any given period. The employer has order and control of the work done by the employee, i.e. the employer both prescribes the end product and directs and controls the work.
+Return to footnote
+3
+Referrer
+Footnote 4
+An after-the-fact (ATF) contracting situation occurs when an individual requests a supplier to deliver goods or to provide services in the absence of a legally binding contractual document.
+Return to footnote
+4
+Referrer
+Footnote 5
+The pre-solicitation stage occurs prior to obtaining approval to post a solicitation.
+Return to footnote
+5
+Referrer
+Footnote 6
+The pre-award stage occurs after bid evaluation or negotiations but prior to contract award.
+Return to footnote
+6
+Referrer
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2017-10-20

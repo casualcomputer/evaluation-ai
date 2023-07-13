@@ -1,0 +1,190 @@
+Memorandum of Understanding on Tax Information Exchange with Revenu Québec
+Corporate Audit and Evaluation Branch
+February 2006
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+Authorized Persons
+Information Exchanged
+Confidentiality and Security
+Monitoring and Follow-Up
+Storage, Return or Destruction
+Update of the Memorandum of Understanding
+Conclusion
+Executive summary
+Background:
+The Canada Revenue Agency (CRA) has over 300 memoranda of understanding (MOUs) and agreements with federal, provincial and territorial departments and organizations. These MOUs are under the control of the Federal Provincial Relations and Policy Division (FPRPD) in the Policy and Planning Branch (PPB)[
+Footnote 1
+]; the division acts as office of primary interest, centre of expertise and functional authority for these agreements. The subject of this audit is an MOU governing the Exchange of Tax Information signed August 24, 1988 by the Minister of National Revenue and the Ministre du Revenu du Québec. Since a fair amount of the information is exchanged by the Quebec Regional Office and its local offices, the Tax Programs Director (TPD) in the Quebec Region along with the Policy and Planning Branch (PPB) shares responsibility for implementing the activities described in the agreement. The TPD also coordinates inquiries from other CRA regions that must be forwarded to Revenu Québec (RQ).
+A significant volume of information is exchanged under the terms of this MOU, and the information is a significant tool for reaching objectives in various programs within the two organizations. The MOU covers the exchange of information from a range of operational sectors in CRA and involves the distribution of more than 65 types of information to RQ and the receipt of 31 types of information from RQ, at variable frequencies. It should be noted that a single type of information could encompass thousands of individual exchanges. These exchanges are carried out by the Quebec Region offices and by a number of CRA branches in Headquarters.
+Disclosure of confidential information is permitted if it meets the requirements of subsection 241(4) of the
+Income Tax Act
+(ITA) of Canada. As per subsection 241(4), under specific conditions, confidential information can be provided to an official of the government of a province. Consistent with subsection 241(4) this MOU introduces additional requirements; in essence the MOU is an administrative agreement whose purpose is to better define the framework that guides the exchange of information between CRA and RQ.
+Over the past few years, RQ conducted an internal audit of this MOU within its operations, and subsequently asked CRA to carry out a similar audit. This audit is also part of a group of audits designed to ensure compliance with the terms and conditions governing the exchange of information between CRA and other organizations.
+Objective:
+The objective of the audit was to provide assurance to senior management that CRA is observing the general conditions governing the receipt, use, storage and return or destruction of information received from RQ and the sending of information to the latter in accordance with the MOU. The audit took place in the Quebec Region and at Headquarters. The review phase took place from November 2004 to June 2005.
+It is also important to specify that this audit does not address other MOUs, agreements, letters of intent or other arrangements made with the government of Quebec, which are subject to separate written collaborative agreements.
+Conclusion:
+CRA has implemented measures to protect the confidentiality of client information for which it is responsible, regardless of its provenance. It must, however, tighten management of this specific MOU so that exchanges meet the requirements of the agreement as well as general security standards. The audit has demonstrated that managers, users and authorized persons were not sufficiently knowledgeable about the MOU, their roles and responsibilities and related compliance requirements. Consequently, although authorized under subsection 241(4) of the ITA, there were frequent exchanges between persons not authorized under the terms of this MOU. Moreover, there were cases where the information exchanged and the frequency of distribution were not consistent with the terms of the MOU.
+Shortcomings were also observed in the modes of transmitting information electronically and the protection applied. However, it is important to note that none of those interviewed had any knowledge of any security incident related to information exchanged with RQ, such as unauthorized access, a routing error or a loss of information. Local, regional and national security representatives corroborated this absence of incidents and the internal audit recommendations are intended to reduce the risk of any potential incident.
+The PPB, the Quebec Regional Office, and local offices had not implemented measures to monitor and follow-up on the usage of received information as well as disclosure and to manage accountability.
+Interviews allowed Internal Audit to conclude that the storage and destruction of documents received from RQ met CRA standards and MOU requirements, and the documents were processed in the same way as information received from clients.
+Finally, revisions to improve the MOU and its annexes are recommended. Although the annexes have been updated to some extent over the years, the MOU itself has not been re-engineered since 1993. The availability, identification and classification of reference documents should also be improved.
+Action Plans:
+FPRPD and the TPD have submitted action plans in response to the recommendations made. These include continuing the implementation of awareness sessions adapted to the needs of liaison officers and informing employees of the obligation to communicate with RQ exclusively through authorized persons. Transmission modes that can be used within the framework of this MOU will be reviewed and communicated to employees.
+A draft business plan is currently being developed that addresses monitoring, follow-up measures and accountability, the plan will be tabled in March 2007. In addition, a national policy including the establishment of registers is being developed and will be completed by December 2007. A complete review of the MOU will have to be completed by FPRPD and the TPD, in cooperation with RQ. Corrections have already been made with respect to the availability, identification and classification of reference documents.
+Introduction
+The Canada Revenue Agency (CRA) has over 300 memoranda of understanding (MOUs) and agreements with federal, provincial and territorial departments and organizations. These MOUs are under the control of the Federal Provincial Relations and Policy Division (FPRPD) in the Policy and Planning Branch (PPB)[
+Footnote 2
+]; the division acts as office of primary interest, centre of expertise and functional authority for these agreements. The subject of this audit is an MOU governing the Exchange of Tax Information signed August 24, 1988 by the Minister of National Revenue and the Ministre du Revenu du Québec. Since a fair amount of the information is exchanged by the Quebec Regional Office and its local offices, the Tax Programs Director (TPD) in the Quebec Region along with the Policy and Planning Branch (PPB) shares responsibility for implementing the activities described in the agreement. The TPD also coordinates inquiries from other CRA regions that must be forwarded to Revenu Québec (RQ).
+A significant volume of information is exchanged under the terms of this MOU, and the information is a significant tool for reaching objectives in various programs within the two organizations. The MOU covers the exchange of information from a range of operational sectors in CRA and involves the distribution of more than 65 types of information to RQ and the receipt of 31 types of information from RQ, at variable frequencies. It should be noted that a single type of information could encompass thousands of individual exchanges. These exchanges are carried out by the Quebec Region offices and by a number of CRA branches in Headquarters.
+Disclosure of confidential information is permitted if it meets the requirements of subsection 241(4) of the
+Income Tax Act
+(ITA) of Canada. As per subsection 241(4), under specific conditions, confidential information can be provided to an official of the government of a province. Consistent with subsection 241(4) this MOU introduces additional requirements; in essence the MOU is an administrative agreement whose purpose is to better define the framework that guides the exchange of information between CRA and RQ.
+Over the past few years, RQ conducted an internal audit of this MOU within its operations, and subsequently asked CRA to carry out a similar audit. This audit is also part of a group of audits designed to ensure compliance with the terms and conditions governing the exchange of information between CRA and other organizations.
+Focus of the audit
+The objective of the audit was to provide assurance to senior management that CRA is observing the general conditions governing the receipt, use, storage and return or destruction of information received from RQ and the sending of information to the latter in accordance with the MOU. The audit took place in the Quebec Region and at HQ. It involved some stakeholders, from the Quebec Regional Office, a range of local offices and branches. The review phase took place from November 2004 to June 2005.
+It is also important to specify that this audit does not address other MOUs, agreements, letters of intent or other arrangements made with the government of Quebec, which are subject to separate written collaborative agreements.
+Findings, recommendations and action plans
+Authorized Persons
+To ensure compliance with the confidentiality and administrative terms of the MOU and to limit the number of persons involved in the exchange of information, enquiries may only be made through public servants listed in annexes "C" and "D" of the MOU or persons designated by them. For CRA, these persons are on the
+List of designated employees at CRA authorized to exchange information with Revenu Québec
+and for Revenu Québec, on the
+List of designated employees at the Ministère du Revenu du Québec authorized to exchange information with CRA
+.
+These lists were available and updated monthly on the Quebec Region Intranet site. On the other hand, no employees of PPB or from several Headquarters directorates were on the CRA list of authorized persons. Moreover, these lists were not available on the PPB Intranet site that is the primary reference location for CRA employees.
+In all the offices consulted, audit tests and interviews enabled us to conclude that people who were not on the lists of authorized or designated persons were carrying out frequent exchanges of information. In addition, some large areas had only one authorized person with no backup listed. Furthermore, daily exchanges of information were taking place, in a given sector, between CRA-authorized individuals who were not ensuring that the people with whom they were communicating were designated RQ employees.
+Since 2002, two hour general information sessions covering a range of written collaborative agreements and MOUs have been provided to over 500 employees including authorized persons and managers of the Quebec Region. Despite these sessions, interviews demonstrated that employees were not sufficiently knowledgeable about their roles and responsibilities with respect to this MOU. In particular, some were not aware of the existence of this MOU and its related requirements.
+No formal training existed for this MOU nor was it offered to persons authorized under the MOU; as a result the audit found they did not have sufficient knowledge of documents that they could or could not exchange. A number of employees obtain authorized person status by virtue of the position they hold (e.g. technical advisor position) and no coaching on the MOU is provided when they assume these positions.
+The authors of a national directive issued in January 2005 were unaware of the existence of the MOU and its requirements. The directive asked that explanations of changes to reassessments (T7WC) for
+Corporate Income Tax Returns
+be sent to persons not listed on the designated persons' list, at a frequency inconsistent with the MOU.
+Recommendations
+PPB, in conjunction with the TPD, should:
+revise the list of authorized CRA persons and the list of designated RQ persons to reflect the people who should currently exchange information, and make the lists available on the PPB Intranet site. They should also ensure that there is at least one alternate person in sectors where there is a single authorized person;
+take the steps necessary to limit the exchange of information to persons on the CRA and RQ lists or their own intermediaries;
+inform appropriate employees of the existence of the MOU, of the structure in place and of the requirement to comply with it; and
+train authorized persons to exchange information appropriately.
+PPB should also ensure that the procedure issued by another Headquarters directorate meet the requirements of the MOU.
+Action Plans
+The list of liaison officers will be updated and kept updated. It will be made available on the Quebec Region and FPRPD Intranet site. Those responsible: Tax Programs Director and FPRPD Director. Deadline: December 31, 2005.
+The Regional Taxation Committee (RTC), composed of all the directors of every local office and taxation centre in the Quebec Region, will be briefed on legal and administrative requirements relative to the communication of information. The directors will, in particular, inform employees that communications must take place exclusively through liaison officers and that they are obligated to approach another officer if there are none available in their sector. Alternates will not necessarily be appointed, to limit the number of people exchanging information. Person responsible: Tax Programs Director. Deadline: December 31, 2005.
+The Regional Federal Provincial Relations Coordinator has given a number of awareness sessions for liaison officers involving the MOU and information that may be exchanged. In cooperation with FPRPD, the Region will update these awareness sessions and continue offering them. Those responsible: Tax Programs Director and FPRPD Director. Deadline: June 30, 2006.
+FPRPD will contact the authors of the national directive issued in January 2005 concerning the sending out of T7WCs to discuss the situation with a view to modifying either the directive or the MOU to make them compatible.
+Person responsible: FPRPD Director. Deadline: October 31, 2005.
+Information Exchanged
+Disclosure of confidential information is permitted only if it meets the requirements of subsection 241(4) of the
+Income Tax Act.
+That subsection defines what information may be communicated, to whom and for what purposes. In addition, all information authorized to be disclosed under the terms of the MOU and the frequency of information transmissions are described in Annex "A" as regards to CRA and Annex "B" as regards to RQ. Inquiries that fall outside the scope of these annexes must be assessed in accordance with section 4 of the MOU and be added if so agreed, unless the request is accepted as a one-time request.
+It is important to note that during the audit, the TPD promptly rectified a situation as soon as it was brought to their attention. The regional Intranet site had provided access to an outdated version of Annex "A" of the MOU, "
+Liste des renseignements dont la divulgation à RQ est autorisée
+"
+,
+instead of using a hyperlink accessing the PPB Intranet site.
+The audit identified cases where information exchanged between CRA and RQ was not on the list of authorized information in Annexes "A" and "B" of the MOU. These cases were observed during file reviews and were noted during interviews with a range of stakeholders. For example, source documents were sent to various RQ offices, instead of the form prescribed in the MOU (T7WC), and in one sector, more information than required was provided to RQ.
+In addition, some information was being sent out at a frequency that was inconsistent with the MOU. For example, CRA audit reports were sent to RQ automatically instead of "upon request" as stipulated in the MOU, and this happened in all of the sectors audited in this Quebec Region division. Also, another area transmitted employer audit results to RQ every two months instead of every month. Overall, deviations from the approach prescribed by the MOU were noted on an irregular basis in a number of areas.
+The Quebec Region has established a procedure for the processing of forms received from RQ explaining changes to provincial reassessments (ADM72s). But according to information gathered in interviews, this procedure was not being consistently followed in offices in the Quebec Region. In some cases, it was bypassed with respect to authorized/designated representatives, the nature of the information exchanged and the frequency of transmission.
+Recommendations
+PPB and the TPD should jointly ensure that CRA is complying with the MOU by exchanging only information listed in Annexes "A" and "B" of the MOU, at the agreed frequency. Otherwise, PPB and the TPD should request that the MOU be modified.
+PPB and the TPD should jointly end the practice of exchanging unauthorized information, and as necessary should negotiate an MOU with the organizations concerned when information from another jurisdiction is required.
+The TPD should also ensure observance and standardized application of the regional procedure involved in processing forms received from RQ explaining changes made to their reassessments.
+Action Plans
+The Tax Programs Director will submit the internal audit findings to the RTC, particularly as regards to information that may be communicated and the MOU-allowed frequency. If there are grounds for modifying the MOU, the appropriate modification requests will be submitted to FPRPD, which shall assume responsibility for follow-up. Those responsible: Tax Programs Director and FPRPD Director.
+Deadline: December 31, 2005.
+It should be noted that direct access to another separate organization's database is currently being negotiated.
+The regional procedure concerning the processing of ADM72s will be reviewed. As necessary, the procedure will be modified and, if required, a request for modification of the MOU will be submitted to FPRPD. Person responsible: Tax Programs Director. Deadline: December 31, 2005.
+Confidentiality and Security
+Senior management in the offices audited were aware of the confidentiality and the security of protected information, regardless of its provenance, and they were ensuring that their employees were briefed concerning these requirements. All employees receive annual notices about the issue and are reminded of their commitments to the Code of Ethics and Conduct. There have been numerous awareness initiatives in the Quebec Region, including the Assistant Commissioner's annual reminder, the 2002 regional “Stop and Think” campaign on the protection of client information and the workplace ethics campaign that began in the 2004 - 2005 fiscal year.
+It is also important to mention that none of those interviewed had any knowledge of any security incident related to information exchanged with RQ, such as unauthorized access, a routing error or a loss of information. Local, regional and Security Directorate representatives corroborated this. Access to premises and work sectors was duly protected as required by the MOU.
+However, the audit revealed shortcomings in the modes used for electronic transmission and the protection applied. Significant quantities of information, including micro data, were being transmitted to RQ by e-mail or on electronic media (compact disks - CDs - or magnetic tapes) without being adequately encrypted or protected. Non-secure fax machines were used to exchange protected information. In addition, various stakeholders had been informed of the existence of a high-speed e-mail link between the two organizations, but this link was not appropriate for the type of information usually exchanged under this MOU. This situation was brought to PPB's attention in January 2005. In other cases, when mailing information between the two organizations some RQ and CRA offices preferred to avail themselves of enhanced levels of security.
+An audit of the personnel files of 29 employees in operational sectors who had access to information from RQ demonstrated that these employees had all signed the affirmation of confidentiality required by the MOU and were in possession of security authorizations in due form.
+Annex "E" of the MOU, which dictates standards ensuring the protection of information exchanged was not accessible through the PPB intranet site, which is the sole source of reference on the MOU. This annex requires that the transmission of protected information be safeguarded by stringent security standards equal to or greater than those applicable to the preservation and use of this information. CRA standards in this regard are described in the
+Finance and Administration Manual, Security Volume
+.
+The lists of information whose disclosure is authorized under the terms of MOU annexes "A" and "B" did not have any marking that identified them as "protected" information. Since these lists include materiality thresholds, markings indicating protection level should be affixed to them to make those who consult them aware of the required degree of protection. These markings would also help make it possible to ensure the confidentiality, integrity and availability of the information contained in the annexes.
+A copy of the original MOU and texts of commitments signed by CRA with respect to this MOU were being kept in the PPB sector and an electronic version was available on their Intranet site. According to information obtained, the original of the MOU and its support documents were being kept in the document
+Registry
+at Headquarters.
+Recommendations
+PPB and the TPD should jointly:
+ensure that transmission and electronic protection methods comply with CRA security standards; and
+advise all stakeholders involved in the MOU with RQ whether e-mail can be used in the exchange of information with RQ and under which conditions.
+PPB should:
+make Annex "E" available on its Intranet site; and
+identify the MOU annexes with markings indicating whether protected information is involved, necessitating an appropriate protection level.
+Action Plans
+FPRPD will contact the Statistics and Information Management Directorate to advise of the transmitting modes that can be used for the communication of information under the terms of the MOU and of related security measures. Person responsible: FPRPD Director. Deadline: September 30, 2005.
+E-mail transmission is not covered in the MOU. A notice will be issued to liaison officers to advise them not to use e-mail or fax when exchanging protected information with RQ. Person responsible: Tax Programs Director. Deadline: October 15, 2005.
+The information transmission mode and related security measures will be among the topics addressed in training sessions for liaison officers, and will be reflected in awareness initiatives and communications with RTC. Those responsible: FPRPD Director and Tax Programs Director. Deadline: June 30, 2006.
+The MOU is available on the FPRPD Intranet site. A "Protected B" designation and Annex "E" dealing with security will be added to it. Person responsible: FPRPD Director. Deadline: October 31, 2005.
+Applying the "Protected" designation is one of the items covered in MOUs revisions related to the communication of information, in the development of a national policy that is now underway at FPRPD.
+Monitoring and Follow-Up
+According to the MOU, a system must be maintained to record the usage of exchanged information and ensure requests to access and use protected information are monitored. According to the
+Policy on the Management of Protected Client Information
+under FPRPD responsibility, PPB must keep a departmental register of the type and frequency of protected client information communicated to other organizations. Regional operations must manage the disclosure of such information by local offices to ensure that appropriate checks and controls are in place.
+Aside from data on information exchanges at the headquarters level recorded on the
+Central off-site data distribution control log form
+and the
+Release of client information form,
+PPB had not been gathering any data on information exchanged by the Quebec Regional Office and local offices. Neither PPB, the Regional Office, nor the local offices had established structured monitoring and follow-up measures to ensure that information exchanges complied with policies, procedures and MOU requirements. Moreover, no records of use were being maintained to ensure monitoring of access requests in terms of employees' need to know and the use of protected information.
+Documents retained in support of information exchanges were either difficult to trace, fragmentary, inconsistent or non-existent. PPB had not prescribed any standard to preserve an audit trail for these exchanges. However, since February 2004 a single area at one office had been accumulating data on information exchanged, such as the name of the requestor, information exchanged, date of request, date information received and information user.
+To meet the requirements of the
+Policy on the Management of Protected Client Information,
+regional operations ought to report to PPB regularly on the type and the frequency of protected client information disclosure to other organizations. However, no report was requested by PPB from local offices or produced by regional operations in Quebec.
+Recommendations
+PPB should establish measures to ensure monitoring of requests for access to and use of protected information obtained under this MOU, at the Headquarters and regional operations levels.
+The TPD should report regularly to FPRPD concerning the type and frequency of client information disclosures to RQ, in accordance with the Policy on Management of Protected Client Information.
+Action Plans
+A draft business plan is currently being developed and will be tabled for acceptance in March 2007. A national policy is being developed for the establishment of structured monitoring and follow-up measures with respect to information communicated by Tax Services Offices, Taxation Centres and HQ, particularly the establishment of registers in cooperation with the regional stakeholders concerned. Person responsible: FPRPD Director. Deadline: December 31, 2007.
+Storage, Return or Destruction
+Given the lack of monitoring and follow-up related to the exchange of information with RQ noted above, the audit could not provide assurance that information coming specifically from RQ is being stored, returned or destroyed when required, in compliance with the MOU. The information is, however, processed in the same way as information received from taxpayers, regardless of its provenance. In fact, interviews with personnel, visual observations and compliance testing lead to the conclusion that the standards of the
+Finance and Administration Manual, Security Volume
+and the requirements of the MOU are being observed concerning the storage and destruction of information.
+In addition, according to those interviewed, none of the information received from RQ was returned to it after processing. The information was attached to the client's file for storage after being used, or destroyed when it was no longer required, in accordance with requirements and procedures approved by the Security Directorate.
+Update of the Memorandum of Understanding
+According to the
+Life Cycle Management of Memoranda of Understanding and Agreements
+document, it is important that written collaborative agreements be reviewed periodically, for example a review is recommended every five years. This provides assurance that information communicated under the agreement is still necessary, and that outdated agreements are adjusted or eliminated.
+In this regard, the process involved in reviewing the MOU and its annexes must be improved. The MOU has not been reviewed since 1993. According to PPB, given the priorities and resources available, no schedule could be given for re-engineering the MOU. Annexes "A" and "B" on the PPB Intranet reflect multiple incremental additions and/or modifications with annotations and deletions over the years. However, updates in Annexes "A" and "B" were not dated to indicate to the reader whether the annexes had been modified since the last consultation. Moreover, stakeholders were not aware of any formal process for submitting requests to modify the MOU.
+Four statements of information were on the "
+Liste des renseignements dont la divulgation à RQ est autorisée
+" (Annex "A") in the MOU with the designation "unofficial addition" or "CCRA agreement to come". Three of the statements were dated 1996. Over the course of the audit, these unapproved elements were removed. Since these annexes are the only reference document for CRA people authorized to exchange information with RQ, these designations could have lead to confusion as to the authority to exchange the information.
+Recommendations
+PPB should:
+update the MOU and its annexes after soliciting comments from a range of stakeholders, and indicate the date when the annexes are reviewed; and
+establish an MOU review timetable to ensure periodic reviews at regular intervals in the future.
+Action Plans
+FPRPD is currently reviewing the MOU in cooperation with the Tax Programs Director and RQ. As a result of discussions with RQ, we anticipate that this review will be completed in December 2006. Person responsible: FPRPD Director.
+Deadline: December 31, 2006.
+The MOU is available on the FPRPD Intranet site. The date when Annexes "A" and "B" are updated will be added. The existence and sound operation of a hyperlink on the Region site will be checked. Person responsible: FPRPD Director.
+Deadline: October 31, 2005.
+Questions relative to regular and periodic reviews to ensure that information provided within the framework of the agreement is still necessary and to whether outdated agreements are being terminated will be dealt with in developing the national policy. Person responsible: FPRPD Director. Deadline: December 31, 2007.
+Conclusion
+CRA has implemented measures to protect the confidentiality of client information for which it is responsible, regardless of its provenance. It must, however, tighten management of this specific MOU so that exchanges meet the requirements of the agreement as well as general security standards. The audit has demonstrated that managers, users and authorized persons were not sufficiently knowledgeable about the MOU, their roles and responsibilities and related compliance requirements. Consequently, although authorized under subsection 241(4) of the ITA, there were frequent exchanges between persons not authorized under the terms of this MOU. Moreover, there were cases where the information exchanged and the frequency of distribution were not consistent with the terms of the MOU.
+Shortcomings were also observed in the modes of transmitting information electronically and the protection applied. However, it is important to note that none of those interviewed had any knowledge of any security incident related to information exchanged with RQ, such as unauthorized access, a routing error or a loss of information. Local, regional and national security representatives corroborated this absence of incidents and the internal audit recommendations are intended to reduce the risk of any potential incident.
+The PPB, the Quebec Regional Office, and local offices had not implemented measures to monitor and follow-up on the usage of received information as well as disclosure and to manage accountability.
+Interviews allowed Internal Audit to conclude that the storage and destruction of documents received from RQ met CRA standards and MOU requirements, and the documents were processed in the same way as information received from clients.
+Finally, revisions to improve the MOU and its annexes are recommended. Although the annexes have been updated to some extent over the years, the MOU itself has not been re-engineered since 1993. The availability, identification and classification of reference documents should also be improved.
+FPRPD and the Tax Programs Director have submitted action plans in response to the recommendations made.
+Footnotes
+[Footnote 1]
+Further to a CRA realignment effective January 24th, 2006 these responsibilities now rest with the Corporate Strategies and Business Development Branch; the audit report retains the terminology appropriate to the time of the audit and the recommendations apply to the successor organizational units.
+[Footnote 2]
+Further to a CRA realignment effective January 24th, 2006 these responsibilities now rest with the Corporate Strategies and Business Development Branch; the audit report retains the terminology appropriate to the time of the audit and the recommendations apply to the successor organizational units.
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2006-04-20

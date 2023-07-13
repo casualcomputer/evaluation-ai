@@ -1,0 +1,298 @@
+GST/HST Registration Compliance Evaluation Study Non-Registration
+Corporate Audit and Evaluation Branch
+Program Evaluation Division
+July 2008
+Table of contents
+Executive Summary
+Introduction
+Background
+Program Description
+Objective and Scope of the Evaluation
+Limitations and Constraints
+Findings
+Program Delivery
+Post Registration Compliance
+Compliance Strategy
+Conclusion
+Recommendations
+Appendix A
+Executive Summary
+This report presents the findings of one of the two substantive issues identified in the Goods and Services Tax / Harmonized Sales Tax (GST/HST) Registration Compliance Evaluation Framework approved by the Internal Audit and Program Evaluation Committee in July 2006.  The purpose of this evaluation study report is to provide senior management with information to support decisions on any changes that may be required to improve program delivery and enhance the Agency's effectiveness in ensuring compliance with the requirement to register for the GST/HST.
+The detection and subsequent registration of non-registrants (NR) is carried out under the auspices of the Non-Filer/Non-Registrant (NF/NR) Programs Division within the Debt Management Compliance Directorate located within the Taxpayer Services and Debt Management Branch (TSDMB).
+The Non‑Filer/Non‑Registrant (NF/NR) sections of the Tax Services Offices (TSOs) are responsible for a blended workload related to obtaining income tax returns on the part of delinquent T1, T2 and T3 filers and securing the registration of businesses that ought to be registered for the GST/HST.
+The 2006-2007 resource allocation for the NF/NR program which includes T1, T2 and GST/HST workloads consisted of approximately $31 million in salaries for 674 full time equivalents (FTEs) and $2.1 million in operating and maintenance costs.  The resource allocation for the GST/HST non-registrant workload of the NF/NR program for this period consisted of 33 FTEs representing $1.6 million in salaries with a workload target of 5,595 registrations with actual production of 7,406 and a projected fiscal impact of $80 million (includes estimated GST/HST for current and previous fiscal years).
+Information on program results reveals that the NF/NR program is achieving production targets in identifying and registering GST/HST non-registrants.  Approximately 50% of production results are being achieved as a result of the Registration Identification Project operating out of the Summerside Tax Centre using innovative data analysis and other tools in a cost efficient manner.
+We found that while registration targets are being met they are not linked to risk factors.  Resources are allocated on an “across the board” basis, with each region and TSO receiving relatively stable proportionate shares, despite potential differences in compliance and risk levels.  Risk assessment does not appear to form part of the planning and resource allocation process.
+PROTECTED
+Overall GST/HST registration enforcement does not currently have a comprehensive compliance approach to achieve and report on program outcomes.  The evaluation recommends that the Agency move to a more risk-based, intelligence led process in identifying and dealing with GST/HST non-registration.  It is recognized that with a resource allocation of 33 FTEs devoted to the GST/HST workload, the NF/NR program will face the challenge of continuing to meet NR compliance targets while at the same time developing a better understanding of the NR population. However, we believe that some investment in research to support a more risk-based approach will be beneficial in the longer term.
+1. Introduction
+1.1
+In May 2006 the Program Evaluation Division presented an evaluation strategy to the Internal Audit and Program Evaluation Committee (IAPEC) that proposed a series of studies that would provide senior management with objective and substantive data on the Agency's effectiveness in addressing its compliance priorities and in maximizing compliance with Goods and Service Tax / Harmonized Sales Tax (GST/HST) legislation.
+1.2
+The key programs and compliance issues identified for evaluation, and the order in which they would be undertaken, were as follows.
+Program
+Compliance Issues
+Registration
+Filing and Remitting
+Audit/Verification
+Non-registration, non-resident registration & fraudulent registration
+Delinquent filing and remitting
+Non-compliance within the Small and Medium Enterprise (SME) population
+1.3
+Compliance issues identified under each program are linked to three of the Agency's four compliance priorities – GST/HST fraud, underground economy, and filing and collections.  These studies are intended to provide information on program success in achieving objectives and to identify alternatives to program delivery.  The results of the studies will facilitate informed discussion on program delivery changes needed to improve the GST/HST compliance administration.  They will also help management assess agency progress in addressing three of four of the Agency's compliance priorities.
+1.4
+Although the Agency's compliance approach involves a mix of facilitated voluntary compliance and enforced compliance, the three studies will focus mainly on GST/HST enforced compliance.
+1.5
+In July 2006, the framework for the first of the three studies, the GST/HST Registration Compliance Evaluation, was formally approved by the IAPEC.  The framework, among other things, identified the following four issues for the evaluation.
+What changes, if any, are required to improve the Agency's effectiveness at detecting and preventing registration fraud?
+Are alternatives or modifications to current program delivery necessary to improve the Agency's effectiveness in ensuring that businesses register for the GST/HST?
+Are the risks associated with non-resident registration process being adequately addressed?
+What enhancements, if any, are required to the Agency's registration compliance strategy to address both current requirements and the Agency's 2010 vision?
+1.6
+This evaluation study report was to be a singular product, reporting on both issues 1 and 2 supported by the findings related to issue 4.  However, considering that the two main issues were clearly distinct and unrelated, and in the interest of clarity and brevity, it was decided that two separate reports would be prepared and presented.  Therefore, this document will provide the findings, recommendations and conclusions of issue 2 and issue 4 – issue 3 was not pursued as part of this study.
+Background
+1.7
+The Goods and Services Tax (GST) was implemented effective January 1, 1991 to replace the Federal Sales Tax (FST), a hidden manufacturers tax that dated back to 1924. It was introduced as a 7% (reduced to 5% effective January 1, 2008) multi-stage value-added tax collected by businesses registered or required to be registered with the CRA.  Subsequent to its inception, the GST was harmonized with the sales tax in three provinces (Nova Scotia, New Brunswick, and Newfoundland and Labrador) and is often referred to as the GST/HST.  Pursuant to an agreement with the province of Quebec, the Ministère du Revenu du Québec (MRQ) administers the GST in Quebec on behalf of the federal government. The tax applies, with some exceptions, to all sales transactions between businesses, and between businesses and consumers.  Registrants can apply the tax that they paid in the manufacture of goods or provision of services against the gross tax collected as an input tax credit (ITC).  Where the tax paid exceeds the tax collected, businesses are eligible for refunds in the value of the net difference.
+1.8
+The Excise Tax Act requires that persons doing business in Canada with worldwide sales in excess of $30,000 per year register with the Agency for a GST/HST business number.  Businesses are able to register via a wide range of media that include mail, fax, telephone, walk-in, and the Internet.
+1.9
+During the 2005-2006 fiscal year, there were approximately 3.1 million GST/HST registrants, 2.6 million of which filed 9 million returns and collected $178 billion in GST/HST, claimed $162 billion in input tax credits including $35 billion in refunds, and paid $16 billion in net GST/HST.  (Note that approximately $18 billion was collected by Canada Border Services Agency for a net $34 billion in federal GST/HST revenues).
+1.10
+The registration process consists of promoting and advertising the requirements to register, processing and assessing applications for registration, verifying applications for registration to ensure they represent legitimate businesses, and seeking out businesses that ought to be registered (see the Registration Program Logic Model at Appendix A).
+1.11
+The introduction of the GST was met with resistance by business and consumers alike.  Some businesses attempted to evade tax obligations by staying out of the reach of the CRA by not voluntarily registering.  In its efforts to combat the underground economy and to ensure compliance with the GST/HST program, a significant and on-going challenge for the Agency is ensuring that those who should register for the GST/HST actually do so.
+1.12
+Businesses who fail to meet their registration obligation remain outside the program – evading their responsibilities and achieving a competitive advantage.  International studies have suggested that failure to adequately address non-registration may drive honest business owners into the underground economy in order to remain competitive.
+Program Description
+1.13
+The detection and subsequent registration of non-registrants (NR) is carried out under the auspices of the Non-Filer/Non-Registrant (NF/NR) Programs Division within the Debt Management Compliance Directorate located within the Taxpayer Services and Debt Management Branch (TSDMB).  The mandate of the TSDMB is to deliver and implement innovative technology-based solutions and strategies for debt management workload distribution at a national level to improve voluntary compliance and maximize tax debt collections.  Workloads are to be allocated and distributed according to:
+Best-possible outcome strategies;
+Risk profiles;
+Services being sought;
+Types of taxpayer or benefit recipient;
+Complexity levels; and,
+Previous compliance history.
+1.14
+The mandate of the NF/NR Programs Division is “to develop and apply strategies to identify and resolve non-compliance related to filing of income tax and information returns and registering for the GST/HST”.  The NF/NR program is delivered nationally through the TSOs across the country.
+1.15
+The NF/NR units of the TSOs are responsible for a blended workload related to obtaining income tax returns on the part of non or late T1 and T2 filers and securing the registration of businesses that ought to be registered for the GST/HST.  In addition to securing the registration of GST/HST accounts NF/NR officers are instructed to make every effort to obtain any overdue returns and seek payment of outstanding GST/HST owing.  Non-registrants are identified using various approaches including data matching against internal and external data systems, projects directed at high-risk businesses as well as random community visits.
+1.16
+In support of the NF/NR workload a Registration Identification Program (RIP) operates out of the Summerside Tax Centre.  The purpose of the RIP is to detect, through data matching, businesses that are not registered for GST.  RIP staff register accounts that can be easily registered over the phone and refer accounts requiring a greater degree of scrutiny to the NF/NR units in the respective TSOs.  The NF/NR units also receive lead referrals from audit and other divisions within the TSOs.
+1.17
+The 2006-2007 resource allocation for the NF/NR program which includes T1, T2 and GST/HST workloads consisted of approximately $31 million in salaries for 674 full time equivalents (FTEs) and $2.1 million in operating and maintenance costs.  The resource allocation for the non-registrant workload for this period consisted of 33 FTEs representing $1.6 million in salaries with a workload target of 5,595 registrations with actual production of 7,406 and a projected fiscal impact of $80 million (includes estimated GST/HST for current and previous fiscal years).  It should be noted that the NF/NR program estimates fiscal impact based on projected revenues not collected revenues.
+Objective and Scope of the Evaluation
+1.18
+The objective of this evaluation is to assist management in making informed decisions on what changes may be required to the non-registrant program and peripherally, to other Agency programs to enhance compliance administration in this area.  It will do this by providing an assessment of the effectiveness of the current approach to program delivery and by making recommendations to improve the existing program in terms of the current delivery environment and the experiences of other tax administrations.
+1.19
+Multiple lines of evidence were used to assess the effectiveness of the NR program and  identify alternatives or modifications to current program delivery.  The following methods were used:
+An extensive document review of legislation, policies, files and records was conducted to confirm: roles; responsibilities, and accountabilities within CRA for the GST/HST registration program; interrelationships, goals and objectives; program structure and resources; outputs and expected results; and core processing routines.
+A review of best practices of the United Kingdom, Australia, New Zealand and the United States tax administrations was completed.  Week long meetings were conducted with representatives of the Australian Tax Office (ATO) and the New Zealand Inland Revenue.  A comprehensive questionnaire was sent to the United Kingdom Her Majesty's Revenue and Customs (HMRC) who responded with a detailed 58 page report.
+Over 70 key interviews were conducted involving representatives from: CRA tax programs in the Tax Services Offices, Headquarters and the Tax Centres; staff from the Ministry of Finance and/or Taxation in each of the provinces; Revenu Quebec; the Department of Justice; the Canadian Federation of Independent Businesses; and the Society of Management Accountants.
+A comprehensive literature search of research papers, international journals, surveys, audits and studies was completed.
+Data analysis was conducted by reviewing quarterly and annual reports, and analysing GST/HST databases, enforcement data and results from projects/initiatives.
+Limitations and Constraints
+1.20
+With the exception of high-level reports, program data was not readily available for analysis.  We assembled data from various sources to compile our own database for analysis.
+2. Findings
+2.1
+The evaluation findings are summarized in the following paragraphs under three broad headings:
+Program Delivery;
+Post Registration Impact; and
+Compliance Strategy
+Program Delivery
+2.2
+The first step in our evaluation was to assess the impact of the program delivery model in achieving program objectives.  In summary, while the Agency has had success in identifying and registering businesses operating outside the GST/HST system, program delivery does not have a comprehensive compliance approach to achieving and reporting on program outcomes.
+2.3
+PROTECTED
+2.4
+PROTECTED
+2.5  Reporting on
+program
+results reflect numbers of non-compliers identified, but this does not represent a complete picture of program effectiveness.
+Like most administrative agencies involved in the enforcement of regulations or legislation, NF/NR Programs Division reports on performance in terms of enforcement productivity i.e. numbers of accounts registered and recovered revenues.  This is reflected in the performance management expectations of NF/NR team leaders that state, in meeting the goal of “Responsible Enforcement”, specific production targets must be met.  For example, the NF/NR unit in Toronto West TSO must complete 363 NR units in order for the team leader to achieve “meets” performance expectations and must complete 381 NR units in order to achieve an “exceeds” performance expectations.
+2.6
+Exhibit 1 identifies program results as reported by TSDMB for the last 7 years.  These results are also used in the Agency's Annual Reports as substantiation that “non-compliance is identified and addressed”.  However, while these results may reveal that a specific number of non-compliers are identified they do not demonstrate the extent to which the program is having the desired effect of identifying and addressing registration non-compliance generally.
+Exhibit 1
+Year
+Number of Registrants Identified
+2000-2001
+6,339
+2001-2002
+6,704
+2002-2003
+6,190
+2003-2004*
+4,050
+2004-2005*
+4,123
+2005-2006*
+4,283
+2006-2007
+7,406
+*
+Figures for these fiscal years do not include Summerside RIP production statistics
+Source:
+Non-Filer/Non-Registrant Programs Division, Taxpayer Services and Debt Management Branch.
+2.7
+There is currently no performance measurement strategy in place to adequately report on program impact.  Without impact assessment strategies or a performance measurement framework the Agency cannot make informed decisions or adequately assess the NR portion of the NF/NR program's contribution to the Agency's corporate priorities.
+2.8
+Workload targets and resource utilization budgets are not based on risk assessment.
+The NF/NR Programs Division sets the NR registration targets for each TSO based predominantly on prior year's targets and workload results.  NR resource allocations (on average less than 1 FTE per TSO) have traditionally been assigned on an “across the board” basis, with each TSO receiving relatively stable proportionate shares, despite potential differences in compliance and risk levels.  Risk assessment does not appear to form part of the planning and resource allocation process. In other words, without a better understanding of the risk posed by non-registrants, which may vary from office to office, the Agency has no clear idea whether 33 FTEs and registration targets of 4,200 units are appropriate, too great or too few and whether it is being successful in addressing and deterring non registration. This is further compounded by NF/NR resources having to deal with a blended workload one of which is seen to have greater priority than the other.
+2.9  TSO NF/NR units are predominantly focused on achieving non-filer workload.
+As indicated above staff assigned to the NF/NR units typically deal with blended workloads (i.e. GST, T1, T2 and T3).  In 2006-2007 approximately 2% of the NF/NR resource budget was devoted to the GST/HST NR workload while 98% was predominantly directed to the income tax NF workload.
+2.10
+The NF workload largely originates from the T1, T2 or T3 system triggered when a taxpayer who had a prior filing history fails to file tax returns for one or more years.  Much of the work is system generated and the accounts follow a specific path to arrive in an officer's inventory.  The NF workload is risk scored to ensure that the highest potential cases are worked before those with less potential.  The NR workload, on the other hand, is developed from other sources (i.e. leads, referrals or as a by-product of NF accounts) and cannot be system generated because no records of the accounts exist.
+2.11
+The comparative results of both workloads for 1995-1996 and 2005-2006 show that the NF workload results in higher numbers of returns with greater fiscal impact than the NR workload and that it is achieving significantly better results than 10 years ago compared to the NR workload.  In fact there has been a four-fold increase in the number of non-filers identified and a six-fold increase in fiscal impact in 2005-2006 over 1995-1996 results whereas the number of non-registrants identified have remained relatively static.  The difference in the resource allocation, workload identification, prioritization and results suggests that the NF workload has greater priority and significance than the NR workload.  This was supported by interviews with NF/NR staff, the majority of who agreed that non-filer inventory is the main workload of the NF/NR units and that GST/HST is considered to be of secondary importance.
+Exhibit 2
+Program
+Year
+Returns / Registrations
+Projected
+Fiscal Impact
+NF
+1995-1996
+230,920
+$317,764,000
+2005-2006
+934,671
+$2,450,000,000
+NR
+1995-1996
+6,604
+$34,653,000
+2005-2006
+4,283
+$32,622,000
+Source:
+Non-Filer/Non Reg Program, HQ
+2.
+12
+The Agency cannot possibly address every case of non-compliance or chase down every dollar of revenue.  It must make informed decisions on the most practical use of its limited resources and direct its attention and effort to the areas that are likely to have the biggest impact on achieving compliance.  One may reasonably conclude that to simply take resources from the NF workload and apply them to the NR workload is not necessarily the right thing to do as the NF results would then suffer.  Yet, the Agency is responsible to ensure, to the extent reasonable and possible, compliance with all taxes it administers.  Considering this dilemma, it would make sense that TSDMB develop a better understanding of the risk posed by the non-registrant population so that it can take more informed decisions about the use of the level of resources currently devoted to its non-registrant activities.
+2.13  Legislation may not provide the necessary support to deter registration non-compliance.
+The majority of Agency staff interviewed acknowledged that the penalty provisions of the legislation are not practical in terms of helping to deter non-compliance.  Limited to a civil penalty of $100 for failure to provide information the Agency must pursue prosecution (i.e. summary conviction) in cases where non-registrants refuse to register.  Under most circumstances NR cases lack sufficient materiality to pursue through the court system.
+PROTECTED
+2.14
+Penalties and other sanctions, either civil or criminal, are effective deterrents to non-compliance when applied in a vigilant and consistent fashion.  However, if regulatory bodies choose not to impose punitive measures to correct intentional non-compliance or apply those measures inconsistently, the effectiveness of the legislation can be compromised.  Our research on other tax administrations reveals that the nature of legislative sanctions, on who they are imposed and whether they are criminal, civil or a combination of both can play an important deterrent role.  Prior to the mid 1980s the majority of VAT law contraventions in the UK, regardless of severity, were criminal offences.  The UK HMRC found that because of the cost and the fact that criminal sanctions for relatively minor infringements were clearly disproportionate, these sanctions were rarely used.  Without a means to efficiently impose penalties, and therefore effectively deter non-compliance, the HMRC had significantly high levels of non-compliance, particularly in the areas of accuracy of returns, timely filing and payment and registration.
+2.15
+In response to this problem the UK government commissioned an independent review of the legislation that recommended decriminalisation of most contraventions of VAT law with the criminal sanction being replaced by a system of civil penalties. The UK VAT Act now provides for a variety of civil penalties including a 100% penalty of the amount of tax evaded and a 5% penalty of the value of the relevant VAT for deliberate failure to register and for late registration.
+2.16
+We also found that Australia has a wider range of penalties than Canada.  The Australian Tax Office can impose a variety of penalties including a minimum $2,000 failure to register penalty, a $10 a week penalty for outstanding returns to a maximum of $200 and a penalty equal to the general interest charge on the unpaid amount for each day that outstanding tax and interest was due to be paid. In addition, the legislation also provides a key deterrent to non-registration in the form of “no Australian Business Number (ABN) withholding provisions”.  The legislation requires businesses to request ABNs from all businesses with which they do business - if suppliers cannot or do not provide an ABN the payer is required to withhold and remit 46.5% of the payment value to the ATO when filing their return.  Payers that fail to collect and remit these amounts are then liable to a penalty equal to the amount that they failed to withhold.  These provisions provide strong incentives to ensure all businesses register for an ABN.
+2.17
+To assess the effectiveness of the deterrent effect of the “no ABN withholding provisions” and other sanctions applicable to non-registration for GST/HST the ATO conducts unannounced registration integrity checks of businesses.  In 2005-2006 the ATO conducted 16,391 of these visits resulting in only 8 businesses not being registered for GST.
+Post Registration Compliance
+2.18
+In 2003 a Non-Filer/Non-Registrant regional study was conducted by the CRA's Southern Ontario Region to determine, in part, the post registration level of compliance of GST/HST accounts registered through the NF/NR program.  The results of the study, based on a random sample of 300 accounts from Windsor, London, Toronto North and Toronto West TSOs, revealed that there were high levels of post registration non-compliance with filing and remitting requirements and relatively high levels of deregistration.  To get an indication of whether post registration compliance improved we drew a sample of 408 accounts
+[Footnote 1]
+that were registered through the NF/NR program between 2004 and 2006.  The results from both studies are summarized in Exhibit 3 and further explained in the subsequent paragraphs.
+Exhibit 3
+Post Registration Compliance - Summary of 2003 Non-Filer/Non-Registrant Study (Southern Ontario) and the 2007 GST/HST Registration Compliance Evaluation
+2003 Regional Study
+2007 Evaluation
+Sample Size
+300
+408
+2
+Accounts Subsequently Deregistered
+47 (15.7%)
+126 (31%)
+Accounts in Reg/Stopped Status
+54 (13%)*
+Active Accounts
+253 (84.3%)
+228 (56%)
+Collections Status
+(106) 42%
+(114) 50% **
+Outstanding Returns
+(137) 54%
+(102) 45%
+* Pending deregistration - waiting for outstanding returns or remittances
+** Of the 114 accounts in collection status, 26% had amounts owing at the time of registration and are still currently in collection status with respect to those amounts.
+2.19  Inconsistency in applying the appropriate effective date of registration results in potential revenue losses to the Agency.
+The nature of a non-registrant is that they have not registered for a GST/HST number and they have been operating a business in Canada with worldwide revenues greater than $30,000.  Once identified, the business should be registered with an effective date of registration that corresponds to a point in time that the business met the requirement to register.  The effective date of registration should rarely be the same as the date the account was actually registered by the CRA.  Our study however identified that half of the active accounts in our sample had an effective date of registration that closely corresponded to the actual date of registration i.e. within a month.  These results tend to support earlier findings that target attainment typically drives the NR workload at the expense of ensuring compliance with registration requirements.  Similar findings were reported in the 2003 study where it was found that there were “inconsistent procedures for handling of non-registrant workload”.
+2.20
+PROTECTED
+2.21  Compliance results are impacted by the subsequent deregistration of GST/HST accounts registered through the NF/NR program.
+As indicated in Exhibit 3, 31% of NR accounts in our sample were deregistered, most within a year of being registered.  The evaluation found that half were registered in error and the remainder were deregistered as a result of bankruptcies/closures, conflicting workload priorities and/or disconnects with other units and programs.
+2.22
+The NF/NR program carried out a number of projects over the past few years targeting certain industry sectors that are typically less compliant with GST/HST registration requirements than others.  Some of these projects have met with success and others revealed inconsistencies in securing the registration of non-compliant businesses.  For example, one project resulted in the registration of 223 accounts many of which were subsequently deregistered as a result of errors.
+2.23
+PROTECTED
+2.24  Deeming provisions of the Excise Tax Act creates obstacles for the Agency.
+In reviewing the VAT legislation of the United Kingdom, Australia and New Zealand, Canada is the only tax administration of the four lacking legislative authority to register a business that meets the requirements for registration but has not made application.  While the ETA deems businesses required to be registered as “registrants” for the purpose of collecting and remitting GST/HST they are not considered to be registered.  Although this distinction may seem innocuous, it has significant implications for the effective management of GST/HST registration.
+2.25
+First, the GST/HST computer system is set up to acknowledge the registration and to subsequently monitor and track the filing and remitting behaviour of entities that have sought GST/HST registration and been assigned a BN.
+PROTECTED
+Compliance Strategy
+2.26
+PROTECTED
+2.27
+PROTECTED
+3. Conclusion
+3.1
+Yearly production targets for the NR workload set by the NF/NR Programs Division in headquarters are routinely met by the field offices.  However, these results do not demonstrate the extent to which the program is having the desired effect of addressing registration non-compliance or identifying the relative risk posed by the non-registrant population.
+3.2
+The challenge of reporting on the impact of compliance activities such as GST/HST registration is one that the CRA shares with other tax administrations and regulatory organizations.  The monitoring of outputs or production units is the means by which many regulatory agencies measure performance; however, it does not provide a complete picture.  Malcolm Sparrow, one of the leading academics on the subject of reforming the role of regulatory and enforcement agencies, discusses the problem of measurement that regulators face in his book,
+The Regulatory Craft
+:
+Regulatory agencies, their overseers, their critics, the public, and the media have all been conditioned to evaluate regulatory and enforcement performance in terms of enforcement productivity, efficiency, and return on investment.  Furthermore, these measures are all delightfully objective, numerical, easy to aggregate, and easy to compare across regions, between agencies, and over time.  Hence their appeal – and the difficulty in replacing them...these traditional measures demonstrate convincingly that inspectors, agents, auditors, collectors, or other enforcement personnel are working hard and getting results (of a certain kind).  For that, taxpayers should be thankful.  What [these measures] will never be able to show, though, is whether these same personnel are working on the right things, or in smart ways, using the best methods, or actually influencing external behaviours or conditions.
+3.3
+The Organization for Economic Co-operation and Development (OECD) emphasizes the importance of analyzing compliance behaviour, determining strategies and assessing the success of those strategies. The OECD's 2004 study,
+Managing and Improving Tax
+Compliance suggests that in an environment in which resources are limited, operating in accordance with a process framework as illustrated in Exhibit 4 assists revenue authorities to:
+respond quickly to changing circumstances;
+ensure that treatment strategies are applied to activities of the highest priority, and that those strategies have a high probability of success;
+leverage the impact of interventions; and thus ultimately;
+meet their business intent (to optimize collections under the law while maintaining community confidence in the system).”
+Exhibit 4 The Compliance Risk Management Process
+3.4
+Considering the findings of this study and the relatively small size of the NR portion of the NF/NR program TSDMB has an opportunity to extend the risk based management processes similar to the OECD compliance risk management model shown above to the NF/NR program.  This could allow the NF/NR program, within a controlled environment, to relax the use of traditional production targets as measures of success in favour of the development and use of compliance measures.  It represents an opportunity to develop a more strategic approach to registration non-compliance, assess the results and potentially provide some lessons learned.
+3.5
+The Agency is already moving in this direction through the undertaking of a pilot project that relaxes traditional output measures in favour of a strategy to measure the impact of its compliance efforts on the underground economy.  This is a good example of the Agency embracing the need to develop compliance measures that drive to answering the question of program impact.
+4. Recommendations
+4.1 We recommend that the Agency explore the feasibility of expanding the use of internal and external data to better identify and mitigate GST/HST registration compliance risks and improve workload selection.
+4.1.1
+We believe there are opportunities for the Agency to develop a more risk-based approach to addressing registration non-compliance.  The Agency needs to develop a better understanding of the non-registrant population by starting with a review of businesses registered by the NF/NR program.
+Program response
+:
+We agree with this recommendation.
+We will explore the possibility of investing the resources dedicated to the TSOs more strategically and providing them with workload identified through data matches of internal and external sources.
+The movement to enhanced risk-based methods is dependant upon TSDMB's ability to acquire and store data that will enable the development of risk profiles.  However, the resources necessary to complete the required detailed research and analysis will depend on TSDMB priorities and investment availability.
+4.2 We recommend that the Agency develop an approach to leverage data and information already at the Agency's disposal to more completely report on program results and post registration behaviour.
+4.2.1
+TSDMB should develop a comprehensive database of registrants processed through the NF/NR program to monitor post registration behaviour.
+4.2.2
+Adopting these measures will allow the Agency to better understand and address post-registration non-compliance and weaknesses within the existing processes
+PROTECTED
+4.3   PROTECTED
+Appendix A
+GST Registration Program Logic Model
+(HTML, 13 KB)
+Note:
+The text in this document is an exact copy of the text found in the PDF version below. However, the software used to produce this HTML version cannot fully reproduce all the features found in the PDF format.
+GST Registration Program Logic Model
+(PDF, 142 KB)
+Footnote
+Footnote
+Footnote _ftn1
+Not a representative sample – however the sample is comprised of 100% of NR accounts registered by Toronto West and Vancouver TSOs in fiscal 2005/2006 and 100% of NR accounts in a representative sample of new registrants registered in FY 2004/2005.
+Return to footnote
+_ftn1
+Referrer
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2008-10-30
