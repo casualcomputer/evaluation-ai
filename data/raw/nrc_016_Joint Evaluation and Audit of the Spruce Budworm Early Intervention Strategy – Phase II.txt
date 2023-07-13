@@ -1,0 +1,1031 @@
+Joint Evaluation and Audit of the Spruce Budworm Early Intervention Strategy – Phase II
+Presented to the Departmental Audit Committee (DAC), July 11, 2022
+Presented to the Performance Measurement, Evaluation and Experimentation Committee (PMEEC), June 3, 2022
+Acronyms and Abbreviations
+ACOA
+Atlantic Canada Opportunities Agency
+ADM
+Assistant Deputy Minister
+AEB
+Audit and Evaluation Branch
+AIF
+Atlantic Innovation Fund
+AMI
+Agreements Module and SAP Interface
+BMPs
+Best Management Practices
+BTK
+Bacillus Thuringiensis Kurstaki
+CFS
+Canadian Forest Service
+CO
+2e
+Carbon Dioxide Equivalent
+EIS
+Early Intervention Strategy
+FAA
+Financial Administration Act
+FPL
+Forest Protection Limited
+FTE
+Full-Time Equivalent
+FY
+Fiscal Year
+GBA+
+Gender-Based Analysis Plus
+GDP
+Gross Domestic Product
+GHG
+Greenhouse Gas(es)
+HA
+Hectares
+HFP
+Healthy Forest Partnership
+IIA
+Institute of Internal Auditors
+NB
+New Brunswick
+NL
+Newfoundland and Labrador
+NRCan
+Natural Resources Canada
+NS
+Nova Scotia
+PEI
+Prince Edward Island
+RFP
+Request for Proposal
+SBW
+Spruce Budworm
+SBW EIS-I
+Spruce Budworm Early Intervention Strategy Phase I
+SBW EIS-II
+Spruce Budworm Early Intervention Strategy Phase II
+SDG
+Sustainable Development Goals
+TB
+Treasury Board
+TEIB
+Trade, Economics, and Industry Branch
+UN
+United Nations
+UQAM
+Université du Québec à Montréal
+Table of Contents
+Executive Summary
+Introduction
+Engagement Objectives and Methods
+Engagement Findings
+Relevance
+Continued Need
+Alignment with Federal Government and NRCan Priorities, Roles, and Responsibilities
+Effectiveness
+Progress Towards Immediate Outcomes
+Progress Towards Intermediate and Final Outcomes
+Unintended Outcomes
+Factors Influencing the Achievement of Expected Results
+Efficiency and Economy
+Governance and Oversight
+Program Monitoring
+Contribution Agreements
+Gender-Based Analysis Plus (GBA+) Considerations
+Resource Allocation
+Conclusions
+Annex A: Engagement Sub-Objectives and Criteria
+Annex B: Bibliography
+Annex C: Joint Team
+Executive Summary
+About the Engagement
+This report presents the findings, conclusions, and recommendations from the joint audit and evaluation
+Footnote
+1
+of the Spruce Budworm Early Intervention Strategy – Phase II (SBW EIS-II) program.
+The spruce budworm (SBW) is an insect native to North America. SBW larvae feed on the needles of fir and spruce trees, resulting in defoliation. SBW outbreaks can have widespread, devastating, and long-term impacts on the forestry industry. An uncontrolled SBW outbreak in Atlantic Canada could reduce timber supply by 18 to 25 percent per year over a 30-year horizon. A supply reduction of this magnitude is estimated to lead to direct and indirect economic losses between $10.8 billion and $15.3 billion.
+The SBW EIS-II is a renewal of the SBW EIS Phase I program (SBW EIS-I), which was announced in the Government of Canada Budget 2014. Phase I of the program was carried out by the Atlantic Canada Opportunities Agency (ACOA) under the Atlantic Innovation Fund (AIF) program, with Natural Resources Canada (NRCan) providing scientific support. Phase II of the program was led by NRCan. The SBW EIS-I was primarily conducted in northern New Brunswick. The SBW EIS-II was expected to continue the research, monitoring, and insecticide application efforts carried out under the SBW EIS-I but expanded across all four Atlantic provinces.
+Federal funding of $74.75 million was provided over five years (beginning in FY 2018-19) for Phase II in Budget 2018, with NRCan taking over as the lead federal department. For Phase II, costs are shared 60 percent by the federal government and 40 percent by provinces and industry.
+The joint engagement examined the relevance, effectiveness, efficiency, and economy of the SBW EIS-II from fiscal years 2018-19 to 2021-22. The joint project sought to assess whether:
+The program has been effective in achieving its intended outputs and outcomes, and whether unintended outcomes have resulted from the SBW EIS-II;
+Adequate governance structures and processes have been designed, implemented and communicated to relevant stakeholders, and provide oversight on the program;
+Effective processes and controls are in place to support program compliance with relevant departmental guidance and the Treasury Board
+Policy on Transfer Payments
+;
+Key financial and operational controls have been designed and implemented, and are operating effectively;
+The program is being delivered efficiently and economically (taking into account Gender-Based Analysis Plus (GBA+)), and whether lessons learned were identified and leveraged; and
+The program is relevant, and to what extent there is a continued need for the SBW EIS.
+NRCan’s Audit and Evaluation Branch (AEB) conducted this engagement in accordance with the Treasury Board
+Policy on Results
+(2016) and
+Policy on Internal Audit
+(2017) and the Institute of Internal Auditors’
+International Standards for the Professional Practice of Internal Auditing
+.
+What the Engagement Found
+Overall, the joint engagement found that the design and delivery of the SBW EIS-II program was relevant, effective, efficient, and economic from fiscal years 2018-19 to 2021-22. Areas for improvement were identified and additional details regarding these findings as well as recommendations to management to remediate these issues are outlined below.
+Relevance
+Continued Need
+Documentation review and key informant interviews confirmed that there is a continued need for the SBW EIS-II program to protect forests in Atlantic Canada from SBW outbreaks. The forestry industry in Atlantic Canada is a critical economic component for the region and forests play an important role in carbon sequestration. There is a continued need to prevent the development of SBW outbreaks to reduce the rate of defoliation, protect the wood supply in Atlantic Canada, and positively contribute to Canada achieving its net-zero emissions target by 2050. There is also a continued need to conduct research to continuously improve knowledge and tools in managing SBW populations.
+Alignment with Governmental Priorities
+The SBW EIS-II is well aligned with governmental priorities and supports efforts aimed at mitigating the economic consequences of defoliation, including the Government of Canada’s Clean Growth and Climate Change Agenda, the Pan-Canadian Framework on Clean Growth and Climate Change, the
+Forestry Act
+, NRCan’s Departmental Results Framework, and the United Nations Sustainable Development Goals.
+Effectiveness
+Progress towards Immediate Outcomes
+Based on documentation and key informant interviews, the SBW EIS-II has achieved one of its short-term outcomes by maintaining SBW populations below outbreak levels in Atlantic Canada through its targeted insecticide application operations, which proved to be effective as these treated areas did not have to be re-treated in subsequent years. Knowledge and information sharing regarding SBW outbreaks and the EIS occurs through committee and board meetings, presentations, and research publications about surveillance and response solutions. However, the program did not achieve its immediate outcome related to “access to scientific knowledge, surveillance solutions, and response solutions pertaining to spruce budworm outbreaks and early intervention strategy” as two of three of its targets were not met. However, the program attributes this to limitations caused by the design of the indicators which does not capture the full breadth of what the program was able to achieve and COVID-19 restrictions that limited the number of outreach opportunities.
+Progress towards Intermediate and Final Outcomes
+The program has demonstrated progress towards achieving its intermediate and long-term outcomes. However, achievement of these outcomes requires longer time horizons and as such whether the long-term outcomes are ultimately achieved will depend on whether the program is able to continue its activities. Documentation review and key informant interviews noted that treated areas are experiencing lower or declining SBW population growth rates compared to untreated areas. It was also noted that decision makers integrate scientific knowledge and information in risk management decisions pertaining to the spruce budworm early intervention strategy through the program’s various committees. To ensure the program continues to make positive progress in achieving its intended outcomes, there is an opportunity for the program to improve information management processes that are updated on a regular basis with data and information related to the indicators associated with the program’s intermediate and final outcomes are consistently recorded. This will allow the program to monitor trends and progress more effectively as well as support decision making.
+Unintended Outcomes
+Documentation review and key informant interviews noted some unintended outcomes of the program. The relationship between NRCan and Parks Canada has been strengthened and the program has opened channels of communication between the two departments to continuously share data, knowledge, and expertise. Increased collaboration with Indigenous communities and integrating holistic methods in pest management were also noted as positive outcomes of the program.
+Factors Influencing the Achievement of Expected Results
+The COVID-19 pandemic did not hinder the overall achievement of program outcomes, although some research teams had to delay their field work or request support from local staff or contractors. There was a natural SBW population crash that occurred in New Brunswick in 2019, resulting in a reduced amount of insecticide and funding required to treat eligible areas. Key informant interviews confirmed that a robust communications strategy and a high degree of collaboration between diverse stakeholder groups were two key factors that contributed greatly to the program’s success.
+Efficiency and Economy
+Governance, Roles, and Responsibilities
+There are effective governance structures in place that provide adequate program oversight. The Healthy Forest Partnership (HFP) has a critical role in the success of the program. The HFP Steering Committee is responsible for overseeing the progress of the SBW EIS-II while making recommendations to NRCan managers and funding collaborators. There is adequate and diverse representation of key stakeholders on each committee, which supports sound decision-making for the program. The program’s roles, responsibilities, and accountabilities are clearly documented and well understood among key program stakeholders.
+Conflict of Interest
+Currently, program committee members are not required to complete a conflict of interest check. Although any committee members who may have a personal interest in a funding decision either recuse themselves or are removed by the committee chair from the decision-making process, there may be an opportunity to formalize a conflict of interest verification process and reduce the likelihood of perceived or real conflict of interest.
+Program Monitoring
+The results of the program are monitored and communicated to Senior Management and used to inform future program phases through documents such as progress reports. The design of the program emphasizes collaboration and knowledge sharing among key stakeholders on a continuous basis. However, the SBW EIS-II does not follow a consistent naming structure for its program documents and inconsistencies were noted in how the documents were managed internally. There is an opportunity to improve and clearly document the program’s information management processes to increase program efficiency, limit potential errors and inconsistencies, support knowledge transfer, and improve program monitoring.
+Contribution Agreements and Compliance with Program Terms and Conditions
+Contribution agreements are developed in accordance with the SBW EIS Contribution Agreement template and are aligned with NRCan’s Delegation of Financial Authorities Instrument and the broader Treasury Board
+Policy on Transfer Payments
+. The SBW EIS-II also uses a risk-based approach to plan recipient audits and monitor the execution of the projects to ensure compliance with program terms and conditions.
+Selection Criteria
+Selected proponents meet the selection criteria of the program. Funding decisions made by the Scientific Project Management Committee and the Steering Committee are documented. Although funding decisions were supported with appropriate rationale, communication of the funding decision to rejected applicants was not completed in a consistent manner. There is an opportunity for the program to improve its document retention practices to support program monitoring activities and achievement of service standards.
+Payments to Proponents and Proactive Disclosure
+The program has implemented procedures to ensure that the program is executing appropriate due diligence on information received from proponents prior to payments being made. The SBW EIS-II has met the service standards at 100% for all three payment related metrics which includes acknowledgement of receipt for proposal, providing funding decisions, and issuing payment. There are also effective processes in place to ensure the public disclosure of contribution agreements online is accurate, complete, and timely.
+Gender-Based Analysis Plus (GBA+) Considerations
+The program made adjustments in consideration of GBA+, noting efforts made to encourage the representation of women and other equity groups in science and technology as well as in the forestry sector. Early engagement with Indigenous communities is an important aspect of the program’s communications strategy, and NRCan researchers and provincial representatives have engaged with local Indigenous communities prior to insecticide application or the conduct of research activities. There is an opportunity for the program to set gender and diversity targets and collect relevant data in order to assess and better understand how various equity groups experience the program. There should be specific efforts to develop performance metrics and collect data to effectively track program engagement with potentially impacted Indigenous communities.
+Resource Allocation
+The SBW EIS-II has been able to efficiently achieve its intended activities and outputs with its planned resources. Key informant interviews and program documentation indicated that the program is generally spending less on an annual basis than the originally budgeted amount. The program successfully reallocated some funds from FY 2018-19 to the following fiscal year and successfully reprofiled funding from FY 2020-21 to FY 2021-22. However, the joint project found that a natural decline in SBW populations led to larger than expected lapses in program funding due to challenges regarding forecasting a natural phenomenon. It is difficult to accurately predict the precise amount of funding required in each fiscal year to respond to fluctuating SBW populations.
+There is an additional layer of complexity associated with the cost-sharing requirements between federal and provincial governments/industry partners. The 60:40 funding arrangement was implemented on a project-specific basis at the start of the SBW EIS-II. However, the program terms and conditions have since been modified so that the 60:40 cost-sharing requirement is managed for the overall initiative (which includes monitoring, insecticide application, and communications, but excludes research) to reduce complexity and perceived administrative burden. The provinces have contributed more than 40% of the program’s costs.
+Cost-Effectiveness
+Based on documentation review and key informant interviews, the EIS is the most notable cost-effective means of achieving the expected results of the SBW EIS-II and is the most effective in terms of prevention of SBW outbreaks and early detection of areas where SBW populations are low but increasing. The current delivery model and approach meets current needs and is achieving its intended outcomes in a cost-effective manner.
+Recommendations and Management Responses
+Recommendations
+Management Response
+The Assistant Deputy Minister (ADM)/Canadian Forest Service (CFS) should ensure that the SBW EIS-II develops and implements a formalized conflict of interest process, including a verification process for all current and future program committee members as well as procedures regarding recusal from funding decisions when appropriate to mitigate conflict of interest risk.
+Management agrees with this recommendation.
+While there were no actual conflicts of interest documented in Phase II, a renewed EIS program will work with the NRCan COI unit to ensure alignment with departmental best practices and to formalize a conflict of interest verification process for committee members involved in discussions directly or indirectly related to activities funded by NRCan at the onset of the initiative.
+NRCan will formalize the conflict of interest process by requiring that all current and future committee members complete a conflict of interest check, starting in 2022-23, which will reduce the risk of perceived or real conflict of interest when funding decisions are being made. The conflict of interest process will be monitored over the duration of the project, including at the onset, during the call for proposals, and whenever a project proposal is received and considered for funding.
+A formal recusal procedure will be prepared at the onset of the initiative and shared with anyone involved in funding decision-making during the initiative. Abiding to this procedure will be a requirement for anyone involved in funding decisions. In line with Phase II, any committee members who may have a personal interest in a decision with funding implications will be removed from the process. This will be monitored and reported through HFP committee minutes, as well as the CFS review committee minutes. Reminders of the recusal procedure will be made by CFS to all committee members, particularly at key decision points, over the duration of the program.
+Position responsible:
+Program administrators
+Timing:
+June 2022
+The ADM/CFS should ensure that the SBW EIS-II improves and clearly documents the program’s information management processes to increase program efficiency and support knowledge transfer by ensuring that the results of intermediate and long-term outcomes are consistently recorded, key documentation is consistently retained, and that service standards related to the selection of proponents are met.
+Management agrees with this recommendation.
+A renewed EIS program will develop a consistent naming convention for both documents and folders in GC Docs to increase efficiencies and consistency in the administration of documentation in support of contribution agreements. To ensure consistency and increase program efficiency, the program officers will also provide Proponents with revised reporting templates for transfer and recording of the results of both the intermediate and long-term outcomes.
+Administrative and reporting standards will be implemented at the onset of the program and monitored at mid-year and end-of-year over the duration of the program to ensure that the program’s information management processes are being consistently followed.
+Position responsible:
+Program administrators
+Timing:
+June 2022
+The ADM/CFS should ensure the SBW EIS-II develops GBA+ and diversity performance measures, collects relevant data, and assesses how different groups are impacted by the program, thereby turning unexpected outcomes into expected outcomes and allowing for improved monitoring. Specifically, consideration should be made to develop specific measures related to the engagement of Indigenous communities.
+Management agrees with this recommendation.
+A renewed EIS program will include new indicators, and related targets, aimed at tracking:
+Impact of the program on workforce demography and diversity, and specific impact of equity, diversity and inclusion measures taken by funding recipients in the context of forest health protection operations and research activities; and
+The resolution of concerns raised by Indigenous groups, and potential impacts on communities of projects under a renewed program.
+This information will be articulated in proposals and reports from recipients of federal contributions. Baselines and targets for these new indicators will be established after the first year of a renewed program. Results will be monitored annually through contribution agreement reporting over the duration of a renewed program.
+A renewed program will encourage recipients of contribution funding to report baseline workforce demography and diversity data as part of a voluntary survey. The Program will also provide recipients of contribution funding with a template for a diversity and inclusion plan that can be considered to guide the development of specific employment equity measures for their respective organizations.
+Position responsible:
+Program administrators
+Timing:
+June 2022
+Introduction
+This report presents the findings, conclusions, and recommendations from the joint audit and evaluation
+Footnote
+2
+of the Spruce Budworm Early Intervention Strategy – Phase II (SBW EIS-II) program. The engagement examined the relevance, effectiveness, efficiency, and economy of the SBW EIS-II program and covers the period of fiscal years 2018-19 to 2021-22. This engagement was conducted in accordance with the Treasury Board (TB)
+Policy on Results
+and
+Policy on Internal Audit
+and the Institute of Internal Auditors’
+International Standards for the Professional Practice of Internal Auditing
+(IIA Standards).
+Program Information
+Program Profile
+The spruce budworm (SBW) is an insect native to North America. SBW larvae feed on the needles of fir and spruce trees, resulting in defoliation. SBW outbreaks can have widespread, devastating, and long-term impacts on the forestry industry. In efforts to control SBW outbreaks, the objective of the SBW EIS-II is to identify and apply insecticide in ‘hotspots’, defined as areas with an increasing SBW population, before these areas experience full-scale outbreaks. The key aspect of the EIS is that it is a proactive scientific approach, as opposed to a reactive identification and treatment of outbreak areas.  This intervention was expected to control the SBW population and in turn, minimize defoliation and disruptions to wood supply. Using an early intervention strategy to manage SBW populations is a novel approach to pest management and is thus also supported through research activities.
+The SBW EIS-II is a renewal of the SBW EIS Phase I (SBW EIS-I), which was announced in the Government of Canada Budget 2014. Phase I of the program was carried out by the Atlantic Canada Opportunities Agency (ACOA) under the Atlantic Innovation Fund (AIF) program, with NRCan providing scientific support. Phase II of the program was led by NRCan. The SBW EIS-I was primarily conducted in northern New Brunswick (NB). The SBW EIS-II was expected to continue the research, monitoring, and insecticide application efforts carried out under the SBW EIS-I but expanded across all four Atlantic provinces (New Brunswick, Nova Scotia (NS), Prince Edward Island (PEI), and Newfoundland and Labrador (NL)).
+Federal funding of $74.75 million was provided over five years (beginning in FY 2018-19) for Phase II in Budget 2018, with NRCan taking over as the lead federal department.  For Phase II, costs are intended to be shared 60 percent by the federal government and 40 percent by provinces and industry.
+Program Delivery and Resources
+The SBW EIS-II consists of four activity streams:
+Stream 1: Monitoring:
+To identify hot spots, provincial governments and forestry industry stakeholders conduct annual aerial and ground monitoring. Federal funding for the SBW EIS-II was not directed towards monitoring, but it is an eligible expenditure under the 60:40 cost-sharing arrangement between the federal government and provincial governments/industry partners.
+Stream 2: Insecticide Application Operations:
+Treating identified hotspots with insecticide is the primary activity under the SBW EIS-II. Insecticide application operations were expected to comprise the largest component of contributions.
+Stream 3: Small-Scale Research:
+Continued research under the SBW EIS-II is aimed at improving knowledge of SBW outbreak development and spread. NRCan’s internal research capacity, along with external research organizations, were to carry out small-scale research projects that addressed key questions underpinning the development, deployment, efficacy, and impact of EIS as an outbreak prevention strategy. External research organizations participated via a contribution program.
+Stream 4: Communications:
+The SBW EIS-II necessitated a proactive communications and engagement strategy, focusing on the early engagement of impacted landowners and communities, including First Nations in Atlantic Canada, whose traditional territory may have been the site of insecticide applications or research activity. Additionally, the general public and interested stakeholders were to be kept informed of NRCan’s scientific findings through publications and outreach activities.
+The Healthy Forest Partnership (HFP) Steering Committee, Scientific Project Management Committee, Communications Committee, and Research Team are the committees within the overall governance structure in place to support the implementation of the SBW EIS-II. These committees and teams include several members from various levels of government, industry, and non-governmental organizations.
+Footnote
+3
+Figure 1 - SBW EIS-II Committees - Governance Structure
+Text version
+Figure 1 - SBW EIS-II Committees - Governance Structure
+Infographic shows the SBW EIS-II governance structure hierarchy. Green boxes with white text are used to show the groups and lines between boxes indicate reporting relationships. A box titled “Steering Committee” is at the top and two subgroups are below this box connected with a line to show reporting lines. The two sub-committees are “Scientific Project Management Committee” and “Communications Team”. Another sub-group called “Research Team” is below the Scientific Project Management Committee box and connected via a line to indicate reporting relationships.
+The HFP includes participation of all four Atlantic provinces and is dedicated to “monitoring, detecting and treating small areas of relatively low but growing populations (hotspots) of spruce budworm before infestation or epidemic levels.” The HFP was formed at the beginning of Phase I of the program. The partnership is comprised of researchers, academics, provincial and federal government officials, and industry members who all collaborate, share findings, and participate in the decision-making process.
+Forest Protection Limited (FPL) is majority-owned by the Government of New Brunswick (92% owned by the province of New Brunswick and 8% by industry partners) and is also the primary proponent responsible for insecticide application operations for the SBW EIS-II. FPL chairs the program’s Steering Committee.
+NRCan’s Atlantic Forestry Centre (AFC) is the Collaborating Unit responsible for the research, expertise, and liaison for the program. NRCan’s Trade, Economics, Industry Branch (TEIB) is the Funding Unit responsible for approving all funding decisions (Figure 2).
+Figure 2- Relationship between FPL, AFC, and TEIB
+Text version
+Figure 2- Relationship Between FPL, AFC, and TEIB
+Infographic shows the relationships between several groups. At the top of the infographic, an orange box is titled “Recipient = Forest Protection Limited”.
+Below the orange box, on the left side of the graphic a 2-way arrow titled “Collaborative Agreement” connects the orange text box and a green text box which is labelled “AFC = Collaborator Unit”. A description below this says “Delivering the research project” and a 1-way arrow from the green box to the orange boxes described above is titled “Participation on the project”.
+Below the orange box, on the right side of the graphic a 2-way arrow titled “Funding Agreement” connects the orange text box and a purple text box which is labelled “TEIB =Funding Unit”. A description below this says “Administering the Contribution Agreement” and a 1-way arrow from the purple box to the orange boxes described above is titled “G&C Funding $”.
+Expected Results
+The SBW EIS-II is expected to contribute towards the following results:
+Immediate Outcomes (annually over the four-year lifespan of the program):
+Effective treatment of Atlantic Canada’s forests at risk of an SBW outbreak.
+Access to scientific knowledge, surveillance solutions, and response solutions pertaining to SBW outbreaks and EIS.
+Intermediate Outcomes (over a five-year period starting in 2018):
+Protection of Atlantic Canada’s forests at risk of an SBW outbreak.
+Decision-makers integrate scientific knowledge and information into risk management decisions pertaining to SBW EIS.
+Enhanced forest pest management pertaining to spruce budworm early intervention strategy.
+Long-Term Outcomes (over a ten-year period starting in 2018):
+Forests protected from an SBW outbreak provide a sustainable wood supply for Atlantic Canada’s forestry industry.
+The SBW EIS-II developed a logic model which notes the program’s intended immediate, intermediate, and long-term outcomes (Figure 3). Associated targets and performance measures have also been established.
+Figure 3 – SBW EIS-II Logic Model
+Text version
+Figure 3 – SBW EIS-II Logic Model
+This figure presents the intended outcomes for Phase Two of the Spruce Budworm Early Intervention Strategy, categorized into immediate, intermediate, and long-term outcomes.
+The immediate outcomes are as follows: Effective treatment of Atlantic Canada’s forest at risk of a spruce budworm outbreak; and access to scientific knowledge, surveillance solutions, and response solutions pertaining to spruce budworm outbreaks and early intervention strategy.
+The intermediate outcomes are as follows: Protection of Atlantic Canada’s forest at risk of a spruce budworm outbreak; Decision makers integrate scientific knowledge and information in risk management decisions pertaining to spruce budworm early intervention strategy; and enhanced forest pest management pertaining to spruce budworm early intervention strategy.
+The long-term outcome is: Forests protected from a spruce budworm outbreak provide a sustainable wood supply for Atlantic Canada’s forest industry.
+Engagement Objectives and Methods
+Objective and Scope
+The overall objective of the joint project was to assess the continued need for the SBW EIS-II, the efficiency and effectiveness of the SBW EIS-II’s design and delivery, and its achievement of expected outcomes. More specifically, the joint project sought to assess whether:
+The program has been effective in achieving its intended outputs and outcomes, and whether unintended outcomes have resulted from the SBW EIS-II;
+Adequate governance structures and processes have been designed, implemented and communicated to relevant stakeholders, and provide oversight on the program;
+Effective processes and controls are in place to support program compliance with relevant departmental guidance and the Treasury Board
+Policy on Transfer Payments
+;
+Key financial and operational controls have been designed and implemented, and are operating effectively;
+The program is being delivered efficiently and economically (taking into account Gender-Based Analysis Plus (GBA+)), and whether lessons learned were identified and leveraged; and
+The program is relevant, and to what extent there is a continued need for the SBW EIS-II.
+The scope of the joint project covered the period of April 1, 2018 to December 31, 2021. The conduct phase of the engagement was completed by December 31, 2021.
+The engagement questions and sub-objectives of the joint project can be found in Annex B: Engagement Sub-Objectives and Criteria.
+Engagement Methods
+The joint engagement used four lines of evidence, designed to ensure validity of the information collected and allow for the triangulation of evidence. These lines of evidence are summarized in the table below.
+Table 1 - Engagement Methods
+Document Review
+Key Informant Interviews
+Case Studies
+Testing of Contribution Agreements
+This included a review of internal program data, relevant policies and procedures, and program terms and conditions.
+Interviews with Program representatives, committee members (from the Steering Committee, Communications Committee, and Scientific Project Management Committee), research team members, industry partners, and provincial government representatives were conducted to gain further insight into the program’s relevance, performance, and adequacy of the management control framework. Other federal departments’ representatives were interviewed to gain a deeper understanding of the effects that varying federal government stakeholders’ goals have on the SBW EIS-II program. (n=23)
+Three small-scale research projects were randomly selected to demonstrate examples of projects that have been funded through the program, highlight success stories, and share lessons learned related to the small-scale research activity stream of the SBW EIS-II. One interview per case study was conducted and findings were further supplemented through documentation review. The joint engagement did not seek to evaluate the results of any specific research project that has been funded through the SBW EIS-II. (n=3)
+Testing procedures were conducted on a sample of contribution agreements (12 out of 36 total agreements) to gather evidence for an internal audit opinion on the processes used by the program. Contribution agreements from both program streams (insecticide application and small-scale research) across all four years of the program were included in the sample. (n=12)
+Engagement Limitations
+The joint engagement used multiple lines of evidence to mitigate any potential limitations associated with individual data collection methods. The findings and conclusions presented in this report have been triangulated across multiple sources of information.  The evaluation of the SBW EIS-II program was required in compliance with the
+Financial Administration Act
+(FAA) and the TB
+Policy on Results.
+However, scientific research regarding this type of natural phenomenon (e.g., SBW outbreaks that occur every thirty to forty years, impacts on wood supply, etc.) can require measurement and observation over many years to draw conclusions, especially regarding the achievement of the intermediate and long-term outcomes of this program.
+Engagement Findings
+Relevance
+Overall, the joint engagement found that the SBW EIS-II program is relevant and aligned with NRCan and government priorities. The United Nations’ (UN) Sustainable Development Goals (SDGs) specifically call for the sustainable management of forests. The engagement has found that given the long lifecycle of the SBW, there is a continued need for the program, particularly because the program has shown to effectively control and prevent outbreaks in the Atlantic provinces. Lastly, given that the SBW migrates across provincial borders and the State of Maine which shares a border with NB is also experiencing increasing SBW populations, there is a legitimate role for the federal government to be involved managing pests in Canadian forests.
+Continued Need
+Through the review of documentation and key informant interviews, it was confirmed that there is a continued need for the SBW EIS-II program to protect the forests in Atlantic Canada from SBW outbreaks in order to minimize potential economic and environmental impacts.
+The forestry sector is a valuable part of Canada’s economy. In 2019, the forestry sector directly employed over 200,000 people across the country and contributed approximately $24.2 billion to Canada’s nominal Gross Domestic Product (GDP).
+The Atlantic provinces, in particular, are extremely dependent on the forestry industry. Key facts are summarized in the table below:
+Table 2 - Summary of facts about the Forestry Industry in Atlantic Canada
+New Brunswick
+The forestry industry contributes over $1.45 billion annually to the New Brunswick economy, equivalent to 3.5% of the province’s GDP.
+The industry directly employs more than 16,000 individuals.
+Over 30% of the province’s total manufacturing output is comprised of wood and paper products.
+75% of New Brunswick is covered with forest, most of which is comprised of spruce and fir trees, which are vulnerable to SBW outbreaks.
+Nova Scotia
+The forestry industry comprised 0.9% of Nova Scotia’s GDP in 2018, totaling $72.9 million.
+In 2021, the forestry, fishing, mining, quarrying, oil, and gas industries employed 10,400 people in Nova Scotia.
+Newfoundland and Labrador
+The forestry, logging and agriculture industries comprised 0.6% of the province’s GDP in 2019, totaling $189.6 million.
+The forestry industry employs over 5,000 individuals (indirectly and directly).
+The balsam fir is one of the most common tree species in Newfoundland’s forests and is also the most vulnerable to SBW outbreaks.
+Prince Edward Island
+The forestry, agriculture, fishing, and hunting sector comprised 7.7% of total provincial GDP in 2019, totaling $539 million.
+The forestry, agriculture, fishing, and hunting industries employed 4,580 people in 2020.
+Forests cover around 250,000 of the province’s 562,000 hectares of land (44.48%) and contain over 28 million m
+3
+of salable wood.
+Figure 4 - Case Study 1
+Case Study
+Forecasting Impacts of Mortality and Carbon Budgets of Boreal Forests, Université du Québec à Montréal (UQAM)
+Researchers from UQAM are working to determine how treating SBW outbreaks early can not only protect timber supply but also protect the carbon that is stored in trees, preventing the release of carbon dioxide emissions into the atmosphere. The project received funding through the small-scale research stream of the SBW EIS-II in 2019 and since then, the team has modelled several simulations of different scenarios (e.g., various levels of SBW outbreaks, various protection strategies, etc.) to determine how carbon budgets in Atlantic Canada can be affected. One research paper of the team’s findings has been published and two others are currently undergoing peer review. Preliminary findings have been presented at the Ouranos Climate Change Conference in 2020 as well as to representatives from the Healthy Forest Partnership and SERG International, a partnership in forest pest management research. Having access to databases in each of the Atlantic provinces through Canadian Forest Services (CFS) at NRCan greatly contributed to the research project’s success.
+The research team experienced some project delays as a result of the COVID-19 pandemic, largely due to challenges associated with accessing data and information in a remote virtual work environment. Travel restrictions also limited the team’s ability to share their findings with stakeholders at in-person settings. A timeline extension was granted by the SBW EIS-II to account for these challenges.
+Approximately 10 million hectares (ha) or 65 percent of the total forested area in Atlantic Canada is susceptible to damage from the SBW. An uncontrolled SBW outbreak in Atlantic Canada could reduce timber supply by 18 to 25 percent per year over a 30-year horizon. If an SBW outbreak were to occur in New Brunswick alone, it is estimated that there could be a loss in wood harvest supply of 29 to 43 million m
+3
+over the next fifty years, depending on the severity of the outbreak. This could result in direct and indirect economic losses totalling an estimated $10.8 billion to $15.3 billion. It could also lead to a total of 46,000-56,000 job losses over thirty years (1,500 to 1,900 jobs per year) in the region. This further emphasizes the continued need for the SBW EIS-II. Interviews with key informants noted that without a program like the SBW EIS-II, the forestry industry would lose forest value from both an economic and a biodiversity perspective.  Considering the spruce budworm is a native species and a natural part of the ecosystem, implementing a proactive strategy such as the EIS is crucial.
+Although SBW is a native species and a natural part of the ecosystem, the effects of SBW outbreaks can have negative environmental and economic impacts. SBW outbreaks occur in cycles every 30 to 40 years. When uncontrolled SBW outbreaks occur, they can cause severe defoliation and the death of trees. Dead and dying trees are a concern because, in addition to the loss of salable wood, the death of trees has a negative impact on carbon storage capacity. Forests play an important role in carbon sequestration, the process of regulating the amount of carbon dioxide in the earth’s atmosphere by capturing and storing it. Forests can either emit or absorb carbon dioxide depending on human activities and natural disturbances, including insect or pest outbreaks in Canada’s managed forests. If an SBW outbreak were to occur and cause significant amounts of defoliation, trees would begin to die and release stored carbon dioxide back into the atmosphere.
+Footnote
+4
+The release of carbon dioxide back into the atmosphere due to defoliation could negatively impact Canada’s ability to achieve its target of net-zero emissions by 2050.  Based on a review of program documentation, forest health and the maintenance of forest health are important in slowing down the impacts of climate change. Key informant interviews noted there is already concern regarding the country’s carbon footprint and the loss of trees could aggravate the existing problem. Through EIS, treatments can be targeted and applied before significant defoliation can occur, preventing or reducing harmful effects on the existing ecosystem, the forestry industry, and the economy in Atlantic Canada.
+In addition to treatment through insecticide application operations, research is a primary activity stream of the SBW EIS-II program. Several key informants emphasized that ongoing research supports informed decision-making, such as determining which areas to target during insecticide application operations and ensuring the approach is both effective and efficient. Research supports continuous improvement of the program, such as determining and using the optimal amount of insecticide to minimize broader impacts while still achieving program outcomes. Due to ongoing research projects which are continually improving the program, the program is well-positioned to respond to the future and changing needs of its stakeholders. Key informants also noted that the insights, information, and techniques gained from this program have the potential to be applicable to other geographies or invasive species, as it allows for a better understanding of pest population changes and the effects of early intervention.
+Alignment with Federal Government and NRCan Priorities, Roles, and Responsibilities
+Based on a review of program documentation and key informant interviews
+,
+the SBW EIS-II is well aligned with governmental and NRCan priorities, and there is a necessary role for the federal government in the area of pest management as SBW outbreaks can affect other provinces and countries.
+Based on the review of program documentation, the objectives of the SBW EIS-II are to:
+Reduce SBW populations in Atlantic Canada’s forests to prevent development of an outbreak, tree defoliation, and wood supply loss, through small area target-specific insecticide application; and
+Improve knowledge and tools to address current and future SBW outbreak development and spread.
+The Healthy Forest Partnership’s messaging for the SBW EIS-II emphasizes the alignment of the program with the priorities of the federal government. Program documentation and key informant interviews confirm that the program continues to demonstrate its efforts to prevent economic loss while protecting jobs, creating conditions for long-term prosperity, and protecting regions and communities that rely on the forestry industry, while promoting science.
+On a federal level, the design of the SBW EIS-II is intended to support and deliver on the Government of Canada’s Clean Growth and Climate Change Agenda and the
+Pan-Canadian Framework on Clean Growth and Climate Change
+. In the
+Pan-Canadian Framework on Clean Growth and Climate Change
+, forest management is included as a factor in supporting the enhancement of carbon storage for forests.
+A severe SBW outbreak, or a 25% reduction in wood supply, could potentially lead to 66.3 mega tonnes (Mt) of accumulated carbon dioxide equivalent (CO
+2e
+) emissions in the region over a period of thirty years, which is equivalent to the emissions generated from 466,000 passenger vehicles added to the road annually. This is further broken down by province as follows:
+Table 3 - Potential CO
+2e
+Emissions as a Result of a 25% Reduction in Wood Supply
+Province
+Mt CO
+2e
+over 30 years
+New Brunswick
+28.2
+Nova Scotia
+28.7
+Prince Edward Island
+1.5
+Newfoundland and Labrador
+7.9
+Total
+66.3
+An early intervention strategy to detect and limit SBW outbreaks is required to prevent the release of significant amounts of emissions into the atmosphere from dying trees. Protecting the region’s forests plays an important role in Canada’s ability to meet its ambitious climate change targets.
+Furthermore, the program is aligned with Budget 2018, which prioritizes the maintenance and protection of Canada’s natural resources, with $1.3 billion invested in these efforts. In addition to the government’s role in the protection of the country’s natural resources and the achievement of climate change targets, there is a necessary role for the federal government in the area of pest management. SBW infestations and their economic effects occur across provincial, national, and international boundaries, triggering a role for the federal government. The current SBW outbreak is spreading out of Quebec and into Atlantic Canada. The State of Maine also shares a border with NB and is experiencing rising SBW populations.
+Footnote
+5
+The
+Forestry Act
+notes that the Minister of Natural Resources will support research related to the protection, management, and utilization of forest resources in the country while also entering into agreements with provincial governments for forest protection and management of forest utilization.
+Footnote
+6
+The SBW EIS-II is aligned with federal roles and responsibilities, as the program is a partnership between the federal and provincial governments with the objective to use research to improve knowledge and tools as well as protect forest resources.
+The SBW EIS-II is aligned with NRCan’s other priorities, most notably NRCan’s Departmental Results Framework Core Responsibility 1: Natural Resources Science and Risk Mitigation, which requires the department to lead “foundational science and share expertise for managing Canada’s natural resources, reducing the impacts of climate change and mitigating risks from natural disasters and explosives.” One of the commitments under this NRCan responsibility is to “invest in protecting trees from infestations”. The SBW EIS-II supports the advancement of this commitment because it is a strategy dedicated to protecting Canadian forests from pest outbreaks. As well, the program is aligned to NRCan’s Departmental Result 1: Canadians have access to cutting-edge research to inform decisions on the management of natural resources. The SBW EIS-II contributes to this departmental result by using research to implement new and effective pest management approaches to prevent negative economic and environmental impacts.
+In addition to aligning with federal government and NRCan priorities, the SBW EIS-II is aligned with the United Nations’ (UN) Sustainable Development Goals (SDGs). One of the UN’s goals is to sustainably manage forests as forests mitigate against the negative effects of climate change and provide jobs and security for dependent communities. The SBW EIS-II program is aligned with this goal as it aims to protect forests by mitigating the risk of the effects of SBW outbreaks.
+Effectiveness
+Overall, the SBW EIS-II program was found to be effective in its achievement of its intended outputs and outcomes in the immediate term, including maintaining SBW populations below outbreak levels in Atlantic Canada via targeted insecticide application operations. Furthermore, two intermediate outcomes were found to be partially achieved. Whether all the outputs and outcomes in the intermediate and long-term time horizons are met will depend on several factors and require that the program continue its activities into the future. To achieve these outcomes, the joint engagement identified key processes that could be improved to allow the program to continue to track its progress towards achieving its long-term goals and measuring unintended outcomes.
+Progress towards Immediate Outcomes
+Documentation review and key informant interviews demonstrated that the program has achieved one of its two intended immediate outcomes (“Effective treatment of Atlantic Canada’s forest at risk of a spruce budworm outbreak”). The program is on track to achieve its second immediate outcome (“Access to scientific knowledge, surveillance solutions, and response solutions pertaining to spruce budworm outbreaks and early intervention strategy”). Progress toward achieving the program’s immediate outcomes is summarized in the table below.
+Table 4 - Program’s Progress in Achieving Immediate Outcomes
+Intended Immediate Outcomes, Performance Indicators, and Targets
+Outcomes Level of Achievement
+Achieved Outcomes
+Outcome: Effective treatment of Atlantic Canada’s forest at risk of a spruce budworm outbreak
+Performance Indicator:
+Percentage of forest areas eligible for treatment where spruce budworm populations remain below outbreak threshold
+Targets:
+100% of eligible forest areas for treatment in Atlantic Provinces have spruce budworm populations below outbreak threshold
+Footnote
+7
+Achieved
+Based on internal program data, the SBW EIS-II has achieved its short-term target of treating 100% of all eligible forest areas and maintaining SBW populations below outbreak levels throughout Atlantic Canada. Annual L2 survey
+Footnote
+8
+data in New Brunswick (FY 2018-19 to 2020-21) and Newfoundland and Labrador (FY 2020-21) has demonstrated treatment efficacy in treated areas (i.e., treated areas show slower or declining SBW population growth rates compared to untreated areas). The surveyed areas in New Brunswick and Newfoundland and Labrador did not surpass the outbreak threshold (i.e., the provinces have not had to revert to a traditional foliage protection strategy).
+Outcome: Access to scientific knowledge, surveillance solutions, and response solutions pertaining to spruce budworm outbreaks and early intervention strategy
+Performance Indicator:
+Number of advisory committees and boards involving the sharing of knowledge and information on forest pests and related risks to governments, industry, and non-governmental organisations
+Targets:
+Stable or increased number of committees. Baseline is 32 committees.
+Not achieved
+Internal program data identified that there were 32 committees and boards, including the program’s primary committees, involved in the sharing of knowledge and information on SBW and its related risks in fiscal year 2018-19. The number of committees and boards increased to 42 in fiscal year 2019-20. There was a decline in 2020-21 where there were 11 committees and boards involved in the sharing of knowledge and information. This decline was a result of restrictions caused by the COVID-19 pandemic, which limited the outreach activities the program was able to conduct.
+The findings and research for fiscal year 2018-19 were shared with the HFP and the general public through various forms of communications such as the official HFP website, 28 stakeholder presentations and 14 media articles. In 2019-20, there were 69 stakeholder presentations and 14 media articles. In 2020-21, there were 25 stakeholder presentations and eight media articles.
+Footnote
+9
+Key informant interviews noted that the decrease in presentations is also largely due to restrictions associated with the COVID-19 pandemic (e.g., limited travel and in-person gatherings).
+Performance Indicator:
+Number of publications, reports and presentations focusing on surveillance solutions.
+Targets:
+Stable or increased number. Baseline is 2 publications and presentations.
+Achieved
+The baseline in 2018-19 was 2 publications and presentations focusing on surveillance solutions. In fiscal year 2019-20, there were 16 publications and presentations and 9 publications and presentations in fiscal year 2020-21. There was a noted increase in the number of surveillance solutions publications and presentations between 2018-19 to 2019-20 with a decrease leading into 2020-21.
+Footnote
+10
+The number of publications and presentations on surveillance solutions did not remain stable or increase from the baseline over the period of 2018 to 2021.
+Performance Indicator:
+Number of publications, reports and presentations focusing on response solutions.
+Targets:
+Stable or increased number. Baseline is 26 publications and presentations.
+Not achieved
+The baseline in 2018-19 was 26 publications and presentations focusing on response solutions. In fiscal year 2019-20, there were 41 presentations and publications and 18 publications and presentations in fiscal year 2020-21. There was a noted increase in the number of response solutions publications and presentations between 2018-19 to 2019-20 with a decrease leading into 2020-21.
+Footnote
+11
+Overall, the number of publications and presentations on response solutions was higher than the baseline.
+Although this last outcome was not achieved, the program noted a flaw in the design of its performance indicators that limits the communication of the achievement of outcomes. The two indicators for scientific publications and presentations are categorized by surveillance solutions and response solutions. However, limiting to these categories leaves out numerous important published scientific papers and presentations and does not capture the full breadth of what the program was able to achieve. For example, some pertain to genetics, population dynamics, insect biology, modelling, natural enemies, and carbon which do not fit into the surveillance and response categories. If the categories were removed, over the first three years of the program, there were a total of 67 scientific publications and 122 presentations.
+Progress towards Intermediate and Final Outcomes
+Preliminary evidence analyzed through the review of documentation and interviews demonstrated that the program has made some progress towards achieving its intermediate outcomes. However, longer time horizons will be required to ultimately determine the program’s overall success and the achievement of its final outcome.
+Table 5 - Program's Progress in Achieving Intermediate Outcomes
+Intended Intermediate Outcomes, Performance Indicators, and Targets
+Outcomes Level of Achievement
+Achieved Outcomes
+Outcome: Protection of Atlantic Canada’s forest at risk of a spruce budworm outbreak
+Performance Indicator:
+Level (%) of defoliation from spruce budworm in areas of Atlantic Canada at risk of a spruce budworm outbreak.
+Target:
+Annual tree defoliation does not exceed traces or light* levels (*less than 30% defoliation in surveyed areas)
+Partially achieved
+Footnote
+12
+The review of internal program documentation identified that there has been less than 30% defoliation observed in surveyed areas in New Brunswick in the first two years of the program. However, the program has observed moderate defoliation in some surveyed areas in New Brunswick in 2020 and 2021.
+Table 6 - Surveyed Defoliation in New Brunswick (2018-2021)
+Year
+Aerial Survey Defoliation in New Brunswick (ha)
+Number of ha with 1-5% defoliation (trace)
+Number of ha with 6-30% defoliation (light)
+Number of ha with 31-70% defoliation (moderate)
+Number of ha with 71-100% defoliation (severe)
+2018 Defoliation
+550 ha
+2019 Defoliation
+400 ha
+2,000 ha
+2020 Defoliation
+400 ha
+85 ha
+2021 Defoliation
+11,624 ha
+Although defoliation in New Brunswick has observed some moderate defoliation in the final two years of the program, annual L2 survey data demonstrated that the treated areas in New Brunswick are experiencing a continuous decline in SBW populations. In comparison, untreated areas
+Footnote
+13
+are experiencing an increase in SBW populations, demonstrating treatment efficacy. Additionally, from the review of program reports and insights gathered from key informant interviews, it was identified that the areas that have been treated with insecticide (Bacillus thuringiensis Kurstaki (Btk) or tebufenozide) were effectively treated and have not had to be re-treated in subsequent years. This indicates that the EIS is effective in managing SBW populations and preventing outbreaks based on the results to date.
+With the start of treatment on Crown or licensed lands in Newfoundland and Labrador (NL) in 2020, the program has observed 3,319 ha of moderate defoliation (31-70%) in 2020 in these areas (i.e., excluding Gros Morne National Park). In 2021, the program observed 20,650 ha of moderate defoliation (31-70%) and 1,548 ha of severe defoliation (71-100%) on surveyed Crown or licensed lands. Although these surveyed areas are experiencing some moderate to severe defoliation, it important to note that these areas have not reached outbreak levels (i.e., the defoliation is not widespread and does not yet warrant a decision to use a traditional foliage protection strategy instead of the EIS). Additionally, in the one year of data from Newfoundland and Labrador analyzed to date, the treated areas have demonstrated a lower rate of SBW population growth compared to untreated areas.
+The metrics above demonstrate that although the program experienced some challenges in keeping defoliation in surveyed areas below 30%, the program is on track to achieving its first intermediate outcome of “[p]rotection of Atlantic Canada’s forest at risk of a spruce budworm outbreak”. This is demonstrated by the fact that SBW populations have remained below outbreak thresholds to date and SBW population growth rates are lower or decreasing in treated areas in NB and NL compared to untreated areas. There has been no recorded negative impact on the region’s wood supply. However, it is important to note that longer time horizons are required to conclude on the program’s intermediate outcomes (within five years of the start of the program) and long-term outcomes (within ten years of the start of the program).
+Outcome: Decision makers integrate scientific knowledge and information in risk management decisions pertaining to spruce budworm early intervention strategy
+Performance Indicator:
+Uptake of NRCan science and knowledge by public and private sector organizations (number of organizations using NRCan science to inform their decisions).
+Target:
+Stable or increased number of organizations using NRCan science to inform their decisions. Baseline will be established in 2018-19
+Partially achieved
+Footnote
+14
+Although insecticide application was limited to New Brunswick during Phase I of the program and the early years of Phase II, the SBW EIS-II program presently utilizes a pan-Atlantic approach. Through the Healthy Forest Partnership (HFP), representatives from all Atlantic provinces are involved in the research and implementation of the SBW EIS-II and share findings with each other. According to key informant interviews, NL began to observe a SBW outbreak in 2018. As a result of the collaboration and engagement among Atlantic Provinces through the HFP, NL was able to apply lessons learned from the insecticide application operations in New Brunswick. NL was able to successfully begin insecticide application operations in 2020 and 2021 as a direct response to manage its own SBW outbreak. NL has treated a total of 194,036 ha in 2020 and 2021. This demonstrates that the program has achieved this outcome.
+Some interviewees also noted that there is early indication that the research conducted and strategies employed under this program have the potential to have broader applications to other forest pests beyond spruce budworm. Therefore, the research conducted has the potential to inform future decision-making processes in the area of pest management.
+Outcome: Enhanced forest pest management pertaining to spruce budworm early intervention strategy
+Performance Indicator:
+Uptake and acceptance of forest pest management and phytosanitary practices informed by NRCan science. (number of organizations citing uptake or acceptance)
+Target:
+Stable or increased number of organizations citing uptake or acceptance of forest pest management and phytosanitary practices informed by NRCan science.
+N/A
+Longer time horizons are required to be able to conclude on whether there is uptake and acceptance of forest pest management and phytosanitary practices informed by NRCan science.
+Table 7 - Program's Progress in Achieving Long-Term Outcomes
+Intended Long-Term Outcome, Performance Indicator, and Target
+Outcomes Level of Achievement
+Achieved Outcomes
+Outcome: Forests protected from a spruce budworm outbreak provides a sustainable wood supply for Atlantic Canada’s forest industry
+Performance Indicator:
+Amount of wood harvested (m
+3
+) compared to the sustainable supply
+Target:
+Harvest (m
+3
+) is stable compared to 2017-18 but remains below sustainable supply
+N/A
+Longer time horizons are required to be able to conclude on whether forests protected from a spruce budworm outbreak provide a sustainable wood supply for Atlantic Canada’s forest industry.
+Figure 5 - Case Study 2
+Case Study
+Detecting Hotspots and Assessing Forest Susceptibility to Spruce Budworm as part of an Early Intervention Program for Spruce Budworm on the Island of Newfoundland, Memorial University of Newfoundland
+A team from Memorial University is conducting research to improve the detection of future SBW hotspots in Newfoundland by gaining a deeper understanding of possible outbreak factors or indicators. Between fiscal years 2020-21 and 2021-22, the research team for the project established data sharing agreements with the Newfoundland Provincial Forestry Department and collected water samples and lake sediment cores for analysis. Large amounts of data have been collected and analyzed, including data from the last SBW outbreak in Newfoundland that occurred in the 1970s. Through mapping and modelling efforts, preliminary research results indicate that large rivers can significantly contribute to SBW population spread. Three research papers are being prepared for publication. Presentations have been made to the public as well as students and faculty at Memorial University. The research team is working closely with the Newfoundland provincial government to share their findings and support informed decision-making.
+Some of the team’s field work was delayed as a result of the COVID-19 pandemic and travel restrictions limited their ability to work together in-person or meet with partners and other collaborators. Efforts have been made to remain connected through remote working tools such as Slack.
+As part of the progress reporting process, it was noted that a user guide or manual would be beneficial for funding recipients. It would facilitate increased understanding of the various reports that recipients are required to submit to NRCan.
+Unintended Outcomes
+Based on key informant interviews and documentation review, there were some unintended outcomes for the program, in particular related to the relationship that has been formed between NRCan and Parks Canada. As Newfoundland and Labrador began its treatment program in 2020 in an effort to control an outbreak that began in 2018, the provincial government made a request to Parks Canada to include Gros Morne National Park in the insecticide application operations. However, after holding a public consultation and reviewing relevant research and legislation, the Agency decided not to participate in the SBW EIS-II. One factor that affected this decision is the differing mandates between Parks Canada and NRCan. While NRCan’s mandate includes forest pest management and protecting forests from pests that may negatively impact the economic value of the forest sector, Parks Canada is focused on allowing natural processes to occur in order to preserve the ecological integrity and biodiversity of forests. While two interviewees expressed concern regarding how this decision would impact the effectiveness of the treatment program, particularly in Newfoundland and Labrador, more interviewees highlighted that this was an opportunity for NRCan and Parks Canada to develop a stronger relationship. The increased communication due to the relationship has allowed NRCan and Parks Canada to actively share relevant research to support Parks Canada’s decision-making processes with respect to SBW populations in Gros Morne. Representatives from the communications teams, research teams, and senior management at both departments have maintained open channels of communication to share data, knowledge, and expertise.
+These interactions have also raised awareness of the impact that contrasting mandates of landowners can potentially have on the program’s outcomes and identified a knowledge gap related to whether a protected area can be left untreated and still achieve overall program success. It was noted in interviews that there are efforts to develop new policy decision-making processes at Parks Canada regarding the management and intervention of native species that are a natural part of the ecosystem.
+Two key informants noted that a positive outcome of the program was the increased understanding of working with Indigenous communities and approaching pest management in a more holistic manner, considering environmental and cultural sensitivities while also achieving program outcomes. There have also been increased partnerships and engagement with northern and Indigenous communities. Based on the review of internal program communications, there have been demonstrated efforts from the Atlantic provinces to engage with Indigenous communities and find opportunities to involve the communities in the program’s activities, such as having Indigenous community members participate in water sampling efforts of the program.
+Footnote
+15
+Factors Influencing the Achievement of Expected Results
+The COVID-19 pandemic did not significantly impact the program’s ability to achieve its outcomes, with the exception of some outreach activities (e.g., number of advisory committees and boards). While some researchers were unable to travel to collect the necessary samples for their research projects, other researchers were able to carry out their work remotely.
+Collaborative efforts with regional NRCan and provincial representatives as well as contractors allowed most funding recipients to continue their research efforts without significant delays. It was noted that staff in New Brunswick were considered essential workers, so they were able to continue their work while also supporting out-of-province research work where required. Some funded researchers also indicated that they were able to travel and collect samples in the summer of 2021 to make up for any missed samples in 2020. If individual research projects were unable to use all their budgeted funding in the year due to impacts of the COVID-19 pandemic (e.g., reduced travel costs), the program had the flexibility to issue amendments to the contribution agreements and reallocate funding to the following fiscal year.
+There was a natural SBW population crash that occurred in New Brunswick in 2019 which was outside of the program’s control. This caused a reduction in the insecticide required for treatment. The natural decrease in the SBW population also resulted in less program funds being used for that year. Researchers were able to use this natural population crash to collect data and conduct focused research on how weather and climate predictions can be used to predict future SBW population changes.
+The majority of key informants noted two main factors that have contributed to the program’s success to date. Firstly, there is a robust communications strategy in place. The importance of regular and transparent communication with key stakeholder groups was emphasized at the onset of the program, as demonstrated by key program documents such as the Strategic Communications Plan. This communications strategy is supported by appropriate governance structures, including the Communications Committee. The purpose of the Communications Committee is to implement the program’s communications strategy, and the intended objective of the strategy was to engage early and regularly with Indigenous communities, local communities, and landowners to increase awareness and understanding of research and insecticide application activities. Engagement sessions were held with the public to explain both the “what” and “why” of the program and to encourage buy-in of private woodlot owners and the general public for aerial insecticide application. This contributed greatly to the program being able to gain a ‘social license’ for the work; there was broad support for the program because its activities, objectives, and benefits were communicated clearly. A ‘social license’ is defined as “when a project has the ongoing approval within the local community and other stakeholders.” A high level of credibility was also established due to the involvement of scientists, researchers, and industry partners in the engagement sessions and through the individual work of funded researchers (e.g., through published research papers, local workshops or webinars, presentations at conferences, etc.).
+The program’s second success factor is the high degree of collaboration between a diverse group of stakeholders, including researchers and academia, provincial governments, the federal government, conservation groups, and industry partners. Several interviewees emphasized that there is a high degree of synergy in the partnerships that were formed between these groups, particularly between the federal government and provincial governments, and they have allowed the program to be both efficient and effective in its delivery. There is a common understanding of the intended objectives of the SBW EIS-II and communication channels remain clear and transparent so that any challenges are identified and addressed in a timely manner. This also allows various stakeholder groups to share their perspectives, knowledge, and expertise and contribute to broad program success.
+A particular aspect of the program that was continuously emphasized by key informants was the citizen science
+Footnote
+16
+efforts being undertaken. For example, to gather data surrounding SBW population densities and distribution across a large geographical area, researchers leveraged the power of citizen science by recruiting volunteers to set up pheromone traps in their local communities and report on the number of moths that have been captured. This approach was a cost effective and efficient way of collecting information about SBW populations.  These efforts allowed researchers and program managers to more accurately and effectively treat forest areas that were affected by spruce budworms. Citizen science also fostered a greater degree of trust and understanding between community members and program managers, contributing to the program’s social license to operate and achieve its intended objectives in a way that considers the needs and concerns of various groups. Citizen science is a demonstration of both the program’s ability to maintain a high degree of communication with stakeholders as well as its ability to bring together a diverse group of stakeholders to work towards a common goal.
+Efficiency and Economy
+Overall, the joint engagement found that the SBW EIS-II program has adequate governance structures in place and that processes have been appropriately designed, implemented, and communicated to stakeholders. These structures and processes are used to provide and conduct oversight over the program. While the structures are adequate, the joint engagement noted that there is an opportunity to develop and apply a conflict of interest process to effectively mitigate against any perceived or real conflicts of interest. Furthermore, the program has implemented effective processes and controls to support compliance with the TB
+Policy on Transfer Payments
+. The joint engagement found that key financial controls have been designed and implemented and have been operating effectively most of the time; however, areas for improvement were identified regarding information management to support knowledge transfer, retention of key documentation, and meeting service standards. Lastly, the joint engagement found that while the program is being delivered efficiently and economically, including taking into account GBA+ considerations, it is recommended that the program develop specific GBA+ and diversity targets. This would allow for improved monitoring and turn unexpected successes in this area into intended outcomes. The program has successfully leveraged information obtained through both program streams (insecticide application and small-scale research) and applied these lessons learned to improve various aspects of insecticide application. This includes the optimization of the amount of insecticide required to prevent SBW outbreaks, resulting in increased efficiency.
+Governance and Oversight
+Based on the review of program documentation and insights gathered from key informant interviews, the program’s governance bodies provide effective oversight and challenge functions, and the program’s governance structures improve the delivery and effectiveness of the program.
+Interviews with program stakeholders confirmed that the program’s committees (Steering Committee, Scientific Project Management Committee, and Communications Committee) form an effective governance structure for the program. The HFP has a critical role in the success of the program. The HFP Steering Committee is responsible for overseeing the progress of the SBW EIS-II while making recommendations to NRCan managers and funding collaborators. It was noted that there is adequate and diverse representation of key stakeholders on each committee, which supports sound decision-making for the program. The decision-making process for the program’s Steering Committee is clearly documented and a Terms of Reference was developed for the committee. Decisions that involve material changes to projects or budget approvals require a majority of members present at the meetings and a motion. The motion outcomes are documented in the record of decision. Other decisions may be made based on tacit approvals from the committee. However, there are opportunities for members to request a formal vote.
+Program Roles, Responsibilities, and Accountabilities
+Based on the review of program documentation and key informant interviews, program roles, responsibilities, and accountabilities are clearly defined and well understood among key stakeholders. During the inception of the program, leadership placed significant focus on establishing a robust governance structure as well as ensuring roles, responsibilities, and accountability structures were clearly defined, communicated, and implemented. Interviews with program representatives and stakeholders and the review of internal program documentation confirmed that there is effective documentation of the roles and responsibilities of the Steering Committee, Scientific Project Management Committee, Communications Committee, and Research Team. The high-level responsibilities of each committee are as follows:
+The Steering Committee is responsible for approval of the overall EIS research plans and annual treatment plans.
+The Communications Committee is responsible for developing the program’s overall communications strategy which includes any activities related to public outreach.
+The Scientific Project Management Committee provides recommendations for the annual research plan, oversees the program’s research and operations, and the progress of the research teams according to the overall program objectives.
+The Research Team works alongside the Science Project Management Committee and supports the planning of the research projects, conducts the internal research within NRCan, carries out the project activities, and reports on the work conducted.
+The Program Administration and Guide and the Program’s Terms and Conditions highlight the roles and responsibilities of the:
+Atlantic Forestry Centre (AFC) as the Collaborating Unit responsible for research, expertise, and liaison; and
+Trade, Economics, Industry Branch (TEIB) as the Funding Unit responsible for approving all funding decisions.
+NRCan’s TEIB is responsible for managing the non-advertised application process, program administration activities, as well as the approvals and delivery for both insecticide application operations and small-scale research.
+Conflict of Interest
+As per NRCan’s requirement, a Conflict of Interest Attestation form must be completed and signed for all grant and contribution agreements, regardless of the dollar value. The attestation form verifies information to ensure that there are no relationships or linkages between members of the NRCan departmental team and the applicant organization. There is also a section available on the form to highlight actions taken by the program to mitigate any potential conflict of interest. This attestation form must be signed by the accountable manager (with delegated financial authority who is responsible for the management of the SBW EIS-II).
+Based on documentation review and key informant interviews, it was identified that there is no conflict of interest verification that occurs for the program’s committee members. Key informant interviews found that there may also be a real or perceived conflict of interest associated with the internal application review and funding decision-making processes undertaken by the committees. For example, FPL’s responsibility to the program as the primary proponent for insecticide application along with its responsibility of chairing the program’s Steering Committee presents a conflict of interest risk for the program. In order to reduce this risk, the program conducted a legal review of the contractual language in place. There are also a variety of stakeholder groups who are represented on the Steering Committee (federal government, provincial governments, researchers, industry partners, etc.) and key informant interviews confirmed that there were no concerns about FPL potentially influencing discussions or decisions. To standardize this process, there is an opportunity for the program to formalize and implement a conflict of interest verification process for committee members to further reduce the potential risk of perceived or real conflict of interest.
+The program’s small-scale research activity stream is a non-advertised, non-solicited application process. Potential applicants are identified by the Scientific Project Management Committee, which is made up of representatives both internal and external to NRCan. Key informant interviews identified a potential perceived or real conflict of interest associated with this non-competitive process as the application review and funding decision processes may include those who are connected to the applicant. To mitigate this potential conflict of interest, there is a clear segregation of duties between committees, where the Scientific Project Management Committee will make recommendations to the Steering Committee. The Steering Committee has final approval authority of which research applicants will be funded. Committee members are often challenged in their decisions, where appropriate. Key informant interviews also confirmed that any committee members who may have a perceived interest in a funding decision either recuse themselves from the decision-making process or are removed by the committee chair from the decision-making process. However, this process is not formalized. There is an opportunity for the program to formalize and implement a conflict of interest process to ensure any committee members who may have an interest in the funding decision are prohibited from contributing to the discussion.
+Recommendation 1:
+The Assistant Deputy Minister (ADM)/Canadian Forest Service (CFS) should ensure that the SBW EIS-II develops and implements a formalized conflict of interest process, including a verification process for all current and future program committee members as well as procedures regarding recusal from funding decisions when appropriate to mitigate conflict of interest risk.
+Management Response:
+Management agrees with this recommendation.
+While there were no actual conflicts of interest documented in Phase II, a renewed EIS program will work with the NRCan COI unit to ensure alignment with departmental best practices and to formalize a conflict of interest verification process for committee members involved in discussions directly or indirectly related to activities funded by NRCan at the onset of the initiative.
+NRCan will formalize the conflict of interest process by requiring that all current and future committee members complete a conflict of interest check, starting in 2022-23, which will reduce the risk of perceived or real conflict of interest when funding decisions are being made. The conflict of interest process will be monitored over the duration of the project, including at the onset, during the call for proposals, and whenever a project proposal is received and considered for funding.
+A formal recusal procedure will be prepared at the onset of the initiative and shared with anyone involved in funding decision-making during the initiative. Abiding to this procedure will be a requirement for anyone involved in funding decisions. In line with Phase II, any committee members who may have a personal interest in a decision with funding implications will be removed from the process. This will be monitored and reported through HFP committee minutes, as well as the CFS review committee minutes. Reminders of the recusal procedure will be made by CFS to all committee members, particularly at key decision points, over the duration of the program.
+Position responsible:
+Program administrators
+Due Date:
+June 2022
+Program Monitoring
+The review of documentation and interviews identified processes that demonstrate that the program results are monitored and communicated to Senior Management and used to inform future program phases. For example, progress reports from funded researchers are submitted to the program on a semi-annual basis. These reports detail progress against planned outcomes and note any potential challenges. Additionally, NRCan maintains an internal tracker that is updated each fiscal year which describes the service standards related to acknowledgement of receipt of proposal, providing funding decisions, and issuing payment for all NRCan programs, including the SBW EIS-II.
+Interviewees and program documentation revealed that the design of the program, built on collaboration and bringing together diverse stakeholders and experts, was a key component to the success of the program. Communication channels are open, and processes are transparent, allowing stakeholders to discuss progress reports and provide input as applicable to improve program delivery or support the achievement of program objectives.
+Information Management
+Based on documentation review and testing, there is an opportunity to improve internal processes to further support the program’s effectiveness, efficiency, and economy. When executing testing procedures for this joint engagement, it was noted that contribution agreement and project documents do not consistently follow a standard naming convention and are not always stored within standard folder structures. This may present a challenge when attempting to locate specific documentation or information.
+Standardized naming conventions for both documents and folders as well as standardizing storage locations across projects would support efficiencies and consistency in the administration of contribution agreements in the future. Consistent and standardized information management processes also support knowledge transfer. Should a key resource from the program administration function vacate their position, a new resource may experience challenges locating and accessing information.
+Additionally, while there is some reported progress of the program contributing to its intermediate and long-term outcomes, longer time horizons are required to be able to conclude on whether the program successfully achieved its intermediate and long-term outcomes. To ensure the program continues to make positive progress in achieving its intended outcomes, there is an opportunity for the SBW EIS-II to improve information management processes that are updated on a regular basis with data and information related to the indicators associated with the program’s intermediate and final outcomes. This will allow the program to monitor trends and progress more effectively as well as support decision making.
+Overall, there is an opportunity to improve and clearly document the program’s information management processes to increase program efficiency, limit potential errors and inconsistencies, support knowledge transfer, and improve program monitoring.
+Recommendation 2:
+The ADM/CFS should ensure that the SBW EIS-II improves and clearly documents the program’s information management processes to increase program efficiency and support knowledge transfer by ensuring that the results of intermediate and long-term outcomes are consistently recorded, key documentation is consistently retained, and that service standards related to the selection of proponents are met.
+Management Response:
+Management agrees with this recommendation.
+A renewed EIS program will develop a consistent naming convention for both documents and folders in GC Docs to increase efficiencies and consistency in the administration of documentation in support of contribution agreements. To ensure consistency and increase program efficiency, the program officers will also provide Proponents with revised reporting templates for transfer and recording of the results of both the intermediate and long-term outcomes.
+Administrative and reporting standards will be implemented at the onset of the program and monitored at mid-year and end-of-year over the duration of the program to ensure that the program’s information management processes are being consistently followed.
+Position responsible:
+Program administrators
+Due Date:
+June 2022
+Contribution Agreements
+Compliance with Program Terms and Conditions
+Based on documentation review and testing, the administration of contribution agreements is compliant with the program’s terms and conditions, which are aligned with NRCan’s Delegation of Financial Authorities Instrument and the broader Treasury Board
+Policy on Transfer Payments
+. Contribution agreements are developed in accordance with the SBW EIS Contribution Agreement template and include clearly outlined deliverables, outputs, and terms and conditions. For all contribution agreements selected for testing, signatures for the contribution agreements were completed by a properly delegated proponent representative as well as the appropriate NRCan official with relevant delegated signing authority (i.e., Assistant Deputy Minister, Director General, Director, etc.).
+Risk-Based Approach to Recipient Audits
+A review was conducted to determine whether the program applied a risk-based approach to recipient audits. Throughout the review, it was identified that an audit evaluation form was developed and implemented to support risk assessments for funded projects. Several factors were reviewed as part of the evaluation form and included the total value of NRCan’s contribution, total project costs, and whether the recipient met the requirements for the required progress reports. Based on the results, the projects were ranked as low, medium, or high-risk, which ultimately determined the selection of projects for recipient auditing. Under this approach, every project where NRCan contributions are $10 million or higher would automatically be audited. A sample of twelve completed audit selection forms were reviewed as part of the joint project. The audit selection forms weighed the consequence risk factor and likelihood risk factor. One out of twelve projects had a medium risk ranking and the remaining eleven had a low-risk ranking. At the time of this joint engagement, two recipient audits were underway but had not yet been completed and no conclusions had been drawn.
+Documentation review confirmed that the Request for Proposal (RFP) used in the solicitation of third-party audit firms adequately identified and defined the scope and objectives for the work. The objective of the audits was “to obtain reasonable assurance that Recipients under the participating program have provided financial information to NRCan free of material misstatement” with the scope of the audits spanning until the end of the SBW EIS-II program (March 31, 2022). The scope of the audits is seeking to “address any or all financial and non-financial aspects of the funding agreement”. The audits would verify the eligibility of the program’s expenses and ensure that the amounts are “deemed appropriate in accordance with the financial terms and conditions outlined in the Contribution Agreement”.
+Documentation review and key informant interviews confirmed that the SBW EIS-II uses a risk-based approach to planning recipient audits and monitoring the execution of the projects to ensure compliance with the program terms and conditions.
+Selection Criteria
+Based on the review of program documentation and testing, selected proponents meet the selection criteria of the program. Funding decisions made by the Scientific Project Management Committee and the Steering Committee are documented. The joint engagement reviewed the documented decisions and found that appropriate rationale for the funding decisions was provided. However, when a proposed project was rejected, communication of the decision to the proponent was inconsistent. Only 25% of rejected applicants selected for testing were informed of the rejection within the timeline established by service standards (31 days) and 25% were informed of the rejection past 31 days. For 50% of the rejected applicants selected for testing, communication to the applicants was not documented. There is an opportunity for the program to improve its document retention practices to support program monitoring activities and achievement of service standards (see Recommendation 2).
+Payments Made to Proponents
+Based on documentation review, testing, and key informant interviews, program management has processes and procedures in place that ensure the program is executing appropriate due diligence on information received from proponents. Proponents must submit work plans, which include funding estimates, and NRCan’s TEIB is responsible for seeking approval from the appropriate level of authority. Prior to a contribution agreement being signed, program administration prepares a risk assessment and conflict of interest check for all proponents. These procedures document any significant risks of funding the proponent as well as any identified connections to the proponent that could lead to altered results on the part of the project. The NRCan Centre of Expertise on G&Cs and the legal team are also available to review and provide advice on or endorsement of contribution agreements as necessary. Finally, all funding agreements and related amendments must be approved by the appropriate level of signing authority depending on the value of the contribution agreement.
+After a funding agreement is in place, proponents are required to submit regular expense claims which are thoroughly verified by program administration. These claim verifications ensure that all tasks within the work plan are less than 20 percent of the total project budget and that overhead costs remain below 15 percent of the total agreement amount. All claims must be supported with appropriate documentation, including a budget, eligible expenditures by task, explanations of overhead expenditures (regardless of whether costs have been incurred), and a breakdown of capital purchases (regardless of whether purchases have been made). All claims are subject to a 10% holdback and final payments are not made until NRCan has verified and accepted that planned project activities have been completed.
+Key informant interviews confirmed that all claims-related information is thoroughly tracked by program administration and regularly updated with each claim received. Program administration regularly communicates with proponents regarding report or claims due dates, available budget room, and other claims-related information.
+Based on documentation review and key informant interviews, there is appropriate due diligence over the payments made to proponents to ensure that payments are made in accordance with the program’s terms and conditions. For each proponent, program administration tracks:
+Claims against the total annual budget;
+The remaining annual budget balance;
+The dates claims were submitted;
+The dates payments were issued;
+If claims were submitted, processed, and paid within service standard timelines;
+If Section 34 was complied with; and
+That all expenses were deemed eligible as part of the claims process.
+NRCan maintains an internal tracker updated each fiscal year which describes the service standards related to acknowledgement of receipt for proposal, providing funding decisions, and issuing payment for all NRCan programs. The SBW EIS-II has met the service standards at 100% for all three metrics. Through a review of internal program communications, it was identified that SBW EIS-II senior management reviews the service standards results prior to the results being published.
+Proactive Disclosure
+Based on documentation review, testing, and key informant interviews, there are effective processes in place to ensure the public disclosure of contribution agreements online is accurate, complete, and timely. The data associated with a contribution agreement is auto-generated in the Agreements Module & SAP Interface (AMI), an application tool that NRCan’s programs use to manage grants and contributions agreements, and are manually validated by program administration. The disclosure is then sent for approval to the relevant authority. The disclosure is auto-generated in the OpenGov Grants and Contributions database after it has been approved and the process is triggered by program administration. All contribution agreements and amendments selected for testing (100%) were posted online in a timely manner, often within 1-2 business days of receiving approval from the appropriate authority. All agreements matched the details of the proactive disclosures and were approved by the appropriate designated signing authority. In all instances examined, there were no documented reasons not to disclose contribution agreement information. Documentation for the proactive disclosure and related approvals and processes were stored within the AMI system.
+Gender-Based Analysis Plus (GBA+) Considerations
+Review of documentation and key informant interviews confirmed that the program has taken into account GBA+, with special attention to ensuring there is engagement with Indigenous communities who may be impacted by the research or insecticide application activities undertaken by the program.
+A GBA+ analysis was completed at the outset of the program. Based on this initial analysis of disaggregated data from various academic and government sources, it was determined that the program would not have negative effects on various groups or intensify any existing inequalities between groups. One of the objectives of the program is to protect forests from SBW outbreaks, ultimately allowing the forestry industry in Atlantic Canada to continue to thrive and provide valuable employment to individuals in the region, including those located in rural and remote communities.
+Key informant interviews noted that the program has made efforts to ensure adequate representation of women and other equity groups in science and technology as well as in the forestry sector. Although key informants indicated that no specific gender and diversity targets have been established for the program, research teams have actively recruited Indigenous students and graduate students from around the world, and noted that program staff and researchers work in both official languages (English and French) where possible. Interviewees confirmed that there is a gender balance within the program and its committees, and FPL has created the Xenia Morales – Women in Aviation Scholarship to support the participation of women in the aviation sector. Those in the aviation industry support pest management through activities such as aerial monitoring and insecticide application. There is an opportunity for the program to develop gender and diversity targets and measures to track adequate representation of equity groups more effectively.
+Based on documentation review, NRCan’s
+Employment Equity Action Plan
+, the
+Public Service Employment Act
+, and provincial employment equity policies mitigate the likelihood of unequal representation of equity groups across internal program activities by leveraging corporate tools and guidance to reduce the barriers that equity groups experience in their work environments. For instance, the
+Public Service Employment Act
+specifically notes that there must be appropriate representation of all groups. The program’s Communications Committee also plays an important role in communicating information about the program in both official languages to diverse groups. Any potential public concerns regarding the program, including any concerns raised by equity groups, are tracked by monitoring social media and the Healthy Forest Partnership website. These would then be raised to the Communications Committee so that the members can address issues in a timely manner.
+Early engagement with Indigenous communities is an important component of the program’s communications strategy. Based on documentation review and key informant interviews, engagement sessions, led by provincial representatives, have been conducted with Indigenous communities prior to insecticide application or research activities being conducted on traditional territories. The New Brunswick Department of Natural Resources and Energy Development is responsible for engaging with Indigenous communities in the province. The process includes a letter being sent out to all impacted Indigenous groups at least one year prior to the planned commencement of the treatment or research activity. Where required, Indigenous groups are provided with additional information. Engagement support may be provided by NRCan scientists. Engagement activities in the province are reported regularly to the SBW EIS-II Communications Committee and the Steering Committee. In Newfoundland and Labrador, the province’s Department of Fisheries, Forestry and Agriculture has a communications strategy in place that supports constant and transparent communication with all impacted/potentially impacted groups and communities, including Indigenous groups. Prior to any insecticide application operations, a Pesticide Operators License must be obtained from the Department of Environment, Climate Change and Municipalities. The process of obtaining the license requires operators to engage with stakeholders, including Indigenous groups, and mitigate against any of their identified concerns. A communications strategy is also used to engage with the public, including through websites and community notification letters. In the province, the Miawpukek Mi’kamaway Mawi’omi and the Qualipu First Nation were engaged in 2020 and 2021 and did not provide any specific feedback or concerns. Like New Brunswick, engagement is led by the province of Newfoundland and Labrador with support from NRCan staff where required. In August 2021, the province of Nova Scotia submitted formal letters to Mi’kmaq communities throughout the province requesting engagement to gather their perspectives on the risk of spruce budworm outbreaks and to inform them of the early intervention strategy and approach.
+There is documented evidence of outreach activities conducted, by NRCan research staff, with Indigenous communities for the SBW EIS-II program. The activities date from fiscal year 2018-19 to 2021-22. Activities include engaging with Uapishka biosphere reserve (where an Innu reserve is located), the Pessamit Innu Band, and the NunatuKavut Community Council on an annual basis. Additionally, to support the water sampling program of the SBW EIS-II, NRCan engaged with Mi’gmawe’l Tplu’taqnn Incorporated, an Indigenous not-for-profit organization comprised of New Brunswick’s nine Mi’kmaq communities, and involved a member of the community to participate in the sampling efforts.
+Given the importance of engagement with Indigenous communities for the SBW EIS-II, there is an opportunity for the program to develop performance targets and measures regarding engagement with potentially impacted Indigenous communities to support program monitoring and decision-making activities.
+Recommendation 3:
+The ADM/CFS should ensure the SBW EIS-II develops GBA+ and diversity performance measures, collects relevant data, and assesses how different groups are impacted by the program, thereby turning unexpected outcomes into expected outcomes and allowing for improved monitoring. Specifically, consideration should be made to develop specific measures related to the engagement of Indigenous communities.
+Management Response:
+Management agrees with this recommendation.
+A renewed EIS program will include new indicators, and related targets, aimed at tracking:
+Impact of the program on workforce demography and diversity, and specific impact of equity, diversity and inclusion measures taken by funding recipients in the context of forest health protection operations and research activities; and
+The resolution of concerns raised by Indigenous groups, and potential impacts on communities of projects under a renewed program.
+This information will be articulated in proposals and reports from recipients of federal contributions. Baselines and targets for these new indicators will be established after the first year of a renewed program. Results will be monitored annually through contribution agreement reporting over the duration of a renewed program.
+A renewed program will encourage recipients of contribution funding to report baseline workforce demography and diversity data as part of a voluntary survey. The Program will also provide recipients of contribution funding with a template for a diversity and inclusion plan that can be considered to guide the development of specific employment equity measures for their respective organizations.
+Position responsible:
+Program administrators
+Due Date:
+June 2022
+Resource Allocation
+The review of documentation and key informant interviews identified that the SBW EIS-II has been able to efficiently produce its intended activities and outputs with its planned resources. Based on the program’s Corporate Costing Model – Financial Costing Information Summary for the SBW EIS-II, an average of 7.25 Full-Time Equivalents (FTEs) were requested per fiscal year of the program. The actual program FTEs requested per fiscal year are summarized in the table below. Based on program documentation, the FTEs were requested to support the research (conducting field sampling, lab analysis, preparing reporting material for publication, etc.) and the grants and contributions (managing staffing, contracting, and procurement activities, etc.) components of the program.
+Table 8 - Total Program FTEs Requested Per Fiscal Year
+Fiscal Year
+Total FTEs Requested
+2018-19
+7.5
+2019-20
+8
+2020-21
+7.5
+2021-22
+6
+Many interviews with program stakeholders confirmed that the allocated resources (both FTEs and budget) used to deliver and achieve program outcomes are adequate.
+Key informant interviews and program documentation indicated that the program is generally spending less than the originally budgeted amount on an annual basis. The overall budget and actual spend per fiscal year for the SBW EIS-II is summarized in the figure below.
+Figure 6 - Overall Program Budget vs. Actual Spend per Fiscal Year
+Text version
+Figure 6 – Overall Program Budget vs. Actual Spend per Fiscal Year
+This figure presents the program’s budget and actual spending over the period of fiscal year 2018-2019 to 2021-2022. The amounts are further broken down by administrative expenses (including salaries and operations & maintenance) and contribution program expenses.
+In fiscal year 2018-2019, $1.8 million was budgeted for administrative expenses and $1.7 million was spent. $9.2 million was budgeted for the contribution program and $5.6 million was spent.
+In fiscal year 2019-2020, $2 million was budgeted for administrative expenses and $2 million was spent. $14.5 million was budgeted for the contribution program and $2.2 million was spent.
+In fiscal year 2020-2021, $2.1 million was budgeted for administrative expenses and $2.1 million was spent. $19.5 million was budgeted for the contribution program and $8.2 million was spent.
+In fiscal year 2021-2022, $1.9 million was budgeted for administrative expenses and $1.9 million was spent. $23 million was budgeted for the contribution program and $29 million was spent.
+The total budget and spending for the Contribution Program for the SBW EIS-II is summarized in the table below. These figures are a subset of the graph above (overall budget and actual spend for the program).
+Table 9 - Total Budget and Spending for the Contribution Program
+Fiscal Year
+Total Budget ($)
+Total Spend ($)
+Lapses ($)
+Total Contribution Program ($)
+Total Reprofile/ Reallocation ($)
+2018-19 (actuals)
+$9,200,000
+$0
+$5,649,230
+-
+2019-20 (actuals)
+$14,500,000
+$3,550,770
+Footnote
+17
+$2,237,149
+$15,813,621
+2020-21 (actuals)
+$19,500,000
+$(6,000,000)
+Footnote
+18
+$8,192,632
+$5,307,368
+2021-22 (forecasted)
+$23,000,000
+$6,000,000
+$28,960,379
+$39,621
+The joint project found that a natural decline in SBW led to larger than expected lapses in program funding due to challenges regarding forecasting a natural phenomenon. This challenge is further discussed below.
+Challenges Associated with Forecasting Funding Requirements
+Although the program has generally remained within budget, interviews with Program representatives noted that it has been challenging to accurately predict the precise amount of funding required for each fiscal year over the duration of the program. A large part of the program’s budget is dedicated to insecticide application, which largely depends on SBW populations. In 2019, there was an unexpected decline of the SBW population in New Brunswick. This resulted in the 2019 treatment program being significantly smaller in both area and cost than originally forecast. To address this, there was a formal request to reprofile funds from FY 2019-20 to the next two fiscal years. However, this request was denied. Another request was made the following year to reprofile $6 million from FY 2020-21 to FY 2021-22. This request was accepted. Access to lapsed funding or the ability to reallocate across fiscal years is vital to the success of the program, particularly if there is an unexpected increase in SBW populations in the future.
+Spending less than the budgeted amount and having to use less insecticide to manage SBW populations are generally seen as indicators of success from a program perspective. However, key informants noted that there is a negative perception regarding the budgeting capabilities of the SBW EIS-II when there are significant amounts of lapsed funds. This is one of the challenges of a program that is designed to respond to natural, biological events that take place over a multi-year cycle. It is difficult to accurately predict the precise amount of funding required in each fiscal year to respond to fluctuating SBW populations. Key informant interviews noted that the dates of when the program is able to receive forecasted data of SBW populations are not well-aligned with the deadlines to make amendments to the program’s budget. It would be ideal if it were possible to forecast months in advance whether a budget is not likely to be fully used in one fiscal year. This could increase the likelihood that funds expected to lapse could be reprofiled for the next fiscal year. With several years of data having been collected since Phase I, there may be an opportunity for the program to continue to improve future forecasting of funding requirements and to work more closely with NRCan’s finance officers to mitigate against future forecasting challenges.
+While it may be challenging to reprofile overall program funding across fiscal years, Program representatives noted that there was more flexibility to reallocate research dollars between research projects through a straightforward process to balance the budget. As well, amendments have been made to several research projects to transfer money into the following fiscal year, particularly in response to travel restrictions imposed during the COVID-19 pandemic. While the pandemic did not significantly impact research progress, some research teams had to delay their planned travel to later years.
+Challenges with the 60:40 Cost-Sharing Arrangement
+Through Budget 2018 and the 2020 Fall Economic Update from the Government of Canada, there is a requirement to cost-share for the SBW EIS-II program on a 60:40 federal to provincial and industry basis. The 60:40 funding arrangement is a key component of the SBW EIS-II, which includes NRCan’s contribution of up to $74 million throughout the duration of the SBW EIS-II, ultimately representing 60% of the program’s cost. The remaining 40% is to be covered by non-federal government collaborators and industry partners, representing up to $50 million over the four years of the program. Based on internal program documentation and key informant interviews, this 60:40 funding arrangement introduces an additional level of complexity. In the early stages of the program, there was a 60% funding cap on federal support for insecticide application, which included in-kind contributions as a part of the total costs to which the 60% cap was applied. In addition, the overall initiative included monitoring operations, insecticide application operations, internal and external research, and communications activities. This resulted in a perceived increase of the administrative burden for both Program representatives and funding recipients as well as a lack of understanding of the requirements. Some interviewees also noted that the definition of “in-kind contributions” was not well understood by all stakeholders. As a result of this challenge, the program’s terms and conditions have since been modified to remove the 60% federal support cap on insecticide application and to remove research from the calculation of the 60:40 cost sharing ratio. In the amended ratio calculation, the 60% federal contribution is for insecticide application only, and the 40% contribution from provinces and industry is for monitoring, insecticide application, and communications, over the four years of the program.
+Based on the review of internal program documentation, the forecasted budget and actual spend of the 60:40 funding arrangement as of February 2022 for the program is presented in the following table, demonstrating that the provinces and industry partners have contributed more than 40% of costs. The federal contribution for treatments has been lower than 60% due to a smaller than expected treatment program in 2019 and because the provinces and industry partners contributed more than 40% of costs.
+Table 10 - Summary of the Program’s 60:40 Cost-Sharing Arrangement as of February 2022
+Fiscal Year
+Federal Contribution for Treatments
+Total Provincial/Industry Contribution
+($)
+Cumulative Overall Ratio
+($)
+Cumulative Overall Ratio
+2018-19 (actuals)
+$4,562,997
+51.6%
+$4,271,813
+48.4%
+2019-20 (actuals)
+$700,000
+47.6%
+$1,523,451
+52.4%
+2020-21 (actuals)
+$6,272,673
+54.6%
+$3,813,466
+45.4%
+2021-22 (forecast)
+$26,860,793
+38.7%
+$51,225,266
+61.3%
+Total $ Contribution
+$38,396,463
+$60,833,996
+Cost-Effectiveness
+Based on documentation review and key informant interviews, the most notable cost-effective means of achieving the expected results of the SBW EIS-II is prevention of SBW outbreaks and early detection of areas where SBW populations are low but increasing. There were limited insights gathered from interviews and documentation review regarding alternative design and delivery models that could achieve similar results at the same cost of the SBW EIS-II. This was in part due to the current delivery model and approach meeting current needs and achieving its intended outcomes in a cost-effective manner. Interviews and documentation review confirmed that the SBW EIS-II continued the efforts undertaken in Phase I of the program, leveraging Phase I learnings where applicable.
+Prior to the implementation of the SBW EIS as a pest management strategy, there was a SBW outbreak in Canada from 1967 to 1993 which impacted 58 million ha of forest and led to approximately 500 million m
+3
+fibre loss of spruce and fir in Quebec. As well, in 1975, 3.6 million ha of forests experienced defoliation in New Brunswick as a result of a SBW outbreak. To combat this, New Brunswick implemented a reactive control approach to treat 2 million ha of land per year. However, rising SBW populations in the late 2000s triggered the implementation the SBW EIS-I in New Brunswick.
+Figure 7 - Case Study 3
+Case Study
+Best Management Practices (BMPs) for EIS Treatments and Operations, Forest Protection Limited
+The primary objective of this research project is to develop best practices for EIS treatments. This includes examining various ways to reduce the cost per hectare of treatment through activities such as reducing insecticide application amounts and optimizing the timing of treatment windows while also ensuring that treatments are completed effectively. The research team has successfully collected larvae samples in both treatment and control areas over the last two years in order to compare the efficacy of varying amounts of insecticide. Several presentations were made to the public to explain how insecticides like
+Bacillus thuringiensis
+var. Kurstaki (
+Btk
+) and Tebufenozide are applied in an early intervention strategy for SBW outbreaks. Preliminary activities have also been carried out to create an operations centre for EIS managers to leverage real-time data to inform decision-making and improve the efficiency of treatment programs. The research team highlighted the high degree of collaboration between FPL and NRCan CFS staff as a key factor to the project’s success.
+Continued research efforts have enabled the SBW EIS-II treatment program to optimize the amount of insecticide used during highly targeted insecticide application operations. It is estimated that a reactive treatment  approach on 2 million hectares of forest would cost between $80 million to $160 million per year. Compared to the cost of the reactive foliage protection strategy, the overall federal budget (Budget 2018) allocated to the SBW EIS-II, which includes NRCan Internal Research (research activities and efforts carried out by NRCan employees to support the SBW EIS-II) and the Contribution Program (funding provided to external researchers  participating in the small-scale research program), is estimated at $74,750,000 over four years. There is early indication that the EIS is a cost-effective approach to managing SBW populations and preventing SBW outbreaks.
+In the review of program monitoring documentation and confirmed during key informant interviews, it was identified that Quebec uses a reactive foliage protection strategy. Although not an exact comparison, the SBW outbreak in Quebec has spread to reach its border with New Brunswick, while defoliation in New Brunswick, which uses the EIS as a pest management strategy, has progressed at a slower rate compared to Quebec.
+Interviews with program stakeholders confirmed that the knowledge gained from the research efforts carried out under Phase I of the program were expanded upon in Phase II to improve the program’s effectiveness and efficiency, demonstrating that the program is continually learning how to use the optimal amount of insecticide to remain effective in treating SBW hotspots.
+Conclusions
+Relevance
+Overall, the joint engagement found that there is a continued need for the SBW EIS-II program to protect forests in Atlantic Canada from SBW outbreaks, thereby reducing the rate of defoliation, protecting the wood supply in Atlantic Canada, and positively contributing to Canada achieving its net-zero emissions target by 2050. There is also a continued need to conduct research to continuously improve knowledge and tools in managing SBW populations. The SBW EIS-II is also well aligned with federal governmental and NRCan roles, responsibilities and priorities, and supports efforts aimed at mitigating the economic and environmental consequences of defoliation.
+Effectiveness
+Progress towards Immediate Outcomes
+The SBW EIS-II has achieved one of its short-term outcomes by maintaining SBW populations below outbreak levels in Atlantic Canada through its targeted insecticide application operations. Targeted insecticide treatment proved to be effective as these treated areas did not have to be re-treated, which is an early indication of the effectiveness of the program in managing SBW populations and outbreaks. The program partially achieved its immediate outcome related to “access to scientific knowledge, surveillance solutions, and response solutions pertaining to spruce budworm outbreaks and early intervention strategy” based on the performance indicators set out at the start of the program. The program achieved a stable or increased number of presentations and publications focused on surveillance solutions but not the number of presentations and publications focused on response solutions. The program noted limitations caused by the design of the indicators, which categorized publications and presentations into surveillance and response solutions, leaving a large number of them out of the reporting as they did not fit into either category. Knowledge and information sharing regarding SBW outbreaks and the EIS occurs through committee and board meetings, presentations, and research publications about SBW knowledge, surveillance, and response solutions. The program reported a stable or increased number of committees from 2018-19 to 2019-20 and a decline in 2020-21. This was a result of COVID-19 restrictions that limited the number of outreach opportunities.
+Progress towards Intermediate and Final Outcomes
+Given the long lifecycle of the SBW and the novel approach of the EIS, the strategy is being continually refined based on research completed. The program has demonstrated progress towards achieving its intermediate and long-term outcomes. Whether the long-term outcomes are ultimately achieved will depend on whether the program is able to continue its activities. The program has observed less than 30% defoliation (i.e., light defoliation) in surveyed areas in New Brunswick in 2018 and 2019. The program observed some moderate and severe defoliation in surveyed areas in New Brunswick and Newfoundland, specifically in 2020 and 2021. However, treated areas are experiencing lower or declining SBW population growth rates compared to untreated areas. It was noted that decision makers integrate scientific knowledge and information in risk management decisions pertaining to the spruce budworm early intervention strategy through the program’s various committees. To ensure the program continues to make positive progress in achieving its intended outcomes, there is an opportunity for the SBW EIS-II to improve information management processes that are updated on a regular basis with data and information related to the indicators associated with the program’s intermediate and final outcomes. This will allow the program to monitor trends and progress more effectively with the passage of time as well as support decision making.
+Unintended Outcomes
+There were unintended outcomes that were identified from the program, including the relationship that was developed between NRCan and Parks Canada once the treatment program was implemented in Newfoundland and Labrador in 2020. This relationship has opened channels of communication between the two departments to continuously share data, knowledge, and expertise. As well, increased collaboration with Indigenous communities and integrating holistic methods in pest management efforts were noted as positive unintended outcomes of the program.
+Factors Influencing the Achievement of Expected Results
+Several factors were identified that influenced the achievement of expected results for the SBW EIS-II. Due to a natural, unpredictable decrease in the SBW population, there was a decreased amount of insecticide treatment required. This resulted in less program funds used than estimated for 2019. The COVID-19 pandemic had minimal impacts to the program’s operations. Furthermore, collaboration among stakeholders and the program’s robust communications strategy positively impacted the program’s overall ability to achieve its intended outcomes.
+Efficiency and Economy
+Governance and Oversight
+There are effective governance structures in place that provide adequate program oversight. The HFP has a critical role in the success of the program. There is adequate and diverse representation of key stakeholders on each committee, which supports sound decision-making for the program. The program’s roles, responsibilities, and accountabilities are clearly documented and well understood among key program stakeholders.
+Currently, program committee members are not required to complete a conflict of interest check. Although any committee members who may have a personal interest in a funding decision either recuse themselves or are removed by the committee chair from the decision-making process, there is an opportunity to formalize a conflict of interest verification process and reduce the likelihood of perceived or real conflict of interest.
+Program Monitoring
+The results of the program are monitored and communicated to Senior Management and used to inform future program phases through documents such as progress reports. The design of the program emphasizes collaboration and knowledge sharing among key stakeholders on a continuous basis. However, the SBW EIS-II does not follow a consistent naming structure for its program documents and there were inconsistencies noted regarding how documents are managed internally. There is an opportunity to improve and clearly document the program’s information management processes to increase program efficiency, limit potential errors and inconsistencies, support knowledge transfer, and improve program monitoring.
+Contribution Agreements
+Compliance with Program Terms and Conditions
+Contribution agreements are developed in accordance with the SBW EIS Contribution Agreement template and are aligned with NRCan’s Delegation of Financial Authorities Instrument and the broader Treasury Board
+Policy on Transfer Payments
+.
+Risk-Based Approach to Recipient Audits
+The SBW EIS-II uses a risk-based approach to planning recipient audits and monitoring the execution of the projects to ensure compliance with program terms and conditions. The Request for Proposal (RFP) used in the solicitation of third-party audit firms identified an adequate and well-defined scope and objectives for the work.
+Selection Criteria
+Selected proponents meet the selection criteria of the program. Funding decisions made by the Scientific Project Management Committee and the Steering Committee are documented. Although funding decisions were supported with appropriate rationale, communication of the funding decision to rejected applicants was not completed in a consistent manner. There is an opportunity for the program to improve its document retention practices to support program monitoring activities and achievement of service standards.
+Payments Made to Proponents
+The program has implemented procedures to ensure that the program is executing appropriate due diligence on information received from proponents prior to payments being made. The SBW EIS-II has met the service standards at 100% for all three metrics which includes acknowledgement of receipt for proposal, providing funding decisions, and issuing payment.
+Proactive Disclosure
+There are effective processes in place to ensure the public disclosure of contribution agreements online is accurate, complete, and timely. Testing procedures revealed that the contribution agreements matched the details of the proactive disclosures and were approved by the appropriate designated signing authority.
+Gender-Based Analysis Plus (GBA+) Considerations
+The program has made GBA+ considerations, noting efforts made to encourage the representation of women and other equity groups in science and technology as well as in the forest sector. Early engagement with Indigenous communities is an important aspect of the program’s communications strategy, and NRCan researchers and provincial representatives have engaged with local Indigenous communities prior to insecticide application or the conduct of research activities. There is an opportunity for the program to set gender and diversity metrics and collect relevant data in order to assess and better understand how various equity groups experience the program. There should be specific efforts to develop performance targets to collect and effectively track program engagement with potentially impacted Indigenous communities.
+Resource Allocation
+The SBW EIS-II has been able to efficiently produce its intended activities and outputs with its planned resources. Evidence indicates that the program is generally spending less than the originally budgeted amount on an annual basis. The program successfully reallocated some funds from FY 2018-19 to the following fiscal year and successfully reprofiled funding from FY 2020-21 to FY 2021-22. However, the joint project found that a natural decline in SBW populations led to larger than expected lapses in program funding due to challenges regarding forecasting a natural phenomenon.
+Challenges Associated with Forecasting Funding Requirements
+A large part of the program’s budget is dedicated to insecticide application, which largely depends on SBW populations. In 2019, there was an unexpected decline of the SBW population in New Brunswick. This resulted in the 2019 treatment program being significantly smaller in both area and cost than originally forecast. Spending less than the budgeted amount and having to use less insecticide to manage SBW populations are generally viewed as indicators of success from a program perspective. However, key informants noted that there is a negative perception regarding the budgeting capabilities of the SBW EIS-II when there are significant amounts of lapsed funds. This is one of the challenges of a program that is designed to respond to natural, biological events that take place over a multi-year cycle. It is difficult to accurately predict the precise amount of funding required in each fiscal year to respond to fluctuating SBW populations.
+Challenges with the 60:40 Cost-Sharing Arrangement
+There is an additional layer of complexity associated with the cost-sharing requirements between federal and provincial governments/industry partners. For example, the definition of “in-kind contributions” is not well understood by all stakeholders. Additionally, in the early years of the program, the 60:40 funding arrangement was implemented on a project-specific basis, resulting in a perceived increase of the administrative burden for stakeholders. As a result of this “lesson learned”, the program terms and conditions were modified so that the 60:40 cost-sharing requirement is managed for the overall initiative (which includes monitoring, insecticide application, and communications, but excludes research) instead of on a per-project basis. To date, the provinces have contributed more than 40% of the program’s costs.
+Cost-Effectiveness
+Evidence suggests that the EIS is the most notable cost-effective means of achieving the expected results of the SBW EIS-II and is the most effective in terms of prevention of SBW outbreaks in early detection of areas where SBW populations are low but increasing. There is early indication that an early intervention strategy is more cost-effective than a reactive spraying approach.
+Annex A: Engagement Sub-Objectives and Criteria
+The joint project’s overall objective is to assess continued need for the SBW EIS, the efficiency and effectiveness of the SBW EIS Phase II’s design and delivery, and its achievement of expected outcomes. More specifically, the project will assess whether:
+The Program is effective in achieving its intended outputs and outcomes, and whether unintended outcomes have resulted from the SBW EIS Phase II;
+Adequate governance structures and processes have been designed, implemented and communicated to relevant stakeholders, and provide oversight on the Program;
+Effective processes and controls are in place to support Program compliance with relevant departmental guidance and the Treasury Board
+Policy on Transfer Payments
+;
+Key financial and operational controls have been designed and implemented, and are operating effectively;
+The Program is being delivered efficiently and economically (taking into account GBA+), and whether lessons learned were identified and leveraged; and
+The Program is relevant, and to what extent there is a continued need for the SBW EIS.
+Sub-Objectives
+Criteria & Questions
+Effectiveness
+Sub-Objective 1:
+To assess whether the Program is effective in achieving its intended outputs and outcomes, and whether unintended outcomes have resulted from the SBW EIS Phase II.
+1.1 To what extent has there been progress towards the SBW EIS-II’s intended immediate outcomes?
+1.2 To what extent has there been progress towards the SBW EIS-II’s intended intermediate outcomes in the next 5 years?
+1.3 To what extent has there been progress towards the SBW EIS-II’s intended final outcome in the next 10 years?
+1.4 To what extent have there been unintended outcomes resulting from the SBW EIS-II?
+1.5 What internal and external factors (including the COVID-19 pandemic) have influenced the achievement of the expected results?
+Efficiency and Economy
+Sub-Objective 2:
+To assess whether adequate governance structures and processes have been designed, implemented and communicated to relevant stakeholders, and provide oversight on the Program.
+2.1 Program roles, responsibilities, and accountabilities are adequately defined and communicated to Program stakeholders.
+2.2 Governance bodies provide effective Program oversight and challenge functions.
+2.3 Program results are monitored and communicated to Senior Management and used to inform future Program phases.
+Sub-Objective 3:
+To assess whether effective processes and controls are in place to support Program compliance with relevant departmental guidance and the Treasury Board
+Policy on Transfer Payments.
+3.1 Contribution agreements have been drafted in accordance with the Treasury Board-approved Program Terms and Conditions and the
+Policy on Transfer Payments.
+3.2 Project managers utilise a risk-based approach to planning recipient audits and monitor their execution to ensure compliance with the Program’s Terms and Conditions.
+Sub-Objective 4:
+To assess whether key financial and operational controls have been designed and implemented, and are operating effectively.
+4.1 Selected proponents meet the selection criteria of the Program.
+4.2 Program management has conducted appropriate due diligence on payments made and information received by proponents (e.g., Stacking, allowable expenditures, signed by CFO).
+4.3 Payments to proponents have been made in accordance with the Program’s Terms and Conditions.
+4.4 Processes are in place to ensure that the disclosure of contributions posted on the web are complete, accurate and approved.
+Sub-Objective 5:
+To assess whether the Program is being delivered efficiently and economically (taking into account GBA+), and whether lessons learned were identified and leveraged.
+5.1 To what extent does the SBW EIS-II’s governance structure improve the delivery or effectiveness of the entire initiative and individual streams?
+5.2 To what extent has the initiative taken into account GBA+, with special attention to indigenous communities as expected?
+5.3 To what extent have resources been used as planned to produce the intended activities and outputs for the SBW EIS-II?
+5.4 To what extent has the SBW EIS-II relied on the most cost-effective means of achieving the expected results?
+5.5 Are there alternative delivery models that can achieve similar outcomes at the same cost?
+5.6 To what extent have expected processes and tools been implemented to support the SBW EIS-II’s effectiveness, efficiency, and economy?
+5.7 To what extent were lessons leveraged from the implementation of the SBW EIS-I?
+Relevance
+Sub-Objective 6:
+To assess whether the Program is relevant, and to what extent is there a continued need for the SBW EIS-II.
+6.1 To what extent is there a continued need for the SBW EIS-II?
+6.2 To what extent is the SBW EIS-II aligned with NRCan and governmental priorities?
+6.3 Is there a legitimate and necessary role for the federal government in the area of pest management?
+Annex B: Bibliography
+Environment and  Climate Change Canada. (2021, July 12).
+Government of Canada confirms ambitious  new greenhouse gas emissions reduction target
+. Ottawa (ON).
+Gardner Pinfold (2016, December).
+Nova  Scotia Forest Industry Economic Impact
+(PDF, 1.68 MB) (English  only).
+Government of Canada. (2018, February 27).
+Budget 2018
+(PDF, 7.36 MB) .
+Government of Newfoundland and Labrador. (2021).
+Budget 2021
+. St. John’s (NL) (PDF, 4.17 MB) (English  only) .
+Natural Resources Canada. (2019).
+Healthy Forest Partnership. Our Partners
+.
+Healthy Forest Partnership. (2019).
+What We Do
+.
+Liu, E.Y., Lantz, V.A., MacLaren, D.A., Hennigar, C.  (2019, June 1).
+Economics of Early Intervention to Suppress a Potential Spruce Budworm Outbreak  on Crown Land in New Brunswick, Canada
+(PDF, 1.77 MB). (English only).
+Natural  Resources Canada. MacFarlane, D., & Kevin Porter. (2018, November).
+Spruce Budworm Early  Intervention Strategy
+(PDF, 1.76 MB ) [Presentation slides] (English only).
+MacLean et al. (2019, May 23).
+Positive Results of an Early  Intervention Strategy to Suppress a Spruce Budworm Outbreak after Five Years of  Trials
+(PDF, 6.23 MB).
+Multidisciplinary  Digital Publishing Institute
+(English only).
+Maine  SBW Task Force. (2022).
+Spruce Budworm, Maine SBW Task Force
+(English only) .
+Minke-Martin,  V. (2020, February).
+Community Science Combats Spruce Budworm in  Eastern Canada
+.
+Canadian Science Publishing.
+(English only)
+National  Geographic. (2022).
+Citizen Science
+. (English only)
+Natural Resources Canada. (2020, December 11).
+About the Canadian Forest Service
+.
+Natural  Resources Canada. (2018, March 29).
+Government  of Canada Supports Forestry by Tackling the Spruce Budworm Pest
+.
+CISION News Wire.
+Natural  Resources Canada. (2019).
+Natural Resources Canada Departmental  Results Report 2019-20
+(PDF, 2.95 MB). Ottawa (ON).
+Natural  Resources Canada. (2020).
+Natural Resources Canada Departmental  Plan 2020-21
+(PDF, 2.9 MB).
+Natural  Resources Canada. (July 2020).
+Overview of Canada’s forest industry
+.
+Natural  Resources Canada. (2020).
+The State of Canada’s Forests Annual  Report 2020
+(PDF, 30.6 MB).
+Natural  Resources New Brunswick.
+New Brunswick Forests
+. (nd). (PDF,  172 KB). (English only)
+Nova Scotia Forest Notes
+(2021). (English  only)
+Parks  Canada. (2021, June 9).
+Gros Morne National Park, Spruce Budworm
+.
+Parks Canada. (2021,  May).
+What We Heard: Consultation on the  request for inclusion of Gros Morne National Park in an Early Intervention  Strategy Spruce Budworm Control Program
+(PDF, 1.1 MB).
+Parliament  of Canada. (2020, September 1).
+Prince  Edward Island’s Merchandise Trade with the World
+(PDF, 517 KB).
+Prince Edward Island.  (2015, May 10).
+Island Geography
+.
+Province of Nova Scotia. (2021).
+https://explorecareers.novascotia.ca/industriesoccupations
+(English only)
+Social  License
+. (2020).  (English  only)
+Statistia. (2021).
+Number of jobs in  Prince Edward Island, Canada in 2020, by NAICS category
+.  (English only)
+Statistics Canada.  (2021, November 9).
+Gross domestic product  (GDP) at basic prices, by sector and industry, provincial and territorial
+.
+United Nations.  (2022).
+Department of Economic and Social Affairs, Sustainable Development, Forests
+.
+Annex C: Joint Team
+Stephanie Kalt, Director, Evaluation, Natural Resources Canada
+Linda Jones, Senior Director, Audit Operations, Natural Resources Canada
+Véronique Plouffe, Audit Manager, Audit Operations, Natural Resources Canada
+Olive Kamanyana, Evaluation Manager, Evaluation, Natural Resources Canada
+Joel Crawford, Acting Manager, Audit Operations, Natural Resources Canada
+Emma Graham, Junior Evaluation Analyst, Evaluation, Natural Resources Canada
+Alan Winberg, Project Lead, BDO
+Brandon Bignell, Subject Matter Expert, BDO
+Vivian Liu, Senior Auditor/Evaluator, BDO
+Michaela McLoughlin, Auditor/Evaluator, BDO
+Su Chang, Auditor/Evaluator, BDO
+Footnotes
+Footnote 1
+Also referred to as “joint project” or “joint engagement” throughout the report.
+Return to footnote
+1
+referrer
+Footnote 2
+Also referred to as “joint project” or “joint engagement” throughout the report.
+Return to footnote
+2
+referrer
+Footnote 3
+Members include, but are not limited to, the Government of New Brunswick, Government of Nova Scotia, Government of Newfoundland and Labrador, Government of Prince Edward Island, University of New Brunswick, Université de Moncton, Cooperative Forestry Research Unit, Forest Protection Limited, Port Hawkesbury Paper, SERG International, J. D.Irving, Limited, Twin Rivers Paper Company, Acadian Timber, Aditya Birla - AV Group, Chaleur Forest Products, Forest Nova Scotia, Forest NB, NLFIA, Kruger Publication Papers
+Return to footnote
+3
+referrer
+Footnote 4
+Trees that die as a result of a SBW outbreak will release carbon dioxide in the atmosphere. However, trees that are harvested from forests on public land must be regenerated in accordance with Canadian law.
+Return to footnote
+4
+referrer
+Footnote 5
+A SBW Task Force has been created in Maine to prepare for and mitigate against future SBW outbreaks, and the work being conducted under the SBW EIS-II program has been recognized by the Task Force.
+Return to footnote
+5
+referrer
+Footnote 6
+Natural Resources Canada. (2022, April 14). Forest utilization refers to the different ways the  forestry industry uses Canadian forests to deliver products and services. The utilization of forests includes forestry, logging, pulp and paper  manufacturing, and solid wood product manufacturing.
+Overview of Canada’s Forest Industry
+.
+Return to footnote
+6
+referrer
+Footnote 7
+Outbreak threshold is defined as the point at which the forested area can no longer be managed using the EIS and the land manager has to revert to a traditional foliage protection strategy.
+Widespread
+moderate to severe defoliation from SBW is observed in an outbreak.
+Return to footnote
+7
+referrer
+Footnote 8
+L2 surveying is a method of data collection for spruce budworm populations.
+Return to footnote
+8
+referrer
+Footnote 9
+Note: 2021-22 presentation and media outreach data was unavailable at the time of the joint engagement. Deadline for reporting is May 30, 2022.
+Return to footnote
+9
+referrer
+Footnote 10
+Note: 2021-22 program publication and presentation data was unavailable at the time of the joint engagement. Deadline for reporting is May 30, 2022.
+Return to footnote
+10
+referrer
+Footnote 11
+Note: 2021-22 program publication and presentation data was unavailable at the time of the joint engagement. Deadline for reporting is May 30, 2022.
+Return to footnote
+11
+referrer
+Footnote 12
+Longer time horizons required to conclude on the achievement of the outcome.
+Return to footnote
+12
+referrer
+Footnote 13
+The program tracks population growth rates in untreated areas within six kilometres of treated plots.
+Return to footnote
+13
+referrer
+Footnote 14
+Longer time horizons required to conclude on the achievement of the outcome.
+Return to footnote
+14
+referrer
+Footnote 15
+Additional details about Indigenous engagement can be found in Section 3.3.5.
+Return to footnote
+15
+referrer
+Footnote 16
+National Geographic.
+Citizen science
+is about encouraging public participation and collaboration in research to increase scientific knowledge. Through citizen science, people share with each other and contribute to monitoring and data collection programs.
+Return to footnote
+16
+referrer
+Footnote 17
+This amount was reallocated from FY 2018-19.
+Return to footnote
+17
+referrer
+Footnote 18
+This amount was reprofiled from FY 2020-21 to FY 2021-22.
+Return to footnote
+18
+referrer
+Report a problem on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2022-09-15

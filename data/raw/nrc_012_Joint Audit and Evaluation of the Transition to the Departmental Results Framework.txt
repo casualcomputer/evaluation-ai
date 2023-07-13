@@ -1,0 +1,894 @@
+Joint Audit and Evaluation of the Transition to the Departmental Results Framework
+Presented to the Departmental Audit Committee (DAC), May 9, 2022
+Presented to the Performance Measurement, Evaluation and Experimentation Committee
+(PMEEC), April 28, 2022
+Table of Contents
+Executive Summary
+Acronyms
+Introduction
+Background on the Joint Audit and Evaluation
+Scope of the DRF Transition at NRCAN
+DRF Components
+DRF Governance
+Purpose and Scope of the Joint Audit and Evaluation
+Information-Gathering Methods
+Limitations and Mitigation Strategies
+Findings and Recommendations
+Consideration of Existing Needs and Priorities During Planning
+Governance Effectiveness
+Effectiveness of the Stakeholder Engagement Strategy
+Use of Performance Measurements and Understanding Results
+DRF Tool Compliance, Reporting, and Efficiency
+Conclusion
+Appendix 1: Joint Team
+Appendix 2: Natural Resources Canada Departmental Results Framework for 2019–20
+Appendix 3: NRCan 2019–20 Expenditures and FTEs by Program Inventory
+Appendix 4: Engagement Sub-Objectives and Criteria
+Executive Summary
+The objective of this joint audit and evaluation engagement is to examine the compliance of Natural Resources Canada’s (NRCan’s) transition to the Departmental Results Framework (DRF) with the Treasury Board (TB)
+Policy on Results
+and to assess the effectiveness of this transition, as well as the impacts of DRF planning and implementation on program management and reporting. The transition to the DRF was driven by the government’s objective to change the reporting framework that was established by the
+Policy on Management, Resources and Results Structures
+(2010) and the
+Policy on Evaluation
+(2009). The new requirements of the
+Policy on Results
+(2016) require all federal departments and agencies to move to an improved performance measurement approach centred on the DRF. The joint engagement covers the period from April 1, 2016, to March 31, 2020.
+The engagement was conducted as a joint audit and evaluation. It was guided by the following sub-objectives:
+Sub-Objective 1: To assess the suitability of departmental needs/priorities and risk assessment mechanisms during DRF development.
+Sub-Objective 2: To assess the effectiveness of DRF governance.
+Sub-Objective 3: To assess the effectiveness of the stakeholder engagement strategy.
+Sub-Objective 4: To assess the understanding of results and use of performance measurement information.
+Sub-Objective 5: To assess the compliance of DRF tools and their effects on improving reporting.
+Sub-Objective 6: To assess the measures put in place for resource management and efficiency and their impact on achieving the desired results of the DRF transition.
+The assessment was based on document review, key informant interviews, and a survey of Program Officials (POs) and members of the Corporate Planners Network (CPN).
+Findings
+Relevance.
+The engagement found that the DRF transition is aligned with the Minister of Natural Resources mandate letter and the TB
+Policy on Results
+. The DRF transition planning process was relatively responsive to existing departmental reporting needs and priorities prior to the release of the
+Policy on Results
+(July 2016).
+Compliance of DRF tools.
+All lines of evidence confirm that the DRF tools developed by NRCan comply with
+Policy on Results
+requirements. They were implemented, rolled out, and updated within the timeframe set by the Treasury Board Secretariat (TBS). The work of the Strategic Policy and Innovation Sector (SPI) has systematically guided the DRF transition toward compliance as the TBS evaluation of the NRCan Management Accountability Framework shows for this results-based management domain.
+Planning process.
+Although it was not possible for the joint team to estimate the level of financial and human resources that have been allocated to the DRF transition, PO indicated relative satisfaction with the adequacy of resources allocated to the process. Lessons were learned that in this type of project, the discussion of resource use should be an integral part of the planning phase.
+The planning process was based on internal and external knowledge and best practices. While elements of a planning strategy were observed in presentations in 2018 to the NRCan Executive Committee, this strategy could have been better documented and more comprehensive, covering the first four years of the DRF transition from 2016–17 to 2019–20, and approved at the beginning of the project.
+Governance.
+In general, the roles and responsibilities for the DRF transition have been carried out in accordance with the requirements of the
+Policy on Results
+and approved by the Executive Committee (ExCom), and through the Performance Measurement, Evaluation and Experimentation Committee (PMEEC). The roles of the different designated functions, especially those of the Chief Information Officer (CIO), the Chief Financial Officer (CFO), and the Chief Human Resources Officer (CHRO), appear to be largely unknown, and PO do not appear to be sufficiently informed about the different functional roles.
+Engagement strategy.
+The lines of evidence analyzed confirm that the parties involved in the DRF transition are engaged. Significant efforts were made to engage all NRCan sectors and external stakeholders, including TBS. Sector and stakeholder engagement focused on ensuring NRCan’s compliance with
+Policy on Results
+requirements for the design, roll-out, and update of the DRF, as well as on improving the quality, use, and utility of performance measurement at NRCan. However, the joint team confirms that the engagement strategy could also have been better documented, more comprehensive, and introduced earlier in the project.
+The joint team also noted that the effectiveness of the engagement strategy was assessed differently by the Strategic Policy and Innovation (SPI) sector and the other sectors. Most POs and CPN members, key groups supporting DRF governance, are satisfied with the role they have played in the DRF transition. However, many expressed a desire to know more about the consideration given by managers of the DRF transition to their perspectives and contributions.
+Performance measures
+. While it is too early to measure interim and final results for the DRF transition, it was expected that the DRF roll-out would improve the availability, quality, and usefulness of performance information. It is in this context that one of the criteria focused on the extent to which DRF transition and updating allow for better program performance measurements, including GBA+ and official language indicators, where applicable.
+From the analysis of the lines of evidence, it can be concluded that to some extent the DRF transition has resulted in a better definition and understanding of Departmental Results. In terms of opportunities for improvement, several stakeholders stated that there was a need to better integrate the performance indicators (including long-term ones) required by Program Officials into the DRF. The need for alignment with financial indicators (efficiency) was also highlighted as an important element of program performance measurement.
+Recommendations
+Management Response and Action Plan
+Recommendation 1:
+It is recommended that the ADM Strategic Policy and Innovation (SPI) notify PMEEC of the sectors’ proposed improvements to the DRF based on consultations with Program Officials, members of the Corporate Planners Network, and members of the Planning and Reporting Committee, and then share the PMEEC’s feedback with these groups.
+Management response:
+Management agrees with Recommendation #1.
+Communication between PMEEC and other levels of governance that currently take place as part of the annual DRF amendment process will be strengthened. Moving forward, the SPI Planning, Delivery and Results Branch (PDR) will present feedback received from Program Officials, the Corporate Planning Network (CPN), and the Planning and Reporting Committee (PRC) in DRF amendment presentations.
+Position Responsible:
+Head of Performance Measurement and DG, SPI-PDR
+Due Date
+: November 2022
+Recommendation 2:
+It is recommended that the ADM Strategic Policy and Innovation (SPI) communicate to Program Officials, the Planning and Reporting Committee, and the Corporate Planners Network, the roles of various designated functions (as part of the DRF), especially those of the CIO, the CFO, and the CHRO, as well as those of the Head of Performance Measurement and the Head of Evaluation.
+Management response:
+Management agrees with Recommendation #2.
+SPI-PDR will update guidance and ensure the roles of designated functions as outlined in the
+Policy on Results
+are clarified. Updated guidance will be circulated and referenced in presentations delivered to Program Officials, Sectors, CPN and PRC to increase understanding of key roles and responsibilities under the
+Policy and Directives on Results
+.
+Position Responsible:
+Head of Performance Measurement and DG, SPI-PDR
+Due Date:
+November 2022
+Recommendation 3:
+It is recommended that the ADM Strategic Policy and Innovation (SPI) formalize and continue to improve its engagement process for DRF implementation and base it on effective collaboration and consensus with stakeholders. This engagement process should be re-evaluated annually to ensure that it continues to reflect the expectations of the sectors, and that it adapts to changes in expectations.
+Management response:
+Management agrees with Recommendation #3.
+Through the annual DRF amendment process, SPI-PDR will lead a comprehensive review to ensure:
+the relevance and usefulness of the DRF for planning and resource allocation decision-making; and
+the framework aligns with recent policy directions and government priorities.
+The annual review will entail:
+consultation meetings with Sector planners and Program Officials to identify proposed amendments, review and confirm proposed changes; and
+validation and approvals through briefings to PRC and PMEEC.
+SPI-PDR will develop an engagement plan that will be integrated into the DRF amendment process.  SPI-PDR will also provide progress updates to PMEEC and apply necessary adjustments accordingly
+.
+Position Responsible:
+Head of Performance Measurement and DG, SPI-PDR
+Due Date:
+November 2022
+Recommendation 4:
+It is recommended that the ADM Strategic Policy and Innovation (SPI) work with sectors and Program Officials to continue to improve the various elements of the DRF, particularly to increase their usefulness for direct program management including the financial aspect of their performance. To achieve this, SPI must, in concert with other sectors and their planners, develop and roll out an effective strategy for improving program performance indicators and their integration into the DRF. The strategy should take into account indicators related to government-wide policy considerations such as gender-based analysis plus and official languages, where appropriate.
+Management response:
+Management agrees with Recommendation #4.
+SPI-PDR, with Program Officials and Sector Planners, will formalize an annual review process that will require Sectors to review and validate the availability, quality, and usefulness of performance indicators and ensure that key priorities (e.g., equity, diversity and inclusion, GBA Plus, official languages) are reflected in their Performance Information Profiles (PIP) and in the DRF. This process will be conducted as part of the implementation of the new PIP Webform.
+Program Officials will also be invited to present their PIPs periodically to PMEEC. SPI-PDR will work with AEB to ensure evaluation recommendations about improvements to program performance measurement are considered by Program Officials in PIPs.
+Position Responsible:
+Head of Performance Measurement and DG, PDR, SPI
+Due Date:
+Formalized annual review process presented to PMEEC April 2023 and implemented annually thereafter.
+Acronyms
+ADM
+Assistant Deputy Minister
+CPN
+Corporate Planners Network
+DG
+Director General
+DM
+Deputy Minister
+DRF
+Departmental Results Framework
+GBA+
+Gender-Based Analysis Plus
+IIA
+Institute of Internal Auditors
+NRCan
+Natural Resources Canada
+PAA
+Program Alignment Architecture
+PDR
+Planning, Delivery and Results Branch
+PIP
+Performance Information Profiles
+PO
+Program Official
+PMEEC
+Performance Measurement, Evaluation and Experimentation Committee
+PRC
+Planning and Reporting Committee
+SPI
+Strategic Policy and Innovation Sector
+TB
+Treasury Board
+TBS
+Treasury Board of Canada Secretariat
+Introduction
+The Joint Audit and Evaluation on the Transition to the Departmental Results Framework (DRF) was identified in the Natural Resources Canada (NRCan) 2019–2024 Integrated Audit and Evaluation Plan. This engagement was also suggested by the Head of Performance Measurement to obtain feedback on the DRF transition. The purpose of this joint engagement was to review the effectiveness of NRCan’s DRF implementation. The joint engagement covers the period from April 1, 2016, to March 31, 2020.
+For the purposes of this joint engagement, the DRF transition is a continuum comprised of three phases, namely, implementation, roll out and update of the DRF.
+Implementing the DRF components
+Rolling out the DRF
+Updating the DRF
+More specifically, the joint engagement aimed to assess NRCan’s compliance with the Treasury Board (TB)
+Policy on Results
+and to review the processes in place to ensure that NRCan’s programs are aligned with NRCan’s Core Responsibilities. In addition, the engagement aimed
+“to assess the understanding of results and use of performance measurement information
+” (sub-objective 4 – see Appendix 4: Engagement Sub-Objectives and Criteria), and particularly the extent to which the “
+DRF transition and updating allow for better understanding of the Departmental Results to be achieved
+” (Criterion 4.3) or, in other words, the achievement of the DRF transition results as set out in the logic model (see Table 1).
+Background on the Joint Audit and Evaluation
+The transition to the Departmental Results Framework (DRF) is driven by the government’s objective to change the reporting framework that was established by the
+Policy on Management, Resources and Results Structures
+(2010) and the
+Policy on Evaluation
+(2009). The new requirements of the
+Policy on Results
+(2016) require all federal departments and agencies to move to an improved performance measurement approach centred on the DRF.
+Policy on Management, Resources and Results Structures
+Uses the Program Alignment Architecture (PAA)
+Requires a Performance Measurement Strategy (PMS)
+Policy on Evaluation
+Evaluates 100% of the programs every five years
+Requires performance measurement strategies
+Policy on Results
+Uses the DRF and Program Inventory
+Requires the definition of Departmental Results and Departmental Results Indicators, as well as of Performance Information Profiles (PIPs) for each program
+Covers risk-based evaluation
+The Departmental Results Framework (DRF) is a strategic instrument at the core of the
+Policy on Results
+. DRF is defined as the set of a department’s Core Responsibilities, Departmental Results, and Departmental Result Indicators. According to the
+Policy on Results
+, DRF components are defined as follows:
+Core Responsibility
+: An enduring function or role performed by a department. The intentions of the department with respect to a Core Responsibility are reflected in one or more related Departmental Results that the department seeks to contribute to or influence.
+Departmental Result
+: Departmental Results represent the changes departments seek to influence. They are often outside departments’ immediate control, but they should be influenced by Program-level outcomes.
+Departmental Result Indicator
+: A factor or variable that provides a valid and reliable means to measure or describe progress on a Departmental Result.
+”
+According to the
+Policy on Results
+, the DRF allows departments to be engaged in the delivery of the Policy’s overall objectives. In fact, based on the implementation of appropriate reporting governance, the Departmental Results Framework seeks to achieve a number of specific expected results, namely:
+“
+Departments are clear on what they are trying to achieve and how they assess success.
+Departments measure and evaluate their performance, using the resulting information to manage and improve programs, policies and services.
+Resources are allocated based on performance to optimize results, including through Treasury Board submissions, through resource alignment reviews, and internally by departments themselves.
+Parliamentarians and the public receive transparent, clear and useful information on the results that departments have achieved and the resources used to do so.
+”
+Scope of the DRF Transition at NRCan
+The Assistant Deputy Minister (ADM) of the Strategic Policy and Innovation (SPI) sector is responsible for the operational delivery of the DRF transition through compliance with
+Policy on Results
+requirements. The Deputy Minister has delegated operational responsibility for creating a performance measurement function to the ADM SPI. Subsequently, the ADM SPI created a unit which is led by the Head of Performance Measurement. During the planning phase of this engagement, the joint audit and evaluation team, in conjunction with SPI, developed a logic model for the DRF transition to illustrate the sequence of activities, outputs, and expected results. According to this logic model (Table 1), SPI was expected to be responsible for (a) supporting the implementation of DRF components, the managers of the various functions, and ongoing updating of the DRF; (b) ensuring DRF approval and the ongoing engagement of the various parties involved; (c) supporting DRF roll-out based on the ongoing engagement of the various stakeholders; and (d) supporting departmental reporting through the ongoing engagement of the various stakeholders. The expected final outcome of these activities was that program and policy management would be improved through the achievement of immediate and intermediate outcomes.
+To achieve these results, SPI was expected to rely on the Planning, Delivery and Results Branch (PDR) and work in consultation with other sectors and the TB Secretariat to implement the DRF by defining Core Responsibilities, Departmental Results, Departmental Result Indicators, and a Program Inventory.
+Table 1: Logic Model for DRF Transition
+Ultimate Outcome
+Program and policy management are improved through the DRF transition and implementation
+Intermediate Outcomes
+Improved approach to program performance measurement and evaluation through the DRF transition and implementation
+Better use of program performance information due to the DRF transition and implementation
+DRF transition and updating permit a better understanding of existing and future Departmental Results and the resources used to achieve them
+Immediate Outcomes
+The DRF roll-out process complies with
+Policy on Results
+requirements
+The DRF roll-out and stakeholder engagement improve the availability, quality and usefulness of performance-related information
+The DRF transition based on stakeholder engagement permits program and departmental reporting
+Outputs
+Approved DRF components (Core Responsibilities, Departmental Results, Departmental Result Indicators, and Program Inventory)
+DRF governance, that is, the various managers of approved functions (Performance Measurement and Evaluation Committee, Head of Performance Measurement, Head of Evaluation, and Program  Officials)
+Approved program performance measurement and evaluation tools (PIPs; Annual Report on the State of Performance Measurement)
+Approved DRF roll-out plan and the various reports produced (Departmental Plan and Departmental Results Report)
+Activities
+Supporting the implementation of DRF components and the managers of various functions, and updating them on an ongoing basis
+Ensuring DRF approval and the ongoing engagement of the various stakeholders
+Supporting the DRF roll-out based on the ongoing engagement of the various stakeholders
+Supporting departmental reporting through the ongoing engagement of the various stakeholders
+DRF Components
+Given the desire to overhaul the reporting approach, the NRCan version of the DRF is composed of Core Responsibilities that have been systematically defined as follows:
+Natural Resource Science and Risk Mitigation
+: Leading foundational science and sharing expertise for managing Canada’s natural resources, reducing the impacts of climate change and mitigating risks from natural disasters and explosives.
+Innovative and Sustainable Natural Resources Development
+: Leading the transformation to a low-carbon economy by improving the environmental performance of Canada’s natural resource sectors through innovation and sustainable development and use.
+Globally Competitive Natural Resource Sectors
+: Advancing and promoting market access, inclusiveness and competitiveness for Canada’s natural resource sectors, in support of jobs and economic growth. This also includes statutory payments for offshore petroleum.
+Footnote
+1
+The DRF is also composed of nine Departmental Results that help illustrate what the department seeks to accomplish through each Core Responsibility:
+Natural Resource Science and Risk Mitigation:
+Canadians have access to cutting-edge research to inform their decisions on the management of natural resources.
+Communities and officials have the tools to safeguard Canadians from natural hazards and explosives.
+Communities and industries are adapting to climate change.
+Innovative and Sustainable Natural Resources Development:
+Natural resource sectors are innovative.
+Clean technologies and energy efficiencies enhance economic performance.
+Canada’s natural resources are sustainable.
+Globally Competitive Natural Resource Sectors:
+Access to new and priority markets for Canada’s natural resources is enhanced.
+Canadians are engaged in the future of the new and inclusive resource economy.
+Enhanced competitiveness of Canada’s natural resource sectors.
+It is important to note that the joint engagement covers the period ending March 31, 2020. Thus, the analysis in this report is based on the first DRF of 2018–19 and the amendments made for the second DRF in 2019–20. The analysis therefore includes SPI’s efforts to improve the quality, usefulness, and use of the DRF, reflected in NRCan’s 2018–19 and 2019–20 Annual Reports on the State of Performance Measurement. The analysis excludes upgrades to DRFs via annual amendments made after March 31, 2020. The 2022–23 DRF amendment process is currently the fourth completed iteration made to continue DRF upgrades.
+As shown in Appendix 2, 32 Departmental Result Indicators are identified in the DRF for 2019–20. Another component of the DRF is the inventory of 33 programs that are under each Core Responsibility as follows:
+Natural Resource Science and Risk Mitigation: 13 programs
+Innovative and Sustainable Natural Resources Development: 12 programs
+Globally Competitive Natural Resource Sectors: 8 programs
+Appendix 3 shows the scope of the 33 programs in the inventory that represent a large part of the Department’s expenses. The 2019–20 figures show that 94% of the Department’s expenses are allocated to the 33 programs in the DRF ($2,302 million). The other 6% (i.e., $153 million) is dedicated to 10 internal services such as HR, financial management, management, and monitoring.
+DRF Governance
+To comply with the
+Policy on Results
+, NRCan has implemented DRF governance and defined roles and responsibilities. Figure 1 contains a diagram of these roles and responsibilities.
+Figure 1: Diagram of DRF Transition Roles and Responsibilities
+Text Description
+Figure 1: Diagram of DRF Transition Roles and Responsibilities
+Figure 1 is a diagram displaying the roles and responsibilities associated with the department’s transition to the DRF. Within NRCan, the NRCan Deputy Minister (DM) is ultimately responsible for DRF implementation. The DM acts as the liaison between the Treasury Board (and Treasury Board Secretariat) and the Minister of Natural Resources. The DM appoints the Head of Evaluation, Head of Performance Measurement and Program Officials, functional officials who coordinate to roll out the DRF. The Chief Information Officer, Chief Financial Officer and Chief Human Resources Officer also play a coordinating role in this transition, liaising with the Head of Performance Measurement. The Head of Evaluation, Head of Performance Measurement and Program Officials report on their performance to the Performance Measurement, Evaluation and Experimentation Committee (PMEEC), which is chaired by the DM.
+The NRCan Deputy Minister (DM) is ultimately responsible for DRF implementation. The DM appoints the functional officials and acts as the liaison between the Treasury Board Secretariat and the Minister of Natural Resources. The DM also chairs the Performance Measurement, Evaluation and Experimentation Committee (PMEEC), which is comprised of senior executives and external members. NRCan has relied on experimentation to enrich the program delivery monitoring, performance measurement, and evaluation function.
+The designated Head of Performance Measurement and Head of Evaluation must work together, according to their functional responsibilities outlined in the
+Policy on Results
+, to roll out the DRF. As presented in sections 4.2 and 4.4 of the
+Directive on Results
+(2016):
+The role of the Head of Performance Measurement is to support the Deputy Minister in the development, implementation and updating of the Program Inventory, to ensure the creation of Performance Information Profiles (PIPs) for each program and their implementation by Program Officials, and to act as a liaison between the Department and the Treasury Board Secretariat. The Head of Performance Measurement is also responsible for advising the PMEEC on the availability, quality, utility and use of indicators in the Departmental Results Framework;
+The role of the Head of Evaluation is to lead the Department’s evaluation function. The Head of Evaluation is also responsible for advising the PMEEC on the validity and reliability of the Departmental Result Indicators in the DRF and advising Program Officials on the availability, quality, validity, and reliability of the indicators and information in the Performance Information Profiles, including their utility for evaluation.
+The managers of the 33 programs in the inventory making up the DRF are expected to collect and make available the performance information for their programs; they are expected to manage the development and updating of performance information profiles (PIPs).
+The CFO, CHRO, and CIO are expected to ensure, in their respective roles in the Department, the accuracy of financial expenditures, the appropriate levels of human resources, and the availability of standardized information technology (IT) tools.
+Purpose and Scope of the Joint Audit and Evaluation
+The purpose of this joint audit and evaluation is to examine DRF transition compliance with the TB
+Policy on Results
+and assess DRF transition effectiveness, as well as the impacts of DRF planning and roll-out on program management and reporting. Through the six sub-objectives described below, the joint team focused on the activities, outputs, and results presented in the logic model, and covering the period from 2016–17 to 2019–20. Elements of relevance are evaluated using the three criteria related to sub-objective 1 (see Appendix 4). The performance-related findings (effectiveness and efficiency) of the DRF transition are assessed through the other sub-objectives and their criteria.
+Sub-Objective 1: To assess the suitability of departmental needs/priorities and risk assessment mechanisms during DRF development
+: The extent to which the DRF transition was based on a suitable analysis of departmental needs and priorities; adequate risk-based planning to meet the requirements of the
+Policy on Results
+and its instruments.
+Sub-Objective 2: To assess the effectiveness of DRF governance
+: The effectiveness of defining the roles and responsibilities of functions within NRCan and the use of each governance function in the DRF transition.
+Sub-Objective 3: To assess the effectiveness of the stakeholder engagement strategy
+: The extent to which the definition and implementation of the stakeholder engagement strategy contributed to the DRF transition.
+Sub-Objective 4: To assess understanding of outcomes and use of performance measurement information
+: The extent to which the definition of results, indicators, programs, and performance measurement information has contributed to improved departmental management and performance data.
+Footnote
+2
+Sub-Objective 5: To assess compliance of DRF tools and their effects on the improvement of reporting
+: The extent to which the DRF tools
+Footnote
+3
+were consistent with Policy requirements and contributed to improved reporting.
+Sub-Objective 6: To assess the measures implemented for resource management and efficiency and their impact on achieving the desired outcomes of the DRF transition
+: The extent to which departmental resource management and efficiency processes were in place for the DRF transition and whether these measures had an impact on the achievement of the results sought by the DRF, as defined by the logic model (see Table 1).
+This joint engagement took into account the findings of the Audit of NRCan’s Strategic and Operational Planning Process completed in April of 2019. The joint team looked at how the Department has organized itself to implement the
+Policy on Results
+. This involved examining the extent to which the approach chosen for the DRF transition (planning, stakeholder engagement, communication, etc.) is appropriate. The consultations held and comments received also focused on the extent to which the DRF transition and update have achieved:
+Better program performance measures.
+Better use of program performance information.
+Better understanding of Departmental Results to be achieved.
+The six sub-objectives above and the criteria presented in Appendix 4 were defined in the engagement terms of reference approved by the ADM in June 2020. They were developed taking into account the requirements of the
+Policy on Results
+and its instruments. They are based on the key controls set out in the TB’s Core Management Controls. Moreover, they are based on the Evaluation Standards. These sub-objectives and criteria guided the work on the ground and formed the basis of the joint engagement’s findings, conclusions, and recommendations.
+The joint team also assessed the effectiveness of the governance structure and the measurement of progress toward the DRF outcomes following the design and implementation of transition activities. Although it is too early to measure the interim and final results identified in the logic model for the DRF transition, the focus has been on assessing the process in place to achieve these results (Table 1).
+The joint engagement considered gender-based analysis plus (GBA+) and official languages. In fact, the
+Policy on Results
+and its instruments
+Footnote
+4
+state that in implementing, rolling out, and updating program performance information profiles, Program Officials must include government-wide policy considerations, such as gender-based and official language analysis, where appropriate. These considerations should be addressed in the development of indicators during the creation of the new performance information profiles and in the planning and performance of evaluations. This is done only if it is relevant to the program to measure or evaluate these aspects.
+It was expected that GBA+ and official languages considerations in the DRF transition would ensure the availability of program performance measurements to assess the impact of these programs on the various populations targeted by the programs, if any.
+Information-Gathering Methods
+The approach and methodology used in this joint engagement follow the practices set out in the
+Policy on Results
+and its instruments (Directive and Standard) as well as the Institute of Internal Auditors (IIA)
+International Standards for the Professional Practice of Internal Auditing
+. These practices require that the engagement be planned and executed in a manner that provides reasonable assurance that the objectives are clear and attainable. The information collection methods for the joint engagement were established to ensure that all elements required to assess each of the criteria were collected.
+The document review
+, including file analysis, was done as follows:
+The joint audit and evaluation team reviewed appropriate documents and records obtained during the planning phase. These include policy documents, meeting minutes, briefing materials, financial, operational and performance measurement information and files, presentations, records of decisions, meeting agendas, policy notes, email exchanges between senior executives and with the Treasury Board of Canada Secretariat (TBS), and other documents. Approximately 1,000 documents and records were reviewed.
+The information gleaned from this review provided an understanding of the process followed in the DRF transition, including the design, planning, governance, resources, level of collaboration, and operational challenges encountered throughout the DRF roll-out.
+The joint team also sought the perspective of stakeholders, such as Program Officials (POs) and members of the Corporate Planners Network (CPN), regarding the usefulness and relevance of tools developed as part of the transition for better program management, such as performance information profiles.
+As indicated in the previous sections, Program Officials are an important group in the DRF transition, especially in terms of collecting data for the 33 programs in the inventory to make this data available and to facilitate reporting. Most of them are Directors General responsible for a team in charge of managing performance information profiles. In delivering tasks related to their roles and responsibilities, they interact with the Strategic Policy and Innovation (SPI) sector, from whom they receive guidance and tools, and also with the planners who work with this group to support DRF implementation.
+The Planning and Reporting Committee (PRC)
+is a departmental advisory forum of Director Generals (DGs) that provides oversight for NRCan’s integrated planning and reporting process.
+The Planners Network was established in 2009 by SPI as an informal group of professionals interested in planning, performance measurement, departmental risk management, and reporting. Although this network did not have terms of reference that guided its activities, the joint team responsible for this audit and evaluation realized the important role that the network played in the DRF transition, thanks to the linkages it establishes between SPI and the planning units in the various NRCan sectors, as well as its Planning and Reporting Committee (PRC) supports.
+A survey of Program Officials and Corporate Planners Network members
+was conducted from June to August of 2020. Both of these groups have some level of responsibility for the DRF transition. They are also stakeholders with needs and contributions that may differ, yet are complementary in sharing planning and reporting goals for performance measurement.
+The survey provided quantitative and qualitative data to measure the effectiveness of needs assessment, planning, governance, and stakeholder engagement in the DRF roll-out. It also provided evidence on the effectiveness of DRF transition tools and their impacts on the improvement of reporting. The survey also addressed issues regarding efficiency, resource adequacy, and factors that affected the DRF transition. In terms of qualitative information, the survey provided a consultation process during which over 500 comments were provided to the joint team. The response rate from Program Officials was 69%, or 18 of 26. It was 32% for members of the Corporate Planners Network, or 28 of 87. The CPN response rate is significant because it is an informal committee where typically 30–40 people attend meetings. However, many respondents were not in their current positions at the time of transition and could not answer all questions (see section on limitations and mitigation strategies).
+Key informant interviews were conducted with 19 stakeholders involved in the DRF transition. These included senior officials (ADMs), PMEEC members, the Head of Performance Measurement, the Head of Evaluation, and the CIO, CFO, and CHRO. Interviews were also conducted with TBS staff and other officials with departmental functions (heads of experimentation and GBA+, and other Directors General) who were involved in NRCan’s DRF transition activities. All of these key informants were selected because they were expected to have key information.
+The interviews provided information on the design, effectiveness, and efficiency of the DRF transition, as well as the internal and external factors that influenced its roll-out. This is through questions about needs assessment, planning, governance, and stakeholder engagement in the DRF implementation. The interviews also provided insights into the usefulness and use of DRF transition tools and their impact on improving reporting.
+Limitations and Mitigation Strategies
+It was not possible for the joint team to estimate the level of financial and human resources that were allocated to the DRF transition. Specifically, resources at the sector level (other than SPI) were difficult to estimate because that information was not available in the departmental financial system.  Instead, as a relative measure of mitigation, the joint team based the discussion of resources on information obtained during interviews and comments received in response to qualitative questions on this topic in both surveys.
+Participation in interviews and surveys including extensive feedback provided a wealth of information on DRF planning and roll-out. The information obtained was affected by the fact that some participants were not able to talk about the three phases of the transition, i.e., design, roll-out, and updating, as some arrived in their positions once the transition had begun. To ensure that this did not affect the comparability of the information collected, the joint team considered when respondents arrived at the departments as well as when they started working, for example as a PO or CPN member. This was possible because the survey design included a request for information regarding these two important dates. The internal validity of the survey was confirmed by comparing these two dates with the responses received. In addition, it should be noted that there was a high rate (nearly half) of respondents who answered “don’t know” to several questions, or simply did not answer. Often in written comments, survey participants explained that these questions covered topics for which they were not yet on the job during that segment of the DRF. The joint team’s analysis of the survey was adjusted as necessary to reflect these findings. In addition, triangulation of data from different sources was highly useful as a mitigation method.
+The scope of the joint engagement includes a review of the functions the Head of Evaluation performs during the DRF transition. The Head of Evaluation was also responsible for the report of this joint engagement. However, it should be noted that the role of the Head of Evaluation in the DRF transition is secondary to the primary role of the Head of Performance Measurement. To mitigate a potential perception of bias, the engagement team consisted of auditors and evaluators who are governed by professional auditing and evaluation standards. The current Head of Evaluation was not directly involved in transition-related activities.
+It is too early to measure the progress made toward achieving the final result of DRF management, as set out in the logic model (see Table 1), which is to improve NRCan program and policy management. Instead, the joint team sought to determine whether the tools in place for the DRF transition and the implementation of these tools allow for better program performance measures and a better understanding of the outcomes to be achieved as described in sub-objective 4 and criteria 4.1, 4.2, and 4.3 (see Appendix 4). They also tried to review the progress made toward the interim and final results of the logic model.
+Findings and Recommendations
+Consideration of Existing Needs and Priorities During Planning
+The DRF transition is aligned with the Minister of Natural Resources mandate letter and the TB
+Policy on Results
+. The DRF transition planning process was relatively responsive to existing departmental reporting needs and priorities prior to the release of the
+Policy on Results
+(July 2016). The planning process also met deadlines giving departments until November 1, 2017, to have the DRF approved by the Treasury Board and be in effect for the 2018-19 year. It was based on some internal and external knowledge and best practices. While elements of a planning strategy were observed in presentations to NRCan Committees of Senior Officials in 2018, this strategy could have been better documented and more comprehensive, covering the first four years of the DRF transition from 2016-17 to 2019-20, and approved at the beginning of the project.
+Sub-Objective 1 criteria:
+1.1 Departmental reporting needs and priorities were discussed and considered in DRF design, planning and roll-out to meet
+Policy on Results
+requirements, but also the needs and priorities of NRCan.
+1.2 The DRF implementation planning strategy helped the team assess the key risks, periodically adjust the approach based on those risks, and identify mitigating controls to achieve the expected roll-out objectives.
+1.3 This strategy was based on knowledge and best practices internal and external to the department.
+The document review clearly shows that the DRF transition is aligned with the Minister of Natural Resources mandate letter (December 2019) regarding “tracking and publicly reporting on the progress of our commitments, assessing the effectiveness of our work, aligning our resources with priorities.” This is also the objective of the TB
+Policy on Results
+, which underlies the DRF transition and its purpose of contributing to the better attainment of results and producing a better understanding of existing and future results, as well as the resources required to do so.
+From all lines of evidence, the joint team found that existing reporting needs were relatively well addressed in DRF transition design and planning. In fact, the interviews and document reviews confirm that the 2016
+Policy on Results
+arrived when NRCan planning and reporting managers were reviewing the
+Program Alignment Architecture (PAA)
+to adjust to needs at that time. For federal departments, including NRCan, the analysis of PAA elements was the starting point for setting up the DRF elements, i.e., the Core Responsibilities, Departmental Results, Departmental Result Indicators, and Program Inventory.
+The importance of integrated planning mechanisms was also highlighted by the Audit of NRCan’s Strategic and Operational Planning Process, whose report was released in April 2019. This audit confirms the need to define a set of requirements, processes, and a cycle for the development and integration of departmental operational plans in support of the departmental strategic plan. In addition, it recommends that the Departmental Results Framework and Performance Information Profiles be integrated into the Strategic and Operational Planning Process.
+The joint team expected to find a well-documented and comprehensive planning strategy covering the four-year DRF transition from 2016–17 to 2019–20. According to best practices, such a planning strategy would have included elements dealing with departmental and sectoral considerations, such as clear objectives; activities to be undertaken and their sequence; outputs and expected quality of desired results; a resource allocation approach; a roll-out schedule for each phase of the entire transition (implementation, roll-out, and updating); a communication plan for consultations with key stakeholders; risk assessment and mitigation measures; and progress monitoring processes. An adequate planning strategy would have been established and approved at the beginning of the DRF transition that properly incorporated all required milestones for the first four years (2016–17 through 2019–20).
+While the document review shows a number of elements that may fit into a planning strategy, the joint team found that the strategy could have been better documented and more comprehensive. The joint team acknowledges that in 2018, a one-page roll-out plan was drafted and used for planning the remaining steps in implementing the DRF transition. This document included clear objectives, activities and their sequences, as well as expected results and a roll-out schedule that had to be revised following feedback from the PMEEC. According to the information obtained, this plan would have been finalized in May 2019 as the recommendations and appendix for the 2018-19 Report on the State of Performance Measurement. The DRF transition team evaluated this plan and recognized that some aspects, such as risks, risk mitigation strategies, and communication, were missing, and expressed the need to improve the plan in this regard.
+There are a few documents that may serve as a partial plan and a possible risk assessment during the DRF transition. They are described below:
+At the outset, during the June 2016 ExCom meeting, the members discussed options for core DRF responsibilities and the choice of being part of the first or second wave of the DRF transition as TBS personnel had proposed. The first and second waves refer to the target DRF roll-out dates of April 1, 2017, or April 1, 2018. The joint team believed that the pros and cons of the options presented can be seen as a form of indirect risk assessment. Following this presentation, NRCan opted to be part of the second wave.
+In March 2017, the Strategic Policy and Innovation Sector presented a template outlining the roles of the key parties identified, including the relevant heads of designated functions, to the ExCom. The template covered the period from February 2017 to March 2018. This is the 12 months prior to the DRF implementation date for the second wave.
+A one-page table describes the status of the roll-out and the deadlines. It appears to show a follow-up for the early stage of the DRF transition. This table was presented to the ExCom in February 2018, indicating the opportunities and challenges in meeting the DRF roll-out date set by TBS.
+A one-page DRF roll-out plan was shared in 2018 with three committees: PRC, CPN, and PMEEC. In some cases, the plan included a 12-page PowerPoint presentation to facilitate discussion of its contents with committee members.
+The recommendations in the 2018–19 (released in May 2019) and 2019–20 (released in August 2020) Reports on the State of Performance Measurement build on the milestones in the DRF roll-out plan.
+According to the survey results, most CPN members indicated that the DRF transition team had a planning strategy in place, while most Program Officials were not aware of it (mitigated by the finding that many were not Program Officials at the time the strategy was developed). Excluding those who indicated “don’t know,” all Program Officials and 74% of CPN members indicated that they were at least slightly satisfied with the effectiveness of the planning strategy development and roll-out by the DRF transition team. In their more detailed comments, several respondents recognized the magnitude of the challenge and the need to modify NRCan’s strategy in response to the evolving focus of TBS. Most of those who were dissatisfied indicated that they wanted more engagement as the strategy was developed and deployed.
+As suggested by a few survey respondents, the joint team had noted that the perception during the interviews was that there was no comprehensive, documented planning process in which sectors were invited to provide input, other than through meetings organized by the DRF designers. They also stated that there was no documented process to identify the elements of the risk and mitigation strategy. They indicated that a more integrated departmental approach to the DRF transition would have given greater consideration to other existing planning processes. On the other hand, given the limited integration of departmental planning processes noted by the Audit of NRCAN’s Strategic and Operational Planning Process (2019), it was difficult for DRF transition leaders to achieve integrated planning.
+While key informants acknowledged the work done by the planning team, they raised a number of points that indicated that there was room for improvement on the part of DRF transition managers.
+CPN members expressed a positive view of the use of internal and external knowledge and best practices in planning for the DRF transition, while POs had no opinion on the matter. While the document review was inconclusive on this issue, the interview results were nearly unanimous in indicating that DRF transition planning had taken advantage of the experiences and tools of other departments, especially the science department network. However, some of those consulted indicated that their sector’s experiences and planning tools were not sufficiently considered by the DRF transition planning team.
+Governance Effectiveness
+In general, roles and responsibilities were carried out in accordance with the
+Policy on Results
+requirements. The roles and responsibilities of the various entities responsible for the DRF have been approved by the DM through the ExCom and the PMEEC. Most POs and CPN members who support DRF governance are satisfied with the role they have played in the DRF transition, with many interested in learning more about the consideration given by DRF transition managers to their perspectives and contributions. While governance has enabled the DRF roll-out, awareness of the roles of the different designated functions is required, especially for the CIO, CFO, and CHRO. There appears to be little awareness of the roles of these officers in general, and Program Officials do not appear to be sufficiently informed about the different functional roles.
+Sub-Objective 2 criteria:
+2.1 The roles and responsibilities of the various positions have been defined in accordance with
+Policy on Results
+requirements.
+2.2 The various functions were adequately performed during the DRF transition (design, planning, and roll-out of the DRF and its tools).
+The document review indicates that NRCan is in compliance with the requirements of the
+Policy on Results
+with respect to the implementation of the various functions of DRF governance: The Performance Measurement, Evaluation and Experimentation Committee (PMEEC), the Head of Performance Measurement, and the Head of Evaluation. All of these governance functions were defined through ExCom discussions.
+It should be noted that NRCan has gone beyond
+Policy on Results
+requirements by adding the “experimentation” aspect of DRF governance. The interviews reveal that this consideration of experimentation in governance encourages learning and sharing of lessons learned.
+It was also found that the agendas and meeting notes of the PMEEC since its inception demonstrate that the DRF has been part of the discussions among PMEEC members.
+The records show that the first PMEEC meeting was held on June 21, 2017. During that meeting, it was decided that the staff of the sectors would continue to work on defining indicators for approval by the ADMs before the DM met with the Minister. The DRF was also discussed in 4 of the other 8 meetings during the review period (i.e., April 2016 to March 2020), addressing various items including Planning and Reporting Committee (PRC) input, timelines, delays, challenges, and the DRF roll-out plan. Another important point discussed at the July 5, 2018, meeting was the importance of indicators (both at the PIP level and at the overall level) that will allow the Department to tell the story about performance and Departmental Results. In the October 7, 2019, meeting (held in two parts), PMEEC members again reviewed the indicators and the reporting requirements by focusing on the cooperation among the various sectors in the collection process and the availability of reliable data.
+About the PRC and CPN
+The Planning and Reporting Committee (PRC) is comprised of Directors General from across NRCan. The PRC is responsible for supporting the ExCom in the management of NRCan.
+The Corporate Planners Network (CPN) is an informal committee that includes representatives from various sectors of the Department. Its role is to promote good planning and reporting within NRCan.
+As a review of PMEEC agendas and meetings has shown that DRF is only one of many topics under its purview, it is important that DRF transition managers ensure that the time allocated to DRF elements is reasonable based on the load of each meeting. This will address the perception of key informants whose perspectives suggest that limited attention and meeting time are dedicated to understanding the full complexity of the DRF transition, especially its implementation and updating.
+Information gathered from the document review indicates that the PRC, which is part of the existing governance structure at NRCan, contributes significantly to the work of the ExCom and the PMEEC. This same information also shows the contribution of the CPN, the informal body that is part of NRCan’s planning and reporting governance.
+The large number of documents and files from 45 meetings of those four bodies (ExCom, PMEEC, PRC and CPN) allowed the joint team to determine that DRF-related discussions were held from April 2016 to March 2020. For example, the email conversations and related information reveal that the DRF transition team shared a significant amount of information with the PRC and the CPN at various times.
+Both surveys show that most members of both groups (POs and CPN) are satisfied with the role they played in the DRF transition. On the other hand, while information sharing was observed and confirmed by findings from all lines of evidence, interviews and survey feedback indicate that some felt that it was primarily one-way information sharing, with DRF transition managers not providing sufficient feedback on the use of input received from PRC and CPN members, nor explaining the impact of their contributions. In fact, PRC and CPN members wanted to know what consideration was given by DRF transition managers to their perspectives and contributions. This highlights the importance of sharing feedback on the DRF to increase the effectiveness of alignment between the new DRF governance and formal and informal structural governance.
+The interview findings and comments provided by the POs in the survey also show that improvement is needed to highlight the contributions of the different entities involved in the DRF transition, be it the PMEEC, RPC, CPN or the POs. More systematic recognition would ensure the contribution of these entities and the satisfaction of their members.
+Comments made during the consultation with the CPN suggest that many members of this important group felt that their views and input were not used to effect change in the DRF transition. Without a detailed review of the documented feedback data, it is not possible for the joint team to conclude on the extent to which these perspectives are well founded. Each aspect of the DRF is submitted to the PRC prior to amendment along with the results of its implementation. Yet the interviews also revealed that some stakeholders view the RPC as a committee that discusses important issues after the fact, suggesting that it does not add value to decision-making in the DRF transition, even though its purpose is to contribute to improving NRCan’s performance management.
+According to key informants and written responses to several questions in the survey of POs and CPN members, there was an opportunity for DRF managers to more fully engage planning directors and DGs, as well as PRC and CPN members, to ensure that DRF becomes an integrated performance measurement tool at the program, sector, and departmental levels. This opportunity could be provided by documenting their suggestions and providing feedback explaining how their comments were used.
+With respect to the role played by members of DRF transition governance entities, interview participants generally indicated that the CIO, CFO, and CHRO were involved in DRF-related discussions and thus played their roles to at least some extent. However, the survey results and key stakeholders indicate that there are opportunities to improve awareness of the roles and responsibilities of each functional entity under DRF governance. There appears to be little awareness of the roles of these officers in general, and Program Officials do not appear to be sufficiently informed about the different functional roles.
+Recommendation 1
+It is recommended that the ADM Strategic Policy and Innovation (SPI) notify PMEEC of the sectors’ proposed improvements to the DRF based on consultations with the 33 POs and the CPN and PRC members, and then share the PMEEC’s feedback with these groups.
+Recommendation 2
+It is recommended that the ADM Strategic Policy and Innovation (SPI) communicate to POs, PRC, and CPN, the roles of various designated functions (as part of the DRF), especially those of the CIO, the CFO, and the CHRO, as well as those of the Head of Performance Measurement and the Head of Evaluation.
+Effectiveness of the Stakeholder Engagement Strategy
+The lines of evidence analyzed confirm that there is commitment from the parties involved in the DRF transition. It is important to note that significant efforts have been made to engage all NRCan sectors and external stakeholders, including the TBS. Sector and stakeholder engagement focused on ensuring NRCan’s compliance with
+Policy on Results
+requirements for DRF design, roll-out, and updating, and to improve the quality, use, and utility of performance measurement at NRCan. However, the joint team confirms that the engagement strategy was not well documented or formalized, except for a few references noted in the roll-out plan circulated in the later phases of the project (in 2018). The joint team also noted that the effectiveness of the engagement strategy was assessed differently by the Strategic Policy and Innovation (SPI) sector and the other sectors.
+Sub-Objective 3 criteria:
+3.1 An adequate strategy that targets stakeholder engagement was developed and used for the DRF transition and roll-out.
+3.2 The stakeholder engagement strategy is communicated and updated throughout the DRF transition roll-out to ensure the strategy’s efficacy.
+3.3 The stakeholder engagement strategy is useful in effectively defining DRF transition and roll-out tools.
+Three of the four activities in the logic model (Table 1) highlight the ongoing engagement of different stakeholders, making adequate stakeholder engagement critical to the success of the DRF transition. To this end, the results of the document review, interviews, and survey comments show that DRF transition managers have made a significant effort to engage the various stakeholders. They spoke with staff from all sectors, the various DRF governance entities (PMEEC, Head of Performance Measurement, Head of Evaluation, CIO, CFO, CHRO, and NRCan formal and informal structural governance entities [ExCom, PRC, and CPN]).
+In April 2017, a meeting of all department managers was held to discuss the implications of the
+Policy on Results
+and the transition from the PAA to the DRF. Also, the financial implications of the DRF roll-out were discussed by the PRC in November and December 2017, particularly with regard to coding requirements for the functional areas in the SAP financial management system. According to the document presented, three main financial impact areas were explained:
+Public disclosure of financial information.
+Updating the existing coding in SAP from PAA to DRF (for example, default coding table for salary transactions).
+Establishing coding requirements in SAP.
+Workshops and a webinar series with sector representatives have been held since 2017 to involve CPN members from all NRCan sectors. The objective was to communicate how the DRF methodology provided by TBS should be used to develop and improve PIPs. Additional workshops were held on the DRF amendment process and PIP reviews following TBS feedback.
+Despite these efforts to engage the sectors, a documented engagement strategy that elaborates on how SPI would engage sectors on an ongoing basis throughout the DRF transition process was lacking. The roll-out plan presented in 2018 to three committees (PRC, CPN, and PMEEC) was a one-page document that contained a few sentences about the engagement strategy. According to best practices, a roll-out plan and engagement strategy are supposed to be more substantiated. An effective engagement strategy should have been incorporated into a roll-out plan initiated at the beginning of the DRF transition. This plan could have been presented to ExCom in 2016 or PMEEC in 2017. An appropriate engagement strategy could have been built by establishing and addressing the expectations and needs of key stakeholder categories (e.g., the sectors). Similarly, the communication approach should have been established at the outset of the project and adjusted as the project progressed through consultation, thus ensuring that the views of stakeholders were truly considered, especially with respect to program-related performance indicators and their utility as a program management tool.
+Based on the document review, interviews, and detailed feedback obtained from POs and CPN members during the survey, there were opportunities for improvement in the engagement process used to effectively define transition tools and roll out the DRF. Many POs and CPN members did not feel adequately engaged throughout the DRF transition. In fact, many sector representatives who were consulted did not feel that they were adequately engaged or heard in the process of establishing Departmental Result Indicators. In addition, most of those interviewed noted that many sector-specific best practices would have added significant value if properly considered and adopted. For example, some programs require several years for their results to be properly evaluated. Several stakeholders indicated that they would have liked to replace or add long-term indicators to the annual DRF indicators. According to SPI, this feedback was considered by DRF transition managers throughout the development and iterations made to improve the DRF, aiming to keep a balance between the number of annual and longer-term indicators included in the Framework to produce a complete annual Departmental Results Report.
+Finally, an effective engagement strategy could have had a significant impact on the DRF by developing and implementing more useful performance indicators for Program Officials (see Section on Use of Performance Measurements and Understanding Results).
+Recommendation 3
+It is recommended that the ADM Strategic Policy and Innovation (SPI) formalize and continue to improve its engagement process for DRF implementation and base it on effective collaboration and consensus among stakeholders. This engagement process should be re-evaluated annually to ensure that it continues to reflect the expectations of the sectors, and that it adapts to changes in expectations.
+Use of Performance Measurements and Understanding Results
+The findings from all lines of evidence reveal different perspectives. Their in-depth analyses lead to the conclusion that to some extent the DRF transition has led to a better definition and understanding of Departmental Results. In terms of opportunities for improvement, several stakeholders stated that there was a need to better integrate into the DRF, directly or indirectly, the performance indicators (including long-term ones) required by Program Officials. The need for alignment with financial indicators (efficiency) was also highlighted as an important element of program performance measurements.
+The logic model (Table 1) clearly states the final and interim results of the DRF transition. These results can be summarized as follows: improvements in program management through better performance indicators. All agree that good program management requires information on financial performance and other relevant indicators such as human resources. Therefore, it is important that DRF transition works to advance this goal.
+Sub-Objective 4 criteria:
+4.1 DRF transition and updating allow for better program performance measurement, including GBA+ and official languages indicators.
+4.2 DRF transition and updating allow for better use of program performance information
+4.3 DRF transition and updating allow for better understanding of the Departmental Results to be achieved.
+To this end, it was expected that the DRF implementation would improve the availability, quality, and utility of performance-related information. It is in this context that one of the criteria focused on how much DRF transition and updating allow for better program performance measurements, including GBA+ and official language indicators, where applicable.
+Under the
+Policy on Results
+, the Deputy Minister is responsible for implementing, rolling out, and updating a Departmental Results Framework that sets out the Department’s Core Responsibilities, Departmental Results and Departmental Result Indicators. This responsibility has been delegated to SPI. However, while SPI also played a role in providing program-level support, according to the Policy, Program Officials are responsible for implementing, rolling out, and updating performance information profiles applicable to their designated programs (in consultation with the Head of Performance Measurement and the Head of Evaluation).
+All lines of evidence clearly show that a great deal of effort has been made to improve the DRF indicators upon existing PAA indicators. It was also found that these new indicators have been communicated publicly to Canadians. To accomplish this, DRF transition managers used models and criteria provided by the TBS to all departments. The document review, survey, and interviews revealed that presentations on performance indicators were made to the PRC, CPN and ExCom. The finding also notes that these indicators have been reviewed and, where necessary, modified annually.
+All lines of evidence agree that NRCan first developed, based on the TBS Interim Guide on Results, the 32 Departmental Result Indicators and their descriptions, as they appear under the nine Departmental Results as DRF tools (Appendix 2). Subsequently, the PIPs were developed for the 33 programs in the Inventory. PIP performance indicators have been developed that are quantitative and qualitative in terms of program outputs and results (efficiency and effectiveness indicators). The document review also shows that the TBS was prescribing standard (standardized) indicators, for example, internal service indicators, but this was later incorporated into the Management Accountability Framework process.
+The interviews with, and survey of, the parties involved indicate that they were consulted on the development of DRF tools for defining Core Responsibilities, Departmental Outcomes, DRF Departmental Result Indicators, and PIP-level performance indicators. Although most PRC members and POs found the PIP development process to be effective, data from these lines of evidence indicate that some respondents found this consultation to be less than fully satisfactory. One of the points for improvement raised by several stakeholders was to ensure that the indicators are adapted to the needs of program management, while ensuring that these indicators are developed according to the methodology proposed by TBS.
+There is also a lack of consensus from interviews and surveys on the transition’s impact on defining performance measurements. Most PRC members and POs indicated that PIPs have helped to improve performance indicators to some extent. In contrast, interview and survey findings highlighted that stakeholders were less satisfied with the degree to which financial indicators were included in PIPs or improved performance measurement components. As one key informant noted, financial and human resource planning are essential elements to be integrated into the DRF so that they can be more useful to programs and operations and facilitate understanding of their results. While the PIPs contain high-level information on financial and human resources, the development of more detailed indicators to measure program efficiency is at the discretion of the POs. Including them where applicable in the DRF tools would have allowed for a more horizontal consideration of operational financial control.
+While some have been implemented, indicators related to gender-based analysis plus (GBA+) and official languages have not been systematically identified in the PIPs. The results of the joint team’s survey of POs and CPN members regarding ACS+ confirm that there is room for improvement. SPI recognizes that their application needs to be improved at NRCan, including for PIPs. To this end, SPI established a GBA+ Centre of Expertise in June 2021 to assist with this improvement and is continually working with sectors to include each program’s considerations for GBA+ and to initiate related micro-data collection.
+The survey and interviews revealed that the DRF transition somewhat contributed to improving performance information of programs managed by the sectors as well as reporting expectations. However, at the time of the review, both the CPN and PO groups viewed this DRF contribution as somewhat smaller in terms of use, accessibility, and storage of performance information.
+According to the survey responses of POs, the DRF transition has better met their expectations for program management and reporting. The responses of CPN members regarding these expectations were less positive. An opportunity for improvement came up frequently during consultations with POs and CPN members, as well as during interviews. One key informant summarized it as follows: “
+high-level indicators do not speak to managers, because they are too high-level.
+” Many perceive that the DRF indicators are too oriented to departmental reporting purposes and would like to see more emphasis on indicators relevant to program management. These lower-level indicators have been called “granular” indicators by some. The joint team notes that this issue has already been identified by SPI in the 2018–19 and 2019–20 Reports on the State of Performance Measurement.
+In this regard, the document review considered these two Annual Reports on the State of Performance Measurement. These reports refer to the DRF transition and its associated challenges. They contain five important and relevant recommendations:
+Improve program-level indicators.
+Strengthen PIPs as decision-making tools.
+Optimize the use of performance measurement information.
+Develop departmental capacity for performance measurement.
+Establish a common data platform for DRF and PIP indicators.
+The summary of all findings determined to some extent that the DRF transition has contributed to a better definition of the results to be achieved. According to the survey, most POs appreciate this improvement either fully or mildly; slightly less than half of CPN members felt the same way. However, these proportions decrease when it comes to judging whether these results are better achieved through the DRF transition.
+In general, key informants, POs, and CPN members are relatively satisfied with the changes brought about by the DRF transition. Based on the results of both surveys (PO and CPN), most respondents believe (fully or mildly) that these changes have better equipped the various levels of decision-making through their support to senior management, the various departmental committees (PMEEC, PRC), and Memoranda to Cabinet and TB submissions.
+Recommendation 4
+It is recommended that the ADM Strategic Policy and Innovation (SPI) work with sectors and Program Officials to continue to improve the various elements of the DRF, particularly to increase their usefulness for direct program management including the financial aspect of their performance. To achieve this, SPI must, in concert with the sectors and their planners, develop and roll out an effective strategy for improving program performance indicators and integrating them into the DRF directly or indirectly. The strategy should take into account indicators related to government-wide policy considerations such as gender-based analysis plus and official languages, where appropriate.
+DRF Tool Compliance, Reporting, and Efficiency
+All lines of evidence confirm that the DRF tools NRCan personnel have developed comply with
+Policy on Results
+requirements. These tools were implemented, rolled out, and updated within the TBS timeframes. The work of the Strategic Policy and Innovation Sector has systematically guided the DRF transition toward compliance, as the TBS evaluation of the NRCan Management Accountability Framework shows for this results-based management domain. The Program Officials report relative satisfaction with the adequacy of the resources allocated to the DRF transition. Lessons learned were that in this type of project, discussion of resource use must be an integral part of the planning phase.
+Sub-Objective 5 criteria:
+5.1 The DRF transition allows for the development and roll-out of various tools identified in the
+Policy on Results
+.
+5.2 The tools developed during the DRF transition and roll-out comply with
+Policy on Results
+requirements and deadlines.
+5.3 The tools developed during the DRF transition and roll-out allow for adequate reporting while considering the overall responsibility for financial results, program and service performance indicators, and reports to the DM, Minister, and TBS.
+Upon DRF transition, it was expected that the tools developed by NRCan
+Footnote
+5
+, their implementation, and their updating would comply with
+Policy on Results
+requirements.
+The joint team relied on available documentation, especially meeting minutes, and noted that the early involvement of the ExCom in DRF transition planning was an important element in achieving compliance. The support of ExCom was instrumental in the creation of the PMEEC which assumes the key role of overseeing and monitoring the DRF implementation. Other important elements were the work of the sectors and SPI.
+The evaluation of the TBS Management Accountability Framework (MAF) for 2019–2020 includes information that allowed the joint engagement team to discuss the compliance of DRF tools. The main conclusions of the DFR results management domain confirm that NRCan is complying with TBS requirements.
+The document review identified a communication from the CFO to the DM on this latest MAF evaluation, which indicates that NRCan has performed well in results management. This analysis was based on the fact that the Department collects results information that can be used to inform program and service management. However, the MAF notes that NRCan will continue to strengthen the quality of its PIPs, particularly by streamlining indicators and reinforcing robust methodologies.
+The MAF specifies that the quality of NRCan PIP measurement information is rated as “average,” which is on par with most departments. The MAF information indicates good positioning for NRCan because the percentage of performance indicators lacking data collection frequency and/or data source is only 5%, compared to the average for all departments, which is 25%. Moreover, the percentage of performance indicators (included in the appendices of results of approved presentations to the TB), the actual results of which are available on time, is 81% for NRCan compared to an average of 71% for all departments.
+Interviews on DRF tool compliance discussed the importance of going beyond policy compliance, and the findings point to the need to better integrate DRF with financial and HR management at NRCan. That aspect came up various times as an improvement to consider, particularly because all senior managers who were questioned considered it an asset.
+Sub-Objective 6 criteria:
+6.1 DRF transition resources are defined upstream by the sectors.
+6.2 DRF transition resources are well distributed across sectors.
+6.3 Processes are implemented for feedback and reporting for the DRF transition.
+As for integration of financial and human resources, the interviews showed that some sectors were more prepared than others. These are the same sectors that report having developed better practices in planning and reporting on the results of their programs and operations.
+According to the key informants, existing resources were used in the DRF transition. They said that there were already resource challenges in delivering departmental planning activities in some sectors. The document review did not reveal any tools that would have been used to discuss resources or gather feedback on their adequacy and integrated strategies. Although the joint team attempted to collect information on the financial and human resources devoted to DRF transition from all sectors, some sectors shared only anecdotal information. Such a situation indicates that for similar future projects in which the roll-out is based on existing resources, discussion of these resources should be part of the project planning phase.
+The lack of definition and discussion of DRF transition resources was acknowledged in the 2018-19 Report on the State of Performance Measurement presented by the Head of Performance Measurement to the PMEEC. The content of the report referred to the management response to a recommendation from the 2019 Audit of NRCan’s Strategic and Operational Planning Process. It proposed developing an approach on how the DRF and the PIP would support and inform strategic and operational planning and resource allocation. This report also states that these considerations, namely how to link PIP data with financial resources to support planning and resource allocation, are already being addressed through the review of best practices from sectors and other departments.
+Conclusion
+NRCan’s transition to the Departmental Results Framework (DRF) complied with the Treasury Board
+Policy on Results
+. In general, the roles and responsibilities for the DRF transition were carried out in accordance with the
+Policy on Results
+requirements. The required tools were implemented, rolled out, and updated within the timeframe set by the Treasury Board Secretariat.
+The efforts of the Strategic Policy and Innovation (SPI) sector have systematically guided the DRF transition to compliance. Significant efforts were made to engage all NRCan sectors and external stakeholders, including the TBS. However, the planning and engagement strategies could have been better documented and more comprehensive. There are opportunities for improvement in the communication of roles of different designated functions and in the engagement process.
+While it is too early to measure interim and final results for the DRF transition, the analysis of the lines of evidence suggests that to some extent the DRF transition and its update allow for a better definition and understanding of Departmental Results. There are always opportunities to improve the various elements of the DRF, particularly to increase the utility of DRF and PIP performance indicators for direct program management, including the financial aspect of their performance.
+Appendix 1: Joint Team
+Michel Gould, Chief Audit and Evaluation Executive (CAEE)
+Linda Jones, Senior Director, Audit Operations
+Stephanie Kalt, Director, Strategic Evaluation
+Khalid Zeroual, Director of Audit Governance
+David Ash, Senior Advisor to the CAEE
+Olive Kamanyana, Program Evaluation Manager
+Christian Kratchanov, Evaluation Manager
+Sebastien Defoy, Senior Analyst
+Perla Habchi, Internal Auditor
+Harpreet Sahota, Junior Analyst
+Appendix 2: Natural Resources Canada Departmental Results Framework for 2019–20
+Text Description
+Natural Resources Canada's Departmental Results Framework for 2019-20
+This image illustrates the various components that make up NRCan's Departmental Results Framework and Program Inventory for 2019-20.
+Across the top of the image is a row of three boxes identifying NRCan’s Core Responsibilities and an additional box representing Internal Services. Reading from left to right, the three Core Responsibilities are: Natural Resource Science and Risk Mitigation, Innovative and Sustainable Natural Resources Development, and Globally Competitive Natural Resource Sectors.
+In the column under Natural Resource Science and Risk Mitigation is a description of this Core Responsibility, which is, “Lead foundational science and share expertise for managing Canada’s natural resources, reducing the impacts of climate change and mitigating risks from natural disasters and explosives.” Also in the column are the three Departmental Results associated with this Core Responsibility, and several Departmental Indicators associated with each Departmental Result.
+The first Departmental Result under Natural Resource Science and Risk Mitigation is, “Canadians have access to cutting-edge research to inform decisions on the management of natural resources.” The five Departmental Indicators associated with this Departmental Result are:
+Number of times scientific products related to natural resources are accessed by Canadians
+Percentage of environmental assessment processes for which NRCan provided scientific and technical expertise
+Number of times stakeholders acknowledge using NRCan’s scientific and technical products in making their decisions
+Number of training and development initiatives that enable NRCan to incorporate Indigenous traditional knowledge in conjunction with NRCan science
+Quality index of geographic and locational data on Canada’s land resources, water and infrastructure
+The second Departmental Result under Natural Resource Science and Risk Mitigation is, “Communities and officials have the tools to safeguard Canadians from natural hazards and explosives.” The three Departmental Indicators associated with this Departmental Result are:
+Percentage of hazardous natural events within Canada for which a notification was issued in a timely manner
+Number of enhanced wild fire monitoring tools using remotely sensed information
+Percentage of inspections of explosives rated safe
+The third Departmental Result under Natural Resource Science and Risk Mitigation is, “Communities and industries are adapting to climate change.” The two Departmental Indicators associated with this Departmental Result are:
+Percentage of Canadian communities and industries that have taken steps to adapt to climate change
+Number of times NRCan products and expertise on adaptation are accessed by communities and industry
+At the bottom of the Natural Resource Science and Risk Mitigation column is a list of NRCan programs associated with this Core Responsibility, which includes the following programs:
+Canadian Geodetic Survey: Spatially Enabling Canada
+Geological Knowledge for Canada’s Onshore and Offshore Land
+Core Geospatial Data
+Canada-US International Boundary Treaty
+Canada Lands Survey System
+Geoscience for Sustainable Development of Natural Resources
+Pest Risk Management
+Forest Climate Change
+Climate Change Adaptation
+Explosives Safety and Security
+Geoscience to Keep Canada Safe
+Wildfire Risk Management
+Polar Continental Shelf program
+In the column under Innovative and Sustainable Natural Resources Development is a description of this Core Responsibility, which is, “Lead the transformation to a low-carbon economy by improving the environmental performance of Canada’s natural resource sectors through innovation and sustainable development and use.” Also in the column are the three Departmental Results associated with this Core Responsibility, and several Departmental Indicators associated with each Departmental Result.
+The first Departmental Result under Innovative and Sustainable Natural Resources Development is, “Natural resource sectors are innovative.” The four Departmental Indicators associated with this Departmental Result are:
+Percentage of NRCan-funded innovation projects that result in new intellectual property, standards or regulations
+Percentage of NRCan-funded clean energy innovation projects advancing along the innovation scale
+Number of NRCan-funded green mining technologies, including waste and water management, proven through demonstrations
+Number of new forestry products developed that are informed by NRCan tools and knowledge
+The second Departmental Result under Innovative and Sustainable Natural Resources Development is, “Clean technologies and energy efficiencies enhance economic performance.” The three Departmental Indicators associated with this Departmental Result are:
+Success of NRCan-funded clean technology demonstrations in terms of economic performance
+Ratio of leveraged investments in energy innovation projects funded by NRCan
+Total annual energy savings resulting from adoption of energy efficiency codes, standards and practices
+The third Departmental Result under Innovative and Sustainable Natural Resources Development is, “Canada’s natural resources are sustainable.” The six Departmental Indicators associated with this Departmental Result are:
+Percentage of Canadian electricity generated from non-GHG emitting sources
+Number of renewable energy projects in remote communities and off-grid industrial operations
+Amount of wood harvested compared to the sustainable supply
+Change in greenhouse gas emissions resulting from NRCan-funded clean technology demonstrations
+Number of low-carbon recharging and refueling stations under development or completed
+Number of policies and initiatives developed collaboratively with Indigenous groups and communities
+At the bottom of the Innovative and Sustainable Natural Resources Development column is a list of NRCan programs associated with this Core Responsibility, which includes the following programs:
+Clean Energy Technology Policy, Research and Engagement
+Clean Growth in Natural Resource Sectors
+Energy Innovation Program
+Green Mining Innovation
+Fibre Solutions
+Sustainable Forest Management
+Cumulative Effects
+Lower Carbon Transportation
+Electricity Resources
+Energy Efficiency
+Energy and Climate Change Policy
+Innovative Geospatial Solutions
+In the column under Globally Competitive Natural Resource Sectors is a description of this Core Responsibility, which is, “Advance and promote market access, inclusiveness and competitiveness for Canada’s natural resource sectors, in support of jobs and economic growth.*” The asterisk indicates that this also includes statutory payments for offshore petroleum. Also in the column are the three Departmental Results associated with this Core Responsibility, and several Departmental Indicators associated with each Departmental Result.
+The first Departmental Result under Globally Competitive Natural Resource Sectors is, “Access to new and priority markets for Canada’s natural resources is enhanced.” The four Departmental Indicators associated with this Departmental Result are:
+Canada’s share of U.S. and global imports of natural resources
+Number of Canadian-owned resource companies operating abroad
+Number of NRCan-led trade and promotion missions supporting the development or expansion of market access for natural resources
+Average number of companies, provinces/territories and Indigenous leaders participating in trade and promotion missions
+The second Departmental Result under Globally Competitive Natural Resource Sectors is, “Canadians are engaged in the future of the new and inclusive resource economy.” The three Departmental Indicators associated with this Departmental Result are:
+Percentage of policy, regulatory and legislative changes with formal mechanisms for broad public engagement
+Number of joint analytical products with provinces and territories
+Number of Indigenous groups and communities implicated in economic development projects
+The third Departmental Result under Globally Competitive Natural Resource Sectors is, “Enhanced competitiveness of Canada’s natural resource sectors.” The two Departmental Indicators associated with this Departmental Result are:
+Percentage of resource development project decisions on target as per timelines
+Number of times NRCan’s economic and investment data are accessed
+At the bottom of the Globally Competitive Natural Resource Sectors column is a list of NRCan programs associated with this Core Responsibility, which includes the following programs:
+Forest Sector Competitiveness
+Provision of Federal Leadership in the Minerals and Metals Sector
+Energy Safety and Security, and Petroleum Resources
+International Energy Engagement
+Statutory Offshore Payments
+Major Projects Management Office – West
+Major Projects Management Office Initiative
+Youth Employment Strategy
+Appendix 3: NRCan 2019–20 Expenditures and FTEs by Program Inventory
+Departmental Results Framework
+Actual FTEs
+Actual Spending
+Total Actual Spending
+CR#1: Natural Resource Science and Risk Mitigation
+Canadian Geodetic Survey: Spatially Enabling Canada (NAA1)
+38
+5,660,256
+0.23%
+Geological Knowledge for Canada’s Onshore and Offshore Land (NAB1)
+166
+28,452,744
+1.16%
+Core Geospatial Data (NAC1)
+128
+20,224,378
+0.82%
+Canada-US International Boundary Treaty (NAD1)
+11
+1,903,933
+0.08%
+Canada Lands Survey System (NAE1)
+104
+14,160,011
+0.58%
+Geoscience for Sustainable Development of Natural Resources (NAF1)
+227
+35,848,878
+1.46%
+Pest Risk Management (NAG1)
+194
+27,332,708
+1.11%
+Forest Climate Change (NAH1)
+85
+10,785,477
+0.44%
+Climate Change Adaptation (NAJ1)
+25
+10,729,399
+0.44%
+Explosives Safety and Security (NAK1)
+66
+7,678,854
+0.31%
+Geoscience to Keep Canada Safe (NAM1)
+126
+18,352,891
+0.75%
+Wildfire Risk Management (NAN1)
+66
+10,350,500
+0.42%
+Polar Continental Shelf Program (NAP1)
+38
+16,208,058
+0.66%
+TOTAL: CR#1: Natural Resource Science and Risk Mitigation
+1,274
+207,688,086
+8%
+CR#2: Innovative and Sustainable Natural Resources Development
+Clean Energy Technology Policy, Research and Engagement (NBA1)
+581
+81,646,157
+3.33%
+Clean Growth in Natural Resource Sectors (NBB1)
+36
+59,913,759
+2.44%
+Energy Innovation Program (NBC1)
+104
+75,841,182
+3.09%
+Green Mining Innovation (NBD1)
+132
+19,531,624
+0.80%
+Fibre Solutions (NBE1)
+87
+13,529,887
+0.55%
+Sustainable Forest Management (NBF1)
+133
+18,945,340
+0.77%
+Cumulative Effects (NBG1)
+60
+8,629,066
+0.35%
+Lower Carbon Transportation (NBH1)
+46
+34,558,070
+1.41%
+Electricity Resources (NBJ1)
+68
+153,193,343
+6.24%
+Energy Efficiency (NBK1)
+218
+1,003,547,273
+40.88%
+Energy and Climate Change Policy (NBM1)
+68
+11,867,967
+0.48%
+Innovative Geospatial Solutions (NBN1)
+113
+17,673,492
+0.72%
+TOTAL: CR#2: Innovative and Sustainable Natural Resources Development
+1,645
+1,498,877,158
+61%
+CR#3: Globally Competitive Natural Resource Sectors
+Forest Sector Competitiveness (NDA1)
+132
+110,708,833
+4.51%
+Provision of Federal Leadership in the Minerals and Metals Sector (NDB1)
+108
+15,340,827
+0.62%
+Energy Safety and Security, and Petroleum Resources (NDC1)
+77
+11,464,602
+0.47%
+International Energy Engagement (NDD1)
+37
+6,792,282
+0.28%
+Statutory Offshore Payments (NDE1)
+-
+398,994,779
+16.25%
+Natural Resources Canada’s Indigenous Partnerships Office - West (NDF1)
+35
+19,306,168
+0.79%
+Major Projects Management Office Initiative (NDG1)
+78
+24,563,716
+1.00%
+Science and Technology Internship Program (NDH1)
+3
+8,463,574
+0.34%
+TOTAL: CR#3: Globally Competitive Natural Resource Sectors
+470
+595,634,782
+24%
+TOTAL: All 33 programs
+3,389
+2,302,200,026
+94%
+Departmental Results Framework
+Actual FTEs
+Actual Spending
+Total Actual Spending
+Internal Services
+Management and Oversight (NC11)
+279
+39,822,144
+1.62%
+Communication (NC12)
+118
+13,062,262
+0.53%
+Legal (NC13)
+4
+7,466,496
+0.30%
+Human Resources Management (NC21)
+175
+20,138,906
+0.82%
+Financial Management (NC22)
+112
+15,618,763
+0.64%
+Information Management (NC23)
+47
+8,671,528
+0.35%
+Information Technology (NC24)
+127
+23,701,629
+0.97%
+Real Property (NC31)
+72
+18,941,458
+0.77%
+Material (NC32)
+16
+1,252,492
+0.05%
+Acquisition (NC33)
+43
+3,915,221
+0.16%
+Total: Internal Services
+993
+152,590,901
+6%
+DEPARTMENT TOTAL
+4,381
+2,454,790,927
+100%
+Source: CMSS
+Appendix 4: Engagement Sub-Objectives and Criteria
+The purpose of this engagement is to review the compliance of the DRF transition with the TB Policy on Results and assess its effectiveness and the impacts of DRF planning and roll-out (including its implementation and updating) on managing departmental programs/services and reporting. This appendix presents the engagement’s sub-objectives and the criteria used to assess them.
+Sub-Objectives
+Criteria
+Sub-Objective #1:
+To assess the suitability of departmental needs/priorities and risk assessment mechanisms during DRF development.
+1.1 Departmental reporting needs and priorities were discussed and considered in the DRF design, planning and roll-out to meet the
+Policy on Results
+requirements, but also the needs and priorities of NRCan.
+1.2 The DRF roll-out planning strategy helped the team assess the key risks, periodically adjust the approach based on those risks, and identify mitigating controls to achieve the expected roll-out objectives.
+1.3 This strategy was based on knowledge and best practices internal and external to the department.
+Sub-Objective #2:
+To assess governance effectiveness
+2.1 The roles and responsibilities of the various positions have been defined in accordance with
+Policy on Results
+requirements.
+2.2 The various functions were adequately performed during the DRF transition (design, planning, and roll-out of the DRF and its tools).
+Sub-Objective #3:
+To assess the effectiveness of the stakeholder engagement strategy
+3.1 An adequate strategy that targets stakeholder engagement was developed and used for the DRF transition and roll-out.
+3.2 The stakeholder engagement strategy is communicated and updated throughout the DRF transition roll-out to ensure the strategy’s effectiveness.
+3.3 The stakeholder engagement strategy is useful in effectively defining DRF transition and roll-out tools.
+Sub-Objective #4:
+To assess the understanding of results and use of performance measurements
+4.1 DRF transition and updating allow for better program performance measurement, including GBA+ and official languages indicators
+4.2 DRF transition and updating allow for better use of program performance information.
+4.3 DRF transition and updating allow for better understanding of the Departmental Results to be achieved.
+Sub-Objective #5:
+To assess compliance of DRF tools and their effects on the improvement of reporting
+5.1 The DRF transition allows for the development and implementation of various tools identified in the
+Policy on Results
+.
+5.2 The tools developed during the DRF transition and roll-out comply with
+Policy on Results
+requirements and deadlines.
+5.3 The tools developed during the DRF transition and implementation allow for adequate reporting while considering the overall responsibility for financial results, program and service performance indicators and reports to the DM, Minister, and TBS.
+Sub-Objective #6:
+To assess resource management and efficiency measures and their impact on achieving the desired DRF transition results
+6.1 DRF transition resources are defined upstream by the sectors.
+6.2 DRF transition resources are well distributed across sectors.
+6.3 Processes are implemented for feedback and the DRF transition.
+Footnotes
+Footnote 1
+Also includes statutory payments for offshore gas.
+Return to footnote
+1
+referrer
+Footnote 2
+The first phase of implementing the DRF components was reviewing PAA elements, that is, strategic results and program activities and sub-activities. This allowed these elements to be redefined (reorganized or modified) to establish Core Responsibilities, Departmental Results and their underlying Indicators, as well as Program Inventories and PIPs. This redefinition was intended to meet the expected results stipulated in section 3.2 of the
+Policy on Results
+.
+Return to footnote
+2
+referrer
+Footnote 3
+These tools are the components of the DRF: the Core Responsibilities, the Departmental Results and Departmental Result Indicators, and the Program Inventory along with the Performance Information Profiles.
+Return to footnote
+3
+referrer
+Footnote 4
+Appendix A and Appendix C of the
+Directive on Results
+.
+Return to footnote
+4
+referrer
+Footnote 5
+Core Responsibilities, Departmental Results, Departmental Result Indicators, the 33 programs, and their performance information profiles (PIPs).
+Return to footnote
+5
+referrer
+Report a problem on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2022-06-30

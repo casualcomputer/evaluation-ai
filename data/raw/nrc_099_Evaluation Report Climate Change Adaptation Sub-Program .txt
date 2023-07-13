@@ -1,0 +1,3489 @@
+Evaluation Report: Climate Change Adaptation Sub-Program
+Table of Contents
+Abbreviations, Acronyms and Glossary
+Acknowledgements
+Executive Summary
+1.0 Introduction
+1.1 Overview
+1.2 Program Description
+1.2.1 Governance, Roles and Responsibilities
+1.2.2 Resources
+2.0 Evaluation Objectives and Methodology
+2.1 Evaluation Scope and Objectives
+2.2 Evaluation Methodologies and Limitations
+2.2.1 Methodologies
+2.2.2 Limitations and Mitigation Strategies
+3.0 Findings on CCA Sub-Program Relevance
+3.1 Evaluation Issue 1: Continuing Need
+3.1.1 Who are the stakeholders and what needs of theirs are being addressed by CCA Sub-Program component activities?
+3.1.2 Are the needs continuing?
+3.1.3 Has the CCA Sub-Program evolved to meet new or changing needs of stakeholders?
+3.1.4 Has the number or nature of stakeholders changed over the last 4 years?
+3.2 Evaluation Issue 2: Alignment with Government Priorities
+3.2.1 To what federal government priorities is the CCA Sub-Program linked?
+3.2.2 To what departmental strategic outcomes and priorities is the program linked?
+3.3 Evaluation Issue 3: Alignment with Federal Roles and Responsibilities
+3.3.1 Should the Government of Canada be involved in activities to enhance competitiveness by positioning regions and targeted economic sectors to adapt to climate change?
+3.3.2 Should the Government of Canada be involved in climate change geoscience activities?
+3.3.3 Are there other parties who could deliver the aspects of the CCA Sub-Program that are now federally delivered?
+4.0 Findings on the CCA Sub-Program Program Effectiveness
+4.1 Evaluation Issue 4: Achievement of Expected Outcomes
+4.1.1 To what extent has the program produced expected outputs?
+4.1.2 To what extent is there availability of CCA knowledge?
+4.1.3 To what extent is there awareness of CCA knowledge?
+4.1.4 To what extent do stakeholders use/implement CCA knowledge?
+4.1.5 To what extent is there increased engagement in adaptation by targeted decision-makers?
+4.1.6 To what extent have adaptation measures been considered by decision-makers?
+4.1.7 To what extent do decision-makers factor a changing climate into their planning?
+4.2 Have there been any unintended (positive or negative) outcomes?
+4.3 To what extent do CCA Sub-Program outputs contribute to immediate outcomes, intermediate outcomes, and ultimate outcomes?
+5.0 Findings on the CCA Sub-Program's Efficiency and Economy
+5.1 Evaluation Issue 5: Efficiency and Economy
+5.1.1 What is the difference between planned and actual spending? What explains this difference, if anything?
+5.1.2 What steps has the CCA Sub-Program taken to minimize the use of resources in the achievement of results?
+5.1.3 What, if anything, about the CCA Sub-Program needs to be adjusted?
+5.1.4 To what extent have the CCA Sub-Program outputs been produced and at what cost?
+5.1.5 To what degree is ECCC-ESS and CCGP performance information used in decision-making by the CCA Sub-Program?
+6.0 Conclusions and Recommendations
+Annex A: CCA Sub-Program Logic Model
+Annex B: Evaluation Matrix
+List of Tables
+Table 1: Sub-Program 3.1.4: Climate Change Adaptation within NRCan PAA 2014-15
+Table 2: Projects of the CCGP
+Table 3: Adaptation Platform Working Groups 2014-15
+Table 4: G&C Contributions by Working Group and RAC
+Table 5: PAA 3.1.4 Climate Change Adaptation (CCA) Organizational Chart
+Table 6: Oversight Committees, ECCC-ESS
+Table 7: Climate Change Adaptation, Planned Resources by Funding Source, 2011-2015
+Table 8: CCA Full-Time Equivalent (FTE) Resources, 2011-2015
+Table 9: Definitions of Standard Rating Statements
+Table 10: Distribution of interviews by Interview Group and Program Component
+Table 11: Stakeholders and their Needs
+Table 12: Collaborations by Year, ECCC-ESS and CCGP 2011-15
+Table 13: Alignment of CCA Sub-Program to Federal Adaptation Policy Framework
+Table 14: CCGP Knowledge Products by Project and Year
+Table 15: Planned Spending, ECCC-ESS per Performance Measurement and Risk Strategy
+Table 16: Planned Spending ECCC-ESS, Post-Reprofile of 2012-13 G&C funds
+Table 17: Planned* versus Actual Spending, ECCC-ESS
+Table 18: CCGP Planned Spending and Actual Spending 2011-2015
+Table 19: Leveraged Resources: ECCC-ESS Component
+Table 20: Leveraged Resources: CCGP Component
+Abbreviations, Acronyms and Glossary
+CA
+Contribution Agreement
+CAA
+Clean Air Agenda
+CCA
+Climate Change Adaptation
+CCGP
+Climate Change Geoscience Program
+DSDS
+Departmental Sustainable Development Strategy
+EAC
+Evaluation Advisory Committee
+ECCC
+Enhancing Competitiveness in a Changing Climate Program
+ESS
+Earth Sciences Sector
+FAPF
+Federal Adaptation Policy Framework
+FSDS
+Federal Sustainable Development Strategy
+GSC
+Geological Survey of Canada
+IPCC
+Intergovernmental Panel on Climate Change
+NRCan
+Natural Resources Canada
+NS
+Northern Strategy
+SPOB
+Strategic Policy and Operations Branch
+Glossary of Terms
+Adaptation
+Adaptation refers to initiatives and measures to reduce the vulnerability of natural and human systems against actual or expected climate change effects. Various types of adaptation exist, e.g., anticipatory and reactive, private and public, and autonomous and planned. Examples are raising river or coastal dikes, and the substitution of more temperature-shock resistant plants for sensitive ones
+.
+Footnote
+1
+Adaptation benefits
+Adaptation benefits refer to the damage costs avoided or the benefits accrued following the adoption and implementation of adaptation measures
+.
+Footnote
+2
+Adaptation costs
+Adaptation costs refer to the costs of planning, preparing for, facilitating and implementing adaptation measures, including transition costs
+.
+Footnote
+3
+Climate
+Climate in a narrow sense is usually defined as the average weather. . . . The relevant quantities are most often surface variables such as temperature, precipitation and wind. Climate in a wider sense is the state of the climate system, including a statistical description
+.
+Footnote
+4
+Climate change
+The Intergovernmental Panel on Climate Change (IPCC) defines climate change as “a change in the state of the climate that can be identified (e.g., by using statistical tests) by changes in the mean and/or the variability of its properties, and that persists for an extended period, typically decades or longer. Climate change may be due to natural internal processes or external forces or to persistent anthropogenic changes in the composition of the atmosphere or in land use
+.”
+Footnote
+5
+Climate change adaptation
+Adjustment in natural or human systems in response to actual or expected climatic stimuli or their effects, which moderates harm or exploits beneficial opportunities. Various types of adaptation can be distinguished, including anticipatory and reactive adaptation, private and public adaptation, and autonomous and planned adaptation
+.
+Footnote
+6
+Greenhouse gases
+Gases, both natural and anthropogenic, that absorb infrared radiation in the atmosphere, causing warming of the earth. Water vapour, carbon dioxide, nitrous oxide, methane, and ozone are the primary greenhouse gases
+.
+Footnote
+7
+Intergovernmental Panel on Climate Change (IPCC)
+The Intergovernmental Panel on Climate Change (IPCC) was established by the United Nations Environment Program (UNEP) in 1988 and is responsible for assessing and compiling the most recent and best scientific research on climate change
+.
+Footnote
+8
+Permafrost
+Perennially frozen ground that occurs where the temperature remains below 0°C for several years
+.
+Footnote
+9
+Sea level rise
+An increase in the mean level of the ocean
+.
+Footnote
+10
+Vulnerability
+The degree to which a system is susceptible to, and unable to cope with, adverse effects of climate change, including climate variability and extremes
+.
+Footnote
+11
+Acknowledgements
+The Evaluation Project Team would like to thank the Climate Change Adaptation Sub-Program, Earth Sciences Sector, for its collaboration during the evaluation. We would also like to acknowledge the contribution of all those individuals who provided insights and comments crucial to this evaluation.
+The Evaluation Project Team was under the direction of Jennifer Hollington, Head of Evaluation, as well as Gavin Lemieux, the Director of Evaluation. The evaluation was managed by Jamie Riddell, with the support of Michelle Brazil. Evaluation services were provided by TDV Global Inc.
+Executive Summary
+Introduction:
+The objective of the Natural Resources Canada’s (NRCan’s) Climate Change Adaptation Sub-Program 3.1.4 is to develop and share information on adapting to a changing climate and to foster collaboration among key regional stakeholders across Canada, including government departments and agencies, private sector and community organizations. These collaborations enable discussion on key adaptation issues and preparation of practical adaptation measures that will prepare for and take advantage of the risks and opportunities resulting from climate change. This Sub-Program also delivers scientific analysis on key climate change issues affecting Canada's North (North of 60 latitude).
+Footnote
+12
+The CCA Sub-Program is delivered through two program components: Enhancing Competitiveness in a Changing Climate-Earth Sciences Sector (ECCC-ESS) and Climate Change Geoscience Program (CCGP). Both are led by the Earth Sciences Sector (ESS) but are resourced under separate funding authorities. ECCC-ESS is funded through the Adaptation theme of the Clean Air Agenda. The CCGP is mainly funded through NRCan A-base resources, with in-kind and cash funding from other government departments and other sectors of NRCan for specific activities within projects.
+The purpose of the evaluation was to assess the relevance and performance of NRCan’s CCA Sub-Program, as required by the Treasury Board of Canada’s
+Policy on Evaluation
+(2009). This report presents the findings, conclusions and recommendations of the evaluation of the CCA Sub-Program covering the period 2010-11 to 2014-15 and expenditures of $41 million.
+Footnote
+13
+Methodology
+:
+Data were collected from March to July 2015, and included two case studies, 24 interviews with stakeholders and program participants,
+Footnote
+14
+a document review, a literature review, an international comparison, and interpretation of ECCC-ESS results from an online survey that had already been conducted on behalf of Environment Canada’s (EC’s) Horizontal Evaluation of the Climate Change Adaptation Theme. The evaluation took a theory-based approach, studying whether or not key program activities (outputs) had an impact on achieving expected immediate, intermediate and ultimate outcomes as per the sub-program logic model.
+Footnote
+15
+While this methodology had several limitations, a multiple-lines-of-evidence approach allowed evaluators to mitigate this by triangulating findings.
+Relevance Findings:
+The evaluation found that there is an ongoing need for the CCA program. There is a legitimate, appropriate and necessary role for the federal government in delivering both components of the CCA Sub-Program. The ECCC-ESS component supports the economic competitiveness of targeted sectors, and the CCGP component provides geoscience information and knowledge in support of reducing risk in northern development.
+NRCan has a mandate to deliver the CCA Sub-Program under the
+Department of Natural Resources Act
+and the
+Resources and Technical Surveys Act
+. Under the Federal Adaptation Policy Framework, the CCA Sub-Program is aligned with the federal role to help Canadians better understand the impacts of climate change and to have the necessary tools to adapt to climate change effectively.
+Initial adaptation measures in Canada have focused on minimizing risk to human safety and infrastructure, particularly with respect to natural hazards, such as floods and storm surge as well as thawing permafrost. As the impacts of climate change have become better understood, it is being realized that adaptation can result in new opportunities as well as reducing risk.
+The need for information is ongoing for all stakeholder groups. This is particularly evident as climate change is expected to impact transportation routes that are minimally accessible (e.g., Northwest Passage), as well as impact the timing of industrial activities, such as oil and gas exploration and mine development (e.g., winter roads). The CCA Sub-Program is structured to deliver highly relevant scientific information and expertise to increase understanding and engage diverse stakeholder groups to develop appropriate adaptation measures.
+On the awareness continuum, when climate change impacts are highly visible and hazards are better documented, there are encouraging results. However, awareness is uneven across regions and industries. A need remains to increase awareness in order to “mainstream” climate change adaptation and ensure its full integration into decision-makers’ planning. The Adaptation Platform provides a constructive means for encouraging discussion and sharing of information as well as collaboratively developing the tools and knowledge needed to adapt.
+Performance Findings:
+The evaluation found clear linkages between outputs and outcomes. The research and information produced by the CCA Sub-Program have been directly used to increase awareness of adaptation in response to a changing climate. The dissemination mechanisms to make CCA knowledge available are found in the webinars, the workspace of the Adaptation Platform and the posting of CCA information and knowledge products on the NRCan website and GEOSCAN.
+The Sub-Program has generated a vast array of outputs, often exceeding planned targets, which have contributed to the realization of outcomes. In particular, CCA Sub-Program outputs have contributed to:
+Identifying adaptation measures to address opportunities arising from climate change;
+Enhancing collaboration with other organizations and individuals on climate change adaptation;
+Understanding risks and vulnerabilities and raising the profile of climate change; and
+Increasing awareness of relevant adaptation measures.
+Impacts of activities on decision-makers that factor a changing climate into their planning
+CCA knowledge products
+are generally available in the public domain, with the exception of some products produced by working groups that are available only through the Adaptation Platform virtual Workspace. Reports and publications are available online through the NRCan website as well as through collaborating organizations’ websites. The collaborative nature of the CCA Sub-Program increases the availability of CCA knowledge, as knowledge partners provide another avenue for distributing information. The active dissemination of program information in the form of targeted presentations and webinars is also occurring.
+Awareness of CCA knowledge
+has increased in an uneven manner across the country and throughout various sectors. Awareness was high within the immediate circles of those who are connected directly to the CCA Sub-Program and gaining momentum with the public. Survey results indicated that respondents recognized CCA products and tools, and that the majority of respondents believed them to be credible (90%), comprehensive (78%), up-to-date (86%) and timely (77%). While 46% of respondents highlighted that projects, resources, information and tools were somewhat easy to find, 29% of respondents found that they were not easy to find.
+There is increased stakeholder use of CCA knowledge
+generated from both ECCC-ESS and CCGP. Key governmental and industry stakeholders reported using and/or implementing CCA knowledge for decision-making. In particular, information derived from knowledge products (produced from program activities) have:
+informed and guided land-use and management decisions, policies, guidelines and plans;
+helped identify infrastructure problems and prioritize spending on capital improvements;
+assisted with climate-proofing community infrastructure assets; and
+helped with the assessment of the vulnerability of infrastructure to a changing climate.
+There is increased engagement in adaptation by targeted decision-makers
+over the course of the evaluation period. Collaborative agreements have increased within the ECCC-ESS component, and collaborative arrangements within the CCGP have remained relatively stable (likely reflecting the focused scope of the projects within the component), although they are now better documented. The nature of the collaborative arrangements has become more formalized and there is increased documentation of those arrangements. For example, the previously informal arrangement between ECCC and CCGP was formalized in the current iteration of the CCGP, and the relationship with ECCC is established via Letters of Agreement and a Project Charter for 2014-2016. Targeted decision-makers, in particular those within industry and the North
+Footnote
+16
+, are becoming more engaged. However, the lack of update to a 2009 Benchmark Study limited the evaluation’s ability to quantify the extent of the increase.
+Information derived from CCA knowledge products
+(produced from program activities) was informing and guiding land-use and management decisions, and decision-makers factored changing climate into their planning. The extent to which adaptation measures were considered by decision-makers varied according to the sector and where the stakeholders were situated on the CCA continuum (i.e., high knowledge level vs. low knowledge level). In many cases, action on adaptation was spurred by observed impacts or experience with extreme weather events. In terms of decision-making on sea level rise, for example, tools and maps were being used extensively and being shared across the communities of practice (e.g., engineers). With NRCan funding support, the British Columbia Ministry of Transportation assessed the vulnerability of its highways to a changing climate, including increased flooding due to extreme precipitation, and produced guidance on best practices. As a result,the British Columbia Ministry of Transportation now requires that climate change be considered in any new highway engineering work, in-house or procured from third parties.
+Footnote
+17
+Program results were influenced
+by a range of factors, but two stand out. First, the level of professionalism, determination and competence of NRCan researchers and program personnel from both ECCC-ESS and CCGP were cited. Second, the leveraging of collaboration, involvement and, in many instances, funding from stakeholders and partners was instrumental in accomplishing many of the activities.
+Efficiency and Economy Findings:
+The CCA Sub-Program components are designed to be an economic and efficient means of achieving outputs and progress toward outcomes. The CCA Sub-Program is built on a collaborative foundation and has effectively leveraged external resources. For the CCGP, every program dollar spent on O&M leverages $2.50 in additional funds. From an ECCC-ESS component perspective, every dollar of grant and contribution funds allocated by CCIAD leveraged $1.23 in additional contributions.
+Collaboration is recognized by stakeholders as an efficient means of achieving outputs and demonstrating progress towards outcomes. However, there were challenges in determining the actual costs of outputs. This was mainly due to the inability of the NRCan financial accounting system to account for in-kind contributions to CCGP projects from external collaborators, as well as the structure of cost centres within CCIAD which refer to general expense categories rather than business lines.
+Differences in planned and actual spending within the Sub-Program were mainly attributable to challenges resulting from the shortened time available to the ECCC-ESS between the announcement of funding and the end of fiscal year 2011-12. This had repercussions on the lead time available to develop proposals that met the requirements for contribution agreements and the ability to fully launch operations. In the CCGP, small variances were found in salary due to human resource fluctuations typical of science-based programs at NRCan.
+Interviewees indicated that the Sub-Program was diligent about minimizing the use of resources. Examples cited by interviewees included planning meeting locations to limit airfare costs, holding working group meetings via teleconference, and using webinars to share information on an interactive basis. Having workplans developed by working group participants and endorsed by Plenary members was identified as a means of maximizing opportunities to leverage resources as well as ensuring that the activities being undertaken met the needs of the stakeholders. CCA features designed to minimize the use of resources in the achievement of results included the following: the Adaptation Platform workspace encouraged collaboration in an on-line forum; contribution agreements were signed on a 50‑50 contribution basis; logistical services of the Polar Continental Shelf Program were engaged to support Arctic research; and face-to-face Plenary meeting costs were shared with co-hosts while attendees paid their own way.
+A program design that emphasized collaboration, the use of cost-sharing agreements, effective management and oversight, and ongoing, comprehensive monitoring of projects were key factors contributing to the economy and efficiency of the CCA.
+Recommendations:
+NRCan should update the information contained in the benchmark study to ensure that CCA activities remain relevant to targeted stakeholder needs, and are consistent with the Federal Adaptation Policy Framework.
+The CCA Sub-Program should develop a mechanism that enables current and future stakeholders to access the knowledge and information generated on an ongoing basis.
+The CCIAD should review and align program costs with program business lines so that the costs of outputs can be more readily measured.
+Management Response and Action Plan:
+Management Response and Action Plan
+Recommendations
+Management Response
+Responsible Official /Sector
+(Target Date)
+NRCan should update the information contained in the benchmark study to ensure that CCA activities remain relevant to targeted stakeholder needs, and are consistent with the Federal Adaptation Policy Framework.
+Accepted
+CCIAD will implement an update to the Benchmark Survey, pending Ministerial approval. The Division will combine the results of the survey with other stakeholder input to align its activities with stakeholder needs within the context of the Federal Adaptation Policy Framework.
+ADM ESS September 30, 2016 (completion of survey)
+The CCA Sub-Program should develop a mechanism that enables current and future stakeholders to access the knowledge and information generated on an ongoing basis.
+Accepted
+Building on its current knowledge dissemination activities (e.g., open files, peer reviewed journal articles, open house and community presentations, books and book chapters, technical reports, posters, and maps) the CCG program will work with key stakeholder groups to ensure effective knowledge transfer.
+Action: At the start of the next cycle, the CCG program will develop a communication and dissemination strategy to improve access to the knowledge generated by the program, ensuring full alignment of the program with government open data policies.
+The CCIAD will continue to review and implement its communication strategy and use federal tools available as well as work with its partners’ networks to improve access to the knowledge generated by the program.
+ADM ESS September 30, 2016
+The CCIAD should review and align program costs with program business lines so that the costs of outputs can be more readily measured.
+Accepted
+The CCIAD currently measures costs of outputs and if the program is renewed, it will structure the financial system of the new program to more efficiently link the budget to business lines in order to streamline the measurement of these costs.
+ADM ESS September 30, 2016
+1.0 Introduction
+1.1 Overview
+Natural Resources Canada's (NRCan) 3.1.4 Climate Change Adaptation (CCA) Sub-Program is based on a need to assist decision-makers in taking decisions with climate change adaptation considerations in mind, including adjustments to their approaches, activities and thinking because of observed or expected changes in climate. The Sub-Program’s activities and outputs are intended to maintain and enhance Canada’s economic competitiveness and the well-being of individuals and communities through the provision of relevant information, knowledge and tools. More specifically, it is intended to develop and share required adaptation information, knowledge and tools and to foster collaboration among multiple decision-makers to successfully plan for, and manage, the risks and opportunities resulting from a changing climate. As such, the CCA Sub-Program facilitates the production and exchange of knowledge and tools that help decision-makers understand the implications of a changing climate on their operations, and equip them with the tools and information needed to effectively adapt.
+The purpose of the evaluation was to assess the relevance and performance of NRCan’s CCA Sub-Program, as required by the Treasury Board of Canada’s
+Policy on Evaluation (2009)
+. This report presents the findings, conclusions and recommendations of the evaluation of the CCA Sub-Program for the four-year period 2011-12 to 2014-15.
+1.2 Program Description
+In the Departmental Performance Report (DPR) 2014-15, the CCA Sub-Program is described as follows:
+NRCan delivers an Adaptation Platform, which brings together national industry and professional organizations, federal, provincial and territorial governments, and other organizations to collaborate on shared adaptation priorities. It also delivers geoscience knowledge to inform northern resource development and infrastructure decision-making. This facilitates the production and exchange of knowledge and tools that help decision makers understand the implications of a changing climate on their operations, and equip them with the tools and information needed to effectively adapt.
+Footnote
+18
+The Sub-Program is found under Program 3.1 Protection for Canadians and Natural Resources which contributes to Strategic Outcome #3: Canadians have information to manage their lands and resources and are protected from related risks. Table 1 illustrates the Climate Change Adaptation (CCA) location as Sub-Program 3.1.4 on the 2014-15 NRCan Program Alignment Architecture (PAA).
+Table 1: Sub-Program 3.1.4: Climate Change Adaptation within NRCan PAA 2014-15
+Need text for table picture
+Source: NRCan, Program Alignment Architecture (PAA) 2014-15.
+CCA is the successor to the Climate Change Geoscience and Adaptation (CCGA) Sub-Program, which was evaluated in 2010-11. That evaluation found that collaboration was key to the CCGA’s success, but that there was a need to identify opportunities for improved collaboration between the CCGA components, and to value in-kind resources in dollar terms to better assess economy and efficiency.
+Footnote
+19
+According to the Report on Plans and Priorities (RPP) 2014-15, the expected result for PAA 3.1.4 is that “key stakeholders across Canada have access to new knowledge on risks and opportunities resulting from a changing climate for decision-making.”
+Footnote
+20
+The CCA Sub-Program (PAA 3.1.4) is designed to deliver this result through two program components: Enhancing Competitiveness in a Changing Climate-Earth Sciences Sector (ECCC-ESS) and Climate Change Geoscience Program (CCGP). Both are led by the Earth Sciences Sector (ESS) but are resourced under separate funding authorities. ECCC-ESS is funded through the Adaptation theme of the Clean Air Agenda. The CCGP is mainly funded through NRCan A-base resources, with in-kind and cash resources from other government departments (OGDs) and other sectors of NRCan for specific activities within projects.
+Each program component has its own results framework as per its respective Logic Model. For the purpose of conducting the CCA Sub-Program evaluation, the program component Logic Models were consolidated into one “evaluation” CCA Sub-Program Logic Model (see Annex A) and validated by program management and the evaluation team. A brief description of each program component is presented below.
+Climate Change Geoscience Component (CCGP) Description
+The CCGP is focused on developing geoscience information to help land-use planners, industry and regulators mitigate the risks in northern resource development arising from climate change. The CCGP is a long-standing program of the Geological Survey of Canada (GSC) and was known previously as “Enhancing Resilience in a Changing Climate.”
+Footnote
+21
+In 2011, the CCGP was reoriented to focus on Northern Canada. As per program documentation, “The new program is strongly aligned with Canada’s Northern Strategy, and the project themes were identified following extensive consultation with Northerners and extensive policy statements.”
+Footnote
+22
+Through a Call for Activity Ideas,
+Footnote
+23
+ESS staff were asked to propose ideas for activities within the CCGP according to the following five project themes:
+Addressing risk to land-based infrastructure;
+Addressing the growing need for transportation by sea;
+Water resource availability for hydro-electric (hydro);
+Framework data analysis and dissemination; and
+Incorporating climate change into risk analysis (risk/vulnerability).
+In the course of scoping projects, the CCGP research program focused on three projects that extended over the evaluation period
+.
+Projects were led by project leaders, and science leads were responsible for activities within the projects. Table 2 presents a description of the projects within CCGP.
+Table 2: Projects of the CCGP
+Project*
+Description
+Sub-Projects
+Land-Based Infrastructure
+Terrestrial terrain characterization, mapping and assessment with respect to climate change susceptibility with focus on regions with existing road and airport infrastructure
+Transportation Risk in the Arctic to Climatic Sensitivity (TRACS)
+Nunavut Airports
+Near-Surface Thermal Regime
+Coastal Infrastructure
+Northern coastline characterization, mapping and assessment with focus on regions with existing and potential coastal infrastructure )
+Beaufort Regional Coastline Characterization
+Local Coastal and Landscape Stability Assessment
+Erosion Modelling
+Sea-level
+Essential Climate Variables
+The Essential Climate Variables project is monitoring and assessing key components of the climate system, including glacier mass balance, permafrost, and snow cover.
+Snow
+Permafrost
+Glacier
+Source: Compiled from GSC Mid-Year Review documents 2013-14.
+* Projects include only those projects in place for the full evaluation period.
+Program objectives have been guided by the federal government’s Northern Strategy, in accordance with the socio-economic development pillar of the Strategy. CCGP activities are described as follows:
+Researchers in the program collaborate nationally and internationally with other federal government departments, provincial and territorial agencies, academia and industry to improve geoscience knowledge and ensure that it is used to mitigate the risks to responsible northern resource development that arise from climate change. Through its monitoring of selected components of the climate system, the program also contributes to international initiatives to understand the Earth’s changing climate.
+Footnote
+24
+According to the program theory of CCGP (see CCGP Logic Model, Annex A), the long-term outcome is that risk to investments in northern resource development is reduced by adaptation measures for climate change. In the medium-term, planning and regulation to support investment in infrastructure for northern resource development and address climate change impacts through the adoption of protocols and guidelines are the outcomes. In the short-term, increased awareness and implementation of earth science information detailing climate change impacts and of infrastructure in priority areas with respect to northern resource development were expected.
+The CCGP research agenda was planned for delivery over a five-year period. The current iteration of CCGP was launched in 2011-12, and the next program cycle would begin in 2016-17.
+Footnote
+25
+This renewal process was undertaken internally within NRCan and relied on a five-year plan for allocating A-base resources within ESS. Funds for the CCGP were authorized on an annual basis.
+Enhancing Competitiveness in a Changing Climate – Earth Sciences Sector (ECCC-ESS) Component Description
+In November 2011, Canada announced a $148.8 million investment over five years (2011-2016) for the continued support of federal adaptation programs through a horizontal initiative led by Environment Canada (EC) under the Adaptation theme of the Clean Air Agenda (CAA). Under the Adaptation Theme, NRCan received $35 million over five years to implement the Enhancing Competitiveness in a Changing Climate program (ECCC). The ECCC program is designed to facilitate “development and sharing of knowledge, tools, and practices which assist decision-makers in the analysis and implementation of adaptation measures.”
+Footnote
+26
+The objective of the component is to position regions and targeted economic sectors to adapt to a changing climate.
+ECCC is led by the Climate Change Impacts and Adaptation Division (CCIAD) and involves activities in the Earth Sciences Sector (ECCC-ESS), the Minerals and Metals Sector (ECCC-MMS) and the Canadian Forest Service (ECCC-CFS). Only ESS has ECCC activities that are included within CCA Sub-Program 3.1.4.
+The ECCC evolved from the Innovative Risk Management Tools and Regional Adaptation Collaboratives (RAC and Tools program 2009-2012). The RAC and Tools program focused on engagement and capacity building of a wide range of regional decision-makers in adaptation. The ECCC was designed to enable collaboration on adaptation between governments, businesses, professional and national organizations, including the development and exchange of information, tools, and expertise. The program objectives were guided by the Federal Adaptation Policy Framework, which seeks to help Canadians better understand the impacts of climate change and to have the necessary tools to adapt to climate change effectively by:
+Generating and sharing knowledge;
+Building adaptive capacity to respond and helping Canadians take action; and
+Integrating adaptation into federal policy and planning (mainstreaming).
+Adaptation Platform (AP)
+The Adaptation Platform, which is led by CCIAD, brings together knowledge, capacity and financial resources from across Canada and is the key delivery method for the ECCC-ESS. Through participant collaboration in the Adaptation Platform, information and tools that regions and key industries need to understand and adapt to the effects of a changing climate on their operations are produced. The Platform structure includes a Plenary (the coordinating forum) and a series of Working Groups.
+Plenary members are senior-level representatives from targeted organizations that meet twice a year to help define priority areas for Working Group efforts, align interests and resources, and identify opportunities for adaptation. Plenary members commit information, knowledge, expertise and resources. The Plenary also contributes to governance matters of the Adaptation Platform, such as membership and operations according to the Plenary Terms of Reference (TOR). CCIAD chairs the Plenary.
+Working groups bring together people with expertise and/or common interest in specific issues or sectors. Participants collaborate to clearly define work plans and work towards achieving their objectives. Members of working groups contribute by providing funding, expertise and information from their organizations; writing and reviewing documents; acting as advisory committee members on projects; and hosting meetings. Working groups meet primarily by teleconference, and carry out most of their work on the online workspace provided through the Adaptation Platform. Working group participants are nominated by Plenary members.
+Nine working groups were established in the initial year, 2012. Since then, Agriculture; Water and Climate Information; and Infrastructure and Buildings Working Groups have been added. Table 3 below presents the list of working groups and their respective objectives.
+Table 3: Adaptation Platform Working Groups 2014-15
+Working Groups
+Objectives
+Agriculture
+Build a community of practice on agriculture adaptation in Canada, and design and deliver a Program of Work that addresses common issues and needs related to adaptation in the agriculture sector.
+Energy*
+Advance adaptation and increase resilience to a changing climate in the electricity and oil and gas sectors.
+Forestry
+Address sustainable forest management in the context of a changing climate.
+Infrastructure and Buildings
+Build capacity, generate evidence and provide outreach to increase the capability of infrastructure managers, municipalities, builders, insurers, engineers and other relevant stakeholders to adapt and facilitate adaptation to climate change.
+Mining*
+Address information gaps while developing tools and information that will help the sector to adapt.
+Coastal Management*
+Increase understanding of the impacts of climate change on economic, human and cultural coastal assets and potential adaptation responses.
+Northern Regions*
+Provide northern decision-makers with the information and tools necessary to advance adaptation.
+Regional Adaptation Collaborative and Tools synthesis*
+Provide a forum through which value-added RAC and Tools products can be identified and developed.
+Economics of Adaptation*
+Create economic knowledge and tools that help decision-makers in both the private and public sectors make better adaptation investment choices and policy decisions.
+Measuring Progress*
+Improve the ability of decision-makers to measure progress in the implementation and effectiveness of adaptation.
+Science Assessment*
+Improve how science assessments in Canada are developed, how they are communicated, and how they are used.
+Water and Climate Information
+Provide improved access to an inventory and tools for water and climate information products to support adaptation in Canada.
+Source: Internal Program Data received from CCIAD July 7, 2015.
+* Denotes working groups that receive ECCC-ESS Grants and Contributions (G&C) funding.
+Activities and outputs under the Adaptation Platform are carried out and delivered by the working group participants as well as through calls for proposals and contracted analysis. Funding is determined based on the priorities and mandate of the funder, which could include any of the Plenary member organizations. Projects are identified within the workplans developed by the working groups.
+While all of the working groups fall under the purview of the Adaptation Platform Plenary, Grants and Contributions (G&C) funds from the ECCC-ESS are distributed only to the working groups for which NRCan is responsible.
+Footnote
+27
+These are Coastal, Economics, Energy, Measuring Progress, Mining, Northern, RAC and Tools Synthesis, and Science Assessments. RACs also received G&C funding. ECCC-ESS funds are transferred through Contribution Agreements (CAs), which provide funding for up to 50% of the project costs.
+The ESS administers all G&C funds within this component, including those which were reprofiled to 2011-12 from the previous RAC and Tools program. G&C funds under the ECCC-ESS are distributed as follows:
+Table 4: ECCC-ESS Distribution of G&C Contributions
+Working Group
+# of Contribution Agreements signed
+NRCan Agreed Contribution
+Matching Contribution
+Total
+Coastal
+16
+1,730,648
+2,588,734
+4,319,382
+Economics
+12
+2,914,341
+3,153,304
+6,067,645
+Energy
+21
+1,835,404
+2,389,054
+4,224,458
+Measuring Progress
+8
+687,996
+797,677
+1,485,673
+Mining
+11
+863,102
+1,005,218
+1,868,320
+Northern
+7
+824,221
+1,045,682
+1,869,903
+RAC and Tools Synthesis
+6
+534,590
+572,218
+1,106,808
+Regional Adaptation Collaboratives
+6
+1,702,817
+1,933,755
+3,636,572
+Science Assessments
+7
+192,328
+340,357
+532,685
+Livable Cities Conference
+1
+29,860
+61,750
+91,610
+Total
+95*
+$11,315,307
+$13,887,749
+$25,203,056
+Source: Internal Program Data provided by CCIAD, July 7, 2015.
+* This number includes all contribution agreements to July 7, 2015; the number 86 used elsewhere refers only to contribution agreements signed to carry out working group activities.
+G&C funds were distributed via Contribution Agreements (CAs) with proponents. Proposals that aligned with the workplan of individual working groups were accepted. CAs were signed based on successful proposals submitted in a Call for Proposals. In 2012, a Call for Proposals yielded projects funded in the amount of $2.5 million.
+Footnote
+28
+In 2013, a subsequent Call for Proposals resulted in projects funded for a total of $3.675 million.
+Footnote
+29
+A third Call for Proposals was broadcast via the Adaptation Platform in April 2015.
+Footnote
+30
+Regional Adaptation Collaboratives (RACs)
+The RACs are a knowledge development and transfer mechanism designed to catalyze widespread adaptation action in Canada’s regions. They draw together adaptation expertise and sector-specific decision-makers to jointly enhance understanding of and create approaches to adaptation issues of regional priority. The RACs were initiated under the Clean Air Agenda in 2008-09 to expand collaboration at the local level. By targeting local impacts and advancing sustainable adaptation planning and decision-making at the local level, the RACs addressed regional climate change issues. Under the Adaptation Platform, the RACs remain regional focal points for channeling adaptation knowledge and tools from within and outside the regions. The initiative was delivered through Contribution Agreements with each individual RAC.
+The ECCC-ESS provided $1.7 million
+Footnote
+31
+in G&C funding to the RACs for the purpose of disseminating CCA knowledge at the local level. The RACs supported were British Columbia, Prairies, Ontario, Quebec, and Atlantic. The ECCC-ESS also administered approximately $11 million
+Footnote
+32
+in G&C funding reprofiled from the previous iteration of the CCA. The NRCan departmental website provided examples of RAC activities.
+Some examples of the RACs’ actions underway include:
+develop and update plans for water resource, drought and flood protection, emergency preparedness;
+assess and map coastal erosion vulnerability;
+recommend updates to building codes, standards, regulations and by-laws, as well as design standards for transportation and water infrastructure;
+prepare case studies, highlighting region-specific adaptation knowledge; and
+develop tools for community and resource planning, and establish “Communities of Practice” to share knowledge and best practices.
+Footnote
+33
+CCA Sub-Program Logic Model
+The ultimate expected outcome for the CCA Sub-Program is that organizations will factor a changing climate into their planning, thereby increasing the resilience of regions and economic sectors to the impacts of a changing climate. The logic model shows how activities, outputs and immediate and intermediate outcomes are expected to contribute to the achievement of this long-term outcome.
+The CCA Sub-Program Logic Model can be found at
+Annex A.
+1.2.1 Governance, Roles and Responsibilities
+The Assistant Deputy Minister (ADM), Earth Sciences Sector (ESS) is responsible for the CCA Sub-Program. Operational responsibility for the CCA components falls under two separate branches of the ESS. The CCA organizational chart in Table 5 illustrates the chain of responsibility within NRCan.
+Table 5: PAA 3.1.4 Climate Change Adaptation (CCA) Organizational Chart
+Text version
+Table 5: PAA 3.1.4 Climate Change Adaptation (CCA) Organizational Chart
+Table 5 shows a hierarchical organizational chart for PAA 3.1.4 Climate Change Adaptation (CCA) that has five levels of responsibility.
+The Assistant Deputy Minister (ADM), Earth Sciences Sector (ESS) is at the highest level. Reporting to the ADM, are two Directors General (DG), each with line responsibility for a component. The DG Central and Northern Branch, Geological Survey of Canada is responsible for the CCGP component, while the DG, Strategic Policy and Operations (SPOB) is responsible for the ECCC-ESS component.
+Reporting to the DGs are Directors for each component. Reporting to the directors are six program managers. For the CCGP component, there is one program manager with responsibility for three CCGP projects. For the ECCC-ESS component, there are five program managers.
+Table 5:  PAA 3.1.4 Climate Change Adaptation (CCA) Organizational Chart
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+ADM – ESS
+DG, Central and Northern Branch, Geological Survey of Canada
+Director, Northern Canada Division, GSC
+Program Manager, Climate Change Geoscience Program (CCGP)
+Essential Climate Variables
+Coastal Infrastructure
+Land-Based Infrastructure
+DG Strategic Policy and Operations Branch (SPOB)
+Director, Climate Change Impacts and Adaptation Division (ECCC-ESS)
+Program Manager
+Adaptation Tools Programming
+Research Manager
+Senior Policy Manager
+Adaptation Program Manager
+The CCGP component is delivered through the Central and Northern Canada Branch (CNCB) of the Geological Survey of Canada (GSC). The Program Manager for the CCGP reports to the Director, Northern Canada of the GSC. The Director, Northern Canada in turn reports to the Director General (DG) of the CNCB. Oversight for the CCGP is provided at the project level by three Project Managers.
+Footnote
+34
+The ECCC-ESS component is delivered by the Climate Change Impacts and Adaptation Division (CCIAD) of the Strategic Policy and Operations Branch (SPOB) of ESS. CCIAD is led by a Director, to whom the Program Managers report. There are five Program Managers within the ECCC-ESS. The organizational chart in Table 5 above illustrates the reporting structure within the CCA.
+The ECCC is a part of the Adaptation theme of the Clean Air Agenda, a government-wide initiative. Within NRCan, the ECCC funds activities within three sectors: the Canadian Forest Service (CFS), Minerals and Metals Sector (MMS) and Earth Sciences Sector (ESS). ESS is the lead sector within NRCan, and acts as the liaison between NRCan and Environment Canada (EC), the lead department for the Adaptation Theme. Oversight is provided by management committees at both the departmental and interdepartmental levels (see Table 6).
+A recent NRCan audit on the governance of NRCan’s activities on climate change found that activities funded under the ECCC had sufficient oversight and governance structures, and that roles and responsibilities were clear and well understood.
+Footnote
+35
+Table 6 summarizes the oversight committees under which the ECCC-ESS operates.
+Table 6: Oversight Committees, ECCC-ESS
+Oversight
+Committee
+Membership
+Role
+Interdepartmental
+DG Adaptation Policy Steering Committee (DGAPSC)
+Chair
+: Environment Canada, DG Strategic Policy
+Members
+: all federal departments with an interest in adaptation to climate change. DG ESS - SPOB represents NRCan on this committee.
+Purpose: Policy coordination on adaptation as needed (e.g., debriefs on DMCEEE discussions and reviews of policy-related documents)
+Interdepartmental
+Adaptation theme of the Clean Air Agenda DG Management Committee (DGMC)
+Chair
+: Environment Canada, DG S&T Branch (EC branch receiving Clean Air Agenda funding)
+Members
+: All federal departments receiving funding under the Adaptation theme of the Clean Air Agenda (9 departments).
+Purpose: Coordination across the adaptation theme. Each department is responsible for delivery of its own program. Meets once annually to discuss coordination issues. The DGAPSC has a policy/strategic focus and the Adaptation Theme DGMC has an operational focus.
+Departmental
+NRCan Adaptation DGs
+Chair
+: Director General, SPOB, ESS
+Members
+: ESS, MMS, CFS (NRCan sectors receiving adaptation funding under the Clean Air Agenda)
+Purpose: To exchange information on the programs funded under the Adaptation theme of the Clean Air Agenda. Opportunity to look for synergies, etc. The Chair provides updates on information from Adaptation Theme DGs and actions arising from the Adaptation theme of the Clean Air Agenda process (e.g., new reporting requirements).
+Departmental
+NRCan Adaptation Committee
+(Director level)
+Chair
+: Director, CCIAD, SPOB, ESS
+Members
+: All sectors of the department
+Purpose: To ensure that the dialogue on adaptation between NRCan’s sectors continues, in order to foster further internal collaboration, coordination and integration with respect to climate change adaptation. The Chair brings information from the interdepartmental DGAPSC to this table. The Adaptation Committee was created to follow up on the work of the Horizontal Task Teams on Adaptation (both science and policy).
+Source: Adapted from review of roles and responsibilities conducted by NRCan Audit Branch in support of the Audit of Climate Change Adaptation – Governance and Management Processes at NRCan (AU1508), January 2015 .
+1.2.2 Resources
+As shown in Table 7 below, the CCA Sub-Program had a planned four-year budget of approximately $41 million
+Footnote
+36
+in both A-base and C-base funds over the period 2011-2015. Approximately $31.2 million
+Footnote
+37
+was provided under the Adaptation theme of the Clean Air Agenda (CAA). The CCGP accounts for another $9.7 million
+Footnote
+38
+. A-base resources accrued from the allocations provided annually to the CCGP component. The ECCC-ESS component administered 100% of the C-base resources within the CCA Sub-Program.
+Table 7: Climate Change Adaptation, Planned Resources by Funding Source, 2011-2015
+Funding Source
+2011-12
+2012-13
+2013-14
+2014-15
+Total $
+A-base – CCGP*
+2,741,900
+2,287,865
+2,410,000
+2,218,000
+9,657,765
+C-base – ECCC-ESS**
+2,167,624
+3509754
+7,224,754
+7,339,754
+20,241,886
+C-Base – RAC Reprofile**
+10,995,000
+10,995,000
+Total $
+15,904,524
+5,797,619
+9,634,754
+9,557,754
+40,894,651
+Source: * CCGP, June 20, 2015; ** CCIAD, May 22, July 17, and July 22, 2015.
+Table 8 shows that while minor fluctuations in FTEs occurred within each component, the total number of FTEs for the Sub-Program remained relatively constant during the evaluation period.
+Table 8: CCA Full-Time Equivalent (FTE) Resources, 2011-2015
+Component
+2011-12
+2012-13
+2013-14
+2014-15
+Total
+CCGP*
+21
+18
+20
+20
+79
+ECCC-ESS**
+13
+14
+14
+14
+55
+Total
+34
+32
+34
+34
+134
+Source: * Compiled from GSC Mid-Year Review, 2011-12; 2012-13: Year-End Review, 2012-13; 2013-14: Year-End Review 2013-14; 2014-15: Year-End Review, 2014-15 ** CCIAD, May 22, 2015.
+2.0 Evaluation Objectives and Methodology
+2.1 Evaluation Scope and Objectives
+The objective of the evaluation is to assess the relevance and performance (efficiency, economy, effectiveness) of NRCan's Sub-Program 3.1.4 Climate Change Adaptation, according to the Government of Canada’s
+Policy on Evaluation (2009)
+. The evaluation covers the period 2011-12 to 2014-15 and planned NRCan expenditures of approximately $41 million in both A-base and C-base funds.
+The evaluation covered the activities and expenditures of the CCA Sub-Program for the period 2011-12 to 2014-15, and considered the following five evaluation issues:
+Relevance
+Is there a continued need for the CCA Sub-Program?
+Assessment of the extent to which the Sub-Program continues to address a demonstrable need and is responsive to the needs of Canadians.
+Is the CCA Sub-Program aligned with Government of Canada priorities?
+Assessment of the linkages between Sub-Program objectives and federal government priorities and departmental strategic outcomes.
+Is the CCA Sub-Program aligned with federal roles and responsibilities?
+Assessment of the role and responsibilities for the federal government in delivering the CCA Sub-Program.
+Performance: Effectiveness
+To what extent has the CCA Sub-Program achieved the expected outcomes?
+Assessment of progress towards immediate, intermediate and ultimate outcomes.
+Performance: Efficiency
+To what extent has the CCA Sub-Program managed resources efficiently and economically?
+Assessment of resource utilization in relation to the production of outputs and progress toward expected outcomes.
+Sections 3, 4, and 5 in this report outline the findings for each of these defined evaluation issues and questions. Findings are presented by evaluation question and sub-question for the CCA Sub-Program. Please see
+Annex B
+for the Evaluation Matrix.
+For each evaluation question, a rating is provided based on an assessment of the evaluation findings. The rating statements and their significance are outlined below in Table 9.
+Table 9: Definitions of Standard Rating Statements
+Statement
+Definition
+Demonstrated
+The intended outcomes or goals have been achieved or met.
+Partially Demonstrated
+Considerable progress has been made to meet the intended outcomes or goals.
+Opportunity for Improvement
+Some progress has been made to meet the intended outcomes or goals. Management attention is needed to fully achieve the intended outcomes or goals.
+Not demonstrated
+Limited or no progress has been made to meet the intended outcomes or goals as stated.
+2.2 Evaluation Methodologies and Limitations
+2.2.1 Methodologies
+For this evaluation, data collection consisted of gathering information from six lines of evidence: a document and file review; a literature review; an international comparison; 24 interviews; an online survey; and case studies.
+Summary technical reports were developed for each line of evidence.
+Document Review
+Of the documents identified, sourced and provided by NRCan, 176 were deemed most relevant. Together, these documents provided a comprehensive record of the Sub-Program including policy documents, program planning documents, selected project files and other relevant documents.
+Literature Review
+The literature review considered academic and non-academic sources such as industry conference presentations and speeches, economic and industry outlook information, grey literature, as well as websites for industry associations, environmental organizations, climate change organizations and intergovernmental organizations. Over 50 documents were identified as a result of the literature search conducted using the following key search tools: Adaptation Library; Adaptation Platform Workspace; NRCan library and reference centre using the GeoRef and Scopus library database; Internet search engines including Google Scholar and Clusty (Vivisimo); and grey literature to obtain documentation not published commercially or indexed by mainstream databases.
+Interviews
+Twenty-four interviews were conducted using an interview guide developed for each interview group. Table 10 shows the four groups and distribution of interviews by group and program component.
+Table 10: Distribution of interviews by Interview Group and Program Component
+Group
+Description
+Number of Interviewees by Component
+Total
+ECCC-ESS
+CCGP
+1. CCA Management and Program Staff
+Includes NRCan senior and program managers
+5
+2
+7
+2. CCA Project Leaders
+Includes project-level leaders
+0
+5
+5
+3. Other Government Entities (including OGDs, Provinces and Territories
+Includes OGDs (Northwest Territories, Manitoba, Nunavut, Yukon)
+2
+6
+8
+4. Stakeholders and Beneficiaries
+Includes representatives of industry
+4
+0
+4
+Total interviewed
+11
+13
+24
+Interviews for the ECCC-ESS component of the sub-program would normally have been higher to reflect the larger numbers of stakeholders within the ECCC. However, interview findings from the horizontal evaluation of the Climate Change Adaptation theme and internal NRCan audit of departmental climate change activities were applicable, making more interviews with the same sources unnecessary.
+Online Survey
+The purpose of the survey was to reach a wider group of external stakeholders and partners to assess the relevance of the CCA Sub-Program to their needs and priorities as well as to determine its effectiveness in addressing those needs. Since a survey with the same external stakeholders was undertaken by EC for the evaluation of the Adaptation Theme within the previous three months, the results from the EC survey that related exclusively to the ECCC were used. Its results were interpreted for the purposes of this evaluation. The NRCan portion of the survey had been distributed to 240 respondents whose names were provided by NRCan’s CCIAD. The survey response rate was 22% (53 out of 240 respondents). It should be noted that the survey did not include stakeholders of the CCGP.
+International Comparison
+The objective of the international comparison was to identify findings for the evaluation questions and provide evidence of the similarities as well as the differences in the scale of climate adaptation programs in the United States (US) and Australia as compared to Canada. The international comparison consisted of a document and literature review of academic and non-academic sources such as academic journals, industry reports, conference presentations, economic outlook information, and grey literature (n= ~50 documents).
+Case Studies
+The purpose of the case studies was to achieve an in-depth understanding of one representative program activity for each component by focusing on a specific performance story (e.g., activities, outputs and outcomes).Two case studies were carried out on the following activities:
+Sea Level Rise - Policy Changes in British Columbia and the City of Vancouver
+(ECCC-ESS): Review of the effects of CCA projects aimed at mitigating the effects of a changing climate in British Columbia (BC), and the resulting policy practice changes in BC.
+Effect of Permafrost on Airport Development
+(CCGP): Review of the effects of a CCA project on informed decision-making and reduced risk to public investments in northern transportation infrastructure and resource development.
+2.2.2 Limitations and Mitigation Strategies
+A primary challenge associated with the literature review was identifying relevant documents within the vast subject spectrum of “climate change.” Given that adaptation was a relatively recent field within the broader field of climate change, a significant level of subjective judgement was required to identify the most relevant sources. Furthermore, it was found that the difference between mitigation and adaptation had not yet been well-defined, and they were often used interchangeably.
+While it was efficient to leverage Environment Canada’s (EC’s) survey for the Horizontal Evaluation of the Adaptation Theme, it did not address all evaluation questions specific to this evaluation. Since EC’s survey did not cover the CCGP component, extra interviews related to that component’s activities were conducted to address potential information gaps.
+Given the concurrent audit and horizontal evaluation processes, fewer interviews were conducted than originally planned to avoid interview fatigue. Also, a high staff turnover in external organizations created challenges in reaching identified individuals. However, the document review (which sourced interview findings from the audit and horizontal evaluation) as well as the results achieved in the other lines of evidence were used to mitigate potential data gaps.
+3.0 Findings on CCA Sub-Program Relevance
+3.1 Evaluation Issue 1: Continuing Need
+Evaluation Question
+Lines of Evidence
+Overall Rating
+Is there a continuing need for support for the CCA Sub-Program?
+Document, literature and file review
+Interviews
+Survey
+International comparison
+Demonstrated
+Summary:
+There is an ongoing need for the CCA program. Initial adaptation measures in Canada have focused on minimizing risk to human safety and infrastructure, particularly with respect to natural hazards such as floods and storm surge, as well as thawing permafrost. While reducing risk was the initial focus, there is growing realization that adaptation can also bring about new opportunities as climate change impacts become better understood.
+All stakeholder groups have a continuing need for information on adapting to climate change. This is particularly evident as climate change is expected to impact transportation routes that are minimally accessible (e.g., Northwest Passage), as well as impact the timing of industrial activities, such as oil and gas exploration and mine development (e.g., winter roads). The CCA Sub-Program is structured to deliver highly relevant scientific information and expertise to increase understanding and engage diverse stakeholder groups to develop appropriate adaptation measures.
+On the awareness continuum, when climate change impacts are highly visible and hazards are better documented, there are encouraging results. However, awareness is uneven across regions and industries. A need remains to increase awareness in order to further adaptation, and climate change adaptation has yet to be “mainstreamed” and fully integrated into decision-makers’ planning. The Adaptation Platform provides a constructive means for encouraging discussion, creating knowledge and tools, sharing information, and developing collaborative approaches.
+Analysis:
+3.1.1 Who are the stakeholders and what needs of theirs are being addressed by CCA Sub-Program component activities?
+A wide range of stakeholders have an interest in the CCA Sub-Program. All Canadians are stakeholders since climate change impacts the natural environment and requires adaptation in the human and economic systems. However, their direct experience is affected by the region in which they live. For the purposes of the CCA Sub-Program specifically, stakeholders include communities in regions vulnerable to climate change impacts (e.g., Arctic, coastal, floodplains); provincial, territorial, and municipal governments; Aboriginal treaty groups; targeted industry sectors; academia; and other federal government departments and agencies. Table 11 highlights stakeholder needs being addressed by the CCA Sub-Program activities, which can be categorized into three groups: research and information, coordination and collaboration, and resource/capacity support.
+Table 11: Stakeholders and their Needs
+Stakeholder
+NEEDS
+Research and Information
+Coordination and Collaboration
+Resource / Capacity Support
+Industry
+Data and information to protect assets and reduce risk
+Targeted industry-specific information
+Awareness information
+Shared learning
+Integrated information
+Tools to provide guidance
+Researchers
+Municipal Governments
+Data and information to protect capital assets, reduce risk and make land-use decisions
+Localized information
+Shared information across boundaries and jurisdictions
+Expertise
+Provincial and Territorial Governments
+Data and information to develop policies, standards, and regulations
+Land-use decisions
+Integrated across jurisdictions
+Shared learning
+Appropriate regulatory frameworks
+Expertise
+Funding
+Professional Associations
+Information to improve professional practices
+Shared best practices and lessons learned
+Research
+First Nations and Inuit Groups
+Data and information on which to base land-use decisions
+Awareness information
+Integrated information
+Expertise
+Academic
+Expanded body of knowledge
+Opportunities to apply knowledge and expertise
+Funding
+Source: Compiled from
+National Climate Change Adaptation Benchmark Survey, Executive Summary
+, prepared for NRCan by Environics Research Group April 2010; Adaptation Platform Working Group State of Play Reports: and Signature S&T documentation provided by CCIAD and the GSC.
+At the program component level, the primary ECCC-ESS component stakeholders include federal departments (such as Environment Canada, Transport Canada and Aboriginal Affairs and Northern Development), provincial and territorial governments, selected professional organizations and national natural resource industry associations.
+The CCGP component provides geoscience information to stakeholders north of 60 degrees to assist in mitigating risks to resource development arising from climate change. The primary stakeholders are federal government departments (e.g., Transport Canada, Aboriginal Affairs and Northern Development Canada), provincial and territorial agencies, academia and industry. The geoscience information is used by land-use planners, industry (e.g., mining, oil and gas, transportation) and regulators.
+While the individual needs of each group vary, stakeholders have a common need for baseline scientific information (publications, readings, assessments, maps, etc.) to enable a better understanding of the effects of a changing climate on their organization. Overall, needs are being met, and additional needs are being identified as basic scientific information is being provided and understood.
+3.1.2 Are the needs continuing?
+Survey
+: The vast majority of stakeholders (92%) indicated that they had participated in adaptation platform working groups, and 81% of stakeholders felt that that these were somewhat or very useful. Most stakeholders (71%) reported participating in adaptation platform webinars, and 86% of stakeholders felt that that these were somewhat or very useful.
+Interviews
+: For stakeholders at the initial level of the climate change adaptation continuum, the Sub-Program has provided valuable information and advice on opportunities and risks. Others who are more advanced on the continuum received the aforementioned information as well as more advanced and detailed information. In many instances, the Sub-Program has been able to meet unique needs by generating adapted one-off products.
+All lines of evidence indicate that needs are continuing. Given the broad scope and range of effects of a changing climate on industry, sectors, infrastructure, and citizens, as well as the regional nature of the challenges and opportunities, the need for work to support adaptive decision-making and achieve resilience is expected to continue.
+The document review indicates that stakeholder needs will continue into the foreseeable future. The need for infrastructure in the North continues, with transportation being a particularly important concern. Questions still remain with respect to permafrost, coastal erosion and their impacts on infrastructure (both old and new). As well, the need for monitoring variables for input into adaptation scenarios is still required.
+The literature indicates that there is a continued need for more information and points specifically to ongoing knowledge and data gaps. The international comparison illustrates that countries such as the US and Australia recognize that climate change adaptation is an ongoing, iterative process. In addition, many stakeholders are working with limited resources; others are struggling with issues related to governance; and for many, climate change itself is an insufficient motivator for action.
+The document review revealed that a broad range of stakeholders (e.g., provinces and territories, territorial climate agencies, industry and corporations, municipalities, regulators, professional associations, Aboriginal Treaty Groups) use the CCA Sub-Program products and tools to make strategic economic and policy decisions. The survey results illustrated that while the product and tools developed thus far have been extremely useful, stakeholders were at different levels along the climate change adaptation continuum. Thus more support, research and monitoring work would be required generally, but also in specific areas such as economics, coastal erosion, sea level rise, mapping (e.g., permafrost, floodplain), GPS monitoring, and awareness building.
+Most provincial and territorial government interviewees noted their limited capacity to do the research that NRCan was able to undertake.
+The Sea Level Rise Case Study revealed a need for further support to improve knowledge of considerations such as floodplain mapping and to further understanding of sea level rise (not only in BC, but in other Canadian coastal areas, as well as inland). Through the Permafrost case study, an ongoing need was identified for knowledge transfer and further studies on permafrost in airports/infrastructure in other localities, as well as exploration of other permafrost stressors such as forest fires.
+The document review and interviews pointed to ongoing gaps in geoscience information north of 60. Interviewees specifically cited information gaps that included the lack of (i) accessible and available climate-related data, (ii) guidance on the complex interplay of climate elements (e.g., snow and permafrost, rain on snow, snowmelt and rain); (iii) practical and user-friendly climate change guidance and tools (e.g., best practices, outreach materials, financial justifications for adaptation); and (iv) accessible training for practitioners and decision-makers.
+3.1.3 Has the CCA Sub-Program evolved to meet new or changing needs of stakeholders?
+There was evidence that the CCA Sub-Program had evolved to meet the changing needs of stakeholders, as reflected in the design of the components. The ECCC-ESS increased its focus on the North with the creation of a Northern Working Group. As well, it adjusted its climate change adaptation approach to a national thematic and sectoral approach rather than a regional one. Further, the working group structure was able to accommodate changing needs. For example, the Adaptation Platform formed an Economics Working Group to address the need for an approach to identify cost information, when such information was identified by Adaptation Platform working groups as a cross-sectoral need.
+The CCGP research activity was refocused solely on the North in 2011 and as a result, all of its projects relate to that region. The ECCC-ESS design and delivery mechanisms (i.e., Adaptation Platform Plenary and Working Group structures) met new or changing needs of stakeholders.
+The ECCC-ESS Component responded to the need for resource capacity support in the North when initiating the ECCC program. Given the RAC experience, NRCan learned that in the North, collaborators were not as able to contribute resources to the RACs, resulting in limited RAC involvement (i.e., only one territory). Although program staff worked with the northern territories in an effort to overcome this limitation, the scope of options was limited by the funding requirements.
+Footnote
+39
+Under the ECCC-ESS in 2011-12, the funding requirements were adjusted to accommodate resource-limited regions.
+Footnote
+40
+The Program amended its terms and conditions to encourage more participation from other federal departments in the RACs.
+Footnote
+41
+The need for a national convenor to provide strategic oversight was realized through the implementation of the Adaptation Platform. This new focus enabled national action on a thematic as opposed to a regional basis as was the case in the predecessor RAC program. This approach also recognized that climate change adaptation was cross-jurisdictional and cross-sectoral.
+Working groups developed their own workplans. Projects and activities identified in those workplans were funded via contribution agreements as well as cash and in-kind resources leveraged from outside of government. As well, these workplans were reviewed and updated as needed, enabling flexibility to meet needs.
+Footnote
+42
+3.1.4 Has the number or nature of stakeholders changed over the last 4 years?
+The nature of stakeholders has remained relatively stable over the evaluation period. However, within the same timeframe, the number of participants within the groups has changed.
+The CCIAD Annual Reports for 2012-13, 2013-14 and data provided by CCIAD for 2014-15 identified a year-over-year increase in the number of collaborators (see Table 12). In 2013-14, Working Groups on Energy, Economics of Adaptation, Climate and Water Information, and Infrastructure and Buildings were initiated and associated projects increased private sector involvement. Notable is the addition of the Canadian Electricity Association to the Plenary and related energy companies with the creation of the Working Group on Energy. As well, the Infrastructure and Buildings Working Group is led by private sector interests.
+Within the CCGP, the participation of collaborators fluctuated on a year-over-year basis. Table 12 shows the number of organizations and programs that provided resources to CCGP research projects during the evaluation period.
+Table 12: Collaborations by Year, ECCC-ESS and CCGP 2011-15
+Collaborations
+Number by Year
+2011-12
+2012-13
+2013-14
+2014-15
+ECCC-ESS
+# of Plenary Member Organizations
+N/A
+30
+31
+33
+# Working Groups
+N/A
+9
+11
+12
+# of Working Group Participants
+N/A
+200
+248
+372
+CCGP # of Collaborators
+11
+13
+10
+14
+Source: Compiled from CCIAD.
+Adaptation Platform Annual Report, 2013
+,
+Adaptation Platform Annual Report 2014
+, and internal program data provided by CCIAD in draft annual report 2015; as well as CCGP Annual Budget 2011-16.xlsx.
+The role of local stakeholders changed relative to the previous iteration of the program. Within the ECCC-ESS program design, the role of the RAC was intended to evolve as the nature of the activities changed to reflect a national and sectoral focus.
+Footnote
+43
+3.2 Evaluation Issue 2: Alignment with Government Priorities
+Evaluation Question
+Lines of Evidence
+Overall Rating
+Is the CCA Sub-Program consistent with government priorities and NRCan strategic objectives?
+Document Review
+Interviews
+Demonstrated
+Summary:
+The CCA Sub-Program is undertaken within the larger context of the Federal Adaptation Policy Framework (FAPF), the Federal Sustainable Development Strategy (FSDS), and the Government of Canada’s Adaptation theme of the Clean Air Agenda.
+The CCA Sub-Program and its activities are consistent with government priorities and NRCan strategic objectives. The CCA Sub-Program is linked to NRCan Strategic Outcome #3: “Canadians have information to manage their lands and natural resources and are protected from related risks.” A significant focus of the Sub-Program is to enhance economic competitiveness and induce development by reducing risk.
+The program aligns with NRCan’s vision to improve the quality of life for Canadians by creating a sustainable resource advantage. The impacts of this program will advance the department’s three strategic objectives: economic competitiveness, environmental responsibility and safety and security of Canadians and stewardship of natural resources.
+Analysis:
+3.2.1 To what federal government priorities is the CCA Sub-Program linked?
+The CCA Sub-Program is linked to the Adaptation theme of the Clean Air Agenda (CAA) through the ECCC-ESS. Under the Adaptation Theme, NRCan received $35 million
+Footnote
+44
+to implement the Enhancing Competitiveness in a Changing Climate (ECCC). The bulk of the funding ($28.8 million) was allocated to the ECCC-ESS to carry out activities included in the CCA Sub-Program.
+The CCA Sub-Program aligns to the federal role in adaptation as outlined in the Federal Adaptation Policy Framework (FAPF).
+Footnote
+45
+The objective of the FAPF is that Canadians understand the impacts of climate change and have the necessary tools to adapt effectively to climate change. The FAPF guides federal involvement in activities designed to address adaptation to climate change and acts as a decision-support mechanism for federal organizations in determining their involvement in adaptation activities. Table 13 demonstrates how the CCA Sub-Program aligns to federal priorities identified in the FAPF.
+Table 13: Alignment of CCA Sub-Program to Federal Adaptation Policy Framework
+Federal Adaptation Policy Framework
+CCA Sub-Program Alignment
+Generating and sharing knowledge
+Science Assessments (reports assessing the science available in a specific area of focus e.g.,
+Canada in a Changing Climate, 2014
+)
+Adaptation Platform structure
+CCGP research program (projects aimed at specific problems in northern Canada)
+Building adaptive capacity to respond, and helping Canadians take action
+Regional Adaptation Collaboratives
+Adaptation Platform working groups
+CCGP focus on northern Canada
+Integrating adaptation into federal policy and planning (mainstreaming)
+CCIAD is the responsible lead within NRCan for climate change adaptation; climate change mitigation and adaptation were separated in the NRCan Corporate Risk Profile for the first time in 2013.
+NRCan is “convener” for the Adaptation Platform
+Source: Compiled from: Government of Canada (2011),
+Federal Adaptation Policy Framework
+, Environment Canada, Gatineau, QC.
+The CCA Sub-Program is also linked to the Federal Sustainable Development Strategy (FSDS), the Northern Strategy and the Adaptation theme of the Clean Air Agenda. It reflects priorities outlined in the Speech from the Throne 2011, and the critical nature of infrastructure in the North as identified by the Northern Strategy 2009.
+CCA is one of 26 areas of activity of NRCan with respect to FSDS. The 2011-16 FSDS implementation strategies outline the following:
+1.2.3: Implement the Adaptation Platform to enable collaboration on adaptation including the development and exchange of information, tools and expertise.
+1.2.11: Work with Northern stakeholders to ensure they have information on adaptation measures.
+Footnote
+46
+The CCGP is linked to the Northern Strategy and the CCGP Mid-year and Year-End Reports present the priorities to which the CCGP is linked. According to these documents, the CCGP component is focused on northern resource development, which is the socio-economic development pillar of the Northern Strategy.
+Footnote
+47
+The critical nature of transportation infrastructure in the North has strongly influenced the design of the CCGP. There are no alternative routes as airports are the lifeline of many communities, and there is a very limited season for delivery of goods by sea-lift. Further, a significant risk to northern development is infrastructure breakdown.
+Footnote
+48
+For these reasons, CCGP research focused on regions with existing or proposed transportation infrastructure related to resource development (e.g., Iqaluit Airport).
+3.2.2 To what departmental strategic outcomes and priorities is the program linked?
+In the NRCan Program Alignment Architecture (PAA), CCA is found as Sub-Program 3.1.4 under Strategic Outcome #3: Canadians have information to manage their lands and natural resources and are protected from related risks. According to the Report on Plans and Priorities (RPP) 2014-15, the expected result for PAA 3.1.4 is that “key stakeholders across Canada have access to new knowledge on risks and opportunities resulting from a changing climate for decision-making.”
+Footnote
+49
+3.3 Evaluation Issue 3: Alignment with Federal Roles and Responsibilities
+Evaluation Question
+Lines of Evidence
+Overall Rating
+Is there a legitimate, appropriate and necessary role for the federal government in the CCA Sub-Program?
+Document Review
+Interviews
+International Comparison
+Demonstrated
+Summary:
+There is a legitimate, appropriate and necessary role for the federal government in delivering both components of the CCA Sub-Program. The ECCC-ESS component supports the economic competitiveness of targeted sectors, and the CCGP component provides geoscience information in support of reducing risk in northern development.
+NRCan has a mandate to deliver the CCA Sub-Program under the
+Department of Natural Resources Act
+and the
+Resources and Technical Surveys Act
+. Under the Federal Adaptation Policy Framework (FAPF), the CCA Sub-Program is aligned to the federal role to help Canadians better understand the impacts of climate change and have the necessary tools to adapt to climate change effectively.
+Analysis:
+3.3.1 Should the Government of Canada be involved in activities to enhance competitiveness by positioning regions and targeted economic sectors to adapt to climate change?
+NRCan has a mandate to deliver the CCA Sub-Program under the
+Department of Natural Resources Act
+Footnote
+50
+and the
+Resources and Technical Surveys Act
+Footnote
+51
+. The federal government is responsible for cross-jurisdictional issues, including international trade,
+Footnote
+52
+and plays a strong role in research and development. The Federal Adaptation Policy Framework (FAPF) cautions that the federal government’s roles and responsibilities in setting priorities and decision-making need to be aligned with several criteria, including areas of sole federal responsibility, areas of fiduciary or other direct responsibilities, areas in which the federal government is better positioned to act, and areas of federal legislative authority.
+Footnote
+53
+The literature review identified that the Australian Government similarly was best placed to generate most of the important public good science and other information needed for Australia to effectively adapt to the impacts of climate change. The government role in facilitating adaptation to climate change was also to provide clear policy and stable legislation and regulation in order for businesses to understand the potential impact of current and future requirements. The US National Academies of Science recommended that “the federal government [of the US] should play a significant role as a catalyst and coordinator.”
+Footnote
+54
+Key informants generally agreed that there was a legitimate, appropriate and necessary role for the federal government in carrying out both components of the CCA Sub-Program. Provinces, territories and the private sector relied on NRCan’s leadership to provide knowledge and tools to better understand the challenges and opportunities posed by a changing climate. Key informants indicated that the provision of this program was a key to Canada’s economic success. They also generally agreed that there was an important key role for government in the realm of public geoscience.
+The CCA Sub-Program specifically addresses an issue of national importance and interest: the economic development of Canada’s North. There is a legitimate and appropriate role for the federal government in addressing issues such as permafrost in a climate change adaptation setting, especially as it relates to sustaining the North’s economic engine and critical infrastructure.
+Footnote
+55
+NRCan is uniquely positioned to impartially coordinate these scientific efforts and, according to case study interviewees, possesses the scientific rigour and credibility to do so.
+3.3.2 Should the Government of Canada be involved in climate change geoscience activities?
+Interviewee
+: “So many of our businesses rely on natural resources; it’s a foundation of our economy in Canada. I initially thought EC or Industry would be a better place for this initiative, but I see now that NRCan is the appropriate place for this work [due to the fundamental economic driver in Canada being natural resources].”
+Government of Canada involvement in climate change geoscience activities supports the Federal Adaptation Policy Framework (FAPF) as well as the NRCan Strategic Priority 4: Science & Technology (S&T) knowledge for safety and security risk management.
+Footnote
+56
+Public geoscience supports improved decision-making regarding investments in long-term public infrastructure by providing knowledge of current and future physical states. Much of this investment will occur on Canadian lands that are either under federal jurisdiction or shared with the territories. Territorial governments do not have the capacity to undertake the requisite technical investigations to appropriately inform their investment decisions.
+Footnote
+57
+Program documents identified the federal role in climate change geoscience primarily as performer and enabler which is described as follows:
+providing scientific information to support federal decision-making;
+producing public good products, such as baseline geoscience knowledge, that help reduce the risk to investment for northern natural resources development;
+providing geoscience knowledge to anticipate and respond quickly to federal priorities; and
+leading climate change geoscience for northern infrastructure to improve the economic well-being of Canadians.
+Footnote
+58
+NRCan is a key player in the collection of geoscience information on land and coastal areas in Canada. The geoscience information it generates is accurate, comprehensive and, moreover, very useful to practitioners and decision-makers. Geoscience information is viewed as a key enabler for decision-making, not only for governments but within industry as well.
+Both Australia and the United States (US) have indicated the need for federal government involvement in climate change geoscience activities. The view in Australia is that its federal government is best placed to generate most of the important public-good science and other information that will be needed for Australia to effectively adapt to the impacts of climate change since much of the information needed for adaptation planning is too costly for individuals and businesses to generate on their own.
+3.3.3 Are there other parties who could deliver the aspects of the CCA Sub-Program that are now federally delivered?
+While certain aspects of the CCA Sub-Program could be delivered by other parties, most of the interviewees agreed that program leadership was the responsibility of NRCan, and that there was a clear coordination and control role for NRCan in the realm of CCA.
+The design and delivery mechanisms already leverage the delivery of certain aspects of the program. Through contribution agreements and contracts, specific work activities are conducted by third parties. However, as confirmed by interviewees, none of those replaced the national coordination and convening function that enabled the sharing of CCA information and knowledge.
+Delivered in accordance with the Intergovernmental Geoscience Accord (IGA),
+Footnote
+59
+the CCGP research program provides geoscience information that territorial governments do not yet have the capacity to produce.
+4.0 Findings on the CCA Sub-Program Program Effectiveness
+4.1 Evaluation Issue 4: Achievement of Expected Outcomes
+Evaluation Question
+Lines of Evidence
+Overall Rating
+To what extent have intended outcomes been achieved as a result of the CCA Sub-Program?
+Document Review
+Interviews
+Survey
+International Comparison
+Demonstrated
+Summary Assessment of Achievement of Outcomes
+Level of outcome
+Assessment
+Immediate Outcomes:
+Improved availability of CCA knowledge
+Demonstrated
+. A significant amount of information (e.g., maps, databases), reports, decision-support tools (e.g., guidelines) and data products (e.g., products for building) have been made available through the CCA’s Adaptation Platform, the Adaptation Lbrary, and a number of other media (e.g., working groups, Adaptation Platform Plenary, webinars and peer-reviewed publications).
+Increased awareness of CCA knowledge
+Demonstrated.
+All stakeholders and beneficiaries reported being fully aware of the knowledge generated.
+Increased use of CCA knowledge
+Demonstrated.
+The use of CCA knowledge has increased over the evaluation period. There have been numerous instances of the use and implementation of CCA knowledge by provinces and territories as well as the private sector.
+Intermediate Outcomes:
+Increased engagement in adaptation by targeted decision-makers (Clean Air Agenda)
+Demonstrated.
+Targeted decision-makers, in particular those within industry and the North, are becoming more engaged. Professional associations are gaining interest, as demonstrated by the tangible progress and actions delivered by specific entities.
+Identified adaptation measures (Clean Air Agenda)
+Demonstrated
+.
+Decision-makers have begun to identify adaptation measures and, in many instances, have taken steps to implement them.
+Ultimate Outcome:
+Decision-makers factor a changing climate into their planning
+Partially Demonstrated.
+There is evidence that some key decision-makers have factored CCA knowledge into their planning.
+Summary:
+The Sub-Program has engaged in activities, and generated a vast array of outputs (often exceeding planned targets) which have contributed to the realization of outcomes. In particular, the Sub-Program has contributed to:
+Identifying adaptation measures to address opportunities arising from climate change;
+Enhancing collaboration with other organizations and individuals on climate change adaptation;
+Understanding risks and vulnerabilities and raising the profile on adaptation to climate change; and
+Increasing awareness of relevant adaptation measures.
+CCA knowledge products and projects have, in many instances, collectively led to the amendment of stakeholder practices and policies.
+Program results were influenced by a range of factors. First, the level of professionalism, determination and competence of NRCan researchers and program personnel from both ECCC and CCGP were cited. Second, the leveraging of collaboration, involvement and, in many instances, funding from stakeholders and partners were instrumental in accomplishing many of the activities.
+Analysis:
+4.1.1 To what extent has the program produced expected outputs?
+Demonstrated
+: Both components of the CCA Sub-Program produced a vast array of outputs. As noted by staff in the reporting charts, both components had exceeded the delivery of planned outputs. The three outputs of the CCA Sub-Program are identified in the Sub-Program Logic Model (See Annex A) as follows:
+Output 1: Science products, knowledge, information and tools
+(including dissemination mechanisms): This includes risk assessments, decision-support tools and methods, including information products and tools such as reports, guides and related products. In addition, outputs include geoscience advice and information via publications and maps of spatial and temporal terrain sensitivity to climate change in priority areas for Northern development.
+Output 2: Assessments
+: This includes research reports and other information products addressing regional and sectoral adaptation priorities.
+Output 3: Collaborations
+: This includes collaborative agreements; mechanisms to generate and share information, tools and experiences (nationally and regionally).
+ECCC-ESS
+Within the ECCC-ESS component of the CCA Sub-Program, the Adaptation Platform was a key output and was launched as planned in 2012.That same year, a call for proposals based on the workplans of the Adaptation Platform working groups resulted in $2.5 million in G&C funding being released through signed contribution agreements.
+Footnote
+60
+Of the 86 projects funded through such agreements, 54 were completed by March 31, 2015.
+Footnote
+61
+A key output of the component was an update to the national science assessment entitled
+Canada in a Changing Climate: Sector Perspectives on Impacts and Adaptation
+originally planned for completion in 2013-14,
+Footnote
+62
+but released in June 2014.
+In 2012-13, the ECCC-ESS component established nine working groups and implemented programs of work for each the following year. These “were developed by more than 176 experts, professionals and end-users.” Eighty (80) specific actions were identified, including:
+For mining: business cases that demonstrate the advantages of early, flexible adaptation actions;
+For coasts: regional assessments of climate change risks to economic, human, and cultural assets; and
+For the North: a review of standardized hazard mapping processes to determine where northern infrastructure is vulnerable to permafrost degradation.”
+Footnote
+63
+Survey respondents were asked, “To what extent are the projects, resources, information, or tools provided by the program credible, timely, comprehensive, up-to-date, easy to find, available in a format (e.g., reports, databases) accessible to me?” The results indicated that 91% of respondents reported they were somewhat or very credible; 86% reported that they were somewhat or very up-to-date. Further, 76% of respondents indicated that reports, databases, and tools were somewhat or very available in a format that was accessible to them.
+A total of 78% of survey respondents acknowledged that resources, information and tools provided by the program were somewhat or very comprehensive. The survey also revealed that 77% of the respondents felt that resources, information and tools were somewhat or very timely.
+CCGP
+The following are indicative of the outputs achieved by the CCGP component:
+TRACS: terrain mapping; seasonal winter road conditions (development and application of remote sensing and field-based methods for seasonal winter road routings and identification of potentially hazardous conditions); permafrost modeling; ground subsidence mapping;
+Nunavut Airports: geophysical characterization; permafrost modeling; and ground subsidence mapping;
+Near-Surface Thermal Regime: summary of 17-year changes in shallow ground thermal conditions to support the incorporation of climate variability and change into infrastructure design; open file database of surficial sediments of the Mackenzie River valley;
+Land-based Infrastructure Project: geoscientific information to reduce risks and aid in adaptation solutions for land-based transportation infrastructure in the North; and
+Coastal-based Infrastructure Project: regional geoscientific information on present-day Arctic coastal characteristics and processes and on the expected effects and impacts of projected climate change.
+4.1.2 To what extent is there availability of CCA knowledge?
+Interviewee
+: “Canada’s transportation infrastructure connects markets and consumers, as well as employers and workers, and has an asset value in excess of $100 billion. Transport Canada and Natural Resources Canada are working together to provide the first assessment of potential climate change impacts, risks, opportunities and adaptation measures specifically as they relate to Canada’s transportation system. This assessment, due in 2015, is expected to be the foundation for adaptation work in the years to come.” Although CCGP contributes significantly to the Assessment (i.e. Northern Chapter) it is actually a main deliverable of the ECCC program.
+Demonstrated
+: CCA knowledge products are generally available in the public domain, with the exception of some products produced by working groups that are available only through the Adaptation Platform. Reports and publications are available online through the NRCan website as well as through collaborating organizations’ websites. The collaborative nature of the CCA Sub-Program increases the availability of CCA knowledge as partners provide another avenue for distribution of information. The active dissemination of program information in the form of targeted presentations and webinars is also occurring.
+ECCC-ESS
+The Enhancing Competitiveness in a Changing Climate program element provides decision-making tools and information to a diverse array of sectors.
+The key Science Assessment (i.e.,
+Canada in a Changing Climate: Sector Perspectives on Impacts and Adaptation
+) was updated and made publicly available in July 2014.
+The ECCC-ESS has adopted a “network of networks” approach to disseminating information, and has an estimated reach as follows:
+Plenary is a network of networks providing important linkages for dissemination of products and knowledge to 12 provincial and territorial governments, 12 federal adaptation programs, and more than 250 organizations and 190,000 accountants and 280,000 engineers across Canada through professional and industry associations. This was recognized in the Platform communication strategy and activities adopted in Ottawa by members. Priorities identified around discussions on communication included increasing dissemination to targeted audiences, as well as enhanced engagement at senior levels within members’ organizations and their extended networks to become an integral part of day-to-day management practices.
+Footnote
+64
+The Adaptation Platform is accessible to the membership via a website. This permits information to be delivered directly to targeted individuals and sectors. All documents are posted to the Platform; key documents are publically available and posted to the NRCan website as well as being placed on members’ websites.
+A list of projects and associated results is available on the Platform as well as on the NRCan website.
+Footnote
+65
+The NRCan audit files note a suggestion for improvement: to provide a synthesis of the working group information to increase the accessibility of ECCC-ESS information.
+The RAC products in particular are available at the Adaptation Library.
+Footnote
+66
+The Adaptation Library is aimed at communities and municipalities and “…includes only community-related products developed through these RACs and Natural Resources Canada's Climate Change Impacts and Adaptation Division Tools program.”
+Footnote
+67
+ECCC-ESS webinars are available to the general public. While initially targeted at Adaptation Platform users who are invited to participate through a Platform broadcast, the webinars remain available online after the session for consumption by those who are interested in accessing the information. As well, webinar information is being distributed to the networks of Platform members, thereby enabling increased participation.
+The RACs are also using various media (e.g., websites, webinars, newsletters, social media, workshops, symposiums) to disseminate Platform products. In Québec, Ouranos hosted the
+6
+e
+Symposium scientifique d’Ouranos
+, a scientific symposium attended by 400 participants, at which many of the presentations featured Platform products.
+Footnote
+68
+In addition, Ouranos published a report on the state of knowledge on climate change science, impact and progress in adaptation in Quebec.
+Footnote
+69
+In Ontario, the Ontario Centre for Climate Impacts and Adaptation Resources (OCCIAR) is producing Ontario-relevant summaries of the newly released science assessment update
+From Impacts to Adaptation: Canada in a Changing Climate
+. OCCIAR will target sector-specific audiences to present the results.
+Footnote
+70
+CCGP
+CCGP knowledge is available on the NRCan website and as published in peer reviewed journal articles. In keeping with Geological Survey of Canada (GSC) practice, knowledge products are posted on GEOSCAN with open file documents being listed as soon as the data are available. The number of knowledge products (e.g., open files, peer reviewed journal articles, presentations, books and book chapters, technical reports, posters, maps) by year and by project are found in Table 14 below.
+Table 14: CCGP Knowledge Products by Project and Year
+Project
+2011-12
+2012-13
+2013-14
+2014-15
+Total
+Land-Based Infrastructure
+36
+20
+24
+13
+93
+Coastal
+17
+17
+26
+42
+102
+Essential Climate Variables
+26
+33
+18
+22
+99
+Northern Physical Environment**
+5
+5
+Total
+79
+70
+68
+82
+299*
+Source: Internal program data provided on December 16, 2014. (Compiled from CCGP_Publication_Spreadsheet_v2.xls)
+* Differs from 304 as reported in DPR information, due to date of calculation.
+CCGP geoscience knowledge is shared on GEOSCAN as soon as it becomes available. The outputs in the form of maps, data sets, and articles and scientific papers are used to increase the body of knowledge and information about the impacts of climate change on land-based infrastructure in the North, coastal erosion, and essential climate variables data.
+Footnote
+71
+The CCGP undertakes to directly deliver relevant research results to impacted communities. For example, in 2014-15, eight community presentations were delivered. Along with the presentations, community brochures were produced.
+Footnote
+72
+The literature indicated that the climate change adaption information, knowledge and tools were increasingly becoming available on electronic sites from other federal and territorial and provincial government departments as well as private sector entities. For instance the Government of British Columbia and the Government of the Northwest Territories (NWT) refer to a number of CCA products developed by the Sub-Program.
+Footnote
+73
+CCGP products can be found on the Environment Canada and Transport Canada websites, as well as private sector sites such as Quebec’s Consortium on Regional Climatology and Adaptation to Climate Change (Ouranos).
+Footnote
+74
+Interviewees indicated that they were “very aware of data available,” and the CCGP had reached out to NWT and had made files and journal publications available to collaborators as early as possible. Interviewees reported that CCGP had met regularly with NWT and had consistently asked how they could make research more relevant.
+4.1.3 To what extent is there awareness of CCA knowledge?
+Demonstrated:
+Generally, awareness of CCA knowledge is uneven across the country and throughout various sectors. Awareness was high within the immediate circles of those who were connected directly to the CCA. Survey results indicated that that CCA products and tools were known by respondents and that the majority of respondents believed them to be credible (90%), comprehensive (78%), up-to-date (86%) and timely (77%). While 46% of respondents highlighted that projects, resources, information and tools were somewhat easy to find, 29% of respondents found that they were not very easy to find.
+Interviewee
+: “The publications have vastly contributed to the availability of CCA knowledge through the various publications and mapping generated. They made the data available as soon as possible. They generated surficial maps and worked with the Government of Nunavut to generate a new map that would be useful to the public.”
+CCGP research results are provided immediately to those with a vested interest in the information, such as project and activity partners or OGDs which entered into agreements with CCGP for specific geoscience information. As well, the Adaptation Platform provided email broadcasts of new information to members of the Adaptation Platform, which was noted and retransmitted through the participants networks (e.g., FBC retooling network, the Adaptation Community of Practice). There is broader awareness as evidenced by the increase in the number of participants in webinars available through the Adaptation Platform. It should be noted that 80% of webinar participants in 2014-15 were not Platform members.
+Footnote
+75
+From its June 2014 release to October, the National Science Assessment Update 2014,
+Canada in a Changing Climate: Sector Perspectives on Impacts and Adaptation
+, had been viewed and downloaded more than 4,500 times on the NRCan website (CCIAD).That number had increased to over 15,000 by the end of March 2015.
+Footnote
+76
+All Project Leader interviewees noted that awareness of CCA knowledge is growing. This was corroborated in comments provided by interviewees from the provinces and territories as well as other stakeholders.
+Survey respondents were asked to indicate the projects, resources, information or tools provided by the program their organization had used. Over 75% of respondents reported that
+Canada in a Changing Climate 2014
+(i.e., Science Assessment) was the document most used, followed by the Adaptation Library (website) with 47% of respondents indicating that they had used it. The Adaptation Platform Annual Report and the Economics Working Group – State of Play Report achieved a usage rate of roughly 35% each.
+An example of the growing awareness is the increasing use of the Public Infrastructure Engineering Vulnerability Committee (PIEVC) tool. Engineers Canada trained over 600 people in the use of this tool, and conducted 40 infrastructure risk assessments.
+Footnote
+77
+For example, Toronto’s electrical distribution and airport infrastructure have applied the PIEVC tool. It is now being used without Government of Canada support, and 17 consulting firms have also used it.
+Footnote
+78
+Case study interviewees agreed that key stakeholder awareness had significantly improved as a result of the projects; however, they were not sure how many people accessed the information. “I do not know how many people have accessed it but I have not run into anybody (professionals – government, consultants, etc.) who are not aware of the guidelines.”
+4.1.4 To what extent do stakeholders use/implement CCA knowledge?
+Demonstrated
+: Program documents identified clear examples of stakeholders using and/or implementing CCA knowledge generated from both ECCC-ESS as well as CCGP. Key governmental and industry stakeholders reported using and/or implementing CCA knowledge for decision-making. In particular, information derived from knowledge products (produced from program activities) have:
+informed and guided land-use and management decisions, policies, guidelines and plans;
+helped identify infrastructure problems and prioritize improvement spending;
+assisted with climate-proofing community infrastructure assets; and
+helped with the assessment of the vulnerability of infrastructure to a changing climate.
+The NRCan Departmental Sustainable Development Strategy (DSDS) 2013-14
+Footnote
+79
+identified the following uses of CCA knowledge:
+Information derived from knowledge products (produced from program activities) are informing and guiding land use and management decisions (e.g., NRCan’s ground displacement maps and other geophysics results were used in the planning and decision-making in the $300 million Iqaluit Airport improvement project);
+Department of Transportation - Government of Nunavut uses NRCan surficial geology maps and permafrost data to identify alternate route selection; and
+Risk Analysis of Coastal Infrastructure used NRCan geoscience data (analysis was conducted by the Innuvialuit Land Administration).
+There have been numerous instances of use and implementation of CCA knowledge by provinces and territories as well as the private sector. All reported uses generated positive outcomes in at least one of the following areas: improved decision-making, cost reduction or avoidance, improved policies or refined understanding of climate-related issues and impacts. The extent to which this knowledge was implemented or used tends to vary (e.g., by need, sector, type), but, generally, appears to be gaining momentum. The extent to which the information can make a difference also depends upon where in the adaptation continuum (i.e., high knowledge level and uptake vs. low level knowledge) one is situated.
+The literature review noted that adaptive actions implemented by certain industry sectors “may be under-reported for strategic reasons.”
+Footnote
+80
+ECCC-ESS
+Interviewee
+: “Stakeholders implemented the knowledge and maps generated during the course of the project and have amended decisions accordingly.” “We have used it; decisions were made on building foundations. We have taken them up a notch by using active compressors in them. We have better sub-surface marking, better insulation. The industry is able to accept some of the risk of failure due to permafrost (warranty against failure) as a result of the knowledge generated.
+Survey respondents highlighted that CCA projects helped them to better understand risks and vulnerabilities, and that the Adaptation Platform contributed to raising the profile of climate change. Moreover, they indicated that the Platform was an excellent opportunity to encounter other partners in climate change adaptation.
+Eighty-four percent (84%) of respondents reported that as a result of their participation in the CCA, it had “somewhat” to “very much” contributed to enhancing collaboration with other organizations and individuals on climate change as well as increased awareness of relevant adaptation measures. Both were seen as “somewhat” to “very important” outcomes resulting from participation in the CCA Sub-Program. By the same token, 77% of respondents noted that the information gleaned from their participation in the CCA was “somewhat” to “very useful” in identifying adaptation measures to address risks arising from climate change.
+In many instances, knowledge products and projects collectively led to the amendment of practices and policies, such as the publication of Association of Professional Engineers and Geoscientists of British Columbia (APEGBC)
+Professional Practice Guidelines – Legislated Flood Assessments in a Changing Climate in BC
+and development of the best practices report
+Guidance on Integrating Climate Change into Highway Infrastructure Management including Planning, Engineering, and Operations activities
+.
+Footnote
+81
+The Municipal Risk Assessment Tool (MRAT), developed in partnership with the Insurance Bureau of Canada, helped municipalities identify infrastructure problems and prioritize spending on capital improvements. In 2012, the replacement cost for Canada’s aging sewer and storm-water infrastructure was $55 billion. MRAT is now being piloted in Fredericton, New Brunswick, Hamilton, Ontario, and Coquitlam, British Columbia.
+Footnote
+82
+Adaptation Platform work in Quebec with the Ministère des Transports du Québec is helping climate-proof community infrastructure assets worth an estimated $88 million in Nunavik by increasing the knowledge of the risks that increased sea level and storms present to marine infrastructure.
+Footnote
+83
+In support of transportation
+As a result of an NRCan supported project in which the British Columbia Ministry of Transportation assessed the vulnerability of its highways to a changing climate, including increased flooding due to extreme precipitation, the Ministry developed guidance on best practices and was developing requirements for including future climate change projections in highway design and maintenance; and
+Yukon College is using the PIEVC protocol developed with Engineers Canada to assess the vulnerability of a key road to the mines in the NWT in order to assess the costs of adaptation to degrading permafrost
+Footnote
+84
+.
+Through a project of the Coastal Working Group, sea dike guidelines were developed to address sea level rise in British Columbia. Costs to implement the guidelines were also estimated ($9 billion to protect between $25 and $50 billion in assets in metro Vancouver).
+Footnote
+85
+In support of energy:
+The Canadian Electricity Association is using a climate change adaptation lens to analyze the resilience of large planned infrastructure investments over the next 15 years (2014-2030).
+The PIEVC tool developed with Engineers Canada was used to assess the vulnerability to climate change of Toronto Hydro’s electrical distribution system.
+Footnote
+86
+The Toronto Hydro distribution system represents $2.6 billion in assets
+Footnote
+87
+and serves approximately 719,000 customers,
+Footnote
+88
+including some of Canada’s most significant industrial and commercial electricity users. This work is the first application of the PIEVC tool to an entire electrical distribution system. The collaboration between engineers, distributors and regulators in this project is the direct result of Platform collaboration.
+For the North, permafrost risk assessment maps are helping the Ministère des Transports du Québec and the Kativik regional administration to identify construction sites for residential housing in Nunavik, Quebec. The maps were being used to climate-proof an estimated average of three to five million dollars in annual investments in infrastructure in a region where demographic expansion is closely linked to mining development.
+ECCC-ESS
+From 2009-2012, the Ministry of Environment and the Fraser Basin Council were co-leads for the British Columbia Regional Adaptation Collaborative, which supported the development of over 115 reports, policies, guidelines, plans and case studies to provide technical advice and guidance to adaptation decision-making across British Columbia and engaged over 5,400 decision-makers and key stakeholders from a broad range of sectors.
+Footnote
+89
+A new phase of funding available from NRCan resulted in 14 new climate adaptation projects in British Columbia being launched in 2013. Through one of these projects, 55 public service employees from eight different ministries received training in adaptive policies and how to assess the adaptability of existing policies and programs to climate change impacts.
+Footnote
+90
+From its June 2014 release to October 2014, the National Science Assessment Update 2014
+Canada in a Changing Climate: Sector Perspectives on Impacts and Adaptation
+report had been viewed and downloaded more than 4,500 times on the NRCan website (CCIAD).
+Footnote
+91
+That number was updated in March 2015 to over 15,000 views and downloads.
+Footnote
+92
+There were also over 800 downloads of CCGP information.
+Footnote
+93
+CCGP
+Geoscience information is used in detailing climate change impacts on infrastructure in Canada’s Arctic region.
+Footnote
+94
+According to the CCGP year-end and mid-year reports, the North is generally characterized as lacking basic geoscience information. Coupled with CCGP projects focusing on priority areas, there was a high demand for the information produced by the component activities.
+Much work is done around/near existing infrastructure to characterize near-surface materials, develop methods, and assess rates and magnitudes of processes. This information is immediately delivered to end users (e.g., departments of transportation) and gives context and knowledge for large-scale mapping using remote methods
+.
+Footnote
+95
+Research on permafrost-climate interactions and permafrost-infrastructure interaction informed the development of Canadian Standards Association technical guidelines for climate change adaptation of infrastructure in permafrost regions.
+Footnote
+96
+Knowledge, maps and data identifying permafrost terrain sensitivity to land-based transportation in the North was used by the following territorial government departments:
+Northwest Territories Department of Transportation for the planning and remediation of highways.
+Footnote
+97
+Government of Nunavut Department of Transportation for identifying alternate route selection.
+Footnote
+98
+Information derived from knowledge products (produced from program activities) are informing and guiding land-use and management decisions. NRCan’s ground displacement maps and other geophysics results were used in the planning and decision-making in the $300 million Iqaluit Airport improvement project.
+Footnote
+99
+Risk Analysis of Coastal Infrastructure used NRCan geoscience data (analysis was conducted by the Innuvialuit Land Administration).
+Footnote
+100
+4.1.5 To what extent is there increased engagement in adaptation by targeted decision-makers?
+Demonstrated:
+During the evaluation period, collaborative agreements increased within the ECCC-ESS component, whereas collaborative arrangements within the CCGP remained relatively stable (likely reflecting the focused scope of the projects within the component). However, the nature of the collaborative arrangements changed in some instances, and there was increased documentation of those arrangements. For example, the previously informal arrangement between CCIAD and CCGP was formalized in the current iteration of the CCGP and ECCC-ESS, via a Letter of Agreement in 2013-14 and a Project Charter for 2014-2016.Targeted decision-makers, in particular those within industry and the North,
+Footnote
+101
+were becoming more engaged.
+Interviews
+: Targeted decision-makers, in particular those within industry and the North, are becoming more engaged. Professional associations are gaining interest, as demonstrated by the tangible progress and actions delivered by specific entities. Engagement by provincial and territorial governments is also increasing, but there have been instances where, due to other stressors, their engagement has been less than anticipated.
+The Climate Change Adaptation Platform increased from 198 participants in 2012-13 (indicated in the first annual report) to 317 in 2013-14 (indicated in the second annual report) and to 370 in 2014-15 (as indicated in the draft third annual report). The nature of collaborative arrangements within the CCGP remained relatively stable over the evaluation period, with year-to-year fluctuations in number of collaborators.
+The literature review found that the easy access to information products, knowledge and tools was a key factor in determining the extent to which targeted decision-makers engage in adaptation.
+A large number of mechanisms such as collaborations, networks and Centres of Excellence were established over the past four years.
+The number of working groups involved in the Platform increased from 9 to 11 in 2013-14.
+Footnote
+102
+In 2014-15, the addition of two more working groups—Agriculture, and Water and Climate Information—reflected the expanded involvement of stakeholders.
+Footnote
+103
+The RAC and Tools Synthesis Working Group ceased operating, as its mandate was considered to have been met.
+Twelve federal departments and agencies were engaged in the Adaptation Platform, and several departments indicated their intention to further integrate their adaptation programming through the Adaptation Platform.
+Footnote
+104
+Plenary membership increased. Public Safety Canada (PSC) the Canadian Federation of Municipalities (CFM) became members of the Plenary in 2014-15.
+Footnote
+105
+More than 80 projects were launched through the working groups, as indicated by signed contribution agreements with CCIAD on behalf of NRCan.
+In 2013-14, a G&C agreement with the Chartered Professional Accountants of Canada was signed and the Canadian Electrical Association became an observer to the Platform Plenary.
+Footnote
+106
+The Canadian Institute of Planners (CIP) implemented a climate change policy which would raise awareness of climate change impacts among the members of the planning profession and prepare members to build adaptation (and mitigation) strategies and tools into their professional practice.
+Footnote
+107
+Instances of new protocols and guidelines being adopted include:
+The Public Infrastructure Engineering Vulnerability Committee (PIEVC) developed a broadly applicable, risk-based assessment protocol which allows engineers and planners to view and address climate change as one factor among many affecting system resiliency, and plan accordingly.
+From 2009-2012, the Ministry of Environment and the Fraser Basin Council were co-leads for the British Columbia Regional Adaptation Collaborative, which supported the development of over 115 reports, policies, guidelines, plans and case studies to provide technical advice and guidance to adaptation decision-making across British Columbia and engaged over 5,400 decision-makers and key stakeholders from a broad range of sectors.
+Footnote
+108
+A new phase of NRCan funding resulted in 14 new climate adaptation projects in British Columbia being launched in 2013 that included training of provincial public service employees.
+Footnote
+109
+As a result of Adaptation Platform collaboration to map the future extent of storm surge flooding, the city of Sackville adopted new limits on development in 2013 to enhance climate resilience of the Tantramar corridor, a key rail and road trade corridor. Annually, approximately $43 billion worth of international trade goods moves along this route, with the largest users being manufacturing, forestry and logging, wholesale and retail trade.
+Footnote
+110
+As a result of guidelines developed by the Coastal Working Group projects, the City of Vancouver has created Designated Flood Plain Standards and Requirements (effective January 2015). These include a new flood construction level (FCL) that will change the way new buildings are constructed.
+Footnote
+111
+A Permafrost case study interviewee noted that “Both the airport authority and the Government have implemented knowledge gleaned from the project and were able to successfully launch a public-private-partnership (PPP) as a result of being able to “explain” the effects of permafrost and sub-surface characteristics.”
+The Buildings and Infrastructure Working Group is led by groups external to the Government of Canada. The Institute for Catastrophic Loss Reduction at Western University and Engineers Canada co-chair the Working Group.
+Footnote
+112
+4.1.6 To what extent have adaptation measures been considered by decision-makers?
+Demonstrated
+: Information derived from knowledge products (produced from program activities) is informing and guiding land-use and management decisions. The extent to which adaptation measures are considered by decision-makers varies according to the sector and where they are situated on the CCA continuum (i.e., high-knowledge level and uptake vs low-level knowledge) one is situated. In addition, most of the decision-making instances reviewed found that climate change was rarely the sole or primary motivator for adaptation action. In many cases, action on adaptation was spurred by observed impacts or experience with extreme weather events.
+Survey
+: When asked to indicate the extent to which your organization is likely to use the resource, information or tool in the future, respondents noted that they were very likely (50%) or somewhat likely (29%) to use the Canada in a Changing Climate 2014 (science assessment). Respondents also reported that they were very likely (28%) or somewhat likely (34%) to use the Adaptation library. In that same vein, approximately 40% of respondents were somewhat or very likely to use the Adaptation Platform Annual Report, the Sea Level Rise Primer and the Economics Working Group State of Play report.
+The extent to which adaptation measures were considered by decision-makers varies, but in many instances was quite substantial (e.g., NRCan’s ground displacement maps and other geophysics results were used in the planning and decision-making in the $300 million Iqaluit Airport improvement project,
+Footnote
+113
+and the Municipal Risk Assessment Tool (MRAT) helped municipalities identify infrastructure problems and prioritize spending on capital improvements).
+Footnote
+114
+Most of the studies reviewed found that climate change itself was rarely the primary motivator for adaptation action. In many cases, action on adaptation was a reaction to observed impacts or experience with extreme weather events. Warren and Lemmen,
+Footnote
+115
+the Insurance Bureau of Canada (IBC),
+Footnote
+116
+and the survey of the Canadian mining sector
+Footnote
+117
+found that over the last five years, as more extreme weather events were experienced, companies were more likely to assess climate change as a business risk and take actions to mitigate those risks. In a survey of oil and gas sector leaders in Western Canada, fewer than half of survey respondents said that their company had a strategy to prepare for a changing climate.
+Footnote
+118
+Warren and Lemmen noted that “adaptation actions have been mostly incremental in nature, building on existing initiatives, assuming a continuation of current climate trends, and focused on no-regrets actions that are beneficial regardless of future climate.”
+Footnote
+119
+As a result of the CCA Sub-Program, the Chartered Professional Accountants of Canada, representing almost 90% of Canada’s 175,000 professional accountants,
+Footnote
+120
+will develop a tool for accountants to identify climate-related risk management and value-protecting strategies, as well as value-creating opportunities due to a changing climate for use in serving clients.
+Footnote
+121
+“CPA Canada’s investment, which is matched with a contribution from NRCan, will enable CPAs to build on their skills and expertise to help their organizations or clients adapt to a changing climate.”
+Footnote
+122
+A report by the Canadian Council of Forest Ministers
+Footnote
+123
+found that interest in and concern about climate change vulnerability increased when it could be shown that adaptation actions could facilitate achievement of current forest management objectives. Barriers to decision-making included lack of up-to-date information and/or out-of-date information. Large reports full of technical detail were criticized, while activities aimed at awareness-raising, capacity building and the formation of social capital related to vulnerability were seen as more important.
+4.1.7 To what extent do decision-makers factor a changing climate into their planning?
+Partially Demonstrated:
+The lines of evidence point to decision-makers increasingly factoring climate change adaptation into their planning.
+Interviewees noted that decision-makers were increasingly factoring climate change adaptation into their planning. However, the extent to which climate change was being factored into planning differed across the spectrum of stakeholders and sectors. Many were still at early stages, whereas other sectors were more advanced.
+In terms of sea level rise, interviewees stated that engineers, builders and planners are factoring climate change into their decisions. The tools and maps were being used extensively and being shared across the communities of practice (e.g., engineers). However, it was noted that not all communities were at the same level of integration. An interviewee noted that “we are there but not evenly with all municipalities.”
+Several examples exist where decision-makers factor a changing climate into their planning. As a result of a program-supported project, the British Columbia Ministry of Transportation assessed the vulnerability of its highways to a changing climate, including increased flooding due to extreme precipitation. It has developed guidance on best practices and was developing requirements to be used for future climate change projections in highways design and maintenance.
+Footnote
+124
+4.2 Have there been any unintended (positive or negative) outcomes?
+Unexpected outcomes were minimal, and related principally to unexpected discoveries and applications of the knowledge generated.
+Some interviewees indicated that their information assisted groups that were not direct stakeholders. For example, archeologists working in the Northwest Territories were interested in permafrost research results to help identify locations of previous human activity; a biologist interested in a plant that was only found on a cliff on Cape Bathurst, Northwest Territories, used sea level rise information to determine whether the plant should be classified as endangered.
+A case study respondent was “Surprised as to what the project discovered. We repaired the taxiway in 2006 and it failed three years later. We would have kept on renovating the taxiway. We would have redone the same thing. The knowledge gained [from CCGP project] allowed us to move the taxiway from the old silt lake bed to a solid area 80 metres away.” The quality of the data that were provided enabled the airport authority to share the project risk with the private contractor.
+4.3 To what extent do CCA Sub-Program outputs contribute to immediate outcomes, intermediate outcomes, and ultimate outcomes?
+There are clear linkages between outputs and outcomes. The research and information produced by the CCA Sub-Program were directly used to increase awareness of adaptation in response to a changing climate. The dissemination mechanisms to make CCA knowledge available are found in the webinars, the workspace of the Adaptation Platform, the posting of CCA information and knowledge products on the NRCan website and GEOSCAN, as well as through the collaborative fora of the CCA.
+The tools and applications being produced as a result of NRCan collaborations are increasing opportunities for using CCA knowledge and equipping decision-makers to consider adaptation in their planning. Through the Adaptation Platform in particular, there is an increased awareness of CCA knowledge. In two notable instances, the collaborative efforts between the CCGP and the CCIAD have resulted in the development of new knowledge that contributes to achieving immediate and intermediate outcomes of the CCA.
+Footnote
+125
+In response to the Horizontal Evaluation Survey question
+To
+what extent have the projects, resources, information, and tools supported your organization, community or sector in reaching the following outcomes?
+, survey respondents noted that the program’s impact on capacity appeared to be highest for sectors and lowest for individuals as depicted in the results (somewhat and very combined):
+Increase sector’s capacity to adapt to climate change (66%);
+Increase region’s capacity to adapt to climate change (47%);
+Increase community’s capacity to adapt to climate change (45%); and
+Increase individuals’ capacity to adapt to climate change (40%);
+These survey results reflect the program design in which sectoral and regional issues were a main program thrust.
+Stakeholders were informed of, and were aware of, the Sub-Program’s activities and outputs. Through information dissemination mechanisms established by the program specifically to raise awareness and increase use of the CCA knowledge, as well as through the collaborations that generate a direct relationship between stakeholders and the program’s outputs and activities, the CCA knowledge became available, and stakeholders became aware of it.
+Survey respondents reported that the program’s impact on capacity was higher for industry sectors than for individuals. Two-thirds (66%) (“somewhat” and “very” are combined) indicated that industry sectors’ capacity to adapt to climate change increased at least somewhat.
+The permafrost case study noted that several key infrastructure investment decisions made by government were informed by this project’s outputs. The sea level case study found that the associated projects generated an array of outputs that had collectively led to the amendment of practices and policies.
+Among all interviewees, collaboration was viewed as a key element in achieving program results. As well, external interviewees often cited the professionalism, dedication and competence of CCA program staff and researchers as a strength of the program.
+5.0 Findings on the CCA Sub-Program's Efficiency and Economy
+5.1 Evaluation Issue 5: Efficiency and Economy
+Evaluation Question
+Lines of Evidence
+Overall Rating
+Is the CCA Sub-Program the most economic and efficient means of achieving outputs and progress toward outcomes?
+Document Review
+Interviews
+Survey
+Partially Demonstrated
+Summary:
+The CCA Sub-Program components are designed to be an economic and efficient means of achieving outputs and progress toward outcomes. Performance information is collected and used on an ongoing basis, enabling the Sub-Program components to anticipate and respond to changing circumstances. The CCA Sub-Program is built on a collaborative foundation, which enables resources to be leveraged. Collaboration is understood as a means of efficiently achieving outputs and demonstrating progress towards outcomes.
+However, there were challenges in determining the actual costs of outputs. This was mainly due to the inability of the NRCan financial accounting system to account for in-kind contributions to CCGP projects from external collaborators, as well as the structure of cost centres within CCIAD, which reflects general expense category rather than business lines.
+Analysis:
+5.1.1 What is the difference between planned and actual spending? What explains this difference, if anything?
+Differences in planned and actual spending within the Sub-Program were accounted for mainly through challenges resulting from the shortened time available to the ECCC-ESS between the Treasury Board approval of funding and end of fiscal year 2011-12. This had repercussions on the lead time available to develop proposals that met the requirements for contribution agreements and the ability to fully launch operations. In the CCGP, small variances attributable to human resources were found in salary, typical of science-based programs at NRCan.
+ECCC-ESS
+ECCC-ESS funding underwent a series of adjustments from the initial spending authorities provided in 2011. Table 15 shows the planned spending for the evaluation period as initially authorized.
+Table 15: Planned Spending, ECCC-ESS per Performance Measurement and Risk Strategy
+2011-12
+2012-13
+2013-14
+2014-15
+Total
+Salaries
+1,170,000
+1,260,000
+1,260,000
+1,260,000
+4,950,000
+EPB
+234,000
+252,000
+252,000
+252,000
+990,000
+O&M
+1,346,000
+1,738,000
+1,738,000
+1,738,000
+6,560,000
+G&C
+0
+Footnote
+126
+3,500,000
+3,500,000
+3,500,000
+10,500,000
+Total
+2,750,000
+6,750,000
+6,750,000
+6,750,000
+23,000,000
+Source: Performance Measurement and Risk Strategy for the Enhancing Competitiveness in a Changing Climate Program, 2011.
+Grant and contributions funding was reprofiled through the Annual Reference Level Update (ARLU) process to reallocate those funds to later years to align the resources with the activities of the working groups.
+Footnote
+127
+Table 16 shows the redistribution of G&C funds as a result of the ARLU Decision in fiscal year 2012-13. At that time, NRCan requested permission to reprofile $2,515,000 from 2012-13 to 2014-15 ($1,315,000) and 2015-16 ($1,200,000).
+Footnote
+128
+Table 16: Planned Spending ECCC-ESS, Post-Reprofile of 2012-13 G&C funds
+Footnote
+129
+2011-12
+2012-13
+2013-14
+2014-15
+Total
+Salaries
+1,170,000
+1,260,000
+1,260,000
+1,260,000
+4,950,000
+EPB
+234,000
+252,000
+252,000
+252,000
+990,000
+O&M
+1,346,000
+1,738,000
+1,738,000
+1,738,000
+6,560,000
+G&C
+0
+985,000
+4,700,000
+4,815,000
+10,500,000
+Total
+2,750,000
+4,235,000
+7,950,000
+8,065,000
+23,000,000
+Source: Annex B - Reprofile Request CCIAD 2012-13.
+The variances between planned and actual spending shown in Table 17 below are largely due to factors outside the CCIAD’s control. The receipt of funds late in the third quarter of fiscal year 2011-12 limited the opportunity to meet planned spending and resulted in a redistribution of G&C funds. Variances between planned and actual expenditures in the O&M budget can be accounted for by receiving Treasury Board approval of funds late in the initial year 2011-12, procurement delays in issuing contracts, and slower than expected spending in contracts.
+Footnote
+130
+Government-wide budget reductions in 2012-13 that carried into the next two fiscal years also impacted the variance.
+Table 17: Planned* versus Actual Spending, ECCC-ESS
+ECCC-ESS
+2011-12
+2012-13
+2013-14
+2014-15
+Total Evaluation Period
+Planned*
+Actual
+Planned*
+Actual
+Planned*
+Actual
+Planned*
+Actual
+Planned*
+Actual
+Salary
+1,170,000
+1,076,062
+1,260,000
+1,256,971
+1,260,000
+1,252,263
+1,260,000
+1,359,248
+4,950,000
+4,944,544
+EPB
+234,000
+234,000
+252,000
+252,000
+252,000
+252,000
+252,000
+252,000
+990,000
+990,000
+O&M
+763,624
+386,301
+1,012,754
+939,595
+1,012,754
+880,471
+1,012,754
+837,358
+3,801,886
+3,043,725
+G&C
+0
+985,000
+766,569
+4,700,000
+4,297,080
+4,815,000
+4,409,829
+10,500,000
+9,473,478
+RAC**
+10,995,000
+10,800,053
+10,995,000
+10,800,053
+Total
+13,162,624
+12496416
+3,509,754
+3,215,135
+7,224,754
+6,681,814
+7,339,754
+6,858,435
+31,236,886
+29,251,800
+Source: CCIAD, May 22, 2015.
+* Planned refers to funds available to the Program after the impact of the Strategic and Operating Review were absorbed and ESS Internal Services were applied and therefore differs from amounts identified in the ECCC
+Performance Measurement and Reporting Strategy
+.
+** G&C funds reprofiled to 2011-12 from the 2009-2012 RAC and Tools program (precursor program to ECCC-ESS) and administered by CCIAD.
+CCGP
+Within CCGP, planned vs actual expenditures were very close for the full period of the evaluation (see Table 18 for details). A variance of 5.6% of the total occurred in salary. According to the CCGP Year-End Review documents, some human resource challenges were experienced in all four years of the evaluation period. These HR issues are a challenge noted elsewhere in NRCan, and were typical of science-based programs such as the CCGP.
+Table 18: CCGP Planned Spending and Actual Spending 2011-2015
+2011-12
+2012-13
+2013-14
+2014-15
+Total
+Planned
+Actual
+Planned
+Actual
+Planned
+Actual
+Planned
+Actual
+Planned
+Actual
+Salaried
+2,100,000
+2,053,000
+1,888,583
+2,100,000
+1,933,000
+2,100,000
+1,900,000
+1,665,000
+7,988,583
+7,533,060
+O&M
+641,900
+578,357
+399,282
+310,000
+297,152
+310,000
+318,000
+301,352
+1,669,182
+1,548,995
+Total
+2,741,900
+2,631,357
+2,287,865
+2,410,000
+2,230,152
+2,410,000
+2,218,000
+1,966,352
+9,657,765
+9,082,055
+Source: As provided by Climate Change Geoscience Program, June 30, 2015.
+5.1.2 What steps has the CCA Sub-Program taken to minimize the use of resources in the achievement of results?
+Overall the Sub-Program was deemed efficient in minimizing the use of resources. All interviewees indicated that the Sub-Program was diligent about minimizing the use of resources by planning the location of meetings to limit airfare costs, holding working group meetings via teleconference, using webinars to share information on an interactive basis, and having workplans endorsed by Plenary members to maximize opportunities for leveraging resources as well as ensuring that the activities being undertaken met the needs of the stakeholders.
+Specific means used to minimize the use of resources in the achievement of results include the following: the Adaptation Platform was structured to encourage collaboration in an on-line forum; contribution agreements were signed on a 50-50 contribution basis; and the costs for face-to-face Plenary meetings were shared with co-hosts, and attendees paid their own way.
+From an ECCC-ESS component perspective, every dollar of NRCan G&C funds allocated by CCIAD leveraged $1.23 in additional contribution during the evaluation period (see Table 19 below). As per the Terms and Conditions of the G&C funding for the ECCC-ESS, all matching contributions are from non-federal sources.
+Table 19: Leveraged Resources: ECCC-ESS Component
+ECCC-ESS Leveraged Grant and Contribution Resources 2011-2015
+Project Group
+# of Contribution Agreements signed
+NRCan Agreed Contribution
+Matching Contribution
+Total
+Leveraged Resources $1 G&C to $1 contributed
+Coastal Working Group (WG)
+16
+1,730,648
+2,588,734
+4,319,382
+$1.50
+Economics WG
+12
+2,914,341
+3,153,304
+6,067,645
+$1.08
+Energy WG
+21
+1,835,404
+2,389,054
+4,224,458
+$1.30
+Measuring Progress WG
+8
+687,996
+797,677
+1,485,673
+$1.16
+Mining WG
+11
+863,102
+1,005,218
+1,868,320
+$1.16
+Northern WG
+7
+824,221
+1,045,682
+1,869,903
+$1.27
+RAC and Tools Synthesis WG
+6
+534,590
+572,218
+1,106,808
+$1.07
+Science Assessments WG
+7
+192,328
+340,357
+532,685
+$1.77
+Regional Adaptation Collaboratives
+6
+1,702,817
+1,933,755
+3,636,572
+$1.14
+Livable Cities Conference*
+1
+29,860
+61,750
+91,610
+$2.07
+Total
+95
+$11,315,307
+$13,887,749
+$25,203,056
+$1.23
+*
+Organized by external partner; provides a means for disseminating working group outputs.
+Source: Compiled from financial information received from ECCC-ESS, May 22, 2015.
+The CCGP component traditionally works on a collaborative basis with stakeholders. As an example, the component engages the logistical services of the Polar Continental Shelf Program for its Arctic research. CCGP also attracted a high level of in-kind and cash resources to complete its research program. Table 20 reflects the leveraging within the CCGP. Every program dollar spent on O&M leverages $2.50 in additional spending ($2.47 when Northern Physical Environment project is removed from calculation).
+Table 20: Leveraged Resources: CCGP Component
+CCGP: Leveraged A-Base O&M Resources 2011-2015
+O&M Allocation
+A-base O&M
+Resources
+Cash and In-kind
+contributions
+Total
+Leveraged resources
+A-Base O&M to
+$ Contributed
+Coordination
+$ 59,743
+N/A
+$ 59,743
+Land
+$ 525,056
+$ 1,061,026
+$ 1,586,082
+$ 2.02
+Coastal
+$ 375,805
+$ 1,181,206
+$ 1,557,011
+$ 3.14
+ECV
+$ 603,818
+$ 1,843,478
+$ 2,447,296
+$ 3.05
+Hydro*
+$ 0
+$ 0
+$ 0
+$ 0
+Risk/Vulnerability*
+$ 86,760
+$ 0
+$ 86,760
+$ 0
+Northern Physical Environment**
+$ 18,000
+$ 83,250
+$ 101,250
+$ 4.63
+Total
+$ 1,669,182
+$ 4,168,960
+$ 5,838,142
+$ 2.50
+* Projects initially envisioned but not implemented
+** Project allocated to CCGP in May, 2014
+Source: Compiled from financial information provided by CCGP management, June 30, 2015
+5.1.3 What, if anything, about the CCA Sub-Program needs to be adjusted?
+While some have noted that the Sub-Program is working well and acknowledged the tremendous work of NRCan and its personnel, a number of interviewees mentioned areas for suggested potential improvement, namely in the realm of:
+Scope - A seven-year funding cycle might be better as it would give recipients more time to do work (e.g., time it takes to do research and prepare reports, such as for
+Canada in a Changing Climate).
+Also, some provinces are more geo-politically diverse in terms of environment (e.g., Alberta and oil, Saskatchewan and potash) that they should be able to carry out projects more aligned with their unique needs.
+Capacity/Capability – the two components could each be strengthened through a more targeted retention and recruitment strategy to address future retirements.
+Administration/Reporting – the program could seek means to streamline management and reporting of the Sub-Program.
+Footnote
+131
+5.1.4 To what extent have the CCA Sub-Program outputs been produced and at what cost?
+Evidence collected to-date shows a significant number of outputs being generated. There were, however, challenges in attributing costs to outputs. This was mainly due to the inability of the NRCan financial accounting system to account for in-kind contributions from external collaborators to CCGP projects,
+Footnote
+132
+as well as the structure of cost centres within CCIAD, which reflects expense category instead of business lines.
+Footnote
+133
+5.1.5 To what degree is ECCC-ESS and CCGP performance information used in decision-making by the CCA Sub-Program?
+ECCC-ESS
+Performance information is being collected and used on an ongoing basis. Financial information for contracts and other O&M activities are tracked and discussed at management meetings. As well, the Director, CCIAD reviews the financial information weekly. This enables the ECCC-ESS to anticipate and respond as conditions changed. The DG, SPOB is informed of activities on a bi-weekly basis.
+CCIAD published Annual Reports that identified outputs and achievements. Performance information for the ECCC-ESS component was collected and reported against the ECCC Performance Measurement and Risk Strategy. The component also reported against the Horizontal Climate Change Adaptation Theme and the Federal Sustainable Development Strategy.
+A follow-up to the Benchmark Study 2009 was identified as a key performance measure in the Performance Measurement and Risk Strategy, and was to be conducted in 2014-15 according to the DPR 2013-14. However, a decision to provide performance indicators to the Departmental Performance Report (DPR) on an annual basis was made for the 2014-15 DPR. As a result, the Benchmark Study was not conducted as planned.
+CCGP
+Year-End and Mid-Year Reports for CCGP identify key variances from planned activities and outputs, identify enablers and project results. Outputs are tracked against production/completion, but annual targets are not always clearly identified. Outputs are delivered through the completion of project activities. The project progress is identified through the Year-End and Mid-Year Reports.
+6.0 Conclusions and Recommendations
+Relevance
+There is a continued need and role for the federal government in the CCA sub-program, and the focus of the work carried out is aligned with Government of Canada priorities and mandate. All lines of evidence indicate that needs are continuing. Given the scope and broad ranging effects of a changing climate on Canadian industry, sectors, infrastructure, citizens, and the environment, and the regional nature of the challenges and opportunities, the need for work to support decision-making is expected to continue.
+Stakeholders are at different levels on the climate change adaptation continuum. Some are just becoming aware, while others have gone beyond awareness and are now planning or implementing solutions as a result of the CCA Sub-Program. While the needs of each stakeholder vary, they do have in common the need for credible and reliable geoscience data and other information (e.g., publications, readings, assessments, tools, maps) to enable a better understanding of the effects of a changing climate on their organization and community and to assist with decision-making. Overall, needs are being met and additional needs are being identified as scientific information is being provided and understood.
+The CCA Sub-Program is aligned with the Government of Canada's priority as outlined in the Adaptation theme of the Clean Air Agenda (CAA). Within NRCan, it aligns to Strategic Outcome #3: Canadians have Information to Manage their Lands and Natural Resources and are Protected from Related Risks. The program also aligns with NRCan’s vision to improve the quality of life of Canadians by creating a sustainable resource advantage. The impacts of this program will advance the department’s three strategic outcomes: economic competitiveness, environmental responsibility, and safety and security of Canadians and stewardship of natural resources.
+There is an appropriate and necessary role for the federal government in delivering the CCA Sub-Program and ensuring key stakeholders across Canada are better prepared to adapt to a changing climate and have access to new knowledge on risks and opportunities resulting from a changing climate for decision-making. The CCA Sub-Program is linked to the Federal Sustainable Development Strategy, the Federal Adaptation Policy Framework, the Northern Strategy, and the Adaptation theme of the Clean Air Agenda. It reflects priorities outlined in the Speech from the Throne 2011, and the critical nature of infrastructure in the North, as identified by the Northern Strategy 2009.
+Effectiveness
+Both ECCC and CCGP have been very effective in generating relevant and useful outputs tailored to addressing research and information knowledge gaps in support of decision-makers. The CCA Sub-Program has been effective in generating credible and reliable information, knowledge and tools. The Sub-Program has generated a significant amount of information. Through the Adaptation Platform, publications, and webinars, the Sub-Program has improved the availability of CCA knowledge.
+All stakeholders and beneficiaries reported being fully aware of the knowledge generated. Stakeholders are at different levels on the climate change adaptation continuum. Some are just becoming aware, while others have gone beyond awareness and are now planning or implementing plans and need tools and analytical approaches. Stakeholders are advancing through the continuum at different rates. In particular, stakeholders involved with the Sub-Program were most aware.
+The use and knowledge of CCA Sub-Program information, at the provincial and territorial level and within the private sector, has increased over the evaluation period of 2011-12 to 2014-15. The projects have generated an array of outputs that have collectively led to the amendment of practices and policies. Professional associations are gaining interest, as demonstrated by the tangible progress and actions delivered by specific entities. Targeted decision-makers, in particular those within industry and the North, are becoming more engaged. Decision-makers have also begun to identify adaptation measures and, in many instances, have taken steps to implement them.
+The CCA Sub-Program design and components (i.e., Adaptation Platform, Plenary and Working Group structures) have been agile enough to meet new or changing needs of stakeholders. The shift in focus from regional and communities to industry and the North (and its development) has addressed the need for climate change adaptation in a national thematic and sectoral manner.
+Economy and Efficiency
+Based on the overarching program cost, and notwithstanding the challenges in fully attributing costs to specific outputs, the CCA Sub-Program is an economic and efficient means of achieving outputs and achieving progress towards outcomes. CCA is cost efficient due to good program design, cost-sharing agreements, the effective use of Gs&Cs, good management, and effective, ongoing, and comprehensive monitoring of projects.
+The CCA Sub-Program design has effectively leveraged external resources by extracting a high level of in-kind and cash resources to complete its research program. For CCGP, every program dollar spent on O&M leverages $2.50. From an ECCC-ESS component perspective, every dollar of NRCan G&C funds allocated by CCIAD leveraged $1.23 in additional contribution during the evaluation period.
+Recommendations
+NRCan should update the information contained in the benchmark study to ensure that CCA activities remain relevant to targeted stakeholder needs, and are consistent with the Federal Adaptation Policy Framework.
+The CCA Sub-Program should develop a mechanism that enables current and future stakeholders to access the knowledge and information generated on an ongoing basis.
+The CCIAD should review and align program costs with program business lines so that the costs of outputs can be more readily measured.
+Annex A: CCA Sub-Program Logic Model
+Text version
+Annex A: CCA Sub-Program Logic Model
+The evaluation team combined the logic models for CGCP and ECCC-ESS to develop a logic model for Sub-Program 3.1.4 Climate Change Adaptation.
+PAA 3.1.4
+ECCC
+CCGP
+Activities
+A1: Develop and disseminate knowledge, Information products and tools
+A1-1: Develop and disseminate information products and tools
+A1-2: Generate publications, scientific and technology knowledge*
+A1-3: Provide geoscience expertise to reduce risks, highlight opportunities to inform adaptation solutions for land-based transportation infrastructure*
+A2: Conduct research and assessments
+A2-1: Conduct risk assessments and other activities
+A2-2: Characterization of present-day Arctic coastal processes to assess impact of existing and proposed coastal and near shore transportation infrastructure (research)*
+A2-3: Characterization of shallow ground thermal regime variability (permafrost)*
+A3: Conduct science assessments
+A3-1: Conduct scientific assessments of impacts and adaptation
+A4: Establish and manage collaborative agreements
+A4-1: Establish and manage collaborative agreements
+Outputs
+O1: Science products, knowledge, Information and tools
+(including dissemination mechanisms)
+Risk assessments, decision support tools and methods (PAA/CAA) Information products and tools (reports, guides and related products) CAA
+Geoscience advice and knowledge to reduce economic vulnerability in a changing climate.
+Data bases & access to key geoscience information via publications* Geoscience information on climate change impacts in priority areas for northern development* Maps of spatial and temporal terrain sensitivity to climate change*
+O2: Assessment
+Science Assessments (CAA)
+O3: Collaborations
+Collaborative agreements; mechanisms to generate and share information, tools and experiences (nationally and regionally)
+Collaborative agreements*
+Immediate Outcomes
+IO1: Improved
+availability
+of CCA knowledge
+Availability of information, assessments, tools and experiences (CAA)
+Availability of key geoscience information via knowledge products
+IO2: Increased
+awareness
+of CCA knowledge
+Increased awareness of climate change impacts (CAA)
+Increased awareness of Earth Science information detailing climate change impacts on infrastructure with respect to northern resource development*
+IO3: Increased
+use
+of CCA knowledge
+Increased use of information, assessments, tools and experiences
+Increased implementation of Earth Science information detailing climate change impacts on infrastructure with respect to northern resource development*
+Intermediate Outcomes
+InO 1: Increased engagement in adaptation by targeted decision-makers (CAA)
+Decision-makers assess risks and opportunities from (inherent in) a changing climate
+Improved planning and /or regulation to support investment in infrastructure for northern resource development; address climate change impacts through adoption of protocols and guidelines)*
+InO 2: Identified adaptation measures (CAA)
+Ultimate Outcome
+UO1: Decision-makers factor a changing climate into their planning (PAA)
+Adaptation measures are implemented (CAA)
+Risk to investments in northern resource development are reduced by adaptation measures through increased understanding of Geoscience risks in a changing climate *
+* north of 60 latitude
+CCGP Logic Model
+Text version
+CCGP Logic Model
+Logic Model: Climate Change Geoscience Program (2011-2016), revised 2012
+Context
+Northern Canada has considerable natural resource development potential.
+Sound science reduces the uncertainties associated with critical infrastructure development, within a changing climate, impacting investment in northern resource development.
+Government land use planners, industry and regulators require geoscience information to mitigate the risks to investment in northern resource development.
+Examples of Activities
+Characterization of shallow ground thermal regime variability to provide a pre-regulatory framework for sustainable northern economic development
+Characterization of present-day Arctic coastal processes to assess impact of existing and proposed coastal and near shore transportation infrastructure
+Provide geoscience expertise to reduce risks, highlight opportunities to inform adaptation solutions for land-based transportation infrastructure
+Examples of Outputs
+Geoscience information on climate change impact in priority areas for northern development
+Maps of spatial and temporal terrain sensitivity to  climate change
+Geoscience advice to reduce economic vulnerability in a changing climate
+Short-Term Outcomes
+Increased awareness and implementation  of Earth Science information detailing climate change impacts on infrastructure with respect to northern resource development
+Medium Term Outcomes
+Planning and regulation to support investment in  infrastructure for northern resource development  address climate change impacts through the adoption of protocols and guidelines
+Long-Term Outcomes
+Risk to investments in northern resource development are reduced by adaptation measures for climate change
+Departmental Strategic Outcome 3:
+Canadians have information to manage their lands and natural resources, and are protected from related risks
+Performance indicators (outcomes level
+)
+Geoscience information used by governments, decision-makers or project proponents create opportunities or reduce costs associated with climate change impacts on infrastructure
+Protocols and guidelines for climate change characterisation adopted by practitioners
+Number of projects (for design or implementation phases) considering climate change geoscience adaptation measures
+ECCC-ESS Logic Model
+Text version
+ECCC-ESS Logic Model
+Enhancing Competiveness in a Changing Climate Program
+Ultimate / Long Term Objectives
+Decision-makers factor a changing climate into their planning (PAA)
+Adaptation measures are implemented (CAA)
+Intermediate Outcomes
+Decision-makers assess risks and opportunities from (inherent in) a changing climate (CAA)
+Adaptation measures are identified (CAA)
+Increased engagement in adaptation by targeted decision-makers (CAA)
+Immediate Outcomes
+Availability of information, assessments, tools and experiences (CAA)
+Increased awareness of climate change impacts (CAA)
+Increased use of information, assessments, tools and experiences
+Outputs
+Risk assessments, decision support tools and methods (PAA/CAA)
+Information products and tools (reports, guides and related products) (CAA)
+Science Assessments (CAA)
+Collaborative agreements; mechanisms to generate and share information, tools and experiences (nationally and regionally)
+Activities
+Develop and disseminate information products and tools
+Conduct risk assessments and other activities
+Conduct scientific assessments of impacts and adaptation
+Establish and manage collaborative agreement
+Annex B: Evaluation Matrix
+RELEVANCE
+Evaluation Issue 1: Continued Need for Program?
+EVALUATION QUESTION
+R1. Is there an ongoing need for the CCA Sub-Program
+EVALUATION
+SUB-QUESTION
+INDICATORS
+PROGRAM COMPONENT
+LINES OF EVIDENCE /
+DATA SOURCES
+PROGRAM COMPONENT
+ECCC
+CCGP
+ECCC
+CCGP
+R1 a) Who are the stakeholders and what needs of theirs are being addressed by CCA Sub-Program component activities?
+1. Identification of stakeholders
+√
+√
+Document review
+Footnote
+134
+√
+√
+Literature review
+Footnote
+135
+√
+√
+Key informant Interviews
+Footnote
+136
+√
+√
+International comparison (TBD)
+Footnote
+137
+√
+√
+Case Studies (TBD)
+√
+√
+Survey
+√
+√
+2. Identification of stakeholder needs addressed by the CCA Sub-Program by component (A1; A2; A3; A4)
+Document review
+√
+√
+Literature review
+√
+√
+Key informant Interviews
+√
+√
+International comparison (TBD)
+√
+√
+Case Studies (TBD)
+√
+√
+Survey
+√
+√
+R1 b) Are the needs continuing?
+1. Consistency (comparison) of stakeholder needs with CCA Sub-Program activities (A1-1, A1-2, A1-3; A2-1, A2-2, A2-3; A3-1; A3-2), outputs (O1; O2; O3)and immediate outcomes (IO1; IO2; IO3), intermediate outcomes (InO1; InO2) and ultimate outcome (UO1) by component
+√
+√
+Document review
+√
+√
+Literature review
+√
+√
+Key informant interviews
+√
+√
+Case Studies
+√
+√
+International comparison
+√
+√
+Survey
+√
+√
+R1 c) Has the CCA Sub-Program evolved to meet new or changing needs of stakeholders?
+1. Identification of new stakeholder needs/foci that have arisen between 2011 and 2015
+√
+√
+Document review
+√
+√
+Literature review
+√
+√
+Key informant interviews
+√
+√
+International comparison
+√
+√
+Case Studies
+√
+√
+Survey
+√
+√
+R1d) Has the number or nature of stakeholders changed over the last 4 years?
+1. Identification of stakeholder changes in membership/involvement (clients, users, partners)
+√
+√
+Document review
+√
+√
+Literature review
+√
+√
+Key informant interviews
+√
+√
+International comparison
+√
+√
+Case studies
+√
+√
+Survey
+√
+√
+Evaluation Issue 2: Alignment with Government Priorities
+EVALUATION QUESTION
+R2. Is the CCA Sub-Program and its activities consistent with government priorities and NRCan strategic objectives?
+EVALUATION
+SUB-QUESTION
+INDICATORS
+PROGRAM COMPONENT
+LINES OF EVIDENCE /
+DATA SOURCES
+PROGRAM COMPONENT
+ECCC
+CCGP
+ECCC
+CCGP
+R2 a) To what federal government priorities is the CCA Sub-Program linked?
+1. Consistency of activities (A1-1, A1-2, A1-3; A2-1, A2-2, A2-3; A3-1; A3-2), outputs (O1; O2; O3)and immediate outcomes (IO1; IO2; IO3), intermediate outcomes (InO1; InO2) and ultimate outcome (UO1) with federal priorities
+√
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+R2 b) To what strategic departmental objectives and priorities is the CCA Sub-Program linked?
+1. Consistency of activities (A1-1, A1-2, A1-3; A2-1, A2-2, A2-3; A3-1; A3-2), outputs (O1; O2; O3)and immediate outcomes (IO1; IO2; IO3), intermediate outcomes (InO1; InO2) and ultimate outcome (UO1) with NRCan and ESS Strategic Outcomes and priorities
+√
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Evaluation Issue 3: Alignment with Federal Roles and Responsibilities
+EVALUATION QUESTION
+R3. Is there a legitimate, appropriate and necessary role for the federal government in the CCA Sub-Program?
+EVALUATION
+SUB-QUESTION
+INDICATORS
+PROGRAM COMPONENT
+LINES OF EVIDENCE /
+DATA SOURCES
+PROGRAM COMPONENT
+ECCC
+CCGP
+ECCC
+CCGP
+R3 a) Should the Government of Canada be involved in activities to enhance competitiveness by positioning regions and targeted economic sectors to adapt to climate change?
+1. Consistency of activities (A1-1, A1-2, A1-3; A2-1, A2-2, A2-3; A3-1; A3-2) with federal legislation and federal role
+√
+√
+Document review
+√
+√
+Literature review
+√
+√
+Key informant interviews
+√
+√
+Survey
+√
+√
+International comparison
+√
+√
+Case studies
+√
+√
+R3 b) Should the Government of Canada be involved in climate change geoscience activities?
+1. Consistency of CCGP component activities (A1-2, A1-3; A2-2, A2-3) with federal legislation; with federal role
+√
+Document review
+√
+√
+Literature review
+√
+√
+Key informant interviews
+√
+√
+Survey
+√
+√
+International comparison
+√
+√
+Case studies
+√
+√
+R3 c) Are there other parties who could deliver the aspects of the CCA Sub-Program that are now federally delivered?
+1. Identification of extent to which other parties have the capacity and/or mandate to deliver the CCA Sub-Program activities (A1-1, A1-2, A1-3; A2-1, A2-2, A2-3; A3-1; A3-2), and outputs (O1; O2; O3)
+√
+√
+Document review
+√
+√
+Literature review
+√
+√
+Key informant interviews
+√
+√
+Survey
+√
+√
+International comparison
+√
+√
+Case studies
+√
+√
+PERFORMANCE – EFFECTIVENESS
+Evaluation Issue 4:
+Achievement of Expected Outcomes
+EVALUATION QUESTION
+PS1. To what extent have intended outcomes been achieved as a result of the CCA Sub-Program?
+EVALUATION
+SUB-QUESTION
+INDICATORS
+PROGRAM COMPONENT
+LINES OF EVIDENCE /
+DATA SOURCES
+PROGRAM COMPONENT
+ECCC
+CCGP
+ECCC
+CCGP
+PS1 a) To what extent has the program produced expected outputs? (O1, O2, O3)
+1. Comparison of actual outputs with expected outputs:
+Science products, knowledge, information and tools (including dissemination mechanisms)
+√
+√
+Document review
+√
+√
+Literature Review
+√
+√
+Key informant interviews
+√
+√
+Case studies
+√
+√
+Survey
+√
+√
+Science assessments
+√
+Document review
+√
+√
+Literature Review
+√
+√
+Key informant interviews
+√
+√
+Case studies
+√
+√
+Survey
+√
+√
+Collaborations
+√
+√
+Document review
+√
+√
+Literature Review
+√
+√
+Key informant interviews
+√
+√
+Case studies
+√
+√
+Survey
+√
+√
+PS1 b) To what extent is there availability CCA knowledge (IO1)?
+1. Identification of stakeholder’s perceptions on the availability of information, assessments, tools and experiences
+√
+Document review
+√
+√
+Literature Review
+√
+√
+Key informant interviews
+√
+√
+Case studies
+√
+√
+Survey
+√
+√
+2. Identification of stakeholder’s awareness of the availability of key geoscience information via knowledge products (e.g., publications, geoscience information on climate change for north of 60 latitude)
+√
+Document review
+√
+√
+Literature Review
+√
+√
+Key informant interviews
+√
+√
+Case studies
+√
+√
+Survey
+√
+√
+PS1 c) To what extent is there awareness of CCA knowledge (i.e., climate change impacts and Earth science information)? (IO2)
+1. Change in # stakeholder’s aware of climate change impact
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Case studies
+√
+√
+Survey
+√
+√
+2. Change in # of stakeholders aware of Earth science information detailing climate change impacts on infrastructure with respect to Northern resource development (north of 60 latitude)
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Case studies
+√
+√
+Survey
+√
+√
+PS1 d) To what extent do stakeholders use / implement CCA knowledge? (IO3)
+1. Identification of stakeholder’s perceptions on the uptake and implementation of CCA knowledge
+√
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Case Studies
+√
+√
+Survey
+√
+√
+Literature Review
+√
+√
+2. Change in # stakeholders accessing NRCan information, assessments, tools and experiences (Does the Platform have something specific that tracks the information of ECCC-ESS?)
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Case Studies
+√
+√
+Survey
+√
+√
+Literature Review
+√
+√
+3. Examples of use/implementation of Earth science information detailing climate change impacts on infrastructure with respect to northern resource development north of 60 latitude
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Case Studies
+√
+√
+Survey
+√
+√
+Literature Review
+√
+√
+PS1 e) To what extent is there increased engagement in adaptation by targeted decision-makers? (InO1)
+1. Change in # of collaborative agreements and mechanisms to generate and share
+√
+√
+Document review
+√
+√
+Literature review
+√
+√
+Key informant interviews
+√
+√
+Case Studies
+√
+√
+Survey
+√
+√
+2. Identification of new guidelines and protocols either considered and/or adopted
+√
+√
+Document review
+√
+√
+Literature review
+√
+√
+Key informant interviews
+√
+√
+Case Studies
+√
+√
+Survey
+PS1 f) To what extent have adaptation measures been considered by decision-makers? (InO2)
+1. Identification of types of adaptation measures considered by private sector (industry); by governments; by non-governmental organizations; by other decision-makers to mitigate risks and/or take advantage of opportunities
+√
+Document review
+√
+√
+Literature review
+√
+√
+Key informant interviews
+√
+√
+Survey
+√
+√
+2. Identification of types of geoscience impact information considered by private sector, governments, non-governments organizations, or other decision-makers
+√
+Document review
+√
+√
+Literature review
+√
+√
+Key informant interviews
+√
+√
+Survey
+√
+√
+PS1 g) To what extent do decision-makers factor a changing climate into their planning? (UO1)
+1. Identification of stakeholder’s perceptions of usage of climate change related geoscience information for planning and/or regulation
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Case Studies
+√
+√
+Survey
+√
+√
+2. Change in # and types of adaptation measures implemented
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Case Studies
+√
+√
+Survey
+√
+√
+PS2. Have there been unintended (positive or negative) outcomes?
+EVALUATION
+SUB-QUESTION
+INDICATORS
+PROGRAM COMPONENT
+LINES OF EVIDENCE /
+DATA SOURCES
+PROGRAM COMPONENT
+ECCC
+CCGP
+ECCC
+CCGP
+PS2 a) Identify the unintended outcomes
+1. Identification of the unintended outcomes, if any, of the CCA Sub-Program
+√
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Survey
+√
+√
+Case Studies
+√
+√
+2. Identification of factors external to the CCA Sub-Program that may influence the achievement of activities, outputs and outcomes.
+√
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Survey
+√
+√
+Case Studies
+√
+√
+PS3. Are there clear linkages between outputs and outcomes?
+EVALUATION
+SUB-QUESTION
+INDICATORS
+PROGRAM COMPONENT
+LINES OF EVIDENCE /
+DATA SOURCES
+PROGRAM COMPONENT
+ECCC
+CCGP
+ECCC
+CCGP
+PS3 a) To what extent do CCA Sub-Program outputs (O1; O2; O3) contribute to immediate outcomes (IO1; IO2; IO3), intermediate outcomes (InO1; InO2); and ultimate outcome (UO1)
+1. Stakeholders knowledge / awareness of CCA Sub-Program activities and outputs
+√
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Survey
+√
+√
+Case studies
+√
+√
+2. Comparison of information dissemination activities/platforms/ strategies and stakeholder awareness of CCA Sub-Program activities and outputs
+√
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Survey
+√
+√
+Case studies
+√
+√
+3. Identification of stakeholders' usage of climate change geoscience information for planning, research or other decision-making
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Survey
+√
+√
+Case studies
+√
+√
+PERFORMANCE – EFFICIENCY
+Evaluation Issue 5: Efficiency and Economy
+EVALUATION QUESTION
+PE1. Is the CCA Sub-Program the most economic and efficient means of achieving outputs and progress toward outcomes?
+EVALUATION
+SUB-QUESTION
+INDICATORS
+PROGRAM COMPONENT
+LINES OF EVIDENCE /
+DATA SOURCES
+PROGRAM COMPONENT
+ECCC
+CCGP
+ECCC
+CCGP
+PE1 a) What is the difference between planned and actual spending? What explains this difference, if any?
+Comparison of planned and actual spending
+√
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+PE1 b) What steps has the CCA Sub-Program taken to minimize the use of resources in the achievement of results?
+1. Identification of efficiency and/or cost saving measures
+√
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+2. Appropriateness of management and governance structures for achieving results
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+3. Leverage of resources from non-NRCan sources
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+PE1 c) What, if anything, about the CCA Sub-Program needs to be adjusted?
+Identification of unmet needs, undesired outcomes, and design/delivery needs
+√
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Case studies
+√
+√
+PE1 d) To what extent have the CCA Sub-Program outputs been produced and at what cost?
+1. Comparison between CCA Sub-Program anticipated outputs and actual outputs
+√
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Case studies
+√
+√
+2. Approximate cost of production of outputs, as available
+√
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Case studies
+√
+√
+3. Expressed continued support/value (in-kind resources, etc.) for the program by stakeholders
+√
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Case studies
+√
+√
+PE2. Is performance information being collected and used on an ongoing basis?
+EVALUATION
+SUB-QUESTION
+INDICATORS
+PROGRAM COMPONENT
+LINES OF EVIDENCE /
+DATA SOURCES
+PROGRAM COMPONENT
+ECCC
+CCGP
+ECCC
+CCGP
+PE2 a) To what degree is ECCC-ESS and CCGP performance information used for decision-making by the CCA Sub-Program?
+1. Identification of how CCA performance information is used for decision-making
+√
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+PE2 b). Have the recommendations of the previous evaluation been implemented?
+1. Identification of progress made in implementation of recommendations of previous evaluations
+√
+√
+Document review
+√
+√
+Key informant interviews
+√
+√
+Footnotes
+Footnote 1
+IBC McBean Report, Telling the Weather Story, Prepared by the Institute for Catastrophic Loss Reduction (ICLR) for Insurance Bureau of Canada (IBC), June 2012. Glossary of Terminology, p. 54.
+Return to footnote
+1
+referrer
+Footnote 2
+IBC McBean Report, Telling the Weather Story, Prepared by the Institute for Catastrophic Loss Reduction (ICLR) for Insurance Bureau of Canada (IBC), June 2012. Glossary of Terminology, p. 54.
+Return to footnote
+2
+referrer
+Footnote 3
+Ibid., p. 54.
+Return to footnote
+3
+referrer
+Footnote 4
+IBC McBean Report, Telling the Weather Story, Prepared by the Institute for Catastrophic Loss Reduction (ICLR) for Insurance Bureau of Canada (IBC), June 2012. Glossary of Terminology, p. 55.
+Return to footnote
+4
+referrer
+Footnote 5
+Ibid.
+Return to footnote
+5
+referrer
+Footnote 6
+http://www.ipcc.ch/pdf/glossary/tar-ipcc-terms-en.pdf
+Return to footnote
+6
+referrer
+Footnote 7
+Government of Canada (2011),
+Federal Adaptation Policy Framework
+, Environment Canada, Gatineau, QC, Glossary, p. 8.
+Return to footnote
+7
+referrer
+Footnote 8
+IBC McBean Report, Telling the Weather Story, Prepared by the Institute for Catastrophic Loss Reduction (ICLR) for Insurance Bureau of Canada (IBC), June 2012. Glossary of Terminology, p. 60.
+Return to footnote
+8
+referrer
+Footnote 9
+Ibid., p. 61.
+Return to footnote
+9
+referrer
+Footnote 10
+IBC McBean Report, Telling the Weather Story, Prepared by the Institute for Catastrophic Loss Reduction (ICLR) for Insurance Bureau of Canada (IBC), June 2012. Glossary of Terminology, p. 61.
+Return to footnote
+10
+referrer
+Footnote 11
+Ibid., p. 62.
+Return to footnote
+11
+referrer
+Footnote 12
+www.nrcan.gc.ca/plans-performance-reports/strategic-outcomes-program-alignment-architecture/2012-13/351
+Return to footnote
+12
+referrer
+Footnote 13
+Expenditures of approximately $41 million in both A-base and C-base funds were planned for the period 2011-2015. The primary source of funds is $31.2 million provided by the Adaptation theme of the Clean Air Agenda, which includes $21.5M in Grants and Contributions ($11M reprofiled through the Annual Reference Level Update from the 2009-12 RAC and Tools Program and $10.5M from the 2011-16 ECCC-ESS program). Spending authority for these funds will expire in 2015-16. CCGP accounts for the remaining balance (approximately $9.7 million). These are presented net of the Strategic and Operating Review and NRCan internal services transfers.
+Return to footnote
+13
+referrer
+Footnote 14
+Interviews were conducted with four groups: (1) CCA Management and Program Staff, (2) CCA Project Leaders, (3) Other Government Entities (including other government departments, provinces and territories) and (4) Stakeholders and Beneficiaries.
+Return to footnote
+14
+referrer
+Footnote 15
+Each program component has its own results framework as per its respective Logic Model. For the purpose of conducting the CCA Sub-Program evaluation, the program component Logic Models were consolidated into one evaluation CCA Sub-Program Logic Model.
+Return to footnote
+15
+referrer
+Footnote 16
+Analysis of interviews and documents.
+Return to footnote
+16
+referrer
+Footnote 17
+http://www.th.gov.bc.ca/climate_action/documents/MoTI-Climate%20Adaptation_Best%20Practices.pdf
+and Technical Circular T -06/15.
+http://www2.gov.bc.ca/gov/search?q=circular%2Binmeta%3Ayear%3D2015&id=FD86F8C621EE4BCFBA42FF04FBAD76D5
+.
+Return to footnote
+17
+referrer
+Footnote 18
+NRCan.
+Departmental Performance Report, 2014-15
+as located at
+www.nrcan.gc.ca/plans-performance-reports/rpp/2014-15/15084
+.
+Return to footnote
+18
+referrer
+Footnote 19
+NRCan.
+Evaluation of the Climate Change Geoscience and Adaptation Program Sub-Activity
+(2011) as found at
+www.nrcan.gc.ca/evaluation/reports/2011/820
+.
+Return to footnote
+19
+referrer
+Footnote 20
+NRCan.
+Report on Plans and Priorities, 2014-15
+as located at
+www.nrcan.gc.ca/plans-performance-reports/rpp/2014-15/15084
+.
+Return to footnote
+20
+referrer
+Footnote 21
+NRCan.
+Evaluation of the Climate Change Geoscience and Adaptation Program Sub-Activity
+(2011) as found at
+www.nrcan.gc.ca/evaluation/reports/2011/820
+Return to footnote
+21
+referrer
+Footnote 22
+Call for Activity Ideas Climate Change Geoscience Program 2011-2016 as found at
+http://wiki.nrcan.gc.ca/index.php/Climate_Change_Geoscience_Program_2011-2016
+.
+Return to footnote
+22
+referrer
+Footnote 23
+Call for Activity Ideas Climate Change Geoscience Program 2011-2016 as found at
+http://wiki.nrcan.gc.ca/index.php/Climate_Change_Geoscience_Program_2011-2016
+.
+Return to footnote
+23
+referrer
+Footnote 24
+Climate Change Geoscience program description as found at
+www.nrcan.gc.ca/earth-sciences/resources/federal-programs/climate-change-geoscience-program/10900
+.
+Return to footnote
+24
+referrer
+Footnote 25
+Evaluation of the Climate Change Adaptation Program (PAA Sub-Program 3.1.4), Terms of Reference, as approved by NRCan Departmental Evaluation Committee December 4, 2015.
+Return to footnote
+25
+referrer
+Footnote 26
+CCIAD, September 25, 2015.
+Return to footnote
+26
+referrer
+Footnote 27
+Internal Program documentation provided by CCIAD, May 13, 2015. (Copy of Master Table of G&C.xlsx).
+Return to footnote
+27
+referrer
+Footnote 28
+NRCan-Call-For-Proposals-18-July-2012-EN.doc.
+Return to footnote
+28
+referrer
+Footnote 29
+Results of CCIAD’s June 2013 Call for Proposals, at September 13, 2013.
+Return to footnote
+29
+referrer
+Footnote 30
+Adaptation Platform Broadcast email from Nick Xenos via Adaptation Platform, April 27, 2015.
+Return to footnote
+30
+referrer
+Footnote 31
+Financial information received from CCIAD, May 22, 2015.
+Return to footnote
+31
+referrer
+Footnote 32
+Financial information received from CCIAD, May 22, 2015.
+Return to footnote
+32
+referrer
+Footnote 33
+The RAC Fact Sheet (NRCan website at
+www.nrcan.gc.ca/environment/impacts-adaptation/regional-initiatives/10631
+).
+Return to footnote
+33
+referrer
+Footnote 34
+Received from CCGP Program Manager, January 30, 2015.
+Return to footnote
+34
+referrer
+Footnote 35
+NRCan,
+Audit of Climate Change Adaptation – Governance and Management Processes at NRCan
+, Working Paper, 2015, p. 4.
+Return to footnote
+35
+referrer
+Footnote 36
+The NRCan Program Alignment Architecture (PAA) structure changed between 2011-12 and 2012-13, creating a challenge in determining the planned budgets for the CCA Sub-Program based on DPR and RPP information because results were reported inconsistently during the transition. For consistency, planned funds identified are compiled separately for each component, and are net of the Strategic and Operating Review and NRCan internal services transfers.
+Return to footnote
+36
+referrer
+Footnote 37
+Financial information provided by CCIAD May 22, July 17, and July 22, 2015. $31.2 million included $24 million in Grants and Contributions, ($11 million from the 2009-2012 RAC program carried over through a previous ARLU process, and $10.5 million from the ECCC-ESS program). Spending authority for these funds will expire in 2015-16.
+Return to footnote
+37
+referrer
+Footnote 38
+Financial information provided by CCGP, June 30, 2015.
+Return to footnote
+38
+referrer
+Footnote 39
+The terms and conditions of the previous program did not allow proponents to account for other federal government funding as matching contributions.
+Return to footnote
+39
+referrer
+Footnote 40
+CCIAD.
+Performance Measurement and Risk Strategy (PMRS) for the Enhancing Competitiveness in a Changing Climate Program
+, September 2011, p. 9.
+Return to footnote
+40
+referrer
+Footnote 41
+Ibid.
+Return to footnote
+41
+referrer
+Footnote 42
+The Adaptation Platform website hosts meeting documents of the working groups. A review of meeting notes indicates that the workplans were discussed as the work funded under contribution agreements progressed and future plans were made. The Plenary meeting summaries also indicate the same information. See
+www.AdaptationPlatform.ca
+.
+Return to footnote
+42
+referrer
+Footnote 43
+CCIAD.
+Performance Measurement and Risk Strategy (PMRS) for the Enhancing Competitiveness in a Changing Climate Program
+, September 2011, p. 9.
+Return to footnote
+43
+referrer
+Footnote 44
+Information as provided by CCIAD, October 9, 2015. This represents the funds allocated to NRCan under the Adaptation Theme of the Clean Air Agenda.
+Return to footnote
+44
+referrer
+Footnote 45
+Government of Canada (2011), Federal Adaptation Policy Framework, Environment Canada, Gatineau, QC.
+Return to footnote
+45
+referrer
+Footnote 46
+NRCan. 2013-14 Departmental Sustainable Development Strategy as found at
+www.nrcan.gc.ca/plans-performance-reports/sustainable-development/2014-15/15523#cca
+.
+Return to footnote
+46
+referrer
+Footnote 47
+National Roundtable on the Environment and the Economy.
+True North: Adapting Infrastructure to Climate Change in Northern Canada
+(2009).
+Return to footnote
+47
+referrer
+Footnote 48
+See
+http://www.northernstrategy.gc.ca/soc-dev/index-eng.asp
+; National Roundtable on the Environment and the Economy (NRTEE).
+True North: Adapting Infrastructure to Climate Change in Northern Canada
+(2009) at
+http://publications.gc.ca/collections/collection_2009/trnee-nrtee/En134-44-2009E.pdf
+; and
+Pan-Territorial Adaptation Strategy: Moving forward on climate change adaptation in Canada’s North
+(2011) at
+www.anorthernvision.ca
+.
+Return to footnote
+48
+referrer
+Footnote 49
+NRCan.
+Report on Plans and Priorities, 2014-15
+as located at
+www.nrcan.gc.ca/plans-performance-reports/rpp/2014-15/15084
+.
+Return to footnote
+49
+referrer
+Footnote 50
+Department of Natural Resources Act (S.C. 1994, c. 41)
+as found at
+http://laws-lois.justice.gc.ca/eng/acts/N-20.8/
+.
+Return to footnote
+50
+referrer
+Footnote 51
+Resources and Technical Surveys Act (R.S.C., 1985, c. R-7) as found at
+http://laws-lois.justice.gc.ca/eng/acts/R7/FullText.html
+.
+Return to footnote
+51
+referrer
+Footnote 52
+http://laws-lois.justice.gc.ca/eng/Const/Const_index.html
+.
+Return to footnote
+52
+referrer
+Footnote 53
+Government of Canada.
+Federal Adaptation Policy Framework (FAPF)
+as provided by CCIAD.
+Return to footnote
+53
+referrer
+Footnote 54
+Adapting to the Impacts of Future Climate Change
+are available from the National Academies Press, 2010.
+http://nationalacademies.org/basc
+, p. 11.
+Return to footnote
+54
+referrer
+Footnote 55
+See National Roundtable on the Environment and the Economy.
+True North: Adapting Infrastructure to Climate Change in Northern Canada
+. (2009);
+http://www.northernstrategy.gc.ca/soc-dev/index-eng.asp
+and A NORTHERN VISION: A Stronger North and a Better Canada and others at
+www.anorthernvision.ca
+.
+Return to footnote
+55
+referrer
+Footnote 56
+NRCan.
+Earth Sciences Sector Integrated Business Plan, 2013/14-15/16
+, p.11.
+Return to footnote
+56
+referrer
+Footnote 57
+Internal Program Documentation, March 20, 2014.
+Return to footnote
+57
+referrer
+Footnote 58
+Ibid.
+Return to footnote
+58
+referrer
+Footnote 59
+The IGA specifies the collaborative and collegial approach that the GSC employs when operating within provincial and territorial boundaries.
+Return to footnote
+59
+referrer
+Footnote 60
+Internal program document: Projects funded in NRCan’s July 2012 Call for Proposals (n.d.)
+Return to footnote
+60
+referrer
+Footnote 61
+Information provided by CCIAD on May 22, 2015. The number references only those contribution agreements signed to carry out activities identified in workplans of working groups.
+Return to footnote
+61
+referrer
+Footnote 62
+CCIAD. Performance Measurement and Risk Strategy (PMRS) for the Enhancing Competitiveness in a Changing Climate Program, September 2011.
+Return to footnote
+62
+referrer
+Footnote 63
+CCIAD. “The Adaptation Platform and Natural Resources Canada’s approach to advancing adaptation” Conference Presentation at Preparing for Climate 2100: Tools and Strategies for NB Communities, 15 November 2012, slide 13.
+Return to footnote
+63
+referrer
+Footnote 64
+CCIAD.
+Adaptation Platform Annual Report 2014-15 (draft),
+p. 7
+.
+Return to footnote
+64
+referrer
+Footnote 65
+See
+www.nrcan.gc.ca/environment/impacts-adaptation/adaptation-platform/17176
+as compared to Adaptation Platform member only site at
+www.adaptationplatform.ca
+.
+Return to footnote
+65
+referrer
+Footnote 66
+See
+www.adaptationlibrary.ca
+.
+Return to footnote
+66
+referrer
+Footnote 67
+See
+http://www.adaptationlibrary.com/about-the-library
+.
+Return to footnote
+67
+referrer
+Footnote 68
+CCIAD.
+Adaptation Platform
+Annual Report 2014-15
+(Draft), p. 17.
+Return to footnote
+68
+referrer
+Footnote 69
+Ibid.
+Return to footnote
+69
+referrer
+Footnote 70
+CCIAD.
+Adaptation Platform
+Annual Report 2014-15
+(Draft), p. 15.
+Return to footnote
+70
+referrer
+Footnote 71
+See
+https://geoscan.nrcan.gc.ca/geoscan-index.html
+.
+Return to footnote
+71
+referrer
+Footnote 72
+Internal program information received January 29, 2015.
+Return to footnote
+72
+referrer
+Footnote 73
+See
+http://www2.gov.bc.ca/gov/content/environment/climate-change/reports-data/climate-change-impacts
+and
+http://www.nwtclimatechange.ca/content/resources-0
+.
+Return to footnote
+73
+referrer
+Footnote 74
+See
+http://www.ouranos.ca/en/publications/scientific-publications.php
+.
+Return to footnote
+74
+referrer
+Footnote 75
+Internal Program data, April 30, 2015, p. 20.
+Return to footnote
+75
+referrer
+Footnote 76
+Ibid. p. 19.
+Return to footnote
+76
+referrer
+Footnote 77
+Internal Program documentation dated April 2014 and January 8, 2015
+Return to footnote
+77
+referrer
+Footnote 78
+Ibid.
+Return to footnote
+78
+referrer
+Footnote 79
+See
+www.nrcan.gc.ca/plans-performance-reports/sustainable-development/563
+.
+Return to footnote
+79
+referrer
+Footnote 80
+Warren, F.J. and Lemmen, D.S. (2014):
+Synthesis; in Canada in a Changing Climate: Sector Perspectives on Impacts and Adaptation
+, (ed.) F.J. Warren and D.S. Lemmen; Government of Canada, Ottawa, ON, p.4.
+Return to footnote
+80
+referrer
+Footnote 81
+http://www.th.gov.bc.ca/climate_action/documents/MoTI-Climate%20Adaptation_Best%20Practices.pdf
+.
+Return to footnote
+81
+referrer
+Footnote 82
+Internal Program Documentation dated November, 2014
+.
+Return to footnote
+82
+referrer
+Footnote 83
+Ibid.
+Return to footnote
+83
+referrer
+Footnote 84
+See
+http://pievc.ca/mine-access-roads-northern-canada-economic-implications-climate-change
+.
+Return to footnote
+84
+referrer
+Footnote 85
+“The Economic Importance of The Lower Fraser River July 2014”, p.3.
+Return to footnote
+85
+referrer
+Footnote 86
+Public Infrastructure Engineering Vulnerability Committee (September 2012), Assessment of Toronto Hydro Electrical Supply and Delivery Infrastructure,
+http://pievc.ca/assessment-toronto-hydro-electrical-supply-and-delivery-infrastructure
+and Toronto Hydro-Electric System Public Infrastructure Engineering Vulnerability Assessment Pilot Case Study Electrical Distribution Infrastructure Final Report, September 21, 2012,
+Return to footnote
+86
+referrer
+Footnote 87
+See Toronto Hydro website at
+http://www.torontohydro.com/sites/corporate/InvestorRelations/FinancialReports/Documents/Financial%20Reports/2012%20Interactive/thesl.html
+Return to footnote
+87
+referrer
+Footnote 88
+Ibid.
+Return to footnote
+88
+referrer
+Footnote 89
+CCIAD. Internal program document, August 2014.
+Return to footnote
+89
+referrer
+Footnote 90
+CCIAD. Evidence of Impact What Why How.
+Return to footnote
+90
+referrer
+Footnote 91
+Natural Resources Canada Adaptation Program: Accomplishments and stakeholders views, updated February 2015.
+Return to footnote
+91
+referrer
+Footnote 92
+CCIAD.
+The Adaptation Platform: Equipping Canadians for a Changing Climate 3
+rd
+Annual Report (
+Draft for Plenary Review), May 2015, p. 19.
+Return to footnote
+92
+referrer
+Footnote 93
+GSC.
+Year-End Review 2014-15
+.
+Return to footnote
+93
+referrer
+Footnote 94
+Natural Resources Canada Adaptation Program: Accomplishments and stakeholders views updated February 2015.
+Return to footnote
+94
+referrer
+Footnote 95
+NRCan, GSC Mid-Year Review FY2011-12 – Climate Change Geoscience Program. Presentation dated November 2011, slide # 3.
+Return to footnote
+95
+referrer
+Footnote 96
+Natural Resources Canada Adaptation Program: Accomplishments and stakeholders views - Concrete Examples of program investments as updated February 2015 and
+http://shop.csa.ca/en/canada/infrastructure-and-public-works/plus-4011-1st-ed-pub-2010/invt/27030762010
+Return to footnote
+96
+referrer
+Footnote 97
+See
+http://www.dot.gov.nt.ca/Documents
+.
+Return to footnote
+97
+referrer
+Footnote 98
+NRCan. 2013-14 Departmental Sustainable Development Strategy.
+Return to footnote
+98
+referrer
+Footnote 99
+Internal NRCan’s Climate Change Impacts and Adaptation Programs Presentation to Policy and Science Integration Committee, September 30, 2014, slide 16.
+Return to footnote
+99
+referrer
+Footnote 100
+Ibid.
+Return to footnote
+100
+referrer
+Footnote 101
+Analysis of interviews and documents.
+Return to footnote
+101
+referrer
+Footnote 102
+NRCan,
+DPR, 2013-14
+, p. 92 as found at
+www.nrcan.gc.ca/plans-performance-reports/dpr/2013-2014/16464
+.
+Return to footnote
+102
+referrer
+Footnote 103
+CCIAD
+Annual Report 2014-15
+, p. 8.
+Return to footnote
+103
+referrer
+Footnote 104
+Natural Resources Canada Adaptation Program: Accomplishments and stakeholders views updated February 2015.
+Return to footnote
+104
+referrer
+Footnote 105
+Annual Report (draft), 2014-15
+.
+Return to footnote
+105
+referrer
+Footnote 106
+Adaptation Theme PMF dated February 28, 2014.
+Return to footnote
+106
+referrer
+Footnote 107
+Natural Resources Canada Adaptation Program: Accomplishments and stakeholders views updated February 2015.
+Return to footnote
+107
+referrer
+Footnote 108
+Internal program documentation: CCIAD. Impact stories - Version July 7 2015 and, Natural Resources Canada Adaptation Program: Accomplishments and stakeholders views updated February 2015.
+Return to footnote
+108
+referrer
+Footnote 109
+Ministry of Environment and the Environmental Assessment Office, Government of British Columbia, 2012/13 Annual Service Plan as found at
+http://www.bcbudget.gov.bc.ca/annual_reports/2012_2013/pdf/ministry/env.pdf
+Return to footnote
+109
+referrer
+Footnote 110
+Initial Program Documentation, 2011.
+Return to footnote
+110
+referrer
+Footnote 111
+Natural Resources Canada Adaptation Program: Accomplishments and stakeholders views updated February 2015
+Return to footnote
+111
+referrer
+Footnote 112
+See
+www.adaptationplatform.ca
+.
+Return to footnote
+112
+referrer
+Footnote 113
+As identified in Permafrost Case Study.
+Return to footnote
+113
+referrer
+Footnote 114
+Ibid.
+Return to footnote
+114
+referrer
+Footnote 115
+Warren, F.J. and Lemmen, D.S. (2014):
+Synthesis; in Canada in a Changing Climate: Sector Perspectives on Impacts and Adaptation
+, (ed.) F.J. Warren and D.S. Lemmen; Government of Canada, Ottawa, ON, p.5.
+Return to footnote
+115
+referrer
+Footnote 116
+IBC McBean Report, “Telling the Weather Story”, Prepared by the Institute for Catastrophic Loss Reduction (ICLR) for Insurance Bureau of Canada (IBC), June 2012, Executive Summary, p. 4.
+Return to footnote
+116
+referrer
+Footnote 117
+The Delphi Group, “Climate Adaptation in the Canadian Mining Sector,” for the Mining Association of Canada, July 7th, 2014, Executive Summary, p. 1.
+Return to footnote
+117
+referrer
+Footnote 118
+Wiensczyk, A.M.; Morford, S.; Karjala, M., “Final Report, Climate Change Impacts to the Oil and Gas Sector in Western Canada - How are we Preparing?” December 2014 Prepared for Natural Resources Canada – Climate Change Impacts and Adaptation Division Executive Summary, p. 2.
+Return to footnote
+118
+referrer
+Footnote 119
+Warren, F.J. and Lemmen, D.S. (2014):
+Synthesis; in Canada in a Changing Climate: Sector Perspectives on Impacts and Adaptation
+, (ed.) F.J. Warren and D.S. Lemmen; Government of Canada, Ottawa, ON p. 13.
+Return to footnote
+119
+referrer
+Footnote 120
+Interviewee. According to the CPA website, CPA membership is expected to be over 190,000 (
+https://www.cpacanada.ca/en/the-cpa-profession/uniting-the-canadian-accounting-profession/benefits-of-unification-under-cpa
+) and representing a higher percentage than reported by the interviewee.
+Return to footnote
+120
+referrer
+Footnote 121
+See
+https://www.cpacanada.ca/en/connecting-and-news/news/media-centre/2015/May/climate-change-initiative
+.
+Return to footnote
+121
+referrer
+Footnote 122
+Ibid.
+Return to footnote
+122
+referrer
+Footnote 123
+Johnston, M.H.; Edwards, J.E. 2013. “Adapting sustainable forest management to climate change: an analysis of Canadian case studies.” As prepared Canadian Council of Forest Ministers, Climate Change Task Force, Ottawa, ON, Abstract, p. vii.
+Return to footnote
+123
+referrer
+Footnote 124
+See
+http://www.th.gov.bc.ca/climate_action/documents/MoTI-Climate%20Adaptation_Best%20Practices.pdf
+.
+Return to footnote
+124
+referrer
+Footnote 125
+The CCGP and the CCIAD collaboration has evolved from an informal arrangement for collaboration to a signed Project Charter covering a two-year period. The CCGP provided its expertise to support the production of the 2014 Science Assessment Update.
+Return to footnote
+125
+referrer
+Footnote 126
+$11,345,000 was reprofiled from previous RAC and Tools Program to 2011-12 and reduced by $50,000 under DRAP. Thus, $10,995,000 was allocated and $10,800,053 expended, resulting in a lapse of $194,947 in 2011-12.
+Return to footnote
+126
+referrer
+Footnote 127
+Annex B – Reporfile Request 2012-13, CCIAD DOC-#1076959-v1-2012-13.
+Return to footnote
+127
+referrer
+Footnote 128
+Annex B – Reporfile Request 2012-13, CCIAD DOC-#1076959-v1-2012-13.
+Return to footnote
+128
+referrer
+Footnote 129
+ARLU 12-13 Decision.
+Return to footnote
+129
+referrer
+Footnote 130
+Email communication from CCIAD dated July 23, 2015.
+Return to footnote
+130
+referrer
+Footnote 131
+In particular the changes in reporting formats, sometimes after the fact, were deemed problematic.
+Return to footnote
+131
+referrer
+Footnote 132
+The GSC and NRCan financial accounting systems are unable to account for in-kind resources that are used in the research project activities thereby limiting full valuation of the collaborations that occur.
+Return to footnote
+132
+referrer
+Footnote 133
+Budgetary information provided by CCIAD, July 2015.
+Return to footnote
+133
+referrer
+Footnote 134
+Policy, program documents, project files (e.g., committee meeting minutes, etc.).
+Return to footnote
+134
+referrer
+Footnote 135
+Measures taken by governments (all levels), private sector, NGOs (national and international).
+Return to footnote
+135
+referrer
+Footnote 136
+NRCan Senior and Program Managers, Program Researchers, OGDs, National Industry, Professional Organizations, Academia, Other Government Entities and Beneficiaries
+Return to footnote
+136
+referrer
+Footnote 137
+United States of America and Australia.
+Return to footnote
+137
+referrer
+Report a problem on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2019-01-18

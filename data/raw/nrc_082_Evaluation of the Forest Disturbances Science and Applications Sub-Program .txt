@@ -1,0 +1,1195 @@
+Evaluation of the Forest Disturbances Science and Applications Sub-program
+Table of Contents
+Acronyms and Abbreviations
+Executive Summary
+Acknowledgments
+1.0 Introduction and Background
+1.1 Introduction
+1.2 Background
+1.3 Sub-Program Description
+1.4 Sub-program Expected Outcomes
+1.5 Sub-program Resources
+2.0 Evaluation Design
+2.1 Evaluation Approach
+2.2 Evaluation Questions
+2.3 Evaluation Methods
+2.4 Evaluation Limitations and Mitigation Strategies
+3.0 Evaluation Findings: Relevance
+3.1 Ongoing Need for the Program – Demonstrated
+3.2 Alignment with Government Priorities and NRCan Strategic Outcomes – Demonstrated
+3.3 Legitimacy and Appropriateness of Federal Role – Demonstrated
+4.0 Evaluation Findings: Performance
+4.1 Effectiveness – Partially Demonstrated
+4.2 Efficiency and Economy – Partially Demonstrated Action Required
+5.0 Conclusions and Recommendations
+5.1 Conclusions
+5.2 Recommendations
+5.3 Management Responses and Action Plans
+Appendix 1: Results Chain for the Forest Disturbances Science and Applications Sub-program
+Acronyms and Abbreviations
+ACOA
+Atlantic Canada Opportunities Agency
+ALHB
+Asian longhorn beetle
+BSLB
+Brown spruce longhorn beetle
+CCFM
+Canadian Council of Forest Ministers
+CCIA
+Climate Change Impacts and Adaptation project area
+CFFDRS
+Canadian Forest Fire Danger Rating System
+CFIA
+Canadian Food Inspection Agency
+CFS
+Canadian Forest Service
+CIFFC
+Canadian Interagency Forest Fire Centre
+CWFIS
+Canadian Wildland Fire Information System
+EAB
+Emerald ash borer
+ECCC
+Environment and Climate change Canada
+FBP
+Fire behaviour prediction system
+FIAS
+Forest Invasive Alien Species project area
+FIRE
+Provision of Science-based Information and Technology in Support of the Canadian Wildland Fire Strategy project area
+FSDS
+Federal Sustainable Development Strategy
+GAC
+Global Affairs Canada
+IPM
+Integrated (Native) Pest Management  project area
+MPB
+Mountain pine beetle
+NB DNR
+New Brunswick Department of Natural Resources
+NFPS RA
+The National Forest Pest Strategy Risk Analysis
+NRCan
+Natural Resources Canada
+OGD
+Other government departments
+PAA
+Program Alignment Architecture
+PC
+Parks Canada
+PSC
+Public Safety Canada
+SBW
+Spruce budworm
+SBW EIS
+Spruce budworm Early Intervention Strategy
+SERG-I
+SERG-International
+UNFCCC
+United Nations Framework Convention on Climate Change
+Executive Summary
+Introduction
+This report presents the findings, conclusions, and recommendations of the evaluation of Natural Resources Canada’s (NRCan’s) Forest Disturbances Science and Applications (Forest Disturbances) sub-program. The sub-program is administered by NRCan’s Canadian Forest Service (CFS). This evaluation covers the period from 2010-11 to 2014-15 and NRCan expenditures of approximately $99 million.
+The evaluation was conducted using a theory-based approach and multiple lines of evidence. Theory-based evaluations identify, and then examine, the results you would expect to see at various steps as the program works to successfully achieve expected outcomes (i.e., a results chain). To this end, a logic model and results chain were developed for this evaluation and used as the framework to assess and report on the contribution of the sub-program to observed results.
+The purpose of the evaluation is to assess the relevance and performance (i.e., effectiveness, efficiency and economy) of the Forest Disturbances sub-program, as required by the Treasury Board of Canada’s
+Policy on Evaluation
+(2009), which was in force at the time this evaluation started.
+Footnote
+1
+To assess these issues, the evaluation used a mix of both qualitative and quantitative methods. These methods included: a review of relevant documents; a review of literature from forest stakeholder groups and research organizations; a survey of sub-program end-users and collaborators (n=224, response rate of approximately 24%); case studies of eight priority activity areas, which included 70 stakeholder interviews, document and literature reviews; interviews with 10 external collaborators and users and six internal managers and staff; and a bibliometric analysis.
+Sub-program Overview
+The objective of the Forest Disturbances sub-program is to minimize the negative economic, environmental, and public safety impacts of forest disturbances caused by native and invasive alien pests, wildfire, and climate change. To do this, the sub-program conducts research and analysis, provides advice to stakeholders, and facilitates national and international collaboration among forest sector stakeholders. Research and analysis is carried out at five CFS research centres located across the country
+Footnote
+2
+and at headquarters in the National Capital Region. This research and analysis is often conducted in collaboration with provincial, academic, and industry partners.
+Activities carried out by the sub-program fall under four specific, but inter-related, large-scale national project areas. These project areas are: (1) Integrated (Native) Pest Management (IPM); (2) Forest Invasive Alien Species (FIAS); (3) Climate Change Impacts and Adaptation (CCIA); and (4) Provision of science-based information and technology in support of the Canadian Wildland Fire Strategy (FIRE).
+Evaluation Findings: Relevance
+The evaluation identified an ongoing need for scientific knowledge and tools to help forest sector stakeholders assess and respond to forest disturbances as well as for collaboration among stakeholders in order to leverage resources and expertise across jurisdictions and other organizations to address forest disturbances issues from a national perspective. Although the management of forests generally falls under provincial/territorial jurisdiction as owners of the majority of the resource, the evaluation confirmed that, given its mandate, NRCan has a legitimate role to play in conducting research, providing advice, and collaborating and facilitating cooperation amongst all stakeholders. It also confirmed that the sub-program aligns with NRCan’s strategic outcomes and Government of Canada priorities.
+Evaluation Findings: Performance (Effectiveness)
+The evaluation confirmed that the Forest Disturbances sub-program is making progress towards achieving its intended immediate-level outcomes: (1) forest sector players are using CFS outputs to monitor, detect, assess, and respond to the risks, vulnerabilities and opportunities stemming from forest disturbances; and (2) forest sector players work collaboratively nationally and internationally to address emerging disturbances issues related to Canada’s forest resources. Collaboration with stakeholders was a key factor facilitating the achievement of these outcomes. Other factors impacting the achievement of these outcomes are: the ability of stakeholders (particularly CFS and provincial/territorial governments) to participate in key forums; level of awareness of potential issues or solutions among stakeholders and key user groups; and capacity of stakeholders to use CFS-produced outputs.
+The evaluation also identified some evidence that the sub-program is making progress towards its intended intermediate outcome: forest disturbances are managed more effectively in Canada through improved (and coordinated as appropriate) policies, practices and regulations. Specifically, there is evidence that CFS products and advice have influenced the development of stakeholder policies and practices intended to improve their ability to manage forest disturbances more effectively, however it was not possible to fully assess the extent to which these have, in turn, improved the effective management of forest disturbances. The evaluation was unable to assess the impact of the sub-program relative to its ultimate outcome: threats to public safety, infrastructure, property, the forest resource and associated costs due to forest disturbances are mitigated across Canada. Nevertheless, there is some evidence to suggest the sub-program can reasonably be expected to contribute to this ultimate outcome over the longer-term.
+Evaluation Findings: Performance (Efficiency and Economy)
+The evaluation identified that the sub-program employs practices that facilitate the efficient and economic production of outputs and achievement of, or contribution to, intended outcomes. A key strength is its high level of collaboration with other organizations, which reduces duplication of effort, and facilitates the sharing of financial and intellectual resources as well as the dissemination and uptake of outputs.
+Moreover, the sub-program identifies stakeholder needs through discussions at conferences and other fora, as well as directly by CFS researchers through their research and networking activities. However, the evaluation found that the primary way in which these needs are identified is through ad hoc, often informal, client requests. This introduces the risk that the sub-program will focus its priorities primarily on addressing client-specific requests (which are generally funded, or co-funded, by the client) rather than also prioritizing long-term, more strategic research of national interest in the area of forest disturbances. Nevertheless, the evaluation revealed that the sub-program was effective at reaching and engaging relevant stakeholders when identifying stakeholder needs.
+While the sub-program was generally found to be responding effectively to the needs of stakeholders, some potential opportunities to better meet stakeholder needs were identified, including: improving alignment between CFS priorities and the specific needs of different regions; increasing CFS resources or research and/or conducting research in specific areas (such as FIRE); enhancing collaboration among stakeholders in key areas (particularly pests and climate change); and improving or updating key datasets and decision support tools. Although the evaluation revealed that the sub-program seems to be partnering with the right groups, it identified a potential opportunity, particularly in the area of pests, for CFS to revisit whether it is partnering with the most appropriate groups to ensure the most effective, efficient and economic production of outputs and contribution to intended outcomes.
+The evaluation confirmed the sub-program is producing numerous, high-quality outputs; however, it found that the sub-program does not have a strategy in place for consistently and systematically monitoring and reporting on performance. As a result, it is difficult for the sub-program to determine the extent to which planned outputs are produced, monitor and report on progress toward intended outcomes, and correct course as necessary to improve program delivery.
+Conclusions
+The Forest Disturbances sub-program is responding to an ongoing need for scientific knowledge, tools, and advice that is required to help stakeholders assess and respond to the risks associated with forest disturbances related to pests, fire, and climate change. It also responds to an identified need for collaboration among forest sector stakeholders in order to leverage resources and expertise, and share information. The evaluation found the sub-program is playing a legitimate and appropriate role related to these needs. It also confirmed that the sub-program aligns with NRCan strategic outcomes and Government of Canada priorities.
+In terms of effectiveness, the evaluation demonstrated that the sub-program is making progress towards achieving its intended immediate outcomes. It also showed progress towards the intended intermediate outcome. Although the intended ultimate outcome could not be assessed at the time of the evaluation, a review of the results chain confirms that the sub-program is reasonably expected to contribute to this outcome.
+There is also evidence that the sub-program employs practices that facilitate the efficient and economic production of outputs and achievement of intended outcomes. A key strength is the high level collaboration, which reduces duplication of effort, and facilitates the leveraging of financial and in-kind resources from external stakeholders. It also has processes in place to identify the needs of stakeholders; however, the primary method for identifying stakeholder needs is based on ad hoc, client-specific requests.
+The evaluation identified some potential areas for improvement to help the sub-program better identify and meet the needs of stakeholders. These include: ensuring all appropriate target audiences are identified and engaged; improving alignment between CFS priorities and the specific needs of different regions; increasing CFS resources or research in specific areas (e.g., FIRE); enhancing collaboration among stakeholders (particularly in the area of pests and climate change); and improving or updating key datasets and decision support tools. Stakeholders also raised concerns about not knowing how the sub-program made decisions when setting research priorities, and the capacity of the sub-program in terms of succession planning and being able to recruit the necessary expertise to address gaps resulting from attrition. In addition, the evaluation identified a need for a strategy to systematically monitor and report on performance. Because no such strategy exists, it is difficult for the sub-program to determine the extent to which it is producing planned outputs, the extent to which progress is being made towards its intended outcomes, and to identify when course correction might be needed and take action as necessary to do so.
+Based on the findings and conclusions of the evaluation, the following recommendations are made to the Assistant Deputy Minister of the Canadian Forest Service (CFS):
+Recommendation 1
+: CFS should develop and implement a client engagement and communication strategy that identifies or confirms target audiences for all project areas and for key products/outputs (e.g., for pests activities/solutions). This engagement and communication strategy should include formal processes for identifying stakeholder needs, and communicating how CFS research priorities are being set and decisions are being made in all project areas, as well as an approach to communicating emerging trends and disseminating products about which target audiences are not yet aware.
+Recommendation 2
+: CFS should develop and implement specific research strategies that address both client-driven research requirements to meet stakeholder needs and the need for national-level, more strategic research in each of the project areas. These strategies should include the target audiences (as identified in the client engagement and communication strategy, see recommendation 1). Where applicable, they should also include plans for ensuring key datasets/systems or decision support tools are maintained and as up-to-date as possible (e.g., decision support tools in the area of FIRE).
+Recommendation 3
+: CFS should develop a human resources strategy to ensure there is sufficient capacity to address both client-driven research requirements and national-level, more strategic research. It should also include succession planning to identify strategies to recruit the necessary expertise to address capacity gaps due to attrition.
+Recommendation 4
+: CFS should develop and implement a systematic performance monitoring and reporting framework or strategy to enable ongoing monitoring and reporting related to: the production of outputs; progress towards outcome achievement; and leveraging of financial and in-kind resources. It should include a strategy for ongoing monitoring that would facilitate the ability to correct course, if necessary, to ensure the effective, efficient and economic delivery of the program.
+A management response to all four recommendations is presented in Section 5.3.
+Acknowledgments
+The Evaluation Team would like to thank those individuals who contributed to the Evaluation of the Forest Disturbances Science and Applications sub-program, particularly members of the Evaluation Advisory Committee from the Canadian Forest Service as well as other contributors who provided insights and comments crucial to this evaluation.
+The evaluation project was managed by Nicholas Kowbel, and after his departure from Natural Resources Canada (NRCan) by Mary Kay Lamarche, with evaluation support from Odilia Maessen of the Strategic Evaluation Division. Mark Pearson, Head of Evaluation at NRCan, and his predecessor Glenn Hargrove, and William Blois, Director, Strategic Evaluation, and his predecessor Gavin Lemieux, provided Senior Management oversight. Phoenix Strategic Perspectives Inc. and KPMG LLP provided evaluation services for this project.
+1.0 Introduction and Background
+1.1 Introduction
+This report presents the findings, conclusions and recommendations of the evaluation of Natural Resources Canada’s (NRCan’s) Forest Disturbances Science and Applications (Forest Disturbances) sub-program. The sub-program is administered by NRCan’s Canadian Forest Service (CFS). This evaluation covers the period from 2010-11 to 2014-15 and NRCan expenditures of approximately $99 million.
+The purpose of the evaluation is to assess the relevance and performance (i.e., effectiveness, efficiency and economy) of the Forest Disturbances sub-program, as required by the Treasury Board of Canada’s
+Policy on Evaluation
+(2009), which was in force at the time this evaluation started.
+Footnote
+3
+1.2 Background
+Canada’s forests are important to the Canadian economy, with forest-related industries contributing about $22.1 billion to Canada’s gross domestic product, creating 201,645 direct jobs, and accounting for nearly 7% of all Canadian exports, or $28.5 billion worth of forest products in 2015.
+Footnote
+4
+Forests also play critical ecological and hydrological roles to support life.
+Annually, a much greater area of forest in Canada is affected by natural forest disturbances such as pests and wildfire than by human-controlled interventions of harvesting and deforestation. In 2014 for example, 20.3 million hectares of forest in Canada were damaged by insects
+Footnote
+5
+(roughly four times the area of Nova Scotia
+Footnote
+6
+and 4.6 million hectares burned in forest fires
+Footnote
+7
+. In comparison, harvesting (0.72 million hectares) and deforestation (0.03 million hectares) affected much smaller areas of forest that same year. While forest disturbances are a natural part of the forest cycle and serve important ecological functions, they can, and do, pose threats to public health and safety, as well as the forest resource. They also often result in significant costs associated with damages, and protecting people and timber through the management of forest disturbances.
+Footnote
+8
+1.3 Sub-Program Description
+The objective of the Forest Disturbances sub-program is to minimize the negative economic, environmental, and public safety impacts of forest disturbances caused by native and invasive alien pests, wildfire, and climate change.
+Footnote
+9
+To achieve its objective, the sub-program:
+Conducts research and analysis to generate knowledge and tools to help the forest sector assess risks, forecast impacts, and develop mitigation and adaptation strategies related to native and invasive alien forest pests, wildfire and climate change;
+Provides advice to stakeholders on how to combat and contain threats to Canada’s forest resources related to these disturbances; and
+Facilitates national and international collaboration among forest sector stakeholders to address forest disturbance issues.
+Intended outputs from these activities include knowledge (e.g., studies, publications, analysis, fact sheets), tools (e.g., insect traps, models, maps, protocols, frameworks, guidebooks, control agents), advice/policy input, and collaborative agreements such as joint work plans and national strategies for managing risks associated with forest pests, wildfire and climate change.
+Research and analysis are carried out at five CFS research centres located across the country
+Footnote
+10
+and at headquarters in the National Capital Region, often in collaboration with provincial, academic and industry partners. Activities carried out by the Forest Disturbances sub-program fall under the following four specific, but interrelated, large-scale national project areas:
+Footnote
+11
+Integrated (Native) Pest Management (IPM)
+: CFS’s national and intergovernmental approach to the management of native and naturalized forest pests provides science, technology and related policy advice to federal/provincial/territorial government departments and private sector organizations (e.g., industry, woodlot owners) addressing issues related to high-priority pests (e.g., spruce budworm (SBW), mountain pine beetle (MPB), root rot).
+Forest Invasive Alien Species (FIAS)
+: Provides science, technology and related policy advice to federal/provincial/territorial government departments and private sector organizations addressing alien forest pests. This project area develops strategies for detection, control and mitigation for newly established and emerging invasive alien species; coordinates research and provides advice to federal/provincial/territorial government departments on key pests where a critical response is required. The project area also works closely with the Canadian Food Inspection Agency (CFIA), which has regulatory authority over invasive species, to develop surveillance and detection tools to prevent entry, or restrict movement, of alien insects and diseases.
+Climate Change Impacts and Adaptation (CCIA)
+: Provides knowledge and tools to members of Canada’s forest sector to enable them to make informed decisions about how they can best adapt to climate change. This project area brings together biophysical and social sciences, links them to policy, and emphasizes knowledge exchange, particularly through the early engagement of end-users in research initiatives.
+Provision of science-based information and technology in support of the Canadian Wildland Fire Strategy (FIRE)
+: Provides science-based information and technology to support decisions and policies of federal/provincial/territorial jurisdictions concerning wildland fires. This includes advice as well as an enhanced Canadian Forest Fire Danger Rating System (CFFDRS)
+Footnote
+12
+and updates to the Canadian Wildland Fire Information System (CWFIS)
+Footnote
+13
+.
+Key collaborators and users of the knowledge and tools generated by the sub-program include: provincial/territorial government departments and agencies, federal government departments and agencies (e.g., CFIA, Public Safety Canada (PSC), Environment and Climate Change Canada (ECCC), Parks Canada (PC) and Global Affairs Canada (GAC)); forest industry associations and companies; and academic and research institutions.
+1.4 Sub-program Expected Outcomes
+Sub-program activities and outputs are expected to result in the following outcomes:
+Immediate Outcomes:
+Forest sector players are using CFS outputs to monitor and detect, assess, and respond to the risks, vulnerabilities and opportunities stemming from forest disturbances.
+Forest sector players work collaboratively, nationally and internationally, to address emerging disturbance issues related to Canada’s forest resources.
+Intermediate Outcome:
+Forest disturbances are managed more effectively in Canada through improved (and coordinated, as appropriate) policies, practices and regulations.
+Ultimate Outcome:
+Threats to public safety, infrastructure, property, the forest resource and associated costs due to forest disturbances are mitigated across Canada.
+1.5 Sub-program Resources
+As noted above, total actual NRCan expenditures for the Forest Disturbances sub-program from 2010-11 to 2014-15 were approximately $99 million. Figure 1 illustrates the distribution of these expenditures across the four project areas.
+Figure 1: Percentage of Expenditures across Project Areas from 2010-11 to 2014-15
+Figure 1 : Percentage of Expenditures across Project Areas from 2010-11 to 2014-15
+Text version
+Figure 1
+Percentage of Expenditures across Project Areas from 2010-11 to 2014-15
+Project Area
+Percentage
+IPM
+34.3 %
+FIAS
+29 %
+CCIA
+23.6 %
+FIRE
+13.1 %
+Notes:
+Total IPM expenditures: approximately $34 million
+Total FIAS expenditures: approximately $28 million
+Total CCIA expenditures: approximately $23 million
+Total FIRE expenditures: approximately $13 million
+As illustrated in Figure 2, the majority of expenditures for the sub-program are from A-base funding. That being said, all project areas used C-based funding with the majority being used in the area of CCIA ($3.45 million) and the least in the area of FIRE (only $4000). IPM expended $63,000 in C-base and the FIAS area expended $43,000.
+Figure 2: Distribution of Expenditures by Funding Type (A-base, C-base), 2010-11 to 2014-15 ($000)
+Figure 2 : Distribution of Expenditures by Funding Type (A-base, C-base), 2010-11 to 2014-15 ($000)
+Text version
+Figure 2 : Distribution of Expenditures by Funding Type (A-base, C-base), 2010-11 to 2014-15 ($000)
+Year
+A-base Funding
+C-base Funding
+2010-11
+$15,943
+$0
+2011-12
+$18,037
+$912
+2012-13
+$20,673
+$954
+2013-14
+$20,750
+$808
+2014-15
+$19,988
+$886
+Overall
+$95,391
+$3,560
+Figure 3 illustrates the distribution of expenditures for the sub-program by the different expenditure types, showing that the majority of expenditures were allocated to salaries.
+Figure 3: Distribution of Expenditures by Expenditure Type, 2010-11 to 2014-15 ($000)
+Figure 3 : Distribution of Expenditures by Expenditure Type, 2010-11 to 2014-15 ($000)
+Text version
+Figure 3 : Distribution of Expenditures by Expenditure Type, 2010-11 to 2014-15 ($000)
+Year
+Total O&M
+Total Salaries
+Total EBP
+Total G&C
+2010-11
+$2,238
+$11,220
+$2,243
+$242
+2011-12
+$2,181
+$13,755
+$2,751
+$262
+2012-13
+$2,303
+$15,821
+$3,161
+$342
+2013-14
+$2,217
+$15,914
+$3,119
+$308
+2014-15
+$1,960
+$15,640
+$3,086
+$188
+Total
+$10,899
+$72,350
+$14,360
+$1,342
+2.0 Evaluation Design
+2.1 Evaluation Approach
+The evaluation was conducted using a theory-based approach and multiple lines of evidence. Theory-based evaluations identify, and then examine, the results you would expect to see at various steps as the program works to successfully achieve expected outcomes (i.e., a results chain). To this end, a logic model and results chain were developed for this evaluation. The results chain (presented in Appendix 1) was used as the framework for the evaluation to assess and report on the contribution of the sub-program to observed results.
+2.2 Evaluation Questions
+The evaluation addresses the following seven questions:
+Relevance
+Is there an ongoing need for the Forest Disturbances sub-program?
+Is the Forest Disturbances sub-program consistent with government priorities and NRCan strategic outcomes?
+Is there a legitimate and appropriate role for the federal government in forest disturbances science and technology? Is NRCan’s role appropriate in the context of the role of others?
+Performance (effectiveness)
+To what extent have the activities of the Forest Disturbances sub-program contributed to the achievement of the intended outcomes?
+What internal and external factors have facilitated or hindered the achievement of the intended outcomes?
+Have there been any unintended outcomes (positive or negative) or corollary benefits?
+Performance (efficiency and economy)
+Is the sub-program the most economic and efficient means of making progress towards the intended outcomes of the program?
+The findings for each evaluation question are presented in Sections 3 and 4. For each question, a rating and summary of the supporting evidence are provided in Table 1.
+Table 1: Definition of Rating Statements
+Statement
+Definition
+Demonstrated
+Intended outcomes or goals were achieved or met.
+Partially Demonstrated
+Considerable progress was made to meet intended goals, and achievement is expected based on current plan.
+Partially Demonstrated – Action Required
+Some progress has been made to meet the intended outcomes or goals. Management attention is needed to fully achieve the desired objective or result.
+Not Demonstrated
+Limited or no progress has been made to meet the intended outcomes or goals as stated, or the outcome is no longer applicable (due to changes in the external environment).
+2.3 Evaluation Methods
+The evaluation used a mix of both qualitative and quantitative methods, including:
+A review of relevant documents to inform evaluation questions related to relevance and performance (i.e., effectiveness, efficiency and economy). This included a review of: sub-program and project area documents such as strategic and business plans, annual reports and publications, meeting and committee minutes, HR plans, needs assessments, performance reports, etc.; departmental documents, such as Departmental Performance Reports, Reports on Plans and Priorities; as well as Government of Canada documents such as Federal Budgets, and Speeches from the Throne.
+A review of literature from forest stakeholder groups and research organizations (e.g., Canadian Council of Forest Ministers (CCFM); other government departments (OGDs)/organizations (e.g., CFIA; National Round Table on the Environment and Economy). This literature review informed evaluation questions related to relevance and efficiency and economy.
+A survey of sub-program end-users and collaborators to assess the relevance and performance (i.e., effectiveness, efficiency and economy) of the sub-program. Respondents included representatives from: federal, provincial/territorial, and municipal government departments and agencies; industry; academia and research organizations; other national governments; and other NRCan users and collaborators external to the Forest Disturbances sub-program. Responses were received from 224 respondents, representing a response rate of approximately 24%.
+Case studies of eight priority activity areas representing work carried out over the evaluation period in all project areas.
+Footnote
+14
+These included 70 stakeholder interviews (almost two-thirds of them external) and a review of relevant sub-program documents and related literature. These case studies were used, in particular, to identify impacts of program outputs and confirm theories of implementation and change (i.e., the results chain).
+Stakeholder interviews with 10 external collaborators and users (e.g., other federal government departments, provincial government departments and agencies, and academia) and six internal managers and staff to inform evaluation questions related to relevance and performance (i.e., effectiveness, efficiency and economy).
+A bibliometric analysis was used to assess the impact of CFS scientific research in the area of forest disturbances. It included the assessment of the importance and reach of peer-reviewed publications related to forest disturbances based on: counts and trends, share of Canadian and world papers; citation analysis; and collaboration analysis (based on authorship).
+2.4 Evaluation Limitations and Mitigation Strategies
+Table 2 identifies limitations that should be considered when reviewing the evaluation results and the mitigation strategies used to address them.
+Table 2: Evaluation Limitations and Mitigation Strategies
+Limitation and Potential Impact
+Mitigation Strategy
+The sub-program does not systematically collect and report performance data. As such, there was limited performance information on which to draw to inform the evaluation’s assessment of the sub-program’s progress toward intended outcomes.
+This challenge was addressed through the design of the evaluation methodology by conducting a survey and eight case studies to determine the extent to which the sub-program contributed to expected outcomes. Results from these two lines of evidence were triangulated with other lines of evidence (e.g., document review, stakeholder interviews, bibliometric analysis) in order to determine progress towards achieving expected results.
+Financial information was not captured by the sub-program in a way that would facilitate a direct assessment of efficiency and economy (i.e., cost per output, international comparison, etc.)
+The evaluation assessed indirect measures of efficiency and economy, including different aspects of program design and delivery to identify characteristics indicative of an efficient and economic means of delivering activities, producing outputs, and contributing to intended outcomes, as well as to identify potential areas for improvement.
+3.0 Evaluation Findings: Relevance
+3.1 Ongoing Need for the Program – Demonstrated
+Summary of Findings:
+The evaluation identified an ongoing need for scientific knowledge and tools to help forest sector stakeholders assess and respond to forest disturbances, as well as for collaboration among stakeholders to leverage resources and expertise across jurisdictions and other organizations to address forest disturbances issues from a national perspective.
+A review of documents and literature reveal an ongoing need for scientific knowledge, tools and advice to help stakeholders assess and respond to risks associated with forest disturbances related to pests, fire, and climate change. For example:
+Forest fires are expected to increase in number, get hotter and be more difficult to control in the future;
+Footnote
+15
+Climate change has created conditions that have allowed the spread of some forest pathogens
+Footnote
+16
+and pests (such as MPB and SBW)
+Footnote
+17
+into areas they could not occupy previously, and may also be making Canadian forests more vulnerable to new invasive pest species
+Footnote
+18
+.
+Experts predict that climate change in the 21
+st
+century will increase the frequency and severity of forest disturbances in many parts of Canada. As such, there is a need to increase understanding among forest sector stakeholders of these impacts and potential costs of climate change on forests and forest disturbances, as well as how best to adapt and manage those risks.
+Footnote
+19
+In addition, the evaluation identified an ongoing need for collaboration among stakeholders to leverage resources, expertise and information. This collaboration is required to facilitate the development of the knowledge and tools needed to understand and manage risks related to forest disturbances, and address forest disturbances from a national perspective. Case studies and some external and internal interviewees explain that this need for knowledge and tools continues because forest disturbances are complex and dynamic, with the behaviour of these disturbances and associated risks also shifting as a result of a changing climate. However, the case studies and some interviewees identify that no single organization or stakeholder group (e.g., federal/provincial/territorial government departments and agencies, industry, academia) has the capacity on its own to generate all the knowledge and tools needed to manage these risks, thus requiring collaboration among stakeholders. Also, because pests and fires can move across jurisdictional boundaries and jurisdictions may have different levels of risk tolerance associated with a type of forest disturbance, collaboration facilitates a common understanding of risks and cooperation to manage them across jurisdictions.
+3.2 Alignment with Government Priorities and NRCan Strategic Outcomes – Demonstrated
+Summary of Findings:
+The Forest Disturbances sub-program aligns with NRCan’s Strategic Outcome, Canadians have information to manage their lands and natural resources, and are protected from related risks. The sub-program also aligns with several federal government priorities related to climate change, native and alien forest pests, and responsible development of forest resources.
+Forest Disturbances Science and Application is a sub-program in NRCan’s 2014-15 Program Alignment Architecture (PAA). It aligns with program 3.1, Protection of Canadians and natural resources. This program supports strategic outcome 3, Canadians have information to manage their lands and natural resources and are protected from related risks.
+Footnote
+20
+To support this strategic outcome, the following related expected results were identified for the program and sub-program:
+Governments, communities and the private sector manage risks or opportunities to natural resources, infrastructure and human health (for program 3.1, Protection for Canadians and Natural Resources); and
+Governments, agencies and industry are provided with scientific knowledge on forest disturbances to assess risks, and develop mitigation and adaptation strategies (specific to sub-program 3.1.3, Forest Disturbances Science and Application).
+Footnote
+21
+The sub-program contributes to these expected results by providing science-based knowledge, tools, and advice on forest disturbances to governments, agencies and industry that they can then use to inform policies and practices to help manage risks associated with forest disturbances.
+The Forest Disturbances sub-program also aligns with several federal government priorities related to climate change, alien and native forest pests, and responsible development of forest resources outlined in federal strategies, Budgets, and Speeches from the Throne. For example:
+In 2011, the sub-program received five years of funding as part of the
+Forest Change
+: Enhanced Competitiveness in a Changing Climate
+initiative under the federal government’s interdepartmental Adaptation Program of the Clean Air Agenda;
+Climate change is identified as a priority in the 2015 mandate letter to the Minister of Natural Resources
+Footnote
+22
+and in the Federal Sustainable Development Strategy (FSDS) for Canada 2016-2019
+Footnote
+23
+;
+Prevention and management of native and alien forest pests are identified as priorities in both the 2013-2016 and 2016-2019 FSDSs
+Footnote
+24
+as well as various federal Budgets and Speeches from the Throne; and
+Canada’s international reporting obligations under the United Nations Framework Convention on Climate Change (
+UNFCCC)
+Footnote
+25
+is supported by the sub-program through its development and maintenance of models for tracking changes resulting from forest disturbances.
+In addition, the work of the sub-program aligns with priorities identified by the CCFM
+Footnote
+26
+in various strategic documents.
+Footnote
+27
+For example, by facilitating collaboration among forest sector stakeholders to address forest disturbances issues, the sub-program aligns with the vision identified in CCFM’s
+National Forest
+Strategy
+: “Canada is committed to collaborating on science and technology issues and sharing expertise and resources to advance global forest development”.
+3.3 Legitimacy and Appropriateness of Federal Role – Demonstrated
+Summary of Findings:
+The management of forests generally falls under provincial/territorial jurisdiction as owners of the majority of the resource in their respective jurisdictions. Nevertheless, NRCan has a legislative mandate to conduct research, provide advice, collaborate and facilitate cooperation amongst all stakeholders, including provinces/territories, the Government of Canada, governments of other countries, and international organizations for the protection, management and use of the forest resources of Canada.
+Furthermore, as a federal government department, NRCan is well positioned to conduct national-level research and facilitate national and international cooperation and collaboration among stakeholders to address forest disturbances issues.
+The federal government owns and manages only two percent (2%) of forests in Canada, with the majority (90%) being owned and managed by provinces and territories; another two percent (2%) are owned by Indigenous peoples and six percent (6%) are owned privately.
+Footnote
+28
+Nevertheless, given its mandate under the
+Department of Natural Resources Act
+Footnote
+29
+and the
+Forestry Act
+Footnote
+30
+, it is legitimate for NRCan to conduct research, provide advice and facilitate cooperation and collaboration among all stakeholders in order to help them manage forest disturbances.
+In addition, since 2007, the
+Emergency Preparedness Act
+Footnote
+31
+requires each federal minister to: (1) identify the risks that are within, or related to, his/her area of responsibility; and (2) develop, maintain, test, implement and exercise emergency management plans related to the identified risks
+Footnote
+32
+Within this context, the NRCan Minister is required to:
+Provide scientific, technical and/or policy leadership for potential or actual events, including wildfires; and
+Produce and disseminate (via the CFS) a national level Wildfire Emergency Management Plan (EMP)
+Footnote
+33
+to address prevention, preparedness, response and recovery of the potential hazards.
+Footnote
+34
+Results of case studies and some interviews also revealed that the role of CFS in conducting research, providing advice and facilitating collaboration is considered critical by stakeholders even though there are some other organizations (e.g., federal and provincial/territorial departments and agencies, individuals in universities and research organizations) also conducting research on various aspects of forest disturbances. Case studies and some interviewees also identified that CFS is a trusted, unbiased source of credible science that is relied upon by stakeholders.
+Furthermore, the results of several case studies and some interviewees reveal that CFS is the only organization with the capacity and relevant mandate to conduct longer-term research to address forest disturbances in the national interest, rather than focused only on a specific jurisdiction or forest disturbance. For instance, OGDs, and provincial/territorial government departments and agencies responsible for the management of forest disturbances were identified as having limited research capacity or time, to coordinate or conduct nationally-focused scientific work for the benefit of all jurisdictions, nor is it in the mandates of these organizations to do so. As such, the CFS, as part of a federal government department, has the ability to bring federal/provincial/territorial government departments and agencies together to collaborate on these efforts.
+4.0 Evaluation Findings: Performance
+4.1 Effectiveness – Partially Demonstrated
+Summary of Findings:
+The evaluation confirmed that the Forest Disturbances Science and Applications sub-program is making progress towards achieving its intended outcomes, particularly at the immediate outcome level: forest sector players are using CFS outputs to monitor, detect, assess, and respond to the risks, vulnerabilities and opportunities stemming from forest disturbances; and forest sector players work collaboratively nationally and internationally to address emerging disturbances issues related to Canada’s forest resources.
+The evaluation also identified some evidence that the sub-program is making progress towards its intended intermediate outcome: forest disturbances are managed more effectively in Canada through improved (and coordinated as appropriate) policies, practices and regulations. However, it was not possible to quantify the extent to which these policies, practices and regulations have improved the effective management of forest disturbances. Similarly, the evaluation was unable to determine the impact of the sub-program relative to its intended ultimate outcome: threats to public safety, infrastructure, property, the forest resource and associated costs due to forest disturbances are mitigated across Canada. Nevertheless, the evaluation did reveal some evidence that suggests the sub-program can be reasonably expected to contribute to this ultimate outcome over the longer-term.
+Collaboration with stakeholders is an important practice facilitating the sub-program’s progress towards achieving its intended outcomes. The evaluation identified other, sometimes related, factors that may also impact its ability to achieve its intended outcomes, including: ability of stakeholders to participate in key forums; level of awareness of potential issues or solutions among stakeholders and key user groups; and capacity of stakeholders to use CFS-produced outputs.
+No unintended impacts were identified.
+4.1.1. Immediate Outcome 1: Forest sector players are using CFS outputs to monitor, detect, assess, and respond to the risks, vulnerabilities and opportunities stemming from forest disturbances –  Demonstrated
+CFS outputs are being used by a variety of stakeholders. Specifically, bibliometric analysis shows that between 2006 and 2014, NRCan-authored papers related to forest disturbances were among the most cited papers of all those produced in Canada in the field of forest disturbances.
+Footnote
+35
+Although bibliometric analysis does not indicate why papers were cited or how else papers might have been used, average relative citations is considered an early indicator of the observed scientific impact of the research conducted by the organization.
+Footnote
+36
+Beyond citations, the survey shows that CFS resources are being used and have been helpful to survey respondents from all forest disturbances project areas to: (1) understand a current problem, issue or need (79%); (2) anticipate an emerging problem or issue (68%); and (3) provide actionable options (61%) related to forest disturbances. In addition, 72% of survey respondents indicated that CFS resources have been valuable to them to carry out their work, and report using CFS resources to:
+Assess (68%), monitor and detect (55%), and respond to (56%) risks, vulnerabilities and opportunities stemming from forest disturbances related to pests, fire and climate change;
+Conduct research and development related to forest disturbances (44%);
+Provide advice on forest health-related issues (33%); and
+Develop agreements and strategies to coordinate national or international efforts to manage forest disturbances associated with forest pests, fire and climate change (23%).
+In addition, all case studies found CFS outputs developed in the context of the key activity areas examined are being used, although the use of Rotstop-C® and the climate change vulnerability assessment and adaptation framework and guidebook has been limited to date. Some specific examples of use are as follows:
+CFIA uses CFS advice and tools to inform their practices, such as the emerald ash borer (EAB) protocol, which includes recently developed pheromones and improved traps for early detection of adult insects.
+Provinces and municipalities in Ontario and Quebec use CFS tools, such as the branch sampling method and the biological insecticide TreeAzin™, to manage the EAB.
+A number of user groups involved in public safety and security use CWFIS data/information to support decision making. For example, the Canadian Interagency Forest Fire Centre (CIFFC) relies on CWFIS data for both strategic and operational planning for wildland fire resource management in Canada and internationally, and PSC relies on CWFIS data to develop national risk assessments and contingency plans.
+The University of British Columbia uses CWFIS data and CFS expertise to inform air quality modeling systems, such as the collaborative
+Bluesky
+project
+Footnote
+37
+.
+Provincial/territorial government departments and agencies use pest risk analyses to brief their executives on the risks associated with a pest, validate their pest management decisions, and support requests for operational funding to implement management decisions.
+Nova Scotia based its policy decision to stop monitoring for the brown spruce longhorn beetle (BSLB) on the BSLB risk analysis conclusion that the threat of BSLB to Nova Scotia forests is of low to medium risk. CFIA used the same risk analysis during its consultations with stakeholders to support their proposed regulation change regarding the BSLB in Nova Scotia.
+However, the evaluation found instances of low take up of solutions or tools because stakeholders were not sufficiently aware. For example, Rotstop-C® sales and use were low due to a lack of awareness of both annosum root disease and the availability of Rotstop-C® to control it. Similarly, the EAB case study found that the key user group, municipalities, was not explicitly being targeted by CFS. As a result, knowledge transfer to land owners and municipal levels to address this pest was sometimes poor.
+Footnote
+38
+The evaluation identified the following factors that impact the ability of the program to achieve this intended outcome:
+The ability of CFS and provincial/territorial government stakeholders to attend, or be a member of, key forums such as the CCFM, CIFFC, Forest Pest Management Forum, Wildland Fire Conference, the Adaptation Platform, SERG-International (SERG-I), and other advisory boards or committees. Some internal and external stakeholders perceived that CFS and provincial/territorial stakeholders were less able to participate in these forums than in the past. Decreased participation in these forums could limit the reach of the sub-program, which could impact its ability to identify the needs of stakeholders, collaborate with key stakeholders on common issues or tools, and disseminate information on potential forest disturbance issues or solutions.
+The capacity of stakeholders to use the outputs produced by the sub-program. For instance, the climate change case study found limited use of the framework and guidebook developed by CFS due to a lack of capacity among target groups and the need for more effort moving forward to train practitioners to use complex products such as this. In the Rotstop case study, available time and resources were also identified as potential barriers given the need to retrofit equipment with a sprayer to enable the allocation of Rotstop-C®, and also be a licensed pesticide technician
+Footnote
+39
+in order to buy and use the product.
+4.1.2 Immediate Outcome 2: Forest sector players work collaboratively nationally and internationally to address emerging disturbance issues related to Canada’s forest resources - Demonstrated
+All lines of evidence from this evaluation show that national and international collaboration to address forest disturbances issues is occurring among forest sector stakeholders. Examples of collaboration identified in case studies, documents and literature
+Footnote
+40
+and interviews show that stakeholders collaborate to share data/information and best practices, coordinate research efforts, conduct joint research, and, to a lesser extent, develop joint strategies and agreements to address forest disturbances issues. Some specific examples of collaborations are as follows:
+A wide range of participants from academia (Université Laval), federal and provincial governments (two CFS Forestry Centres and the Ontario Ministry of Natural Resources and Forests), and other national and international industry organizations (Bioforest Inc. Canada and Verdera Inc. of Finland) collaborated to support the development and registration of Rotstop-C® for the control of
+Heterobasidion irregular
+(root rot) in Canada.
+Footnote
+41
+CCFM working/technical committees whose members include representatives from provincial/ territorial jurisdictions collaborate with other stakeholders (e.g., OGDs, academia, industry, research groups, and Indigenous community groups) to develop and test products.
+Footnote
+42
+The SBW Early Intervention Strategy (EIS), a collaborative research project involving 12 partners
+Footnote
+43
+across all levels of government, industry, and academia. In particular, it involves CFS researchers from several CFS forestry centres, the province of New Brunswick Department of Natural Resources (NB DNR), industry stakeholders in New Brunswick and several universities.
+CIFFC and the Wildland Fire Canada Conference
+Footnote
+44
+provide forums through which CFS collaborates with provinces/territories and academia to enhance the CWFIS technical infrastructure and to obtain the data needed to support its predictive and analytical models and applications, as well as to collaborate on research projects (e.g., to develop models and products for inclusion in the CWFIS or to develop other products that use CWFIS data and codes, such as the
+BlueSky
+smoke forecasting system).
+Case studies indicate that collaborations are mainly established through: (1) central venues such as stakeholder organizations and their working groups, national and international committees, and forums where forest stakeholders (including CFS) actively participate (e.g., CCFM, CIFFC, SERG-I, Western Partnership for Wildland Fire Science, Climate change Adaptation Platform
+Footnote
+45
+, the Wildland Fire Canada Conference, and the Forest Pest Management Forum); and (2) formal agreements (e.g., between NRCan-CFS and CFIA/other organizations; between CFS and other researchers; and between non-CFS stakeholders).
+The evaluation found mixed evidence on CFS partnering activities. Bibliometric findings, show that NRCan is a highly integrated actor in the network of Canadian organizations working in the field of forest disturbances, and also collaborates extensively on forest disturbances-related science between the CFS research centers.
+Footnote
+46
+Similarly, most case studies found that the right partners were involved in the various case study activities to optimize the achievement of results
+Footnote
+47
+. Furthermore, survey results indicated that stakeholders consider CFS to be a valuable partner in research collaborations to address emerging issues related to forest disturbances in Canada (87%).
+Overall, 73% of respondents also identified that CFS plays an important leadership role in facilitating national and international collaborations to address forest disturbances issues. However, relative to other project areas, fewer respondents from the FIRE area noted that CFS is playing an important leadership role (63% in FIRE compared to between 79% and 89% in the other project areas). While only a few respondents provided comments to explain why they felt CFS does not provide strong leadership in facilitating national and international collaboration, the majority of the comments from respondents in the FIRE area acknowledged the high quality of CFS researchers but felt that the CFS FIRE program no longer does sufficient wildland fire research to play a leadership role in related collaborations.
+4.1.3 Intermediate Outcome: Forest disturbances are managed more effectively in Canada through improved [and coordinated where appropriate] policies, practices, and regulations – Partially Demonstrated
+Although the evaluation did not find any documented evidence demonstrating there has been a net improvement in the effectiveness of managing forest disturbances in Canada from 2010-11 to 2014-15, it did reveal that CFS products and advice have influenced the development of stakeholder policies and practices intended to improve their ability to manage forest disturbances more effectively. For example, survey respondents noted that using CFS products and advice is improving their ability to:
+Develop policies, programs, and practices related to assessing risks, vulnerabilities and opportunities associated with forest pests, fire, and climate change (57%);
+Develop policies, programs, regulations, and practices to identify and/or respond to threats from forest pests, fire, and climate change (55%); and
+Develop regulations or standards associated with managing forest pests, fire, and climate change (22%).
+Survey results further suggest that the majority (83%) of those who have developed policies, regulations, and practices to identify and respond to threats using CFS products and advice, have also implemented these policies, regulations, and practices to some extent.
+Moreover, the majority (80%) of stakeholder survey respondents believe that the management of forest disturbances in their region has improved to some degree, with 81% of these respondents attributing this improvement, at least in part, to the knowledge, tools, advice, or collaboration from CFS. One exception to this was identified through the National Forest Pest Strategy Risk Analysis (NFPS RA) case study, which found that the perception of the extent to which the management of forest pests has improved varies considerably across the country. This variance appears to be related to contextual factors such as the diversity of ecosystems, number of pests, the size/importance of the forest sector to the economy, and the scope and complexity of interactions between forest disturbances (e.g., pests influencing fire potential, fire influencing pest potential, and climate change influencing all forest disturbances).
+Nevertheless, 76% of survey respondents believe that without the scientific knowledge, tools, advice, and collaboration provided by the sub-program, there would be less effective management of forest disturbances. The importance of the knowledge, tools, and advice produced by the sub-program to improve stakeholder ability to more effectively manage forest disturbances was also substantiated by many interviewees and case studies.
+Several internal and external interviewees noted that because of an increased awareness among stakeholders of the beneficial role of fire in forest ecology, some fire management agencies have shifted their focus from fire suppression to fire management. As such, fire management decisions are based on risk to communities and infrastructure. Internal and external interviewees believe this approach will improve fire management because it optimizes resource utilization and limits the financial impacts of fighting fires.
+Similarly, early results and decision support systems based on science developed as part of the SBW EIS Pilot have influenced policies and practices related to monitoring and sampling of SBW and mitigation operations. Although industry and provincial stakeholders will not know for a couple of years if the EIS has been effective at preventing a full-blown outbreak of SBW, the SBW case study reveals a number of important policy-related lessons on dealing with public misinformation about spraying (a major barrier to effective management of SBW), sampling for SBW, optimal larval stages for controlling SBW, and treatment. In particular, industry (i.e., Irving) has changed operational practices by incorporating visual assessments of SBW defoliation into the standard work practices of its forest practitioners in order to improve the quality of monitoring data available to inform the EIS strategy.
+Footnote
+48
+Other case studies provided additional examples of stakeholders using CFS outputs to develop practices and policies and make science-based decisions related to the management of pests, including the use of CFS-produced science and advice for improved survey and early detection of invasive alien forest insects. These examples include the following:
+A research paper co-authored by a CFS scientist was the impetus for Saskatchewan to initiate an MOU with Alberta to provide $1.25 million/year to Alberta to mitigate the spread of MPB into Saskatchewan.
+Footnote
+49
+CFS-produced science and advice for improved survey and early detection of invasive alien forest insects informed policies and practices, such as: CFIA practices and protocols for the Asian longhorn beetle (ALHB), BSLB, sudden oak death, EAB, and Asian gypsy moth; the United States Department of Agriculture ALHB and sirex woodwasp risk models; and the Ontario, Ottawa, and Oshawa EAB management plans that incorporate the CFS-developed biocide TreeAzin
+TM
+to treat infected ash trees.
+Footnote
+50
+The Government of Manitoba’s Forestry Branch changed their sylvicultural practices based, in part, on CFS’ climate change vulnerability assessment and adaptation guidebook.
+Footnote
+51
+The British Columbia Ministry of Forests, Lands, Natural Resources started to change its policies on Seed Zones and movement regulations based on biological production, informed in large part by CCFM work on the Guidebook and Framework.
+Footnote
+52
+Footnote
+53
+Notwithstanding these examples, survey evidence suggests that the sub-program may have less influence in the areas of FIRE and climate change (i.e., CCIA) than in the area of pests (i.e., IPM, FIAS, and IPM and FIAS). For instance, 93% of respondent in the areas of FIAS-only and IPM-only, and 91% of respondents in the area of IPM and FIAS, reported that CFS knowledge, tools, and advice are at least somewhat important to perceived improvements in the management of forest disturbances; whereas 79% and 75% of respondents in the area of FIRE and CCIA, respectively, reported this to be the case.
+The survey specifically asked respondents to identify the extent to which CFS outputs have improved their abilities in a variety of areas (using a scale of 1 to 5, where 5 means a great deal, and 1 means not at all). Table 3 identifies the percentage of respondents from each project area that indicated CFS products at least somewhat improved their ability in these areas (i.e., scores of 4 or 5 on the 5-point scale). As this illustrates, respondents in the areas of climate change or FIRE consistently have the lowest proportion of respondents indicating that CFS products and advice have improved their ability to manage forest disturbances.
+Table 3: Percentage of Respondents Reporting CFS Products Improved Their Abilities in Key Areas, by Project Area
+Key Area
+Project Area
+IPM
+FIAS
+IPM AND FIAS
+CCIA
+FIRE
+Monitor and detect risks, vulnerabilities and opportunities stemming from forest disturbances
+69%
+80%
+75%
+43%
+48%
+Assess risks, vulnerabilities and opportunities stemming from forest disturbances
+73%
+75%
+75%
+74%
+60%
+Respond to risks, vulnerabilities and opportunities stemming from forest disturbances
+62%
+75%
+70%
+44%
+52%
+Develop policies, programs, regulations, and practices to identify and/or respond to threats stemming from forest disturbances
+58%
+87%
+69%
+45%
+51%
+Although the survey was not able to identify why fewer respondents from some project areas indicated CFS products have improved their ability in these key areas (monitoring, assessing, and responding to risks; developing polices, programs, regulations, and practices), interview feedback offers some possible reasons to explain the relatively modest influence in the areas of CCIA and FIRE, where the percentage of survey respondents was sometimes lower (as per Table 3 above). In particular, interviewees reported that budget constraints have hindered CFS’ ability to conduct long-term research to inform fire management operational needs. For CCIA on the other hand, respondents explained that climate change research and technology development is complex and the impacts of climate change and adaptation measures at the jurisdictional/local level and associated costs are not well understood.
+4.1.4 Ultimate Outcome: Threats to public safety, infrastructure, property, the forest resource, and associated costs due to forest disturbances are mitigated across Canada – Not Demonstrated
+Based on the evidence available at the time of the evaluation, it was not possible, within the scope of the current evaluation, to assess the effectiveness of measures taken to mitigate against threats to public safety, infrastructure, property, the forest resource, and costs associated with forest disturbances. However, there is some evidence of contribution towards this impact. For example, survey respondents who perceive that the management of forest disturbances in their region has improved to some degree, believe that this improvement has reduced threats to forest resources (76%), public safety (67%), property (63%), and infrastructure (59%). Survey respondents also saw CFS’s contribution, through the provision of scientific knowledge, tools, advice, or collaboration, as at least somewhat important to reducing the threats and associated costs in these same areas; specifically, forest resources (79%), public safety (68%), property (62%), and infrastructure (56%).
+4.2 Efficiency and Economy – Partially Demonstrated Action Required
+Summary of Findings:
+The evaluation found that although the sub-program identifies stakeholder needs through discussions and conferences and other fora, these needs are more often identified through mostly informal, ad hoc, one-off requests for support from stakeholders. There are also instances in which the research and networking being conducted by CFS researchers may also identify gaps or opportunities about which stakeholders may not yet be aware. Still, the evaluation found the sub-program was effective at reaching and engaging relevant stakeholders when identifying stakeholder needs.
+Although the sub-program was generally considered to be responding to the needs of stakeholders, some potential opportunities to better meet their needs or fill some gaps not currently being addressed were identified. These include improving alignment between CFS priorities and the specific needs of different regions, increasing CFS resources or research and/or conducting research in specific areas (e.g., FIRE), enhancing collaboration among stakeholders in key areas (particularly pests and climate change), and improving or updating key datasets and decision support tools.
+To ensure effectiveness, efficiency and economy, the sub-program needs to balance the potential tension between responding to specific client requests with the need for its researchers to also be able to support long-term, more strategic research that sometimes raises awareness of impending problems and may generate direct requests from other organizations or jurisdictions. At the time of the evaluation there was some confusion related to how the sub-program made decisions related to research priorities. There was also concern raised by stakeholders about the capacity of the sub-program for succession planning and the ability to recruit the necessary expertise to address attrition.
+In addition, the evaluation confirmed the sub-program is producing numerous, high-quality outputs; however, there is no strategy in place for consistently and systematically monitoring and reporting on performance. This makes it difficult for the sub-program to determine the extent to which planned outputs are produced, monitor and report on progress toward intended outcomes, and correct course as necessary to improve program delivery.
+A key strength of the sub-program is its high level of collaboration with other organizations. This reduces duplication of effort, facilitates the sharing of financial and intellectual resources, and facilitates the dissemination and uptake of outputs. Through these collaborations, the sub-program has been found to be leveraging both financial and in-kind resources. While the evaluation found the sub-program to, for the most part, be partnering with the right groups, it also identified a potential opportunity for CFS to revisit whether it is partnering with the most appropriate groups to ensure the most effective, efficient and economic production of outputs and contribution to intended outcomes.
+Identifying and Responding to Stakeholder Needs
+In some cases, the sub-program identifies the needs of stakeholders through discussions at conferences or other fora
+Footnote
+54
+, or through consultations conducted by CFS senior management for strategic planning purposes
+Footnote
+55
+. However, the evaluation found that the primary way in which stakeholder needs are identified involves ad hoc, mostly informal
+Footnote
+56
+, one-off requests for support from stakeholders to solve a specific problem, or interpret CFS fire information/data for wildfire emergency planning or response. In some cases, these requests are formalized through memberships or agreements where funding/ resources are shared between CFS and the partner (e.g., with CFIA
+Footnote
+57
+, CIFFC, Western Partnership for Wildland Fire Science, etc.).
+The case studies further identified that the research and networking being conducted by CFS researchers may identify potential gaps or opportunities about which stakeholders may or may not be aware or concerned. For example, the Rotstop case study showed that the potential for a biological control to combat the pathogen that causes root rot in Canada was identified by a CFS researcher and led to CFS conducting efficacy trials, developing the insecticide and registering it for use in Canada.
+For the most part, target audiences responded through the survey that the CFS is effective at ensuring target audiences are reached and engaged in discussions to identify forest sector stakeholder needs, with only five percent (5%) of survey respondents indicating they had not been successful at communicating their needs to CFS. Eighty-five percent (85%) of respondents indicated they had been at least somewhat successful in communicating their needs to CFS.
+Although most case studies concluded that the identification of stakeholder needs was effective, the need for more work in this regard was identified for two areas: (1) CWFIS, where not all target audiences had been identified; and (2) EAB, where municipalities (a key end-user group) and academia (a key research collaborator group), expressed the desire to be more involved in identifying needs and gaps in this area of research for the forest sector.
+Similarly, case study evidence suggests that CFS project activities, products and advice meet the needs of target audiences, with two exceptions: (1) Rotstop, where the case study identified a need for additional research by CFS on application criteria (e.g., temperature thresholds); and (2) the NFPS RA case study, which identified a need for better knowledge of, and cost-benefit data on, the socio-economic and ecological impacts of pests and management response options to improve the pest risk analyses themselves
+Footnote
+58
+.
+Nevertheless, 97% of survey respondents identified that CFS products and advice had either partially met (49%), fully met (42%), or exceeded (6%) their needs. Although the needs of stakeholders were often at least partially met across all project areas
+Footnote
+59
+, the proportion of survey respondents who considered their needs to be fully met or exceeded varied across project areas as follows: 71% in the area of FIAS; 52% in IPM and FIAS; 51% in CCIA; 47% in IPM; and 43% in FIRE.
+When asked in the survey how CFS could better meet their needs, the following areas for improvement were identified:
+Improved alignment between CFS priorities and specific needs of regional or provincial/ territorial agencies and industry (22% of survey respondents). This suggestion was expressed by provincial/territorial respondents in each project area, except FIAS-only.
+Conduct of research by CFS in specific areas (20%), particularly in the area of FIRE (e.g., updating/enhancing fire decision support tools such as the CFFDRS, including addressing missing fuel types for the Canadian forest fire behavior prediction (FBP) system), as well as the CCIA and IPM and FIAS project areas (e.g., basic biology and management for pests other than MPB and SBW).
+Enhanced collaboration among stakeholders (16%), particularly in the areas of IPM and FIAS, and CCIA.
+Improved access to datasets/outputs and improved data management (16%) across all project areas (e.g., improved access to datasets related to IPM and FIRE, modernize data infrastructure in the area of FIRE, better informing users of updated methods in the area of FIAS, better integration of knowledge and data across different forest disturbance areas).
+Increased CFS resources or research (11%), primarily from respondents in the area of FIRE. While a few comments from the survey suggest CFS fire researchers are first class, several comments identify a perception that CFS does not have the resources required to conduct the research necessary to maintain, update and support fire decision support tools that are relied upon by provinces/territories and OGDs to sustain an effective FIRE research program.
+Updated data and decision support tools (6%), particularly in the area of FIRE (e.g., invigorating the CFFDRS and updating its sub-systems).
+Project and Resource Decision-Making
+Despite the sub-program’s reported ability to identify and respond to the needs of stakeholders, the evaluation revealed a potential tension between to the need to align CFS projects to respond to short-term, specific client-funded requests, and the need to support long-term, more strategic research in the national interest that may be unsolicited and attract no external funding. Although responding to specific client-funded requests provides access to research funds the sub-program would not otherwise have and ensures direct relevance to the needs of users, it risks relinquishing control of the research agenda and losing sight of the need for nationally-focused research related to forest disturbances that serve the overall public good due to the limited number of available CFS resources and researchers available to do the work. Focusing primarily on specific client-funded requests could limit the nationally-focused research being conducted by the sub-program even though this nationally-focused research sometimes raises awareness of impending problems and generates direct requests from organizations or jurisdictions so that they might prepare to address or mitigate against them.
+Some internal and external stakeholders are not aware of how decisions are made regarding CFS research project priorities or activities, possibly leading to confusion and frustration, and the perception of a misalignment between CFS priorities and needs among some stakeholders. Although sub-program management is aware of this potential tension, noting that they actively try to find an appropriate balance, a couple of case studies and some survey feedback highlighted that some internal and external stakeholders are concerned that CFS may be focusing too much on short-term responsive research, particularly in the areas of FIRE and pests.
+Specific to human resources, the evaluation identified that the sub-program could improve its capacity for succession planning and the ability of the sub-program to recruit the necessary expertise to address attrition (e.g., retirements) in all project areas. This might also assist the sub-program in ensuring it has the capacity to keep pace with user needs and demands, particularly related to different systems and models. For example, rapid growth in its user-base and increased external dependencies on its services (e.g., by CIFFC, PSC, smoke forecasting system models) have made it difficult for CWFIS to keep pace with user needs and demands, and to be able to define its objectives and scope in the process.
+Performance Measurement
+Although the evaluation found that the sub-program is producing numerous, high-quality outputs, case studies revealed that the production of outputs was not always being systematically monitored by the sub-program. Research plans, strategies, and planned deliverables were available in several instances; however, the monitoring and reporting of research progress or deliverables was inconsistent.
+This is consistent with findings from a 2013 NRCan internal audit of the management of NRCan laboratories that included detailed analysis of two CFS centres – the Pacific Forestry Centre and the Northern Forestry Centre. This audit determined that there was “…no evidence of a consistent approach or evidence of a comprehensive PM [performance measurement] framework for laboratory activities.”
+Footnote
+60
+The absence of a strategy for systematically monitoring and reporting on program performance makes it difficult to determine the extent to which planned outputs are being produced and progress is being made towards intended outcomes. This also limits the ability of the sub-program to course correct as necessary to improve program delivery.
+Collaboration with Stakeholders
+The evaluation revealed a high level of collaboration between CFS and other organizations, which the case studies show limits duplication of effort, and facilitates the sharing of financial and intellectual resources as well as the dissemination and uptake of outputs.
+In addition, the analysis of sub-program financial data demonstrates that the sub-program is leveraging financial and in-kind resources through its collaborations with stakeholders. The case studies for instance, provided evidence that the sub-program is leveraging both financial and in-kind resources through the CCFM, Healthy Forest Partnership Early Intervention pilot project (i.e., the Atlantic Canada Opportunities Agency (ACOA) SBW EIS initiative), and SERG-International (a partnership in forest pest management research).
+The evaluation found the CCFM, CWFIS, and Healthy Forest Partnership to be particularly appropriate vehicles to carry out shared priority activities. For example, the case studies illustrated the CCFM working/technical group was the best forum through which to develop the pest risk analyses and climate change vulnerability assessment. Participation in this working/technical group enabled CFS to centrally coordinate the necessary resources and expertise across jurisdictions, and leverage resources to develop common tools so that different provinces/jurisdictions could also benefit from these without having to start from scratch.
+Most case studies conducted for this evaluation found that the CFS is partnering with the right groups to carry out their work and maximize their capacity to deliver key outputs and contribute to the intended outcomes of the sub-program. However, the survey found that only 55% of respondents agree that CFS is partnering with the right groups to provide the needed scientific knowledge, tools and advice on forest disturbances. The proportion of survey respondents that agree that CFS is partnering with the right groups varies considerably across project areas. In particular, respondents from the IPM-only project area were least likely to agree with this (only 37%), and respondents from the FIAS-only project area were most likely to agree (72%).  In each of the other project areas, slightly more than half of respondents agreed this was the case (IPM and FIAS (56%); CCIA (56%); and FIRE (55%)). While it is not clear whether these results suggest CFS is partnering with some of the wrong groups or not partnering with all of the right groups, they could indicate that there is an opportunity for the CFS to identify the most appropriate groups with whom they should partner to most effectively, efficiently and economically produce its outputs and make progress towards achieving its intended outcomes.
+5.0 Conclusions and Recommendations
+5.1 Conclusions
+The Forest Disturbances Science and Applications sub-program responds to an ongoing need for scientific knowledge, tools, and advice. This knowledge, tools, and advice is needed to help stakeholders assess and respond to the risks associated with forest disturbances related to pests, fire, and climate change. The sub-program also responds to an identified need for collaboration among forest sector stakeholders in order to leverage resources, expertise and information. The evaluation found a legitimate and appropriate role for NRCan, through this sub-program, to respond to these needs. It also confirmed that the sub-program aligns with NRCan strategic outcomes and Government of Canada priorities.
+In terms of effectiveness, the evaluation demonstrated that the sub-program is making progress towards achieving its intended immediate outcomes. It also showed progress towards the intended intermediate outcome; however the extent to which the sub-program is contributing to it could not be fully assessed. Although the intended ultimate outcome could not be assessed at the time of the evaluation, a review of the results chain confirms that the sub-program is reasonably expected to contribute to this outcome.
+There was also evidence that the sub-program employs practices that facilitate the efficient and economic production of outputs and achievement of, or contribution to, intended outcomes. In particular, there is a high level of collaboration, creation of common tools across jurisdictions, and leveraging of financial and in-kind resources from external stakeholders. The sub-program also has processes it uses to identify the needs of stakeholders and is generally thought to be responding to these needs. Nevertheless, the evaluation identified a couple of opportunities for improvement in this regard, including: ensuring all appropriate target audiences are identified and engaged in the various project areas; improving alignment between CFS priorities and the specific needs of different regions; increasing CFS resources or research in specific areas (e.g., FIRE); enhancing collaboration among stakeholders (particularly in the areas of pests and climate change); and improving or updating key datasets and decision support tools.
+However, the primary way in which stakeholder needs are identified is based on ad hoc, client-specific requests. This introduces a risk that the sub-program will focus its priorities primarily on addressing client-specific requests, which are generally funded (or co-funded) by the client, rather than also prioritizing long-term, more strategic research because it does not have the resources to always do both. Related to this, stakeholders were sometimes confused as to how the sub-program made decisions when setting research priorities. Stakeholders also raised concerns about the capacity for the sub-program in terms of succession planning and the ability to recruit the necessary expertise to address gaps resulting from attrition.
+Although the evaluation confirmed the sub-program is producing numerous, high-quality outputs, it identified that there is no strategy in place to systematically monitor and report on performance. As a result, the sub-program lacks a strategy that would assist them in determining the extent to which planned outputs are produced and progress is being made towards achieving its intended outcomes. It also limits the sub-program’s ability to identify when course correction might be needed and take action as necessary to do so.
+5.2 Recommendations
+Recommendation 1
+: CFS should develop and implement a client engagement and communication strategy that identifies or confirms target audiences for all project areas and for key products/outputs (e.g., for pests activities/solutions). This engagement and communication strategy should include formal processes for identifying stakeholder needs, and communicating how CFS research priorities are being set and decisions are being made in all project areas, as well as an approach to communicating emerging trends and disseminating products about which target audiences are not yet aware.
+Recommendation 2
+: CFS should develop and implement specific research strategies that address both client-driven research requirements to meet stakeholder needs and the need for national-level, more strategic research in each of the project areas. These strategies should include the target audiences (as identified in the client engagement and communication strategy, see recommendation 1). Where applicable, they should also include plans for ensuring key datasets/systems or decision support tools are maintained and as up-to-date as possible (e.g., decision support tools in the area of FIRE).
+Recommendation 3
+: CFS should develop a human resources strategy to ensure there is sufficient capacity to address both client-driven research requirements and national-level, more strategic research. It should also include succession planning to identify strategies to recruit the necessary expertise to address capacity gaps due to attrition.
+Recommendation 4
+: CFS should develop and implement a systematic performance monitoring and reporting framework or strategy to enable ongoing monitoring and reporting related to: the production of outputs; progress towards outcome achievement; and leveraging of financial and in-kind resources. It should include a strategy for ongoing monitoring that would facilitate the ability to correct course, if necessary, to ensure the effective, efficient and economic delivery of the program.
+5.3 Management Responses and Action Plans
+Recommendation 1
+: CFS should develop and implement a client engagement and communication strategy that identifies or confirms target audiences for all project areas and for key products/outputs (e.g., for pests activities/solutions). This engagement and communication strategy should include formal processes for identifying stakeholder needs, and communicating how CFS research priorities are being set and decisions are being made in all project areas, as well as an approach to communicating emerging trends and disseminating products about which target audiences are not yet aware.
+Management Response
+Responsible Manager,
+Division, Branch
+Target Date
+Agreed.
+Beginning in 2016-17, CFS undertook a major review of its science portfolio. CFS senior managers convened
+interviews with over 140 senior executives from more than 80 organizations across Canada, including academia, provincial and federal government agencies, research institutions and NGOs. These conversations resulted in a reorganization of the CFS science portfolio and creation of seven Programs. Under the new portfolio, the work of the Forest Disturbances sub-program is now reflected within 3 separate Programs – Fire, Pests and Climate Change.
+Each Program is co-creating national 10-year research agendas in collaboration with target stakeholders and collaborators. Central to this process is the integration of science through sustained, ongoing engagement of science funders, providers and users. Developing these research agendas will include dynamic mechanisms for setting and communicating collective priorities. The agendas will identify actions to facilitate access to science outputs and information about emerging trends for target audiences in all project areas and for key products/outputs.
+Ongoing stakeholder consultation and engagement, tailored to each Program, will be integral to the implementation and governance of these new national agendas.
+DG – AFC (Pests), NoFC (Fire), PFC (Climate Change) /CFS
+June 30, 2018
+Recommendation 2
+: CFS should develop and implement specific research strategies that address both client-driven research requirements to meet stakeholder needs and the need for national-level, more strategic research in each of the project areas. These strategies should include the target audiences (as identified in the client engagement and communication strategy, see recommendation 1). Where applicable, they should also include plans for ensuring key datasets/systems or decision support tools are maintained and as up-to-date as possible (e.g., decision support tools in the area of FIRE).
+Management Response
+Responsible Manager,
+Division, Branch
+Target Date
+Agreed.
+Beginning in 2016-17, CFS undertook a major review of its science portfolio. These conversations resulted in a reorganization of the CFS science portfolio and creation of seven Programs. Under the new portfolio, the work of the Forest Disturbances sub-program is now reflected within 3 separate Programs – Fire, Pests and Climate Change.
+Each Program is co-creating national 10-year research agendas in collaboration with target stakeholders and collaborators. Central to this process is the integration of science through sustained, ongoing engagement of science funders, providers and users. Developing these research agendas collectively will allow CFS to identify and address national, strategic research priorities but also to recognize more specific regional, client-driven research needs in each of the project areas. Development of the national agendas will include strategies for the smart deployment and maintenance of research infrastructure and assets, including, where applicable, datasets/systems or decision support tools.
+In terms of engagement with provinces and territories, CFS work under Climate Change continues to be informed by the National Forest Sinks Committee and the Forest Adaptation Working Group, both of which have provincial and territorial representation. For Pests and Fire, CFS work continues to be guided by strategic directions under the Canadian Council of Forest Ministers. This includes the National Forest Pest Strategy, and the Canadian Wildland Fire Strategy, which was renewed in 2016.
+DG – AFC (Pests), NoFC (Fire), PFC (Climate Change) /CFS
+March 31, 2018
+Recommendation 3
+: CFS should develop a human resources strategy to ensure there is sufficient capacity to address both client-driven research requirements and national-level, more strategic research. It should also include succession planning to identify strategies to recruit the necessary expertise to address capacity gaps due to attrition.
+Management
+Response
+Responsible
+Manager,
+Division, Branch
+Target Date
+Agreed.
+Starting in 2016-17, the work of the Forest Disturbances sub-program is reflected within 3 separate Programs – Fire, Pests and Climate Change.
+Development of the new CFS Programs has included demographic analyses of CFS' workforce and the distribution across its portfolio of work to support succession planning and strategic recruitment decisions. Results will be used to identify forest science capacity that will be needed or realigned to deliver on strategic priority areas and client-driven research requirements over the next 10 years. CFS will leverage talent management activities to attract and retain employees in vulnerable capacity areas and will establish effective knowledge transfer and retention strategies in view of pending retirements and capacity gaps due to attrition.
+Co-developing 10-year science agendas with external research partners (see recommendations 1 and 2) will also provide an opportunity to leverage capacity in vulnerable areas and allow for a smart deployment of existing resources to address collective priorities, both at the national and regional levels.
+CFS is developing a repeatable process by which to assess internal and external science capacity, and is currently working on making the process more efficient through the piloting of new analytics tools. This will facilitate ongoing assessments of expertise needs and inform recruitment actions.
+DG – AFC (Pests), NoFC (Fire), PFC (Climate Change) /CFS
+March 31, 2018
+Recommendation 4
+: CFS should develop and implement a systematic performance monitoring and reporting framework or strategy to enable ongoing monitoring and reporting related to: the production of outputs; progress towards outcome achievement; and leveraging of financial and in-kind resources. It should include a strategy for ongoing monitoring that would facilitate the ability to correct course, if necessary, to ensure the effective, efficient and economic delivery of the program.
+Management Response
+Responsible Manager,
+Division, Branch
+Target Date
+Agreed.
+CFS is updating its online planning system (ProMIS) to include performance reporting.
+CFS has used the annual Departmental Performance Report process to collect data on its performance, and with the introduction of the government-wide Results Framework, is developing Performance Information Profiles (PIPs) for each of its new Programs. The PIPs will have even more detailed information on spending and personnel over time. The PIP includes a new logic model for each Program area as well as a comprehensive set of performance and efficiency indicators. Indicators are being developed for each Program output and outcome. Their description includes performance targets and thresholds, data source, data type, data collection frequency (e.g. annual, bi-annual), and methodology. Program secretariats will be responsible for performance monitoring and annual reporting to management to inform adjustments that ensure the effective, efficient and economic delivery of the Programs.
+DG – AFC (Pests), NoFC (Fire), PFC (Climate Change) /CFS
+March 31, 2019
+Appendix 1:  Results Chain for the Forest Disturbances Science and Applications Sub-program
+Logic Model Outcomes
+Results Expectations
+Assumptions, Causal Linkages and Factors
+Immediate outcomes
+Forest sector players are using CFS outputs to monitor and detect, assess, and respond to the risks, vulnerabilities and opportunities stemming from forest disturbances
+CFS determines a need among forest sector players (Clients are asking CFS for science-based tools to assess and respond to  forest disturbances; there is a lack of knowledge, tools, methods, strategies, best practices, and policies to monitor and detect, assess and respond to forest disturbances)
+The sub-program has effective mechanisms in place to identify the right target audiences and their respective needs
+The right target audiences are reached and are willing to engage in CFS needs assessment/research agenda
+Stakeholder needs are identified
+Research priorities aligned with needs are set and projects selected
+The needs, and the problems they address, are sufficiently understood by the sub-program to result in investment in the appropriate science to produce the appropriate outputs
+The sub-program has effective governance and research project selection processes in place to set an effective research agenda
+Identified research priorities are aligned with NRCan strategic objectives, federal government priorities and role of CFS
+CFS conducts research and analysis, develops and manages national databases and risk mapping, and provides policy advice
+The sub-program is sufficiently resourced (both financial and human resource expertise) to conduct the research necessary to produce the products that meet the needs of its target audience
+The sub-program has effective management and accountability mechanisms in place to ensure effective conduct of research activities across research centres/ project areas
+The sub-program is partnering with the right groups (and not with wrong groups) and leveraging resources from them to optimize the achievement of results
+CFS Produces the outputs (knowledge, tools, methods, strategies, best practices, input to policy and policy advice)
+Research leads to the production  of planned outputs
+Sub-program is adequately resourced to provide outputs as planned
+Target audiences use the CFS research products and advice
+The sub-program is disseminating outputs adequately
+The scientific information and analysis produced by the sub-program is considered authoritative on the subject matter and scientifically sound
+Target audiences are aware of and understand how to use the products
+Products meet the needs of the target audiences/are satisfactory
+Sub-program has effective feedback mechanisms to know they are meeting the needs of their stakeholders/ working on the ‘right’ things
+Stakeholders are willing and able to use the products
+Stakeholders are using CFS outputs to monitor and detect, assess, and respond to the risks, vulnerabilities and opportunities stemming from forest disturbances
+Forest sector players work collaboratively nationally and internationally to address emerging disturbance issues related to Canada’s forest resources.
+Forest sector players  communicate/meet to share information/ tools/best practices,  coordinate investments in S&T on forest disturbances, and to coordinate response strategies
+Shared understanding among stakeholders of needs and approach to finding solutions and able and willing to collaborate
+CFS has appropriate representation at forums where collaboration occurs
+Stakeholders are collaborating
+Creation of joint work plans, national strategies, international agreements, collaborative agreements, reports from stakeholder groups about disturbance conditions, sharing data, information, ideas
+Stakeholders able and willing to address emerging forest  disturbances issues collaboratively
+Stakeholders use CFS outputs and policy advice to develop joint agreements/initiatives to manage forest disturbances
+Intermediate outcomes
+Forest disturbances are managed more effectively in Canada though improved [and coordinated] policies, practices and regulations
+Forest sector players develop and implement policies, practices and regulations based on CFS produced science and advice
+Policies, practices and regulations based on CFS produced science and advice get developed and implemented
+Stakeholders able and willing to implement policies, practices and regulations
+Policies, practices and regulations are coordinated among jurisdictions and industry to maximize effectiveness and efficiency
+Stakeholders able and willing to coordinate efforts to manage forest disturbances
+Appropriate forums exist for coordination to occur
+Policies, practices and regulations are coordinated
+Ultimate outcome
+Threats to public safety, infrastructure, property, the forest resource and associated costs due to forest disturbances are mitigated across Canada
+Threats of forest disturbances are identified early and responded to in a way that minimizes their negative impacts and costs
+Policies, practices and regulations to identify and respond to threats are implemented
+The implemented  policies, practices and regulations are effective
+Damage to homes and infrastructure has been minimized, risks to people reduced, loss of forest supply to industry reduced, access to international markets maintained (or at least not stopped because of risk of transferring pests). Costs of controlling and mitigating forest disturbances minimized due to coordinated and science-based approach.
+Actions implemented to identify and respond to threats reduces the impact of forest disturbances
+The necessary supporting factors are in place to allow for effective management of forest disturbances (e.g., environmental, political, economic  contexts)
+Footnotes
+Footnote 1
+This evaluation was started under the purview of the 2009 Treasury Board
+Policy on Evaluation
+, which has since been rescinded and replaced with the 2016
+Policy on Results
+. The
+Policy on Results
+does not have the same requirements for all evaluations to assess the relevance and performance (i.e., effectiveness, efficiency and economy) of programs that was required under the 2009
+Policy on Evaluation
+.
+Return to footnote
+1
+referrer
+Footnote 2
+The five CFS research centres are: Atlantic Forestry Centre (AFC), which is co-located in New Brunswick and Newfoundland and Labrador; Great Lakes Forestry Centre (GLFC) in Ontario; Laurentian Forestry Centre (LFC) in Quebec; Northern Forestry Centre (NoFC) in Alberta; and Pacific Forestry Centre (PFC) in British Columbia.
+Return to footnote
+2
+referrer
+Footnote 3
+This evaluation was started under the purview of the 2009 Treasury Board
+Policy on Evaluation
+, which has since been rescinded and replaced with the 2016
+Policy on Results
+. The
+Policy on Results
+does not have the same requirements for all evaluations to assess the relevance and performance (i.e., effectiveness, efficiency and economy) of programs that was required under the 2009
+Policy on Evaluation
+.
+Return to footnote
+3
+referrer
+Footnote 4
+Natural Resources Canada (NRCan). (2016).
+The state of Canada’s forests – Annual report 2016,
+p. 5. Retrieved  from
+http://cfs.nrcan.gc.ca/pubwarehouse/pdfs/37265.pdf
+Return to footnote
+4
+referrer
+Footnote 5
+Ibid, p. 4.
+Return to footnote
+5
+referrer
+Footnote 6
+Nova Scotia has 5.3 million hectares of land. Source: Nova Scotia Canada.
+Crown land in Nova Scotia
+. Retrieved from
+http://novascotia.ca/natr/land/
+Return to footnote
+6
+referrer
+Footnote 7
+NRCan. (2015).
+The state of Canada’s forests – Annual report 2015
+, p. 5. Retrieved from
+http://cfs.nrcan.gc.ca/pubwarehouse/pdfs/36553.pdf
+Return to footnote
+7
+referrer
+Footnote 8
+Canadian Council of Forest Ministers (CCFM). (2017).
+Sustainable forest management in Canada
+. Retrieved from
+http://www.sfmcanada.org/en/canada-s-forests/forest-dynamics
+; NRCan.
+Fires, insects and disturbances
+. Retrieved from
+http://www.nrcan.gc.ca/forests/fire-insects-disturbances/17598
+; Wallis Snowden. Canadian Broadcasting Corporation (CBC). (July 7, 2016), “Fort McMurray wildfire costliest insured disaster in Canadian history” from
+CBC News Edmonton
+. Retrieved from
+http://www.cbc.ca/news/canada/edmonton/fort-mcmurray-wildfire-costliest-insured-disaster-in-canadian-history-at-nearly-3-6b-1.3668602
+; Lavallée, R. (2015). Tang, J.; Peter, B. (2015). “Economic analysis of forest insect pests in Canada” in
+The Canadian Entomologist
+00: pp. 1–10.
+Return to footnote
+8
+referrer
+Footnote 9
+Program documentation.
+Return to footnote
+9
+referrer
+Footnote 10
+The five CFS research centres are: Atlantic Forestry Centre (AFC), which is co-located in New Brunswick and Newfoundland and Labrador; Great Lakes Forestry Centre (GLFC) in Ontario; Laurentian Forestry Centre (LFC) in Quebec; Northern Forestry Centre (NoFC) in Alberta; and Pacific Forestry Centre (PFC) in British Columbia.
+Return to footnote
+10
+referrer
+Footnote 11
+Canadian Forest Service (CFS).
+Integrated Business Plan, 2013-14
+, p. 21.
+Return to footnote
+11
+referrer
+Footnote 12
+The CFFDRS “is a national system for rating the risk of forest fires in Canada”. Source: NRCan.
+Canadian Wildland Fire Information System
+. Retrieved from
+http://cwfis.cfs.nrcan.gc.ca/background/summary/fdr
+Return to footnote
+12
+referrer
+Footnote 13
+The CWFIS “creates daily fire weather and fire behaviour maps year-round and hot spot maps throughout the forest fire season, generally between May and September”. Source: NRCan.
+Canadian Wildland Fire Information System
+. Retrieved from
+http://cwfis.cfs.nrcan.gc.ca/home
+Return to footnote
+13
+referrer
+Footnote 14
+The case studies were: Emerald Ash Borer (EAB case study); Mountain Pine Beetle (MPB case study); Spruce Budworm Early Intervention Strategy (SBW EIS case study); Rotstop-C® (Rotstop case study); CCFM Climate Change Vulnerability and Adaptation Assessment Framework and Implementation Guidebook and associated reports (CCFM CC case study); Canadian Wildland Fire Information System (CWFIS case study); The National Forest Pest Strategy Risk Analysis Framework (NFPS RA case study) ; Tools and Methodologies for Improved Survey and Early Detection of Invasive Alien Forest Insects (Tools case study).
+Return to footnote
+14
+referrer
+Footnote 15
+de Groot, W.J., Flannigan, M.D., Cantin, A.S. (2013). “Climate change impacts on future boreal fire regimes” in
+Forest Ecology and Management,
+294:35-44. Retrieved from
+http://cfs.nrcan.gc.ca/publications?id=34618
+Return to footnote
+15
+referrer
+Footnote 16
+NRCan. (2014).
+The state of Canada’s forests annual report 2014
+, p. 25. Retrieved from
+http://cfs.nrcan.gc.ca/pubwarehouse/pdfs/35713.pdf
+Return to footnote
+16
+referrer
+Footnote 17
+NRCan. (2016).
+The state of Canada’s forests annual report 2016.
+Retrieved from
+http://cfs.nrcan.gc.ca/pubwarehouse/pdfs/37265.pdf
+Return to footnote
+17
+referrer
+Footnote 18
+NRCan. (2014).
+The state of Canada’s forests annual report 2014
+. Retrieved from
+http://cfs.nrcan.gc.ca/pubwarehouse/pdfs/35713.pdf
+Return to footnote
+18
+referrer
+Footnote 19
+Various sources including: NRCan. (2014).
+The state of Canada’s forests annual report 2014
+, p. 25. Retrieved from
+http://cfs.nrcan.gc.ca/pubwarehouse/pdfs/35713.pdf
+; NRCan. (2016).
+The state of Canada’s forests annual report 2016
+, pp. 4, 26. Retrieved from
+http://cfs.nrcan.gc.ca/pubwarehouse/pdfs/37265.pdf
+; CCFM Wildland Fire Management Working Group (WFMWG). (2016(.
+Canadian wildland fire strategy: A 10-year review and renewed call to action
+; Western Centre for Wildland Fire Science.
+2010-2015 strategic plan
+. Retrieved from
+https://sites.ualberta.ca/~wcwfs/Documents/WCWFS%20Strategic%20Plan.pdf
+; etc.
+Return to footnote
+19
+referrer
+Footnote 20
+NRCan. (2015).
+Report on Plans and Priorities – 2014-15
+. Retrieved from
+http://www.nrcan.gc.ca/plans-performance-reports/rpp/2014-15/15441
+Return to footnote
+20
+referrer
+Footnote 21
+Ibid.
+Return to footnote
+21
+referrer
+Footnote 22
+Prime Minister of Canada. (November 2015).
+Minister of Natural Resources mandate letter
+. Retrieved from
+http://pm.gc.ca/eng/minister-natural-resources-mandate-letter
+Return to footnote
+22
+referrer
+Footnote 23
+Environment and Climate Change Canada (ECCC). (2016).
+Federal sustainable development strategy for Canada 2016-2019
+. Retrieved from
+http://fsds-sfdd.ca/downloads/3130%20-%20Federal%20Sustainable%20Development%20Strategy%202016-2019_.pdf
+Return to footnote
+23
+referrer
+Footnote 24
+Environment Canada (EC). (2013).
+Planning for a sustainable future: A federal sustainable development strategy for Canada 2013–2016
+. Retrieved from
+http://www.ec.gc.ca/dd-sd/default.asp?lang=en&n=CD4179F6-1
+and ECCC. (2016).
+Federal sustainable development strategy for Canada 2016-2019
+. Retrieved from
+http://fsds-sfdd.ca/downloads/3130%20-%20Federal%20Sustainable%20Development%20Strategy%202016-2019_.pdf
+Return to footnote
+24
+referrer
+Footnote 25
+CFS.
+Fire research annual report 2012-2013
+, p. 12.
+Return to footnote
+25
+referrer
+Footnote 26
+The CCFM is a forum where the 14 federal, provincial, and territorial governments discuss and work cooperatively on common forest and forestry-related issues of Canadian and international concern.  Source: CCFM website, accessed at
+http://www.ccfm.org/english/aboutus.asp
+Return to footnote
+26
+referrer
+Footnote 27
+Various sources including: CCFM. (2008).
+A vision for Canada’s forests: 2008 and beyond
+.; CCFM. (2007). “National forest pest strategy” from
+Ministers’ meeting—11 September 2007
+; CCFM WFMWG. (2016).
+Canadian wildland fire strategy, a 10-year review and renewed call to action
+.
+Return to footnote
+27
+referrer
+Footnote 28
+NRCan. (2014).
+The state of Canada’s forests annual report 2014
+. Retrieved from
+https://cfs.nrcan.gc.ca/publications/download-pdf/35713
+Return to footnote
+28
+referrer
+Footnote 29
+Department of Justice Canada.
+Department of Natural Resources Act
+S.C.1994, c.41
+, pp. 2-3. Retrieved from
+http://laws-lois.justice.gc.ca/eng/acts/N-20.8/
+Return to footnote
+29
+referrer
+Footnote 30
+Department of Justice Canada.
+Forestry Act, R.S.C., 1985, c. F-30
+, pp.1-2. Retrieved from
+http://laws-lois.justice.gc.ca/eng/acts/F-30/
+Return to footnote
+30
+referrer
+Footnote 31
+Department of Justice Canada.
+Emergency Management Act
+S.C. 2007, c. 15
+. Retrieved from
+http://laws-lois.justice.gc.ca/eng/acts/E-4.56/
+Return to footnote
+31
+referrer
+Footnote 32
+Ibid.
+Return to footnote
+32
+referrer
+Footnote 33
+NRCan.
+Strategic emergency management plan 2013-15
+, pp. 1, 34.
+Return to footnote
+33
+referrer
+Footnote 34
+Ibid, pp. 3, 16.
+Return to footnote
+34
+referrer
+Footnote 35
+Science-Metrix. (February 2016).
+Scientific output of Natural Resources Canada in selected areas of research – Bibliometric framework and analysis (2006-2014)
+.
+Return to footnote
+35
+referrer
+Footnote 36
+Ibid.
+Return to footnote
+36
+referrer
+Footnote 37
+Collaborating partners include NRCan and the provinces of British Columbia, Alberta, Saskatchewan, Manitoba, and Ontario.
+Return to footnote
+37
+referrer
+Footnote 38
+Lavellée, R. (2015).
+Évaluation stratégique 2010-2015 – Étude de cas: EAB.
+Return to footnote
+38
+referrer
+Footnote 39
+Becoming a licensed pesticide technician is reportedly time intensive and requires written course work and exams on all pesticides.
+Return to footnote
+39
+referrer
+Footnote 40
+For example: CFS, NRCan. Fire Research Annual Reports, 2010 to 2014; NRCan CFS website; various program briefings to senior management; CFIA’s 2013-14 Department Performance Report.
+Return to footnote
+40
+referrer
+Footnote 41
+Rotstop case study.
+Return to footnote
+41
+referrer
+Footnote 42
+NFPS RA and CCFM CC case studies.
+Return to footnote
+42
+referrer
+Footnote 43
+Partners include Atlantic Canada Opportunities Agency (ACOA), New Brunswick Department of Natural Resources (NB DNR), FPL Ltd., University of New Brunswick, University of Guelph, Carleton University, the CFS, Canadian Economic Development for Quebec Resions (CED-Q), Fornabu, JDI, AV Group, Acadian Timber. (Source: SBW EIS case study).
+Return to footnote
+43
+referrer
+Footnote 44
+CFS participates on boards, working groups, community of practice meetings, joint national work planning and supporting the development of international agreements in relation to resource planning/assistance and research needs.
+Return to footnote
+44
+referrer
+Footnote 45
+The Climate Change Adaptation Platform brings together governments, the private sector and other stakeholders to share knowledge and tools and to identify risks and opportunities for climate change adaptation for regions and resource sectors (Source: NRCan.
+Report on plans and priorities 2013-14
+. Retrieved from
+http://www.nrcan.gc.ca/sites/nrcan/files/reportsplanspriorities/files/en.pdf
+)
+Return to footnote
+45
+referrer
+Footnote 46
+Science-Metrix. (February 2016).
+Scientific output of Natural Resources Canada in selected areas of research – Bibliometric framework and analysis (2006-2014)
+, p. 94.
+Return to footnote
+46
+referrer
+Footnote 47
+The exceptions being the NFPS RA case study and the CCFM CC case study which both identified a need for more involvement of economists to better understand the costs of impacts and the cost/benefits around response strategies; and for social scientists or experts in human behaviour in the CCFM CC case study to address the behavioral aspect to forest management in developing the guidebook, which may have improved the ease of uptake.
+Return to footnote
+47
+referrer
+Footnote 48
+The SBW EIS case study.
+Return to footnote
+48
+referrer
+Footnote 49
+MPB case study.
+Return to footnote
+49
+referrer
+Footnote 50
+EAB and Tools case studies.
+Return to footnote
+50
+referrer
+Footnote 51
+CCFM CC case study.
+Return to footnote
+51
+referrer
+Footnote 52
+CFS played a significant role in producing the CCFM Guidebook and Framework.
+Return to footnote
+52
+referrer
+Footnote 53
+CCFM CC case study.
+Return to footnote
+53
+referrer
+Footnote 54
+Examples of conferences or discussion fora include: Wildland Fire Canada Conference; Forest Pest Management Forum; and Climate Change Adaptation Platform.
+Return to footnote
+54
+referrer
+Footnote 55
+Examples of consultations conducted by CFS senior management include: CFS Associate Deputy Minister’s (ADM) 2015 spring consultations with key stakeholders across the country, and CFS Regional office DG bilateral discussions with provincial counterparts in their regions.
+Return to footnote
+55
+referrer
+Footnote 56
+For example, the CCFM Forest Pest Working Group (FPWG). (Source: Hodge, J. (2014).
+CCFM Forest Pest Working Group (FPWG) science and technology forest pest research needs and Priorities across Canada
+.)
+Return to footnote
+56
+referrer
+Footnote 57
+Through a formal MOU with the CFIA, processes are in place (e.g., CFIA Plant Research Steering Committee, pest-specific scientific advisory committees; embedded co-located staff) that enable CFS to identify CFIA needs for CFS science and technology that directly supports its operational requirements to enforce policies related to the import and export of Canadian forestry products, and to prevent the introduction and spread of regulated pests into and within Canada. (Source: NRCan – CFS and the CFIA. (2015-2016).
+Advancing NRCan-CFS and CFIA Collaboration on Issues of Forest Health Protection and Market Access. A Comprehensive Report on NRCan-CFS and CFIA Collaborative Work
+).
+Return to footnote
+57
+referrer
+Footnote 58
+This need has been identified by the CCFM FPWG and a study to synthesize best practices for socio-economic assessments for forest pests for the purposes of conducting risk analysis, among other things, has been incorporated as a new priority in the working groups’ 2014-2019 five year strategic plan.
+Return to footnote
+58
+referrer
+Footnote 59
+Proportion of respondents reporting their needs were only partially met for each project area were: FIRE, 54%; IPM, 47%; IPM and FIAS, 46%; CCIA, 46%; and FIAS, 29%.
+Return to footnote
+59
+referrer
+Footnote 60
+NRCan. (2013).
+Audit of management of laboratories (AU1414)
+. Retrieved from
+http://www.nrcan.gc.ca/audit/reports/2013/14468
+Return to footnote
+60
+referrer
+Report a problem on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2019-02-01

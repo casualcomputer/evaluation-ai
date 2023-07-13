@@ -1,0 +1,506 @@
+Joint Audit and Evaluation (Assessment) of  NRCan’s Departmental Governance
+Presented to the Departmental Audit Committee (DAC)
+April 8, 2021
+Table of Contents
+Executive Summary
+Introduction
+Background and Context
+Objectives and Scope
+Considerations
+Approach and Methodology
+Limitation and Mitigation Measures
+Lines of Enquiry and Assessment Questions
+Findings and Recommendations
+Governance Structure
+Governance Operating Model
+Governance Culture
+Appendix A – Current Governance Map
+Appendix B – Assessment Criteria
+Appendix C – Logic Model and Risk Map
+Executive Summary
+Natural Resources Canada (NRCan) works to improve the quality of life of all Canadians by ensuring that the country’s natural resources are developed sustainably, providing a source of jobs, prosperity and opportunity, while preserving the environment and respecting communities and Indigenous peoples.  The scope of the Department’s activities includes natural resources, energy, minerals and metals, forests, and earth sciences – all of which cover more than 30 Acts of Parliament
+Footnote
+1
+. The Department also operates with a wide array of stakeholders both domestically and internationally, across areas of shared responsibility on matters related to the environment, public safety, economic development, science and technology and Indigenous relations. Issues of natural resources are high-profile, increasingly horizontal in scope and have important linkages to sustainability, prosperity and economic development.
+The Department’s governance arrangements are key to managing this complex mandate and responding effectively to ever-changing priorities, while maintaining a high degree of public trust and stakeholder confidence.  The Department’s governance structure is composed of a set of Deputy Minister (DM), Assistant Deputy Minister (ADM), Director General (DG) and Director-level Committees that are in place to direct and oversee the organization. Governance arrangements are more than the sum total of a Department’s Committee structure; they also include the operating model (including the suite of structures, processes, information flows, etc.) and culture that enable senior leaders, who hold fiduciary duties, to:
+Set strategy on policy, programs, investments and new directions;
+Oversee the prudent and value-added expenditure and stewardship of taxpayers’ dollars in support of results and service to Canadians;
+Monitor the achievement of results and the risks to which they are exposed; and,
+Ensure accountability and transparency.
+When governance is working as intended, departmental responsiveness is heightened and emerging risks and opportunities are proactively identified, managed and, where appropriate, exploited to realize results. Ultimately, strong departmental governance provides the Deputy Minister (DM) with critical support, advice and insight to inform decision-making and to strategically position the Department for excellence and results. Although the expected results of good governance are varied, so too are the risks. Inherently, organizations like NRCan are exposed to risks related to the clarity of roles, responsibilities and authorities; challenges around flowing the right information to the right bodies at the right time; risks related to the human side of governance, including knowledge, culture and capacity; and many more.
+In recognition of the importance, complexity and risks associated with governance, in 2019, the Audit and Evaluation Branch (AEB), initiated a joint audit and evaluation of the Department’s governance structure (hereafter referred to as “the assessment”) as part of the 2019-2024 Integrated Audit and Evaluation Plan. The Office of Primary Interest for this assessment is the ADM of Strategic Policy and Innovation (SPI). The office of secondary interest is the ADM of Corporate Management and Services Sector (CMSS). Although these sectors play an important role in the support and enablement of governance structures, it is important to note that governance is a shared responsibility, vested in all senior leadership and Committee members.
+The assessment’s overall objective was to examine and provide reasonable assurance that relevant departmental governance arrangements (including structures, processes and culture) are in place and working effectively, to enable NRCan to achieve its mandate and deliver on strategic departmental priorities.
+Strengths
+This assessment found that NRCan has in place some good foundations to support strong departmental governance. Governance structures are defined and generally provide coverage of the core business of the Department. Some good examples exist of Committees that are managed with discipline and robust protocols and that provide strong models for widespread application across the Department.
+The Department’s governance culture is generally not characterized by group-think or excessive deference, is supported by individual commitment to debate and is open to differences of opinion, which may be reflective of the Department’s science-based nature. Leaders are committed to their fiduciary duties and to the underlying mission of the Department. In these ways, there is a good foundation for a healthy governance culture. Senior leadership – particularly at the Deputy and Associate Deputy Ministerial level – is committed to continuous improvement and renewal of governance. Most notable in this regard are the recent efforts to streamline the governance arrangements and to enhance the degree of scrutiny of key departmental decisions.
+Areas for Improvement
+At the same time, the assessment found that a number of risks to which the Department’s governance arrangements are exposed are, in fact, materializing, leading to challenges and negative outcomes. These include the following challenges:
+The Department’s Committee structure is overly complex. The structure is characterized by a large number of Committees that have “mushroomed” over the years with little regard to their impacts on, or inter-connections to, the existing Committees and structure. This creates an additional oversight burden for busy Committee members, which is not seen as being offset by the value derived.
+The Department’s governance operating model – comprised of policies, procedures, protocols and other expectations, typically administered by a corporate secretariat function – is lacking. Forward planning, clear and well-aligned mandates with explicit linkages to Department’s business and appropriate flows of Committee inputs and outputs are a few examples of weaknesses identified. Committee effectiveness, efficiency and member engagement can all be strengthened by addressing these issues.
+While the assessment found a commitment to open dialogue and debate on the part of many leaders, the assessment found that a more integrated and engaged culture is needed to foster a “whole of NRCan” perspective, which is important to address complex, inter-connected problems and questions.
+Ultimately, these risks and factors contribute to a governance system that is not serving the Department well. It is noteworthy that many of the needed improvements, noted above, have already begun to be implemented – the most important of which is the streamlining of the governance structure that began in December 2020. In addition to providing these recommendations, AEB is working with SPI and CMSS to leverage lessons learned from this assessment and to provide advice on the new measures that are being proposed to confirm that they address underlying risks and opportunities identified in this assessment.
+Assessment Conclusion and Opinion
+The assessment found that there is an enduring need for good departmental governance to support the stewardship of public funds and the effective management of risk and results. However, in my opinion, NRCan’s governance arrangements are not sufficiently effective or efficient and are not providing the necessary value or relevant support to departmental oversight and decision-making. Important gaps exist structurally, functionally and culturally. Senior leaders’ concerted action is needed to remedy these issues and fully realize value for the Department.
+I would like to emphasize the strong efforts that have been made already to address the observations and recommendations put forward in this report, as part of the department’s commitment to continuous improvement in relation to its governance arrangements.
+Statement of Conformance
+In my professional judgement as Chief Audit and Evaluation Executive, the engagement conforms with the Institute of Internal Auditors' International Standards for the
+Professional Practice of Internal Auditing
+, the Government of Canada’s
+Policy on Internal Audit
+and the
+Policy on Results
+, and Canadian Evaluation Society Standards as supported by the results of the Quality Assurance and Improvement Program.
+Michel Gould, MBA, CPA, CIA
+Chief Audit and Evaluation Executive
+April 8, 2021
+Acknowledgements
+The engagement team would like to thank those individuals who contributed to this engagement and, particularly employees who provided insights and comments as part of this assessment.
+Introduction
+Background and Context
+Natural Resources Canada (NRCan) works to improve the quality of life of Canadians by ensuring that the country’s natural resources are developed sustainably, providing a source of jobs, prosperity and opportunity, while preserving the environment and respecting communities and Indigenous peoples. The scope of the Department’s activities includes natural resources, energy, minerals and metals, forests, and earth sciences – all of which cover more than
+30 Acts of Parliament
+Footnote
+1
+. The Department also operates with a wide array of stakeholders both domestically and internationally, across areas of shared responsibility on matters related to the environment, public safety, economic development, science and technology and Indigenous relations. Issues of natural resources are high-profile, increasingly horizontal in scope and have important linkages to sustainability, prosperity and economic development.
+The Department’s governance arrangements
+Footnote
+2
+are key to managing this complex mandate and responding effectively to the ever-changing priorities it faces, all while maintaining a high degree of public trust and stakeholder confidence. Governance arrangements are more than the sum total of a Department’s Committee structures; they also include the operating model (including the suite of structures, processes, information flows, etc.) and culture that enable senior leaders, who hold fiduciary duties, to:
+Set strategy on policy, programs, investments and new directions;
+Oversee the prudent and value-added expenditure and stewardship of taxpayers’ dollars in support of results and service to Canadians;
+Monitor the achievement of results and the risks to which they are exposed; and,
+Ensure accountability and transparency.
+Governance is essential to the successful functioning of all public entities and is especially important in complex Departments like NRCan. Good governance does not just happen, and it is not an end in itself. Efficient Committee structures, enabled by consistent protocols and processes and supported by a strong culture, are all critical elements that need to exist and work together to realize value and results for the Department. When governance is working as intended, departmental responsiveness is heightened and emerging risks and opportunities are proactively identified, managed and where appropriate, exploited to realize results. Ultimately, strong corporate governance provides the Deputy Minister (DM) with critical support, advice and insight to inform decision-making and to strategically position the Department for excellence and results, while maintaining a high degree of public trust and stakeholder confidence.
+Although the expected results of good governance are varied, so too are the risks. Inherently, organizations like NRCan are exposed to risks related to clarity of roles, responsibilities and authorities; challenges around flowing the right information to the right bodies at the right time; risks related to the human side of governance, including knowledge, culture and capacity; and many more.
+In recognition of the importance, complexity and risks associated with corporate governance, in 2019, the Audit and Evaluation Branch (AEB), NRCan initiated a joint audit and evaluation of the Department’s governance structure (hereafter referred to as “the assessment”) as part of the 2019-2024 Integrated Audit and Evaluation Plan.
+The Office of Primary Interest for this assessment is the Assistant Deputy Minister (ADM) of Strategic Policy and Innovation (SPI), selected because of the Sector’s role in fostering horizontal integration and planning across the Department. The office of secondary interest is the Assistant Deputy Minister of Corporate Management and Services Sector (CMSS), which also plays a critical role in fostering operational governance across the Department. Although these Sectors play an important role in the support and enablement of governance structures, it is important to note that governance is a shared responsibility, vested in all senior leadership and Committee members.
+Previous audits conducted in this area identified departmental governance as an important risk to departmental objectives. As such, this engagement built on the findings from these previous assessments.
+Objectives and Scope
+The assessment’s overall objective was to examine and provide reasonable assurance that relevant departmental governance arrangements (including structures, processes and culture) are in place and working effectively, to enable NRCan to achieve its mandate and deliver on strategic Departmental priorities.
+The assessment timeframe includes the period of August 2017 to December 2020 and includes the governance changes made on October 9, 2019. The assessment was Department-wide, but focused on enterprise, not sectoral or programmatic governance structures. Inter-departmental and inter-governmental governance were excluded from scope. While lower level (Director General [DG]-level) Committees were examined and many DGs consulted, the primary focus of the assessment was on Committees with a Department-wide mandate.
+Considerations
+A risk- and results-based approach was used to establish the objectives, scope, and approach for this assessment. Interviews and documentation review were used to identify the expected results and outcomes associated with governance, which were documented in a logic model that was developed by the engagement team, in consultation with management. This logic model is provided in Appendix C. Risks to these outcomes were then identified, assessed and documented in the logic model and can be summarized as follows:
+Structure and alignment of the Committees, including the possibility that their roles, responsibilities and authorities will not be aligned (i.e., the potential for overlap and duplication), sufficiently comprehensive, or clear in support of the Department’s mandate and key priorities;
+Nature of due diligence that is applied, including the possibility that there will be insufficient or inappropriate oversight of financial, human resources, IT, policy or other areas that support departmental operations; and,
+Effectiveness and efficiency of the governance arrangements, including those related to the administration of the Committees, the information that is provided to and used by them, the nature of internal communications and the knowledge, expertise, culture and behaviours of those who contribute to the Department’s governance.
+Approach and Methodology
+The AEB used a blend of audit and evaluation techniques to conduct this assessment, adhering to the Institute of Internal Auditors’ International Standards for the
+Professional Practice of Internal Auditing
+(IIA Standards), the Treasury Board (TB)
+Policy on Internal Audit
+, the TB
+Policy on Results
+and Canadian Evaluation Society evaluation standards. As a joint audit and evaluation project, the methodologies used allowed for the assessment of both internal controls and the achievement of outcomes and was designed to obtain reasonable assurance that engagement objectives are achieved.
+The assessment was conducted against objective criteria, provided in Appendix B, that were derived from authoritative sources and reflect the key controls that ought to be in place to mitigate risk, as well as the expected results of departmental governance. The risks and outcomes that were used to derive these criteria are outlined in the Logic Model and Risk Map, provided in Appendix C.
+The assessment included a range of analytical approaches, including the review of documentation and records related to governance, including a sample of material from meetings and Committee terms of reference; interviews with departmental leaders; as well as case study approaches and comparative analysis of governance structures found in other science-based departments. The following table summarizes the participants in management positions that were included in interviews, throughout the course of this engagement.
+Deputy Minister (DM) /
+Associate DM
+Assistant Deputy Minister (ADM)
+Director General / Senior Directors
+Directors
+2
+9
+23
+4
+Limitation and Mitigation Measures
+As the Department had not developed its own logic model or expected results for governance, the assessment team developed the logic model based on best practice and departmental input.
+The onset of COVID-19, at the beginning of the conduct phase of this assessment required an adjustment to the assessment approaches. Of note, a planned survey and focus groups with senior leaders were replaced with bilateral interviews that were more feasible to conduct.
+One of the main focus areas of the assessment was on the governance culture of the Department, which addressed the Department’s values and norms in relation to governance. Although an assessment of values was conducted in this specific scope, the assessment did not constitute a full assessment of values and ethics against the standards outlined in the
+Values and Ethics Code for the Public Sector
+.
+Finally, in the course of the assessment, a number of important changes were introduced, including new departmental leadership in 2020 that continued to pursue the renewal of the governance structure. In relation to the latter change, as noted above, the preliminary results of this assessment were used to provide management with insight and support as they re-designed the governance arrangements. The AEB will continue to support the sectors with subject matter support as needed.
+Lines of Enquiry and Assessment Questions
+Please refer to Appendix B for the engagement’s lines of enquiry (LoEs), which include criteria that address key audit and evaluation questions relevant to the adequacy and effectiveness of controls as well as effectiveness, efficiency and relevance. The LoEs and key audit/evaluation questions, formed the basis for the overall conclusion and opinion.
+Findings and recommendations
+Governance Structure
+The Department’s governance structure is composed of a set of Committees that are in place to aid in the monitoring and mitigation of risks; to inform planning and priority setting; and to support and oversee decisions related to public policy and the allocation of resources. Together these Committees directly support the Department in delivering on its mandate. Governance Committees – whether advisory or decision-making in their focus – should work together under the direction of the Chairs and ultimately the DM, to exercise a constructive challenge function and to inform decision-making. These Committees are intended to add value to the organization by providing forums for the most important and relevant deliberations and decisions related to the Department’s mandate.
+The assessment sought to determine whether the governance structures were designed efficiently and effectively to enable direction, priority-setting and oversight over key departmental functions, and whether they were operating as intended.
+Summary Finding
+Structure
+While a well-functioning governance structure is highly relevant to effective oversight of public spending, operations and results achievement, NRCan’s current structure is excessively complex and creates an oversight burden that is not commensurate with the value generated by the Committees.
+Good governance continues to be essential to NRCan’s effective operations. As a publicly funded entity, NRCan needs to ensure prudence, probity, and effective control over the spending of public funds, the management of risks and results achievement. However, the assessment found that the sheer complexity of the Department’s governance structure undermines both its relevancy and effectiveness.
+At the time of this assessment, there were approximately eighteen (18) Tier 1 and Tier 2 governance Committees and over fourteen Tier 3 governance Committees
+Footnote
+3
+. In addition to these Committees, the assessment identified additional Committees not formally included in the governance structure. Although the assessment only focused on the departmental level Committees, the actual number is considerably larger than the map provided in Appendix A, indicating a level of complexity that is even greater than that observed by the assessment. The sheer number of Committees underscores the complexity of NRCan’s governance structure which may undermine the efficient and effective functioning of governance within NRCan (further discussed later in this report).
+Interviews with NRCan leaders identified the tendency to create new Committees (including “tiger teams” or ad hoc Committees) to address unmet needs. These Committees tend not to be disbanded once their purpose was met; as a result, they continue to operate without a general understanding of how each integrates within the formal governance structure. The DG Issues Committee and the Departmental Workforce Adjustment Committee are some examples.
+Text version
+Comparator review
+The tendency towards the mushrooming of governance committees was also found in several departments examined as part of the comparative review. At least two departments have put in place controls to limit the creation of new committees.
+The comparator review further underscored the complexity of NRCan’s governance structure, as few other departments had such complex arrangements in place. NRCan consultations with other similar science-based departments and agencies (SBDAs) indicated that the governance structures reflect the Department’s hierarchical, complex organizational structure, which includes strong and independent sectors that were seen to work against an integrative, enterprise, “whole of NRCan” approach to governance – a topic which is further discussed below under
+Governance Culture
+.
+Summary Finding
+Scope and Coverage
+Although the current Committee structures generally cover the key areas of the Department’s business, some important business functions do not have a governance body through which deliberations can take place. In particular, governance for integrated, horizontal matters is lacking in key areas.
+The assessment found that the current structure provides coverage of many important operational and departmental management activities, providing fora where issues on policy, science, transfer payments and other important business can be brought for review, deliberation and scrutiny. However, governance structures were not in evidence for some important functions, notably:
+Integrated, corporate resource planning and management;
+Integrated oversight of security, including physical, personnel and cyber security;
+The horizontal coordination and oversight of the Department’s Indigenous priorities; and,
+The consideration of Regional matters at the national level.
+Although ExComm was utilized as the principal forum for horizontal deliberations, the absence of governance to support integrated, horizontal strategic priority-setting and considerations of resources (human resources (HR), finances, information technology (IT), security etc.), means that the Department is not optimally positioned to oversee, understand and make informed decisions on priorities and resource allocation. Governance mechanisms that support difficult decisions and the integrated scrutiny of priorities, resource usage and results are critical, particularly if public resources become constrained and fiscal pressures increase.
+The assessment found that although Policy and Science Integration Committee’s (PSIC) mandate is focused on policy and science integration, in practice, deliberations of this nature were not regularly taking place. Although considered an effective body to support the recent medium-term planning exercise, most interviewees expressed concern that the Committee was not realizing its full value in the integration of science and policy because when focusing on information sharing. There is an opportunity for the Committee to better inform governance and decision-making through increased challenge, deliberation and oversight activities.
+In relation to integrated security oversight, the Department currently lacks an oversight body to deliberate and oversee the ever-changing and increasingly inter-connected security threats to which NRCan is exposed. The assessment team identified the DG Security, Emergency Management and Intelligence Committee (DGSEMIC) and found that, although it focused on physical security, matters of cyber security were not within the Committee’s scope. Rather, the assessment found that cyber security matters were discussed periodically at Information Management and Technology Committee (IMTC) and the Business Transformation Committee (BTC). However, the lack of inclusion of cyber security in the mandate of DGSEMIC results in the absence of integrated oversight of all key security risks. As part of the recent restructuring and streamlining of the governance Committees, conducted concurrent to this review, matters of integrated security oversight will now be addressed through the ADM Operations Committee. This will be important to ensure a dedicated and integrated forum to allow for the escalation, sharing, deliberation and response to the full range of security threats and risks.
+Text version
+Comparator review
+There are notable trends in other federal departments and agencies towards strengthening their approach to integrated resource management, strategic policy and horizontal coordination.
+Equally important is the need for horizontal governance to coordinate and engage on Indigenous matters.  The Indigenous Affairs and Reconciliation Sector (IARS), a relatively small sector, is tasked with representing NRCan on cross-cutting Indigenous priorities across government. To assist them in discharging this important role, horizontal departmental governance on matters of Indigenous-related priorities (e.g., duty to consult, assessment of the impact of departmental actions on treaty rights, etc.) is critical.
+Text version
+Emerging practices
+Many of those consulted noted that the move to a virtual work environment under COVID-19 provided an opportunity to engage regions more effectively.
+The Indigenous Priorities and Engagement Committee (IPEC) was recently formed in September 2020 to provide more effective oversight, coordination and support to the Department’s reconciliation, outreach and accommodation efforts.  Work to further streamline the Department’s governance structure should take into consideration the need to continue to keep a high degree of horizontal integration and attention on Indigenous matters, in order to further foster cultural change among NRCan’s management team.
+Finally, the assessment found that although there was some Regional representation on a number of national Committees, the Department did not have a regularized or systematic approach to ensuring Regional perspectives are adequately reflected in national governance. Regional perspectives, lessons and other insights can add value to nationally-led discussions on policy, programs or resource allocation.  Indeed, the move to a virtual operation as a result of COVID-19 has introduced many new important opportunities to better engage Regional voices in the national departmental structures.
+Risk and Impact
+There is considerable opportunity to enhance the efficiency, effectiveness and value-added of the Department’s governance system. Streamlining the structures and reducing complexity will result in a better use of scarce resources and will reduce disincentives for the active participation of busy members. At the same time, the creation of fora for integrated and horizontal oversight will enable more horizontal, whole-of-NRCan oversight. Taken together, these opportunities will strengthen the Department’s ability to ensure strategic directions are well-informed and debated, risks are managed appropriately, resources are used effectively and responsibly, and ultimately objectives are achieved.
+Recommendations
+1
+It is recommended that the Assistant Deputy Minister, Strategic Policy and Innovation, in collaboration with the Assistant Deputy Minister, Corporate Management & Services Sector design a simplified departmental governance structure for approval by the Deputy Minister and implementation by all of senior management. The structure should be focused on a limited number of core Committees essential to informing strategic policy development, strategic decisions and the management of risks and resources in relation to the Department’s mandate and priorities. The new structure should ensure that all important perspectives related to the Department’s mandate and regulatory/policy requirements are reflected in the Committees’ composition – especially those related to all facets of security, including cyber security, Indigenous matters and NRCan’s Regions.
+Management Response and Action Plan
+Management agrees with Recommendation #1.
+Deputy Minister's approval was obtained in December 2020 to renew NRCan’s governance structure. The new structure provides a simplified but comprehensive corporate governance structure, with a limited number of targeted Committees. Chairs and Co-Chairs have been identified, and membership established with Regional representation where relevant. Clear mandates, roles and responsibilities and linkages between Committees have also been identified in the Terms of Reference for each Committee. Together, the new core governance structure captures key perspectives related to the Department’s mandate and regulatory/policy requirements, including for consideration of key lenses such as Indigenous interests and obligations, diversity & inclusion, security and Regional perspectives.
+Completed renewal of the core governance structure is anticipated to be finalized by the end of March 2021.
+Position Responsible:
+Director General (DG), Planning, Results and Delivery (PDR), Strategic Policy and Innovation (SPI), in consultation with Executive Director, Planning and Operations Branch, Corporate Management & Services Sector (CMSS) and Deputy Minister's Office.
+Timing:
+March 2021.
+Governance Operating Model
+Complementing and supporting the governance structures are the methods, protocols, processes and interfaces through which governance is enabled. Collectively, this suite of practices forms the Department’s governance operating model, providing the mechanisms by which governance is implemented.
+In determining the adequacy, effectiveness and relevance of this operating model, we expected to find well-defined and consistently applied governance practices and controls that enable senior leaders and the Committees they participate in, to discharge their governance responsibilities. This includes the expectation that roles, responsibilities, inter-relationships and authorities of governance bodies be clearly and appropriately defined and communicated to all Committee members. The assessment also sought to determine whether well-functioning and robust processes to support effective, disciplined and value-added Committee operations were in place, to enable meaningful and relevant deliberations at the senior levels of management. The key process-related expectations included:
+Committee deliberations that are informed by timely, relevant and comprehensive inputs to better enable senior management to make informed decisions;
+Clear processes and channels of upwards, downwards and horizontal communication exist to inform employees, stakeholders and other implicated Committees on relevant decisions and/or actions taken;
+Defined and effective processes and controls exist to enable Committees to operate efficiently, effectively and transparently; and,
+NRCan has mechanisms in place to ensure that Committee Chairs, Co-chairs and members adhere to the Government of Canada official language requirements.
+Summary Finding
+Clarity of Roles, Responsibilities and Authorities
+Although most Committees are duly constituted with a formal Terms of Reference (ToR), in practice, the precise roles, focus and responsibilities of the Committees are unclear, resulting in uncertain expectations among members and an unclear value contribution to the mandate of the Department.
+The assessment examined all ToRs for the Tier 1 and Tier 2 Committees and noted that most had duly constituted mandate documents. Despite this, interviews with Committee members indicated a lack of clarity on Committees’ roles, responsibilities or raison d'être from a governance standpoint.
+Text version
+Emerging practices
+Some committees – particularly those with clear, often transactional mandates – are well managed and considered to add value (e.g., TPRc, IMTC, BTC, S&T Board).
+Although some Committees were noted as adding value because of their clear, transaction-oriented mandates, most Committees were identified as primarily information-sharing and advisory in nature, with weak or unclear links to matters of departmental priorities or governance.  In other words, the meetings were not considered to be relevant nor were they seen to be adding value to decision-makers. Rather, concerns were raised that Committees existed for their own sake, rather than to specifically enable governance over core departmental business.
+Summary Finding
+Governance Administration and Meeting Management
+Consistent and robust governance-related processes and protocols are needed to support the Committees’ effective and efficient operation and to foster relevant, meaningful discussions.
+Another key element of the governance operating model is the set of processes that allow for efficient and effective administration and meeting management, which enable discipline and efficiency and which support Committee members in being well-prepared for meetings. It is also critical to ensuring that the material provided and deliberated at the Committees is relevant and meaningful, in support of departmental decision-making and oversight. Strong Committee administration is typically characterized by the following, usually administered by a formal secretariat function:
+Setting of clear and predictable goals and objectives for Committees, formally documented in ToRs;
+Establishing, communicating and managing Committee work in accordance with a clear and predictable forward agenda;
+Timely provision of meaningful material in both official languages to inform the deliberations of the Committee members;
+Coordinated movement of topics and issues through the governance structure;
+Efficient access to applicable Committee material, including a governance calendar, agenda and related items; and,
+Monitoring of the Committees’ structures, systems and processes as well as the achievement of the Committees’ priorities and plans, with the goal of continuous improvement.
+The assessment found that agendas were generally prepared and were in line with the ToR of the Committee. ToRs were clear in laying out expectations for the use of official languages in meetings; however, some important gaps in governance administration were found (discussed below), which may reduce compliance with official languages expectations.
+Only a limited number of Committees have a formal secretariat (for instance, Business Transformation Committee
+[BTC], Science and Technology [S&T] Board, Planning and Reporting Committee, PSIC, Performance Measurement, Evaluation, Experimentation Committee [PMEEC] and the Departmental Audit Committee [DAC]).
+For other Committees, important functions like the preparation and communication of records of decision were lacking in those Committees that were not supported by a secretariat.  Similarly, while substantive information was provided as background material for many meetings, the agenda and meeting material (which require translation) are often distributed too late to allow for adequate pre-meeting reflection. This limits members’ ability to prepare for and actively participate in strategic discussions and may restrict members’ ability to operate in their language of choice.
+Given that agendas and material generally arrive late, last minute decisions are being made on attendance, as some members wait to see the agenda to determine if the meeting is worth their attendance. Finally, few Committees have plans or forward agendas to guide their work which, if present, could provide predictability and Committee discipline. The S&T Board had policy implementation plans, placemats, and action plans which were the closest the assessment could find to a plan and forward agenda.
+A high degree of delegation and absenteeism was observed from the documentation reviewed and was also raised frequently in the interviews. This was largely attributable to conflicting schedules, excessive meetings, many of which were seen to be overly focused on information sharing and therefore less valuable from a governance and decision-making perspective. Attendees at some meetings (e.g., PSIC) can be excessive in number, as members typically bring additional staff and colleagues which can limit the ability to engage effectively and candidly.
+Gaps were also noted in post-meeting processes. Specifically, there appears to be limited post-meeting communication of Committee material, discussions and outcomes (including to members of lower-level Committees and Regions). Communication is often dependent on the individual ADMs and DGs to carry the messages and decisions-taken forward, which increases the risk associated with unclear or inconsistent messages and the risk that decisions taken are not effectively or consistently guiding lower level follow up and actions. As well, there was limited evidence that directions provided, or decisions taken, at meetings are monitored to ensure follow through (e.g., in the form of an action register). Finally, most Committees do not have formal mechanisms for soliciting member feedback nor do they regularly assess Committee performance and results.
+More broadly, members who were consulted indicated an interest in broader understanding of the work of the Committees and linkages between Committees. A central governance repository was suggested as being valuable, where information can be found in relation to each Committee, such as GCDocs, which is used by some Committees like the BTC, as it is recognized as an accepted Government of Canada solution for meeting the legal and policy requirements for information management of electronic and paper documents and records. In addition, many of those consulted recommended a higher-level secretariat function to maintain a corporate governance calendar of meetings and ensure information related to the agenda is widely accessible.
+Risk and Impact
+Although the issues raised in this section can be considered administrative in nature, they are vital to the efficient and effective operations of the Committees, without which, members become disengaged and unable/unwilling to contribute their time and fully participate in Committee work and deliberations. The lack of optimal engagement means that leaders are not fully participating in important questions of oversight and direction-setting, which in turn has a direct bearing on the value that the Committees generate for the Department.
+Given the extensiveness of the Department’s governance Committees, the amount of time members (or delegates) must commit to these meetings and the perception that the meetings are not always adding value to governance and decision-making, there is an increased risk that the governance structures may not be well utilized, which in turn will not serve the Department well nor support the achievement of its objectives.
+Recommendations
+2
+It is recommended that the Assistant Deputy Minister, Strategic Policy and Innovation:
+Implement a central secretariat function to provide strategic oversight, coordination and support to the core governance Committees; and,
+Develop and implement standard operating procedures, guidance, processes and tools for the central secretariat function and the Committee Chairs to support consistent Committee administration and monitoring.
+Management Response and Action Plan
+Management agrees with Recommendation #2.
+A Corporate Governance Secretariat (CGS) has been created and will serve as secretariat for the Strategic Management Committee (SMC). The CGS will also serve as the strategic oversight coordination and support body for the new corporate governance structure. It will monitor and report on the results of committees' activities, including through an annual ''pulse check'' to determine how effectively the new governance structure and processes are functioning. It will liaise with all corporate governance secretariats to facilitate their interconnections and sharing of information with NRCan employees.
+Development and implementation of standard operating procedures, processes, standard templates and guidance documents are underway. The CGS is also establishing an inventory of other existing governance entities in the Department in order to assess their relevance and ensure effective linkages with the existing core corporate governance committees.
+The CGS will report regularly results to SMC to ensure continuous improvements of corporate governance.
+Position Responsible: DG, PDR, SPI.
+Timing:
+by March 2022, to ensure full alignment/integration of other governance entities to the core corporate governance structure.
+Governance Culture
+As noted, the Department’s governance structure and operating model enable the effective and efficient setting of direction and corporate oversight; but, by themselves, they are not sufficient to realize and sustain intended governance outcomes. Enabled by a strong “tone at the top”, the organization’s governance culture (i.e., its norms, preferences, values and behaviours) influence the way in which individuals and groups engage in matters of governance and are, therefore, critical to:
+enable a strong and meaningful challenge function to be exercised by leaders, in relation to directions, operations and the management of results and risks; and,
+support the leaders in the exercise of their fiduciary duties to act in the best long-term interest of the Department as a whole.
+In assessing the Department’s governance culture, we expected to find the Department’s governance arrangements characterized by strong individual and Committee engagement, collegiality and constructive dissent; and a “whole of NRCan” perspective on the part of Committee members that supports broad, integrated and horizontal thinking.
+Summary Finding
+Engagement
+NRCan’s governance culture is characterized by collegiality and a general willingness to engage in debate and offer differing opinions, all of which provides a good foundation for a well-functioning governance culture.  However, because of structural and functional gaps in the governance model, the Department is neither harvesting nor benefitting from these diverse perspectives. As a result, the governance culture is not fully supporting departmental oversight and decision-making.
+Although interviewees felt some Committees were characterized by a certain degree of deference to established positions and directions, most of those consulted indicated that NRCan’s strength is the willingness of its leaders to engage in open debate, while offering differing opinions. Collectively, these characteristics help to guard against group-think, which, if present, can undermine the quality of the challenge function exercised by governance Committees and ultimately decision-making.
+While these qualities are positive, the assessment also found that because of weaknesses found with formal governance practices identified earlier in the report, disincentives are being created for this level of discussion at the governance tables. In turn, this is having a direct impact on the nature of the Department’s governance culture, effectively creating lack of engagement among many Committee members.
+Specific concerns include the following:
+As noted earlier in the report, most Committees are information-sharing bodies and are therefore not utilized to solicit substantive input from members to inform directions or decisions;
+The complexity, lack of efficiency and perceived lack of relevancy, compounded by already heavy workloads, appear to be influencing many members to opt out of certain discussions;
+Because the material is typically not provided in advance, the ability of members to prepare for and then offer their perspectives in a thoughtful fashion is severely limited; and
+The lack of a clear purpose for Committees results in unclear linkages between the business of the Committee and the business of the Department.
+Taken together, these factors are leading to missed opportunities to take advantage of leaders’ openness to contribute and to leverage diverse perspectives to inform decision-making and oversight. It may also work against the needed horizontality that is currently being sought in governance deliberations.
+Summary Finding
+Whole of NRCan Perspective
+Departmental siloes perpetuate a governance culture that is not sufficiently characterized by a “whole of NRCan” perspective.  A strong and consistent tone at the top is needed to address this mindset.
+Good governance requires that the organization’s fiduciaries (in this case, its senior leaders that comprise its governance Committees) set direction and oversee operations to achieve the “best long-term interests” of the entire Department. To do this well, leaders and Committee members must operate with an “all of NRCan” perspective and mindset. When this type of mindset characterizes the governance culture, leaders are better equipped to learn and share lessons that can inform overall directions and oversight, manage in a way that makes efficient and effective use of scarce resources and are better prepared to make difficult trade-offs and choices.
+The assessment found that Committee deliberations reflected siloes within the Department’s organizational structure and general operations. Specifically,
+Given that Committee members are selected based on their Branch affiliation, they tend to come to meetings representing their Sector, engaging only on matters related to their Sectoral business and tend to guard their authority to make decisions in their own right. Although members do have responsibilities to represent the Sectoral perspectives, as members of the Departmental Committees, they also have an obligation to reflect the broad Departmental perspectives and interests.
+Consultations revealed that cross-sectoral implications are rarely examined or entertained, although many noted the benefit and value that can come from horizontal discussions.
+Similarly, the assessment examined regional engagement and found that a number of Regional leaders do participate in different Committees including Information Management Technology Committee, Director General S&T Board, PMEEC and to some extent PSIC. Consultations noted that the Regional voice comes in through Canadian Forest Services, Lands and Minerals Sector, and Energy Technology Sector, as these Sectors are house research centres, labs and satellite stations across Canada. However, as noted earlier in the report, a systematic approach to ensuring Regional perspectives is actively considered in relation to national matters was found to be lacking.
+There appears to be an accepted practice of bilateral debate and decision-making (i.e., between DM and ADM), which limits the degree to which some important items get discussed at Committees where diverse and horizontal perspectives can be brought to bear.
+Text version
+Emerging practices
+Many of those interviewed cited the use of PSIC in supporting the department’s 2020 Medium term planning exercise as a strong model in this regard.
+In order to address the above issues, many committee members identified the need for a common policy narrative for the Department. Although efforts have been made to define this through successive medium term planning exercise, this narrative is not always used as the basis for governance deliberations. A well constructed strategic plan could aid in fostering needed horizontality across Sectors and Regions and to promote an “all of NRCan” mindset.
+Taken together, these factors are having a significant impact on the Department’s governance culture, effectively working against a horizontal, systems-based approach that is needed to address important questions of departmental-wide impact. The effects of this could be significant, in light of the increasingly horizontal and cross-cutting nature of the Department’s business. Moreover, as fiscal and other pressures mount that may require tough choices and trade-off, cross-sectoral perspectives will be needed to address these issues effectively.
+By fostering more horizontality, in both structure and culture, the Department will be in a better position to examine problems and opportunities from a more holistic, integrated fashion and learn and apply lessons from different Sectoral and Regional experiences.
+Perhaps more fundamentally, the basic value of governance to the Department’s mandate needs to be more firmly expressed by senior leaders, in a bid to encourage management to remain committed to and actively engaged in the work of the Committees. This, in combination with a clear value proposition for key Committees and a direct link to the Department’s mandate will strengthen the overall regime.
+This can be further reinforced by more clearly and broadly communicating a cohesive Department-wide narrative that the Committee mandates are anchored on. With the benefit of this, Committee chairs can more easily draw linkages between their Committees and the broader departmental mandate, and exercise discipline in aligning the nature of the discussions at Committee meetings to its service to the Department.
+Text version
+Emerging practices
+During the governance assessment, one example was provided where the Chair called members of the committees to reinforce the importance of the committee work and emphasized the expectation that members attend meetings and actively participate.
+Finally, Committee chairs will need to regularly foster a “whole of NRCan perspective” through their Committee deliberations.  This can be done through appropriate tone, direction and forward planning, whereby clear expectations and objectives of meetings are laid out in relation to the Committee’s deliberations and the whole of Department benefit that is being sought.
+Risk and Impact
+As noted, an open, engaged, constructive and holistically oriented governance culture is critical to foster, support and sustain important elements of good governance, particularly the ability and willingness to:
+provide fearless advice and insights, informed by diverse perspectives;
+identify and examine emerging opportunities and risks from a holistic perspective;
+understand, manage and, where possible, exploit important cross-sectoral implications and advantages;
+take difficult decisions, and,
+ultimately, operate objectively in the long-term, best interest of the Department.
+In this vein, the above-noted findings on culture suggest that these outcomes may be at risk due primarily to the persistence of departmental siloes. Lack of horizontality, coupled with the unintended consequences of an excessively complex, inefficient and unclear governance structure, have led to a significant amount of disengagement of leaders from the governance structures. Although there are cultural strengths that could support meaningful debate and a strong challenge function, more opportunity exists to foster greater, more value-added engagement of leaders in the governance of the Department, aimed at achieving value for NRCan.
+Recommendations
+3
+It is recommended that the Assistant Deputy Minister of Strategic Policy and Innovation lead the development of and, together with all Committee Chairs, implement the following mechanisms needed to ensure strong tone at the top and a mature, cohesive governance culture that provides for:
+a strong value proposition for Committees, anchored on a common, shared long-term vision for the Department and annual Committee plans that align with the Department’s priorities;
+meaningful engagement of Committee members, fostered by the Committee chairs; and,
+a “whole of NRCan” mindset through Committee deliberations.
+Management Response and Action Plan
+Management agrees with Recommendation #3.
+Each corporate governance Committee has developed Terms of Reference with clear mandates, roles, responsibilities, linkages and expected outcomes to support effective and efficient decision-making in the Department, in support of NRCan’s vision, mandate and the achievement of Departmental results. Each Committee is also required to develop an annual plan with clear objectives, a forward agenda and alignment with departmental priorities. These annual plans will be presented to SMC for review and approval.
+Corporate Committees have also clearly defined membership lists, with identified participation requirements by alternates and delegates to focus participation and foster meaningful dialogue. Key governance principles, including expected behaviours, are captured in all Committee Terms of Reference. A Governance Charter is also under development to ensure that a ''whole of NRCan'' mindset is adopted through all Committee deliberations and will be finalized after a pulse check in the Summer of 2021.
+Position Responsible: DG, PDR, SPI.
+Timing:
+September 2021.
+Appendix A – Current Governance Map
+Text version
+NRCan governance committees (DM, DMA, ADM & DG level only)
+Deputy minister/associate deputy minister
+Weekly planning committee
+Executive committee chair : DM
+Chief financial officer
+Real property advisory board (RPAB) RPAB input relayed through the DG to other governance bodies
+Transfer payment review committee (TPRC) ADM level
+Departmental debt write-off committee DG level
+Procurement review board (PRB) DG level
+Occupational health and safety committee (OHS) Regular updates to PCOHS
+Policy and Science integration committee (PSIC) chair : DMA/alternate : SMA SPO
+Economic analysis and data committee chair : DG SPI-SPB
+Director general international affairs committee (DGIAC) chair : DG SPI-EPPB
+Business transformation committee (BTC) chair : DMA/ alternate : CFO/ADM CMSS
+Information Management Technology Committee (IMTC)
+Chair: CMSS CIO / OEE DG
+Science and technology board chair : DM
+DG science and technology board chair : chief science advisor
+Planning and reporting committee (PRC) DG level
+DG Security, emergency management and intelligence committee DG level
+Human resources advisory committee (HRAC) co-chairs : ADM
+CMSS and ADM ETS
+NRCan champions (various)
+Departmental audit committee (DAC) DM level
+Labour management consultation committee chair :DM
+Policy committee on occupational health and safety (PCOHS) various levels
+Executive classification committee recommends/reports to DM
+Performance measurement, evaluation and experimentation committee (PMEEC) Chair : DM
+Operations committee DM/DMA/ADM level
+Portfolio affairs forum (PAF) ADM/DG level members from other portfolio agencies
+New committees
+Energy transition committee chair : DM
+Indigenous advisory committee chair : DMA
+Departmental governance committee chair : DM/DMA/ADM CMSS
+Science and data committee chair ADM SPI/CSA
+International advisory committee chair : L. Métivier
+Other committees
+NRCan Regional corporate services working group (on hold) DG level
+Departmental workforce adjustment committee (DWAC) (standby mode) reports to DM
+Departmental awards and recognition committee (DARC) chairs : ADM CPS / Director POB
+DM/DMA/ADM membership
+DG membership
+Legend
+SPI supported
+CMSS supported
+Office of the chief scientist supported
+Communications and portfolio sector supported
+Audit and evaluation branch supported
+Appendix B - Assessment Criteria
+The following assessment criteria were used to conduct the assessment. As this was a joint audit and evaluation engagement, the criteria address questions relevant to both audit and evaluation approaches (i.e., key control areas for audit and effectiveness, efficiency and relevance questions for evaluation). The following table summarizes these criteria and how they address the audit and evaluation questions.
+Sub-Objectives
+Criteria
+Key Audit and Evaluation Questions
+Adequacy and effectiveness of controls
+Effectiveness
+Efficiency
+Relevance
+Governance Structures, Oversight & Authority
+Committee structures, enabled by standardized processes, clear responsibilities, enabling culture and defined authorities are in place, are appropriate and relevant to NRCan’s context and are working effectively and efficiently to support comprehensive and meaningful direction on, and oversight of, the Department.
+1.1 Governance Culture
+The Department’s corporate governance culture is characterized by:
+A “whole of NRCan” perspective
+An expectation and a willingness to offer objective advice
+Committee engagement that fosters collegiality and constructive dissent for the benefit of balanced and thorough debate and discussion; and,
+Appropriate level of engagement of leaders in respective Committees
+1.2 Roles, Responsibilities & Authority
+The roles, responsibilities, inter-relationships and authorities of governance bodies are clearly and appropriately defined, communicated to all Committee members.
+1.3
+Committee Scope and Coverage
+The governance Committees are designed efficiently and effectively to enable direction, priority-seeing and oversight over key departmental functions, and operate as intended and to ensure accountability for results.
+Committee Performance
+Departmental governance Committees operate effectively and efficiently in support of the strategic, operational and long-term interests of the Department.
+2.1 Informational Inputs
+The Committees are informed by timely, relevant and comprehensive inputs to better enable senior management to make informed decisions.
+2.2 Internal Communications
+Clear processes and channels of upwards, downwards and horizontal communication exist to inform employees, stakeholders and other implicated Committees on relevant decisions and/or actions taken.
+2.3 Effective Administration
+Defined and effective processes and controls exist to enable Committees to operate efficiently, effectively and transparently.
+2.4 Committee Requirements
+NRCan has mechanisms in place to ensure that Committee Chairs, Co-chairs and members adhere to the Government of Canada official language requirements.
+Appendix C – Logic Model and Risk Map
+ULTIMATE OUTCOMES
+The ultimate change we’re aiming to enable
+Department achieves its results and delivers on its mandate and core responsibilities in support of the sustainability and prosperity of Canada’s natural resources sectors.
+Department is able to innovate and lead with its partners to support the achievement of its vision and mandate.
+High level of public confidence and trust in the Department.
+INTERMEDIATE OUTCOMES
+What will occur over time, as a result of our activities and outputs?
+Governance system is robust and responsive in the provision of advice and support to the Deputy Minister, in support of government priorities.
+Productive and collaborative relationships exist between corporate governance Committees.
+IMMEDIATE OUTCOMES
+What will occur as a direct result of governance-related activities and outputs?
+Enablers are in place to inform decisions and oversight
+Capacity/skills of membership adequate to support governance requirements
+Members of governance Committees clearly understand roles/responsibilities and relationships between governance, operational and policy Committees
+Committee members actively participate in governance meetings
+Committees operate with due regard to economy, efficiency and effectiveness
+Required information is available in a timely way to inform decision-making
+Compliance with requirements including governance procedures
+Effective policy directions and plans are in place, which enable strategy achievement
+Policy directions and plans are implemented
+Internal controls help to detect and prevent negative events and outcomes, reduce impact, and address issues as they arise
+Staff and leadership have a high level of understanding of vision, mission, key priorities and goals
+Department is managed in accordance with due diligence and accountability
+Department’s assets are managed with due regard to effectiveness, efficiency and economy
+Department complies legislation, policy and other requirements
+Senior management is held accountable for behaviour, results, use of resources and for upholding ethical standards
+Reports, proposals and other management products are reliable, address matters of interest and meet the expectations of key stakeholders
+Management, through their actions, exemplifies and adheres to the principles of good governance
+Committees/members operate objectively in the long-term best interest of the Department
+Clear and well-functioning channels of communication with stakeholders on the Department’s mission, roles, objectives and performance
+Governance body members understand their responsibilities and exemplify values of openness, accountability, integrity, trust and innovation, as well as ethical standards
+Positive collaboration and “whole of NRCan” perspectives across the governance framework and organizational units
+Understanding among key stakeholders of shared risks and accountabilities
+Risks:
+R1, R2, R8 R10
+Assessment Criteria
+: 1.1, 1.2, 2.1, 2.3
+Risks
+:  R2, R3, R4, R5, R6, R9
+Assessment Criteria
+: 1.1, 2.1, 2.2, 2.3
+Risks
+:  R2, R3, R4, R5, R6, R9
+Assessment Criteria
+: 1.1, 2.1, 2.3, 2.4
+Risks
+:  R1, R7, R10
+Assessment Criteria
+: 2.2, 2.4
+Outputs
+What governance bodies produce?
+Planning, Supports & Infrastructure
+Formal governance procedures and protocols
+Documented governance framework, including Committees and their linkages and interdependencies
+Documented gates / pathways for access to Committees
+Committees’ terms of reference including membership, roles, responsibilities and authorities of the body and Chairperson
+Strategy and Direction
+Strategic and operational directions and plans are established and communicated
+Framework of internal controls is established
+Emerging issues and risks are understood
+Meaningful consultation and engagement of stakeholders in the policy and decision-making processes
+Oversight
+Identification of strengths and weaknesses in system of governance, risk management, controls and results
+Advice given and decisions made
+Scrutinized and approved plans, budgets and performance reports
+Engagement and Ethical Leadership
+Codes of governance and ethics are in place and published, as well as standards of behaviour for governing decision-making bodies
+Procedures/mechanisms are in place for employees to voice concerns or complaints about maladministration, breaches of the law or ethical concerns
+Engagement and communication protocols and communication channels
+Activities
+What governance bodies do?
+Set and manage agendas for Committee meetings
+Establish standard operating procedures and protocols for governance, including criteria and processes for establishing Committees and selection of members
+Self-reflection and assessment of the effectiveness of the governing body/governance framework
+Scan emerging issues and risks
+Discuss, advise and set directions on human resources, financial, strategic, operational, policy and control-related matters
+Receive and review relevant financial and non-financial information
+Monitor, deliberate on and challenge the progress and results related to human resources, financial, strategic, operational, policy and control-related matters
+Actively support reporting on departmental, program and initiative-related results, as relevant to governance bodies’ objectives
+Communicate and consult with stakeholders
+Develop and communicate standards that define the departmental culture and govern the behavior of everyone within it
+LEGEND
+Risks:
+Assessment Criteria:
+R1
+Governance and Strategic Direction
+- Risks associated with an organization's approach to leadership, decision-making and management capacity:  Clarity and alignment of mandate.
+R6
+Communications -
+Risks associated with an organization's approach and culture of communication, consultation, transparency and information-sharing, both within and outside the organization: Information for oversight.
+1.1 Committee Scope and Coverage
+1.2 Roles, Responsibilities & Authorities
+2.1 Informational Inputs
+2.2 Internal Communications
+2.3 Effective Administration
+2.4 Governance Culture
+R2
+Governance and Strategic Direction
+- Risks associated with an organization's approach to leadership, decision-making and management capacity: Committee effectiveness and efficiency.
+R7
+Values and Ethics
+- Risks associated with an organization's culture and capacity to adhere to the spirit and intent of the Values and Ethics Code for the Public Service: Governance culture.
+R3
+Financial Management -
+Risks associated with the structures and processes of an organization to ensure sound management of financial resources and its compliance with financial management policies and standards: Financial oversight.
+R8
+Business Processes
+- Risks associated with business process design or implementation:  Corporate secretariat functions.
+R4
+Human Resources Management -
+Risks associated with staff/management turnover; employment/work culture; recruitment, retention and staffing processes and practices; succession planning and talent management; and employee development, training and capacity building:  HR Management oversight.
+R9
+Human Resources Management
+- Risks associated with staff/management turnover; employment/work culture; recruitment, retention and staffing processes and practices; succession planning and talent management; and employee development, training and capacity building: Governance expertise.
+R5
+Policy Development and Implementation
+- Risks associated with an organization's design, implementation and compliance with the government-wide policy suite (including Gender Based Analysis Plus) as well as its own internal policies and procedures: Policy governance.
+R10
+Organizational Transformation and Change Management
+- Risks associated with significant structural or behavioural change within an organization related to mandate, operating context, leadership and strategic direction: Change management.
+Footnotes
+Footnote 1
+https://natural-resources.canada.ca/nrcan/transparency/acts-regulations/list-acts-and-regulations/59
+Return to footnote
+1
+referrer
+Footnote 2
+The current governance structure of the Department is outlined in Appendix A.
+Return to footnote
+2
+referrer
+Footnote 3
+Tier 1 level Committees include the DM and key ADMs; Tier 2 represent ADM Committees; and Tier 3 and 4 represent DG- and Director-level Committees.
+Return to footnote
+3
+referrer
+Report a problem on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2021-06-17
