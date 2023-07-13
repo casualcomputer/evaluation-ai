@@ -1,0 +1,817 @@
+Evaluation of the Clean Growth Program
+Audit and Evaluation Branch
+Natural Resources Canada
+Presented to the Performance Measurement, Evaluation and Experimentation Committee (PMEEC)
+October 24, 2022
+List of Acronyms
+AEB
+Audit and Evaluation Branch
+CFS
+Canadian Forest Service
+CGP
+Clean Growth Program
+FEED
+Front-end Engineering Design
+FTE
+Full-Time Equivalent
+G&C
+Grant and Contribution
+HQP
+Highly Qualified Personnel
+LMS
+Lands and Minerals Sector
+LOI
+Letter of Interest
+MOU
+Memoranda of Understanding
+NRCan
+Natural Resources Canada
+OERD
+Office of Energy Research and Development
+OGD
+Other Government Department
+PT
+Provinces and Territories
+RD&D
+Research and Development, and Demonstration
+STAC
+Science and Technology Assistance for Cleantech
+SME
+Small/Medium Enterprises
+TRL
+Technology Readiness Level
+TB
+Treasury Board
+TP
+Trusted Partnerships
+Table of Contents
+Executive Summary
+Introduction
+Evaluation Objectives and Methods
+What We Found – Relevance
+What We Found – Design
+What We Found – Effectiveness: Expected and Unexpected Outcomes
+What We Found – Efficiency
+Conclusions
+Appendix A: Evaluation Team
+Executive Summary
+About the Evaluation
+This report presents the findings, conclusions, and recommendations from the evaluation of the Clean Growth Program (CGP). Developed through a collaboration between NRCan’s Office of Energy Research and Development (OERD), the Canadian Forest Service (CFS) and the Lands and Minerals Sector (LMS), the CGP was designed to be a new federal approach to supporting industrial innovation in both the natural resources and clean technology sectors. CGP supports clean technology research, development and demonstration (RD&D) including up to first commercial installations in Canada’s energy, mining and forestry sectors. Transfer payments are used to support external funding recipients to complete this RD&D. The total program envelope was $155 million (M) over four years starting in 2017-18 (extended to 2021-22 due to COVID). The CGP ended in March 2022.
+A number of key innovations were implemented through the CGP. The OERD established Trusted Partnerships (TPs) with key provincial/territorial partners and funding organizations. These TPs  were intended to enable efficient collaboration via the sharing of information, leveraging respective funding processes towards fast-tracking project selection, and the possible establishment of parallel or joint calls for proposals. A new Science and Technology Assistance for Cleantech (STAC) funding mechanism to support collaboration between eligible external recipients and federal research facilities was also established. OERD launched the Clean Growth Collaboration Community that is an online networking platform intended to help CGP proponents identify potential partners. The CGP was the first program to make use of NRCan’s new ‘one-window’ funding portal called Integro.
+The evaluation assessed the relevance and performance (i.e., effectiveness and efficiency) of the CGP, covering the period from 2017-18 to 2020-21, with updates reflecting the impact of COVID-19 (extending the program to 2021-22).
+NRCan’s Audit and Evaluation Branch (AEB) conducted this evaluation in accordance with the Treasury Board (TB)
+Policy on Results
+(2016).
+What the Evaluation Found
+Overall, the evaluation found that the CGP is relevant, and its objectives are clearly in line with those of the federal government and the department. The program is consistent with federal and NRCan departmental priorities related to accelerating clean technology innovation, generating environmental benefits and economic growth, and achieving a more efficient natural resources sector across the country. The broad stakeholder engagement undertaken by the program resulted in an effective determination of priorities and needs for all stakeholders involved. The purposeful cross-sector design and ongoing engagement with other federal programs ensured the program filled a gap for much-needed support.
+The CGP has mostly been implemented as planned. However, there were differences in planned program timelines and a number of cases of project start-up delays that resulted in slowed spending of contribution amounts as well as budgeted salaries. The program received an unprecedented number of applications; it was oversubscribed with proposals requesting >$2.3 billion (B) in funding (15 times the program budget). This, coupled with the roll out of a new IT platform for intake, resulted in longer application processing and review times. This delayed program implementation by approximately one year.
+Most innovative features of the program were beneficial. Engagement, outreach and promotion contributed to strong interest from applicants, and the program was able to refer unsuccessful applicants with promising projects to other resources, namely through the Clean Growth Hub and Trusted Partners. The Trusted Partnership model proved to lower redundancy, improve efficiency, and support co-developed programming with provinces enabling targeted support to joint priorities. The STAC model is highly valued by proponents in small- and medium-sized enterprises and the federal labs with whom they are working, providing access to federal research infrastructure and technical competencies where proponents are deriving great benefit. The STAC model in particular has been acknowledged as something that should be continued. Despite some technical limitations, the new ‘one-window’ Integro system is viewed as a good step towards successful digitization of program processes, but improvements are needed to reach full functionality. The Collaboration Community platform did not reach its full potential and did not facilitate as many linkages among potential collaborators as anticipated.
+However, the innovative design of the program was challenging to implement. Balancing the implementation of at least six new innovative approaches (1/3 equal split of funding across sectors, the mandatory PT co-funding, the launch of a new CRM beta system, the establishment of the Collaboration Community platform, along with the Trusted Partnership Model and the STAC model) was ambitious. Timelines for implementation were delayed, and projects were delayed in start-up due to lags in the establishment of contribution agreements and the complicated process establishing the two agreements required for STAC projects. Staff turnover and a lower than projected level of human resources during the critical first two years of the program contributed to a lower level of efficiency in delivery.
+Based on progress to date and in consideration of these delays, the program has been effective in achieving its short-term outcomes, producing immediate benefits for increasing collaboration, leveraging investments, advancing technologies toward market readiness and managing all progress within the context of the COVID-19 pandemic. CGP responded efficiently through design flexibility to ensure projects steered through the challenges of the COVID-19 pandemic. The program has leveraged investments of at least a 3:1 ratio and increased speed-to-market (e.g., 50% of projects self-assessed as advancing TRL levels). Nearly all proponents reported expecting their technology to get to, or close to, full commercial readiness over the next five years.
+While the evaluation identified a disconnect between the data requirements outlined in OERD’s reporting templates and its expectations for their implementation, the performance measurement strategy implemented for the program enabled the determination of these immediate benefits. Consistent with the timelines established for CGP’s RD&D projects, it is premature for the projects to report on intermediate outcomes given the timelines established by the program. It is also too soon to report ultimate outcomes of the program, including environmental benefits. As a result, data on progress towards these higher level outcomes were limited. For a period of five years following the end of a project (with some exceptions), an updated outcomes report is required annually.
+Recommendations and Management Response (Preliminary)
+Recommendation
+Management Response
+Recommendation 1
+: In order to maximize the future effectiveness of the innovative components implemented under the Clean Growth program, OERD should undertake the following:
+a) Improve the clarity of criteria and guidance for Science and Technology Assistance for Cleantech (STAC) to increase opportunities for uptake in future implementation of the model and efficiency of implementation.
+Management Agrees.
+The Office of Energy Research and Development (OERD) has undertaken a number of activities to evaluate the innovative components implemented under the Clean Growth Program, and will continue to evaluate lessons learned in order to maximize the future effectiveness of the components in future programming.
+a) During the Summer of 2021, OERD engaged with an external contractor to do a detailed review of the STAC model through the use of focus groups and interviews. The intent of the process was to capture key observations that present as opportunities for optimization and additional value-added and to summarize those findings in a report. OERD is using this report to inform future criteria and guidance.
+b) Review whether the utility of the Collaboration Community justifies the required resources to maintain the platform going forward.
+b) In Fall of 2021, OERD sent a survey to all members of the Clean Growth Collaboration Community to better understand how the platform is being used, and provide an opportunity to make recommendations for improvements and areas for future content. OERD will be working to develop a strategy for the platform, with the core objective of fostering partnerships, supporting higher quality proposals to future programs, creating a space for meaningful discussions, and facilitating matchmaking opportunities.
+c) Conduct a technology needs assessment on Integro and develop a plan to continue improving the system to best respond to internal and external needs.
+c) Beginning in the Summer of 2021, OERD undertook a technical needs assessment on Integro and determined that Integro was not positioned to best support future program delivery. OERD presented a proposal to implement a new solution (Salesforce) to the Architectural Review Board on January 17
+th
+, 2022, and following unanimous endorsement, has initiated work to scope and implement this new solution.
+Position Responsible:
+DG, OERD on behalf of ADM, EETS
+Date to achieve:
+OERD will identify and evaluate the gaps and opportunities with the STAC model through an internal process for consideration of potential use in future programming.
+Collaboration Community Strategy will be finalized in Fall 2022, with a clear path forward on the future of the community in Winter 2022/23.
+OERD is working toward a launch of the Salesforce solution in Fall 2022.
+Recommendation 2:
+OERD should improve practices for performance measurement for innovative programming by:
+a) Identifying performance data that best informs progress and accomplishment of its expected results.
+b) Clarifying reporting requirements by identifying clear directions, definitions, targets, data strategies and follow-up for reporting information.
+Management Agrees.
+OERD has a dedicated Performance Measurement function within its operations, with a focus on identifying and collecting data that best informs progress and accomplishment of expected project and program results, and identifying clear directions, definitions, targets, data strategies and follow-up for reporting information.
+Going forward, OERD will continue to update and revise its performance measurement strategies, data collection tools and project reporting guidance to better align with expected result and time horizons for energy innovation and natural resources RD&D for future programs. Additionally OERD will update its CGP project reporting guide, project reporting templates and program reporting documents to further emphasize: target dates and timelines for reporting; enhance definitions; and elaborate upon methodologies and instructions for data collection and analysis.
+OERD will also develop guidance to better differentiate between individual project-level reporting requirements and methodologies from methodologies and requirements for reporting aggregate program level data (such as for the Departmental Results Framework, Program Information Profiles).
+Position responsible:
+DG OERD on behalf of ADM, EETS
+Date to achieve:
+As reporting templates for the CGP have already been distributed to proponents for this year, updates will be made for follow on reporting processes for the next annual reporting cycle beginning in March 2023.
+Introduction
+This report presents the findings, conclusions, and recommendations from the Evaluation of the Clean Growth Program (CGP). The Audit and Evaluation Branch (AEB) of Natural Resources Canada (NRCan) conducted this evaluation in accordance with the Treasury Board (TB)
+Policy on Results
+(2016).
+The CGP is understood to be a ‘sunsetting’ program; it will not be renewed in its current form. Actionable recommendations are directed towards comparable future OERD programming. The evaluation also provides lessons learned surrounding the innovative program mechanisms implemented through the CGP for consideration in future programming.
+Program Information
+The CGP supports a new federal approach to clean technology research and development, and demonstration (RD&D) including up to first commercial installations in Canada’s energy, mining and forestry sectors. The total program envelope was $155M over four years starting in 2017-2018. The response to COVID-19 extended the program to 2021-22. In addition to the agreements used to support STAC proponents, transfer payments were used to support external funding recipients to complete this RD&D. OERD expected this budget to fund approximately 40 projects. Table 1 shows the CGP approved program budget.
+Table 1: CGP Original Approved Budget
+Expenditure Type
+2017-18
+2018-19
+2019-20
+2020-21
+2021-22
+Total
+O&M
+2,636,645
+5,146,744
+5,218,962
+4,992,029
+–
+17,994,380
+Salaries
+1,177,796
+2,485,936
+2,516,048
+2,537,304
+–
+8,717,084
+EBP
+235,559
+497,187
+503,210
+507,461
+–
+1,743,417
+G&C
+–
+46,070,133
+45,361,780
+35,098,735
+–
+126,530,648
+Total
+4,050,000
+54,200,000
+53,600,000
+43,135,529
+0
+154,985,529
+Source: CGP Program Approval
+The program provides funding to proponents from industry, academia, and research organizations to undertake clean technology projects in the natural resources sectors. The program was designed to alleviate some of the risks associated with RD&D and innovation. The objective was to drive environmental excellence and competitiveness for both natural resources and clean technology firms. Adopters in the natural resources sector, who had clean energy or clean technology problems to solve were connected with innovators, thus laying the groundwork for mutually beneficial partnerships going forward. Through a cross-sectoral program, the CGP was intended to support synergies between the targeted industries (energy, mining and forestry). The program was developed through a collaboration between NRCan’s Office of Energy Research and Development (OERD), the Canadian Forest Service (CFS) and Lands and Minerals Sector (LMS) but was led by OERD.
+To be considered for CGP funding, proponents first submitted a Letter of Interest (LOI). Following the evaluation of LOIs, selected proponents were asked to submit a full proposal. The Clean Growth Program required supported projects to be co-funded by provinces and territories (PTs) at the full proposal stage. There was no minimum amount of funding or leveraging required from PTs. PT support could be provided through financial and/or in-kind contributions (goods or services valued and contributed in lieu of cash). Applicants also had the opportunity to consent for NRCan to share their LOI with other funding entities within the various levels of government and the not-for-profit sector in order to identify proponents, secure PT co-funding and identify additional potential partners.
+A number of key innovations were implemented through the CGP and are described below. Findings related to those components were of particular interest for the evaluation, as they can inform decisions and improvements for future programming.
+Trusted Partnerships (TPs) with key provincial/territorial partners and funding organizations is central to the CGP. The OERD established Memoranda of Understanding (MOU) and non-disclosure agreements with these organizations. These TPs were intended to enable efficient collaboration via the sharing of information, leveraging of respective funding processes towards fast-tracking project selection, and the possible establishment of parallel or joint calls for proposals. OERD and Trusted Partners shared due diligence and review information in order to fast-track selected projects through the review process and facilitate co-funding.
+OERD created a new Science and Technology Assistance for Cleantech (STAC) funding mechanism to support collaboration between eligible external recipients and federal research facilities. The STAC model is intended to address capacity gaps in small to medium-sized enterprises (SMEs) by helping them access the substantial and unique Canadian science and technology resources that exist at federal laboratories and research centres normally only accessed on a fee-for-service basis. Through the STAC model, CGP could fund federal laboratories directly, to support their collaboration with funded proponents with no barrier of cost to proponents. The CGP could allocate up to $11M of its operational funding for the in-kind contributions of federal research centres specifically for STAC projects.
+The CGP also launched the Clean Growth Collaboration Community – an online networking platform intended to help CGP proponents identify potential partners, including provincial and federal stakeholders. The platform hosted descriptions of federal laboratories and relevant information from provinces and territories.
+The CGP was the first program to make use of NRCan’s new ‘one-window’ funding portal called Integro
+,
+which was developed as an online solution for application intake, case and workflow management, reporting and client relationship management for NRCan’s programs.
+The program was impacted by COVID-19 pandemic-related issues
+Proponents were granted extensions to project timelines in order to enable projects to meet substantive objectives, and the usual timelines for submitting annual project reports were also extended on an as needed basis.
+Projects in need could access an increased funding allocation (to reduce risk of failure).
+Terms and conditions were amended to allow up to 100% of eligible project expenditures to avoid cancellation of projects.
+Funding adjustments made for projects did not increase the overall program funding envelope as the program had sufficient funds as a result of underspending in earlier fiscal years.
+Governance Structure and Program Accountabilities
+The CGP is a component of the Energy Innovation and Clean Technology Program in the NRCan Departmental Results Framework 2021-22. The OERD of NRCan’s Energy Efficiency and Technology Sector has accountability and responsibility for overall management of the program. It administers the program on behalf of NRCan’s energy, mining, and forestry sectors. Representatives in NRCan’s Lands and Minerals Sector (LMS) and Canadian Forest Service (CFS) contributed to the evaluation of project proposals.
+The program is built upon the project review and funding decision governance structures in place to deliver other energy innovation programs within NRCan. The governance structure includes technical review committees with appropriate subject matter experts who make project selection recommendations. A special purpose ADM Committee for Clean Growth (including CFS, LMS and other government departments) then reviewed the recommended projects and provided final approval. The technical review committees included extended membership from provincial/territorial participants and external reviewers.
+Expected Results
+The program covers five areas to address pressing environmental challenges and economic opportunities facing three of NRCan’s natural resources sectors – energy, mining, and forestry:
+Reducing greenhouse gas and air-polluting emissions
+Minimizing landscape disturbances and improving waste management
+Producing and using advanced materials and bioproducts
+Producing and using energy efficiently
+Reducing water use and impacts on aquatic ecosystems
+Footnote
+1
+The CGP program is designed to advance clean technologies in Canada’s natural resources sector by funding RD&D projects. “The program puts into action the Government of Canada’s new collaborative approach of doing business by leveraging investments in publicly funded researchers, research centres, and provincial and territorial leveraging programs to better mobilize clean technologies. The program is intended to enhance coordination and leverage clean technology investments to more effectively help Canada to meet its climate change goals, create economic opportunities, and expand global-market opportunities.”
+Footnote
+2
+Projects undertaken in collaboration with OGDs, academia and other organizations are expected to realize reductions in negative impacts of greenhouse gas (GHG) emissions, through increased investment and collaboration by stakeholders in clean energy technologies that result in better access to scientific and technical knowledge. The increased investment and collaboration will advance technologies towards commercial readiness.
+The CGP logic model is presented in Figure 1.
+Figure 1: CGP Logic Model
+Text version
+Figure 1: CGP Logic Model
+Activities: conduct project selection  processes; collaboration and outreach; conduct and manage RD&D work and  related scientific activities.
+Reach: Industry, academia, research  organizations, provinces and territories.
+Outputs: supported clean technology  research, development and demonstration projects; memoranda of understanding with  federal RD&D providers; trusted partner memoranda of understanding and non-disclosure  agreements; monitoring and performance reports.
+Short-term outcomes: increased  collaboration between Canadian natural resource firms, clean technology  producers, academia, indigenous communities and government to address  environmental/economic challenges; increased investment by stakeholders in  clean technology research, development and demonstration projects; increased  scientific knowledge product generation and outreach.
+Medium-term outcomes: advancement of  RD&D clean technologies toward commercial readiness (technology readiness  levels and intellectual property); increased employment resulting from project  activity.
+Long-term outcomes: environmental benefits  from new codes, standards, and regulations; improved environmental and economic  performance.
+Energy innovation and clean technology program  ultimate outcome: environmental and economic benefits from the advancing of  clean energy technologies across all Canadian natural resource sectors.
+Departmental core responsibility two:  innovative and sustainable natural resources development.
+Source: Official Program Documentation
+Evaluation Objectives and Methods
+The AEB included a commitment to conduct this evaluation in its Integrated Audit and Evaluation Plan 2021-2026. The AEB identified the need for this evaluation through its risk-based planning process and in response to a Treasury Board (TB) commitment to complete an evaluation. The evaluation also meets requirements for evaluation of ongoing grant and contribution (G&C) programs under section 42.1 of the
+Financial Administration Act
+and the TB
+Policy on Results
+.
+The evaluation assessed the relevance and performance (i.e., effectiveness and efficiency) of the CGP, covering the period from 2017-18 to 2020-21, with updates reflecting the impact of COVID-19 (extending the program to 2021-22). This is the first evaluation of the CGP and covers all three areas of the CGP: energy, mining and forestry.
+Specific questions covered by this evaluation are as follows:
+Evaluation Objectives and Methods
+Relevance
+Does this program align with the needs of Canadians?
+Does this program align with current NRCan and federal government priorities, roles and responsibilities?
+How does the CGP complement or duplicate cleantech programs delivered by other federal departments and agencies?
+Design and Delivery
+To what extent has the program’s design (e.g., project focus, governance structure, delivery mechanisms) facilitated the effective and efficient achievement of results?
+Were any delivery mechanisms over- or under-utilized? (uptake)
+What lessons learned can be drawn from the CGP’s key design components?
+How was equity, diversity and inclusion (gender-based analysis plus) effectively considered in the program’s design and delivery?
+Performance – Effectiveness
+Were the outputs produced appropriate to support the achievement of expected outcomes?
+What progress has been made towards the achievement of expected outcomes?
+Footnote
+3
+Have there been unintended outcomes (positive or negative) resulting from the program?
+Are adequate data collection and reporting procedures in place for performance measurement now and into the future?
+Performance – Efficiency
+To what extent is the program being implemented as planned (including financial resources)?
+Has the program been responsive to internal and external factors (positive or negative) that influence its ability to achieve intended outcomes and operate with efficiency?
+Evaluation Methods
+Given the short time period being covered, and considering most funded projects were not yet completed at the time of the evaluation, the evaluation focussed on implementation (i.e., design and delivery). Program impact is also assessed, to the extent possible, with performance data primarily reflecting projects in the second to third year of implementation. Consistent with the longer timelines required to achieve outcomes of RD&D projects, the evaluation did not expect intermediate and ultimate targets to have been achieved but did expect OERD to be tracking progress towards these expected results.
+An Evaluation Working Group consisting of representatives from the CGP and NRCan’s AEB supported the evaluation.
+Footnote
+4
+The evaluation used multiple lines of evidence as illustrated in Table 2.
+Table 2: CGP Evaluation Methods
+Focus Groups with STAC Participants
+Interviews
+Document Review
+Database Analysis
+Survey of Applicants
+Two focus groups were held: one with proponents (n=4) and one with federal laboratories (n=5).
+The focus groups were used to obtain viewpoints specifically in relation to the STAC model as a key innovative component of CGP.
+Interviews (n=26) with experts, internal representatives, other government departments (OGDs), CGP proponents and Trusted Partners.
+These interviews were used to obtain viewpoints on the CGP’s relevance, effectiveness, and efficiency.
+A program document review included internal documents, strategic documents and publicly available documentation.
+These documents were used to understand the CGP’s processes, operations, priorities and progress against objectives.
+A review of program data and performance information to gather evidence on progress towards outcomes.
+Survey of all applicants who submitted a full proposal (funded and not-funded) conducted from June 23 to July 20 2021. Response rate of 41% (40/97).
+For STAC in particular, 12 of the 14 projects participated in the survey.
+This data source was used to obtain applicant experiences with, and perceptions of, the CGP.
+Limitations and Considerations
+The evaluation used a mixed-methods approach with multiple lines of evidence to mitigate against any limitations associated with individual methods. This enabled the triangulation of evidence across sources of information to identify valid findings and draw evidence-based conclusions. However, the following limitations should be considered when reviewing the evaluation findings:
+Database Analysis.
+Not all projects submitted a 2019-2020 progress report and for those that did, some information was left blank. As it was premature for demonstration projects to measure or report on environmental indicators, the evaluation could not assess the environmental impact of CGP. Environmental impacts from RD&D projects will only be perceivable in the mid- to long-term (by 2026 or later) and will be captured in the project’s 5-year reports.
+Additionally, there were a few instances of values entered into the database that are not logical (e.g., higher number of women highly-qualified personnel (HQP) than total reported number of HQP, decreasing technology readiness levels (TRLs). In the instances where quantitative information did not seem to make sense, the data were excluded from the analysis. This did not impact the analysis.
+Key Informants.
+Key informants (interviews and focus group participants, total (n=35) belonged to a variety of respondent categories with different perspectives and expertise. Remarks made by only one individual are sometimes reported when the respondent had a unique experience or insight into a topic.
+Survey Validity.
+There is slight overrepresentation of funded proponents among survey respondents, compared to the complete list of applicants. This is not unexpected given funded recipients are typically more likely to answer this type of questionnaire. Energy projects and for-profit organizations are also slightly overrepresented. There is an underrepresentation of Ontario respondents compared to the entire respondent frame. The data were used as is (no weighting), and provided useful feedback, especially on program delivery.
+What We Found – Relevance
+Summary of Key Findings:
+The CGP’s objectives are aligned with the perceived needs of the Canadian public related to fighting climate change and progressing towards zero emissions. The program is also consistent with federal and NRCan departmental priorities related to accelerating clean technology innovation, generating environmental benefits and economic growth, and achieving a more efficient natural resources sector across the country. Roles and responsibilities are clearly in line with those of the federal government and NRCan. The CGP filled a gap in programming at the federal level and aligned with the needs of the participating organizations. The CGP complemented other federal programs targeting cleantech with no indication of overlap.
+The CGP’s focus on pressing environmental challenges and economic opportunities aligns with the needs of Canadians
+Documents reviewed showed that the natural resources sector is an important part of the Canadian economic landscape, accounting for 10.1% of national gross domestic product in 2016, with energy, mining and forestry accounting for the vast majority of activities in the sector.
+Footnote
+5
+In addition to playing a significant role in Canada’s economic growth, the natural resources sector also contributes to employment and investment. Further, secondary and tertiary processing for the forest, minerals, and mining sub-sectors support downstream activities that further contribute to Canada’s gross domestic product. The natural resources sector is important to Canada, and evidence was found to suggest that a majority of Canadians support natural resources development. For example, a recent
+Ipsos poll
+found that Canadians see the sector as important to the economy and as an opportunity to help Canada’s post COVID-19 economic recovery.
+Footnote
+6
+The objectives of the CGP are coherent with the views of Canadians more broadly. The report for Canada’s World Survey 2018 indicated that Canadians consider climate change and environmental issues to be among the world’s most important concerns.
+Footnote
+7
+A 2021 opinion poll of 1,548 Canadians found that 74% of respondents are worried about climate change, and 68% support the country’s net zero emission by 2050 objective.
+Footnote
+8
+The CGP aligns with Federal Government and NRCan priorities, roles and responsibilities
+The document review and interviews indicate that NRCan’s role and actions on clean technology and clean energy innovation directly support the Minister of Natural Resources mandate, as derived, for instance, from NRCan’s
+Department of Natural Resources Act (1994)
+and the
+Energy Efficiency Act (1992)
+. The legislation provides the Minister of Natural Resources with the mandate to: enhance responsible resources development and use, industry competitiveness and market access; advance the development and application of science and technology to improve environmental performance, competitiveness and the safety and security of Canadians; and, promote the efficient use of energy and natural resources. As such, the CGP aligns with NRCan’s departmental mandate to support innovation and use of clean technology in Canada’s natural resources sectors. The program was designed to allow NRCan to invest in clean technology producers so they can tackle Canada’s most pressing environmental challenges and create more opportunities for Canadian workers.
+The document review and interviews indicate that the CGP is also aligned with federal and NRCan priorities. The Minister of Natural Resources mandate letter (2019) asks that NRCan “work to ensure that Canada’s energy and natural resources sectors remain a source of good middle-class jobs, prosperity and opportunity across the country. This includes supporting resource communities as they shift into cleaner technologies, while also supporting and promoting the competitiveness of Canadian companies.”
+The CGP contributes to Core Responsibility 2 of NRCan’s Departmental Results Framework for 2019-20 and 2020-21. It states that the CGP will contribute to the support of clean growth in the natural resource sectors to ensure that they are more competitive in the changing environment and that the sectors continue to adopt sustainable development practices, accelerate the development of clean technology, and support Canada’s transition to a low carbon future. Through the Clean Growth Program, the Department continues its co-funding of clean technology research, development and deployment projects with provinces and territories in Canada’s energy, mining and forestry sectors to further enhance the competitiveness of natural resources sectors and to reduce their environmental impact.
+In November 2015, Prime Minister Trudeau announced Canada’s participation in Mission Innovation, a global initiative of countries working together to accelerate clean energy innovation. As part of this initiative, countries agreed to double their national investments in clean energy innovation over five years, while encouraging greater levels of private sector investment in transformative clean energy technologies. Budget 2016 and Budget 2017 funded a number of complementary measures, including in the areas of green infrastructure and clean technology that will help to meet this commitment.
+The Government of Canada’s Federal Sustainable Development Strategy (2016-2019) established goals for clean growth, clean energy and effective action on climate change. Those objectives are present throughout the CGP. Examples of federal priorities, frameworks, and strategies that also align to advance clean growth and climate action objectives include the Pan-Canadian Framework for Clean Growth and Climate Change (2016), which includes clean technology development, commercialization, and adoption across all industrial sectors as one of its pillars.
+The CGP is different from other federal programming and filled a gap in the clean tech programming landscape
+The CGP’s program documentation states that the pace of innovation in the natural resources sectors (energy, forestry, and mining) remains significantly short of what is needed to meet shared climate change objectives and that the existing suite of clean technologies is neither sufficiently developed nor adequately de-risked to enable mass market deployment of those technologies. In 2020, the International Energy Agency affirmed the importance of strong and targeted RD&D and innovation efforts, estimating that a large proportion (up to 45%) of all expected emissions savings in 2050 could come from technologies that are currently at the prototype or demonstration phase and will not become available at scale without further investment.
+Footnote
+9
+A scan and review of other federal clean tech grants and contribution programs indicates that the CGP does not duplicate other clean tech programs. Notably, no other federal clean tech grants and contribution program is specifically intended to support energy, mining and forestry in a cross-sectoral manner. Documents also indicate that the program fills a gap in federal clean tech programming. This includes filling a void in direct funding for early-stage research and development, and a need for addressing the limited capacity in many companies to achieve paths to markets or the replication of their emerging technologies.
+75% of survey respondents (funded and not-funded) indicate the CGP complemented other programs to some or a great extent.
+Given complementary programming for clean technology innovation announced in Budget 2016 and Budget 2017, it is no surprise that key informant interviewees and focus group participants, across categories, identified a variety of other programs and initiatives that support clean tech and/or technology innovation at large. However, the majority opinion across groups is that the CGP is a complement to other funding sources. Reasons provided included the recognition that there are multiple types of programs needed to respond to the diverse needs in the area of clean technology (e.g., across different sectors, different communities of beneficiaries, TRL levels, etc.). Focus group participants confirmed the uniqueness of the CGP STAC model, noting it was the first time such an opportunity to access federal labs with funding dedicated for that purpose was available.
+Sectors need a broad array of programs across the innovation spectrum and across Technology Readiness Levels. CGP was in the right spot – it offered things others didn’t […]. But really, overlap is not always an issue.You need some [overlap] to move from one TRL level to the next.
+Other government department interviewee
+The CGP met the needs of its targeted audience
+The CGP call for Letters of Interest (LOIs) generated a higher number of submissions than expected. According to final figures, 761 letters of interest were received across the three sectors totalling a request for >$2.3B in funding; 15 times the $155M budget held by the program.
+Technology Readiness  Level (TRL) is a measure used to assess the maturity of evolving technology during its development and in some cases during early operations. The lowest level, TRL 1, indicates that information already learned from basic scientific research is taking its first step towards a practical application. A technology at the highest level, TRL 9, has been fully incorporated into a larger system, has been proven to work smoothly, and is considered operational.
+The responses from surveyed proponents, as well as other categories of interview respondents, confirm that the CGP responded to a need. The program injected new funding into areas that were underfunded. It targeted the right technology readiness level (TRL) range (level five to level eight) to support RD&D, and   helped bring solutions closer to commercialization. It also helped de-risk clean tech development for funded projects.
+During interviews and focus groups, proponents confirmed that CGP met their needs in terms of: offering support for RD&D and demonstration; having a holistic, cross sectoral approach; and targeting the right
+TRLs
+for their projects. According to all categories of key informants, the CGP was aligned with existing needs because it:
+Funded appropriate TRLs, for which less funding is available
+Supported (heretofore) underfunded areas such as mining and wastewater
+Was cross-sectoral and broad
+Offered enough funding to make a difference, especially for small and medium-sized enterprises (SMEs)
+Funded a diverse set of proponents including academics and not-for-profit organizations
+Established good coordination with other programs
+Was technology-agnostic
+Verified the relevance and alignment of projects through a letter of interest process before requesting full applications.
+What We Found – Design
+Summary of Key Findings:
+The design of the CGP was fit for its purpose although it was challenging to implement. Balancing the implementation of numerous new innovative approaches proved to be difficult with the allocated resources. Stakeholders positively reviewed critical components of the program and identified a few aspects that would require adjustment if used again in future programming.
+The broad stakeholder engagement undertaken during program design resulted in effective determination of priorities and needs. However, while praised, the cross-sectoral approach was challenging to implement and required extra effort. The equal 1/3 financial split by sector for energy, forestry, and mining, was difficult to implement in practice.
+Engagement, outreach and promotion helped generate strong interest from applicants. The program was able to refer unsuccessful applicants with promising projects to other resources, namely through the Clean Growth Hub and the Trusted Partnerships. However, as there was no requirement to do so, the CGP did not gather detailed information that could be used to understand the success of those ‘off-boarded’ projects.
+The project selection process was validated as sound, credible and defensible by independent subject matter experts as well as by the NRCan Policy Committee. However, clarity of information regarding eligibility criteria as well as overall timeliness of communications from the program were viewed as needing improvement.
+Funding decisions, and signing of contribution and STAC agreements were delayed. Delays in staffing, staff turnover and lower than allocated levels of human resources also contributed to delays.
+The Trusted Partnership model lowered redundancy, improved information sharing, helped identify opportunities for co-funding, and supported the capacity to create first-of-kind jointly-developed programming in NRCan.
+The mandatory PT co-funding requirement did not work in all contexts, and created equity issues given provincial investment differences.
+Although undersubscribed, STAC improved access to equipment and technical competencies for participating proponents and received very positive reviews from both proponents and federal labs. Respondents across categories recommend that this model be replicated. As a result of OERD’s work in developing the STAC model, TBS issued new guidance on federal collaboration with recipients of grants and contributions.
+Despite technical limitations, the new ‘one-window’ Integro system is viewed as a good step towards successful digitization of program processes, and improvements are needed to reach full functionality. There are opportunities to enhance the Integro system capabilities to link performance variables and roll-up performance information if it continues to be used.
+The Collaboration Community platform was not as useful as the program had hoped it would be and did not facilitate measurable linkages among potential collaborators.
+A Gender-Based Analysis Plus (GBA+) assessment was conducted during program design. One third of survey proponents identified diverse project teams and potential for social benefits resulting from the CGP. To date, NRCan programs have experienced limitations in their ability to collect GBA+ data due to privacy and legal requirements that contributed to data gaps across CGP projects.
+In 2021, OERD developed a strategy for Equity, Diversity and Inclusion (EDI) that includes commitments for improvement of related data collection practices, with discussions undergoing with NRCan’s Centre of Excellence and Legal division.
+Recommendation 1
+: In order to maximize the future effectiveness of the innovative components implemented under CGP, OERD should undertake the following:
+Improve the clarity of criteria and guidance for Science and Technology Assistance for Cleantech (STAC) to increase opportunities for uptake in future implementation of the model and efficiency of implementation.
+Review whether the utility of the Collaboration Community justifies the required resources to maintain the platform going forward.
+Conduct a technology needs assessment on Integro and develop a plan to continue improving the system to best respond to internal and external needs.
+The CGP undertook extensive stakeholder engagement to support policy development and the definition of the CGP’s overall priority areas
+Documents and interviews confirm that the CGP’s focus areas that went on to form the basis of the CGP call for letters of interest and the invitation to submit proposals, are the result of a multi-sector engagement process that involved a variety of stakeholders both internal and external to NRCan. Documents indicate that the Energy Efficiency and Technology Sector (EETS), the Canadian Forest Service (CFS), and the Lands and Minerals Sector (LMS) Assistant Deputy Ministers convened a provincial territorial (PT) “Innovation Experts Meeting” for all three resources sectors in June 2017. NRCan worked with involved sectors to determine the invitation list for the meeting; members of federal/provincial/territorial working groups/tables were invited, and options were also explored to include PT representatives.
+A PT engagement questionnaire was also prepared and sent to PTs in summer 2017. The objective of the questionnaire was to obtain input from PTs on the CGP’s proposed focus areas in order to inform NRCan Deputy Minister’s decision-making; to obtain information on PT priorities, preferred mechanisms for collaboration, potential projects, and available co-funding opportunities to enable effective and efficient federal/provincial/territorial collaboration through the program. In total, 9 of 13 jurisdictions responded to the questionnaire and those who did not were engaged through bilateral discussions. The result of the PT engagement was a strong endorsement from PTs for the focus areas as these aligned with their priorities; and an indication of sufficient interest and opportunity with PT partners in each of the focus areas. Internal and OGD interview respondents stated that that priority setting was effective.
+The cross-sectoral approach, while praised, was a challenge to implement
+The cross-sectoral, iterative approach to program design that included workshopping and outreach was new and was found to be beneficial.
+[Cross-sectoral design was] something no program had ever done before. […] This was a fantastic exercise. It’s a very difficult space to navigate given that we all have vested interests. The validation process that came out of it was extremely valuable. [It brought] together different types of solvers to tackle big issues like emissions reductions. It cast a wide net.
+Internal interviewee
+Interviewees across categories found the cross-sectoral approach to have merit as a more holistic way to respond to clean tech development needs, and as a way to identify synergies and technology solutions that were relevant across sectors. About half of survey respondents reported that the CGP program supported collaboration with PTs and/or created linkages between sectors (Figure 2).
+Figure 2: Extent to which CGP has resulted in collaboration
+Text version
+Figure 2: Extent to which CGP has resulted in collaboration
+Collaboration with provincial territorial  governments: to a great extent 48%; to some extent 32%; to a small extent 16%;  not at all 4%.
+Collaboration and linkages between targeted  sectors (forestry, energy, mining): to a great extent 48%; to some extent 16%;  to a small extent 12%; not at all 16%; don’t know not applicable 8%.
+Collaboration with other federal  departments: to a great extent 24%; to some extent 28%; to a small extent 20%;  not at all 16%; don’t know not applicable 12%.
+Source: CGP Evaluation Applicant Survey.
+Source: CGP Evaluation Applicant Survey
+However, the cross-sectoral approach was difficult to implement given differing levels of capacity and expertise across the different sectors within NRCan. Program managers indicated that, while very familiar to EETS, this was a relatively new investment space for LMS and CFS. This affected coordination, definition of roles and responsibilities, and ultimately the management of certain projects. The required equal funding split among the three sectors (e.g., one-third of total funding allocated to each) also created complications in terms of the selection of projects, turning down high potential projects in oversubscribed areas, and identifying alternates when projects could not go ahead.
+Lesson Learned: Engaging on priority areas leads to high relevance and take-up
+Multi-player internal and external engagement led to better overall encompassing design, with broad flexibility to tackle big issues. The structures implemented by CGP promoted an overall inter-governmental response, better than other programs. It was a valuable attempt to break down silos, through federal/provincial/territorial collaboration, the STAC model, and a multi-sector design. For future multi-sector programming, it would be preferable not to establish a strict requirement for equal funding between sectors, to ensure there is sufficient flexibility to mitigate the impacts of changes in sectors and markets.
+The CGP reached a large number of diverse proponents through effective outreach. The program also benefited from well-designed application, evaluation and implementation processes
+Documents and program data indicate that engagement, outreach and promotion of the CGP program were effective and contributed to the generation of interest from a large number and a variety of organizations. Survey feedback highlights the effectiveness of communication and promotion, as well as an appreciation for the LOI process (Figure 3). With strong industry demand
+Footnote
+10
+for support for technology de-risking, the program was oversubscribed with 761 applicants submitting LOIs. The CGP program held webinars at each key stage of the process: before the LOI launch, during the LOI phase, and during the full application phase for shortlisted proponents invited to submit a full proposal.
+Figure 3: Effective CGP Processes
+Text version
+Figure 3: Effective CGP Processes
+Initial screening based letter of interest  was a good approach: to a great extent 65.0%; to some extent 27.5%; to a small  extent 2.5%; not at all 2.5%; don’t know not applicable 2.5%.
+Level of effort/time to develop letter of  interest was reasonable: to a great extent 65.0%; to some extent 17.5%; to a  small extent 15.0%; not at all 5%; don’t know not applicable 2.5%.
+Information made available about the clean  growth program was comprehensive; to a great extent 55.0%; to some extent  37.5%; to a small extent 5.0%; not at all 5.0%.
+Early promotion was effective in reaching  potential applicants; to a great extent 42.5%; to some extent 45.0%; to a small  extent 7.5%; not at all 2.5%; don’t know not applicable 2.5%.
+Source: Clean growth program applicant  survey.
+Source: CGP Evaluation Applicant Survey
+Interviewees and focus groups emphasized that the use of the LOI as a step towards full proposal in the application process was a key strength of the program. Survey respondents and interviewees were generally in-favour of the LOI process, which helps confirm a project’s suitability upfront, without going through full proposal development. Surveyed applicants indicated that the level of effort was appropriate. Survey respondents also found that the information provided about the application process was clear. Having a point of contact (advisor) within the CGP Program during implementation was also frequently cited as a strength of the program. Successful applicants stated the program was supportive through the implementation phase, and responsive to COVID-19 issues. However, survey results also suggest that some aspects of CGP communications could have been improved. Interviewees and focus group participants suggested that communication and outreach may need to be broader and further decentralized to reach more SMEs, especially those who may not be heavily networked. Over half of proponents indicated that the information on program eligibility was clear only to some extent: this was one of the areas of lowest satisfaction (Figure 4). For STAC specifically, proponents struggled to identify the type of eligible proponents and collaborators. This was raised by both energy and mining project proponents. There was not a significant difference in their response.
+The majority of survey respondents (60%) attested that the CGP was accessible; however, several respondents across lines of evidence indicated that start-ups and SMEs with less capacity might nevertheless be at a disadvantage when applying to a program like CGP, where they perceived the administrative processes as being relatively heavy.
+Figure 4: CGP Processes Flagged for Improvements
+Text version
+Figure 4: CGP Processes Flagged for Improvements
+Information regarding application process  was clear: to a great extent 42.5%; to some extent 40.0%; to a small extent  15.0%; not at all 2.5%.
+Level of effort/time to complete full  proposal was reasonable: to a great extent 32.5%; to some extent 42.5%; to a  small extent 15.0%; not at all 5.0%; don’t know not applicable 5.0%.
+Engagement during the letter of interest  and full proposal was effective: to a great extent 32.5%; to some extent 42.5%;  to a small extent 20.0%; not at all 5.0%.
+Information regarding eligibility was  clear: to a great extent 2.5%; to some extent 57.5%; to a small extent 37.5%;  not at all 2.5%.
+Source: CGP Evaluation Applicant Survey
+The CGP project evaluation and selection processes were seen as valid, but unsuccessful applicants raised a need for clearer and more constructive feedback
+The NRCan Policy Committee and independent subject matter experts validated the project selection process as credible and defensible. Lessons learned from the CGP project evaluation and selection process included providing more time for assessments and proponent preparation, as well as training expert reviewers to ensure consistency and efficiency. A number of surveyed unsuccessful applicants described the selection process as opaque (38%), and 47% (almost half) reported the feedback was unhelpful or the justification for rejection unclear (Figure 5). While the evaluation lacks a benchmark to understand if these results are comparable to feedback from unsuccessful applicants in other programs, and unsuccessful applicants may have a negative bias in their views, this suggests that there may be an opportunity for improvement to be explored by the program in communication related to the application and adjudication process.
+Figure 5: Views on Project Evaluation and Selection Processes
+Text version
+Figure 5: Views on Project Evaluation and Selection Processes
+Feedback/justification to non-funded  proponents was clear and helpful (n=17): to a great extent 17.6%; to some  extent 23.5%; to a small extent 17.6%; not at all 29.4%; don’t know not  applicable 11.8%.
+The clean growth program communicated  funding decisions in a timely manner: to a great extent 30.0%; to some extent  35.0%; to a small extent 22.5%; not at all 7.5%; don’t know not applicable 5.0%.
+The clean growth program process for  evaluating full proposals was fair: to a great extent 47.5%; to some extent  22.5%; to a small extent 5.0%; not at all 10.0%; don’t know not applicable 15%.
+Information on selection process was clear: to a great extent 52.5%; to some extent 32.5%; to a small extent 2.5%; not at  all 10.0%; don’t know not applicable 2.5%.
+Source: The clean growth program applicant survey.
+Source: CGP Evaluation Applicant Survey
+From the perspective of applicants, the primary weaknesses for the CGP include delays in decisions, communications and administrative processes.
+While there are various stages of the decision process where NRCan cannot communicate directly with proponents, survey respondents perceived periods without communication between the LOI, semi-final and final funding decision to be long. Several survey respondents noted that the delay between proposal submission and contracting was very long, which could have a concrete impact on some projects. Successful applicants flagged delays in accessing CGP funds and slow communications back from the program, which OERD indicates as being a result of lower than projected human resource levels within the program. Some applicants commented on some difficulties connecting with a NRCan project advisor during implementation. There was a perception that a limited number of advisors able to process requests in French may have resulted in delayed responses. A number of proponents also flagged that the signing of their contribution agreement took longer than expected. Some interviewees (proponents) and focus group participants perceived a certain lack of guidance and heavy requirements for detailed, multiple levels of project reporting (particularly for STAC).
+Considering the vertical levels of governance, NRCan interviewees described that the absence of a director general-level committee caused complications in terms of making practical program decisions (DGs needed to be briefed anyway). Interviewees could not confidently explain why the program was established this way, but the lack of structure at the DG level created issues after projects were underway. All follow-up program decisions (e.g., approval of pandemic top-ups) had to be taken to the Assistant Deputy Minister Committee.
+Lesson Learned: Additional flexibility is needed in the provincial-territorial co-funding model
+During the design of the program, NRCan identified that the co-funding model with provinces/territories could lead to inequities across regions, particularly for those that had limited resources to participate. Mitigation measures included engaging with PTs to incorporate their input on focus areas (all were consulted) and adapting federal co-funding levels to compensate for limited resources in specific regions. However, interviewees explained that the co-funding requirement still created barriers (or perceived barriers) for PTs that do not have the same level of resources (e.g., Atlantic and the North). Furthermore, different political contexts, structures, and funding cycles and/or provincial project criteria and classifications made it challenging for some proponents to secure the mandatory PT co-funding. Some potential proponents were not able to find supportive funding in their region, and some projects had support withdrawn after selection and could not proceed.
+The Trusted Partnership model is considered a promising component of the program
+The Trusted Partnership model was founded to meet the program’s requirements for co-funding by provinces. While building these relationships necessitated substantive work by OERD, for the most part, internal key informants described Trusted Partnerships as a positive innovation.
+There were seven formal MOUs established with “Trusted Partners.” Internal and external interviewees applauded the collaborative approach and were positive about the partnerships that the program fostered. A few external interviewees noted that relationships between NRCan and PTs already existed prior to the Trusted Partnerships, but that there were still benefits to the formal MOUs and non-disclosure agreements. The Trusted Partnership model was found to reduce bureaucracy, facilitate the sharing of information, and help identify opportunities for co-funding. Internal interviewees explained that the model allowed the CGP to support bigger and better projects, to direct promising unsuccessful applicants to other funders for consideration, and to other government departments, through connections such as the Clean Growth Hub. OGD interviewees also described the off-ramping of projects, shared due diligence, and internal discussions through the Clean Growth Hub as examples of effective inter-departmental collaboration done through the CGP.
+The
+Clean Growth Hub
+was launched in 2018 to help clean technology entrepreneurs and adopters navigate the federal ecosystem. The
+Hub website
+lists programs and opportunities offered by the 16 federal departments and agencies that form the Hub. Among other services, it helps applicants that were unsuccessful in the programs to which they applied find other opportunities within the government.
+OERD respondents indicated that the number of projects off-boarded to Trusted Partners or through connections with other government departments, such as through the Clean Growth Hub, were not tracked. While not required for this program, tracking to identify where the referred projects ‘’landed” or whether they were ultimately funded would be valuable in future programming in order to document the full value of the collaborations and connections established.
+Although respondents identified some implementation issues and challenges, the STAC model received very positive reviews from both proponents and federal labs
+The STAC funding mechanism was developed by OERD in collaboration with NRCan’s Legal Services, NRCan’s Centre of Excellence for Grants and Contributions and the Treasury Board Secretariat (TBS). As a result of this work, TBS issued new guidance on federal collaboration with recipients of grants and contributions (Guide to Departmental Collaboration with Recipients of Grants and Contributions).
+The CGP was the first program to implement the STAC model, which presented certain challenges in terms of piloting the administrative framework. The STAC mechanism was identified as complicated by proponents and collaborating labs. Both a Collaborative Research and Development Agreement (CRADA) between the lab and proponent and a contribution agreement (CA) for funding were required for each project. This is in addition to MOUs between NRCan and other government departments for the transfer of funds (in which neither proponents nor labs were involved). While maintaining separate agreements met legal and policy requirements, the number of agreements and administrative processes was perceived to be burdensome. Multiple lines of evidence indicate that STAC projects experienced delays in finalizing their CRADA.
+Fourteen projects used this program option. A NRCan ‘STAC lessons learned’ document suggests that the program expected to receive more interest for the STAC component initially. The same document attributes low subscription to a lack of applicant knowledge about STAC and some confusion about eligibility and the exact parameters of this new option. OERD mitigated this to some extent by including a matchmaking step, post application as part of its process for the STAC. Regardless, proponents in the STAC focus group indicated that opportunities for engaging with federal collaborators were not obvious, and that this model possibly advantages organizations that already have established relationships with federal entities, as opposed to new players in the organizations who may not know what federal lab capabilities are available.
+67% of STAC survey respondents indicate that the STAC model provided access to better equipment than proponents could have otherwise accessed
+For those who did collaborate through the model, STAC was beneficial to both federal labs and proponents, especially in terms of access to equipment and technical competencies. STAC focus group participants concurred that constant interaction of federal labs with proponents elevated projects through exchange of expertise and use of government facilities. Two-thirds of STAC survey respondents indicated STAC provided access to better equipment than could have otherwise been accessed. STAC also helped most projects (at least to some extent) increase the technical competency of their organization (Figure 6). Responses indicate that STAC collaboration also increased project affordability and supported interdisciplinary work. Respondents across groups (focus groups and interviews) strongly recommended that this type of opportunity for collaboration between external proponent and federal labs (including distinct funding) be replicated widely.
+Figure 6: Benefits of STAC
+Text version
+Figure 6: Benefits of STAC
+The science and technology assistance for cleantech collaboration provided access to better equipment than could have  been otherwise accessed: to a great extent 66.7%; to some extent 16.7%; not at  all 8.3%; don’t know not applicable 8.3%.
+Participating in science and technology assistance for cleantech increased technical competency within the funded  organization: to a great extent 50.0%; to some extent 41.7%; don’t know not  applicable 8.3%.
+Having access to a federal research facility significantly contributes to the project’s success: to a great extent  50.0%; to some extent 33.3%; not at all 8.3%; don’t know not applicable 8.3%.
+The science and technology assistance for cleantech collaboration made the project more affordable: to a great extent  33.3%; to some extent 33.3%; to a small extent 16.7%; not at all 8.3%; don’t  know not applicable 8.3%.
+The science and technology assistance for cleantech collaboration increased the interdisciplinarity of the project: to a  great extent 33.3%; to some extent 50%; to a small extent 16.7%.
+Source: Clean growth program applicant survey.
+Source: CGP Evaluation Applicant Survey
+Lessons Learned: STAC is a valuable model to be continued
+Funding to support access to federal labs fills gaps in expertise and is beneficial to proponents and labs. However, the need for proponents to manage two agreements (one with NRCan, and one with the federal lab) adds a layer of complexity and administration for all parties. The OERD should review how to increase the speed with which agreements can be negotiated and finalized as well as the matchmaking process. The evaluation also highlighted the importance of a program communicating clearly and broadly about the collaboration opportunities that exist with federal labs, so that all eligible proponents can contemplate the potential benefits of this option.
+Integro is a step forward but requires improvement to achieve full functionality
+Integro is NRCan’s new “one window” funding portal. The Energy Efficiency and Technology Sector (EETS) worked with the Corporate Management & Services Sector (CMSS) to develop this online solution for application intake, case and workflow management and reporting, and to support the delivery and client relationship management for NRCan programs. The CGP was the first program to use this new enterprise-wide solution.
+Respondents across lines of evidence described the Integro system as a step towards effective digitization of program processes, including online application, coordinated access for reviewers, and improved tracking and reporting for the program. However, a new system also comes with challenges. Survey respondents indicated they found it somewhat difficult to navigate and experienced frequent system errors at the onset of the program. More specifically, the most frequently cited issues reported by users through the evaluation survey included problems with system access, saving work in progress, overly constraining word limits for text boxes, and errors in reporting templates. Internally, data management through the Integro system could also be improved so that all information remains accessible to the program over time (currently, some elements of reporting get overwritten) and can be outputted more easily. This would be helpful for performance measurement as well as audit and evaluation.
+The Collaboration Community did not reach its full potential as a useful element in program delivery
+The online platform was meant to help CGP proponents identify potential partners, including provincial and federal stakeholders, as well as facilitate a centralized repository of resources made available by federal Labs, PT programming and other funding and non funding supports. As of April 2018, the portal had 615 members. However, very few stakeholders indicated they used the Collaboration Community after initial sign-up, and none found it particularly helpful. The evaluation could not identify new partnerships formed through this mechanism. Program staff reported it was challenging to maintain (e.g., updating the site with new material to keep content fresh and interest high). Several proponents and Trusted Partners expressed a need for a direct contact at NRCan to help navigate the various programs available and facilitate networking directly, as opposed to a forum model.
+The CGP aligned with GBA Plus requirements at the time of program design
+A GBA Plus analysis was conducted as part of the design of the NRCan program supporting clean growth in natural resource sectors funded in Budget 2017. Findings of this initial assessment appear in the design documentation and the Performance Information Profile for the Energy Innovation and Clean Technology (EICT)  Program that includes the CGP. The documents note that women, particularly Indigenous women, continue to be under-represented in the natural resource and clean technology sectors, but conclude that “nothing in the design and delivery [of CGP] would differentially affect gender groups or reinforce the existing gender imbalance.”
+Underrepresented or marginalized groups often need longer timelines, different processes, and capacity support to maximize their participation in clean technology funding programs.
+Footnote
+11
+While they do not address underlying issues of underrepresentation of diversity within STEM education and the clean technology workforce, elements of the CGP’s design (such as the LOI process and STAC model for SMEs) could be useful to facilitate participation of underrepresented groups. However, the GBA Plus analysis conducted by the program also indicated that understanding the interplay of diversity factors in the clean tech sector is made difficult by a lack of disaggregated data.
+Footnote
+12
+Hence, the Clean Growth Program was meant to collect data on gender and diversity related issues, such as disaggregated data on participation and retention rates, to improve the information base for future program design. In application templates, proponents were asked to mention Indigenous community engagement/participation, and whether their project would contribute to increased participation of underrepresented groups. However, NRCan programs are still limited in what they can require (versus request on a voluntary basis) in terms of EDI related data.
+Six of 35 funded projects involved Indigenous participation. For 29 projects that reported on the number of female highly qualified personnel (HQP) involved on their team, the average percentage of women among HQP was 31%. A little over a third of survey respondents indicated that their project produced benefits for members of underrepresented groups, either through implementation (e.g., diverse teams) or project results (e.g., benefits to communities).
+What We Found – Effectiveness: Expected and Unexpected Outcomes
+Summary of Key Finding
+The CGP achieved a portfolio mix of projects as intended. Projects are progressing and producing deliverables mostly as planned although about half of the CGP projects had to be extended because their launch was delayed, or because they were impacted by the pandemic. The CGP was timely in providing support to a majority of projects that may have (without intervention) been terminated or abandoned due to the challenges posed by the COVID-19 pandemic. Overall, projects would not have been the same, or may not have been carried out at all, without the CGP funding.
+While it is too soon to report on ultimate outcomes of the program, including environmental benefits, there is evidence that the CGP is meeting its expected immediate outcomes and is progressing towards intermediate outcomes. Specific findings against each of the CGP’s immediate and intermediate outcomes include:
+Increased Collaboration: The program has resulted in opportunities to collaborate with provincial or territorial partners across sectors (although not in all instances). New business connections and potential business opportunities were reported as unexpected positive benefits.
+Investment by Stakeholders: The program has leveraged investments of at least a 3:1 ratio.
+Increased Knowledge Production: a number of patents, peer reviewed papers, and inputs to codes/standards and regulations have been made.
+Advancing Commercial Readiness: increased speed-to-market (e.g., 50% of projects self-assessed as advancing TRL levels). Most projects expect their technology to get to, or close to, full commercial readiness over the next five years.
+Growth in Clean Tech Sector: across projects, a reported increase of 252 person-year employment positions for Highly Qualified Personnel.
+While data was available to inform achievement of immediate outcomes, in some cases data available on intermediate outcomes limited analysis or could be improved. The evaluation identified a disconnect between the data requirements outlined in OERD’s reporting templates and its expectations for their implementation.
+Recommendation 2:
+OERD should implement practices for performance measurement
+for innovative programming by:
+Identifying performance measurement data that best informs progress and accomplishment of its expected results.
+Identifying clear directions, definitions, targets, data strategies and follow-up as required for reporting information.
+While it is too soon to report on results beyond those measured by short-term indicators, data collection and reporting practices could be improved.
+Through the Performance Information Profile for the Energy Innovation and Clean Technology Program (October 2020), OERD has defined a common process for performance measurement for all of its RD&D projects. The performance measurement strategy for the CGP adheres to this structure, while also including a performance measurement framework focused on the CGP’s specific expected outcomes.
+It is too soon to fully report on results beyond those measured by short-term indicators. Data available to inform performance even on progress towards immediate outcomes was somewhat limited given delays in implementation, as contribution agreements for most projects were not finalized until 2019-20. Since most RD&D projects take years to develop and become operational, the time horizon for achievement of outcomes such as awarding patents, advances in TRLs or reductions in GHGs, water usage or waste, do not materialize until the final year of the project or later. Projects will be required to report on results for five years post-funding to better align with the time horizon for results of RD&D projects to accrue. Demonstration projects which are expected to have a direct impact on environmental outcomes, will start reporting environmental outcomes at project completion. R&D projects and FEED studies which will not have a near-term, direct impact on environmental outcomes, are not required to report environmental outcomes.
+However, there is a difference between the overall program reporting and individual project reporting. The evaluation found that data were available to support measurement of the program’s outputs and immediate outcomes, but in some cases data available limited analysis or could be improved. At the start of each project, proponents are required to complete a project form to validate and update project information from their full proposal including planned outcome results like TRL, environmental impacts by area, HQP targets and other project specific indicators (which can be different for FEED, DEMO and R&D projects). The annual project report form indicates that proponents are required to provide annual updates against the targets they set in their initial project form at the project level. The quarterly financial template uses a green, yellow, red coding system to report on project timing status, project scope status and budget spent to date. The template also includes requirements to provide written summaries of achievements made and any barriers or challenges faced within the reporting period.
+Through the data review, the evaluation identified a disconnect between the data requirements outlined in these reporting templates and OERD’s expectations for their implementation. For example, the evaluation did not find evidence of proponents updating or confirming targets consistently. However, OERD indicated that an update is only required if a change occurs. As the template does not include a box to indicate “no change,” it is difficult to determine where there really is no change or if there is missing data. For the project specific performance targets (the variable ones based on a project), data were also only available for some projects. The program explained that project specific performance targets that involve achievement of technical performance thresholds are only achieved at the end of the project if not later, and that proponents would report against them at project completion and as part of a follow-on report. That proponents are not required to report earlier could also be clearer in reporting templates.
+The program explained there was no efficient way to present quarterly project information from project launch up to the present. As such, only Q3 and Q4 of the ongoing year (2020-2021) were available for review. The evaluation also found that there were a number of missing annual reports (25% not submitted in 2020-21), others missing quarterly reporting on financials, and not all projects completed the baseline project information form. There were also data points in the administrative data provided for analysis that were missing, incorrect, left blank or not logical (e.g., change in TRL levels with a negative delta indicating a project was moving backwards, starting at 7 and reporting current state of 3). However, OERD indicated that these TRL data are not used to assess progress; it only evaluates TRL advancement at the end of the project. While data reported may indicate a proponents’ best estimate, proponents are not required to conduct detailed annual TRL assessments given the time and resources required to complete a thorough assessment (verified and validated by an S&T advisor), and the slow rate at which TRLs usually advance. TRLs are not used to monitor day to day or year-to-year project progress.
+There was also some hesitancy expressed by internal, external and proponent interviewees regarding the sufficiency of performance indicators being able to truly reflect the innovation in the program. For example, insufficient reporting on program effectiveness related to its innovative elements (e.g., TP model) and at the project level, with traditional job indicators not being viewed as appropriate or valuable. The lack of effective indicators for measuring innovation is not unique to NRCan.
+The CGP is producing outputs appropriate to support the achievement of expected outcomes.
+CGP met its objectives to select and fund a portfolio of varied and diverse projects. The program funded 51 projects with 42% of projects being cross-sectoral. On balance, the 1/3 split among energy, mining and forestry sectors was honoured, and there was distribution among a number of technology areas. Figure 7 provides a summary of the CGP projects portfolio.
+Figure 7: CGP Approved Projects for Funding
+Text version
+Figure 7: CGP Approved Projects for Funding
+Energy - 18 Projects
+Total Funding Approved (up to) $56,332,500
+11 R&D
+7 Demo
+Technology Areas Covered:
+Advanced Materials; Carbon Capture, Utilization, Storage; Emissions Controls/Monitoring; Energy/Process Efficiency; Remediation/Reclamation; Renewables
+Mining  - 21 Projects
+Total Funding Approved (up  to)
+$44,827,501
+8 Demo
+13 R&D
+Technology Areas Covered:
+Clean Transportation; Carbon  Capture, Utilization, Storage; Remediation/Reclamation; Energy/Process  Efficiency
+Forestry - 12 Projects
+Total Funding Approved (up to)
+$47,675,800
+8 Demo
+4 R&D
+Technology Areas Covered:
+Energy/Process Efficiency; Clean Transportation; Bioenergy; Biochemicals
+Source: CGP Documentation
+Database records available to be reviewed (2020-21 Q3 and Q4 data) indicate that the vast majority of projects reported their activities were proceeding on budget, and more than half indicated that their project was progressing within established timelines. However, the COVID-19 pandemic disrupted projects to some extent, and some proponents were impacted by administrative program delays (e.g., funding decisions or announcements, development of initial agreements, processing of amendments, etc.). All lines of evidence confirm that CGP pivoted effectively to support projects, the vast majority of which might have otherwise been closed, terminated or abandoned due to COVID-19 challenges. Survey results also support this finding in that most respondents indicate that their project has been implemented as planned, either to some extent (32%) or a great extent (60%).
+Footnote
+13
+Additionally, respondents to the survey identified that the CGP funding overall was very important for their projects with 48% indicating modifications would have been necessary, or that the project would not have been carried out at all (Table 3). In answer to what kind of modifications would have had to be done to a project in the absence of CGP funding, all respondents answered that their project would have been reduced in size, and two responses also indicated that the timeframe of their project would have been shortened.
+Table 3: Projects Would be Different Without CGP Funding
+Count
+%
+The project would have been carried out as planned
+0
+0.0%
+The project would have been carried out, with modifications
+5
+20.0%
+The project would not have been carried out at all
+7
+28.0%
+The project may or may not have gone ahead, depending on other funding opportunities
+10
+40.0%
+Other (e.g., challenges, changed focus)
+3
+12.0%
+Total
+25
+100.0%
+Source: CGP Evaluation Applicant Survey
+What progress has been made towards the achievement of expected outcomes?
+The CGP is meeting its expected immediate outcomes and is progressing with intermediate outcomes.
+a) Immediate Outcome 1: RD&D projects lead to increased collaboration.
+According to internal key informants, the cross-sectoral approach, the STAC component, the Trusted Partnerships and the co-funding requirement were the unique elements of the CGP intended to foster collaboration. Through the document and data review, the evaluation found that all projects involved multiple partners across multiple categories (e.g., provincial, federal, industry, municipalities, Indigenous organization, etc.). Survey responses gave a breakdown of the types of collaboration experienced (Figure 8). Given that the program required proponents to secure provincial/territorial support at the full proposal stage, all projects have at least one external partner.
+Federal collaborators identified are mostly STAC participating labs; however, 40% of identified financial and non-financial partners are other organizations such as Sustainable Development Technology Canada, the National Research Council (Industrial Research Assistance Program), the Impact Canada – Clean Technology Stream (another program delivered by OERD), and the Canada Foundation for Innovation.
+Figure 8: CGP Types of Collaborative Partners
+Text version
+Figure 8: CGP Types of Collaborative Partners
+Provincial cash amount 45 million dollars, in-kind amount 1.3 million dollars.
+Large industry cash amount 34.4 million dollars, in-kind amount 1.9 million dollars.
+Federal cash amount 14.8 million dollars, in-kind amount 6.8 million dollars.
+Small industry cash amount 5.6 million dollars, in-kind amount 8.4 million dollars.
+Medium industry cash amount 2.1 million dollars, in-kind amount 5.3 million dollars.
+Municipal cash amount 0.4 million dollars.
+Individual cash amount 300,000 dollars, in-kind amount 210,000 dollars.
+Non-government cash amount 150,000 dollars.
+Utility in kind amount 275,000 dollars.
+Territory in kind amount 2 million dollars.
+Academia in-kind amount 311,000 dollars.
+Indigenous in-kind 533,000 dollars.
+Source: Clean growth program evaluation applicant survey.
+Source: CGP Evaluation Applicant Survey
+Formalized processes and structures introduced in CGP provided new forums for partner and stakeholder collaboration. Although the program was designed for, and was successful in, facilitating collaboration through STAC, Trusted Partnerships and the cross-sectoral approach, there was a general sentiment from the interviews and focus groups that the program mainly attracted and leveraged existing relationships rather than creating new collaborations. Through interviews and STAC focus groups, a number of proponents and lab representatives indicated they already had a working relationship with their STAC partner prior to the CGP.
+b) Immediate Outcome 2: RD&D projects lead to investment by stakeholders
+The target of at least a 1:1 ratio of partner investment to government investment has been achieved (Table 4). This is a good result because the CGP required projects to be co-funded, but without establishing a minimum amount for funding or leveraging for CGP Approved Projects Dashboard. The documentation captured that PT collaborations have resulted in increased investments for projects.
+Table 4: Ratio of Project Funding Leverage to NRCan CGP Funding
+Primary Project Location
+Number of Projects
+Total Project Costs ($)
+NRCan Funding ($)
+Other Funding ($)
+Leverage Ratio
+Alberta
+15
+278,118,593
+51,765,867
+226,352,726
+4.4 : 1
+British Columbia
+7
+41,437,323
+16,250,731
+25,186,592
+1.5 : 1
+Manitoba
+1
+3,556,466
+1,940,000
+1,616,466
+0.8 : 1
+Northwest Territories
+1
+4,810,187
+419,103
+4,391,084
+10.5 : 1
+Ontario
+10
+77,905,263
+24,430,555
+53,474,708
+2.2 : 1
+Quebec
+8
+71,430,627
+24,252,592
+47,178,035
+1.9 : 1
+Saskatchewan
+1
+2,782,017
+1,986,854
+795,163
+0.4 : 1
+Total
+43
+480,040,476
+121,045,702
+358,994,774
+3 : 1
+Source: Program documentation.
+Calculated based on the most recent updates of contribution agreements & supporting project budgets. Calculation excludes final Q4 project claims (not due until June 30, 2022).
+Proponents explained that CGP funding served to boost a SMEs’ credibility when approaching other industrial or funding partners. They stated that government funds contribute to reducing the risk associated with projects. Therefore, it is easier to secure other supports.
+However, the program did not track how the Collaboration Community actually assisted with the identification of potential co-funders. Interviews confirmed that instances of co-funding and off-boarding took place, but the information is partial. No evidence was found that the Collaboration Community had an impact on securing investment.
+c) Immediate Outcome 3: RD&D projects lead to increased knowledge production
+Project reports and insight from proponents confirm that the program led to increased knowledge production (mainly media coverage, patents and intellectual property, articles and presentations).
+Data in proponents’ 2019-2020 annual reports on project performance shows that projects have already produced a number of knowledge products, as shown in Table 5. Peer reviewed papers were published in the Journal of the American Chemical Society, the Journal of Paleolimnology, the Journal of Quaternary Science, the International Journal of Engine Research, the international journal Cellulose, and Sustainable Materials and Technologies. Patent applications were filed for the production of fine grain magnesium oxide and fibrous amorphous silica from serpentinite mine tailings and for a steam-solvent-gas process with additional horizontal production wells to enhance heavy oil / bitumen recovery. OERD indicated that it expects to see more significant outcomes accrue towards the end of the program cycle, given the time required to advance innovation.
+Table 5: Knowledge Products Generated by CGP Projects
+Footnote
+14
+Type of Knowledge Product
+Total (all projects)
+Media product, news coverage, etc.
+198
+Patent/Licence/Other IP
+59
+Scientific Knowledge Product (peer review paper, etc.)
+58
+Scientific Report (presentation, white paper, etc.)
+64
+Input into Codes/Standards/Policies/Regulations
+6
+Other
+146
+Grand Total
+531
+Source: CGP Database
+d) Intermediate Outcome 1: RD&D projects move technologies closer to commercial readiness.
+The CGP program set a target to have 50% of RD&D projects advancing by at least one level on the TRL scale by 2023. While the extent to which each project’s TRL has advanced has not yet been verified and validated by an S&T advisor, there are some early indications of likely progress. Half of projects that submitted a 2019-2020 annual report indicated an increase in technology readiness level, between plus one (+1) and plus four (+4) levels (all those projects had started with a TRL of at least 3). Additionally, all survey respondents, as well as all proponents and most federal lab collaborators in STAC focus groups confirmed that their project had brought a technology closer to commercial readiness. Examples to illustrate progress include:
+Text version
+Prototype Testing on Oil Sands Tailings: Dewatering Technology, moved from TRL 5 –  system/subsystem prototypes are improved significantly to TRL 8 –
+proving the technology to work in a  “real world” operating environment
+.
+A mine reclamation project using  fabricated soils and organic residuals to augment soil quality moved from  established proof of concept (TRL 3) to a prototype near or at planned  operational system (TRL 7). As reported in the 2019-20 annual project report,  approximately
+143 hectares  of mine land areas have received the biosolids application and the areas are  reclaimed
+.
+All survey respondents indicated that the Clean Growth program effectively contributes to bringing technology closer to commercial readiness, either to some (24%) or to a great extent (76%). All respondents expect, either to some extent (8%) or to a great extent (92%) to have their technology get to, or close to, full commercial readiness over the next five years.
+e) Intermediate Outcome 2: RD&D projects increase growth of cleantech sector.
+Although this cannot be quantified precisely, it is likely the CGP made a contribution to growing the cleantech sector by generating new insights, creating new employment opportunities and developing HQP talent.
+The projects do not report textually on “personnel trained,” only on Highly Qualified Personnel (HQP). In 2019-2020, this information was available across 35 of the 52 funded projects. These projects reported a total of 530 ‘current employment’ person-years for 2019-2020. This represents a 252 person-year increase from the start of the projects.
+In addition, these projects involved about 575 HQP (an increase of 205 since the start of those projects). Additionally, most survey respondents expect, either to some extent (20%) or a great extent (76%) to have achieved their outcomes in regard to training new qualified/specialized personnel, and expect either to some (28%) or a great extent (60%) to have achieved their outcomes related to creating new employment opportunities.
+Conversely, none (0%) of the proponents or federal lab representatives in the focus groups thought CGP contributed to employment, though two proponents mentioned co-op students.
+There were unintended outcomes associated with the CGP
+The survey of proponents, interviews and the focus groups revealed that the CGP has generated some unintended outcomes.
+Positive unintended outcome
+New/spin-off connections (e.g., new opportunities);
+Learnings from the projects (e.g., additional product designs), and
+Other long-term gains related to experience/capacity and knowledge development
+Negative unintended outcomes
+Requirement for provincial partnerships ended up disadvantaging those provinces with less provincial funding.
+Detailed costing requirements posed unexpected constraints for proponents, e.g., on overhead expenses and budgeting.
+Proponent frustrations between NRCan’s requirements (i.e., to provide funds on a fixed schedule) and regulator requirements (i.e., regulator stating the project can’t proceed quickly because the issue needs further study).
+What We Found – Efficiency
+Summary of Key Findings:
+The evaluation found that the CGP program was largely delivered as planned. However, there were differences in planned program timelines and a number of cases of project start-up delays that resulted in slowed spending of contribution amounts. Program expenditures were not spent according to plan. The program lagged in implementation by approximately one year. The program had lower than projected human resources and competing demands particularly during the critical first two years of the program. Additional effort was needed to implement new elements such as STAC, the Integro system and the Trusted Partnership model, in addition to managing the oversubscription of the program. Data from all sources supported that the CGP responded efficiently through design flexibility to ensure projects steered through the challenges of the COVID-19 pandemic.
+The CGP experienced a delayed implementation.
+Broadly speaking, the CGP program was delivered according to the original design and intent. However, documents show delays in planned timelines. Start-up delays affected the utilization of contribution amounts. For example, given the length of time taken to complete due diligence, the majority (72%) of CAs were completed in the third year of the program, 2019-20, most in Q2, Q3, and Q4 of that year. This left approximately one year for many proponents to complete their projects (not considering the one-year program extension due to COVID-19).
+The evaluation encountered difficulties reconciling estimates of full-time equivalent staff across sources of information to confirm an accurate representation of resources utilized by the program. Further, there is no reporting mechanism to track horizontal use of time spent by staff on individual projects/programs. However, NRCan’s Departmental Results Report indicates that human resource capacity for the CGP was not brought fully onboard until 2019/20, the third year of the program. Financial information received from the program indicates that spending on both salaries and contribution amounts lagged behind the original cash profile commitments as well as program budgets. The program took one year longer to ramp up (Figure 9) and is consistent with the lower than planned number (-45%) of FTEs at that point. This delayed spending left gaps that needed to be filled in the final year of the program, at which time, the COVID-19 pandemic caused further disruption. Due to the COVID-19 pandemic, CGP was approved for a one-year extension to 2021-22.
+Figure 9: The CGP Was Delayed in Delivering on Committed Spending
+Footnote
+15
+Text version
+Figure 9: The clean growth program was delayed in delivering on committed spending (cash profile commitments are as per program approval).
+2017-18, zero. Commitment 2018-19 46 million dollars. Actual grants and contributions 22.7 million dollars. Ramp-up delayed. Budgeted grants and contributions 2018-19, 20 million dollars. 2019-20 cash profile commitments and budgeted grants and contributions, 44.8 million dollars. Actual grants and contributions, 37.4 million dollars. 2020-21 cash profile commitments and actual grants and contributions, 35.9 million dollars. Budgeted grants and contributions, 33.4 million dollars. 2021-22 budgeted grants and contributions, 28.2 million dollars. Source: clean growth program financial data.
+Source: Clean growth program financial data.
+Source: CGP Financial Data
+The financial data identifies the slowed pace of spending on salary in year 2 of the program (2018-19), with catch up efforts taking place in 2020-21 (Figure 10).
+Figure 10: The CGP Underspent Salaries in the Ramp Up Year
+Text version
+Figure 10: The clean growth program underspent salaries in the ramp-up year
+2017-18 budgeted salaries 1.2 million dollars. Actual salaries 1.3 million dollars. Cash profile commitments 1.2 million dollars. 2018-19 budgeted salaries 2.5 million dollars. Cash profile commitments 2.5 million dollars. Actual salaries 1.4 million dollars. Under-spend. 2019-20 budgeted salaries 2.5 million dollars. Cash profile commitments 2.5 million dollars. Actual salaries 2.4 million dollars. 2020-21 budgeted salaries 1.8 million dollars. Actual salaries 2.5 million dollars. Cash profile commitments 2.5 million dollars. Catch-up. 2021-22 budgeted salaries 740,000.
+Source: CGP Financial Data
+Funds that were not spent given delays (including those introduced by COVID-19) were reprofiled to future fiscal years (Figure 11). As of November 2021, the CGP had only spent about 18% of its reprofiled budget for the current fiscal year. However, this difference is likely largely due to spending on contribution agreements that is not expected until Q4 of 2021-22.
+Figure 11: Total Actual Expenditures vs Reprofiled Budget
+Text version
+Figure 11: Total actual expenditures versus reprofiled budget
+2017-18 total actual spend 3.6 million dollars. Total reprofiled budget 4.1 million dollars. 2018-19 total actual spend 26.9 million dollars. Total reprofiled budget 24.2 million dollars. 2019-20 total actual spend 44.1 million dollars. Total reprofiled budget 52 million dollars. 2020-21 total actual spend 42.7 million dollars, total reprofiled budget 41.8 million dollars. 2021-22 (to November 2021) total actual spend 6 million dollars, total reprofiled budget 32.9 million dollars. Source: systems applications and products.
+Source: Systems applications and products.
+Source: SAP data
+As the CGP was a four-year program, implementation delays posed a risk to the achievement of results. Program design documents recognized this risk, to be mitigated by undertaking a proactive human resources strategy and implementation strategy for the program (e.g., assessing needs and working with departmental service providers to develop plans to bring necessary capacity online) in anticipation of program approval. However, staffing processes can only be initiated once program funding is received and are limited by the capacity of corporate service providers to support these processes.
+OERD had a total of seven new programs approved in 2017-18; all of which planned to leverage the A-base
+Footnote
+16
+horizontal staffing matrix employed by OERD. This resulted in some staff working on CGP also supporting up to six additional programs. This, coupled with the unexpected transfer of some program resources to other areas, created capacity limitations within OERD, particularly when faced with the difficulty of balancing multiple new, innovative approaches to program design and delivery. OERD also noted the high volume of agreement amendments in the last year of the program due to re-profiling of funds and the administration of top up funding into an additional year due to COVID.
+Having consistent points of contact at NRCan is beneficial… changes in resources were disrupting.
+Proponent
+While the evaluation could not verify the specific number of FTEs dedicated to the program, among internal interviewees and OERD management, there is consensus that resources were less than OERD had been allocated, and these were insufficient to run the CGP, especially in light of the volume of applications, and the additional work needed to implement new elements of the program. Interviewees and focus group respondents indicated that the program and corporate services were understaffed and also identified staff turnover as being problematic. This lack of resources was a key contributing factor for processing delays that affected the program throughout implementation and delivery. A joint audit and evaluation of NRCan’s Impact Canada – Clean Technology Stream (2021) identified similar issues in use of resources stemming from limitations in the horizontal staffing matrix employed by OERD to support new clean tech programs announced in Budget 2017.
+Similarly, the cross-sectoral approach was difficult to implement given differing levels of capacity and expertise across the different sectors within NRCan. Program data indicates funding amounts (~$9.4M) transferred to other NRCan sectors (including CFS and LMS) and other government departments (~$1.75M) to support the cross-sectoral program focus. The evaluation was unable to conclude on the extent to which this allocation of resources to different areas was appropriate or sufficient to support efficient program delivery.
+The CGP was responsive to COVID-19 pandemic challenges
+Proponents are asked to report quarterly (in addition to annual reporting) on whether projects are progressing as expected against timelines, scope and budget. Only Q3 and Q4 2020-2021 quarterly report data were available for review at the time of the evaluation.
+Footnote
+17
+For Q3, the database contained 34 valid records.
+Footnote
+18
+In terms of project timing status, 18 projects (53%) indicated that their project was progressing within established timelines, 9 projects (26%) reported being somewhat behind schedule, and 5 projects (15%) indicated they were significantly behind schedule. The results are similar in terms of evolution against expected project scope:
+22 projects (65%) reported no change to project scope
+6 projects (18%) reported slight changes with limited impact
+4 projects (12%) reported important change with significant impact
+All but two projects indicated that their project was unfolding on budget. The main challenges affecting projects were mainly external to the program including COVID-19 repercussions, but also infrastructure and equipment issues, as well as delays in some steps of the process (e.g., receiving test results from partners). Results from Q4 of 2020-2021 concerning progress against timeline, scope and budget are very similar to Q3 data.
+Document and data review, interview and focus groups, and the evaluation’s survey corroborate that the CGP responded effectively to the challenges posed by the COVID-19 pandemic through design flexibility on timelines and budgets. Documents show that the CGP reprofiled $13.2M in contributions and $4.1M in O&M and salary into 2021-22 to allow proponents to complete their projects.
+Conclusions
+Overall, the evaluation found through all lines of evidence that the CGP is relevant, and its objectives are clearly in line with federal and departmental priorities. The broad stakeholder engagement undertaken by the program resulted in an effective determination of priorities and needs for all stakeholders involved. The purposeful cross-sector design and ongoing engagement with other federal programs ensured the program filled a much-needed gap for support.
+The CGP has mostly been implemented as planned, and some innovative features of the program were beneficial. The Trusted Partnership model lowered redundancy, improved efficiency, and has led to more jointly-developed programming with provinces enabling targeted support to joint priorities. The STAC model is highly valued by proponents and the federal labs with whom they are working, providing access to federal research infrastructure and technical competencies from which proponents are deriving great benefit. The STAC model in particular has been acknowledged as something to be continued.
+Based on progress to date and in consideration of implementation delays (not all of which were in NRCan’s control), the program has been effective in achieving its short-term outcomes, producing immediate benefits for increasing collaborations, leveraging investments, advancing technologies toward market readiness and managing progress within the context of the COVID-19 pandemic. The achievement of intended outcomes was evident through all lines of evidence. The performance measurement strategy implemented for the program enabled the determination of these immediate benefits; however, in some cases data available limited analysis or could be improved. The evaluation identified a disconnect between the data requirements outlined in OERD’s reporting templates and its expectations for their implementation. It is too soon to report on ultimate outcomes of the program, including environmental benefits. For a period of five years following the end of a project (with some exceptions), annually, an updated outcomes report is required. Using a template supplied by NRCan, proponents will continue to report on short-term, intermediate-term, and, to the extent possible, long-term outcomes.
+The design of the program was challenging to implement. It is unclear if the program has attained optimal operational efficiency. Balancing the implementation of at least six new innovative approaches (1/3 equal split across sectors, the mandatory PT co-funding, the launch of a new client relationship management ‘beta’ system, the establishment of the Collaboration Community platform, along with the Trusted Partnership Model and the STAC model) was ambitious. Timelines for implementation were delayed and projects were delayed in start-up due to lags in the establishment of contribution agreements and the complicated process of establishing agreements required for STAC projects. Staff turnover, lower than projected human resources and competing demands, particularly during the critical first two years of the program, slowed implementation. The general sense that the program was understaffed contributed to a perceived less-than-optimal level of efficiency in delivery.
+Appendix A: Evaluation Team
+Chief Audit and Evaluation Executive
+Michel Gould
+Evaluation Team
+Stephanie Kalt – Director, Evaluation
+David Ash – Senior Advisor, Chief Audit and Evaluation Executive’s Office
+Jamie Riddell – Senior Evaluation Manager
+Edmund Wolfe – Senior Evaluator
+Karen Croteau – Project Manager, Goss Gilroy Inc.
+Marie-Philippe Lemoine – Consultant, Goss Gilroy Inc.
+Footnotes
+Footnote 1
+The program set some specific targets for environmental impacts: green house gas reductions from 0.3 to 0.7 megatons per year upon project completion/by 2026; water use reduced by 100,000 m3 to 2,000,000 m3 per year by 2026, and waste decreased by 20,000 tonnes to 30,000 tonnes per year by 2026.
+Return to footnote
+1
+referrer
+Footnote 2
+NRCan (2021). Applicants' Guide for the Clean Growth Program.
+Return to footnote
+2
+referrer
+Footnote 3
+Note: Assessment for this question differentiates between R&D projects and Demonstration projects.
+Return to footnote
+3
+referrer
+Footnote 4
+The evaluation working group included the NRCan AEB evaluation lead, OERD staff involved in the delivery of the CGP (manager, advisor and policy analyst), as well a representative from the Canadian Forest Service and one from the Lands and Minerals Sector.
+Return to footnote
+4
+referrer
+Footnote 5
+Statistics Canada (2018).
+Provincial and territorial natural resource indicators, 2009 to 2016
+. Provincial and territorial natural resource indicators, 2009 to 2016.
+Return to footnote
+5
+referrer
+Footnote 6
+Ipsos (2021).
+Canadians Support Natural Resource Development
+. Canadians Support Natural Resource Development.
+Return to footnote
+6
+referrer
+Footnote 7
+Environics institute for survey research (2018). Canada’s World Survey 2018.
+Canada’s World Survey 2018
+(PDF - 1.87 MB).
+Return to footnote
+7
+referrer
+Footnote 8
+Leger (2021), Leger’s North American Tracker
+.
+The Canadian Press. May 3, 2021,
+Leger’s North American Tracker.
+Return to footnote
+8
+referrer
+Footnote 9
+International Energy Agency (2020).
+Energy Technology Perspectives 2020.
+Return to footnote
+9
+referrer
+Footnote 10
+Recent similar programming, e.g., Oil and Gas Clean Tech program received proposals requesting $350 million against a $50 million funding envelope. Similarly, the Clean Energy Innovation program received proposals requesting $700 million against a $25 million funding envelope.
+Return to footnote
+10
+referrer
+Footnote 11
+Stratos (2021). Deepening Reconciliation, Equity, Diversity and Inclusion Considerations in Canada’s Clean Technology Funding Programs.
+Return to footnote
+11
+referrer
+Footnote 12
+The availability of disaggregated data is not a limitation dealt with by only the CGP. The federal government recognizes the importance of filling gaps in disaggregated data and is taking steps to address this matter. See Statistics Canada,
+Gender, diversity and inclusion statistics
+.
+Return to footnote
+12
+referrer
+Footnote 13
+Given the timing of the survey, this likely reflects post-COVID adjustments for several projects.
+Return to footnote
+13
+referrer
+Footnote 14
+Annual Reports 2019-2020 (Internal document)
+Return to footnote
+14
+referrer
+Footnote 15
+Cash profile commitments are as per program approval.
+Return to footnote
+15
+referrer
+Footnote 16
+‘A-base’ staff are ongoing positions aligned to voted authorities supporting a department’s operations.
+Return to footnote
+16
+referrer
+Footnote 17
+The Integro database can only extract the most recent available information. The program explained there was no efficient way to present quarterly project information from project launch up to the present. As such, only Q3 and Q4 of the ongoing year (2020-2021) were available for review.
+Return to footnote
+17
+referrer
+Footnote 18
+Some records in the database were blank or the data entered was not logical (i.e., decreasing TRL levels).
+Return to footnote
+18
+referrer
+Report a problem on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2022-12-29

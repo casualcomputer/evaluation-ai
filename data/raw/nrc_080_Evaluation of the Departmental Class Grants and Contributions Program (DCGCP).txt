@@ -1,0 +1,1251 @@
+Evaluation of the Departmental Class Grants and Contributions Program (DCGCP)
+Table of Contents
+Acronyms
+Executive Summary
+Acknowledgments
+1.0 Introduction
+2.0 Background
+2.1 Program Description
+2.2 Program Governance
+2.3 Resources
+3.0 Evaluation Design
+3.1 Evaluation Scope and Objectives
+3.2 Evaluation Approach and Objectives
+3.3 Methodology
+3.4 Limitations
+4.0 Evaluation Findings
+4.1 Relevance
+4.2 Effectiveness
+4.3 Economy and Efficiency
+5.0 Conclusions and Recommendations
+Appendix A: DCGCP - Logic Model for Evaluation Purposes
+Appendix B: Accountability Framework: DCGCP
+Appendix C: Evaluation Framework
+Acronyms
+AMI
+Application for Modules and Interfaces (database containing departmental information about grants and contribution agreements)
+CMSS
+Corporate Management and Services Sector
+COE
+Centre of Excellence for Grants and Contributions
+DCGCP
+Departmental Class Grants and Contributions Program
+DFO
+Department of Fisheries and Oceans
+DPR
+Departmental Performance Reports
+ECCC
+Environment and Climate Change Canada
+ES
+Energy Sector
+ESS
+Earth Sciences Sector
+FAA
+Financial Administration Act
+FMB
+Financial Management Branch (of CMSS)
+GoC
+Government of Canada
+GEM
+Geo-mapping for Energy and Minerals
+Gs&Cs
+Grants and Contributions
+IETS
+Innovation and Energy Technology Sector
+MMS
+Materials and Metals Sector
+NRCan
+Natural Resources Canada
+O&M
+Operations and Maintenance
+PAA
+Program Alignment Architecture
+PAPMS
+Public Affairs and Portfolio Management Sector
+PERD
+Program for Energy Research and Development
+RPP
+Report on Plans and Priorities
+SO
+Strategic Objectives
+SPRS
+Strategic Policy and Results Sector
+TB Sub
+Treasury Board Submission
+TBS
+Treasury Board Secretariat
+TGI-4
+Targeted Geoscience Initiative – 4
+TPRC
+Transfer Payments Review Committee
+Ts&Cs
+Terms and Conditions
+Executive Summary
+This report presents the findings, conclusions and recommendations of the evaluation of the Departmental Grants and Contributions Program (DCGCP) at Natural Resources Canada (NRCan) conducted between May and September 2016. As a transfer payment program, the DCGCP was scheduled on the NRCan Departmental Evaluation Plan to meet requirements of the
+Financial Administration Act (FAA)
+.
+Footnote
+1
+It covered the four-year period 2012-13 to 2015-16 and disbursements of approximately $22 million.
+The DCGCP enabled NRCan to support activities for which there was no other authority, but which were considered a cost-effective and efficient means to support the departmental mandate. In keeping with the rationale for the authority, a wide array of recipients and activities were eligible for funding and all NRCan managers had access to the authority.
+Under the DCGCP, grants and contributions were delivered according to the terms and conditions (Ts&Cs) established for the DCGCP and as per the
+Policy on Transfer Payments
+.
+Footnote
+2
+While the authority existed since 1997, the evaluation considered the Ts&Cs approved by Treasury Board in 2008, extended by Ministerial authority in 2012, and set to expire March 31, 2017.
+1.1 Evaluation Approach and Methodology
+The evaluation examined issues of relevance and performance as per the
+Policy on Evaluation (2009)
+Footnote
+3
+.  The evaluation focus on administrative outcomes recognized management interest in changes made to improve management and accountability arising from the previous evaluation of the DCGCP (2012) and the Horizontal Audit of Transfer Payments Project (2011).
+Evidence was collected along four lines of data as follows:
+Document review of program documents
+Interviews with NRCan users and program managers (n=13)
+Interdepartmental comparison of two similar programs in other departments (Department of Fisheries and Oceans and Environment and Climate Change Canada).
+Agreements Module Interface (AMI) database review of project information for 429 agreements.
+1.2 Relevance
+All lines of evidence pointed to the need for a Grants and Contributions (Gs&Cs) funding authority to fill gaps in existing program Terms and Conditions (Ts&Cs). Gs&Cs enabled government to support activities in the public interest, but which were inappropriate or inefficient for government to deliver directly. This need was recognized throughout government as other federal departments had authorities in place for a similar purpose.
+The goals and objectives of the DCGCP were consistent with the NRCan mandate and the authority of the Minister as outlined in the
+Department of Natural Resources Act, Energy Efficiency Act
+Footnote
+4
+, Resources and Technical Surveys Act
+Footnote
+5
+,Forestry Act
+Footnote
+6
+. The activities funded under the authority supported all three NRCan strategic objectives. In particular, it enabled funding support for international government priorities related to the NRCan mandate such at the International Energy Agency Implementing Agreement on Hybrid and Electric Vehicle Technologies and the International Partnership for Energy Efficiency Cooperation.
+1.3 Performance
+The DCGCP operated largely as intended and met the requirements of the
+FAA
+and
+Policy on Transfer Payments
+with respect to Gs&Cs.  The DCGCP was particularly effective in providing authority that permitted NRCan to respond to changing priorities and unforeseen circumstances, continue activities during periods of transition, and enable program managers to allocate program funds in a strategic manner.
+The DCGCP overwhelmingly supported projects that aligned directly to the NRCan strategic objectives (SO). Over 86% of total funds allocated and 86% of agreements signed were allocated to SO 1: Canada’s Natural Resource Sectors are Globally Competitive (45% of funds, 41.3% of agreements) and SO 2: Natural Resource Sectors and Consumers are Environmentally Responsible (34.6% of funds, 45% of agreements).  However, the inaccessibility of project results data prevented an analysis of the manner in which the DCGCP contributed to the achievement of these strategic outcomes.
+Oversight was risk-based. For example, grants and non-competitive class contributions required approval of the Assistant Deputy Minister, Deputy Minister or Minister depending on materiality. Guidance to ensure compliance was provided by the Centre of Excellence for Grants and Contributions (COE), with all NRCan users reporting that advice received in person was timely and accurate. However, written documentation on the DCGCP was less effective. Varying sector processes (e.g. budget allocation, approvals) during the early stages of a project challenged the COE ability to provide definitive written guidance for the whole of NRCan. As a result, all written documentation contained the caveat to contact the COE directly when using the Class authority. Users also reported that the written guidance was difficult to access from
+the Source
+and overall organization of the materials created challenges in identifying correct forms.
+Grants and contributions in general, and the DCGCP specifically, were an economic means of supporting government objectives, as they encouraged the leveraging of resources and collaborative efforts. There was no alternate model of delivery that would enable NRCan to achieve similar results more efficiently. Certain characteristics in the design of similar programs delivered by other federal departments however, such as identified budgets and eligible activities linked more directly to lower level program objectives, were identified as areas where the NRCan authority could be improved.
+The high quality of advice provided by the COE and the development of standard agreements were felt to be key factors facilitating the achievement of results while ensuring due diligence was exercised. The key factor hindering results related to the lack of documented internal processes for the establishment of class agreements within sectors, as well as lengthy approvals processes.
+The most commonly cited means of improving the management of the DCGCP were by reducing the number of approvals required, and developing a centralized and electronic information management system. Other suggestions include limiting changes to the wording of agreements to save time and reduce costs, better defining eligible activity categories for projects to better align with the types of projects funded, and identifying internal funding sources to avoid funding delays.
+1.4 Conclusions and Recommendations
+All lines of evidence supported the need for a Gs&Cs authority such as the DCGCP to support the NRCan mandate when existing authorities did not suffice. The DCGCP itself was viewed as a valuable means for program managers to efficiently and economically allocate program funds for which they were responsible in a manner that supported NRCan objectives.
+A number of areas were also identified in which the program could achieve higher efficiencies, most particularly by reducing the number of approvals and the overlap between sectoral and corporate processes. As well, the lack of standard documented processes for the establishment of class agreements within and among sectors using the Class authority created confusion for users and challenges in accessing program guidance material. Other notable opportunities for improvement include updating activity categories for projects, better information management practices, and identifying internal funding sources to avoid funding delays.
+It remains challenging to assess the overall effectiveness of the DCGCP projects given the variety of intended project outcomes and the lack of a central repository for project performance information. Furthermore, quantifying efficiency and economy is challenging given that the resources used in administering the DCGCP are not tracked separately and are absorbed by the sectors using the Class Authority, as well as the Finance and Procurement Branch that administers the COE.
+Areas for improvement give rise to the following three recommendations:
+Recommendation 1: NRCan should update project activity categories, DCGCP objectives and eligible activities to better reflect how the authority is used.
+Recommendation 2: NRCan should develop a central repository and associated information management strategy for project performance and administrative data to improve accountability and ease of access for users.
+Recommendation 3: NRCan should develop a single and universally applied process for the management and approval of the Class authority to reduce confusion, enhance organization and access to guidance materials and program forms, and promote sharing of best practices and lessons learned among sectors.
+A management response to all three recommendations is presented in Section 5 of the report.
+Acknowledgments
+The Evaluation Team would like to thank those individuals who contributed to the evaluation of the Departmental Class Grants and Contributions Program, particularly members of the Evaluation Advisory Committee.
+The Evaluation Project Team was managed by Jamie Riddell, and Michelle Brazil was the lead evaluator.  Glenn Hargrove, Head of Evaluation, Gavin Lemieux and William Blois as Directors of the Strategic Evaluation Division, provided Senior Management oversight.
+1.0 Introduction
+This report presents the findings, conclusions and recommendations of an evaluation of the Departmental Class Grants and Contributions Program (DCGCP) at Natural Resources Canada (NRCan) conducted between May and September 2016. The evaluation was scheduled on the Departmental Evaluation Plan in order to meet the requirements of the
+Financial Administration Act (FAA)
+.
+Footnote
+7
+The evaluation assessed the relevance and performance of the DCGCP as required by the Treasury Board of Canada
+Policy on Evaluation (2009
+), which was in force at the time the evaluation began. It covered the four-year period 2012-13 to 2015-16 and disbursements of approximately $22 million. As per the
+Policy on Evaluation (2009)
+, the evaluation was calibrated to reflect the program’s level of risk, which was rated as low.
+The Evaluation Report is organized into six sections. Section 2 describes the Class Authority including key aspects of its design and resources and an overview of how the authority was used at NRCan. Section 3 provides an overview of the evaluation design describing the approach and the methods used. Findings are presented in Section 4 by evaluation issue. Conclusions, with a summary of key findings supporting each, associated recommendations, and the Management Response and Action Plan (MRAP) are found in Section 5.
+2.0 Background
+2.1 Program Description
+The DCGCP has provided authority since 1997 so that NRCan can “… take advantage of opportunities that are not specifically covered under… other programs but which are viewed as a cost-effective and efficient means to achieve the results of NRCan’s mandate.”
+Footnote
+8
+Grant and contribution agreements are made according to the terms and conditions (Ts&Cs) established for the DCGCP and defined as per the
+Policy on Transfer Payments
+.
+Footnote
+9
+Agreements may be of a single or multi-year duration, but retroactive payments for project costs are not permitted. The current Ts&Cs were approved by Treasury Board initially in 2008, and in 2012 were extended to March 31, 2017 by Ministerial authority. A wide array of recipients and activities are eligible for funding in keeping with the rationale for the authority.
+Approval of Class Gs&Cs is delegated according to the materiality and type of the transfer payment. The maximum grant is $250,000 per fiscal year while the maximum contribution is $750,000 per fiscal year.
+NRCan use of the authority can be classified in two categories: program-specific and ad hoc. For the purposes of the evaluation, program-specific refers to programs
+Footnote
+10
+using the Class Authority in lieu of developing their own Ts&Cs.  Ad hoc refers to all other uses of the authority. Table 1 shows the use of the DCGCP authority by each category of use. While the number of agreements in each category is roughly equal, slightly more of the funds (56%) are program specific.
+Table 1: DCGCP by Category of Use, 2012-13 to 2015-16
+Category of Use
+# Agreements
+Committed Value
+Total Program-specific
+214
+$12,606,000
+Ad Hoc
+215
+$9,808,199
+Total
+429
+$22,414,199
+Source:   SED analysis of data extracted from AMI database, June 8, 2016.
+2.2 Program Governance
+Governance and oversight of all transfer payment programming at NRCan, including the DCGCP, is provided by the Transfer Payments and Review Committee (TPRC) – an Assistant Deputy Minister (ADM) level committee. In addition to approving the general operational structure for NRCan Gs&Cs, the TPRC reviews the quarterly reports to the Minister on the use of Class Gs&Cs (and for proactive disclosure of Gs&Cs), as well as Gs&Cs that require Minister or Deputy Minister (DM) approval. The ADM, Corporate Management and Services Sector (CMSS) maintains the authority.
+As a funding authority that is available to all managers, responsibility for the DCGCP is decentralized, with roles and responsibilities assigned to sector management and the Centre of Excellence for Grants and Contributions (COE).
+Footnote
+11
+Each NRCan sector has its own processes in place for approving and sourcing funding of Class Grants and Contributions. The COE provides guidance and ensures compliance. Small G&C programs opting to use the Class Ts&Cs to deliver their Gs&Cs are required to obtain approval of the Director responsible for the COE.  The responsibilities of each group are further outlined in the Accountability Framework. (See Appendix B: Accountability Framework DCGCP.)
+2.3 Resources
+Resources for the DCGCP derive from NRCan reference levels and are recorded as transfer payments in the form of Class grants and Class contributions. Transfer payments under the DCGCP authority are estimated in the Report on Plans and Priorities (RPP) each year. The estimates are derived from previous year disbursements and existing commitments. Reallocations from other sources of funds
+Footnote
+12
+can augment the Class Gs&Cs commitments and can be sourced from both A-base and C-base funds through inter-program and inter-sectoral transfers.
+Annual disbursements are reported in the Departmental Performance Report (DPR). Costs for administering the DCGCP are absorbed by the COE and the sectors using the authority. During the evaluation period, a total of $22.1 million was disbursed under the DCGCP authority while commitments made under the authority totalled $22.4 million.
+Footnote
+13
+3.0 Evaluation Design
+3.1 Evaluation Scope and Objectives
+As stated in Section 1, the evaluation covered DCGCP activities between 2012-13 and 2015-16, and was scheduled on the Departmental Evaluation Plan for 2016-17 in order to meet
+FAA
+requirements. In accordance with the
+Policy on Evaluation (2009)
+, the evaluation considered relevance and performance as follows:
+Relevance
+Issue 1: Is there a continued need for the DCGCP?
+Issue 2: Is the DCGCP aligned with Government of Canada priorities and NRCan strategic objectives?
+Issue 3: Is the DCGCP aligned with federal roles and responsibilities?
+Performance:
+Issue 4:  Effectiveness - To what extent has the DCGCP achieved outcomes?
+Issue 5: Economy and Efficiency - To what extent has the DCGCP enabled efficient and economical use of resources?
+3.2 Evaluation Approach and Objectives
+While most programs in the Government of Canada (GOC) are evaluated in relation to their performance in achieving program outcomes, the relevance and performance of the DCGCP were evaluated in terms of its function as an administrative tool.  This approach reflected findings of the previous evaluation of the DCGCP conducted in 2011-12 and associated lessons learned,
+Footnote
+14
+the low risk of projects funded by the DCGCP, and the managerial interest in questions related to the DCGCP’s relevance and performance as an internally-focussed mechanism.
+Based on these considerations, the evaluation team calibrated the level of effort to focus on the following key themes:
+Performance of the DCGCP as an administrative tool enabling managers to deliver Gs&Cs within their respective areas of program responsibility that would otherwise be ineligible for funding;
+Suitability of the program design vis a vis i) user needs and ii) sector use of the authority.
+3.3 Methodology
+In consultation with the Evaluation Advisory Committee (EAC), a logic model illustrating administrative outcomes was developed to guide the evaluation. (See Appendix A: DCGCP – Logic Model for Evaluation Purposes.)  Evidence was collected along multiple lines of evidence to increase reliability of the findings and then analyzed by evaluation issue and question. The evaluation matrix which includes the questions and sub-questions addressed by each line of evidence is found in Appendix C: Evaluation Framework.  The four methods of data collection used were:
+Document Review
+: Program (e.g., DCGCP Terms and conditions, standard agreement templates, guidance information) and other government (RPP, DPR) documents (n=102) were reviewed. The document review was a key method of data collection and addressed all five evaluation issues.
+Database Review - Agreement Model Interface (AMI):
+The AMI database is the central collection point for information about Class Gs&Cs projects and provided project evidence to identify how the Class authority was used at NRCan. Project information contained in the AMI database was extracted and analysed for the 429 Class Grants and Contribution agreements signed between April 1, 2012 and March 31, 2016.  The database review mainly addressed Performance:  Issue 4 - Effectiveness, and Issue 5 - Economy and Efficiency, although it also yielded evidence to address issues of relevance.
+Interdepartmental Comparison
+: An interdepartmental comparison was conducted to assess alternative program models and identify best practices in delivery primarily addressing Performance: Issue 5 – Economy and Efficiency. The comparison entailed a review of program documents, recent audit and evaluation reports, one interview and several informal discussions regarding program operations. Programs at Environment Canada (ECCC) and the Department of Fisheries and Oceans (DFO) were selected according to the following criteria:
+Similarity of program operational context (e.g., science-based department)
+Similarity of program purpose
+Recently completed program assessment, evaluations or audits
+Key Informant Interviews:
+Interviews were a critical line of evidence and addressed all five evaluation issues. Thirteen semi-structured interviews were held with three groups of internal stakeholders: Sector Financial Officers (n=2), DCGCP managers (n=3), NRCan Users (n=8). One interview was conducted with another government department (for the interdepartmental comparison). In the interview findings, evidence is described using terms with standard meaning to reflect the strength of concurrence among interviewee responses.
+3.4 Limitations
+There were two main challenges for this evaluation, both arising from the broad-based nature of the program design.
+The diffusion of responsibility for the collection and storage of project performance data across sectors meant that information related to project results was largely contained in individual project files held outside the AMI database. Efforts to collect this information for closed projects yielded inconsistent data, (with the exception of IETS which provided complete information for PERD projects).  As a result, the evaluation was unable to confirm outputs and individual project results generated by the Class Authority on a department-wide basis. This was particularly true of the projects that were of lower value but more ad hoc in nature.
+The database analysis was expanded to consider the link between the project purpose and its Program Alignment Architecture (PAA) placement for ad hoc projects in order to mitigate the lack of project results information. Closed projects were also reviewed to identify any indications of poor performance (e.g., significant variance between committed and expended funds for a project). To cover program-specific Gs&Cs, previous audit and evaluation findings for TGI, GEM and Clean Energy–Housing programs were reviewed for any indication of project performance related to use of the class authority.
+Another challenge for the evaluation was that input costs were not specifically allocated to the DCGCP. Grant and contribution funds were derived from sector budgets while administrative costs were absorbed by sectors and the FMB. As a result, it was not possible to analyse available financial data to respond to questions of economy and efficiency. To mitigate this issue, the evaluation assessed a number of other design aspects that are usually associated with efficiently run programs, such as governance, information management, and program processes.
+4.0 Evaluation Findings
+The findings for each evaluation issue are presented in Section 4. For each issue, a rating and summary of the supporting evidence are provided. The rating statements outlined in Table 2 below assisted in ensuring consistency in reporting and facilitating the interpretation of qualitative data.
+Table 2: Ratings Statements Defined
+Statement
+Definition
+Demonstrated
+Intended outcomes or goals were achieved or met.
+Partially Demonstrated
+Considerable progress was made to meet intended goals, and achievement is expected based on current plan.
+Partially Demonstrated – Attention required
+Some progress has been made to meet the intended outcomes or goals. Management attention is needed to fully achieve desired objective or result.
+Not Demonstrated
+Limited or no progress has been made to meet the intended outcomes or goals as stated, or the outcome is no longer applicable (due to changes in the external environment).
+Similarly, a standard lexicon was used to ensure consistency when reporting aggregated qualitative feedback from interview findings. The definitions of standard terms is presented in Table 3, below.
+Table 3: Interview Lexicon
+Strength of Concurrence among Interviewee Responses
+Term
+Definition
+Few
+Few
+is used when less than 20% have responded with similar answers. The sentiment of the response was articulated by these participants but not by other participants.
+Some
+Some
+is used when more than 20% but fewer than 50% responded with similar answers.
+Majority
+A
+majority
+is used when more than 50% but fewer than 75% provided similar answers.
+Most
+Most
+is used when more than 75% but less than 90% responded with similar answers.
+Vast Majority
+Vast majority
+is used when nearly all (≥ 90%) responded with similar answers, but several had differing views.
+Unanimous
+Unanimous is used when all participants gave similar answers.
+4.1 Relevance
+4.1.1 Continuing Need
+Evaluation Issue 1: Is there an on-going need for the DCGCP?
+Demonstrated:
+There is a need for a G&C funding authority to fill gaps in existing spending authorities. Gs&Cs enable government to support activities that are in the public interest but which are not appropriate or efficient for the Government of Canada to deliver directly. Such a need is recognized throughout government as other departments and agencies (e.g., Fisheries and Oceans Canada, Environment and Climate Change Canada, Transport Canada, Canada Space Agency) have similar spending authorities in place.
+Evidence from the document review indicated that Gs&Cs were a key instrument enabling the GOC to meet its priorities and advance its objectives. For example, the Blue Ribbon Panel on Grants and Contributions identified Gs&Cs as an important tool for the GOC to deliver on objectives that were clearly in the interest of Canadians and within its federal responsibilities.
+Footnote
+15
+The Auditor-General noted that Gs&Cs programs enabled “recipients to carry out activities that contribute to the government’s objectives.”
+Footnote
+16
+The
+Policy on Transfer Payments
+also recognized Gs&Cs as a key mechanism for advancing government priorities.
+Footnote
+17
+All key informants recognized the need for a funding instrument to cover gaps in existing authorities to support external activities linked to the departmental mandate. In these cases, existing procurement processes and Gs&Cs programs were inappropriate for funding the activities. The following two examples illustrate the use of the DCGCP to enable NRCan to continue work without interruption when changes to existing authorities occurred:
+As identified during strategic interviews, when NRCan discontinued paying for institutional memberships in Operations and Maintenance (O&M – Vote 1), the DCGCP was used for the transfers that enabled Canada (and NRCan) to continue its participation in international initiatives.
+The Aboriginal Forestry Initiative was able to use the Class authority to continue its work until it acquired its own authority by developing its own Ts&Cs.
+Other government departments also recognized the need to have authorities similar to the DCGCP in place. COE managers indicated that the COE was consulting with at least seven other government departments with similar programs. For example, ECCC also recognized a need for “Gs&Cs in general to help ECCC deliver on its priorities without establishing a new set of terms and conditions for each individual circumstance”.
+Footnote
+18
+4.1.2 Alignment with Priorities and Objectives
+Does the DCGCP align to GOC priorities and NRCan strategic objectives?
+Demonstrated:
+Grants and contributions programs are key instruments for furthering the federal government’s policy objectives and priorities. Further evidence of the DCGCP’s relevance in this regard is presented in section 4.2.1, with the discussion of the program’s progress toward ensuring it supports projects in areas that align to NRCan objectives and priorities.
+Section 3.3 of the federal government’s
+Transfer Payment Policy
+notes that “transfer payments are one of the government's key instruments in furthering its broad policy objectives and priorities. They enable and engage a wide diversity of skills and resources outside the federal government that are well-placed to further Canadian aims, contribute to building a strong society and a competitive nation that is inclusive and respectful of Canadian values and Canada's linguistic duality.”
+As alignment to NRCan objectives and priorities is also an immediate outcome of the DCGCP, further evidence of the program’s relevance in this regard is presented in section 4.2.1 as part of the discussion of the program’s funding and support of projects in areas that align to NRCan objectives and priorities.
+4.1.3 Appropriateness of Federal Role
+Is the role of the federal government legitimate, appropriate and necessary?
+Demonstrated:
+The goals and objectives of the DCGCP were consistent with the NRCan mandate and Minister’s role, powers and responsibilities outlined in the
+Department of Natural Resources Act
+,
+Energy Efficiency Act
+Footnote
+19
+,
+Resources and Technical Surveys Act
+Footnote
+20
+,
+Forestry Act
+Footnote
+21
+. The role of the GOC was appropriate, particularly in relation to supporting Canada’s constitutional responsibility for international action, such as financial obligations related to Canada’s memberships in the International Energy Agency Implementing Agreement on Hybrid and Electric Vehicle Technologies and Programmes, and the International Partnership for Energy Efficiency Cooperation (IPEEC).
+The DCGCP provided authority consistent with Ministerial powers granted as per the
+Department of Natural Resources Act
+Footnote
+22
+,
+Energy Efficiency Act
+Footnote
+23
+,
+Resources and Technical Surveys Act
+Footnote
+24
+,
+Forestry Act
+Footnote
+25
+. For example, in the
+Department of
+Natural Resources Act
+, the Minister’s authority covers all areas where Canada has jurisdiction relating to natural resources, explosives, and technical surveys outside of areas within the purview of the Ministers of the Environment and of Fisheries and Oceans. Of particular relevance to the role of the federal government and NRCan in delivering the DCGCP, the Minister of NRCan is also empowered to “promote cooperation with the governments of the provinces and with non-governmental organizations in Canada, and participate in the promotion of cooperation with the governments of other countries and with international organizations”.
+Footnote
+26
+The role of NRCan in the DCGCP is consistent with the conclusion of the Blue Panel that federal grants and contributions are appropriate because they enable Canadians to “…help themselves in ways that are more efficient and more effective than governments could ever hope to achieve through direct programming. All of these programs are regarded by Ministers, Members of Parliament, program managers and recipients alike as vital tools for the pursuit of objectives that are clearly in the public interest.”
+Footnote
+27
+Constitutionally, the Government of Canada has responsibility for international activities on behalf of Canada. Based solely on an analysis of proponents and project purpose as found in the database, 19% of the ad hoc projects (41 of 215) related to Canada’s involvement on the international stage and were directed towards international recipients. These agreements were made to support Canadian international participation or Canada’s international action on issues and data collection related to natural resources development and economic activity as well as climate change.  The three following examples illustrate the type of international activity funded:
+NRCan awarded a $45,000 grant to the International Energy Agency to organise a one-day workshop to promote best practices and knowledge sharing on key energy climate change resilience issues, with a focus on infrastructure and finance.  The workshop was a formal short term deliverable of the North American Energy Ministers' Action Plan under the MOU on Climate Change and Energy Collaboration to Promote Trilateral Exchange of Best Practice on Adaptation in the Energy Sector.
+An annual grant of $6,000 was made to the United Nations Conference on Trade and Development (UNCTAD) to contribute to the UNCTD Trust Fund Project on iron ore, which develops and maintains international iron ore production and trade statistics. Canada's funding supported the team gathering statistical data on iron ore and steel production, exports and imports and also forecasts on global markets.
+Canada, through NRCan, contributed $95,000 to the International Energy Agency (IEA) to fulfill its annual obligation as a member of the International Partnership for Energy Efficiency Cooperation (IPEEC).  Canada's participation in IPEEC is a result of a 2007 commitment by the Prime Minister and other G8 leaders to foster a policy dialogue on energy efficiency with non-G8 countries.  IPEEC participation also provides insight into how other countries are using energy efficiency to improve economic performance and industrial competitiveness.
+4.2 Effectiveness
+4.2.1 Immediate Outcome 1: Funding and support of projects in areas that align to NRCan objectives and priorities.
+Has the program provided funding and support of projects in areas that align to NRCan objectives and priorities?
+Demonstrated:
+As an administrative tool, the DCGCP can be described as supporting the full NRCan PAA in that it enabled NRCan to fund activities aligned to NRCan strategic objectives. The vast majority of the projects funded under the DCGCP (96.5%) are linked to specific sub-programs on the NRCan PAA, while the remaining projects tended to reflect GoC priorities.
+Since May 2012, the AMI database, which hosts information about Class Grants and Contributions, has required that all projects have a PAA designation. All projects funded under Clean Energy – Housing, GEM, and TGI-4 were linked to their respective sub-programs on the PAA. Overall, 414 of the 429 agreements (96.5%) had an associated PAA designation in the database. Based on a sample of 40 ad hoc projects that compared the project recipient, fund, purpose, and source of funds, 100% aligned clearly to the expected results of the respective PAA designation. The database review showed that DCGCP overwhelmingly supported NRCan Strategic Objectives 1 and 2 both in the number of agreements and in the amount of funds committed. Table 4 below shows the distribution of DCGCP transfers by Strategic Objective.
+Table 4: Funds Committed and Agreements Signed by Strategic Objective, 2012-13 to 2015-16
+Strategic Objective (SO)
+$ Committed
+# Agreements
+SO1:   Canada’s Natural Resource Sectors are Globally Competitive
+$7,763,083
+194
+SO2:   Natural Resource Sectors and Consumers are Environmentally Responsible
+$10,260,544
+177
+SO3:   Canadians have Information to Manage their Lands and Natural Resources and are Protected from Related Risks
+$2,169,573
+43
+Not aligned*
+$2,221,000
+15
+Total:
+$22,414,200
+429
+Source: AMI Database, as extracted June 8, 2016.
+* Not aligned included all cases where no PAA was provided and included agreements made by areas of NRCan that did not have G&C programs spending authority other than the DCGCP.
+Of the projects not aligned to the NRCan PAA, most reflected GOC priorities. For example, five of the fifteen projects not aligned related to the Corporate Social Responsibility Strategy for the International Extractives Sector (Building the Canadian Advantage). Another three agreements totalling $1.5 million funded economic research into energy-related issues. In the remaining cases, while there was a clear link to the NRCan mandate, there was insufficient evidence to conclusively identify the SO to which they aligned.
+4.2.2 Immediate Outcome 2: Oversight is provided.
+Has the program provided oversight for the use of the DCGCP?
+Demonstrated:
+Multiple lines of evidence demonstrate that oversight of the DCGCP was risk-based according to the type and value of the agreement, and exercised through the delegation of authority for approvals, quarterly reports to the Minister, semi-annual reports to the Minister on DCGCP activity, and TPRC review of agreements requiring DM or Ministerial approval. Additional controls instituted by the COE required specific project information prior to agreements to be implemented.
+The document review shows that the delegation of authority to approve agreements was based on materiality and type of agreement as presented in Table 5 below.  All class grants required a minimum of ADM-level approval. Class grants greater than $50,000 and non-competitive class contributions greater than $100,000 were subject to higher levels of scrutiny, requiring either DM or Ministerial approval.
+Table 5: Delegation of Approval Authority by Type of Transfer Payment
+Authority Level
+Type of Transfer Payment
+Class Grant
+Non-Competitive Class Contribution
+Competitive Class Contribution
+Minister
+> 100K
+> 200K to ≤ 750K
+Deputy Minister (DM)
+> 50K to ≤ 100K
+> 100K to ≤ 200K
+Assistant Deputy Minister (ADM)
+≤ 50K
+≤ 100K
+> 500K to ≤ 750K
+Director General (DG)
+> 100K to ≤ 500K
+Source:  Table based on information found in NRCan. Memorandum to the Minister,
+Departmental Class Grants and Contributions Quarterly Report,
+July 7, 2015.
+Note:
+New delegation levels of authority were revised effective July 27, 2016. For the purposes of the evaluation, all analysis was conducted based on the levels in effect during the evaluation period.
+Based on the review of program documents and the AMI database, sector managers approved 89.3% (n=383) of the projects totalling 68.1% of committed funds.  Reflecting the heightened level of material risk, the TPRC reviewed 10.7% (46) of the total number of agreements signed, accounting for 31.9% of class funds committed.
+Footnote
+28
+The TPRC functioned as the primary mechanism for providing departmental oversight of Gs&Cs at NRCan. This ADM-level committee reviewed all class agreements requiring DM or Ministerial approval. Reports outlining the use of the DCGP were presented to the TPRC semi-annually. They provided a year-over-year comparison and explanation for shifts in usage. In addition, reports to the Minister on the use of the Class Authority were made on a quarterly basis that included a brief description of all projects signed under the Class Authority after May 2012. Justifications for each project were added in 2014.
+The COE verified the completion of the risk assessment and conflict of interest attestation and confirmed the signature of the Sector Financial Officer that funds were available to meet the commitment. It also sampled the class projects for corporate-level information regarding compliance. Programs preferring to use the DCGCP in lieu of developing their own Ts&Cs required approval by the Director of the COE.
+All of the informants from NRCan reported that oversight occurred at the corporate and sector levels. CMSS managers pointed to the collection and preparation of reports on usage of the Class Authority for the TPRC. NRCan users and the Sector Financial Officers referenced the need for sector approvals at all stages of the projects as evidence of oversight. All NRCan interviewees expressed a concern that the level of oversight was excessive due to the relatively low material risk of most class agreements.
+4.2.3 Immediate Outcome 3: NRCan users have guidance on compliance.
+Do NRCan users have guidance on compliance?
+Partially Demonstrated:
+The COE was the key source for guidance on compliance with the Terms and Conditions of the DCGCP. All NRCan users and the Sector Financial Officers interviewed recognized that the COE provided excellent support and advice in a timely manner. Guidance tools were generally easy to understand, although several NRCan users noted a lack of guidance in relation to assigning primary activity categories. NRCan users also reported that guidance materials and correct forms were difficult to locate and suggested they could be better organized.
+Information provided directly by COE staff was considered the most reliable guidance on compliance.  All NRCan users and Sector Financial Officers indicated that the COE responded to questions in a timely manner and provided accurate information. Further, COE guidance was considered very helpful to program managers when developing and implementing G&C agreements in general.
+Footnote
+29
+The COE produced a number of documents providing guidance on compliance with the DCGCP
+Terms and Conditions,
+as well as the
+Policy on Transfer Payments
+and the
+FAA,
+grouped on the NRCan intranet site. Training was also provided by the COE in the form of online modules. NRCan users reported that such information was clear and provided good direction for the most part, although none of the documentation actually defined primary activities. As a result, several users were uncertain whether they had assigned their projects to the correct primary activity category. They felt the categories listed overlapped and were subjective in nature.
+Accessing the written guidance information was reported to be challenging by most of the NRCan users interviewed. They reported that the guidance documentation was difficult to find on T
+he Source
+, NRCan’s internal website. As one NRCan user stated, “If you don’t know what you’re are looking for, you won’t be able to find it.”
+Providing effective guidance in written materials was complicated by the fact that each sector had its own processes for managing the DCGCP. The COE guidance therefore had to consider the specific circumstance of the agreement in order to provide appropriate guidance. As a result, written materials could not be definitive in describing processes and the caveat to contact the COE was added throughout all of the documentation.
+The inexperience of users of the Class Authority was also noted as another complicating factor. “It’s a steep learning curve for those who do not use the Class on a frequent basis,” stated one of the NRCan users interviewed. According to the database analysis, there were 129 unique project managers responsible for the agreements made under the Class Authority. Of those, 82% used the Class Authority three times or less, with 50% using it only once between 2012-13 and 2015-16.
+4.2.4 Immediate Outcome 4: NRCan users have access to Gs&Cs authority.
+Do NRCan users have access to the Gs&Cs authority?
+Demonstrated:
+The DCGCP was available to all managers within NRCan until March 31, 2017. It was used by all sectors.
+The DCGCP was designed so that the authority would be available to all managers at NRCan. Accordingly, all sectors at NRCan have since used the DCGCP, (except for those focused internally such as CMSS and PAPMS). Table 6 below shows each sector’s use of the class authority.
+Table 6: Sector Use of the DCGCP Authority
+Sector
+# of Agreements
+Total
+Other*
+9
+$357,500
+MMS
+20
+$636,316
+IETS
+95
+$6,283,786
+ESS
+116
+$4,865,298
+ES
+85
+$6,291,519
+CFS
+104
+$3,979,780
+Total
+429
+$22,414,199
+Source: AMI Database as extracted June 8, 2016
+*Other included Science and Policy Integration Sector (SPI), Office of the Chief Scientist, and the Task Force on Energy, Security, Prosperity and Sustainability
+4.2.5 Intermediate Outcome 1: Responsive interventions are funded.
+Are responsive interventions funded?
+Demonstrated:
+The flexibility inherent in the DCGCP allowed NRCan managers to fund projects when alternative authorities were no longer in existence or appropriate. The DCGCP provided authority to fund ad hoc projects in support of NRCan’s strategic objectives as needed.
+Forty-four per cent of DCGCP funded projects were ad hoc in nature.  At NRCan, all DCGCP users interviewed (n=8) identified that the DCGCP, due to its flexibility, enabled responsive actions, such as:
+responding to changing priorities and unforeseen circumstances
+. For example, the Class Authority supported institutional memberships and resulting obligations when legal advice deemed it inappropriate to use O&M funds to support the initiatives.
+continuing activities during periods of transition
+. The case of the Aboriginal Forestry Initiative (AFI) illustrates the circumstance, based on evidence from interviews, the database review, and program documents. Briefly, Indigenous and Northern Affairs Canada (INAC) changed the Ts&Cs of its funding program under which the AFI was able to deliver Gs&Cs. As a result, it was no longer feasible for the AFI to continue delivering its Gs&Cs through the INAC authority. The AFI therefore accessed the DCGCP for its Gs&Cs program between 2014-15 and 2015-16 until it developed its own Ts&Cs.
+allocating resources to deliver program objectives more efficiently, effectively, and economically
+. For example, a few NRCan interviewees noted that the DCGCP provided a low-risk means to develop working relationships with new partners and collaborators and also enabled them to stimulate research and expertise in a strategic manner.
+4.2.6 Intermediate Outcome 2: Gs&Cs are funded in small programs.
+Are grants and contributions funded in small programs?
+Demonstrated:
+The DCGCP supported the small Gs&Cs programs of GEM, TGI-4, PERD, and Clean Energy-Housing.
+The Class authority was used to provide Gs&Cs in support of the program objectives for GEM, PERD, Clean Energy-Housing and TGI-4.  These programs received permission from the COE Director to formally adopt the DCGCP Ts&Cs to deliver their Gs&Cs funding allocations. These were considered small relative to the overall program funding allocation, and relative to other Gs&Cs programs.
+As shown in Table 7 below, 214 program-specific agreements were supported by the DCGCP. The overall average value of the program-specific agreements was $58,907. PERD committed the most funds and signed the highest number of agreements, while TGI-4 was the lowest both in the value of commitments and the number of agreements.
+Table 7: Program-Specific Use of the DCGCP
+Allocation
+# of Agreements
+Committed Value ($)
+Agreement Average Value ($)
+Clean Energy – Housing
+53
+$2,702,869
+$50,998
+GEM
+55
+$2,717,919
+$49,417
+TGI-4
+32
+$1,165,912
+$36,435
+PERD
+74
+$6,019,300
+$81,342
+Total Program-Specific
+214
+$12,606,000
+$58,907
+Source: AMI Database as extracted June 8, 2016
+4.2.7 Intermediate Outcome 3: FAA and Policy on Transfer Payments requirements are met.
+Are FAA and Policy on Transfer Payments requirements met?
+Demonstrated:
+The 2016
+NRCan
+Audit of NRCan’s Grants and Contributions Processes and
+Activities found that NRCan had an effective system of governance in place for grants and contributions. A variety of sources noted compliance with the
+FAA
+and
+Policy on Transfer Payments
+. As well, the design of the DCGCP reflected the requirements of these instruments.
+The DCGCP operated within the general control framework for Gs&Cs within NRCan. The 2016
+Audit of NRCan’s Grants and Contributions Processes and Activities
+concluded that “the Department has adequate controls in place to support compliance with the requirements of the TB Policy on Transfer Payments” and named it as an area of strength.
+Footnote
+30
+All of the Sector Financial Officers and COE managers interviewed for the evaluation (n=5) reported that there was general compliance with the financial information needed to make DCGCP payments to recipients, while all of the NRCan users (n=8) indicated that the information required for payment was clearly identified and accessible.
+A risk-based approach to managing Gs&Cs funding, as required by the
+Policy on Transfer Payments,
+was evident in the DCGCP. The Delegation of Authorities for approving Gs&Cs was based on material value and type of agreement. As well, the Management Tool for Class Grants and Contributions sought information according to materiality of the agreements. Most key informants for the evaluation (all COE managers and Sector Financial Officers, as well as some of the NRCan users), however, highlighted a specific challenge with balancing the flexibility inherent in the DCGCP with the need for a level of control that would comply with the FAA requirements.
+All NRCan users interviewed were aware of the need for transparency and reduced administrative burden for recipients commensurate with risk, as required by the
+Policy on Transfer Payments.
+Footnote
+31
+The interviewees indicated that they sought to develop contribution agreements that met these objectives when establishing and managing Gs&Cs. As one interviewee stated: “As far as the outside is concerned, once we get past the [internal] process, it’s straightforward. We do not try to add extra to what they [recipients] would be doing.”
+4.2.8 Ultimate Outcome: Opportunities to support NRCan strategic objectives, which would have been unrealized otherwise, are enabled.
+Does the DCGCP enable opportunities to support NRCan strategic objectives that would otherwise have been unrealized?
+Demonstrated:
+All lines of evidence supported the finding that this outcome was achieved. The DCGCP equipped managers, who did not have Gs&Cs spending authorities in their areas of responsibility, to fund projects.
+There was unanimous agreement among interviewees that the DCGCP enabled opportunities to support NRCan strategic objectives. For example, support of memberships was cited by all NRCan users as an example of this enabling support. Without the DCGCP, some international collaboration would not have been possible, and Canada (through NRCan) would not have met international obligations and commitments. Also NRCan objectives would not have benefitted from the work facilitated by such memberships.
+The interview evidence was supported by examples identified in the database review. In one project, the DCGCP authority was used to meet Canada’s obligation to provide one-third of the funds for the Canadian Interagency Forest Fire-fighting Centre as outlined in the 1992 funding agreement between Canada and all of the provinces and territories. In another case, the Class authority was used to fund Canada’s contribution to the International Energy Forum Secretariat. Without the DCGCP, it would have been challenging to fund either of these projects since they fell outside existing program Ts&Cs.
+Of note, operations at NRCan that had no Ts&Cs within their areas of responsibility availed themselves of the DCGCP. For example, the Task Force on Energy, Security, Prosperity and Sustainability, the Office of the Chief Scientist, and the Science and Policy Sector of NRCan all used the DCGCP to meet the objectives of high priority projects that were temporary in nature.
+4.3 Economy and Efficiency
+4.3.1 Economy of the DCGCP
+Is the DCGCP the most economic means of obtaining project results?
+Demonstrated:
+Grants and contributions in general, and the DCGCP specifically, are an economic means of supporting government objectives, as they encourage the leveraging of resources and collaborative efforts.
+Documentary evidence supported the conclusion that Gs&Cs are an economic means of realizing intended results:
+The Blue Ribbon Panel on Gs&Cs reported that “a consistent message from our consultations was that [Gs&Cs] are a cost-effective way of utilizing the work and the skills of non-governmental actors (often volunteers at the community level) for public policy purposes
+.”
+Footnote
+32
+Universities use all funds delivered by grants or contributions to support the project for which they are approved. Funds delivered through contracts on the other hand, apply 20-30% of the total direct funds to university overhead.
+Footnote
+33
+The AMI database analysis showed that DCGCP enabled collaborations, as fully 25% of ad hoc and PERD agreements reviewed supported collaborative initiatives among multiple project proponents. Similarly, a majority of interviewees commented that the DCGCP was an economic means of advancing NRCan objectives because CAs leveraged the knowledge and resources of many players. As one NRCan user stated in reference to use of the DCGCP at the local level, “we use the Program to make use of resources we don’t have and never will have, which allows us to support capacity to … answer larger questions and encourage expertise in related areas.”
+4.3.2 Alternate Models of Delivery
+Are there alternate models of delivery that would enable NRCan to achieve similar results at a lower cost or more efficiently?
+Demonstrated:
+There are no alternate models of delivery that would enable NRCan to achieve similar results more efficiently. Certain characteristics of the design of similar programs delivered by other federal departments, such as identified budgets and linking funded activities to lower level program objectives, ensured alignment to priorities and avoided delays in project funding.
+All sources of evidence indicated that the Grant and Contributions mechanism was the best delivery mechanism to achieve the purported purpose of the various agreements and the program. This finding also reflects the conclusion drawn by the Blue Ribbon Panel in its report.
+Footnote
+34
+A few interviewees suggested that allocating resources to the Program would achieve efficiencies and improve effectiveness by avoiding delays associated with identifying sources of project funding. DFO for example, committed dedicated funds and resources in a program similar to the DCGCP. The ECCC program used umbrella Terms and Conditions (UTCs) that linked projects to provide a standard funding approach across program areas. This enabled ECCC to manage fewer Ts&Cs programs while providing stable funding to a broad range of projects. In addition, the UTC enabled ECCC to link funded projects to specific outcomes. Thus, ECCC was able to achieve efficiency in avoiding administrative burden and was better able to identify results for a myriad of projects.
+Despite the advantages of other models of delivery, all three programs (NRCan, ECCC, and DFO) experienced issues regarding performance measurement and monitoring at the program level, and delays in the approval and processing of funding.
+4.3.3 Efficiency of DCGCP Design in Addressing Program Priorities
+To what extent does the design of the DCGCP enable NRCan to address program priorities efficiently?
+Demonstrated:
+The DCGCP provided an efficient means for managers to address their program priorities given the wide scope of eligible activities and recipients supported, which avoided the need to develop separate terms and conditions, and financial flexibilities for some types of agreements.
+As identified in the document review, the DCGCP Ts&Cs were designed to permit a wide scope of activities and recipients.
+Footnote
+35
+Eleven categories of eligible activities were permitted, including an all-inclusive “other” category. The eligible recipient list accommodated individuals, for-profit and not-for-profit organizations, governments, and industry associations at both the international and domestic level. The key determinant for funding was that the activity being supported advanced the NRCan mandate.
+All those interviewed also noted that the wide scope of activities supported allowed the department to avoid developing and administering Ts&Cs for a host of small Gs&Cs programs, and provided authority to cover activities that fell outside the scope of existing G&C programs but still supporting the NRCan mandate. Some program documents described the DCGCP as being designed to avoid the need to develop additional Ts&Cs for small programs. This point was also made in the rationale for renewing the class authority in 2012.  Additionally, most of the NRCan users also noted that the terms and conditions for the DCGCP ensured they focussed their effort on assessing the merits of proposals vis à vis the NRCan mandate, and thus directed their program resources accordingly. Three of the NRCan users interviewed noted the DCGCP also realized efficiencies because proponents were not required to expend effort reworking project proposals in order to fit existing Ts&Cs.
+To enable additional flexibility, the Ts&Cs permitted NRCan to make up-front advance payments in specific circumstances. For example, advance payments up to 100% of contributions were enabled when the recipient was a public international organization. In cases where the contribution was less than $25,000, the recipient could receive all of the funding up-front as well.
+4.3.4 Factors Facilitating or Hindering the Achievement of Results
+What factors facilitate or hinder the achievement of results?
+Partially Demonstrated:
+The high quality of advice provided by the COE and the development of standard agreements were felt to be key factors facilitating the achievement of results, as this enabled agreements to be put in place more quickly while ensuring due diligence was exercised. The key factors hindering results were felt by some to relate to the lack of standard documented processes for the establishment of class agreements within sectors using the Class authority.
+A key facilitator for achieving results was the standardized templates for agreements which assisted in reducing time to develop agreements and ensured due diligence was exercised. Five NRCan users identified the template for agreements involving international transfers developed by the COE as such an example. From their perspective, the standardized clauses reduced the amount of legal work required for individual agreements, saving both time and money.
+Another factor that facilitated the establishment of agreements was felt to be the high-quality advice and guidance received from the COE. All NRCan users and Sector Financial Officers interviewed mentioned that the information received was accurate and increased their level of confidence that the agreements they negotiated were compliant with the Ts&Cs and
+FAA
+. As one interviewee stated when describing the interaction with the COE: “I would much rather go through the scrutiny of a grants process than go through a contract process and find out at the end that something was amiss. I know that we have done our homework.”
+While guidance received directly from COE staff was considered a facilitator, difficulties in accessing written information about the DCGCP limited its utility. Some of the NRCan users noted that accessing materials through
+The Source
+was not intuitive. Searches resulted in a high number of irrelevant results, and there was no obvious link directly from
+The Source
+first page
+.
+Most interviewees suggested complications occurred because of a high level of uncertainty with respect to the process for establishing Class agreements. They pointed to the fact that each sector had individual processes for managing the use of the DCGCP, but no written documentation existed that recognized the interaction between individual sector processes and corporate processes.
+All NRCan interviewees who had used the DCGCP 3 or more times stated that the resulting uncertainty over the process meant they spent time trying to locate information about how to proceed. It is reasonable to assume that lost time and productivity would be even greater for less experienced users, who accounted for a majority of all users of the Class authority. According to the database analysis, 129 unique project officers were responsible for the agreements made under the class authority. Of those, 82% used the authority three times or less, with 50% using it only once between 2012-13 and 2015-16. “It’s a steep learning curve for those who do not use the class [authority] on a frequent basis” reported one of the key informants in reference to the accessibility of guidance on the class authority.
+4.3.5 Areas for Improvement
+Are there any best practices and lessons learned that can be used to improve the DCGCP? Do opportunities exist within DCGCP to “lean” processes?
+Partially Demonstrated:
+The most commonly cited means of improving the management of the DCGCP were by reducing the number of approvals required, and developing a centralized and electronic information management system. Other suggestions include limiting changes to the wording of agreements to save time and reduce costs, updating activity categories for projects to better align with the types of projects funded, and identifying internal funding sources to avoid funding delays.
+When asked to identify best practices or areas to streamline processes, suggestions were most often received to reduce the numerous levels of authority required for approvals, both within the sector and through corporate processes.
+For the most part, approval of projects under the DCGCP required ADM signature at a minimum, as well as approvals at the corporate level (e.g., confirmation of funding). Reducing the number of signatures required to reflect the materiality of the agreement was viewed as a key means of improving the approvals process . “For a small amount of funds we may need up to 10 signatures” noted one of the NRCan users. The sectoral processes for approving projects, along with the corporate processes, and the need to reallocate funds could entail at least that many signatures.
+There are limits, however, to how much can be done to streamline approvals, as some are necessary to support appropriate financial controls. Some interviewees noted that amendments to agreements that exceeded threshold limits needed to be reviewed by the TPRC, regardless of the materiality of the amendment. As well, approval processes reflected both the need for sectoral approval to ensure project proposals are aligned to departmental priorities, as well as the approval of the Chief Financial Officer in order to respect the financial control processes dictated by the
+Policy on Transfer Payments
+and the
+FAA
+.
+Another key area in which efficiencies could have been realized was with regard to information management. Most interviewees felt that better collection and storage of performance information would facilitate the efficient identification of project results on a department-wide basis, as well as provide adequate accountability. In particular, the evaluation found that:
+The AMI database could not easily provide information about results, since the pertinent information from the Management Tool was held in individual project officers’ files that were inaccessible to the rest of NRCan. One interviewee suggested producing “a comprehensive report at the corporate level. Instead of everyone having the point of view that it is a catch-all, may do a better job of highlighting the results.” Others noted that a best practice would be to provide a fully electronic means of capturing project information, and an ability to transfer information from one form to another electronically instead of having to retype information for various reporting processes.
+Sectors had differing processes for developing and implementing Class grants and contributions, which made it challenging to communicate information about the DCGCP. For example, experience using the program in one sector did not automatically transfer to another sector since requirements for pre-project approvals differed across NRCan. This was further complicated by the fact that the vast majority (82%) of project managers for Class agreements used the program three times or less between 2012-13 and 2015-16.
+When sectors dedicated resources to information management, improvements in availability of project information were observed. Notably, IETS was the only sector that was able to provide complete information on the results of its projects, as it had a sector advisor who collected and reported on projects under the PERD program.
+The internal process for establishing agreements also offered several opportunities to streamline processes, including:
+Reducing excessive changes to the wording of agreements. Several NRCan users commented that there was a lot of discussion around the wording of agreements. While somewhat mitigated internally by the standardized templates which provided consistent and approved wording, issues with wording were still evident in negotiations of agreements with certain project proponents, and in particular with universities.
+Updating the categories of primary activity for projects, as projects often did not readily fit into the categories provided. The number of categories as well as the overlap between categories created confusion for these users. An analysis of the AMI database supported this assessment by identifying nine instances where identical agreements signed on an annual basis had a different primary activity.
+The need to identify an internal source of funds for the program. A few NRCan interviewees suggested that allocating resources to the Program would achieve efficiencies and improve effectiveness by avoiding delays in distributing funding to project proponents while waiting to identify a source of funds. The database analysis supported the position that a significant number of agreements were signed in the latter part of the fiscal year, coinciding with the time when funds were released and re-allocated from other purposes (see Table 8).
+Table 8: Agreement Type by Fiscal Quarter Signed, 2012-13 to 2015-16
+Agreement Type
+Fiscal Quarter
+Q1
+Q2
+Q3
+Q4
+Total
+Grant
+6
+16
+38
+85
+145
+Contribution
+6
+34
+49
+64
+153
+Total
+12
+50
+87
+149
+298
+Source: AMI Database, Data extracted February 22, 2016 (296 projects - PERD and ad hoc)
+5.0 Conclusions and Recommendations
+There is a need to enable grants and contributions for which no program-specific Terms and Conditions exist, but which support activities within the NRCan mandate. The goals and objectives of the DCGCP were consistent with the NRCan mandate and Minister’s role, and powers and responsibilities outlined in various Acts. The role of the GOC was also appropriate, particularly in relation to supporting Canada’s constitutional responsibility for international action.
+The DGCGCP demonstrated progress toward nearly all outcomes. In terms of the administration of the Program, the high quality of advice provided by the COE and the development of standard agreements were felt to be key factors facilitating the achievement of results, as these enabled agreements to be put in place more quickly while ensuring due diligence was exercised. Although guidance tools were generally easy to understand, their effectiveness was hampered by poor access and organization of guidance materials and forms through
+The Source
+and the need to accommodate the internal processes of individual sectors.
+Grants and contributions in general, and the DCGCP specifically, are an economic means of supporting government objectives, as they encourage the leveraging of resources and collaborative efforts, and support a wide variety of activities aligned with the NRCan mandate. The DCGCP provided efficiencies in the transfer of Gs&Cs within all sectors mainly by avoiding the time and resources necessary to develop separate Terms and Conditions for “one-off” opportunities. There are no alternate models of delivery that would enable NRCan to achieve similar results more efficiently, although aspects of the design of similar programs, such as identified budgets and linking funded activities to program objectives, ensured alignment to priorities and avoided delays in project funding.
+It remains challenging to assess the overall effectiveness of the DCGCP projects given the variety of intended project outcomes and the lack of a central repository for project performance information. Furthermore, quantifying efficiency and economy was challenging given that the resources used in administering the DCGCP were not tracked separately and were absorbed by the sectors using the Class Authority, as well as the Finance and Procurement Branch that administered the COE.
+A number of areas were also identified in which the program could achieve higher efficiencies, most particularly by reducing the number of approvals and the overlap between sectoral and corporate processes. As well, the lack of standard documented processes for the establishment of class agreements within and among sectors using the Class authority created confusion for users and challenges in accessing program guidance material. Other notable opportunities for improvement include updating activity categories for projects, better information management practices, and allocating internal funding sources earlier in the fiscal year to avoid delays in projects starting.
+The following recommendations are made in response to the findings and conclusions of the evaluation.
+Recommendation 1: NRCan should update project activity categories, DCGCP objectives, and eligible activities, to better reflect how the authority is used.
+Recommendation 2:NRCan should develop a central repository and associated information management strategy for project performance and administrative data to improve accountability and ease of access for users.
+Recommendation 3: NRCan should develop a single and universally applied process for the management and approval of the Class authority to reduce confusion, enhance organization and access to guidance materials and program forms, and promote sharing of best practices and lessons learned among sectors.
+Management Response and Action Plan (MRAP)
+Recommendation 1
+: NRCan should update project activity categories, DCGCP objectives, and eligible activities, to better reflect how the authority is used.
+Management Response
+Responsible Manager,
+Division, Branch
+Target Date
+Management agrees. In response to preliminary findings as well as TBS guidance, the Departmental Class Grants and Contributions Program (DCGCP), which expired in March 2017, was replaced by expanded existing Terms and Conditions, as well as the following two new authorities:  Outreach and Engagement (grants) and Small Scale Research (contributions).
+Objectives and eligible activities for these new authorities were established in consultation with various stakeholders, including TBS, program managers, senior management, as well as the Transfer Payment Review Committee (TPRC).
+Michel Nault
+Senior Director, Finance and Procurement Services
+Finance and Procurement Branch
+CMSS
+January 2018
+Recommendation 2
+: NRCan should develop a central repository and associated information management strategy for project performance and administrative data to improve accountability and ease of access for users.
+Management Response
+Responsible Manager,
+Division, Branch
+Target Date
+Management agrees. In response to preliminary findings, management tools have been developed for the two new authorities and some system enhancements are being implemented in AMI (e.g., Sector Financial Advisor approvals).
+In addition, the newly developed management framework includes the preparation of an annual report, coordinated by the COE, to demonstrate how Outreach/Engagement and Small Scale Research authorities contributed to the achievement of departmental results.  Reports are stored in GCDOCS, NRCan’s official corporate document repository.
+Michel Nault
+Senior Director, Finance and Procurement Services
+Finance and Procurement Branch
+CMSS
+January 2018
+Recommendation 3
+: NRCan should develop a single and universally applied process for the management and approval of the Class authority to reduce confusion, enhance access to guidance materials and program forms, and promote sharing of best practices and lessons learned among sectors.
+Management Response
+Responsible Manager,
+Division, Branch
+Target Date
+Management agrees.  In response to preliminary findings, guidance documentation was developed for the two new authorities, including a management framework, procedures and guidelines, as well as application forms.  These documents are available on the departmental intranet site (The Source), in specific structured sections within the Guide on Grants and Contributions.
+In addition, the sharing of best practices and lessons learned is facilitated by the Grants and Contributions Forum, which meets quarterly and is co-chaired by the COE and a Program Manager.  All Program Managers are invited to participate in this forum.
+Michel Nault
+Senior Director, Finance and Procurement Services
+Finance and Procurement Branch
+CMSS
+January 2018
+Appendix A: DCGCP - Logic Model for Evaluation Purposes
+Logic Model (for Evaluation Purposes)
+Activities
+Sector
+COE
+Review, assess and approve funding proposals
+Negotiate Contribution Agreements
+Collect project-related information and input to database
+Identify needs
+Monitor and report (projects)
+Develop guidance and training materials
+Maintain database of information
+Support oversight bodies
+Prepare and compile reports
+Monitor for compliance with Ts & Cs
+Develop policy and maintain Class authority
+Outputs
+Signed Contribution Agreements
+Training and advice
+Gs & Cs policy
+Class Gs & Cs Terms and Conditions
+Quarterly and semi-annual Reports
+Immediate Outcomes
+IO 1
+: Funding and support of projects in areas such as:
+Research papers related to new technology or advancement in sciences related to natural resources
+Workshops, conferences and seminars with research and development themes
+Development or enhancement of new technology
+Forums /conferences/ workshops for discussion on priority areas related to natural resources/  promoting  areas of interest on natural resources
+Students in natural resource fields, student awards
+Organizations involved in promoting natural resource activities, including market transformation activities
+Publications and knowledge products
+that align to NRCan objectives and priorities.
+IO 2:
+Oversight is provided
+IO 3:
+NRCan users have guidance on compliance
+IO 4:
+NRCan users have access to Gs & Cs authority.
+Intermediate Outcomes
+IntO 1
+: Responsive interventions are funded.
+IntO 2
+: Gs & Cs are funded in small programs.
+IntO 3
+:
+FAA
+and
+Policy on Transfer Payments for Grants and Contributions
+requirements are met.
+Final Outcome
+UO 1:
+Opportunities to support NRCan strategic objectives, which would have been unrealized otherwise, are enabled.
+Appendix B: Accountability Framework: DCGCP
+FRAMEWORK ELEMENT (as per the 8 A’s of the Gs & Cs lifecycle)
+PROGRAM MANAGER
+FMB COE
+FUNCTIONAL EXPERTS (FMB; Legal Services; SSO; Communications; Audit, Evaluation)
+Arrange
+Seek approval from Treasury Board Secretariat for renewal of Class Gs & Cs Terms and Conditions (Ts & Cs)
+Develop Ts & Cs
+Develop, maintain and make available management framework, directives, guidelines/guidance/training and reference materials.
+Legal/Audit/Communications/Evaluation, Others - Ensure compliance with TP Policy during development of TB Submission
+FMB FPCRM - advice on TB Sub
+Work with TB analyst to ensure conformance with requirements
+Evaluation – Performance Measure Strategy and Risk Framework (PMRS)
+Advertise
+As applicable (unique cases)
+N/A
+N/A
+Apply
+Informs proponent of application forms and tools
+Maintains forms and tools
+Establishes application requirements
+Assess
+Due diligence in assessment and selection of proposal against the application criteria
+Completes Risk Assessment Tool and COI Attestation (= or > $50k)
+Seeks proper delegated authority for project approval and Risk Assessment and COI completion and signature
+Note: proposals >$25k must be subject to challenge function
+Designs and maintains tools to enable program assessment of proposal and associated guidance
+All cases of using Class Gs & Cs Authority Ts & Cs in lieu of developing or renewing program-specific Ts & Cs (examples – PERD, Geomapping, etc.) must be approved by the Director of COE
+Legal - drafts letter used by Program to communicate proposal acceptance to proponent
+FMB FPCRM/SFA Office – reviews draft agreement and reviews and signs completed Class Gs & Cs Management Tool, confirms project approval, source of funds, and PAA Sub-Activity code
+Award
+Forward to COE a completed and signed e-version of Risk Assessment and COI Attestation
+Draft agreements in accordance with approved Ts & Cs and departmental guidelines and procedures
+Complete Class Gs & Cs Management Tool
+Enter information into the Department’s Agreement module
+If agreement > $1M or non-competitive and = or > $100K, must complete the necessary documentation and submit to TPRC for endorsement.
+Provide advice and guidance to ensure compliance with TP Policy and Ts & Cs
+Verify completion and signature of Risk Assessment and COI Attestation
+Legal Services – review agreement for form and content
+Environmental Assessment
+Aboriginal Consultations
+Communications Branch – Identity/contentious issues, design appropriate communications
+Administer
+Maintain information with the Agreements Module (within 30-day limit)
+Maintain complete project file for audit/monitoring purposes
+Receipt and review of proponent reports (financial and performance)
+Ongoing proponent management and communication
+Claims processing (approval under S.34)
+SSO – processes and payment of claims and approval under S. 33 of FAA
+FMB FPCRM - Allotment control maintained to ensure clarity of financial reporting
+Audit (and Evaluation)
+Maintain audit tab within Agreement Module
+Evaluation of results
+Follow through on Program commitments
+Recipient audits as applicable
+Conduct and report results of sample corporate-level monitoring
+Generate Class Gs & Cs usage report for TPRC review (semi-annually)
+Proactive Disclosure reporting as required
+Audit/Evaluation - Assure a systematic follow up in order to assure appropriate response to audit and evaluation observations / recommendations
+Acquit
+File archiving according to GoC policy
+Update Agreements module
+Ensure Program managers in their sectors take steps to respond to specific Audit observations / recommendations
+Evaluation - consider timing of evaluation within 5-year Transfer Payment universe
+Appendix C: Evaluation Framework
+Evaluation Issue and Question
+Sub-Question
+Indicator
+Data source/notes
+Document review
+Database/ File review
+Interviews
+Interdepartmental Comparison
+Relevance (R)
+R1.  Continued need for program
+R1. Is there an on-going need for the DCGCP?
+R1 a) What needs were addressed by the DCGCP?
+Identification of needs
+RBAF
+Ministerial briefing material (re: continuation of authority)
+Program users
+·
+·
+·
+R1 b) To what extent were the identified needs met by the DCGCP?
+Perception of program management, program users, and beneficiaries of the extent to which the DCGCP met their respective needs
+Alignment of primary activity areas with areas of need
+Database query: sort by primary activity (ad hoc and individual)
+Project files: project reports  (ad hoc)
+Program management, users (ad hoc and individual) and beneficiaries
+·
+·
+R1 c) To what extent does the need for the program  continue?
+Perception of continued need for the program by program management, program users, and beneficiaries
+New/changing needs identified
+Program users, beneficiaries
+Ministerial briefings and reports
+TPRC briefing materials, minutes and reports
+·
+·
+R2. Does the DCGCP align with Government of Canada priorities and NRCan strategic objectives?
+R2 a) Was the DCGCP consistent with government priorities and NRCan strategic objectives? To what extent?
+Level of alignment between DCGCP-funded projects (ad hoc) and NRCan strategic objectives and government priorities during evaluation period
+Views of program users (NRCan) as to level of alignment between DCGCP-funded projects with NRCan strategic objectives and government priorities.
+RBAF
+Ad hoc project files, (especially project rationale)
+Program users
+Database
+Departmental Performance reports
+Reports on Plans and Priorities
+Recipient audits and monitoring and evaluation data collected for projects (ad hoc and individual programs as available)
+Reports to Minister
+·
+·
+·
+R3. Legitimacy, Appropriateness, and Necessity of Federal Government and NRCan role
+R3. Is there a legitimate, appropriate and necessary role for the federal government in the DCGCP? Is NRCan’s role appropriate in the context of the role of others?
+R3 a) What is the role of the federal government and NRCan in the DCGCP?
+Identification of role
+RBAF
+Briefing materials for continuation of authority
+DCGCP management, Program managers(individual programs), program users (ad hoc) and beneficiaries
+·
+·
+R3 b) Is the role legitimate, appropriate and necessary?
+Evidence of legal instruments that provide authority to act
+Program users and beneficiaries support the involvement of the federal government and NRCan
+Federal role is constitutionally appropriate
+Views on and evidence regarding the likelihood of projects proceeding in the absence of the DCGCP.
+Legislation
+Approval of authority
+Program users and beneficiaries
+Ad hoc project files
+Individual programs
+Foundational documents
+Reports to TPRC and Minister
+·
+·
+·
+Performance: (effectiveness)
+P1 a) To what extent have expected results been obtained?
+Consistency between project expected results and results realized
+Database
+Template to program users
+·
+·
+P1 b) To what extent does the program provide flexibility and responsive interventions for which there is otherwise no specific program authority? [Goal identified in foundational documents] Are there other ways to obtain such results?
+Extent to which DCGCP enabled flexibility and responsiveness of interventions
+Perception of program users and beneficiaries re flexibility
+Perception of program users re ability to provide responsive interventions
+Rationale for using DCGCP (instead of other mechanisms such a contract or own Ts & Cs)
+% and # of projects that were unanticipated opportunities/responsive interventions
+Program users (individual programs)
+Project files
+Database
+Program beneficiaries
+·
+·
+·
+P1 c) Have there been any unintended (positive or negative) outcomes?
+Evidence of unplanned results from program activities
+Program users
+Reports
+Project results (monitoring and evaluation information as found in project files)
+·
+·
+·
+Performance: Efficiency and Economy
+P2 Is the DCGCP the most economic and efficient means of making progress towards intended outcomes?
+P2 a) To what extent does the design of the DCGCP enable NRCan to address program priorities efficiently?
+Existence of design elements that provide flexibility and allow responsive interventions
+User assessment of manner in which DCGCP features enabled NRCan to address its program priorities.
+Comparison of length of time for contribution agreement to be negotiated and signed versus other delivery models (if extractable from database)
+Evidence from project rationale for choosing DCGCP instead of other mechanisms such as contracting or program-specific Terms and Conditions (especially for individual programs)
+TB sub
+Ministerial briefs,
+TPRC reports;
+Project files
+Individual Programs
+Database query
+·
+·
+·
+·
+P2 b) What factors facilitate or hinder the achievement of results?
+Identification of factors
+Perception of factors that have hindered and helped
+Program users and beneficiaries
+Foundational program documents
+Management tool
+Terms and Conditions for DCGCP
+·
+·
+·
+P2 c) Do opportunities exist within DCGCP to “lean” processes?
+Perceptions and suggestions from program users
+DCGCP processes as compared to other federal programs
+Program management and users
+Information about other federal programs
+·
+·
+P2 d) Is the DCGCP the most economic means of obtaining project results?
+Views of program users
+Comparison of DCGCP costs with those of similar programs in other departments
+Evidence of measures taken to reduce costs
+Leveraging – ratio of NRCan costs to total costs
+Planned versus actual DCGCP spending by program activity category (expectation is that the “other” category should account for a significant proportion of the variance) [dependent on how information is collected]
+Database
+Project files (ad hoc)
+Information from other programs
+Individual program managers
+Program Users (ad hoc projects)
+RPP and DPR information
+·
+·
+·
+·
+P2 e) Are there any best practices and lessons learned that can be used to improve the DCGCP?
+Examples of best practices
+Guidance or advice on best practices from Grants and Contributions COE
+Other Department programs
+Program users
+Program management
+TPRC reports
+Ministerial briefings
+·
+·
+·
+·
+P2 f) Are there alternate models of delivery that would enable NRCan to achieve similar results at a lower cost or more efficiently?
+Assessment of efficiency of DCGCP delivery model vis-a-vis other models in terms of time, oversight and reporting requirements
+Assessment of costs of DCGCP delivery model vis-à-vis other models
+Assessment of effectiveness of DCGCP delivery model compared to other programs
+Interviews with program managers
+Information from other departments
+·
+·
+·
+·
+Footnotes
+Footnote 1
+Financial Administration Act
+Section 42.1 (1) states “…every department shall conduct a review every five years of the relevance and effectiveness of each ongoing program for which it is responsible.” As found at
+http://laws-lois.justice.gc.ca/eng/acts/F-11/FullText.html  on December 15
+, 2015.
+Return to footnote
+1
+referrer
+Footnote 2
+Treasury Board Secretariat.
+Policy on Transfer Payments
+, Appendix A: Definitions as found at
+https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=13525
+, December 16, 2016.
+Return to footnote
+2
+referrer
+Footnote 3
+In effect at the time the evaluation was planned and field work was conducted. Replaced in July 2016 with the
+Policy on Results.
+Return to footnote
+3
+referrer
+Footnote 4
+Energy Efficiency Act (S.C. 1992, c. 36)
+as found at
+http://laws-lois.justice.gc.ca/eng/acts/E-6.4/
+.
+Return to footnote
+4
+referrer
+Footnote 5
+Resources and Technical Surveys Act (R.S.C., 1985, c. R-7)
+as found at
+http://laws-lois.justice.gc.ca/eng/acts/R-7/
+.
+Return to footnote
+5
+referrer
+Footnote 6
+Forestry Act (R.S.C., 1985, c. F-30)
+as found at
+http://laws-lois.justice.gc.ca/eng/acts/F-30/
+.
+Return to footnote
+6
+referrer
+Footnote 7
+Financial Administration Act
+Section 42.1 (1) states “…every department shall conduct a review every five years of the relevance and effectiveness of each ongoing program for which it is responsible.” As found at
+http://laws-lois.justice.gc.ca/eng/acts/F-11/FullText.html  on December 15
+, 2015.
+Return to footnote
+7
+referrer
+Footnote 8
+NRCan
+.
+Renewal of Class Grants and Contributions (CGCP) Terms and Conditions for Natural Resources Canada
+Submission to the Treasury Board of Canada, signed January 11, 2008, p. 7.
+Return to footnote
+8
+referrer
+Footnote 9
+Treasury Board Secretariat.
+Policy on Transfer Payments
+, Appendix A: Definitions as found at
+https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=13525
+, December 16, 2016.
+Return to footnote
+9
+referrer
+Footnote 10
+Four programs fall into this category: Program for Energy Research and Development (PERD), Geo-mapping for Energy and Minerals (GEM), Targeted Geoscience Initiative 4 (TGI 4), and Clean Energy – Housing.
+Return to footnote
+10
+referrer
+Footnote 11
+The COE is located within the Financial Management Branch (FMB) of the Corporate Management and Services Sector (CMSS) at NRCan.
+Return to footnote
+11
+referrer
+Footnote 12
+Excess funds from other contribution programs can be transferred to the Class contribution funds. However, existing contribution funds may not be reallocated to grant funds.
+Return to footnote
+12
+referrer
+Footnote 13
+The variance is to be expected. Commitments can be disbursed over more than one fiscal year. Also, commitments can be made but not paid out which will create a variance. For the purposes of the evaluation, the basis of analysis was committed funds.
+Return to footnote
+13
+referrer
+Footnote 14
+The previous evaluation found that the lack of results information impeded an assessment of achievement of program outcomes. Lessons learned from the evaluation also showed that a contribution or attribution analysis would be unfeasible given the low material value of projects across a wide range of outcomes on the Program Alignment Architecture (PAA).
+Return to footnote
+14
+referrer
+Footnote 15
+Treasury Board Secretariat of Canada.
+From Red Tape to Clear Results.
+Report of the Blue Ribbon Panel on Grants and Contributions Programs
+.    2006, p. 11.
+Return to footnote
+15
+referrer
+Footnote 16
+Office of the Auditor-General.
+2012 Fall Report of the Auditor General of Canada, Chapter 2
+as found at
+http://www.oag-bvg.gc.ca/internet/English/parl_oag_201210_02_e_37346.html
+.
+Return to footnote
+16
+referrer
+Footnote 17
+Treasury Board Secretariat.
+Policy on Transfer Payments
+as found at
+https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=13525
+.
+Return to footnote
+17
+referrer
+Footnote 18
+Environment and Climate Change Canada.
+Evaluation of the Umbrella Terms and Conditions – Final Report
+. April, 2016.
+Return to footnote
+18
+referrer
+Footnote 19
+Energy Efficiency Act (S.C. 1992, c. 36)
+as found at
+http://laws-lois.justice.gc.ca/eng/acts/E-6.4/
+.
+Return to footnote
+19
+referrer
+Footnote 20
+Resources and Technical Surveys Act (R.S.C., 1985, c. R-7)
+as found at
+http://laws-lois.justice.gc.ca/eng/acts/R-7/
+.
+Return to footnote
+20
+referrer
+Footnote 21
+Forestry Act (R.S.C., 1985, c. F-30)
+as found at
+http://laws-lois.justice.gc.ca/eng/acts/F-30/
+.
+Return to footnote
+21
+referrer
+Footnote 22
+Department of Natural Resources Act (S.C. 1994, c. 41)
+as found at
+http://laws-lois.justice.gc.ca/eng/acts/N-20.8/
+.
+Return to footnote
+22
+referrer
+Footnote 23
+Energy Efficiency Act (S.C. 1992, c. 36)
+as found at
+http://laws-lois.justice.gc.ca/eng/acts/E-6.4/
+.
+Return to footnote
+23
+referrer
+Footnote 24
+Resources and Technical Surveys Act (R.S.C., 1985, c. R-7)
+as found at
+http://laws-lois.justice.gc.ca/eng/acts/R-7/
+.
+Return to footnote
+24
+referrer
+Footnote 25
+Forestry Act (R.S.C., 1985, c. F-30)
+as found at
+http://laws-lois.justice.gc.ca/eng/acts/F-30/
+.
+Return to footnote
+25
+referrer
+Footnote 26
+Department of Natural Resources Act (S.C. 1994, c. 41)
+as found at
+http://laws-lois.justice.gc.ca/eng/acts/N-20.8/page-1.html#h-4
+Return to footnote
+26
+referrer
+Footnote 27
+Treasury Board Secretariat of Canada.
+From Red Tape to Clear Results.
+Report of the Blue Ribbon Panel on Grants and Contributions Programs
+.    2006, p. 11.
+Return to footnote
+27
+referrer
+Footnote 28
+Information compiled from TPRC meeting minutes and the AMI database and compared to the delegation of authority applicable to the DCGCP.
+Return to footnote
+28
+referrer
+Footnote 29
+Forest Sector Programs: Grants and Contributions  Open House
+, presentation by Robert  Jones, Director, Industry and Trade Division, Canadian Forest Service, October  16, 2013, slide.
+Return to footnote
+29
+referrer
+Footnote 30
+NRCan.
+Audit  of NRCan’s Grants and Contributions Processes and Activities
+(AU1602) as  found at
+https://natural-resources.canada.ca/audit/reports/2016/18678#strengths
+.
+Return to footnote
+30
+referrer
+Footnote 31
+Treasury Board Secretariat.
+Policy on Transfer Payments
+as found  at
+https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=13525
+.
+Return to footnote
+31
+referrer
+Footnote 32
+Treasury Board Secretariat  of Canada.
+From Red Tape to Clear  Results. Report of the Blue Ribbon Panel on Grants and Contributions Programs
+.  2006, p. 11.
+Return to footnote
+32
+referrer
+Footnote 33
+A sample of 10 contract policies from Canadian  universities showed this range.
+Return to footnote
+33
+referrer
+Footnote 34
+Treasury Board Secretariat  of Canada.
+From Red Tape to Clear  Results. Report of the Blue Ribbon Panel on Grants and Contributions Programs
+.  2006, pp. 11-16.
+Return to footnote
+34
+referrer
+Footnote 35
+Terms and Conditions, Departmental Class Grants  and Contributions Program.
+Return to footnote
+35
+referrer
+Report a problem on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2019-02-01

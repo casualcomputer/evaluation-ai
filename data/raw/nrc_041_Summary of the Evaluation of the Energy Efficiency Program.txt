@@ -1,0 +1,109 @@
+Summary of the Evaluation of the  Energy Efficiency Program
+About the Program
+The objective of the Energy Efficiency Program (EEP) is to encourage and enable the implementation of cleaner and more energy-efficient technologies, products and practices. It includes four program areas: Equipment Standards and Labelling, Housing, Buildings, and Industry. The ultimate target of the Program is to achieve an annual energy savings of 600 petajoules (PJ) in 2030.
+Delivered by Natural Resources Canada’s (NRCan) Office of Energy Efficiency (OEE), actual expenditures over the period of evaluation were $120.2 million.
+What the Evaluation Found
+Relevance
+The evaluation found that the Program continues to be relevant and well aligned with NRCan roles, responsibilities and priorities. Energy efficiency offers a powerful demand-side management option to reduce greenhouse gas (GHG) emissions and meet Canada’s climate change commitments and targets. The EEP’s continuous engagement with targeted residential, commercial and industrial sectors is needed to achieve market transformation and behavioural changes towards energy efficiency.
+Effectiveness
+The evaluation found evidence of continued progress towards the Program’s intended outcomes and positive results in increased adoption of energy efficiency solutions and practices. The EEP contributes to increased awareness of energy-efficient solutions and labels among targeted stakeholders and works to build capacity to make use of these tools. Through user-centric design and experimentation, the OEE’s new Social Innovation Unit contributes to its ability to modernize its product offering to respond to the changing needs of these stakeholders.
+Table 1: Awareness of Energy Efficiency Labels
+Table 1: Awareness of Energy Efficiency Labels
+Label
+Target
+Actual
+ENERGY STAR
+®
+85% by 2021
+88% in 2018
+EnerGuide
+50% by 2021
+65% in 2018
+Source: Labelling Awareness Survey 2018
+The target for the Program’s ultimate outcome (i.e., 600 PJ of energy saved in 2030) is ambitious and aligned to commitments in the Pan-Canadian Framework on Clean Growth and Climate Change. While data suggests that most of the EEP’s program areas have shown year-to-year improvements, revision of the Program’s indicators over the period of evaluation impeded the evaluation’s ability to assess its progress towards this outcome. The lack of interim targets in some program areas makes it a further challenge to determine the extent to which the Program is on track. Regardless, evidence indicates that progress to date still leaves a significant gap in required reductions to be achieved by 2030.
+Table 2: Energy Efficiency Targets and Results
+Table 2: Energy Efficiency Targets and Results
+Program Area
+Energy Savings (PJ/Year)
+Target
+Actual Result (2017-18)
+March 2021
+March 2030
+Buildings
+132.6
+3.18
+Equipment
+42.1
+219.5
+10.13
+Housing
+133.7
+3.14
+Industry
+17.9
+117.0
+3.5
+Total EEP
+≥63.6
+602.8
+19.95
+Source: OEE Self-Reported Performance (BEERS Database)
+With the exception of the
+Energy Efficiency Regulations, 2016
+, the Program’s design relies on voluntary adoption of the products and practices it supports or promotes. As costs remains a real or perceived barrier to the adoption of energy-efficient solutions, the EEP’s products and services are critical to building a business case for energy efficiency. While the EEP engages directly with industry to increase its capacity to identify and adopt energy efficiency projects and practices, the evaluation found many opportunities to increase engagement and participation within various industry sectors.
+Success in achieving the EEP’s ultimate outcomes also requires strong collaborations and significant action by the Program’s partners. The EEP engages regularly with provinces and territories (PTs), local governments, other federal departments and agencies, and with industry on many aspects of this programming, including efforts to harmonize and implement codes and standards. As a result, most jurisdictions generally support federal propositions on equipment regulations and have adopted or adapted the energy efficiency requirements of the National Building Code of Canada (or comparable). Six provinces have also adopted a version of the National Energy Code of Canada for Buildings. However, there are opportunities for NRCan to improve key target groups’ understanding of the benchmark used by the EnerGuide Rating System for houses.
+Efficiency
+Overall, the evaluation found few opportunities to increase efficiencies. Stakeholders generally perceived the EEP to be well resourced and efficient.
+About the Evaluation
+The evaluation covers the period from 2014-15 to 2018-19. The purpose of the evaluation was to assess the relevance and performance (i.e., effectiveness, efficiency and economy) of the Energy Efficiency Program (EEP). This evaluation covered all program areas included in the EEP, as well as related work of the Social Innovation Unit. This evaluation is consistent with the requirements of the Treasury Board
+Policy on Results (2016)
+. Details on specific evaluation questions, methods and limitations are found in the full report.
+Recommendations and Management Action Plan
+In response to rising energy demand and related GHG emissions, NRCan’s Low Carbon Energy Sector (LCES) is taking action to accelerate uptake of energy efficiency to promote and expand tools discussed in this evaluation. For example, the EnerGuide label and industrial efficiency programs, which are critical to meeting 2030 and 2050 targets and more immediately, new mandate commitments for greener homes and buildings for the broader energy transition.
+Recommendations
+Management Response and Action Plans
+Recommendation 1:
+The ADM of LCES should engage with key target groups to ensure that there is a good understanding of how to interpret and use the EnerGuide Rating System, especially with respect to rating methodology.
+Agreed.
+The LCES concurs with this finding, and the OEE is implementing a plan to ensure different user groups can effectively interpret the EnerGuide Rating.
+Two actions have already been completed that respond to this recommendation:
+Between November and December 2018, OEE engaged approximately 30,000 Canadians in British Columbia, Ontario, and Newfoundland and Labrador through the Carrot Rewards mobile app to evaluate how effectively the EnerGuide rating communicates energy performance. As a result, updates were made to the EnerGuide Homeowner Information Sheet to help homeowners and other users better understand the rating and associated methodology.
+The OEE engaged with PTs as part of a Labelling and Energy Use Disclosure working group, leading to the development and launch of a new website in 2019 that provides access to the results of EnerGuide evaluations and helps homeowners interpret and use the Rating System.
+LCES-OEE will engage with partners, other departments, PTs, municipalities and with Canadians through the model building code consultative process (both national and provincial) and the federal-provincial-territorial Labelling and Energy Use Disclosure working group to build their understanding of how to use EnerGuide. This will ensure that EnerGuide continues to effectively support regional home energy labelling and incentive programs as we promote related federal commitments.
+Due Date: December 2020.
+Recommendation 2:
+The ADM of LCES should review and improve the EEP’s support to industry to ensure that companies with different levels of energy management capacity are engaged and effectively supported to improve their energy efficiency and achieve related GHG emission reductions. Applying a user-centric approach, this review could include engagement with small- and medium-sized companies to better understand how to best respond to their particular needs.
+Agreed.
+LCES concurs with this recommendation.
+The OEE will build and expand on existing approaches in consultation with the LCES-OEE stakeholder community, including small- and medium-sized enterprises by developing new user-centric engagement content, including webinars, social media, videos, and cohort-based training. This includes:
+Work with the Canadian Industry Partnership for Energy Conservation (CIPEC) on a plan for industrial engagement, with a targeted focus on industrial de-carbonization and sector-specific needs.
+Work with PTs through committees of the Energy and Mines Minister Conference (EMMC) to develop a long-term vision and associated action plan on decarbonizing industry sectors while improving their competitiveness.
+Expand its programs and tools to support companies with a range of energy management capacity. For example:
+Expand the ENERGY STAR for Industry Challenge program and its Energy Management Guidelines (launched in 2018 and 2019 respectively);
+Launch the ISO 50001 Ready program in 2020 to support companies with less energy management capacity to follow a self-paced, step-by-step process without requiring significant investment in consultants and equipment; and
+Deliver the new Energy Manager Program launched in summer 2019 to support organizations with different levels of energy management capacity (in those provinces that are eligible).
+Due Date: September 2021.
+Recommendation 3:
+The ADM of LCES should establish indicators against which to assess the EEP’s interim progress towards ultimate outcomes in all program areas. These indicators should be supported by robust performance measurement methodologies. Where they do not already exist, targets or performance thresholds should be set for an interim date (e.g., 2023) to allow NRCan management to effectively assess progress. To the extent possible, performance indicators should be supported by methodology that enables benchmarking against past performance. If performance data indicates that the Program is off-track, it will need to either review its activities in order to meet its targets or review the targets if these are deemed unrealistic.
+Agreed.
+LCES concurs with this recommendation.
+OEE is working to review and improve the methodologies used by its Divisions and to set targets and calculate annual energy savings performance. This review will inform the program’s next steps on establishing indicators against which to assess interim progress.
+Due Date: December 2020.
+LCES-OEE has also recently established the OEE Planning and Reporting Network (OEEPRN), with representatives from all OEE Divisions. This network is a venue to discuss improvements to performance measurement and target setting across the OEE, and to link to departmental and sectoral initiatives such as the Performance Information Profiles operationalization exercise and the NRCan DataHub project. Both initiatives, led by NRCan’s Strategic Policy and Innovation Sector, improve the information available to management to better facilitate program performance.
+By March 2021, the OEEPRN will make recommendations to LCES-OEE Management for improving how LCES-OEE tracks progress of the EEP against ultimate outcomes. Implementation of accepted recommendations will give LCES-OEE more effective tools to report on progress toward, and support the achievement of Canada’s 2030 and 2050 targets.
+Due Date: March 2021.
+Report a problem on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2021-04-07

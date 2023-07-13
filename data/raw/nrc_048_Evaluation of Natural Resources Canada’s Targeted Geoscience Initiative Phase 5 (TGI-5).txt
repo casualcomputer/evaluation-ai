@@ -1,0 +1,797 @@
+Evaluation of Targeted Geoscience Initiative Phase 5 (TGI-5)
+Audit and Evaluation Branch
+Natural Resources Canada
+Final Report − May 27, 2020
+A photo of a geologist exploring a rocky surface to identify potential areas for ore deposits.
+Table of Contents
+List of acronyms
+Executive Summary
+Findings and conclusions
+Recommendations and Management Response
+Introduction
+Evaluation objectives and methodology
+Evaluation limitations and mitigation strategies
+Findings: Relevance
+Findings: Effectiveness
+Findings: Efficiency
+Conclusions and Lessons Learned
+Appendix 1: TGI-5 Logic Model
+Appendix 2: Key Documents
+Appendix 3: Glossary
+List of acronyms
+ADM, LMS
+Assistant Deputy Minister, Lands and Mineral Sector
+AEB
+Audit and Evaluation Branch
+CCCESD
+Council of Chairs of Canadian Earth Science Departments
+CIM
+Canadian Institute of Mining, Metallurgy and Petroleum
+CMIC
+Canadian Mining Innovation Council
+CMMP
+Canadian Minerals and Metals Plan
+CMSS
+Corporate Management and Services Sector
+HQP
+Highly Qualified Personnel
+IAG
+Industry Advisory Group
+IGA
+Intergovernmental Geoscience Accord
+GSC
+Geological Survey of Canada
+NGSC
+National Geological Surveys Committee
+NRCan
+Natural Resources Canada
+PDAC
+Prospectors and Developers Association of Canada
+PTGS
+Provincial and Territorial Geological Surveys
+TB
+Treasury Board
+TGI-4
+Targeted Geoscience Initiative Phase 4
+TGI-5
+Targeted Geoscience Initiative Phase 5
+Executive Summary
+This report presents the findings, conclusions and recommendations from the evaluation of the Targeted Geoscience Initiative Phase 5 (TGI-5), covering the period 2015-16 to September 2019. TGI-5 is sunsetting in March 2020, and hence this evaluation is expected to inform planning, design, and implementation of any successor program.
+The evaluation covers the period between February 2019 and December 2019.
+The TGI Program was first launched in 2000 as a three-year program with the goal of increasing the level and cost-effectiveness of private sector exploration for mineral resources. It was subsequently renewed four times.
+The purpose of TGI-5 is to help industry become more effective in finding buried mineral deposits in mineral producing regions of Canada, thereby reducing risk and increasing industry competitiveness, creating jobs, sustaining communities, and generating economic growth. The Program does this by conducting collaborative research and providing grants to academia for research on new methodologies or generation of new geoscience knowledge that facilitate more effective targeting of deeply buried mineral deposits by the mining industry. TGI-5 projects are undertaken with provinces and the mineral industry. The Program consistently responds to government priorities and emerging global shifts.
+TGI-5 received approximately $23.2 million (M) in funding for a five-year program (C-base funding provided through a Treasury Board [TB] submission). An additional $28.9M in NRCan A-base funds (ongoing funding) was earmarked for the program. C-base funds expire March 31, 2020.
+Within the program, $2.2M of the C-base funds was allocated to TGI-5 grants. These funds are delivered as grants to academic researchers under the Terms and Conditions (Ts&Cs) for Grants in Support of Geoscience (prior to 2016-17 as TGI-5 grants). On average, TGI-5 is delivered by approximately 45 A-base and six C-base full-time equivalents (FTEs).
+The objective of this evaluation is to assess the relevance, effectiveness and efficiency of TGI-5, and to identify lessons learned and best practices for successor programs.
+Findings and conclusions
+Regarding
+relevance
+, the industry need for public geoscience is continuing, driven by the requirement for a better understanding of mineral systems to help industry find minerals at depth. This need was supported throughout the engagement of the Canadian Minerals and Metals Plan (CMMP) released in 2019, as reflected in the strategic directions of economic competitiveness and development, and science, technology and innovation. Industry’s need for public geoscience is also evolving, in step with technology advances, such as machine-learning algorithms (MLAs, sometimes referred to as Artificial Intelligence [AI]) and 3-D modelling.
+The need for data generation, analysis and dissemination will continue, and emerging technologies will require future public geoscience programs to keep abreast of technological advances by having human resources with the requisite skill sets and modern technology infrastructure.
+By supporting collaborative research on new exploration methodologies and generating new public geoscience, TGI-5 is aligned with industry needs for more robust methods of determining ore fertility of mineral systems at depth; improved understanding of pathways from source to ore; better knowledge and techniques for modelling and detecting major mineral systems; and trained Highly Qualified Personnel (HQPs). C-base funds expire March 31, 2020.
+TGI-5 fills a niche role in addressing the need for regional-scale (i.e., not limited to any province or jurisdiction), mineral system public geoscience. The provision of scientific knowledge and data on Canada’s resource base provides a competitive advantage that can attract investment in the sector.
+The evaluation concludes that to remain relevant, address industry’s needs and remain an attractive employer to HQPs, the successor programs, and Geological Survey of Canada (GSC), in general, will need to keep pace with developments in the generation, dissemination, use and integration of geoscience data. This includes such innovations as the use of MLAs and 3-D modeling, and the translation of archived data for modelling. The public geoscience environment of data infrastructure, platforms and standards is important to future programs as this serves as the foundation for storing and disseminating geoscience information to TGI-5 stakeholder groups.
+Regarding
+effectiveness
+, key outputs to date consist of the TGI-4 synthesis products, and TGI-5 open files, presentations, and journal articles. Open files consist of a wide variety of research outputs including surveys, research findings on specific ore bodies, and new models. From April 2015 to June 2019, the program produced 508 outputs. Case studies identified the external factor of internet bandwidth and slow downloading speeds when downloading large TGI-5 datasets as an issue affecting access to information for external stakeholders. The evaluation assessed the extent to which TGI-5’s intended outcomes have been achieved.
+The evaluation concludes that the Program has made good progress in the production of outputs at this stage of implementation, although the Program did not have quantitative output targets to compare to. However, major outputs are still to be produced in 2019-20 and likely into 2020-21, as research activities were still ongoing during the evaluation timeframe. Interviews, case study and document review raised the issue that improved stakeholder engagement and knowledge dissemination would enhance program effectiveness. This was also a recommendation in the TGI-4 evaluation that was not adequately implemented. While the Program has endeavoured to improve communications in recent years, it has not devoted dedicated resources to the function. Communications is a broad corporate function that should include raising the awareness of stakeholders (traditional and non-traditional) about TGI-related activities, programs and outputs.
+The Program’s knowledge transfer focus involved dissemination of knowledge products to target groups through active means (e.g., presentations, push emails such as RSS, etc.) and passive means (e.g., posting on websites, GEOSCAN, etc.). The Program was largely dependent on GEOSCAN, the RSS feed and the Geoscience Data Repository [the Repository] for Geophysical Data to disseminate its knowledge products. These approaches appear to be effective, although monitoring of reach can be improved (e.g., GEOSCAN download information is available, but not the number of RSS subscribers; no information is available from the Repository). The Data Repository contains large datasets that require the appropriate Information Management/Information Technology (IM/IT) infrastructure in place to enable users to download the information with as much ease as possible.
+Regarding
+efficiency,
+the evaluation found that the Program design is efficient, but there are areas for improvement. The TGI-5 program management structure is lean, consisting of a TGI-5 Program Manager who is supported by two Project Managers who are also Research Managers. In addition, there are three main program management bodies: the TGI-5 Management Committee, the Science Advisory Group (SAG) and the Industry Advisory Group (IAG). This new approach to advisory committees helps leverage national industry organizations with existing geoscience committees and allows industry to provide aggregated feedback. Decisions from all bodies are tracked and used as inputs into project design. The implementation of the IAG was delayed which reduced the effectiveness of the group. Nonetheless, the role of such an advisory group to a public geoscience program was considered critically important by interviewees.
+The areas for improvement regarding program design included the planning phase and the funding cycle. There was a change in approach late in the planning phase from a cross-cutting approach to the ore-system approach which resulted in time delays and expended effort by project planners. Areas for improvement identified by interviewees included the planning process and ensuring there are clear processes and transparency in budgeting and project selection. Regarding the funding cycle, the programming of research into five-year funding cycles is not always appropriate. It can create difficulties in terms of contracting HQPs, especially PhDs who require at least four years to complete their studies, and the time required for research programs to realize results.
+Risk management was considered a strength of the Program. Specifically, the management of TGI-5 operational, financial and science risk by experienced scientists familiar with this type of research program was often highlighted by interviewees.
+Regarding budget and expenditure, the Program has been delivered as planned within normal parameters of variation (e.g., +/- 10%). A-base expenditure is planned to be approximately $24.4M instead of $22.3M, or 109%. C-base expenditure is projected to be at 97.5% of budget.
+The evaluation concludes that the Program incurred delays during the planning phase due to a change in approach. This resulted in time delays and expended effort by both TGI-5 scientists and stakeholders. Issues in planning were also noted during the TGI-4 evaluation.
+Regarding
+lessons learned
+, across all lines of evidence there were many suggestions for best practices and suggestions for improvements moving forward. Several ideas that were most often identified included:
+creation of the IAG is considered to be a critically important body;
+conversion of archived data into formats suitable for 3-D modelling was identified as a best practice;
+the multi-disciplinary nature of projects that incorporate various expertise (e.g., geochronology, chemistry, physical science, etc.) and the collaborative approach with clear objectives;
+improvement in information dissemination by using webinars and newsletters, improving the strategic use of social media, facilitating access to peer-review articles and papers produced from TGI-5 grants, and reaching out to non-traditional audiences; and
+releasing knowledge products throughout the research process (incremental), documenting industry success stories, continuing to use simple, widely accessible file formats for TGI-5 products and continuing to produce synthesis volumes and annual reports.
+The evaluation concludes that it is important to recognize that the fundamental aspect of TGI-5 program theory is to improve industry’s ability to find minerals through access to program generated knowledge and data. Industry partners involved directly in TGI-5 research activities are aware of and can access the research that they help produce. They are part of the research team. At issue is industry’s awareness of the wider TGI-5 body of knowledge, some of which may be relevant for its own interests. As such, current dissemination approaches, such as RSS feeds and GEOSCAN, may not be the most effective means to inform industry about available knowledge products. It is appropriate that TGI-5 have an effective engagement and information dissemination function given that program success is contingent upon useful geoscience knowledge products being used by its stakeholders. This expertise should be recognized as value added.
+A photo of a geologist collecting samples of rocks in a mountainous range.
+Recommendations and Management Response
+Recommendations
+Recommendation on Future Program Structure and Needs
+The ADM, LMS (Lands and Mineral Sector) assess future program demand for emerging data-related technologies (e.g., data translation, 3-D modeling, MLAs, etc.).
+Management Response
+Management agrees
+LMS will conduct an assessment of future data-related technologies and develop a plan to better utilise innovative disruptive technologies, such as AI, and 3D Visualization, and augmented-reality. The plan will consider both in-house and external options for cost effective delivery.
+Due date:
+June 30, 2020
+In addition, LMS will put forth a proposal which, if successful, will allow the development of a digitally-driven, public facing system that creates predictive models of Canada’s mineral resources potential for key commodities, such as critical minerals needed for the development of clean technologies. This will allow data-related technologies to inform mineral exploration and other land use decisions as well as contribute to the development and implementation of the Pan-Canadian Geoscience Strategy.
+Due date:
+December 31, 2020
+Recommendation on Stakeholder Engagement
+The ADM, LMS improve stakeholder engagement function so as to increase stakeholder awareness of, access to and use of TGI products with a specific focus on scientific knowledge aspects of the products.
+Management agrees
+LMS will develop and implement a stakeholder engagement plan designed to increase stakeholder’s awareness of, access to and use of TGI products with a specific focus on the scientific knowledge aspect of the products. LMS will align this work with the development of the Pan-Canadian Geoscience Strategy (PCGS), one of the CMMP’s pan-Canadian initiatives endorsed by Canada’s Mines Ministers at the Energy and Mines Ministers Conference (EMMC) 2019. The plan will assess and put in place the resources (human, financial or other) required to deliver successful engagement. (As part of recommendation 4). LMS will monitor and report on the success of their engagement efforts.
+Due date:
+The first monitoring and reporting on stakeholder engagement plan will be available on December 31, 2020, and on-going after this date.
+Recommendation on Information Dissemination
+The ADM, LMS and the ADM, CMSS (Corporate Management and Services Sector) engage with other GSC programs regarding complementary IM/IT strategies (e.g., for bandwidth, Geoscience database maintenance and use (e.g., licences), etc.) to ensure that target groups’ needs are taken into consideration.
+Management agrees
+LMS will develop an action plan in partnership with ADM, CMSS, to engage with other GSC programs on the development of complementary IM/IT strategies. As part of this plan, collaborative initiatives between NRCan’s LMS and CMSS sectors, and outreach to Shared Services Canada (SSC) and other federal Science and Technology other Government Departments (S&T OGDs), to optimize available IM/IT resources will be detailed.
+Due date:
+The action plan will be available on or before December 31, 2020, and will be updated on an on-going basis after this date.
+Recommendation on Performance Measurement and Reporting
+The ADM, LMS, strengthen the Program’s performance measurement framework (PMF), with a view to simplifying outcomes, obtaining better information on reach, use and usefulness of knowledge products, monitoring industry success stories stemming from TGI research, and including Gender-Based Analysis Plus (GBA+) indicators for regular monitoring.
+Management agrees
+A performance measurement plan will be developed and implemented to strengthen the Program’s PMF, by simplifying outcomes, developing better indicators for information on reach, use and usefulness of knowledge products. Monitoring of industry success stories stemming from TGI research, and development of GBA+ indicators will be included. The Program’s Performance Information Profile will be updated according to this plan, and reporting through annual departmental plans and reports will occur.
+Due date:
+The first reporting on PMF will be available on March 31, 2021 and on an on-going basis after this date.
+Introduction
+This report presents the findings, conclusions and recommendations from the evaluation of the TGI-5, covering the period 2015-16 to September 2019. TGI-5 is sunsetting in March 2020, and hence this evaluation is expected to inform planning, design, and implementation of any successor program.
+Natural Resources Canada’s (NRCan) Audit and Evaluation Branch (AEB) undertook the evaluation between February 2019 and December 2019. It was conducted in accordance with the 2016 TB
+Policy on Results
+and responds to TB commitments to evaluate the Program by March 2020.
+Program information
+Geoscience knowledge, provided as a public good by Canada’s government geological survey organizations, is a key enabler of responsible development of mineral resources. Government geological survey organizations consist of the GSC, which administers TGI-5 among other programs, and the provincial and territorial geological surveys (PTGS).
+What is public geoscience?
+Public geoscience refers to geological, geophysical, geochemical, and other data, maps, and knowledge. It can be delivered through spatial reference information systems and is provided as a public good. Public geoscience helps exploration companies make informed decisions regarding their exploration plans and allows them to focus on areas of higher potential. The availability of geoscience data and knowledge reduces risks associated with mineral exploration and enhances Canada’s attractiveness as a destination for investment.
+Source
+: Canadian Minerals and Metals Plan
+Geoscience knowledge underpins a significant proportion of the economy and sustains many communities. Most recently, Canada is experiencing a decline in base metal reserves. The decline is caused in part by the depletion of known shallow deposits and declining rates of discovery of new deposits.
+The TGI Program was first launched in 2000 as a three-year program with the goal of increasing the level and cost-effectiveness of private sector exploration for mineral resources. It was subsequently renewed four times.
+The purpose of TGI-5 is to help industry become more effective in finding buried mineral deposits in mineral producing regions of Canada, thereby reducing risk and increasing industry competitiveness, creating jobs, sustaining communities, and generating economic growth. The Program does this by conducting collaborative research and providing grants to academia for research on new methodologies or generation of new geoscience knowledge that facilitates more effective targeting of deeply buried mineral deposits by the mining industry.
+TGI-5 supports the development of new geoscience-based techniques for locating deep mineral deposits using an ore systems-based approach. The Program is composed of five projects (see Table 1) that operate under the
+Intergovernmental Geoscience Accord
+(IGA), an agreement which defines the complementary roles of Canada’s geological surveys, as well as mechanisms for cooperation and collaboration.
+TGI-5 projects are undertaken in partnership with provinces, academia, and the mineral industry. These five projects are further defined in specific sub-projects (10) and project components (27), which describe individual research activities.
+Table 1: TGI-5 Project and Sub-projects
+TGI-5 Projects
+Sub-projects
+Uranium Systems
+Uranium Fluid Pathways
+Uranium-rich Deep Metasomatic Processes
+Porphyry-related mineral systems
+Arc-related porphyry mineralization in space and time
+Mineral markers of porphyry processes
+Gold systems
+System controls on gold through space and time
+Tectonic influences on gold
+Nickel, Copper, PGE, Chrome systems
+System scale and deposit scale controls on mineralization in cratonic areas and their margins
+Magmatic architecture of chrome-bearing ore systems
+Volcanic and Sedimentary Systems
+Seafloor ore deposition through space and time
+Base metal sources and mineralizing processes
+Underlying the TGI-5 logic model (See Appendix 1) is a program theory of generating and facilitating access to new geoscience data and knowledge and supporting the development of HQPs. These in turn allow industry to focus its exploration activities. This theory is reflected in the TGI-5 logic model which includes the following expected results:
+Immediate Outcomes
+Mineral exploration industry can efficiently discover recent and emerging public geoscience knowledge and methodologies relevant to discovery of new mineral resources.
+Collaborative geoscience research groups, that engage students, are formed to leverage expertise and capacity to effectively solve research questions about genesis of ore systems.
+Intermediate Outcomes
+Innovative methodological approaches for detection and delineation of ore deposits begin to be adopted by industry.
+Exploration industry starts to apply new public geoscience knowledge to explore for Canada’s major mineral deposit types.
+Long-Term Outcomes
+New knowledge, methodologies and models enhance the exploration industry’s ability to detect buried ore deposits.
+Integrated, multi-scale scientific knowledge of source-to-ore formation that is both authoritative and accessible results in industry innovating exploration approaches.
+A replenished pool of HQPs equipped with state-of-the-art knowledge, is available for employment in the mineral exploration industry.
+TGI-5 is administered by the GSC and utilizes many of the GSC existing mechanisms and forums for engaging stakeholders including:
+GSC Science Advisory Group (SAG)
+Internal, representative scientist group developing and advising on science directions of TGI-5 projects
+National Geological Surveys Committee (NGSC) (ongoing, but formally bi-annual), composed of PTGS and GSC
+Information sharing and advice PTGS under auspices of the IGA
+Complemented with bi-lateral PTGS discussion
+Figure 1: TGI-5 Project Areas
+Source : Natural Resources Canada, Targeted Geoscience Initiative: Increasing Deep Exploration Effectiveness
+Text version
+TGI Increasing deep exploration effectiveness
+A simplified bedrock geologic map and a shaded relief map are combined to give a textured geologic perspective of Canada. The features are shown in pastel colours as a backdrop to the Targeted Geoscience Initiative areas of interest (2015-2020). These sites are distributed across the country in most of the provinces and territories. There are 8 in Yukon, 2 in Nunavut, 6 in British Columbia, 1 in Saskatchewan, 2 in Manitoba, 9 in Ontario, 6 in Quebec, 2 in Newfoundland and Labrador, 2 in New Brunswick, and 2 in Nova Scotia. There are 8 Volcanic and Sedimentary Systems, 6 Nickel, Copper and Platinum Group Elements, 7 Porphyry Systems, 3 Uranium and 14 Gold Systems and 1 specialty metal systems.
+Industry Advisory Group (IAG)
+A TGI-5 specific body that provides industry technical advice to the program via participating representatives of the three Canadian national exploration industry associations, namely the Prospectors and Developers Association of Canada (PDAC), the Canadian Mining Innovation Council (CMIC) and the Canadian Institute of Mining (CIM)
+Complemented by ad-hoc working level groups, bi-lateral discussions, engagement with regional industry associations
+Academia
+Proposals from academia received by TGI-5 during calls for grants
+Ongoing collaboration through co-supervised students
+Council of Chairs of Canadian Earth Science Departments (CCCESD) (annual)
+TGI-5 received approximately $23.2M in funding for a five-year program (C-base funding). An additional $28.9M in NRCan A-base funds (ongoing funding) was earmarked for the Program. C-base funds expire March 31, 2020.
+Within the Program, $2.2M of the C-base funds was allocated to TGI-5 grants. These funds are delivered as grants to academic researchers under the Ts&Cs for Grants in Support of Geoscience (prior to 2016-17 as TGI-5 grants). The remaining C-base funds were allocated to operating and maintenance (O&M) and salary costs. On average, TGI-5 is delivered by approximately 45 A-base and six C-base FTEs.
+A group photo of TGI-5 geologists, academics and graduate students, located at an on-site TGI-5 project.
+Evaluation objectives and methodology
+The objective of this evaluation is to assess the relevance (i.e., continued need and alignment with federal and NRCan priorities and roles/responsibilities) and performance (i.e., effectiveness and efficiency) of TGI-5 and to identify lessons learned and best practices for successor programs.
+A GBA+ lens was applied during the project planning. The geoscience and exploration community is a male-dominated field, while the earth science student and academic community is more gender balanced. For the evaluation, there was a risk of excluding female voices in the data collection process, with interviews being the most vulnerable line of evidence. For this reason, the evaluation team strived to include female representation in the interviews.
+The evaluation used three lines of evidence, consisting of qualitative and quantitative data:
+Document and Literature Review
+A review of Program documents, as well as strategic and corporate documents for NRCan, the federal government and TGI-5 was conducted. This included a limited literature review of five articles and quantitative data related to knowledge dissemination. Since the nature of program renewal was uncertain, the document review focused on the higher-level program documents and relied on project information as synthesized by the TGI-5 Coordination Office and presented in the Mid-Year and Year-End Reviews. While project documents were reviewed, they were assessed mainly to confirm that key project information was contained in the Mid-Year and Year-End Review presentations; in-depth analysis and compilation of project information was not conducted.
+Key Informant Interviews
+Thirty-one (31) interviews were conducted (10 of which were NRCan representatives and 21 were with external stakeholders from industry, provinces/ territories, and academia).
+Case Studies
+The evaluation completed four case studies to understand the results, best practices and lessons learned regarding the following themes:  geoscience data; stakeholder engagement; knowledge dissemination; and the gold system project.
+Evaluation limitations and mitigation strategies
+The evaluation used multiple lines of evidence in order to mitigate against any limitations associated with individual methods. These enabled the triangulation of evidence across sources of information to identify valid findings and conclusions relative to the evaluation questions. Nevertheless, the limitations identified below should be considered when reviewing the findings from this evaluation.
+Regarding document review, scientific outputs were reviewed only insofar as they provided evidence of collaboration and impact on industry exploration methods. Neither the quality of the science, nor the relevance of the research to the overall objectives of the TGI-5 program, was assessed. This was mitigated by reviewing documents containing project specific information and the sub-projects conducted by the IAG, the SAG, and the TGI-5 management committee.
+Overall, 31 interviews were conducted of a planned total of 34 interviews for both general evaluation interviews and case study interviews. Although the number of interviews conducted was fewer than planned, there was sufficient representation of all groups to achieve thematic saturation. This was further mitigated by triangulating findings with other lines of evidence.
+What We Found
+Relevance
+What is the need for a public geoscience program? Has the need for such a program changed? If so, how?
+To what extent does the objective of TGI-5 align with federal government and NRCan priorities?
+Is the role of NRCan/GC legitimate? Appropriate? Necessary?
+Findings: Relevance
+Summary:
+The industry need for public geoscience is continuing, driven by the requirement for a better understanding of mineral systems to help industry find minerals at depth. This need was also supported throughout the engagement of the CMMP released in 2019, as reflected in the strategic directions of economic competitiveness and development, and science, technology and innovation. Industry’s need for public geoscience is also evolving, in step with technology advances such as MLAs, sometimes referred to as AI, and 3-D modelling. The need for data generation, analysis and dissemination will continue, and emerging technologies will require future public geoscience programs to keep abreast of technological advances by having human resources with the requisite skill sets and modern technology infrastructure.
+By supporting collaborative research on new exploration methodologies and generating new public geoscience, TGI-5 is aligned with industry needs for more robust methods of determining ore fertility of mineral systems at depth; improved understanding of pathways from source to ore; better knowledge and techniques for modelling and detecting major mineral systems; and trained HQPs.
+TGI-5 fills a niche role in addressing the need for regional-scale (i.e., not limited to any province or jurisdiction), mineral system public geoscience. The provision of scientific knowledge and data on Canada’s resource base provides a competitive advantage that can attract investment in the sector.
+Conclusion:
+To remain relevant, address industry’s needs and remain an attractive employer to HQPs, the successor programs, and GSC in general, will need to keep pace with developments in the generation, dissemination, use and integration of geoscience data. This includes such innovations as the use of MLAs and 3-D modeling and the translation of archived data for modelling. The public geoscience environment of data infrastructure, platforms and standards is important to future programs as this serves as the foundation for storing and disseminating geoscience information to TGI-5 stakeholder groups.
+Recommendations
+:
+The ADM, LMS assess future program demand for emerging data-related technologies (e.g., data translation, 3-D modeling, MLAs, etc.).
+The ADM, LMS and the ADM, CMSS engage with other GSC programs regarding complementary IM/IT strategies (e.g., for bandwidth, Geoscience database maintenance and use (e.g., licences), etc.) to ensure that target groups’ needs are taken into consideration.
+There is a continued need for public geoscience programs in Canada
+There is strong evidence from NRCan, industry, provincial geological surveys, and the literature of a continued need for public geoscience on a mineral system level to support industry’s understanding of deeply buried deposits and reduce risk associated with such exploration. This is especially true as Canada’s accessible regions become mature mining camps and deposits are found at greater depths, with most new discoveries occurring at depths greater than 200 metres. As traditional technologies and methods are optimized for near-surface discovery, there is a need to develop better subsurface modelling methods.
+TGI-5 and the previous TGI-4 focussed on developing better conceptual models of mineral systems that describe the mineralizing process that could then be used by industry to develop better exploration models.
+Reviewed documents and literature indicate that mineral exploration costs have increased while discovery rates have decreased. Traditional exploration strategies need to change. Through public geoscience, the risk of exploration is lowered as geoscience knowledge helps to identify areas of prospectivity.
+Mining contributed $97 billion (B) to Canada’s Gross Domestic Product (GDP) in 2017, or 5% of total GDP.
+200 active mines, 7,000 pits and quarries.
+The industry directly employs more than 426,000 workers and indirectly employs a further 206,000 persons.
+It is the second largest private sector employer of Indigenous peoples in Canada.
+Source
+: Prospectors and Developers Association of Canada (
+https://www.pdac.ca/communications/infographics
+It is Canada’s junior mining sector that undertakes much of the exploration activities. According to a Standing Committee on Natural Resource Report (2017, pp 17), the “exploration business is becoming riskier and more costly, especially for junior companies that account for approximately 70% of Canadian discoveries and create almost 30% more value per dollar expended compared to major mining companies”. The likelihood of an exploration project leading to a discovery is small, and there are rising operational costs. The same report concludes that there is therefore a need to support junior mining companies in their exploration activities.
+TGI-5 is aligned with industry needs for more robust methods of determining ore fertility of mineral systems at depth; improved understanding of pathways from source to ore; better knowledge and techniques for modelling and detecting major mineral systems; and trained HQPs.
+Interviewees in all stakeholder groups highlighted TGI-5’s niche role in addressing the need for regional-scale (i.e., not limited to any province or jurisdiction), mineral system public geoscience. The provision of scientific knowledge and data on Canada’s resource base provides a competitive advantage that can attract future investment.
+The mining sector is a significant contributor to the Canadian economy
+The role of government in supporting the mining industry through programs such as TGI-5 is appropriate. The mining sector is a significant contributor to GDP. Its activities occur throughout the country as ore systems cross provincial boundaries. It is a significant source of employment that includes Indigenous People.
+Figure 2: Mining Sector is Pan-Canadian
+Bar chart showing mineral production in Canadian provinces and territories.
+Source: CMMP (2019, p.2)
+Text version
+A table depicting mineral production that occurs in every Canadian Province and Territory.
+The figure depicts two miners in a mining shaft. The total production of minerals in 2017 was $44 billion.
+The statistics for mineral production for each province and territory in Canada are depicted below.
+British Columbia: $8,836 Million
+Alberta: $2,444 Million
+Saskatchewan: $5,718 Million
+Manitoba: $1,656 Million
+Ontario: $9,862 Million
+Quebec: $8,609 Million
+Yukon: $301 Million
+New Brunswick: $393 Million
+Prince Edward Island: $6 Million
+Nova Scotia: $237 Million
+Newfoundland and Labrador: $2,927 Million
+Northwest Territories: $2,070 Million
+Nunavut: $844 Million
+According to a report prepared by the NGSC for EMMC (2017), the mining sector contributed over $71B in taxes and royalties to Canadian governments between 2003 and 2012. According to the CMMP 2019, mineral production totalled approximately $44B in 2017. Canada produces 60 minerals and metals at 200 active mines and 7,000 pits and quarries. The mining sector is present across Canada.
+Documentary and literature evidence indicates that investment in public geoscience has a favourable return on future exploration spending and mineral development and provides a competitive advantage to the Canadian mining sector.
+The need for public geoscience is evolving, driven by advances in technology.
+According to documents reviewed, TGI-5 and the previous TGI-4 focussed on developing better conceptual models that describe the mineralizing process, for industry to use to develop better exploration models.
+More recently, the evolution of the science has been facilitated by the development of new technologies such as 3-D modelling and MLAs, sometimes referred to as AI. According to interviews with TGI-5, industry, and academia, this in turn gives rise to new needs, such as the ability to download and manipulate the source data and integrate that data with other data sets, and the ability to disseminate data in a timely manner. The emerging need is to expand on and translate this knowledge into mechanisms for producing new 3-D maps of the subsurface to guide exploration. The case studies highlighted the importance of multiple, formal channels of collaboration with industry to address its needs, not just in terms of public geoscience but also new needs that arise from technological advancements.
+All lines of evidence highlighted the continued, growing and evolving need of industry for timely geoscience knowledge and data generation, analysis and dissemination.
+The Targeted Geoscience Initiative Phase 5 (TGI-5) is aligned with federal government and NRCan priorities, roles and responsibilities
+The Role of the GSC
+The GSC is responsible for providing Canada with a comprehensive geoscience knowledge base that contributes to economic development, public safety and environmental protection. It does so by acquiring, interpreting and disseminating geoscience information. The GSC carries out programs that are typically thematically based and national in scope and significance, operating in all provinces and territories.
+Source
+:
+Intergovernmental Geoscience Accord
+(2017, page 4)
+TGI-5 is aligned with the overall goal and mandate of NRCan, aligning to the former Program Alignment Architecture (PAA) under 1.3.2 Investment in Natural Resources, and currently aligning with the NRCan Core Responsibility of “Natural Resource Science and Risk Mitigation” in the department’s Departmental Results Framework (DRF). This is appropriate given that public geoscience knowledge and data assist industry in its exploration activities, thereby contributing to reducing risk. TGI-5 is also clearly identified in the GSC’s Strategic Plan 2013-18. Funding was provided to the Program in Budget 2015 under Responsible Resource Development. The TGI-5 role is legitimized through the
+Resources and Technical Surveys Act R.S.C 1985
+(articles 3a to f), and the
+Department of Natural Resources Act, S.C. 1994
+(article 5c) which give the Minister of Natural Resources the right and duty to undertake surveys and chemical, mechanical and metallurgical and other research. The TGI-5 program is consistent with the role described for the GSC in the
+Intergovernmental Accord
+(IGA; 2012).
+As well, according to interviews, TGI-5 has a legitimate role given the Ministerial mandate and the traditional role of geological surveys in the provision of public geoscience. Almost all interviewees consider the GSC role as appropriate and necessary. GSC plays a role that no one else can, by providing a regional pan-Canadian perspective, being a repository of knowledge and data, and allowing open access for land mass knowledge and covering a range of commodities.
+The evaluation’s Stakeholder Engagement Case Study underlined the mutual recognition of the importance of the industry-government collaboration on public geoscience programs. Industry’s active engagement in TGI-5 through the IAG demonstrates the Program’s necessary and appropriate role. TGI-5 also uses other mechanisms for engaging its key stakeholders, including the National Geological Surveys Committee (NGSC) for provinces and territories that is established under the IGA, and the Council of Chairs of Canadian Earth Science Departments for academia.
+What We Found
+Effectiveness
+To what extent did TGI-5 activities result in the planned outputs?
+To what extent did the program achieve progress towards achieving intended outcomes?
+What internal and/or external factors impacted the achievement of outcomes? In what ways?
+Findings: Effectiveness
+Summary:
+Key outputs to date consist of the TGI-4 synthesis products, and TGI-5 open files, presentations, and journal articles. Open files consist of a wide variety of research outputs including surveys, research findings on specific ore bodies, and new models. From April 2015 to June 2019, the program produced 508 outputs. Case studies identified the external factor of internet bandwidth and slow downloading speeds when downloading large TGI-5 datasets as an issue affecting access to information for external stakeholders.
+The extent to which TGI-5’s intended outcomes have been achieved is assessed as follows:
+Immediate Outcomes
+Mineral exploration industry can efficiently discover recent and emerging public geoscience knowledge and methodologies relevant to discovery of new mineral resources – good progress in achieving outcome, but there is room for improvement;
+Collaborative geoscience research groups, that engage students, are formed to leverage expertise and capacity to effectively solve research questions about genesis of ore systems – very good to excellent progress in achieving outcome;
+Intermediate Outcomes
+Innovative methodological approaches for detection and delineation of ore deposits begin to be adopted by industry – some progress identified, still early in the Program to realize full results;
+Exploration industry starts to apply new public geoscience knowledge to explore for Canada’s major mineral deposit types – some progress identified, still early in the Program to realize full results;
+Long-term Outcomes
+New knowledge, methodologies and models enhance the exploration industry’s ability to detect buried ore deposits – too early to measure results, but some indications of progress;
+Integrated, multi-scale scientific knowledge of source-to-ore formation that is both authoritative and accessible results in industry innovating exploration approaches – too early to measure results, but some indications of progress; and
+A replenished pool of HQPs equipped with state-of-the-art knowledge, is available for employment in the mineral exploration industry – very good progress in achieving outcome.
+Conclusion:
+Evaluation evidence indicates that the Program has made good progress in the production of outputs at this stage of implementation, although the Program did not have quantitative output targets to compare to. However, major outputs are still to be produced in 2019-20 and likely into 2020-21, as research activities were still ongoing during the evaluation timeframe. Interviews, case study and document review raised the issue that improved stakeholder engagement and knowledge dissemination would enhance program effectiveness. It was noted that in recent years, the Program has endeavoured to improve communications, although it did not devote dedicated resources to the function. Communications is a broad corporate function that should include raising the awareness of stakeholders (traditional and non-traditional) about TGI-related activities, programs and outputs.
+The Program’s knowledge transfer focus involved dissemination of knowledge products to target groups through active means (e.g. presentations, push emails such as RSS, etc.) and passive means (e.g., posting on websites, GEOSCAN, etc.). The program was largely dependent on GEOSCAN, the RSS feed and the Geoscience Data Repository for Geophysical Data to disseminate its knowledge products. These approaches appear to be effective, although monitoring of reach can be improved (e.g., GEOSCAN download information is available, but not the number of RSS subscribers; no information is available from the Repository). The Data Repository contains large datasets that require the appropriate IM/IT infrastructure in place to enable users to download the information with as much ease as possible.
+Recommendations
+The ADM, LMS improve its stakeholder engagement function so as to increase stakeholder awareness of, access to and use of TGI products with a specific focus on scientific knowledge aspects of the products.
+The ADM, LMS and the ADM, CMSS engage with other GSC programs regarding complementary IM/IT strategies (e.g., for bandwidth, Geoscience database maintenance and use (e.g. licences), etc.) to ensure that target groups’ needs are taken into consideration.
+The Targeted Geoscience Initiative Phase 5 (TGI-5) has produced outputs as planned
+The Program does not report systematically on the annual status of planned project activities and outputs. Rather, it provides high-level reporting on key activities, publications produced, download statistics, industry attestations and HQPs engaged at mid-year and end-of-year presentations. A comprehensive review of planning and reporting documents to assess the extent to which planned outputs were produced was out of the scope of this evaluation. Nonetheless, interviews, document review and the Gold Case Study indicate that that there is project planning, and TGI-5 has produced a considerable number of outputs.
+The number of outputs is an imperfect measure to compare across the TGI-4 and TGI-5 programs, given that the resources, effort and time to produce any one output can vary widely. TGI-4 produced 300 outputs at a comparable time in the program. TGI-5 has produced 508 outputs from the start of the TGI-5 (April 2015) until June 2019. It is expected that more outputs will be produced in 2019-20, and based on historical performance, it is realistic to expect that some outputs derived from TGI-5 activities will only be finalized after the program ends in March 2020.
+Table 2: TGI-5 Outputs April 2015 to June 2019
+Type of Publication
+Number
+Open File
+353
+Research Publication
+3
+Canadian Geoscience Map
+3
+Journal Article
+101
+Scientific Presentation
+46
+Provincial Geological Survey Publication
+2
+Total
+508
+Project
+Gold systems
+96
+Mafic-Ultramafic*
+39
+Nickel-Copper-PGE-Chrome
+19
+Porphyry
+101
+Uranium
+96
+Volcanic and Sedimentary
+100
+Rare Earth
+1
+Methodological Development*
+22
+TGI-5 Coordination
+26
+Others
+8
+Total
+508
+* These projects were started under TGI-4 and not continued under TGI-5. These outputs, plus others under the various ore system projects that were produced largely as a result of TGI-4 activities, number approximately 150.
+Figure 3: Example of a TGI-5 Output – Geological Map
+Source:
+Targeted Geoscience Initiative: 2018 report of activities; Rogers, N (ed.). Geological Survey of Canada, Open File 8549, 2019, 448 pages,
+https://doi.org/10.4095/313623
+(Open Access), page 10
+Text version
+Generalized geological map of the Abitibi subprovince showing the main lithotectonic assemblages and location of major gold deposits, including the Detour Lake Mine.
+Modified from
+Ayer et al. (2010). Data for major gold and gold-rich vol-canogenic massive sulphide (VMS) deposits
+modified from
+Gosselin and Dubé (2005) and Mercier-Langevin et al. (2011). Abbreviations: DBL = Doyon – Bousquet – LaRonde camp; DPDZ = Destor – Porcupine deformation zone; LLCDZ = Larder Lake – Cadillac deformation zone; PDZ = Pipestone deformation zone; SLDZ = Sunday Lake deformation zone.
+The Gold Project Case Study shows evidence of ongoing planning and monitoring of project activities and budgets. Mid-year and end-of-year reviews provide documented evidence of activities undertaken, progress made on the research hypothesis and laboratory analysis.
+Internal interviewees indicate that the Gold Project is being implemented as planned. The project reports 96 outputs produced since April 2015 to June 11, 2019 (out of a total of 508 for TGI, or 19%), of which 19 outputs were related to TGI-4 research activities. According to interviewees, the outputs are a mix of scientific papers, reports, theses, presentations and posters at all levels (i.e., provincial, national, international).
+TGI-4 introduced the concept of the synthesis report, a compilation of the research conducted on a particular ore system over the entire course of the Program. According to interviewees and documents, the synthesis volumes have been well received by industry and other stakeholders, having recorded 36,000 downloads since publication as of March 2019. The TGI-4 Gold Synthesis Report (2015) received a complimentary review from the Society of Economic Geologists (
+Economic Geology
+, V. 111, pp. 7950797, 201), referring to it as one of the best gold related products in the last decade.
+TGI-5 will continue with the publication of synthesis reports (expected after the Program ends in March 2020) and has also produced an annual Report of Activities. This provides a summary of activities under each of the 10 sub-projects. The 2018 volume contains 35 articles.
+A Note on the Role of Public Geoscience and the Mining Development Cycle
+The role of TGI-5 and public geoscience needs to be contextualized within the mining development cycle (see adjacent chart). Public geoscience is often referred to as pre-competitive geoscience. It is a public good and available to all. In the following figure depicting the mining development cycle, public geoscience is the first step. Attributing public geoscience to operating mines is difficult, as the decision to open a mine can be influenced by different determining factors, such as location and commodity prices. Also, the timeline from initial exploration to a functioning mine can be 20 years or more.
+Figure 4: Mining Development Cycle
+Source:
+Canadian Minerals and Metals Plan, p. 3
+Text version
+A Note on the Role of Public Geoscience and the Mining Development Cycle
+This is a note on the role of public geoscience as a public good and the mining development cycle
+The role of TGI-5 and public geoscience needs to be contextualized within the mining development cycle. Public geoscience is often referred to as pre-competitive geoscience. It is a public good and available to all. In the following figure depicting the mining development cycle, public geoscience is the first step. Attributing public geoscience to operating mines is difficult, as the decision to open a mine can be influenced by different determining factors, such as location and commodity prices. Also, the timeline from initial exploration to a functioning mine can be 20 years or more.
+The mining cycle’s various stages are illustrated starting with pre-competitive geoscience to exploration and feasibility to planning and construction to mining operation to closure and reclamation.
+The downstream cycle of refining, fabrication and manufacturing, use and disposal is also illustrated.
+The CMMP is multi-dimensional, touching on financing, infrastructure, and regulatory environments. As the following figure demonstrates, the CMMP has six goals for the sector, of which one implicates TGI-5 in contributing to “world-class, innovative public geoscience”. This highlights how the achievement of TGI-5’s stated outcomes are also dependent on the success of the sector as a whole which is dependent on financing, tax systems, regulatory systems, land access and use, and infrastructure.
+Figure 5: Components for Success in the CMMP
+Source:
+CMMP (2019, p. 7)
+Text version
+The figure presents components for success in the Canadian Minerals and Metals Plan. They include:
+World leading financing and taxation systems that support exploration and other activities;
+More agile and efficient regulatory systems that increase certainty and protect Canadians’ interests;
+World class innovative public geoscience;
+Increased certainty on land access and land use;
+Infrastructure to unlock the mineral potential of northern remote and isolated areas; and
+Downstream activities that provide opportunities for entrepreneurs, and support communities and regional development.
+These factors result in Canada’s business and innovation environment for the minerals and metals sector, which is the world’s most competitive and most attractive for investment.
+This context helps to position the TGI-5 program in the broader mining sector and set realistic expectations of what can be achieved in a five-year public geoscience program.
+The program has made progress towards achieving immediate outcomes but longer-term outcomes will take more time
+Immediate Outcome Statement 1: Mineral exploration industry can efficiently discover recent and emerging public geoscience knowledge and methodologies relevant to discovery of new mineral resources.
+Finding: There has been progress made towards disseminating new knowledge and data with areas for improvement identified.
+There has been progress made toward disseminating new knowledge and data, but there are still areas for improvement. Program success for TGI-5 is dependent on industry knowing about, and then accessing new geoscience knowledge and methodologies. That is why the TGI-4 evaluation recommended the Program produce a communication and information dissemination strategy. The Program has made progress towards this outcome, but there remain areas for improvement that would optimize program results through improved information dissemination and stakeholder engagement. The evaluators distinguish between these two functions. Communications refer to a broader, corporate function that can assist in engaging stakeholders and increasing awareness of TGI-5 and its outputs. Information dissemination is referred to as knowledge transfer, a framework that is used extensively in the health sector but applicable to any science-based program.
+There are three components for assessing the success of a science-based program’s knowledge transfer framework. First is
+reach,
+defined as the breadth and saturation of the disseminated products. The second component is
+usefulness
+, which is defined as the relevance and quality of the disseminated products, and user satisfaction. The third component is
+use
+, or what is done with the knowledge gained from the disseminated product, and what the change is. In the case of TGI-5, an example of change would be in exploration models used by industry, or a new methodology used in analysis of data.
+With respect to reach, according to interviewees, documents and case studies, the Program disseminated its outputs (or knowledge products) both passively (posting on GEOSCAN) and actively (through the RRS feed, presentations). Regarding passive dissemination, TGI-5 outputs were downloaded as follows: over 36,000 downloads of the TGI-4 synthesis volumes, and over 8,000 downloads of TGI-5 outputs as of March 2019. It is difficult to assess the adequacy of these download figures. There was no download information collected during the TGI-4 evaluation so there is no comparison available. However according to the Canadian Federation of Earth Science, there are an estimated 20,000 geoscientists in Canada, working in various sectors. Given that only a portion of that 20,000 would work on mineral and mining exploration, the download figures would appear to be reasonable if not significant.
+Active information dissemination principally involved presentations at conferences (e.g., at 66 events from April 2015 to May 2019). According to program, industry and provincial/territorial interviewees, as well as case studies, conferences and open houses play an important role in the dissemination of knowledge.
+As indicated, the TGI-4 evaluation recommended the development of a communication and information dissemination strategy. According to the Information Dissemination Case Study done for this evaluation, the Program partially responded to the recommendation by developing a communication strategy in 2015-16. According to interviewees, implementation of the strategy was affected by a lack of resources and could have benefited through the hiring of a contractor. An information dissemination strategy was never developed. However, challenges for information dissemination were cited in the case studies. Challenges included papers in peer-reviewed journals not being easily accessible because they were not free, and papers developed through TGI-5 grants to academics not being adequately promoted through RSS feeds resulting in industry not being aware of them.
+Suggestions for improvement of information dissemination from documents, external interviewees and case studies include using webinars and newsletters, improving the strategic use of social media, facilitating access to peer-review articles and papers produced from TGI-5 grants, and reaching out to non-traditional audiences (i.e., beyond mining and exploration industry).
+TGI-5 has some information on the usefulness of its products through industry attestations, but more ongoing assessment of usefulness would be an improvement.
+Immediate Outcome Statement 2: Collaborative geoscience research groups, that engage students, are formed to leverage expertise and capacity to effectively solve research questions about genesis of ore systems.
+Finding: Very good to excellent progress has been made in forming collaborative research groups and engaging students.
+Evaluation evidence from interviews and program documents shows that TGI-5 supports geoscience research groups and collaborations, through three main streams.
+It provides grant funding to university researchers. It has provided 25 grants worth approximately $2M in over four years, distributed to 16 universities.
+TGI-5 projects facilitate wide collaborations between the program, provinces/territories, industry and academia. There were 167 “collaborations” in total reported by the Program.
+It directly contracts students: there were a total of 54 students contracted: 11 undergraduate (B.Sc.), 19 graduate (M.Sc.) and 15 post-graduate (PhD) and nine post-doctoral fellows.
+The creation of collaborative research networks, both formal and informal, was highlighted by interviewees and the Gold Case Study. According to interviewees, the networks are often informal, and the established contacts are often retained post-project. Students play an important role in filling personnel and expertise gaps.
+Documents show that collaboration mechanisms (e.g., Memorandum of Understanding (MoUs), Letters of Agreement, etc.) may be used to formalize relationships with industry and academia. Document review identified Letters of Agreement involving 40 companies for TGI-5. MoUs with Metal Earth outlined areas of shared interest. Metal Earth is a $104M mineral exploration research program led by Laurentian University, funded by the Canada First Research Excellence Fund. Given the level of funding and research focus of Metal Earth, coordination of activities between TGI-5 and Metal Earth is important. Other formal agreements include grant agreements with academia, and contracts with students. Generally, agreements with provinces and territories are more informal as relations are already covered under the IGA and the NGSC.
+Research networks can be extensive. For example, under the gold project, one activity has 31 researchers, including five students, working together. An area for improvement identified by internal and external interviewees includes ensuring that PhD students contracted by TGI-5 have enough time (at least four years) to complete their work on a project, which may require either earlier engagement or a longer project cycle.
+Intermediate Outcome Statement 1: Innovative methodological approaches for detection and delineation of ore deposits begin to be adopted by industry and 2: Exploration industry starts to apply new public geoscience knowledge to explore for Canada’s major mineral deposit types.
+Finding: Some progress made but still early in the process to see industry adopt new methodological approaches developed by TGI-5 and uptake of new geoscience knowledge.
+Interviews and case studies indicate that it is too early to determine the extent of industry uptake of methodologies and new geoscience knowledge, although there are indications of progress. The issue of being too early to assess the extent to which uptake occurred is due to three key factors. First, TGI-5 has not produced all its outputs, with some significant products still pending the finalization of research activities in 2019-20 and subsequent publishing. Secondly, interviewees indicate that there is always a time delay in the adoption of new research especially in terms of methodological approaches. Thirdly, industry uptake of public geoscience can be influenced by other factors.
+As an example, a new deposit may be in an isolated location lacking roads and other infrastructure. The economics of the project is therefore of primary concern, regardless of new exploration models that may help define that deposit. It may not be economically feasible to develop the deposit. Other risk factors may include commodity prices, shareholder interests, and regulatory requirements.
+Nonetheless, there are examples of industry adoption of new methodologies as a result of projects in which they are directly collaborating. According to interviewees, this has included adoption of a new drill hole seismic profile method, new laboratory analytical techniques, and integration of active and passive seismic studies.
+“Public geoscience is the lifeblood of exploration”
+Source
+: Prospectors and Developers Association of Canada quoted in the Canadian Minerals and Metals Plan (March 2019), p 11.
+Many interviewees across all groups noted that it takes time for research to be validated, especially for ore systems. For example, one external interviewee commented that work on fluid flow modelling of the Athabasca Basin under TGI-4 provided important insights on that particular region and was now generating interest among industry stakeholders.
+Program compiled successes stories reveal other examples of methodological approaches adopted by industry, or at least having potential for adoption. Those included:
+Testing of new geophysical technologies in the Ring of Fire region. The GSC, together with service company, Fugro, developed new, high-precision image processing techniques. As a result, Macdonald Mines changed their exploration approach by integrating new geophysical data processing methods to delineate a new chromite deposit in the Ring of Fire region.
+Canadian service companies (Fugro, Bell Geospace, Overburden Drilling, RadonEX) integrated analytical laboratory techniques and geophysical processing methods developed under TGI-5.
+New laboratory processes developed for the analysis of heretofore unavailable geochemical indicators (e.g., high-spatial resolution measurements, organic biogeochemistry vectors) for indicator minerals were transferred to industry and now offered as standard analytical procedure to assess mineralization.
+Integrating Active (P & S Wave) and Passive (Interferometry) seismic studies with enhanced methods for 3-D modelling of buried ore to profile an ore system without requiring live seismic blasting and at a lower cost.
+Laser-induced breakdown spectroscopy (LIBS) mapping has been tested in a field setting to demonstrate direct detection of gold. Open source software has been developed to employ machine learning to categorize alteration mineralogy across transect of multiple LIBS spot measurements.
+The above were examples of methodological approaches. The use of TGI-5 geoscience knowledge products (e.g., survey information, maps, etc.) is more evident than methodological approaches. The use of survey information for example, does not pose the same risk as adopting new methodologies. The documented success stories also provided examples of industry uptake of TGI-5 produced geoscience. As examples:
+New public geoscience knowledge of the Kivalliq region of Nunavut has resulted in the creation of Canada’s newest gold-mining district. This expands the prospectivity beyond the existing Meadowbank and Meliadine deposits which presently provide construction and mining employment to residents of the Kivalliq communities.
+A TGI-5 project with participation of the Saskatchewan Geological Survey industry and academia (seven companies and three universities) in the Patterson Creek area in the Athabasca Basin is updating the regional ore genesis model. Initial results reveal a new style of uranium ore genesis that is distinct from the standard model present elsewhere in the Athabasca. This new model type offers the potential to open up new regions to uranium exploration.
+These examples demonstrate that new knowledge is incremental, being added to already existing geoscience.
+How knowledge can be incremental
+In a paper by the mining company Agnico-Eagle entitled
+Amaruq: A new gold discovery in Nunavut
+(2015), the company outlines its new Amaruq discovery. The references provided included 14 research papers, three of which were from the GSC dated 1981, 1996 and 2005. There was also an annex with a further 43 GSC papers referenced that helped in defining the exploration program of Agnico Eagle, dated from 1981 to 2015.
+NRCan Departmental Results Reports have included industry’s self-reported use of TGI-5 information (five companies in 2015-16 and 10 companies in 2016-17).
+According to the Gold Case Study, despite the difficulty in attributing any one output to how it is used by industry, the Program has collected attestations that industry is using the knowledge generated by TGI-5 in their exploration activities, and this knowledge is being combined with other existing knowledge. According to one industry interviewee, the information produced is generally integrated into the exploration models being used. Examples provided by interviewees were for the Amaruq site in Nunavut and the Rackla site in the Yukon.
+Furthermore, all groups of interviewees support the finding of industry use of geoscience information, with industry interviewees identifying the use of information from TGI-5 surveys in particular (i.e., seismic, airborne gravity, and magnetic).
+Industry wants to access the data
+In support of findings already identified under relevance, there is a growing industry interest in accessing the actual data underlying TGI-5 outputs. According to interviews and confirmed by document review, TGI-5 data are found and accessed by industry and other stakeholders in the Government of Canada’s Geoscience Data Repository for Geophysical Data. The RSS feeds and GEOSCAN often link directly to the data repository.
+The Data Case Study identified two avenues for generating and disseminating more geoscience data, which are: i) new methods and technologies permit the re-analysis of archived data that can provide new information (data mining); and ii) the translation of that data into new formats for 3-D modelling also can provide new analysis. TGI-5 has piloted such a data translation project for 3-D modeling in the Flin-Flon area in Manitoba, the results of which were demonstrated to the evaluators in an augmented reality using the HoloLens  (HoloLens is the Microsoft Virtual Reality hardware system used by GSC) to view the model.
+According to the Data and the Information Dissemination case studies, the use of alternative technologies, such as AI, to transform datasets to a common reference frame will become important. Also, the means to achieve interoperability is changing, thanks to AI and other technologies. The International Union of Geological Sciences (IUGS) has established the Commission for the Management and Application of Geoscience Information that is looking at interoperability and exchange of geoscience information, which includes work in standards and language, referred to as GeoSciML. The GSC has a representative participating in the IUGS and GeoSciML development.
+Common data formats and sharing are important for Canadian public geoscience as it facilitates the compilation and integration of data across Canada’s geological surveys. It can also aid in projects of international scope, for example in cross-border ore systems with the United States of America or in sharing information on similar deposit or ore systems with other countries as was the case with South Africa. In the meantime, the use of common simple formats, such as PDF and Excel files, should continue.
+Areas for improvement in the uptake of geoscience information and methodologies identified in interviews and case studies involve information dissemination and the engagement approach that may need to be better tailored to the target audience.
+Long-term Outcome Statement 1: New knowledge, methodologies and models enhance the exploration industry’s ability to detect buried ore deposits; and 2: Integrated, multi-scale scientific knowledge of source-to-ore formation that is both authoritative and accessible results in industry innovating exploration approaches.
+Finding: Some indications of progress, but in general it is too early to assess the program’s impact on improving industry’s ability to detect ore deposits or their exploration activities.
+The TGI-5 program has had two examples of industry attesting to new detected ore deposits through their exploration activities that can be, in part, attributed to the work of TGI-5. One example has already been highlighted in this report, with the Agnico Eagle deposit in Amaruq, Nunavut. According to Agnico Eagle (Cote-Mantha et al, 2017) they have “had considerable exploration success since starting to explore the Amaruq property four years ago, making it one of the most significant greenfield gold discoveries in Nunavut and one of the most significant recent large discoveries in Canada”. Agnico Eagle went on to say, “This is why… Agnico Eagle has been greatly involved with GSC, especially in TGI-5’s gold project with whom we shared a lot of data and knowledge.”
+Another example provided in success stories identified by the program, was work done by TGI-5 in collaboration with the British Columbia Geological Survey, wherein new field information identified a new carbonatite (rare earth metal) discovery in central British Columbia.
+Generally, as noted in industry attestations and interviews, exploration is a matter of incremental advances from data collection and analysis from various sources. The Gold Case Study illustrated that there are difficulties in attribution because TGI-5 information is only one source of a range of new knowledge and information generated by others and is combined with other information to have a better understanding of an ore deposit or prospectivity.
+Interviews also highlighted that the use of information is dependent on many other factors, including the shareholders’ interests, risk and profit of the company that can change over time. The use of information does not automatically translate into detection of an ore deposit. As noted earlier in this report (see reference to the Mining Development Cycle in Figure 4), the production of public geoscience is only the first step in the mining cycle, and taking the next steps is dependent on many external factors.
+Long-term Outcome Statement 3: A replenished pool of HQPs equipped with state-of-the-art knowledge, is available for employment in the mineral exploration industry.
+Finding: Very good progress towards contributing to a replenished pool of HQPs.
+TGI-5 has made excellent progress towards this outcome. According to the Program documents there were a total of 54 students trained: 11 undergraduate (B.Sc.); 19 graduate (M.Sc.); 15 post-graduate (PhD); and nine post-doctoral fellows. Of the 54 students, 19 were females (or 35%).
+According to interviews, TGI-5 support for HQPs addresses an important need, and examples were provided by interviewees of former HQPs that were involved in TGI-5 projects being hired by industry or furthering their own academic careers. The Program however does not formally track the careers of past students. According to TGI management, the Program did pioneer the Alice Wilson Fellowship which is specifically aimed at improving female research participation and training.
+Internal and external factors influence the achievement of program outcomes
+The different lines of evidence identified a wide range of factors. The findings presented here are a summary of those most frequently mentioned.
+The positive factors identified in interviews and document review included the good relationships with industry, the iterative and flexible planning approach, the collaborative approach to the research, and the Postdoctoral Research Program (PRP) that helps to address critical skills gaps. These are all factors that should be retained.
+A few interviewees and one case study identified the issue of administrative burden on science staff. This includes the time required for administrative tasks such as contracting, but also the effort and time expended on the planning process. It was also noted in document review and interviews that Indigenous engagement can be considered an external factor that has an impact on internal planning. Note that TGI-5 accesses industry properties that have already negotiated with Indigenous groups if required. As standard practice however, a letter regarding the work that will be done by the program is initially sent from TGI-5 to Indigenous groups with industry support. Indigenous groups may indicate that a mining activity may not be advantageous to a particular location. While this rarely occurred in TGI-5, the Program respects the decisions taken during the engagement process.
+The second area referenced most often across the lines of evidence was information dissemination, including budgetary limits on travel. Attendance at conferences is considered by all stakeholder groups as a key platform for information dissemination. TGI-5 scientists often present at provincial open houses and other major industry events, such as the PDAC Conference. Limits on travel can greatly impact the ability to disseminate information directly to industry.
+Another limitation is licencing for software programs to manipulate the data in the repository, thereby limiting the effectiveness of the data for some. In one case, the licence for GOCad expired in June 2019 and delays in getting licence renewal from SSC resulted in users having difficulties accessing some of the 3-D data in the repository.
+An external factor that may require mitigation includes the internet bandwidth into GSC to access data. Some industry and TGI-5 interviewees commented that bandwidth is limited and can create very slow download speeds for large datasets.
+Industry’s comments on influencing factors were more focused on its operations and as already noted in this report, can influence their uptake and use of TGI-5 knowledge products and methodological approaches. Such factors identified by interviewees included privacy concerns of some companies regarding their own properties, politics, economics of projects, commodity prices, and supply in foreign markets.
+Internal Factors
+External Factors
+Collaborative approaches and experienced scientists
+Flexibility in project design to address new priorities (iterative planning)
+Ability to use the PRP to mitigate science capacity issues
+Good relations with industry, provinces and academia
+Iterative approach of industry, using and reinterpreting existing data along with new data
+Administrative burden on science staff
+Change in planning approach in first year of TGI-5
+Aging GSC infrastructure including laboratory downtime
+GSC bandwidth for users to access data
+Funding cycle does not align to the research cycle
+Balancing schedules of partners in collaborative efforts
+Indigenous engagement can impact internal planning
+Many industry factors, such as commodity prices, risk tolerances
+Confidentiality requirements of companies
+Internet bandwidth in remote locations to access and download information
+What We Found
+Efficiency
+To what extent did program design impact efficiency and effectiveness?
+Are there ways to meet the needs more efficiently and effectively?
+Findings: Efficiency
+Summary:
+Program design is efficient, but there are areas for improvement. The TGI-5 program management structure is lean, consisting of a TGI-5 Program Manager who is supported by two Research Managers who are also Research Scientists. In addition, there are three main program management bodies: the TGI-5 Management Committee; the SAG; and the IAG. Decisions from all bodies are tracked and used as inputs into project design. The implementation of the IAG was delayed which reduced the effectiveness of the group. Nonetheless, the role of such an advisory group to a public geoscience program was considered critically important by interviewees.
+The areas for improvement regarding program design included the planning phase and the funding cycle. There was a change in approach late in the planning phase from a cross-cutting approach to the ore-system approach which resulted in time delays and expended effort by project planners. Areas for improvement identified by interviewees included the planning process and ensuring there are clear processes and transparency in budgeting and project selection. Regarding the funding cycle, the programming of research into five-year funding cycles is not always appropriate. It can create difficulties in terms of contracting HQPs, especially PhDs who require at least four years to complete their studies, and the time required for research programs to realize results.
+Risk management was considered a strength of the program. Specifically, the management of TGI-5 operational, financial and science risk by experienced scientists familiar with this type of research program was often highlighted by interviewees.
+Regarding budget and expenditure, the program has been delivered as planned within normal parameters of variation (e.g., +/- 10%). A-base expenditure is planned to be approximately $24.4M instead of $22.3M, or 109%. C-base expenditure is projected to be at 97.5% of budget.
+The program does not have a consolidated performance measurement framework (PMF) and that has led to inconsistent results reporting. The incorporation and monitoring of gender-disaggregated and visible minorities data are also areas for improvement.
+Conclusion:
+The program incurred delays during the planning phase due to a change in approach. This resulted in time delays and expended effort by TGI-5 scientists and stakeholders. Issues in planning were also noted during the TGI-4 evaluation. Certain factors contributed to these planning challenges including:
+The perceived need to create new themes every five years for renewed funding cycles. The “targeted” nature of TGI-5 is part of its success and should not be lost, but the funding and planning cycles put unnecessary stress on the program. Geoscience research is a continuous process that evolves, but at a slower pace than five-year funding cycles. Having a research program founded on five-year C-base funding puts pressure on the program to recreate itself every five years.
+Similar to the first point, planning is occurring during the last year of a funding cycle, when the culmination of years of work is being produced. This again places the program under a great deal of pressure.
+The planning documents are comprehensive and require significant effort to complete.
+Recommendation
+s:
+ADM, LMS, consider alternative program lengths to better align program lengths to geoscience research timelines and realization of future program objectives.
+The ADM, LMS, strengthen the program’s PMF, with a view to simplifying outcomes, obtaining better information on reach, use and usefulness of knowledge products, monitoring industry success stemming from TGI research, and including GBA+ indicators for regular monitoring.
+The program is effectively and efficiently managed despite challenges
+This section covers the financial management of the program (budget versus expenditure), the program management and structures, and program design.
+Expenditures managed to budget
+According to document review, the A-base budget allocated to the program has been approximately $6.6M less than originally planned in the TB submission ($22.3M versus $28.9M). There was no explanation provided for this beyond NRCan internal reallocations. However, A-base expenditure is planned to be approximately $24.4M rather than $22.3M, or 109%. This reduces the overall A-base reduction to $5.5M versus $6.6M. C-base budget was also adjusted to $25M.
+The following tables provide the original budget and the expenditure figures, noting that 2019-20 is a projection of expenditure.
+Table 3a: Original Funding Request (TB Submission)
+Funds Source
+2015-16
+2016-17
+2017-18
+2018-19
+2019-20
+Total
+A-Base
+5,248,174
+5,500,156
+5,757,253
+6,249,238
+6,208,148
+28,962,969
+C-Base
+2,698,370
+4,399,503
+6,949,661
+6,860,728
+4,091,738
+25,000,000
+Total
+7,946,544
+9,899,659
+12,706,914
+13,109,966
+10,299,886
+53,962,969
+Table 3b: Revised Budget, Adjusted and Actual Expenditure C-Base
+C-Base
+Original Budget
+Adjusted
+Actual Expenditure
+Vote 1
+1,997,491
+-
+-
+Personnel
+17,220,800
+1,952,912
+1,950,860
+Other Operating Costs
+399,499
+17,151,198
+16,757,638
+EBP (20%)
+19,617,790
+390,582
+390,172
+Total Vote 1
+-
+19,494,692
+19,098,671
+Vote 5 - Capital
+1,450,000
+-
+-
+Total Vote 5
+-
+1,467,588
+1,459,429
+Vote 10 - Grants
+-
+-
+-
+Total Vote 10
+2,200,000
+2,200,469
+2,144,303
+Total Cumulative C-Base Votes
+23,267,790
+23,162.749
+22,702,403
+Table 3c: Revised Budget, Adjusted and Actual Expenditure A-Base
+A-base
+Original Budget
+Adjusted
+Actual Expenditure
+Vote 1
+-
+-
+-
+Personnel
+18,657,472
+20,829,159
+20,408,042
+Other Operating Costs
+-
+-
+-
+EBP (20%)
+3,731,494
+4,165,832
+4,081,608
+Total Vote 1
+22,388,966
+24,994,991
+24,489,651
+Vote 5 – Capital
+-
+-
+-
+Total Vote 5
+0
+0
+0
+Vote 10 - Grants
+-
+-
+-
+Total Vote 10
+0
+0
+0
+Total Cumulative A-Base Votes
+22,388,966
+24,994,991
+24,489,651
+Total A + C Base
+45,656,756
+48,157,740
+47,192,053
+In summary, the program is managing expenditures to its budgets. It is projected to spend approximately 103% of its revised budgets, and 98% of its adjusted budget.
+Program management and structures and planning are areas for improvement
+According to interviews, operational, financial and science risks are well managed by the program. It is managed by experienced scientists who are familiar with this type of research program and its inherent risks.
+The TGI-5 management structure is relatively flat, consisting of a TGI-5 Program Manager who reports to the Director, Central Canada GSC, and is supported by two Project Managers who are also Research Managers.
+According to document review, there are three main program management bodies: the TGI-5 Management Committee, the SAG and the IAG. This new approach to advisory committees helps leverage national industry organizations with existing geoscience committees and allows industry to provide aggregated feedback. Decisions and input from all bodies are tracked and are considered in the design of the individual projects.
+According to interviews and case studies, the delayed start of the IAG resulted in the effectiveness of that group not being maximized. The group first met in July 2016, over one year after the start of the TGI-5. The change in the planning approach during the first year was the reason provided by TGI-5 management for delaying the start of the IAG. Despite the late start, the role of such an advisory group to a public geoscience program was considered critically important by internal and external interviewees because it provides a formal, structured platform for dialogue on industry needs and program objectives and priorities. The IAG met eight times, on average every four months although there was variance in the amount of time between meetings. The first meeting was held in July 2016, and all meetings were relatively well attended averaging 4.6 members out of six, with an average of 2.6 alternates or observers. Starting in January 2018, Metal Earth started participating as an observer. Given the funding of the Metal Earth research program and its research areas, it is important that TGI-5 and Metal Earth have close coordination. Including Metal Earth as an observer facilitates that coordination. TGI-5 also sits on the Metal Earth advisory body.
+The IAG was found to be low in cost. Members were reimbursed for travel costs in accordance with Government of Canada travel policies, and only half the meetings required travel with the rest being conducted by teleconference.
+Program design has areas for improvement
+It was frequently noted in both case study and general interviews that an area for improvement was program design processes, which included planning, budgeting and project selection. During the TGI-5 planning phase, a cross-cutting approach was initially implemented rather than the more traditional ore-system approach used in TGI-4. During the first year of the Program, this approach reverted to the ore-system approach. This resulted in time delays and expended effort on the part of project planners. The planning process itself was comprehensive, with project workbooks being completed for each sub-project including project components. This work was being completed often at the same time as synthesis products from TGI-4.
+According to some TGI-5 interviewees, the programming of research into five-year funding cycles is not always appropriate. It can create difficulties in terms of contracting HQPs, especially PhDs who require at least four years to complete their studies, and also to produce final research products. Note that all TGI-4 synthesis products were produced after the end of the TGI-4 program. It also created a heavy workload on staff in the transition from ending one program and planning a successor program. As also noted in the TGI-4 evaluation, a five-year funding cycle is insufficient time to realize expected results from a research program. For the TGI-4 program, research outputs were not completed until after the end of the program, and the same is expected under TGI-5. Given the long-term nature of public geoscience and of mineral exploration, uptake of outputs takes time. For both these reasons, five-year program funding cycles need future consideration.
+A photo of two highly-qualified personnel looking at rock formations on the edge of a lake.
+The Program to some extent is catching up with technology trends, such as 3-D modelling. As industry’s need for data integration and visualization continue and evolve, TGI-5 will need to continue to incorporate adequate data formatting, standards and data products into its work, as well as support HQPs in gaining this experience to remain relevant.
+In addition to the above, the most often cited area for improvement in interviews concerned information dissemination. This was identified in interviews and two of the four case studies. The program has made attempts to better disseminate information with some uneven results. According to interviews, most effective means are GEOSCAN and presentations at industry events, conferences and open houses. Comments referred frequently to making target audiences aware of TGI-5 products as well as to disseminating the information. Suggestions for improvement included hiring a stakeholder engagement expert, webinars, hosting special events and improved use of social media. Please see earlier recommendations.
+The results and performance framework for the program can be improved
+Document review revealed that the program does not have a consolidated performance measurement framework that can be directly linked to the logic model. There are elements of a performance measurement framework found in various planning and reporting documents including the NRCan LMS Program Information Profile (PIP) Logic Model, and Departmental Results Reports and other program documents. Consequently, results reporting is disjointed and inconsistent. The incorporation and monitoring of gender-disaggregated and visible minorities data are also areas for improvement. For example, data could be gathered for HQPs hired and research grants awarded.
+It is difficult to assess reporting compliance across the various frameworks. Out of approximately 15 indicators, there is evidence of 12 indicators being tracked. Targets are only included in the LMS PIP which also includes five other program components. The allocation of targets to TGI-5 is not clear. The Departmental Results Report identifies TGI-5 meeting or exceeding its targets for each of the three years reviewed on two indicators (presentations to industry, and knowledge or methodologies adopted by industry).
+There is evidence that various tools are used to collect information on indicators. These include dashboards (i.e., TGI-5 Dashboard, January 2018) and tracking spreadsheets for collaborations and presentations. Information captured in mid-year and end-of-year reports includes performance indicators such as downloads, publications produced, and tracking of HQP and industry attestations.
+There were three indicators for which no performance tracking was found (in the case of the Program documents these were referred to as performance measures):
+Number of activities seeking to incorporate Indigenous knowledge (LMS PIP);
+TGI-5 leverages in-kind support through strategic collaborations with provinces, territories, industry and academia.; and
+HQPs are hired by industry commensurate with exploration activity.
+What We Found
+Conclusions and Lessons Learned
+What best practices could be applied to future programming? How and why?
+What design features should be considered for future programming?
+Findings: Lessons Learned
+Summary
+Across all lines of evidence there were many suggestions for best practices and suggestions for improvements moving forward. Several ideas that were most often identified included:
+the creation of the IAG was warranted and is considered by interviewees to be a critically important body. The opportunity to assess its complete effectiveness will come during the next planning period for the TGI-5 successor program;
+the conversion of archived data into formats suitable for 3-D modelling was identified as a best practice. Making that data available and translated for 3-D work (e.g., the case of Flin Flon 3-D model, etc.) was seen as value-added according to some interviewees;
+given the flat management structure of TGI-5, continuity in the staffing of the Program Manager position is required. Noted best practices in terms of program management included the multi-disciplinary nature of projects that incorporate various expertise (e.g., geochronology, chemistry, physical science, etc.) and the collaborative approach with clear objectives;
+areas for improvement in stakeholder engagement, including related to information dissemination have been identified throughout this report. Suggestions include using webinars and newsletters, improving the strategic use of social media, and facilitating access to peer-review articles and papers produced from TGI-5 grants; exploration industry);and liaising with the NGSC on development of the PCGS; and
+there is much that the Program has done well related to information dissemination and should continue including releasing knowledge products throughout the research process (incremental), documenting success stories, continuing to use simple, widely accessible file formats for TGI-5 products (e.g. PDF, excel, etc.), and continuing to produce synthesis volumes and annual reports.
+Conclusion
+:
+It is important to recognize that the fundamental aspect of TGI-5 program theory is to improve industry’s ability to find minerals through access to program-generated knowledge and data. Industry partners involved directly in TGI-5 research activities are aware of and can access the research that they help produce. They are part of the research team. At issue is industry’s awareness of the wider TGI-5 body of knowledge, some of which may be relevant for its own interests. As such, current dissemination approaches, such as RSS feeds and GEOSCAN, may not be the most effective means to inform industry about available knowledge products. It is appropriate that TGI-5 have a properly resourced engagement function given that Program success is contingent upon stakeholders’ ability to access and use geoscience knowledge products produced by the Program. Investment in such expertise should be recognized as value added.
+Lessons Learned and Best Practices
+Across all lines of evidence there were many suggestions for best practices and for improvements moving forward. Several ideas that were most often identified included the IAG, the use and dissemination of data, program management and information dissemination. These elements were identified as best practices and lessons learned, but also often carried an element of possible improvement as well.
+All interviewees in the Stakeholder Engagement Case Study indicated that the IAG had improved collaboration and communication between industry and TGI-5. Other comments suggested that an industry advisory group was critical for a public geoscience program to better understand industry needs and perspectives.
+Regarding geoscience data, there are two avenues for generating and disseminating more geoscience data: i) new methods and technologies permit the re-analysis of archived data that can provide new information (data mining); and ii) the translation of that data into new formats. The Data Case Study identified a best practice as the conversion of archived data into formats suitable for 3-D modelling. Making that data available and translated for 3-D work (e.g., the case of Flin Flon 3-D model, etc.) has been seen as value-added according to some interviewees.
+Other best practices identified across all stakeholder groups referred to the TGI-5 program management approach. This approach includes the multi-disciplinary nature of the projects that incorporate various expertise (e.g., geochronology, chemistry, physical, etc.); the lean management structure of TGI-5; and the collaborative approach and clear objectives. Related to this, were the lessons learned in the need for strong project management including communications with all partners and stakeholder engagement, and that collaborative approaches starting from the planning phase were important for project success.
+Despite improved information dissemination being identified as an area for improvement throughout the evaluation, some best practices were identified. According to both internal and external interviewees, TGI-5 has responded to industry needs for timely dissemination by getting more information out faster. Stakeholders (principally industry) no longer have to wait until the end of a project to obtain research results; it is now being disseminated incrementally as it is produced throughout the research process. For example, posters and presentations at annual conferences (e.g. provincial open houses, PDAC Conference, etc.) including from students, are available to the public, as are open files and annual summaries, all of which incrementally provide information leading to the final synthesis products to be finalized after the end of the program.
+The Information Dissemination Case Study identified other elements that have worked well and should be retained, including:
+documenting success stories;
+evolving the interpretation of data and moving to 3-D modelling;
+using simple, widely accessible file formats for TGI-5 products (e.g. PDF, excel, etc.);
+producing synthesis volumes and annual reports; and
+supporting and expanding upon the secondary distribution of TGI-5 products.
+On a final note, according to interviewees, opportunities for direct engagement between TGI-5 scientists and other stakeholders, in the field or at conferences and open houses, is important for information dissemination and learning.
+Additional Areas for Improvement
+Suggestions for areas for improvement have been identified throughout this report including in the areas of:
+the Program’s PMF and monitoring including incorporating GBA+ sensitive indicators (e.g., gender-disaggregated data);
+stakeholder engagement;
+information dissemination;
+funding cycles; and
+the importance of geoscience data infrastructure and capacities.
+In addition, TGI-5 interviewees focused on program management, including more continuity in the Program Manager position. The TGI-5 management structure is relatively flat, consisting of a TGI-5 Program Manager who reports to the Director, Central Canada, GSC. The TGI-5 Program Manager is supported by two Project Managers, one for the projects falling under base metals and the other for projects falling under precious metals. Both Project Managers are also research scientists responsible for their own research.
+While a flat organization has advantages in terms of costs and was identified as a best practice, it also presents certain risks, one of which is disruption to the Program due to turnover. During TGI-4 there was consistency in the Program Manager position. During TGI-5, the person in this position changed four times (albeit with the former and current Director of Central Canada Division being promoted from that role on three separate occasions).
+Figure 6: TGI-5 Management Structure
+Text version
+This figure depicts the relatively flat Management Structure of TGI-5; DG Central and Northern Canada Branch, GSC, a Director, Central Canada, a TGI Manager and two Project Managers.
+Finally, while “flat” and “lean” organizations may be attractive, it is important to recognize that the fundamental aspect of TGI-5 program theory was to improve industry’s ability to find minerals through access to program generated knowledge and data. It therefore is appropriate that TGI-5 has a resourced function that manages stakeholder engagement and information dissemination given that program success is contingent on data reaching its stakeholders. This expertise should be recognized as value added.
+Appendix 1: TGI-5 Logic Model
+Targeted Geoscience Initiative (Phase 5) Logic Model*
+Source-to-ore geoscience for effective exploration
+Ultimate Outcomes
+Economic prosperity and job opportunities improve
+in mineral producing regions of Canada through increased discovery and development of mineral resources
+Global Competitiveness
+of Canada’s exploration industry is enhanced through decreased costs and risks of mineral discovery
+Long-term Outcomes
+(2000 and beyond)
+New knowledge, methodologies and models enhance the exploration industry’s ability to detect buried ore deposits
+Integrated, multi-scale scientific knowledge of source-to-ore formation that is both authoritative and accessible results in industry innovating exploration approaches
+A replenished pool of HQPs equipped with state-of-the-art knowledge is available for employment in the mineral exploration industry
+Intermediate Outcomes
+(by 2019)
+Innovative methodological approaches for detection and delineation of ore deposits begin to be adopted by industry
+Exploration industry starts to apply new public geoscience knowledge to explore for Canada’s major mineral deposit types
+Immediate Outcomes
+(by 2017)
+Mineral exploration can efficiently discover recent and emerging public geoscience knowledge and methodologies relevant to discovery of new mineral resources
+Collaborative geoscience research groups are formed to leverage expertise and capacity to effectively solve research questions about genesis of ore systems
+Outputs
+Results of proof-of-concept testing of methodology
+Publicly available results from field tests of innovative methodologies that target markers of ore forming processes
+Innovative geochemical, geophysical and mineralogical indicators that target buried ore environments
+Open Public Geoscience Knowledge Products
+Expedited scientific publications that make available data sets and preliminary interpretations relevant to mineral exploration
+New authoritative synthesis of leading-edge knowledge of Canada’s economically important mineral systems
+Presentations at workshops, field and short courses, seminars and online publications, targeted to stakeholder needs
+Student theses, projects and databases that address geoscience questions related to ore deposits
+Activities
+Develop methodologies targeted to measureable markers of ore system processes (New and Improved Methodologies)
+Improve and develop methodologies that target detection of buried mineral deposits
+Carry out proof-of-concept testing
+Carry out public geoscience research on ore system processes (New Geoscience Knowledge)
+Collaborate on geoscientific studies with industry, academia (including students) and Provincial-Territorial Geological Surveys
+Compile existing and collect new data, scientifically analyze, interpret and synthesize data into new ore system knowledge
+Develop new geological models and identify measureable markers of ore system formation
+Disseminate public geoscience (Open Geoscience)
+Develop, expedited, publicly-accessible national framework for discovery of data and knowledge pertinent to mineral exploration
+Produce and provide to industry the latest scientific knowledge of ore systems and their genesis
+Develop and test new methodological approaches for detection and delineation of buried ore deposits
+Train new student HQP in innovative approaches to ore system geoscience
+Source: Treasury Board Submission, October 2014.
+*Since the original logic model was developed, the Program Alignment Architecture was replaced by the Departmental Results Framework. Since 2017-18, the TGI5 program aligned to NRCan Core Responsibility #1 Natural Resource Science and Risk Mitigation
+Appendix 2: Key Documents
+Canadian Minerals and Metals Plan
+, Mines Canada, March 2019
+Economic Geology
+, V. 111, pp. 7950797, 201
+Intergovernmental Geoscience Accord
+(IGA), September 2012
+Report of the Standing Committee on Natural Resources, James Maloney Chair, March 2017, 42nd Parliament, 1st session
+Collaborative Public Geoscience to Support the Junior Mineral Exploration Sector
+A Report Prepared by the National Geological Surveys Committee for Energy and Mines Ministers’ Conference August 2017.
+TGI-4: Contributions to the Understanding of Precambrian Lode Gold Deposits and Implications for Exploration
+. B. Dube and P. Mercier-Langevin, eds. GSC, Open File 7852, 2015, doi: 0.4095/296624
+Côté-Mantha, O. [1], Gosselin, G. [2], Vaillancourt, D. [1], Blackburn, A.  The Amaruq Deposits – Building a Customized Toolset and Using a Flexible Geomodel: Optimization from Discovery to Mine Development in “
+Proceedings of Exploration: Sixth Decennial International Conference on Mineral Exploration
+” edited by V. Tschirhart and M.D. Thomas, 2017, p. 553–567
+Appendix 3: Glossary
+Discovery
+According to the formal NRCan definition,
+“A
+discovery
+is taken to be a deposit sufficiently attractive to have warranted the expenditure necessary to establish its tonnage and grade. The date of discovery is taken to be the year when drilling led to the recognition that the deposit was of economic interest.”
+In another definition, a discovery requires intersection of economic grades and widths in at least three drill holes or openings.
+Exploration Model
+An exploration model is described as
+“a cognitive network of information that provides support for decision-making.”
+At its most basic, an exploration model comprises three essential elements (the nodes in the cognitive network, as it were): (1) a deposit model which describes the attributes of the deposit type of interest; (2) regional geological information which, when combined with the deposit model, allows assessment of mineral potential; and (3) a set of exploration technologies appropriate for both the deposit type and area or interest.
+Geochemistry
+The study of the distribution and amounts of the chemical elements in minerals, ores, rocks, soils, water, and the atmosphere, and the study of the circulation of the elements in nature, on the basis of the properties of their atoms and ions; also, the study of the distribution and abundance of isotopes, including problems of nuclear frequency and stability in the universe. A major concern of geochemistry is the synoptic evaluation of the abundances of the elements in the Earth's crust and in major classes of rocks and minerals.
+Geophysical exploration
+The use of geophysical techniques (e.g., electric, gravity, magnetic, seismic, or thermal) in the search for economically valuable hydrocarbons, mineral deposits, or water supplies, or to gather information for engineering projects.
+Fertility
+The potential of a specific geological setting to contain ore deposits - essentially a synonym for mineral potential.
+Mineral Deposit Model
+A deposit model comprises “systematically arranged information describing the essential attributes (properties) of a class of mineral deposits” (Cox et al., 1986). Attributes would normally include geological setting, form, size and grade, mineralogy, structural controls, alteration, geophysical and geochemical signatures, and so on. Some deposit models incorporate a hypothesis for how such deposits formed (i.e., genetic model).
+Mineral System (Ore System)
+“All the geological factors that control the generation and preservation of mineral deposits, and stress the processes that are involved in mobilizing ore components from a source, transporting and accumulating them in more concentrated form, and then preserving them through geological history
+” (Wyborn et al., 1994). The concept was inspired by that of a petroleum system that is widely used in oil and gas exploration. A petroleum system comprises both the geologic elements (mature source rock, migration pathway, reservoir rock, and trap) and the processes (hydrocarbon generation, migration and trapping) that must occur for a petroleum deposit to exist (Magoon 1988).
+Mineral System Group
+Although mineral systems are location-specific, economic geologists refer to generic classes of mineral systems (e.g., magmatic sulphide systems). Geoscience Australia, where the concept originated, has defined “mineral system groups” based genetic similarities of resultant deposit types. For example, the TGI-4 Ni-Cu-PGE-Cr project is examining systems that would wall into the Ortho-magmatic Group.
+PGE
+Platinum Group Elements are a group of physio-chemically similar elements that include platinum (Pt), palladium (Pd) and rhodium (Rh).
+Porphyry Rocks
+Porphyry rocks are formed when magma cools very slowly, and there is enough time for large mineral crystals to grow, which produces many intrusive rocks that have a coarse-grained, granite-like texture. Some of these rocks may grow crystals that are significantly larger than the rest and have one or more minerals. As porphyry rocks cool and crystallize, they can produce large volumes of hot, salt-rich fluids that carry high concentrations of base metals such as copper, molybdenum, tungsten and tin.
+Report a problem on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2020-10-21
