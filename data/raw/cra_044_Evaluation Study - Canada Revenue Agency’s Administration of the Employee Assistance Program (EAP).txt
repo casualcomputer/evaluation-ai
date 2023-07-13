@@ -1,0 +1,757 @@
+Evaluation Study - Canada Revenue Agency’s Administration of the Employee Assistance Program (EAP)
+Final Report
+Audit, Evaluation, and Risk Branch
+November 2016
+Table of Contents
+Executive Summary
+Introduction
+Background
+Evaluation Methodologies and Approach
+Study Limitations and Constraints
+Overall Finding
+Findings from the Evaluation
+The EAP is being delivered in a manner supportive of its objectives, however opportunities for improvement have been identified
+The Referral Agent role is viewed as no longer addressing a need to foster employee and organizational well-being
+Potential benefits with a national External Service Provider
+EAP training is experiencing a shift
+Going Forward
+Recommendations
+Acknowledgement
+Appendix A
+Executive Summary
+The Canada Revenue Agency (CRA) has a varied and diverse workforce of over 41,000 employees
+Footnote
+1
+that are the cornerstone of Canada’s tax administration. Maintaining the well-being of all employees is a commitment the CRA takes seriously. The objective of the CRA's Employee Assistance Program (EAP) is to support employees who may be experiencing personal, health or work-related concerns, by making available to them and their family members
+Footnote
+2
+, a program that is voluntary, accessible, neutral and most importantly, confidential. The program is designed to help them acquire the skills and knowledge to address personal, health or work-related concerns, and contribute to employee well-being in the workplace.
+Promoting and preserving organizational well-being, including mental health, is also a priority of the Government of Canada (GoC). The Clerk of the Privy Council emphasized in the
+Twenty-Third Annual Report to the Prime Minister on the Public Service of Canada
+that public servants need to work in a healthy environment. This environment is characterized by respect that embraces differences and diversity and supports, with compassion, individuals struggling with mental health challenges
+Footnote
+3
+. To address this priority, in April 2016, a CRA Agency Level Champion was appointed to support a CRA respectful workplace and well-being initiative. The Champion, with the Human Resources Branch (HRB), will plan and implement innovative ways to promote and advance this priority across the CRA through strong leadership, innovation and collaboration with employees. This includes the CRA Respectful Workplace and Well-being Strategy
+Footnote
+4
+, of which the EAP is one component.
+In April 2016, the CRA Management Audit and Evaluation Committee approved the evaluation framework for the CRA’s administration of the EAP evaluation study. This evaluation study attempts to answer the question on the effectiveness of the CRA’s administration of the EAP with a focus on the delivery model as well as potential alternatives or modifications that could improve the EAP.
+This evaluation study revealed that the EAP is being delivered in accordance with the Treasury Board Secretariat Policy on EAP. The EAP is meeting its objectives as it is being used by employees and their families. However, opportunities for improvement exist as today’s society and work culture have evolved over time. These opportunities relate to the relevance of the Referral Agent role, potential benefits of a national CRA External Service Provider and the impact on training with the renewed mandate of the Canada School of Public Service (CSPS) to deliver enterprise-wide learning within the federal public service. The introduction of the CRA’s Respectful Workplace and Well-being Strategy may also result in repositioning the EAP delivery model to its essential function of counselling, critical incident response, and guidance with trained mental health professionals.
+This evaluation study resulted in the following recommendations:
+The Human Resources Branch should identify their information needs and gaps in the current monitoring and reporting of the EAP delivery model to allow for the development of analytics that support measurement and accountability.
+The Human Resources Branch should reassess the relevance of the Referral Agent role within the EAP delivery model.
+The Finance and Administration Branch should undertake a comparative analysis of the existing supply base model for EAP and the one offered by Health Canada to determine what makes the best business sense for the CRA, taking into consideration the need for a consistent level of service, value for money, and the shift in the EAP training.
+The Human Resources Branch should continue to work with CSPS as well as develop analytics to assess the multiple training avenues to determine an effective and efficient learning delivery model with the shift in EAP training and the introduction of the CRA Respectful Workplace and Well-being Strategy.
+Introduction
+In April 2016, the Management Audit and Evaluation Committee (MAEC) of the Canada Revenue Agency (CRA) approved the evaluation framework for the CRA’s Employee Assistance Program (EAP) Evaluation Study.
+This evaluation study examined the effectiveness of the CRA’s administration of the EAP to meet its objectives with a focus on the delivery model. The evaluation framework identified the following two evaluation issues:
+Issue 1: How effective is the CRA’s administration of the Employee Assistance Program to meet its objectives?
+Is the delivery model designed to achieve objectives?
+Are there any gaps or weaknesses in how the program is administered?
+Issue 2: Are there alternatives or modifications to improve the CRA’s administration of the Employee Assistance Program?
+Are there best practices or lessons learned from the different CRA regional EAP offices?
+Are there alternative approaches to delivery that could be adopted from other federal government departments?
+This report summarizes the findings related to these issues and research questions. Findings are to provide the CRA senior management with information on the effectiveness of the CRA’s administration of the EAP to achieve expected outcomes with a particular focus on the delivery model. The study also identified potential alternatives or modifications that could improve the CRA’s administration of the EAP.
+Background
+The CRA has a varied and diverse workforce of over 41,000 employees
+Footnote
+5
+that are the cornerstone of Canada’s tax administration. Maintaining the well-being of all employees is a commitment the Government of Canada (GoC) and the CRA takes seriously.
+Promoting and preserving organizational well-being, including mental health, is a priority of the GoC. The Clerk of the Privy Council emphasized in the
+Twenty-Third Annual Report to the Prime Minister on the Public Service of Canada
+that public servants need to work in a healthy environment that is characterized by respect, that embraces differences and diversity, and that supports, with compassion, individuals struggling with mental health challenges
+Footnote
+6
+.  To address the GoC priority, in April 2016, a CRA Agency Level Champion was appointed to support a CRA respectful workplace and well-being initiative. The Champion will lead efforts, with the Human Resources Branch (HRB), to plan and implement innovative ways to promote and advance this priority across the CRA through strong leadership, innovation and collaboration with employees. This included the development of a CRA Respectful Workplace and Well-being Strategy, which was launched in October 2016.
+For the CRA, the objective of the CRA EAP is to support employees who may be experiencing personal, health or work-related concerns, by making available to them and their family members
+Footnote
+7
+, a program that is voluntary, accessible, neutral and most importantly, confidential. As outlined in the logic model (Appendix A), the major EAP activities include education, awareness and confidential assistance to CRA employees, at all levels, to help them acquire the skills and knowledge to address personal, health or work-related concerns. These efforts contribute to employee well-being in the workplace.
+The EAP has three access points for employees and their family members
+Footnote
+8
+to contact:
+The CRA Referral Agents (RA), via their direct work phone number or by email, are employees of the CRA who have volunteered and have been trained as a listening ear to employees to facilitate their access to EAP professional counsellors, and to provide information on resources available within the CRA and in the community; or
+The CRA Coordinator-Counsellors (CC), via their direct work phone number or by email, are employees of the CRA who are trained mental health professionals, and have an appropriate provincial or territorial licensure. They provide professional counselling, support following critical incident events, and advisory services; or
+External Service Provider Counsellors (ESP), via a regional or provincial 1-800 number, are contracted by the CRA, are trained mental health professionals, and have an appropriate provincial or territorial licensure. They provide professional counselling, support following critical incident events, and advisory services.
+The National Employee Assistance Program Office (NEAPO) of the HRB is the functional authority, and is responsible for ensuring that a consistent level of EAP services is offered to all CRA employees and their family members. The NEAPO works in consultation with management and the unions through the EAP National Advisory Committee, and with the Assistant Director of Workplace relations and CCs who administer the EAP in their area of responsibility. Other components of the EAP include Local EAP Advisory Committees
+Footnote
+9
+, RAs and ESPs. These collaborative relationships support the NEAPO to:
+monitor, identify and implement the EAP strategies;
+develop and deliver educational and awareness activities; and
+ensure professional standards of performance for both in-house and external counselling services are met.
+The EAP budget, reported by NEAPO, for fiscal year 2014-2015 was $3.6 million
+Footnote
+10
+of which $1.5 million was allocated to contracts for ESPs. This budget did not take into consideration the costs associated with the RAs which are absorbed by the employees’ branch or region. Through the use of Corporate Administrative System (CAS) data, the RA salary and training costs for 2014-2015 was estimated at $195,185
+Footnote
+11
+and 2.65 full time equivalents (FTE). Table 1 provides an overview of the 2014-2015 EAP resources
+Footnote
+12
+in the CRA.
+Table 1: EAP Resources by Headquarters and Regions – 2014-2015
+Region
+CRA Referral Agents
+(RA)
+CRA Coordinator-Counsellors
+(CC)
+Number of External Service Provider Organizations
+Footnote
+13
+(ESP)
+Atlantic
+28
+2
+1
+Québec
+27
+3
+1
+Headquarters
+5
+1
+1
+Ontario
+55
+4
+1
+Prairies
+18
+3
+3
+Pacific
+17
+2
+1
+Total
+150
+15
+8
+Source: RA and CC resources: CRA EAP website, February 2016 and External Service Provider information: NEAPO (contract information)
+Evaluation Methodologies and Approach
+For the evaluation study, the following methodologies and approach were used:
+Internal interviews were carried out with employees from all branches and regions within the CRA. This included those involved with the EAP program including representatives from the EAP National Advisory Committee as well as executives, managers, employees, CRA union representative from the Professional Institute of the Public Service of Canada (PIPSC), and the Agency Champion for Respectful Workplace and Well-being. Interviews were also held with representatives from the CRA national Management Group (MGN) and Young Professional (YPN) networks;
+External interviews were conducted with representatives from the Canada School of Public Service (CSPS) and Health Canada Employee Assistance Services;
+Examination of EAP policies, procedures, training documentation, budgets, and contracts with the ESPs was undertaken;
+Literature research on EAP was undertaken;
+Observation of a mental health training session provided by the CSPS; and
+A series of analyses on the outputs and outcomes of the CRA’s administration of the EAP for the period 2010-2011 to 2015-2016.
+Study Limitations and Constraints
+Our capacity to assess the EAP delivery model was limited due to confidentiality provisions and gaps in the monitoring and reporting of the EAP. Collective agreement negotiations were also underway between the CRA and the Public Service Alliance of Canada/Union of Taxation Employees (PSAC/UTE) during the examination phase thus our request for an interview with the CRA union representative was declined and a survey methodology was determined inappropriate. To offset this, interviews were held with the CRA National Management Group (MGN) and Young Professionals (YPN) networks that represent their branches and regions and have the pulse of their respective organizations. Therefore, data and observations made in this report are based on the best information available.
+Overall Finding
+The evaluation study revealed that the EAP is being delivered in accordance with the Treasury Board Secretariat (TBS) Policy on Employee Assistance Programs (Policy).
+The EAP is meeting its objectives as it is being used by employees and their families. However opportunities for improvement exist as today’s society and work culture has evolved over time. These opportunities relate to the relevance of the RA role, potential benefits of a national CRA ESP, and the impact on EAP training with the renewed mandate of the CSPS to deliver enterprise-wide learning within the federal public service. The introduction of the CRA’s Respectful Workplace and Well-being Strategy, which was launched in October 2016, may also result in the repositioning of the EAP delivery model to its essential function of counselling, critical incident response and guidance with trained mental health professionals.
+Findings from the Evaluation
+The EAP is being delivered in a manner supportive of its objectives, however opportunities for improvement have been identified
+The TBS Policy has a requirement that federal organizations make available to their employees and their families a confidential and voluntary EAP without prejudice to job security or career progression. This review revealed that the EAP is being delivered in accordance with the TBS Policy and provides employees and their families with accessible, neutral and confidential services.
+A review of NEAPO reported data of new ESP
+Footnote
+14
+cases revealed that employees and their families are using the EAP. It was also noted that national complaints
+Footnote
+15
+were minimal at 0.95% in 2012-2013, 1.09% in 2013-2014, and 0.73% in 2014-2015 as outlined in Table 2. This suggests that the service provided by ESPs, which is the main component for confidential counselling
+Footnote
+16
+, has met the needs of employees and their families.
+Table 2: External Service Providers New Cases and
+National Complaints by Region – 2012-2013 to 2014-2015
+2012-2013
+2013-2014
+2014-2015
+Region
+New Cases (#)
+Complaints (#)
+Complaints (%)
+New Cases (#)
+Complaints (#)
+Complaints (%)
+New Cases (#)
+Complaints (#)
+Complaints (%)
+Atlantic
+446
+3
+0.67%
+542
+9
+1.66%
+430
+5
+1.16%
+Québec
+698
+12
+1.72%
+818
+9
+1.10%
+715
+8
+1.12%
+Headquarters
+546
+1
+Footnote
+17
+0.18%
+639
+2
+0.31%
+658
+2
+0.30%
+Ontario
+1,179
+3
+0.25%
+1,362
+16
+1.17%
+1,192
+5
+Footnote
+18
+0.42%
+Prairies
+733
+20
+2.73%
+654
+10
+Footnote
+19
+1.53%
+549
+5
+Footnote
+20
+0.91%
+Pacific
+603
+1
+0.17%
+643
+5
+0.78%
+703
+6
+0.85%
+National Total
+4,205
+40
+0.95%
+4,658
+51
+1.09%
+4,247
+31
+0.73%
+Source:  New Cases: External Service Provider data reports, NEAPO and Complaints: Quality Assurance data, Complaints National, NEAPO
+The EAP delivery model supported CRA employees and their families in dealing with 6,344
+Footnote
+21
+types of issues-counselling in 2014-2015 (Table 3). As reported by the NEAPO, the RAs dealt with 18%, the CCs with 12%, and the ESPs with 70%. The main reasons for issues-counselling were reported as family at 39.8%, emotional and mental health at 31.98%, and work at 12.47%.
+Table 3 – Types of Issues-Counselling – 2014-2015
+Type
+Referral Agent (RA)
+Coordinator- Counsellor (CC)
+External Service Provider (ESP)
+Total
+#
+Total
+%
+Family
+466
+255
+1,804
+2,525
+39.80%
+Health – Emotional/Mental
+149
+202
+1,678
+2,029
+31.98%
+Work
+260
+151
+380
+791
+12.47%
+Grief
+58
+46
+185
+289
+4.56%
+Health - Physical
+56
+40
+98
+194
+3.06%
+Addiction
+25
+13
+69
+107
+1.69%
+Relationship - Others
+16
+16
+48
+80
+1.26%
+Trauma
+6
+10
+56
+72
+1.14%
+Work/Life Balance
+41
+7
+23
+71
+1.12%
+Financial
+34
+9
+6
+49
+0.77%
+Suicide
+14
+7
+23
+44
+0.69%
+Legal
+18
+8
+3
+29
+0.46%
+Harassment
+10
+8
+5
+23
+0.36%
+Abuse, Threats, Stalking
+5
+4
+12
+21
+0.33%
+Handling of Suicidal Calls
+9
+4
+3
+16
+0.25%
+Other
+2
+2
+0
+4
+0.06%
+Total Issues-Counselling
+1,169
+782
+4,393
+6,344
+100%
+Source:  EAP Annual Overview 2014-2015 – Types of Issues – Counselling
+Although the EAP is meeting its objectives, opportunities for potential improvements to the delivery model have been identified. These relate to the relevance of the RA role, potential benefits of a national CRA ESP, and the impact on EAP training with the renewed mandate of the CSPS to deliver enterprise-wide learning within the federal public service.
+The Referral Agent role is viewed as no longer addressing a need to foster employee and organizational well-being
+The CRA employees interviewed indicated that today’s society and work culture has evolved which makes employees more supportive of their colleagues struggling with mental health and/or other difficult challenges at work or home. They respect differences and diversity and strongly believe that the level of awareness on employee and organizational well-being, which includes mental health, has increased. They have achieved this through education, open and frank discussions, information readily available on social media and internet, and life experiences which have supported the development of resiliency skills to deal with life events as they occur.
+RAs are employees, who have volunteered and have been trained as a listening ear to facilitate access to EAP professional counsellors, and to provide information on resources available within their organization or community. The CRA RA role was introduced in November 1999 when the Department of National Revenue merged with Canada Customs as they had employees in remote areas and ports. When the Department of National Revenue separated from Canada Customs in December 2003, the CRA kept the RA role in place.
+With respect to the EAP delivery model, the majority of employees interviewed are supportive of the mandate of the EAP and the value of the trained mental health professionals for counselling and critical incident response; however they viewed the RA role as not addressing a need to foster employee and organizational well-being. It was also recognized that the RA title is misleading and suggests that employees have to go to a RA prior to making contact with a trained mental health professional, when this is not the case. The RAs interviewed revealed that this is the most common question they receive and this information is not captured in EAP statistics.
+There are two schools of thought on the RA role. While literature research supports the positive impact of a peer network in certain workplaces, others suggest limited value as access to EAP services is readily available with trained mental health professionals. The RA role is more commonly used by fire and police as they have employees in remote areas and ports. Interviews with Health Canada revealed that most federal organizations do not have a RA role.
+The majority of employees interviewed indicated that they prefer to deal with their own doctor rather than use the EAP. However, those who have used or would use the EAP would not reach out to a RA and would prefer to have first contact with trained mental health professionals, CCs or ESPs, to maintain confidentiality and ensure no prejudice to their job security or career progression.
+Review of the ESP data, from the EAP delivery model lens, revealed that in 2014-2015, the majority of employees (53.19%) referred themselves for external counselling services while employee referrals from the RAs and CCs were significantly less at 0.40% and 0.35% respectively (Table 4).
+Table 4:  External Service Providers referrals by source for new users – 2014-2015
+New users referred by
+Number of Referrals
+Percentage %
+Self
+2,259
+53.19%
+Unknown
+Footnote
+22
+719
+16.93%
+Other
+Footnote
+23
+689
+16.22%
+Human Resources
+203
+4.78%
+Colleague
+194
+4.57%
+Supervisor
+130
+3.06%
+Union
+21
+0.50%
+Referral Agent
+17
+0.40%
+Coordinator-counsellor
+15
+0.35%
+Total
+4,247
+100%
+Source: External Service Provider data, 2014-2015
+NEAPO advised that both CCs and RAs make referrals to the ESPs however it is unknown who will choose to contact an ESP or not. They also advised that an individual may not want to disclose the referral source (Unknown category) due to confidentiality or may combine CC and RA referrals under Human Resources (HR) since they exist within the HR function.
+In addition, the management of the RAs was assessed as concerns were raised that the CRA may be open to legal liabilities. These concerns related to the RAs:
+not being trained mental health professionals;
+capacity to act and to work within the parameters of their role; and
+capacity to assume and deal with the potential stress associated with this role.
+Discussions with the CRA Legal Services revealed that the potential for legal liability is a reality for any organization, large or small. However, it is offset through the use of management practices which include clearly defined accountabilities with monitoring and control processes in place. This opinion was consistent with subject matter experts responsible for performance management in the CRA. Although there have been no instances of legal liability related to the CRA EAP program to date, this should not be interpreted to mean that the potential is diminished in any way. The analysis of management practices related to RAs revealed that it is insufficient:
+A review of the 2014-2015 RA performance management reports revealed that 97% of the RAs did not have documented EAP expectations to guide them in their role. This also suggests that the value of their role was not always recognized by the RAs or their managers who are jointly responsible for this report.
+A review of the NEAPO statistics for 2014-2015 revealed that the RAs dealt with 18% or 1,169 types of issues-counselling (Table 3). Other data on RAs revealed that they referred 54% or 540 cases
+Footnote
+24
+to ESPs; however ESP statistics revealed only 0.4% or 17 cases (Table 4) were reported by ESPs as being referred by a RA. Considering the volume and types of issues-counselling this raises questions on the level of support being provided to employees by the RA. No data exists on how each type of RA issues-counselling was dealt with and whether or not it was appropriate based on the specific case. This limited the ability to assess the outcome of the RAs in their intervention with an employee.
+A review of policies and procedures revealed there are no boundaries on the time allowed for the RAs to spend on EAP. NEAPO advised that a guideline exists for managers with RAs on their team, however it was not known by the CCs, RAs, or managers with RAs interviewed nor available on the CRA EAP website.
+A discussion with NEAPO on EAP statistics revealed that they recognize the way in which information is tracked in the current EAP monitoring and reporting framework can lead to misinterpretation of information, create cause and effect relationships and other possible relationships that may or may not exist.
+Interviews with management also provided unconfirmed examples of RAs working outside their role as a listening ear. To test this, as part of the interviews with the RAs, various scenarios were provided to determine what actions, if any, they would take. This revealed that some RAs find it difficult to maintain the line between being a listening ear and providing advice. Their desire to assist, in some cases, may have impacted their ability to abide by the parameters of their role. This leads to potential negative unintended impacts for both the RAs and the employees they deal with. For example, for the RAs, there are security risks when they make themselves available to employees outside the workplace or hours of work; and for employees, a breach of information by an RA can cause embarrassment and potentially accelerate a situation.
+A review of the CRA Respectful Workplace and Well-being Strategy revealed that the role provided by the RA could potentially be replaced by initiatives planned for the HRB’s Well-being website. This website is to include information such as self-assessment tools for mental health, information on social support, health benefits and coverage, and links to EAP contact information for the CCs and ESPs.
+Based on the analysis undertaken, the HRB needs to reassess the relevance of the RA role within the EAP delivery model. As access to EAP services is readily available with trained mental health professionals, via CCs and ESPs, and considering the initiatives planned as part of the CRA Respectful Workplace and Well-being Strategy, discontinuing the RA role could potentially better meet the needs of employees by connecting them more directly to trained mental health professionals by removing the RA layer in the delivery model. This would also offset the potential for the negative unintended impacts identified.
+Potential benefits with a national External Service Provider
+The review of the ESPs in the delivery model revealed potential benefits with a national provider as this could reduce duplication of effort to hire the ESP and improve the monitoring of the contracts.
+In 2014-2015, as reported by NEAPO, there were 8 ESP contracts
+Footnote
+25
+in place to provide employee assistance services to CRA employees and their families at a contract cost of $1.5 million (Table 5). It is recognized that the contract costs associated with Ontario and Pacific regions are higher due to the rates associated with counselling services within these regions.
+Table 5 – External Service Providers Contracts – 2014-2015
+Region
+Working Population
+Footnote
+26
+Contract Cost
+2014-2015
+Atlantic
+3,566
+$146,944
+Québec
+5,047
+$190,390
+Headquarters
+10,221
+$176,778
+Ontario
+12,761
+$450,416
+Prairie
+Footnote
+27
+5,797
+$228,094
+Pacific
+4,471
+$351,667
+Total
+41,863
+$1,544,289
+Source:  NEAPO: Individual External Service Provider Contracts – 2014-2015
+The work involved in sourcing a new ESP and monitoring the contracts is the responsibility of the CCs. Interviews with the CCs revealed that the majority are not comfortable with this task. Many CCs stated that they felt that the hiring and monitoring of the ESPs was difficult, time consuming, and took away from counselling, providing guidance, and training to employees. The time associated with assessing, hiring, and monitoring the ESPs is not tracked so it limited the ability to assess the level of effort involved with this task. In 2015, the Pacific Region recognized this as a challenge and changed the process for the hiring of their ESP by using auditors with expertise in business and contract auditing. This provided management with a greater level of comfort in the hiring of the new ESP for the Pacific Region.
+A review of the mandatory reporting of statistics in the ESP contracts revealed that the statistical reports, for the most part, were inconsistent or incomplete which impeded the ability to assess the ESP service with any certainty. Discussions with the NEAPO recognized that the EAP statistics do not provide a complete picture of the program. With the reorganization that occurred in April 2016 with HR resources
+Footnote
+28
+, from all branches and regions, reporting directly to the HRB, the centralization of contract monitoring and financial reporting may be better positioned as part of the responsibility of the NEAPO or through other means such as centralized contracting within HRB. This could provide CCs with more time for counselling, guidance and training.
+While the CRA can choose the ESP of its choice
+Footnote
+29
+, and no issues were identified with the current ESPs, many interviewed were of the opinion that the CRA was not supporting the GoC’s mandate to modernize and centralize services. It is their belief that Health Canada would be the natural ESP for all federal government employees. This would support a consistent level of service for employees across the GoC. Another benefit identified was that this would allow for the use of one ESP phone number which could simplify access to the ESP services as well as facilitate promotion of the program as it could be included on the back of ID passes. Regardless, many interviewed advised that making the EAP phone number readily available outside the workplace and working hours – such as on an ID pass – would be valuable.
+Interviews with Health Canada revealed that they provide employee assistance services to 140 federal organizations, including the CRA in the Atlantic and Pacific Regions; and that they have the capacity to support a CRA national contract. Health Canada is also in an ideal position to coordinate with the CSPS for training needs at the GoC level. A review of Pacific Region ESP analysis, with their migration to Health Canada, revealed savings of $166,835
+Footnote
+30
+in 2015-2016. The Pacific Region also confirmed that they were satisfied with the service provided by Health Canada. This is consistent with the interviews held with the Atlantic Region who have had Health Canada as their ESP for many years.
+In discussions with the Finance and Administration Branch’s (FAB) contracting experts, they recommended that an independent comparative analysis of the existing supply base model for EAP and the one offered by Health Canada be undertaken. This would provide current information on what makes the best business sense for the CRA going forward. This analysis should include a financial reconciliation of the ESP expenditures as well as the implications with the shift in the EAP training which is outlined in the next section of the report. This recommended approach is appropriate and will provide expert information to support senior management decision-making moving forward.
+EAP training is experiencing a shift
+The EAP related training is currently provided through multiple avenues to CRA employees. The RAs provide and assist in orientation, awareness, and wellness fairs; CCs provide training with approved national EAP learning products; and the ESPs provide training on request with additional costs. Although not officially part of the EAP training model, management and unions also play a critical role in EAP training and awareness. Based on our interviews they are aware of the program, contact information, and educate and guide employees who may be experiencing difficulties to either the CCs or the ESPs. This is consistent with the information obtained from the MGN.
+As of April 1, 2016, the Canada School of Public Service (CSPS) was given the renewed mandate and funds to deliver enterprise-wide learning within the federal public service. At this time, the HRB is maintaining the status quo during the transition period with the CSPS. This makes sense as, based on the NEAPO analysis
+Footnote
+31
+, the CSPS does not yet have the capacity to respond to CRA specific training such as training for employees on how to manage suicidal threats by taxpayers.
+Through discussions with the CSPS, their mandate at this time is to focus on web-based training related to resiliency skills. It is intended to support employees in all federal organizations to deal with challenges that occur - whether it relates to not being successful on a competitive process, dealing with conflict at work, the loss of a loved one or aging parents. The NEAPO was also developing a CRA national course on resiliency skills, prior to the transition to CSPS, and needs to continue to work with the CSPS to share information and ensure no duplication of effort.
+It was also recognized by everyone interviewed that the delivery of certain EAP training needs to be undertaken with in-person trained mental health professionals. This supports the conversations that can occur before, during, or after a training session when employees may reach out. This is the norm for the CRA and the CSPS. During this period of transition, the CSPS has reached out to trained mental health professionals in federal organizations to support training. As part of the analysis, observations of a CSPS mental health and wellness learning day was undertaken and deemed appropriate and was provided by a trained mental health professional.
+The HRB has to ensure that employees are receiving EAP training in a way that is appropriate, cost-effective, and responding to a need. At the time of this study, there were many unknowns with regards to the future direction of the delivery of the EAP training products with the new CSPS mandate. Reporting statistics, excluding associated costs, were only available for the training given by the CRA which limited the ability to assess the complete picture of EAP related training. The ESPs offer training for an additional cost; however, statistics and associated costs with this training were not readily available for review. The registration of the CSPS training is not linked or tracked to the EAP program which impeded our ability to assess this training avenue. The coordinating and monitoring of training products has to be clearly identified between the multiple avenues as well as the new initiatives introduced, such as the new CRA on-boarding for employee orientation which includes links to EAP. This will require the development of analytics that support measurement and accountability including the costs associated with each training avenue.
+Based on analysis, the HRB should continue to work with CSPS as well as develop analytics to assess the multiple training avenues to determine an effective and efficient learning delivery model with the shift in EAP training and the introduction of the CRA Respectful Workplace and Well-being Strategy. This should include the costs associated with each training avenue.
+Going Forward
+The CRA Agency Level Champion is committed to collaborate with employees so they have a voice in the direction that will be taken to promote and advance a respectful workplace that supports employee well-being across the CRA. With the introduction of the CRA’s Respectful Workplace and Well-being Strategy, which includes the EAP along with other HR programs, this may reposition the EAP delivery model to its essential function to provide counselling, critical incident support and guidance. The centralization of the EAP and other HR program information will be accessible through the HRB’s Well-being website, which may rationalize how services are offered to employees, remove duplication, if any, and increase the quality of service of the EAP and other HR program information. This analysis revealed that the RA role and certain EAP training could be replaced by the CSPS and the HRB’s Well-being website such as self-assessment tools for mental health and information on social support, health benefits and coverage information, as well as education on mental illness.
+Recommendations
+This evaluation study resulted in the following recommendations:
+1. The Human Resources Branch should identify their information needs and gaps in the current monitoring and reporting of the EAP delivery model to allow for the development of analytics that support measurement and accountability.
+Management Response
+We concur with this recommendation. HRB is committed to undertake a review of the monitoring and reporting in Q2 of 2017-2018 to determine information needs and the identification of analytics needed to support program improvements based on the findings from this evaluation report. Based on this review, HRB will develop action plans to align with timelines outlined within the Respectful Workplace and Well-being Strategy action plan in Q2 of 2018-2019. This will result in an EAP measurement framework to support monitoring, reporting and accountability at the outset.
+2. The Human Resources Branch should reassess the relevance of the Referral Agent role within the EAP delivery model.
+Management Response
+We concur with this recommendation. HRB is committed to undertake a review of the Referral Agent role in Q4 of 2016-2017. Results of this review as well as recommendations will be provided to HRB senior management at the end of Q3 of 2017-2018 to inform decision-making.
+3. The Finance and Administration Branch should undertake a comparative analysis of the existing supply base model for EAP and the one offered by Health Canada to determine what makes the best business sense for the CRA, taking into consideration the need for a consistent level of service, value for money, and the shift in the EAP training.
+Management Response
+We concur with this recommendation. FAB’s Contracting Division will undertake this comparative analysis starting in Q1 2017-2018 with an expected completion date of Q3 2017-2018. This analysis will support senior management decision making as it will provide current information on what makes the best business sense for the CRA going forward.
+4. The Human Resources Branch should continue to work with CSPS as well as develop analytics to assess the multiple training avenues to determine an effective and efficient learning delivery model with the shift in EAP training and the introduction of the CRA Respectful Workplace and Well-being Strategy.
+Management Response
+We concur with this recommendation. HRB recognizes that EAP training is currently in transition and will continue to monitor, establish analytics, when feasible, and will adjust CRA training delivery avenues as the CSPS evolves with their new mandate. Status of EAP training will be included in the HRB Annual Report starting in Q1 2017-2018 to inform decision-making.
+Acknowledgement
+We would like to acknowledge and thank all members of the EAP Working Group and employees interviewed from all branches and regions. We observed that the CRA has a dedicated workforce who respect differences, diversity and are supportive of their colleagues struggling with mental health and/or difficult challenges at work or home.
+Appendix A
+Image description
+The logic model of the EAP is represented by three major activities that will lead to sub-activities, outputs, immediate outcomes, intermediate outcomes and a final outcome.
+The first major activity is Program Management. This major activity is linked to a list of sub-activities:
+Policy and procedures
+Resource and program planning
+Monitoring and reporting
+Functional direction and advice
+Establish contracts for external service providers
+Complaint Investigation
+National and Local EAP Advisory Committees
+These sub-activities are now linked to outputs:
+Policies and procedures developed
+Resources allocated
+Program performance and monitoring reports
+Contracts for external service providers established
+Complaints investigated
+Client Satisfaction Questionnaires reviewed
+Sharing of information, advice and guidance with National and Local EAP Advisory Committees and referral agents
+These outputs are linked to immediate outcomes:
+Consistent level of EAP services available in Headquarters and Regions
+Ability to identify and implement EAP strategies to meet current and future needs
+These immediate outcomes are linked to intermediates outcomes:
+Employees and their families have access to services to foster and maintain well-being
+Increased ability to address personal, health and work related issues
+These intermediate outcomes are linked to a final outcome:
+Efficient and effective program management and delivery to foster employee well-being in the workplace
+The second major activity is Education and Awareness. This major activity is linked to a list of sub-activities:
+Website
+Awareness materials
+Orientation, training, workshops and information sessions for management, employees, union, human resources community, National and Local EAP Advisory Committees and referral agents
+These sub-activities are now linked to outputs:
+Website developed
+Awareness materials developed
+Orientation, training, workshops and information sessions delivered
+These outputs are linked to immediate outcomes:
+Increased awareness of the EAP resources
+Knowledgeable and trained management, union, referral agents and employees
+These immediate outcomes are linked to intermediate outcomes:
+Employees and their families have access to services to foster and maintain well-being
+Increased ability to address personal, health and work related issues
+These intermediate outcomes are linked to a final outcome:
+Efficient and effective program management and delivery to foster employee well-being in the workplace
+The third major activity is Confidential Assistance and this is provided by two ways – CRA Referral Agents and Professional CRA and External Counsellors. The CRA Referral Agents are linked to a list of sub-activities:
+Listen and provide information on resources to employees
+Referrals to professional counsellors
+These sub-activities are now linked to outputs:
+Information and support provided
+Employees referred to EAP counsellors
+These outputs are linked to an immediate outcome:
+Assistance is provided in an accessible, confidential, neutral and timely manner
+These immediate outcomes are linked to intermediate outcomes:
+Employees and their families have access to services to foster and maintain well-being
+Increased ability to address personal, health and work related issues
+These intermediate outcomes are linked to a final outcome:
+Efficient and effective program management and delivery to foster employee well-being in the workplace
+The Professional CRA and External Counsellors are linked to a list of sub-activities:
+Respond to employees and their families
+Advice and guidance to management, human resources community, union and referral agents
+Critical Incident Stress Management support
+These sub-activities are now linked to outputs:
+Professional counseling provided
+Advice and guidance provided
+Critical Incident Stress Management services provided
+These outputs are linked to an immediate outcome:
+Assistance is provided in an accessible, confidential, neutral and timely manner
+These immediate outcomes are linked to intermediate outcomes:
+Employees and their families have access to services to foster and maintain well-being
+Increased ability to address personal, health and work related issues
+These intermediate outcomes are linked to a final outcome:
+Efficient and effective program management and delivery to foster employee well-being in the workplace
+Footnotes
+Footnote 1
+For the purpose of this study “employee” represents all levels within the CRA organization - executives, managers and employees.
+Return to footnote
+1
+Referrer
+Footnote 2
+For EAP, “family member
+”
+is defined as spouse or common-law spouse, dependent children (including foster children or children of the employee’s legal or common-law spouse), and any relative permanently residing in the employee’s household or with whom the employee permanently resides and who is financially dependent on the employee.
+Return to footnote
+2
+Referrer
+Footnote 3
+Twenty-Third Annual Report to the Prime Minister on the Public Service of Canada, Clerk of Privy Council, March 2016.
+Return to footnote
+3
+Referrer
+Footnote 4
+Launched on October 3, 2016.
+Return to footnote
+4
+Referrer
+Footnote 5
+For the purpose of this study “employee
+”
+represents all levels within the CRA organization - executives, managers and employees.
+Return to footnote
+5
+Referrer
+Footnote 6
+Twenty-Third Annual Report to the Prime Minister on the Public Service of Canada, Clerk of Privy Council, March 2016.
+Return to footnote
+6
+Referrer
+Footnote 7
+For EAP, “family member” is defined as spouse or common-law spouse, dependent children (including foster children or children of the employee’s legal or common-law spouse), and any relative permanently residing in the employee’s household or with whom the employee permanently resides and who is financially dependent on the employee.
+Return to footnote
+7
+Referrer
+Footnote 8
+Family members access services via ESP and on occasion CCs.
+Return to footnote
+8
+Referrer
+Footnote 9
+Includes management, employees, union representatives, referral agents and coordinator-counsellors.
+Return to footnote
+9
+Referrer
+Footnote 10
+Salary, operating and maintenance costs.
+Return to footnote
+10
+Referrer
+Footnote 11
+Salary: $178,457 and Training: $16,728
+Return to footnote
+11
+Referrer
+Footnote 12
+CRA EAP website, February 29, 2016 for RA and CC resources.
+Return to footnote
+12
+Referrer
+Footnote 13
+Contract information from NEAPO, February 8, 2016.
+Return to footnote
+13
+Referrer
+Footnote 14
+Cases are counted as “new cases” only once per fiscal year, regardless of how often the client is seen. However, if the same client contacts the EAP later in the same fiscal year about an issue unrelated to the issue discussed the first time, the client would be considered a new case.
+Return to footnote
+14
+Referrer
+Footnote 15
+National complaints are tracked by NEAPO who encourages clients to contact the CCs if they are unhappy with the services received from the ESPs or RAs.
+Return to footnote
+15
+Referrer
+Footnote 16
+ESPs dealt with 70% of the types of issues-counselling in 2014-2015 (Table 3).
+Return to footnote
+16
+Referrer
+Footnote 17
+PROTECTED
+Return to footnote
+17
+Referrer
+Footnote 18
+PROTECTED
+Return to footnote
+18
+Referrer
+Footnote 19
+One complaint was related to an invoicing error.
+Return to footnote
+19
+Referrer
+Footnote 20
+PROTECTED
+Return to footnote
+20
+Referrer
+Footnote 21
+New cases may involve multiple issues.
+Return to footnote
+21
+Referrer
+Footnote 22
+No definition available.
+Return to footnote
+22
+Referrer
+Footnote 23
+Other is defined as referral by family doctor, friend, family member, etc.
+Return to footnote
+23
+Referrer
+Footnote 24
+NEAPO data: RA new contacts totaled 1,004 of which RAs referred 540 cases to ESPs.
+Return to footnote
+24
+Referrer
+Footnote 25
+For Health Canada Employee Assistance Services (EAS), Interdepartmental Letter of Agreement (ILA) and Memorandum of Understanding (MOU) are in place with Atlantic and Pacific, respectively.
+Return to footnote
+25
+Referrer
+Footnote 26
+Working population is based on HRB demographic reports and is the average number of employees within a given year.
+Return to footnote
+26
+Referrer
+Footnote 27
+Prairie Region reduced their ESP contracts from three to one effective June 1, 2016.
+Return to footnote
+27
+Referrer
+Footnote 28
+With the exception of RAs.
+Return to footnote
+28
+Referrer
+Footnote 29
+Financial Administration Act, Section 61 of the Canada Revenue Agency Act.
+Return to footnote
+29
+Referrer
+Footnote 30
+Pacific Region EAP Service Provider Review for 2015-2016 Implementation, dated August 2014.
+Return to footnote
+30
+Referrer
+Footnote 31
+CSPS Comparison to EAP National Training Products.
+Return to footnote
+31
+Referrer
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2017-01-27

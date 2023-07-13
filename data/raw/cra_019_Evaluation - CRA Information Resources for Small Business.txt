@@ -1,0 +1,566 @@
+Evaluation - CRA Information Resources for Small Business
+On this page
+Executive summary
+1. Introduction
+2. Background
+3. Methodologies
+4. Findings, recommendations, and management response
+4.1. CRA information resources for small businesses are relevant for Canadians.
+4.2. Users with different levels of tax literacy have different needs regarding information resources for small businesses
+4.3. CRA information resources can be difficult to access regardless of the user’s level of tax literacy.
+4.4. There is a relationship between information resources for small businesses and taxpayer’s ability to comply with their tax obligations.
+4.5. Taxpayer’s reliance on information within CRA-certified software may be facilitating reporting errors.
+4.6. The CRA’s governance structure that administers information resources for small businesses is decentralized and has unclear responsibilities.
+4.7. Frontline staff have knowledge and experience which can drive improvements to information resources
+5. Conclusion
+6. Acknowledgements
+7. Appendices
+Appendix A: Evaluation issues, research questions and methodologies
+Appendix B: Key stakeholders in the administration of CRA information resources for small businesses
+Appendix C: Glossary
+Executive summary
+The purpose of this report is to provide Canadians, the Commissioner, Canada Revenue Agency (CRA) management, and the Board of Management with information on the relevance and effectiveness of the information resources that the CRA makes available for small businesses.
+In carrying out its mandate, the CRA ensures that Canada’s voluntary self-assessment tax system is sustained by providing taxpayers with the support and information resources they need to understand and fulfill their tax obligations.
+Footnote
+1
+Building on the
+2016 Serving You Better consultations
+with small and medium businesses, in 2019, the CRA held public consultations that gave people across the country the opportunity to talk about their experience when interacting with the CRA.
+Footnote
+2
+Canadians have stated that they would like the CRA to provide more personal and tailored services, make taxes easier to understand, provide accurate information consistently, make services accessible and modernize programs and services.
+While information resources for small businesses fulfill a need for Canadians, the evaluation identified challenges for taxpayers in finding and understanding information resources, particularly for taxpayers with low to moderate levels of tax literacy. The CRA has developed persona that represent prototypical characteristics of distinct groups of taxpayers and the evaluation provides further support for many attributes of these segments. The CRA provides extensive information but this is not necessarily what the low literacy small business taxpayer segment needs. Meanwhile, tax preparers with a higher tax literacy and more complex tax issues tend to rely on CRA information resources as one source amongst many and prefer to use private sector materials when available.
+Difficulty finding and understanding information resources is shown to have a relationship with small business taxpayers’ ability to comply with their tax obligations and to impact workloads for call centres, office and small business auditors and appeals officers. Small business taxpayers and tax preparers find CRA information resources challenging which appears to increase their reliance on tax software. A limited examination of taxpayers using CRA-certified software showed that inaccurate information may be used in determining eligible expenses which could lead to reporting errors in some instances. Reviewing the information contained in CRA-certified tax software will help identify and quantify its potential impact on taxpayers and relationship to reporting errors.
+While there is no formal strategy in place specific to information resources for small businesses, various branches have independently undertaken initiatives which can be considered key elements of a comprehensive strategy. Efforts have already been made with respect to environmental scanning and monitoring, employing user testing and feedback during product development, and delivering segmented client-centric products.
+Designing a horizontal strategy with clear responsibilities to support the administration of information resources for small businesses will help the CRA to consistently deliver resources, materials and services to Canadians.
+Summary of recommendations
+In order to meet Canadians’ expectations, the CRA should develop and implement a coordinated strategy and action plan to manage information resources for small businesses. The strategy should include the development of information resources that are tailored to taxpayer segments with different levels of tax literacy and incorporate feedback from CRA employees who interact with small business taxpayers and tax preparers. Finally, the CRA should review and assess the extent to which information in CRA-certified software impacts reporting errors.
+Management response
+The Public Affairs Branch, the Service, Innovation and Integration Branch, the Assessment, Benefit, and Service Branch, the Compliance Programs Branch, the Collections and Verification Branch, agree with the recommendations in this report and have developed related action plans. The Audit, Evaluation, and Risk Branch has determined that they appear reasonable to address the recommendations.
+1. Introduction
+The evaluation of the Canada Revenue Agency (CRA) information resources for small businesses was listed in the Risk–Based Audit and Evaluation Plan 2017-2020, which was approved by the Board of Management in June 2017. The evaluation framework was approved by the Management Audit and Evaluation Committee in May 2018.
+This report outlines the main findings related to the evaluation issues and research questions identified in the evaluation framework. For the purposes of this evaluation, the term “small business” refers to both T1 self-employed filers i.e. individuals and T2 businesses. Please see
+Appendix A
+for a full description of the evaluation issues, research questions and methodologies.
+The purpose of this report is to provide Canadians, the Commissioner, CRA management, and the Board of Management with an independent assessment of the relevance and effectiveness of the information resources that the CRA makes available for small businesses.
+2. Background
+The CRA ensures that Canada’s voluntary self-assessment tax system is sustained by providing taxpayers with the support and information resources that they need to understand and fulfill their tax obligations.
+Footnote
+3
+Small business taxpayers are currently estimated to represent 20% of the Canadian workforce and are projected to grow to 35% by 2025 in part due to the rise of the non-traditional workforce.
+Footnote
+4
+A 2004 study conducted by Statistics Canada found that full and accurate reporting for small businesses requires a greater level of tax knowledge than what is necessary for salaried employees.
+Footnote
+5
+Yet, a 2017 study that examined tax literacy among small business owners found that, despite having more complex needs, small business owners’ knowledge about taxes is as poor as that of other taxpayer groups.
+Footnote
+6
+This growing segment of the population has more complex information resource needs which they are required to understand in order to comply with their tax obligations. Additionally, small business taxpayers have varying degrees of tax literacy and those with low tax literacy find it more challenging to find and understand CRA information resources. Many small business taxpayers use tax preparers (74%) or tax software (22%) to file and report their taxes each year.
+Footnote
+7
+It is important to note that small business taxpayers remain responsible for the accuracy of their returns when using tax preparers or tax software.
+This need for accessible information resources that are easy to find and understand is reinforced by recent results of CRA consultations showing Canadian’s preferences. In 2019, the CRA held public consultations with an aim to identify ways that the CRA can ‘Serve Canadians Better’. The consultations gave people across the country the opportunity to talk about their experience when interacting with the CRA.
+Footnote
+8
+Canadians responded that they would like the CRA to provide personal and tailored services, make taxes easier to understand, provide accurate information consistently, make services accessible and modernize programs and services.
+To better reflect the needs of taxpayers, the CRA created personas to be realistic representations of identified taxpayer segments. Personas are used as a reference to help the CRA understand how a user will interact with a CRA product, task, service, or application. Of the 5 CRA personas, 3 can be applied in the small business context: Nate, Beatrice and Wayne. In this context, Nate and Beatrice represent small business taxpayers, 26% of whom file their own tax returns and 74% of whom hire a tax preparer to file on their behalf (Wayne).
+Footnote
+9
+These 3 personas will be used throughout the report to position findings in relation to the segments, which have different needs and levels of tax literacy. See Figure 1 for a detailed description of each persona.
+Figure 1: CRA Personas applicable to the small business context
+Image description
+Figure 1 is a graphic that describes the three personas described above. The left columns describes Nate. He is self-employed. He likely has overdue tax returns. Because he is so overwhelmed with his tax obligations he does not know what information to even look for. He wants simple and easy to understand information. The middle column describes Beatrice. She is also a business owner. Unlike Nate, she knows what information she needs. The right column describes Wayne – who is a tax preparer. He is well acquainted with the tax filing process and wants more complex and detailed information.
+3. Methodologies
+For the purpose of this evaluation, CRA information resources are defined as all tax-related information products that are made available to taxpayers to facilitate their understanding of how to comply with their tax obligations. Using this definition, the evaluation team examined the information resources listed in Figure 2.
+Figure 2: Information resources examined
+CRA resource
+Delivery format - Online
+Delivery format - Paper
+Delivery format - Telephone
+Delivery format - In-person or seminar
+Tax guides
+yes
+yes
+no
+no
+Tax folios
+yes
+no
+no
+no
+E-services: My    Business Account and Represent a Client
+yes
+no
+no
+no
+Web pages on    various tax topics
+yes
+no
+no
+no
+Phone inquiries    through CRA call centres
+no
+no
+yes
+Liaison Officer    Service
+no
+no
+no
+yes
+To assess the effectiveness and administration of these information resources, the evaluation team used the following methodologies:
+data analysis
+document reviews
+internal interviews and focus groups with CRA employees
+external interviews and focus groups with small business taxpayers and tax preparers
+survey of tax preparers
+Please see
+Appendix A
+for more details on the evaluation issues and methodologies.
+Appendix B
+provides a description of relevant Branches’ mandates and their responsibilities related to information resources for small businesses, and
+Appendix C
+provides a glossary of terms used in this report.
+4. Findings, recommendations, and management response
+The recommendations presented in this report address issues of high significance or mandatory requirements.
+CRA management agree with the recommendations in this report and have developed related action plans. The Audit, Evaluation, and Risk Branch has determined that they appear reasonable to address the recommendations.
+4.1. CRA information resources for small businesses are relevant for Canadians.
+Relevance refers to the extent to which an entity (program, service, activity) continues to be relevant to government priorities and be responsive to a demonstrable need.
+Footnote
+10
+Continued need expressed by Canadians
+A number of organizations provide tax information intended for small businesses in Canada. Comparing the number of unique visits during two randomly selected 3-month periods revealed that the CRA is the dominant information resource amongst the free unpaid web resources available, ranging between 74% to 83% of the traffic.
+Survey results showed that Chartered Professional Accountants prefer to use private sector text, webinar and video information resources for their information needs.
+Footnote
+11
+Many survey respondents still use CRA information resources as one source amongst many available to them and there is certain information that only the CRA can provide. These CRA niches can be classified into two categories:
+Account-specific information:
+When asked to rank their most used CRA products, 70% of survey respondents chose CRA E-Services as their most frequently-used CRA product. Due to the confidential nature of taxpayer information, the private sector currently cannot provide account-specific information to taxpayers.
+Publishing the CRA’s position on specific issues:
+Both small business taxpayers and tax preparers need to know the CRA’s position through the publication of CRA information resources in order to be compliant. Small business taxpayers are accountable for the accuracy of their tax return regardless of their reliance on private sector resources including software and tax preparers.
+Footnote
+12
+Government of Canada priority
+Providing information resources for small businesses continues to be relevant to the priorities of the Government of Canada. The
+December 2019 mandate letter for the Minister of National Revenue
+clearly states the following Government of Canada priority: “Ensure correspondence and other communications are straightforward and easy to read.” This priority is also reflected in a
+CRA news release
+which states that “The CRA is committed to improving services for small businesses and ensuring all Canadians can get the information they need about taxes and benefits easily and quickly.”
+The mandate letter and public statement are complemented by the 2007
+Taxpayer Bill of Rights
+, which states that all taxpayers have the right to “complete, accurate, clear, and timely information.” Additionally, it states that “the CRA is committed to providing service offerings that meet the needs of small businesses.”
+4.2. Users with different levels of tax literacy have different needs regarding information resources for small businesses
+Small business taxpayers who have low to moderate tax literacy tend to find tax basics challenging. In focus groups, Business Enquiries Call Centre agents indicated that small business taxpayers typically fall into 2 groups based on their reason for calling. The first group includes taxpayers who call seeking re-assurance regarding their understanding of their tax obligations or the actions they have taken (Beatrice). The second group includes taxpayers who appear to be overwhelmed by their tax obligations (Nate) and ask agents to assist them in completing their tax returns. While there is no data available to quantify the size of each group, call centre agents estimate the second group is much larger.
+The CRA provides extensive information but this is not necessarily what taxpayers with low to moderate levels of tax literacy require to build a sufficient level of tax literacy such that they understand their tax obligations.
+Footnote
+13
+Interviews with CRA employees repeatedly emphasized the need for taxpayers to develop sufficient tax literacy to allow them to keep accurate books and records. If no books and records are kept, or if they are not properly kept, there is a potential for expenses to be miscategorised by the tax preparer. This demonstrates the need for all small business taxpayers (regardless of whether they use a tax preparer) to acquire a basic level of tax knowledge that will allow them to review their returns and to keep accurate books and records.
+In contrast, users with high tax literacy, such as tax preparers, require in-depth information to address complex tax questions on behalf of their clients. 43% of survey respondents reported that they either ‘often’ or ‘always’ prepare a return that has at least one complex element that requires them to seek additional information to complete their client’s tax returns. When these situations arise, tax preparers tend to use CRA information on a specific legislative interpretation issue to gain insight into the CRA’s position but also consult a variety of private sources. Owing to their higher level of tax literacy, tax preparers are able to compare and contrast information from different sources and view the CRA policy as an opinion – albeit an important one. Figure 3 shows that when survey respondents were asked to identify which information resources they relied on, they clearly chose the private sector information resources in 6 of the 8 situations presented.
+Figure 3: Tax preparer preferences - CRA compared with non-CRA information resources.
+Tax preparers were asked “which resource would you say…”
+Image description
+Figure 3 summarizes the responses of CPA tax preparers when they were asked “which resources would you say….” Response choices were CRA, non-CRA, or same. When asked which resource allows for easier access to what I need, 24% responded CRA, 48 responded non-CRA, and 28% responded same. When asked which resource provides timely, up-to-date information, 38% responded CRA, 37% responded non-CRA, and 25% responded same. When asked which resource was easier to understand, 17% responded CRA, 60% responded non-CRA, and 22% responded same. When asked which resources provides more nuanced, complex information, 6% responded CRA, 79% responded non-CRA, and 15% responded same. When asked which resources provides information from different sources, 11% responded CRA, 74% responded non-CRA, and 15% responded same. When asked which resource is more applicable to specific situations 18% responded CRA, 57% responded non-CRA, and 25% responded same. When asked which resources advises on what is best for their client, 17% responded CRA, 61% responded non-CRA, and 22% responded same. Lastly, when asked which resource is more authoritative, 36% responded CRA, 37% responded non-CRA, and 27% responded same.
+Despite a clear preference for non-CRA information resources, the CRA’s position is often referred to by tax preparers. Focus group participants noted that CRA Folios are one of their most used products, specifically because they need to understand the CRA’s position. This was also evident in the survey where respondents noted Folios are their most relied upon CRA resource after E-Services which, as discussed earlier in the report, does not have a private sector alternative. Moreover, while tax preparers are more likely to use and value private sector information resources when they exist, some private sector information resources cost money to use. Paying to access private sector resources may not be feasible for small business taxpayers.
+4.3. CRA information resources can be difficult to access regardless of the user’s level of tax literacy.
+An information resource is considered to be accessible when it contains information which is easily found and understood. Overall, the evaluation found that information resources are difficult for taxpayers and tax preparers to find online using the CRA search function and use technical language which is challenging to understand for those with low and moderate tax literacy. Also, while information resources are available, services that enhance taxpayers and tax preparers’ ability to apply these information resources are not well known or used.
+Finding information resources:
+CRA guides and web content are currently structured by tax topic or CRA business line. While this structure supports those who know what they are looking for (Beatrice and Wayne), it does not serve those who are so overwhelmed that they do not know where to start (Nate). This underservicing of the low and moderate tax literacy segment is compounded by the Canada.gc.ca search engine which requires that the user know precisely what to look for to be effective. This creates a significant barrier for low tax literacy taxpayers who are not familiar with precise tax terminology. When compared internationally, certain other Federal Tax Administrations organize their information differently than the CRA but there is no evidence that indicates that their approach results in better outcomes for the small business taxpayer than CRA’s current configuration.
+Difficulty in accessing CRA information resources available on the website leads to calls to the Business Enquiries Call Centre. Analysis of the reasons taxpayers called the CRA found that main reasons for calls were:
+32% did not find the information,
+14% did not understand the information, and
+11% wanted to confirm understanding of the information
+Further analysis of the Business Enquiries Call Centre call traffic showed that almost one third of calls could have been resolved by using online portals such as My Account, My Business Account, and Represent a Client. The Chartered Professional Accountant (CPA) survey findings are consistent with this finding. CPAs reported that trouble accessing E-Services and requiring account specific information accounted for 47% of calls.
+Another notable way the CRA offers information resources to small businesses taxpayers is through a free Liaison Officer service. Taxpayers can register for this service (either in-person one-on-one visits or group seminars) aimed to help small business taxpayers understand their tax obligations. For example, Liaison Officers direct small business taxpayers towards a targeted set of information resources in contrast to the broad information resources available for small businesses. While most of the information provided by Liaison Officers is available on the CRA website, it is not organized in the same centralized, accessible manner. Liaison Officers also provide a list of common errors made by small businesses.
+Footnote
+14
+This list is currently only accessible
+via private webpages
+such as this one.
+Surveys conducted by the CRA showed that after consultations with Liaison Officers 97% of taxpayers felt that the tools and information provided would help them better manage their tax affairs in the future.
+While tax preparers often know what they are looking for and are more familiar with technical language, they also noted having difficulty accessing CRA information resources. In focus groups, they noted that when using popular private sector search engines they could generally find the information they are looking for on CRA websites. However, when tasked with finding specific information using the search engine on Canada’s GC.ca website, the majority were unsuccessful. Focus group participants agreed that to find information using the government’s search engine, it is important to use precise and correct wording.
+When they have questions, tax preparers have access to the Dedicated Telephone Service which is open to small and medium income tax preparers who have registered for this service. The Dedicated Telephone Service connects tax preparers with experienced CRA officers who are trained to answer complex questions about the
+Income Tax Act
+. Data from the tax preparer focus group showed that only a few tax preparers used the Dedicated Telephone Service often, while 33% of survey respondents said they either had never used the service or were unaware of it. This is in contrast with the general Business Enquiries Call Centre, which 39% of tax preparers reported using often.
+Understanding information:
+CRA employees interviewed, all stressed the importance of providing condensed or prioritized information relevant to small businesses. Currently, the closest equivalent is a list of links available on the
+Checklist for new small businesses
+webpage. It contains information on the taxpayers’ fiscal obligations and planned touchpoints with the CRA. In focus groups, users both internal and external to the CRA noted the following issues with this list:
+It is found by searching the keywords ‘Checklist for small business’ which assumes that the user is aware that this resource exists.
+The materials are not organized with the user in mind and do not identify when the information would be relevant to the user. This is especially relevant for information on topics such as record keeping instructions which are much easier to implement in the beginning of the year when the user is setting up their file structure.
+The materials included in the list are dense and difficult to navigate.
+Another observation is that technical language is used throughout CRA materials which can add to small business taxpayer’s confusion. While small business taxpayers have a clear preference for plain language, the CRA tends to favour more technical language which subject matter experts feel more accurately reflects the tax act. When asked in interviews, CRA employees report that their primary reason provided for favouring technical language is that the CRA cannot compromise on its obligation to provide accurate and technically correct information. However, Treasury Board Secretariat notes that the use of plain language is a requirement of the
+Directive on the Management of Communications
+. The
+Canada.ca Content Style Guide
+specifies that published content should use “the clearest, most popular term for your audience.”
+Generally speaking, tax preparers do not encounter problems understanding CRA information resources. However, when tax preparers want to understand aspects of the
+Income Tax Act
+, they prefer using private sector resources. During focus groups, participants were asked to compare a CRA Folio with a private sector equivalent. When asked which publication provided a better understanding of the topic, most preferred the private sector publication, stating that it provided a more detailed explanation of the principle and how it was applied through a court decision.
+4.4. There is a relationship between information resources for small businesses and taxpayer’s ability to comply with their tax obligations.
+The premise of CRA information resources is that there is a positive relationship between information and
+compliance.
+Footnote
+15
+The more useful the information that can be shared with a taxpayer, the more probable the taxpayer is to report compliantly. While the evaluation was not able to demonstrate a causal link between the quality of information resources provided to small businesses and subsequent reporting compliance, several methods were used to test whether there is an indirect relationship. The evidence showed how a poor understanding of materials could impact reporting compliance.
+CPA survey respondents were asked to consider a list of 11 factors that could impact their ability to report accurately. Four of the factors related to CRA supports and materials (e.g. ambiguity in CRA information resources) and seven were factors that they could face in their larger operating environment (e.g. information from their client company was not made available to them). Of the 11 factors, the top three responses that impact compliance are related to CRA supports and materials:
+The general nature of or lack of information on highly complex tax issues: 33%
+Tax preparers’ clients poor understanding of their compliance requirements: 30%
+Timeliness of the CRA publishing information resources following a legislative or regulatory change: 24%
+Because tax preparers file based on the information provided by their clients, the impact of their clients’ poor understanding of the compliance requirements can be demonstrated through objections related to record keeping issues. Filing an objection is a formal process that taxpayers can use to request the CRA to review an assessment where the taxpayer thinks the CRA misinterpreted the facts or applied the law incorrectly. The evaluation team reviewed more than 250 objection files randomly selected from 700 business objections related files from the 2015-2017 tax years. The goal was to identify cases where taxpayers objected because of the poor quality or their misunderstanding of information resources provided by the CRA. This review revealed that almost 50% of the objections filed by businesses or on behalf of businesses are directly related to record keeping issues.
+Assuming that small business taxpayers are aiming to report accurately, this indicates that they are struggling to keep organized records that enable compliance with tax obligations. A review of information resources available to small business taxpayers on the CRA website showed that information resources on the subject of record keeping is scattered. For example, the obligation that the taxpayer must keep receipts is mentioned under the
+expense records
+sub-topic of the
+Checklist for new small businesses
+. However, separate components of record keeping related obligations such as
+keeping motor vehicle records
+and
+personal versus business expenses
+are presented under different sections of the web site. As a result, it is challenging for taxpayers to easily access a full picture of their obligations related to record keeping.
+4.5. Taxpayer’s reliance on information within CRA-certified software may be facilitating reporting errors.
+CRA-certified software enables Canadians to prepare and file their taxes and have their claims processed efficiently by the CRA. In 2018, 76% of small business taxpayers who filed their own taxes and 98% of tax preparers surveyed used tax software.
+Footnote
+16
+The CRA developed a certification process to work with industry to ensure that private sector software are compatible with the CRA’s systems.
+Footnote
+17
+The CPA survey shows that respondents have a high level of confidence in the accuracy of the software:
+Figure 4: CPA survey perceptions of tax software
+Image description
+Figure 4 outlines survey responses from CPA tax preparers concerning tax filing software. 93% of respondents believed that as a result of software, they are less likely to make calculation errors. 71% believed they are less likely to make eligibility errors. 49% believe that using software has reduced their reliance on CRA information.
+As stated on the CRA website, the current certification process which includes a disclaimer
+Footnote
+18
+, evaluates the compatibility of the software, namely whether entries in the software match with the corresponding lines of the applicable tax forms. The CRA provides supporting materials to software developers, including software certification guides for both EFILE and NETFILE that outline the testing of tax calculations, system output, web service response messaging, and functionality of additional filing services such as Auto-fill my Return, ReFILE and Express Notice of Assessment. The software developer goes through a rigorous process with the CRA to establish that the particular package is compatible with the CRA systems and meets certain standards resulting in certification. However, the CRA does not certify or review the technical accuracy of information, language or guidance provided in the software.
+During the focus group, small business taxpayers were provided a scenario to complete. They were provided a set of facts and asked to respond using a CRA-certified software that small businesses used to file their own taxes for tax year 2017. Participants were provided, and encouraged to use, CRA information resources to help complete the scenario. When completing the task, participants chose to rely on information found in the software and did not refer to the CRA materials that had been provided. When asked why they chose to use software exclusively, participants noted that they found the CRA information resources overwhelming. For these taxpayers, using CRA materials to find information was “like finding a needle in a haystack,” whereas software easily provided relevant information when they needed it and was presented in small manageable portions.
+Despite the fact that the CRA has a certification process for software, the taxpayer bears ultimate responsibility for the accuracy of their tax return. Through the scenario, the focus group participants followed the sequencing of steps outlined in the software. Taxpayers relied on the information within the software and claimed certain expenses twice or calculated incorrect amounts for expenses.
+Sequencing:
+The scenario required participants to allocate the appropriate proportion of expenses as business-use-of-home expenses. The sequencing in the software prompted users to claim a number of expenses before claiming the business-use-of-home expense. The majority of participants claimed at least one expense in its entirety, before again claiming a proportion of the same expense as business use-of-home-expense.
+Inaccurate information:
+The scenario in the focus group also asked participants to claim the correct amount of advertising expense. No participant responded to the scenario correctly.
+These observations prompted the evaluation team to conduct a further review, comparing information regarding specific expenses against the corresponding legislation and jurisprudence. Using data from the Small Medium Enterprise Research Audit project, the team reviewed five expenses identified as having the highest reassessment rates.
+The information available in the software was inconsistent with the
+Income Tax Act
+for four of the five expenses reviewed. The errors committed by taxpayers were then presented to auditors in subsequent internal focus groups, where it was confirmed that auditors often come across these precise reporting errors.
+For example, the information that taxpayers relied on stated that taxpayers are eligible for business-use-of-home expense as long as they have a home office. However, expenses related to the
+business use of a work space in your home
+are only eligible if one of the following conditions are met: 1) it is the principal place of business 2) the taxpayer uses the space only to earn their business income, and uses it on a regular and ongoing basis to meet their clients, customers, or patients. Auditors reported that they saw taxpayers claim the expense on the sole basis they have a home office over 80% of the time.
+The following must be emphasized about this analysis. First, the evaluation did not conduct a comprehensive study of softwares to identify all possible instances of inaccurate information or double dipping of expenses. Second, the evaluation did not test the taxpayer’s knowledge or understanding of the information.
+4.6. The CRA’s governance structure that administers information resources for small businesses is decentralized and has unclear responsibilities.
+The evaluation also looked at CRA’s administration of information resources for small businesses to identify what might be causing or contributing to experiences and outcomes described in
+Section 4.1
+of the report. The following CRA branches publish content related to small businesses:
+Assessment, Benefit, and Service Branch;
+Legislative Policy and Regulatory Affairs Branch; and
+Compliance Programs Branch.
+Currently, each branch is responsible for developing and maintaining its own published content. Public Affairs Branch is responsible for providing advisors who ensure that CRA published materials are formatted to meet CRA and Treasury Board Secretariat standards. This has resulted in a fragmented approach in the delivery of information resources for small businesses. For example, there are 34 separate webpages (authored by different programs) which describe updates for the tax filing season.
+There are 22 executive positions that relate directly to information resources for small businesses. The evaluation found that the performance agreements for these executives include conflicting performance objectives. Some include the expectation for executives to understand and address taxpayer needs, while others expect products and services that facilitate compliance. When executives were asked what evidence is used to measure the successful achievement of these objectives, output-based performance measures such as web pages visits were mentioned. This example does not indicate the outcome of the interaction with CRA i.e. whether the user found the information they were looking for and if they were able to action it appropriately. There was no evidence that user experience testing results were being used as feedback on performance or to drive changes to content.
+Existing performance indicators do not measure the effectiveness of CRA information resources. While there are executives who are responsible for outcomes related to the effectiveness of information resources for small businesses, there is little evidence that relevant CRA research is linked to achieving or monitoring progress on these objectives.
+The CRA’s current governance structure does not have a central entity responsible and accountable for the following key functions related to the administration of information resources for small businesses:
+Organizing online content so that it is easily found via search, condensed and presented in order of priority based on user needs
+Ongoing maintenance of links and webpage navigation
+Coordinating the development of content across branches
+Ensuring that content is written in plain language
+Monitoring whether the content is meeting the needs of relevant taxpayer segments
+Using outcome-based performance measurement data to drive future updates to content
+Not all government departments have a model where subject matter experts are principally responsible for published content. Immigration, Refugee and Citizenship Canada has adopted a model where its Public Affairs Branch is fully accountable for all external facing communications products and services. Subject matter experts provide input into what is published and ensure technical accuracy, but their communications function has final say on how it is communicated.
+The decentralized nature of CRA information resources available for small businesses indicates there is a need for a comprehensive strategy to manage such information. In interviews with senior management, no interviewee could identify a formal document which articulates a CRA-wide strategy for the development, drafting, publication and maintenance of information resources.
+Despite this, branches have independently undertaken initiatives which provide key elements of a comprehensive strategy. Efforts have already been made with respect to:
+Environmental scanning and monitoring:
+The CRA regularly scans the environment to identify taxpayer needs and perceptions of service quality. However, there is no evidence of follow up studies that assess whether the interventions implemented were effective, used, or meet a genuine need.
+Delivering segmented client-centric products:
+The personas developed by the Public Affairs Branch are a foundational activity for designing and developing client-centric products. However, there is limited evidence that content authors are using the personas in the content development process. CRA information resources are better aligned to serve the needs of the Wayne and Beatrice personae than the Nate persona.
+Incorporating user testing and feedback into ongoing product development:
+In collaboration with Treasury Board Secretariat, Public Affairs Branch is increasingly conducting research focused on user experiences in completing tax and benefits-related tasks. However, not all branches have the capacity or expertise to conduct user-experience testing which may explain why it has yet to be integrated into the CRA’s performance measurements for information resources for small businesses.
+4.7. Frontline staff have knowledge and experience which can drive improvements to information resources
+There are numerous groups of frontline staff across the CRA that interact directly with small business taxpayers including but not limited to:
+Business Enquiries Call Centre agents field telephone calls from small business operators and their representatives;
+Office Audit and Small Business Auditors review the reporting accuracy of small businesses;
+Appeals officers review taxpayer objections and appeals; and
+Liaison Officers provide seminars and information to help small businesses in their reporting compliance.
+Given their frequent interactions with taxpayers, frontline staff have a wealth of information about the types of mistakes taxpayers are making and can provide valuable insight into the experiences of taxpayers. Frontline staff are often not consulted as a part of the process of developing information resources. In interviews, frontline staff repeatedly noted that most taxpayers with low tax literacy routinely make the same basic mistakes which include:
+Claiming one’s own lunches or groceries as a meal and entertainment expense;
+Claiming one’s commute from their home to place of business as a motor vehicle expense; and
+Claiming interest from one’s personal credit card.
+From the perspective of frontline staff, there are many different ways taxpayers can meet their obligations but there are a few known, common ways small business taxpayers make mistakes. During the consultations, frontline staff offered suggestions to help small business taxpayers avoid known pitfalls and meet their obligations. For example, a list of do’s and don’ts dedicated to people starting a business and focused on ‘what not to do’ rather than on ‘what to do’.
+Figure 5: Possible stakeholders of a CRA-wide strategy to administer information resources for small businesses
+Image description
+Figure 5 is a graphic that lists possible CRA stakeholders who can be consulted when drafting information resources. They are categorized into frontline staff and technical experts. Stakeholders from frontline staff include call centre agents, auditors, liaison officers, and appeals officers. Technical experts include public affairs branch staff (who specialize in plain language writing and web analytics), user experience specialists, the Strategy, Innovation, and Integration Branch, and other subject matter experts across the CRA.
+Recommendation 1
+The Public Affairs Branch in collaboration with the Service, Innovation and Integration Branch with program branches should formalize a coordinated strategy and action plan across Branches with responsibility for information resources for small businesses based on expertise in:
+User experience and priorities;
+Plain language writing;
+Outcome-based performance measures;
+Knowledge of taxpayers’ understanding and experiences; and,
+Subject matter.
+The implementation of this strategy should ensure the development and publication of information resources that:
+Are tailored to different levels of tax literacy (i.e., personae); and
+Effectively incorporates feedback received directly from small business taxpayers and tax preparers and from CRA employees who interact with small business taxpayers and tax preparers.
+Management response
+The Public Affairs Branch and the Service, Innovation and Integration Branch agree with this recommendation. In particular, we see the Web Optimization Strategy and the People First philosophy as key components of this action plan. Both the Web Optimization Strategy and the Agency’s People First transformation agenda seek to address many of the same problems outlined in this report, as their main objectives are to improve the quality of our client service, including online information services for Canadians. These initiatives provide a framework within which specific actions to improve information resources for small businesses will occur.
+The Public Affairs Branch will work with the Service, Innovation and Integration Branch and other implicated branches to formalize a coordinated strategy and action plan to make it easier for small business owners to find and understand answers to questions related to taxes and benefits. The strategy will be completed by Q1 of 2021-22.
+As an outcome of the strategy, the Public Affairs Branch will deliver a small business content optimization project by June 30, 2021. This includes the development and implementation of:
+A review of how clients perform while visiting CRA’s web presence on Canada.ca when accessing information services related to high-demand questions.
+Improved content, navigation, and search to make it easier for businesses to find the right information quickly based on research findings.
+Omni-channel improvements to small business information to call centres, written communication products and chat channels.
+A communications strategy focused on the varied information needs specific to small and medium sized businesses.
+When developing new information products, the Service, Innovation and Integration Branch will work with the Public Affairs Branch and program branches to ensure client and employee feedback, including the Serving You Better consultations, are leveraged, ensuring the improvements are directly linked to what the CRA has heard and follow the principles of CX outlined in the CRA’s Service Policy Framework.
+To achieve a seamless and effective experience across channels, the Digital Design and Production Directorate within the Public Affairs Branch, in collaboration with the Digital Services Directorate within the Assessment, Benefit, and Service Branch, will leverage a new governance to provide horizontal oversight and management of CRA’s information resources for small businesses.
+These actions will be delivered with the support of:
+Individual Returns Directorate - Assessment, Benefit, and Service Branch
+Call Centre Services Directorate – Assessment, Benefit, and Service Branch
+Business Returns Directorate – Assessment, Benefit, and Service Branch
+Digital Services Directorate – Assessment, Benefit, and Service Branch
+Business Compliance Directorate - Collections and Verification Branch
+Recommendation 2
+The Assessment, Benefit, and Service Branch, with the Compliance Programs Branch and Collections and Verification Branch, should review and assess the extent that information in CRA-certified software impacts reporting errors and provide a report based on their analysis. The Legislative Policy and Regulatory Affairs Branch should support the analysis by providing legislative interpretation.
+Management response
+The Compliance Programs Branch and Collections and Verification Branch will identify common errors or trends that impact compliance for small businesses and provide this information to the Assessment, Benefit, and Service Branch by the end of September 2020. The Assessment, Benefit, and Service Branch will facilitate information sessions with software developers to discuss these errors and trends with a goal of enhancing the information provided in the software products, where feasible. This will be an annual ongoing process with the first round completed by March 31, 2021.
+5. Conclusion
+The CRA continues to strive to provide better service to Canadians. Providing information resources for small businesses is one way that the CRA provides information and support to Canadians to support tax compliance. The findings presented in this report show that while the CRA information resources for small businesses are relevant to Canadians, different small business taxpayer segments have different information needs.
+The CRA has developed persona that represent prototypical characteristics of distinct groups of taxpayers and the evaluation provides further support for many attributes of these segments. The CRA provides extensive information but this is not necessarily what the low literacy small business taxpayer segment needs. Meanwhile, tax preparers with a higher tax literacy and more complex tax issues tend to rely on CRA information resources as one source amongst many and prefer to use private sector materials when available.
+There are opportunities for the CRA to improve Canadians’ ability to find and understand the information it provides as well as the type of information made available. Difficulty accessing information resources may impact small business taxpayers’ ability to comply with their tax obligations and can impact workloads for call centres, office and small business auditors, and appeals officers. Because of its wide reach, improvements to information provided in CRA-certified software could reduce unintentional reporting errors.
+The evaluation findings show that information resources for small businesses should be:
+designed and delivered with various end-users in mind
+tailored to meet the needs of users who have different levels of tax literacy
+leverage existing expertise of CRA employees who interact with small business taxpayers and tax preparers to enable continuous improvement
+Designing a horizontal strategy with clear responsibilities and central oversight to support the consistent administration of information resources for small businesses will help the CRA to deliver resources, materials and services that respond to the needs of Canadians.
+6. Acknowledgements
+In closing, we would like to acknowledge, recognize, and thank the Assessment, Benefit, and Service, Compliance Programs, Legislative Policy and Regulatory Affairs, Service, Innovation, and Integration, Collections and Verification, and Appeals, and Legal Services for the time dedicated and the information provided during the course of this engagement. Finally, we would also like to thank the representatives of the Chartered Professional Accountants (CPA) for their insights as well as their members who took the time to thoughtfully complete our survey.
+7. Appendices
+Appendix A: Evaluation issues, research questions and methodologies
+Evaluation issues, research  questions and methodologies
+Issue
+Research questions
+How    effective are the CRA’s information resources for small businesses?
+Are    CRA’s information resources for small businesses relevant to taxpayers?
+How    effective are the CRA’s information resources for small businesses?
+To what extent can taxpayers, tax professionals, and tax preparers access CRA’s information?
+How    effective are the CRA’s information resources for small businesses?
+Is there a relationship between information resources for small businesses and tax compliance?
+How effectively does the CRA manage its information resources for small businesses?
+Is the related governance appropriate?
+How effectively does the CRA manage its information resources for small businesses?
+Are the monitoring and reporting effective?
+How effectively does the CRA manage its information resources for small businesses?
+What factors impact these activities and whether there are any downstream impacts of these efforts?
+The following research methodologies were employed to answer the research questions identified in the table above:
+Document review and data analysis:
+Documents reviewed included tax guides, CRA web pages, jurisprudence, applicable legislation, corporate data and reports. In addition, the team reviewed 265 objections filed by businesses or on behalf of businesses.
+Internal interviews and focus groups:
+Interviews were conducted with CRA employees, managers and executives across Assessment, Benefit, and Service Branch, Compliance Programs Branch, Compliance and Verification Branch, Legislative Policy and Regulatory Affairs Branch and Public Affairs Branch. The team also facilitated 10 focus group sessions in regional tax services offices. Participants in interviews and focus groups included representatives from:
+Small and Medium Enterprises Directorate who are responsible for supporting the Liaison Officer and Office Auditor programs. Liaison Officers service is offered to owners of small businesses taxpayers to help them understand their tax obligations. Office auditors are responsible for ensuring that small-sized businesses comply with the tax laws administered by the CRA.
+Objections Program Division who are responsible for resolving disputes between taxpayers and the CRA;
+Payroll Auditors who examine businesses’ books and records to make sure they support the amounts filed in tax returns; and
+Business Enquiries Call Center who respond to taxpayer enquiries related to businesses.
+External focus groups:
+Two in-person focus groups were conducted by an independent third-party. One group gathered the perspective of taxpayers who prepared their own taxes and the other of tax preparers whose clients are small businesses. The focus groups were asked to answer scenario-based problems and were facilitated to highlight:
+User preferences;
+Perception of CRA products and services;
+Challenging topics;
+Use of CRA information resources in light of the participants’ reliance on tax software.
+The findings were used to develop survey questions which sought to validate and quantify the results from the focus group.
+External survey:
+The Program Evaluation team partnered with the Chartered Professional Accountant (CPA) Canada to administer an online survey. 291 CPA members completed the survey in April 2019.
+External interviews:
+Other government departments were also interviewed, including:
+Immigration, Refugees and Citizenship Canada – whose Public Affairs branch operates under a centralized governance structure;
+The Treasury Board Secretariat’s Digital Transformation Office – TBS is responsible for overseeing the Government of Canada’s web presence on Canada.ca. Given this context, the team sought to identify any constraints in proposing modifications to the CRA’s website; and
+The Taxpayer’s Ombudsman Office – to gather data on any complaints that they may have received regarding CRA information resources.
+Limitations:
+The Survey population was originally intended to include both tax preparers and T1 self-employed individuals who prepared their own taxes. However, based on the findings from the focus groups, the T1 self-employed individuals who prepared their own taxes did not have sufficient tax literacy to provide informed survey responses. Therefore, the survey was re-scoped to include only tax preparers.
+Appendix B: Key stakeholders in the administration of CRA information resources for small businesses
+Key stakeholders in the  administration of CRA information resources for small businesses
+Stakeholder - Branch
+Stakeholder - Division
+Responsibility
+Assessment, Benefit, and Service Branch
+The Information Programs Division
+Authors and develops most of the CRA’s text resources. This division    is responsible for approximately 5,500 web pages and 1,700 paper products. Their    objective is to provide Canadians with tax information that they need to meet    their tax obligations and access their benefit and credit entitlements.
+Assessment, Benefit, and Service Branch
+Call Centre Services Directorate
+Develops, maintains, and improves national information services and    products that assist individuals and businesses in voluntarily complying with    federal, provincial, and territorial tax legislation, and in receiving    legislated credit and benefit entitlements. This directorate is responsible    for administering the Business Enquires Call Centre.
+Compliance Programs Branch
+Small Medium Enterprises Directorate
+Supports the Small and Medium Enterprises Directorate (SMED) programs    by updating and maintaining external web pages and helping identify external    communication opportunities through discussions with the Public Affairs Branch.    SMED also provides direction, analysis, policy analysis and support to the    Liaison Officer, Small Business Audit and Office Audit programs.
+Legislative Policy and Regulatory Affairs Branch
+Income Tax Rulings Directorate
+Authors the CRA’s folios and publishes technical interpretations of    the
+Income Tax Act
+. The folios are primarily intended for tax preparers. The Income Tax Rulings Directorate will draft changes to the folios, whenever there is a legislative    change or a change in position as a result of a court decision or a ruling,    and follows this by a review from key internal program areas at the CRA and a    public comment period. This directorate also oversees the Dedicated Telephone    Service which provides support to small businesses through tax preparers.
+Public Affairs Branch
+The Terminology working group
+Supports CRA employees in written communications by setting the    standard terminology and writing style; the working group consists of    representatives from every CRA Branch and Region to discuss language-related    issues that affect the CRA.
+Public Affairs Branch
+The Executive Correspondence and Language Services Division
+Owners of Plain language at the CRA and the Writer’s Toolbox, who are    responsible for making sure that CRA products are clear and relevant.
+Public Affairs Branch
+The Public Opinion Research and Environmental Analysis Division
+Conducts external research for the CRA and is responsible for helping    the CRA understand its audiences, their needs, what influences them and the    implications on the CRA by conducting research presented in the Annual    Corporate Research and user experience reports.
+Public Affairs Branch
+The Web Publishing Division
+Responsible for the delivery of CRA’s products and services on the    Internet.
+Service, Innovation and Integration Branch
+Chief Service Officer Secretariat
+Guides the development and transformation of CRA programs and    services to improve the service experience of Canadians both from a    functional and emotional perspective. Designs CRA programs and services from the    perspectives of Canadians and their potential interactions with CRA programs    and services. And, creates service outcomes that uphold – and go beyond –    what is outlined in the Taxpayers’ Bill of Rights and pro-actively leverage    the feedback the CRA gets from Canadians in program and service design and    delivery.
+External stakeholders
+Provincial governments, tax firms and associations
+Provide, validate, and sign-off on information and products with the CRA.
+Appendix C: Glossary
+Glossary
+Term
+Definition
+Business    use-of-home-expense
+Expenses related to running a    business out of your home. Business-use-of-home-expenses are eligible as long    as you meet one of the following conditions:
+the    location is your principal place of business or
+you use    the space only to earn your business income, and
+you use it on a regular and ongoing basis to meet    your clients, customers, or patients.
+Client-centric approach
+Approach to doing business that focuses on    creating a positive experience for the client by understand people's needs    and expectations, which will produce better programs and services.
+CRA corporate business    plan
+Provides an overview of the CRA's objectives, strategies, performance    expectations and financial projections.
+Dedicated telephone service
+Service that offers free technical help for small and medium income    tax preparers. Experienced CRA officers are available by telephone to help    tax preparers find answers to complex questions about the
+Income Tax Act
+.
+Income tax folio (Folios)
+Series of technical publications that reflect the Canada Revenue    Agency's interpretation of federal income tax provisions as they relate to    various topics.
+Information resources
+Tax related information products that are made available to taxpayers    to facilitate their understanding on how to comply with their tax    obligations.
+Liaison officer service
+Service offered to owners    of small businesses taxpayers to help them understand their tax    obligations through in-person visits or group seminars.
+My Business Account
+Secure    and convenient online application available for businesses and organizations    to access their Canada Revenue Agency account information.
+Persona concept
+Fictional    character designed to be representative of specific segments of a population.    At the CRA this principle has been used to develop five personas that are    designed to be representative of Canadian taxpayers.
+Represent a Client
+Service    that provides tax preparers and representatives with secure and controlled    online access to tax information on behalf of individuals and businesses.
+Service Management Strategy
+The CRA’s Service Management    Strategy (SMS) came into effect in 2015 and is a requirement of The TBS    Policy on Service. The policy requires every federal department and agency to    have a formal, multi-year SMS which is to be reviewed and updated annually.
+Small business
+Unless otherwise indicated, the    term “small business” refers to both T1 self-employed filers and T2    businesses.
+Usability testing
+Technique used in user-centered    interactive design to evaluate a product by testing it with users.
+Footnote 1
+CRA Departmental Plan 2019-2020
+Return to footnote
+1
+Referrer
+Footnote 2
+Serving Canadians Better Report 2019
+Return to footnote
+2
+Referrer
+Footnote 3
+CRA Departmental Plan 2019-2020
+Return to footnote
+3
+Referrer
+Footnote 4
+Randstad (2016), “
+Workforce 2025: the future of the world of work
+”
+Return to footnote
+4
+Referrer
+Footnote 5
+Statistics Canada (2004), “
+Canadian Individual Taxpayers: a Changing Proﬁle
+”
+Return to footnote
+5
+Referrer
+Footnote 6
+CD Howe (2017) “
+The Knowledge Deficit about Taxes: Who it affects and what to do about it
+”
+Return to footnote
+6
+Referrer
+Footnote 7
+The remaining 4% of small business taxpayers file by paper.
+Return to footnote
+7
+Referrer
+Footnote 8
+Serving Canadians Better Report 2019
+Return to footnote
+8
+Referrer
+Footnote 9
+Canada Revenue Agency, Agency Data Warehouse, T1 General Data
+Return to footnote
+9
+Referrer
+Footnote 10
+Treasury Board Secretariat “
+Policy on Results
+”
+Return to footnote
+10
+Referrer
+Footnote 11
+Survey results showed that tax preparers had the following preferences regarding information resources:
+Text resources-CRA: 46%, Private sector: 54%, Webinars-CRA: 5%, Private sector: 95%, Video-CRA: 8%, Private sector: 92%
+Return to footnote
+11
+Referrer
+Footnote 12
+Each taxpayer must take reasonable steps to ensure that their return is true, correct, and complete. Nesbitt v R 105 FTR 233, 96 DTC 6045.
+Return to footnote
+12
+Referrer
+Footnote 13
+Corroborated by Consumer Experience research conducted by
+Forrester
+in 2019.
+Return to footnote
+13
+Referrer
+Footnote 14
+The errors listed were corroborated by both audit re-assessments and auditor interviews as the most common.
+Return to footnote
+14
+Referrer
+Footnote 15
+Corroborated by Consumer Experience research conducted by
+Forrester
+in 2019.
+Return to footnote
+15
+Referrer
+Footnote 16
+Mandatory electronic filing legislation introduced in 2012 {see ITA S.150.1(1)} requires all tax preparers who prepare more than 10 tax returns for profit to electronically file.
+Return to footnote
+16
+Referrer
+Footnote 17
+Software Certification Process
+,
+EFILE
+,
+NETFILE
+Return to footnote
+17
+Referrer
+Footnote 18
+CRA disclaimer related to the use of software
+“Your responsibilities using a certified software product”
+Return to footnote
+18
+Referrer
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2020-10-16

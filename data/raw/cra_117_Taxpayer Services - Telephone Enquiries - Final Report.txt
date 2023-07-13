@@ -1,0 +1,117 @@
+Taxpayer Services - Telephone Enquiries
+Final Report
+Corporate Audit and Evaluation Branch
+January 2010
+Executive Summary
+Introduction
+Objective and Scope of Audit
+Findings, Recommendations and Action Plans
+1.0 Performance Measurement, Monitoring and Reporting
+1.1 Accuracy
+1.2 Interactive Voice Response (IVR)
+2.0 Client Service
+2.1 National Quality and Accuracy Learning Program (NQALP)
+2.2 Service Complaints
+Conclusion
+Executive Summary
+Background:
+The Taxpayer Services Directorate (TSD) of the Taxpayer Services and Debt Management Branch is mandated to develop national programs, products, and services that provide access to accurate and timely information to taxpayers, businesses, and benefit recipients to facilitate their voluntary compliance. The service channels used to deliver the TSD's mandate are: electronic, telephone, publication, and in-person.
+There is joint headquarters and regional accountability for the provision of services to taxpayers. Headquarters develops and supports national programs, policies and procedures. Regions deliver service programs through field offices and call centres. The Taxpayer Services Telephone Program is the largest of the programs for which TSD is responsible by volume of enquiries, budget, and number of employees. It consists of Individual, Business, Goods and Services Tax Credit and Canada Child Tax Benefit enquiry lines.
+A key component of call centre management is the provision of quality service by telephone agents. TSD has defined a quality call as one that meets the needs of the taxpayer, the Agency, and is fully accurate, both technically and procedurally.
+As noted by the Treasury Board Secretariat, the telephone channel is the preferred method of service delivery of the Canadian public. The CRA (Canada Revenue Agency) Service Strategy confirms that the telephone channel is and will remain a cornerstone of the Agency's approach. In 2007-2008, telephone enquiries represented more than 16 million interactions with taxpayers.
+Objective and Scope:
+The objective of the audit was to assess whether there are appropriate controls in place to achieve the goals and objectives of the telephone enquiries service. The focus of the audit was on the controls in place to measure, monitor and report on performance, quality service and human resource management (HRM).
+Although HRM was included initially as an area of focus, analysis of preliminary interviews indicated that issues related to HRM are horizontal within the CRA and, consequently, beyond the scope of this audit.
+This audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Conclusion:
+Controls currently in place to ensure the achievement of goals and objectives for the telephone enquiries program are focused primarily on timeliness and caller accessibility.
+Controls with regard to the accuracy of information provided by telephone agents to callers include the ongoing external accuracy survey and the National Quality and Accuracy Learning Program (NQALP). However, these controls are not fully integrated within a context of performance goals from a program-to-agent level. An indicator for accuracy of agent-provided information should be clearly defined and integrated into the program accountability framework to provide management with a sufficient level of assurance and enable reporting on performance in a more comprehensive manner.
+The guidelines for the NQALP should be clarified to ensure consistency in application and enhance the integrity of data collected to support the measures related to accuracy. During the examination phase of the audit, efforts were underway in the TSD to improve the guidelines for clarity and application.
+While controls are in place to manage written service complaints, including those received through the Agency's Service Complaints Program, complaints received via the telephone channel at the call centre level should be tracked and integrated with written complaint data to provide a holistic assessment of this indicator of taxpayer satisfaction levels.
+The Interactive Voice Response (IVR) technology was implemented to provide callers with a self-serve option to resolve non-complex enquiries without agent intervention. Clearly defined goals and objectives for IVR system should be documented in order to determine whether or not expected benefits have been achieved.
+Action Plans:
+The Branch will, by October 30, 2010, update the program accountability framework. This update will include establishing measures for accuracy. These will be used to monitor and report at the program, call centre management and agent levels. Guidelines for the NQALP, as noted during the course of the audit, have been clarified. Procedures in regards to the collection and reporting of complaints at the call centre level will be developed and issued by June 2010. The goals and objectives for the IVR system have now been documented.
+Introduction
+The mandate of the Taxpayer Services Directorate (TSD) of the Taxpayer Services and Debt Management Branch is to develop national programs, products, and services that provide access to accu
+rate and timely information to taxpayers, businesses, and benefit recipients in order to facilitate and promote their voluntary compliance. This mandate is delivered through the electronic, telephone, print and in-person service channels.
+Based on the Canada Revenue Agency's (CRA) Service Strategy to migrate clients to more affordable, accessible and equitable service channels, efforts are continuing to move clients from the print and in-person channels to the more cost effective electronic and telephone enquiries services. The result is that telephone services have an increasingly critical role in the TSD's ability to fulfill its mandate and contribute to CRA's core outcome of compliance.
+Over the past decade and given the importance of the telephone channel, the Directorate has demonstrated a commitment to continuous service improvement by implementing significant changes in the delivery of telephone services. Some of these changes include:
+Investment in call centre technology/infrastructure such as an Interactive Voice Response (IVR) system, and Computer Telephony Integration (CTI);
+Implementation of industry call centre management practices such as telephone performance indicators;
+Conversion to national 1-800 networks;
+Consolidation from 48 sites to the current structure of nine larger call centres consisting of six Individual and three Business sites;
+Moving to a flexible HR structure to meet call demand more effectively; and
+Channel integration of telephone and Web services.
+As noted by the Treasury Board Secretariat, the telephone channel is the preferred method of service delivery of the Canadian public. The CRA Service Strategy confirms that the telephone channel is and will remain a cornerstone of the Agency's approach. Telephone enquiries represented more than 16 million interactions with taxpayers in 2007-2008.
+A key component of call centre management is the provision of quality service by telephone agents. TSD has defined a quality call as one that meets the needs of the taxpayer, the Agency, and is fully accurate, both technically and procedurally.
+Objective and Scope of Audit
+The objective of the audit was to assess whether there are appropriate controls in place to achieve the goals and objectives of the telephone enquiries service. The focus of the audit was on the controls in place to measure, monitor and report on performance, quality service and human resource management (HRM).
+Although Human Resources Management (HRM) was included initially as an area of focus, analysis of preliminary interviews indicated that issues related to HRM are horizontal within the Canada Revenue Agency and, consequently, beyond the scope of this audit.
+Examination work focused on the Individual and Business lines within the TSD. The examination phase took place from September 2008 to February 2009 at HQ and in six call centres (two Business Enquiries and four Individual) in the Atlantic, Ontario and Pacific regions.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings, recommendations and action plans
+1.0 Performance Measurement, Monitoring and Reporting
+Overall, the goals and objectives of the Telephone Enquiries Program are defined within the TSD's mandate, namely accessibility, accuracy, and timeliness. They are aligned with the Agency's Corporate Business Plan as well the CRA Service Strategy. The performance measurement framework is based on these goals and objectives.
+The performance measures and indicators for Telephone Enquiries Program focus on accessibility and timeliness. Controls are in place to ensure the reliable measurement and monitoring of these indicators. These include ongoing local and national real-time management; weekly call-centre network management discussions of progress and challenges; and the establishment of agent-hour delivery accountabilities.
+1.1 Accuracy
+The expected results of the Telephone Enquiries Program, as outlined in the TSD mandate, are accessibility, timeliness, and accuracy in information provided. Controls are in place and working well to measure performance for accessibility and timeliness. However, current controls in place that relate to the provision of accurate information by telephone agents are not fully integrated within a context of a performance goal from a program-to-agent level to provide a sufficient level of assurance that this key service element is recognized, achieved, and reported to the extent possible.
+The ongoing external accuracy survey of telephone agent responses intended to assess agent accuracy at the program level is limited in scope in terms of capturing non-account specific enquiries and does not include a target against which results can be measured. While the National Quality and Accuracy Learning Program (NQALP) is aimed at improving agent call-handling skills including an assessment of whether an agent's call is fully, partially, or incorrect technically in terms of the information provided, it is not used to measure accuracy of the information provided at the program level. A new corporate performance indicator established in 2008-2009 measures the accuracy of telephone agent reference material updates, but does not include the accuracy of information provided by agents to callers.
+Management needs a sufficient level of assurance on the accuracy level of information provided by agents to mitigate the risks of taxpayer errors in the preparation of tax and benefit returns. Accuracy of information is important to promote the voluntary compliance of taxpayers, businesses and benefit recipients within the self-assessment system.
+Performance reporting is not as complete as it should be because an indicator for accuracy of service delivered through the telephone channel is not clearly defined and fully integrated into the program accountability framework.
+Recommendation
+An indicator for accuracy of agent-provided information should be clearly defined and fully integrated into the program accountability framework to provide management with a sufficient level of assurance and enable reporting on performance in a more comprehensive manner.
+Action Plans
+The Branch will, byOctober 30, 2010, update the program accountability framework. This update will include establishing measures for accuracy. These will be used to monitor and report at the program, call centre management and agent levels. This will support ongoing quality and accuracy of agent-assisted telephone responses.
+1.2 Interactive Voice Response (IVR)
+The automated 24-hour IVR service offers taxpayers a self-serve option within the telephone channel by enabling certain non-complex enquiries to be answered without agent intervention. The TSD's primary purpose in using the IVR system as part of the telephone service strategy is to extend service beyond regular business hours. The use of IVR during normal business hours also contributes to increased accessibility by providing callers with the opportunity to self-serve rather than speak to an agent.
+While the achievement of the CRA Service Strategy is contingent on taxpayers being able and willing to self-serve via options including IVR services, it was noted during the audit's examination phase that clearly defined goals and objectives for the IVR system had not been documented. The TSD's existing IVR performance metrics do not provide the level of granularity required to monitor the effectiveness of the service. As a result, management may not be able to assess whether this tool is being used to its full potential to efficiently and effectively relieve call volume to agents, reduce costs, and increase overall service satisfaction.
+Recommendation
+The TSD should document IVR goals and objectives to enable management to measure, monitor, and assess the achievement of expected results.
+Action Plans
+IVR Goals and Objectives have now been documented.
+2.0 Client Service
+The TSD tracks taxpayer expectations such as channel preference and call drivers (reasons for calls to the CRA) through its annual Profile of Enquiries study. In conjunction with public opinion research and the analysis of Service Complaints, this study allows the directorate to factor taxpayer expectations regarding the telephone channel into its service delivery plans. The public reporting framework for telephone enquiries results is aligned with the identified taxpayer expectations in terms of access to timely and accurate information.
+National call-centre network management discussions of progress and challenges are conducted weekly. Information collected through interviews indicates that topics of discussion also include call drivers.
+2.1 National Quality and Accuracy Learning Program (NQALP)
+The National Quality and Accuracy Learning Program (NQALP) is a tool developed by the TSD to monitor and enhance the call handling skills of telephone agents. Listening to agent calls, performed on site, is a key component of the NQALP.
+There are two methods of call listening: remote and side-by-side. Remote listening occurs in three of the nine Taxpayer Services call centres. Participation is voluntary on the part of agents. This method involves listening to both the agent and the taxpayer from a remote location. Side-by-side listening is mandatory for all agents that do not participate in remote listening. Side-by-side listeners hear the agent portion of the call only. Listeners and NQALP team leaders noted that the provision of immediate feedback to agents by listeners was one advantage of the side-by-side method; but, the inability to hear both parties was a disadvantage because of the relative difficulty of evaluating the appropriateness and accuracy of the agents' responses at times. Efforts are currently underway in the TSD to analyze and determine the most effective call listening methodology, including consideration of constraints that may impact the methodology.
+Listeners employing either of these methods use a common checklist to evaluate various elements of the agent's call handling skills. Started in 2008, data from the completed checklists is entered into a national database. Guidelines for the use of the checklist required refinement to provide clarity of definition and application. Consequently, inconsistency in the interpretation of various checklist elements among listeners has had an impact on the integrity of data previously collected. In addition, differences exist with regard to the duration and quality of training provided to listeners. During the examination phase of the audit, efforts were underway in the TSD to improve the guidelines for clarity and application.
+A call centre level accountability for the performance of a minimum number of listening sessions per agent has been established. However, analysis of the data is limited to the monitoring of adherence to this standard and the publication of semi-annual report snapshots that provide a high-level analysis in respect of trends and comments. As a result, opportunities may have been missed to assess the delivery of quality service elements including agent accuracy and to identify training needs.
+Recommendations
+TSD should ensure clarity of definition and consistency of application of the national guidelines for NQALP listening and listener training to provide quality data for analysis. Further analysis should be conducted to determine the most effective listening methodology.
+TSD should integrate the expectations of its NQALP into its program accountability framework to support performance reporting.
+Action Plans
+We are committed to providing ongoing updates in respect of changes to NQALP guidelines as well as findings from our analysis. In terms of identification of effective listening methodology our research efforts are on-going as well. Changes in respect of enhanced side-by-side listening are expected by spring 2010 which, in our view, will address the concerns outlined under 2.1, and 1.1 of this report.
+Action Plan to be taken noted under recommendations to section 1.1 of this report.
+2.2 Service Complaints
+The TSD acknowledges the importance of monitoring public satisfaction as a key indicator of its performance in line with its mandate to provide timely, accessible, and accurate service to the public. Controls are in place and work well to ensure that written complaints relating to telephone services, including those received through the Agency's Service Complaints Program, are tracked and analyzed.
+Service-related complaints received via the telephone channel (i.e. verbal complaints received by telephone agents at the call centres) are handled through locally established procedures as permitted by the TSD policy. However, the policy does not include a reporting requirement. Comments collected through interviews indicate that the subject matter of complaints received via the telephone channel may differ from that of written complaints. Consequently, data tracking and analysis of the written channel complaints may not reflect the full range of taxpayer complaints and opportunities for identifying agent training needs and improving service may be missed.
+Recommendations
+The TSD should track and analyze complaints received via the telephone channel at the call centre level to identify training needs.
+The TSD should integrate and analyze written and verbal complaints for a holistic picture of taxpayer satisfaction.
+Action Plan
+Procedures for the reporting of local verbal complaints will be developed for June 2010. The analysis and reporting of these complaints will then form part of our current “service complaint” workload and analysis.
+Conclusion
+Controls currently in place to ensure the achievement of goals and objectives for the telephone enquiries program are focused primarily on timeliness and caller accessibility.
+Controls with regard to the accuracy of information provided by telephone agents to callers include the ongoing external accuracy survey and the National Quality and Accuracy Learning Program (NQALP). However, these controls are not fully integrated within a context of performance goals from a program-to-agent level. An indicator for accuracy of agent-provided information should be clearly defined and integrated into the program accountability framework to provide management with a sufficient level of assurance and enable reporting on performance in a more comprehensive manner.
+The guidelines for the NQALP should be clarified to ensure consistency in application and enhance the integrity of data collected to support the measures related to accuracy. During the examination phase of the audit, efforts were underway in the TSD to improve the guidelines for clarity and application.
+While controls are in place to manage written service complaints, including those received through the Agency's Service Complaints Program, complaints received via the telephone channel at the call centre level should be tracked and integrated with written complaint data to provide a holistic assessment of this indicator of taxpayer satisfaction levels.
+The Interactive Voice Response (IVR) technology was implemented to provide callers with a self-serve option to resolve non-complex enquiries without agent intervention. Clearly defined goals and objectives for IVR system should be documented in order to determine whether or not expected benefits have been achieved.
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2010-07-09

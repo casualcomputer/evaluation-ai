@@ -1,0 +1,190 @@
+Internal Audit – Horizontal – Protection and Use of Information for Memoranda of Understanding relating to Driver and Vehicle Registration Information provided by the Provinces
+Final Report
+Audit, Evaluation, and Risk Branch
+March 2018
+Table of Contents
+Executive summary
+Introduction
+Focus of the audit
+Objective
+Scope
+Audit criteria and methodology
+Findings, recommendations, and action  plans
+Collection, Access and Use of Information
+Security of Information
+Conclusion
+Acknowledgement
+Appendices
+Appendix A: Audit criteria and methodology
+Executive summary
+The Canada Revenue Agency (CRA) enters into memoranda of understanding and other agreements with federal, provincial and territorial departments and agencies to improve the efficiency and effectiveness of program delivery.
+In Canada, driver licensing and motor vehicle registration is a provincial and territorial responsibility. The provincial organizations that provide driver licence and vehicle registration information to the CRA using memoranda of understanding are:
+The Insurance Corporation of British Columbia
+Ministry of Service Alberta
+The Ministry of Transportation of Ontario
+Service Nova Scotia
+Saskatchewan Government Insurance
+The CRA uses driver licence and vehicle registration information to administer the Income Tax Act, the Excise Tax Act, the Canada Pension Plan, and the Employment Insurance Act. Regional programs for the Collections and Verification Branch, the Domestic Compliance Programs Branch, the International, Large Business and Investigations Branch, and the Appeals Branch use Provincial Registry information for audit, investigation and collection purposes. The Business Intelligence and Quality Assurance Division within the Domestic Compliance Programs Branch also uses the information to help improve its ability to select high risk files. The Strategy and Integration Branch is responsible for the overall administration of the memoranda.
+This audit addresses driver and vehicle information obtained from British Columbia, Alberta, Ontario, and Nova Scotia. Except for Saskatchewan which was the subject of a recent audit
+Footnote
+1
+, these are the only four provinces with which the CRA has a memorandum regarding the exchange of driver and vehicle information.
+The objective of this audit was to provide reasonable assurance that the CRA is in compliance with the provisions of the memoranda regarding the collection, access, use, storage, retention, and disposition of the information received, including the application of CRA security standards.
+Summary of recommendations
+Overall, the CRA is in compliance with the memoranda terms and CRA security standards concerning the protection and security of requested vehicle and driver licence information. However, this report also includes opportunities for improvement in administrative staff awareness of retention periods and marking of protected information.
+Management response
+The Strategy and Integration Branch and regional management of the impacted tax services offices that access vehicle and driver licence information agree with the recommendations in this report and have developed related action plans.
+Document retention
+In some Tax Services Offices in the Pacific, Prairie and Ontario regions that were examined, where transitory documents were found, confirmation of the applicable Records Disposition Authorities for each memorandum was undertaken and action has been taken to delete the documents that were previously being held. The retention and disposition requirements are being reviewed by the designated staff and managers who access vehicle and driver licence information and an annual email reminder will be sent to them to review the status of their information with respect to disposition. This activity will be implemented by December 2018.
+Marking of Documents
+In each Tax Services Office where inadequate security marking of documents was identified, action has already been taken to properly mark the required documents. This was completed in the Pacific Region on October 31, 2017, in the Prairie Region on October 25, 2017 and in the Atlantic Region on
+December 4, 2017
+.
+The Audit, Evaluation, and Risk Branch has determined that these action plans are reasonable to address the recommendations.
+Introduction
+The Canada Revenue Agency (CRA) enters into memoranda of understanding and other agreements with federal, provincial and territorial departments and agencies to improve the efficiency and effectiveness of program delivery. Driver licence and vehicle registration information from the provinces is used by the CRA to administer the Income Tax Act, the Excise Tax Act, the Canada Pension Plan, and the Employment Insurance Act.
+The provincial organizations that provide driver licence and vehicle registration information through the memoranda of understanding are:
+the Insurance Corporation of British Columbia;
+the Ministry of Service Alberta;
+the Ministry of Transportation of Ontario;
+Service Nova Scotia; and
+Saskatchewan Government Insurance.
+This audit addresses driver and vehicle information obtained from British Columbia, Alberta, Ontario and Nova Scotia. Except for Saskatchewan, which was the subject of a recent audit
+Footnote
+2
+, these are the only four provinces with which the CRA has a memorandum regarding the exchange of driver and vehicle information.
+Within the CRA, regional programs for the Collections and Verification Branch, the Domestic Compliance Programs Branch, the International, Large Business and Investigations Branch and the Appeals Branch use Provincial Registry information for audit, investigation and collection purposes. The Business Intelligence and Quality Assurance Division within the Domestic Compliance Programs Branch also uses the information to help improve its ability to select high risk files. These CRA programs are responsible for the operational aspects of the memoranda as well as complying with their various requirements.
+The Strategy and Integration Branch is responsible for the overall administration of the memoranda.
+Focus of the audit
+This internal audit is included in the approved Risk-Based Audit and Evaluation Plan 2016-2019. The Assignment Planning Memorandum was approved by the Management Audit and Evaluation Committee on April 24, 2017.
+1. Objective
+The objective of this audit was to provide reasonable assurance that the CRA is in compliance with the provisions of the four memoranda of understanding regarding the collection, access, use, storage, retention and disposition of the information received, including the application of CRA security standards.
+2. Scope
+The audit covered the CRA processes and procedures for obtaining and safeguarding information before it is entered into core information systems to ensure that the memoranda of understanding requirements are met. Documentation of current processes and procedures were examined along with data from the most recent fiscal year 2016 to 2017. The audit focused on driver information and vehicle registration information obtained from the regions of Pacific, Prairie, Ontario and Atlantic.
+The examination phase of the audit took place from April 2017 to August 2017.
+3. Audit criteria and methodology
+The audit criteria and methodology can be found in Appendix A.
+The audit was conducted in accordance with the International Standards for the Professional Practice of Internal Auditing.
+Findings, recommendations, and action plans
+The recommendations presented in this report address mandatory requirements as outlined in the memoranda of understanding and CRA standards.
+The regional management of Tax Services Offices that access vehicle and driver licence information agree with the recommendations in this report and have developed related action plans. The Audit, Evaluation, and Risk Branch has determined that they are reasonable to address the recommendations.
+1. Collection, Access and Use of Information
+1.1 Information obtained under the memoranda of understanding was collected in accordance with processes and procedures.
+The audit team examined the collection of vehicle and driver licence information, including retrieval, storage and transfer to officers to determine if, within the CRA:
+managers and staff were aware of their roles and responsibilities;
+process controls and associated supervisory monitoring were in place;
+staff were well informed and had received training; and
+user guides, training material and procedures were in place.
+Access to vehicle and driver licence information was based on the “need-to-know” principle and individual information requests had to be approved by a supervisor before being submitted. Managers and employees were aware of their roles and responsibilities in terms of collection, access and use of information.
+CRA general security procedures for Protected B information were used, supplemented with local instructions and on-the-job training. All employees had received security training in accordance with the memoranda and CRA requirements.
+Management and employees were adequately trained based on mandatory initial training and on-the-job training. The CRA identifies Motor Vehicle Information according to its relative “business value”. Administrative staff access and disseminate motor vehicle information to an officer as the End-User. The specific responsibilities regarding the access, use, disposition and retention of Motor Vehicle Information for end users may differ based on the applicable program requirements.
+1.2 Access to vehicle and driver licence information was granted with the appropriate approvals and in compliance with memoranda provisions and CRA requirements.
+The audit team found that access to vehicle and driver licence information was completed with the appropriate approvals and was in compliance with memoranda provisions and CRA requirements.
+The team examined access to vehicle and driver licence information to ensure that requested information was provided to those who used it for activities under the designated legislation, and that only authorized personnel processed these requests.
+Access to vehicle and driver licence information was granted by Tax Services Offices’ management and liaison officer team leaders in all provinces based on the responsibilities of the position and removed when employees left their positions. Team leaders of the liaison officers in all provinces reviewed individual information requests to ensure they were for authorized use. Information requested was consistent with what was listed in the memoranda.
+Online access to vehicle and driver licence information was controlled through the use of individual user-identifications and passwords. Stand-alone computers used to access online registries were located in secure areas.
+2. Security of Information
+2.1 No improper disclosure of provincial information was reported in Alberta, British Columbia and Nova Scotia. Two such security incidents were reported in Ontario and both of those incidents were properly handled.
+The audit team examined disclosure of vehicle and driver licence information in terms of whether security incidents were properly recorded, investigated, and reported. There were no reported security incidents related to vehicle and driver licence information from three of the provinces (Alberta, British Columbia and Nova Scotia). For one province (Ontario), there were two reported cases of unauthorized access related to vehicle and driver licence information. Following these incidents, Tax Services Office management and the Strategy and Integration Branch took action including the forwarding of a written report to the Ministry of Transportation of Ontario and to the local security officials. One employee’s access to the Ministry of Transportation of Ontario’s database was revoked.
+2.2 Vehicle and driver licence information was disposed of in accordance with the memoranda of understanding but CRA retention requirements were not known.
+The audit team examined the retention and disposition of the vehicle and driver licence information to ensure information was retained for the required period, and that disposition of the information aligned with the security requirements of the memoranda and the CRA.
+The team found that in some cases, the requirements for the retention and disposition of the information had not been formally established and that there was a risk that these responsibilities had not been properly discharged.
+In the Tax Services Offices examined in the Pacific, Prairie and Ontario regions, administrative staff were not aware of the requirements under the Records Disposition Authorities that must be applied to the vehicle and driver licence information. Since the Records Disposition Authorities requirements were not known, it is not clear whether the provinces’ intended retention and disposition practices were aligned with the applicable Records Disposition Authorities.
+In some programs, search results were not deleted and could be stored on a restricted-access network drive indefinitely. Since the requirements under the applicable Records Disposition Authorities were not known, at least some of those search results may have been kept longer than allowed.
+Retention of information for an excessive period increases the risk of unauthorized access and of inefficient management of the information. Deletion of information prior to the prescribed time period could result in the CRA being unable to meet its obligations in response to a privacy request or an access to information request.
+Recommendation 1
+The Strategy and Integration Branch in consultation with the management of the impacted Tax Services Offices in the Pacific, Prairie and Ontario regions should ensure that the designated employees accessing the vehicle and driver licence workloads are aware of the requirements for retention and disposition under the applicable Records Disposition Authorities and adhere to those requirements.
+Action Plan 1
+The Strategy and Integration Branch and responsible regional management of the Tax Services Offices that oversee access to vehicle and driver licence information agree with the recommendations in this report and have developed related action plans.
+British Columbia
+After information is provided by the Insurance Corporation of British Columbia to the CRA’s Administration Team and that information is then sent via interoffice mail to the requesting officer, there is no requirement for the Administration Team to retain and store the results locally. As at December 1, 2017, the Vancouver Tax Services Offices will discontinue the practice of scanning and saving Protected B search results on the local shared drive and all information that existed has been deleted permanently. Local procedures have been updated to indicate that copies of the search results are not to be retained by the Administrative Team to ensure ongoing compliance.
+Regional management of the Vancouver Tax Services Offices will also remind administrative staff annually via email of their responsibility to follow the updated local procedures on retention and disposition of the search results. This activity will be completed by December 2018.
+The Information and Relationship Management Directorate, in consultation with the management of the Pacific Region Tax Services Offices, will confirm the applicable Records Disposition Authorities and the corresponding retention and disposition requirements. These requirements will be communicated to staff and managers by the management of the Pacific Region Tax Services Offices and annual email reminders will be sent to staff to review the status of their information with respect to disposition. This activity will be completed by September 2018.
+Alberta
+The Revenue Collections Administrative Team have reviewed their “sent” email folders to delete documents for applicable search requests as of
+October 27, 2017
+. A process was also implemented as of October 27, 2017 to review sent folders daily for the deletion of Motor Vehicle Information and the Team Leader also provided a reminder session to staff to address the handling of protected information. Additionally, as of November 23, 2017, all collections administrative staff have reviewed the Security Awareness Course (A230).
+The Information and Relationship Management Directorate, in consultation with the management of the Prairie Region Tax Services Offices, will confirm the applicable Records Disposition Authorities and the corresponding retention and disposition requirements. These requirements will be communicated to the staff and managers who access vehicle and driver licence information by management of the Prairie Region Tax Services Offices and annual email reminders will be sent to staff to review the status of their information with respect to disposition. This activity will be completed by September 2018.
+Ontario
+CRA is currently finalizing a new agreement with the Ministry of Transportation of Ontario for vehicle and driver licence search access. As part of this process, the Ontario Region Tax Services Offices and the Information and Relationship Management Directorate are discussing information retention with their counterparts at the Ministry of Transportation of Ontario to ensure both parties have a clear understanding of how information is used, retained and disposed of, as well as the governing authorities.
+A communiqué from the Ontario Region’s Tax Services Offices to employees will be prepared once the agreement is finalized, that will include a reminder on disposal of vehicle and driver licence information in line with the CRA’s Records Disposition Authorities, as well as the Memorandum of Understanding with the Ministry of Transportation of Ontario. The agreement and the corresponding communications are scheduled for completion by December 2018.
+These retention and disposition requirements will be communicated to staff and managers by management of the Ontario Region’s Tax Services Offices and an annual email reminder will be sent to staff who access vehicle and driver licence information to review the status of their information with respect to disposition. This activity will be completed by September 2018.
+2.3 Information was safeguarded in accordance with the security procedures and requirements of the memoranda of understanding and CRA security standards except for the inadequate marking of some protected documents.
+The audit team examined the security of vehicle and driver licence information in terms of:
+delivery and transmission of information to and within the CRA;
+safeguarding stored information against unauthorized access or loss; and
+marking of vehicle and driver licence protected information.
+The team observed that collections and audit officers who received vehicle and driver licence information followed the procedures for storage of the information in the two primary information systems designated for that purpose: the Integras System, used for audits, and the Automated Collection and Source Deduction Enforcement System, used for Collections.
+Information, which if compromised could reasonably be expected to cause injury to private, business or other non-national interests, must be marked in accordance with the Identification and Marking of Protected and Classified Information and Assets Directive
+Footnote
+3
+. Vehicle and driver licence information is considered to be Protected B information and must be marked as such. Document reviews in British Columbia, Alberta and Nova Scotia indicated that printed vehicle and driver licence information received from the provinces and other office printouts were not always marked appropriately. Improper marking of a document can potentially lead to unauthorized access or disclosure.
+Recommendation 2
+The responsible management of the impacted Tax Services Offices in the Pacific, Prairie and Atlantic regions should ensure that administrative staff properly mark printed vehicle and driver licence information with the required level of protection in accordance with CRA security standards.
+Action Plan 2
+Designated regional management of the Tax Services Offices that oversee access of vehicle and driver licence information agree with the recommendations in this report and have developed related action plans.
+British Columbia
+The CRA internal request for information form that is sent to the Insurance Corporation of British Columbia was updated on October 31, 2017 to indicate “Protected B” in bold in the top right hand corner of the form.
+Information received back from the Insurance Corporation of British Columbia arrives via Canada Post in paper copy to the Vancouver Tax Services Office Administrative Team. As a result of this recommendation, a new process was instituted on October 31, 2017 which included training to all members of the Administration Team to ensure all pages of information received from the Insurance Corporation of British Columbia are manually stamped “Protected B” before being sent via interoffice mail to the requesting CRA officer.
+Alberta
+The Revenue Collections local management reviewed and confirmed the level for “Protected” information for CRA correspondence received and sent internally in the CRA. The Revenue Collections Administrative staff implemented a stamp process to ensure all correspondence is marked “Protected B” effective
+October 25, 2017
+.
+The Audit Division Administrative Team started printing all motor vehicle searches once they got access to the new system in September 2017.  These documents are stamped “Protected B” by the individual doing the search before being forwarded to the requestor. The stamping became effective
+October 23, 2017
+.
+Nova Scotia
+For Revenue Collections, effective December 4, 2017, the Clerical Team has implemented a stamp process to ensure all correspondence is marked “Protected B”. For Criminal Investigations, effective November 3, 2017, at the request of the investigator, a clerk prints the request and stamps it “Protected B”. The clerk retains no paper or electronic versions. Investigators’ file folders do not leave the division, which is a secure area. As well, all material is secured in a locked cabinet. For the Audit Division, effective December 4, 2017, documents are stamped “Protected B” by the individual doing the search before being forwarded to the requestor. When documents are sent to the Business Intelligence and Quality Assurance team at the Atlantic Regional Office, they are sent encrypted with “Protected B” in the subject line.
+Conclusion
+With the exception of the issues noted above, the CRA is in compliance with the memoranda terms and conditions and CRA security standards concerning the protection and security of accessing vehicle and driver licence information requested. This report also included opportunities for improvement in regards to ensuring:
+adherence to the retention and disposition requirements for vehicle and driver licence information; and
+that all vehicle and driver licence information on printed documents has appropriate security marking.
+Acknowledgement
+In closing, the audit team would like to acknowledge, recognize, and thank the Strategy and Integration Branch, as well as the regional managers and employees in the regions working with vehicle and driver licence information for the time dedicated to and the information provided to the audit team during the course of this engagement.
+Appendices
+Appendix A: Audit criteria and methodology
+Based on the risk assessment, the following lines of enquiry were identified:
+Collection, Access and Use of Information
+Criteria
+Information collected under the memoranda of understanding is used for the sole purpose of administering and enforcing CRA program legislation.
+Access is controlled in compliance with the CRA policies and in accordance with the memoranda of understanding provisions.
+Procedures and guidelines are in place for the collection of provincial (external) information.
+Security of Information
+Criteria
+Information received from Provincial Registries is protected against unauthorized external access.
+Information is handled and is appropriately safeguarded.
+Security infringement incidents are properly recorded, investigated, administered and reported.
+Information is disclosed, retained and disposed of in accordance with the terms and conditions as set out in the memoranda of understanding.
+Methodology
+The methodology for examination included consultation with selected management: nine managers and team leaders, and staff: 49 officers, auditors and clerical staff. It also included compliance testing of selected controls through documentation and data reviews, observation, walk-throughs of processes and procedures, and physical site visits in five Tax Services Offices in the Pacific, Prairie, Ontario and Atlantic Regions.
+Footnote 1
+Internal Audit – Memorandum of Understanding for Information Sharing between the Canada Revenue Agency and Saskatchewan Government Insurance - report presented to the Audit Committee of the Board of Management in April 2017.
+Return to footnote
+1
+Referrer
+Footnote 2
+Internal Audit – Memorandum of Understanding for Information Sharing between the Canada Revenue Agency and Saskatchewan Government Insurance - report presented to the Audit Committee of the Board of Management in April 2017.
+Return to footnote
+2
+Referrer
+Footnote 3
+Her Majesty the Queen in Right of Canada, Minister of National Revenue. Identification and Marking of Protected and Classified Information and Assets Directive. Version 2.0. Ottawa, Canada. February 4, 2015. [online].
+Return to footnote
+3
+Referrer
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2018-05-11

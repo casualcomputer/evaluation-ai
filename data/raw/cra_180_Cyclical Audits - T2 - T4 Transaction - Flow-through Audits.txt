@@ -1,0 +1,315 @@
+Cyclical Audits - T2 / T4 Transaction Flow-through Audits
+Corporate Audit and Evaluation Branch
+July 2006
+Executive Summary
+Introduction
+Focus of the Audit
+Methodology
+Findings
+1.0 Effectiveness of Source Systems as they Relate to the Accuracy and Appropriateness of Data Input and Processing
+2.0 Effectiveness of the RL System Processes as they Relate to the Accuracy and Appropriateness of the Data Posted in RL
+Conclusion
+Appendix A Components of the Cyclical Audit Plan
+Appendix B T2 Corporation Income Tax - Results Summary
+Appendix C T4 Source Deductions - Results Summary
+EXECUTIVE SUMMARY
+The Canada Revenue Agency (CRA) is responsible for assessing and collecting a broad range of taxes on behalf of the federal, provincial and territorial governments. Functional responsibility within CRA for ensuring tax assessments and returns are verified and accurately processed belongs to the Assessment and Benefit Services Branch (ABS). The Finance and Administration Branch (F&A) is in turn responsible for ensuring that the revenues administered by CRA are appropriately accounted for and reported.
+At the request of F&A, the Internal Audit Division (IAD) of the Corporate Audit and Evaluation Branch (CAEB) has created a cyclical audit plan to support CRA in meeting its responsibilities with respect to the accounting and reporting of revenues. The plan sets out a systematic approach to provide F&A with assurance, over time, of the accuracy and completeness of CRA financial data on federal, provincial and territorial tax revenues and the adequacy of controls for detecting and preventing errors. The cyclical audit plan was presented to the Internal Audit and Program Evaluation Committee (IAPEC) and the Board of Management (BoM) in 2005.
+Under the cyclical audit plan efforts are focused initially on substantive testing but in time will move towards more controls-based work. A primary component of substantive testing is transaction flow-through audits, which call for verifying the accuracy of data in CRA's assessment and accounting systems, by tracing information from tax returns and schedules through the processing systems to the Revenue Ledger (RL).
+The first cyclical flow-through audits were carried out in 2005-2006 and covered three different revenue streams; T1 (individual income tax), T2 (corporation taxes) and T4 (source deductions). The findings of the T1 audit have been reported separately because of its status as a “pilot” project while the T2 and T4 audit results are summarized in this report.
+Objective:
+The objective of the transaction flow-through audits was to provide assurance with respect to the accuracy and appropriateness of the automated flow of T2 and T4 transaction data, from source documents to the relevant CRA processing systems through to CRA's corporate accounting system, the RL.
+Conclusion:
+The results of the samples reviewed for both audits indicate that the tax information input was accurately and appropriately processed by the automated source systems and reflect amounts posted to the RL.
+Audit methodology and sample size for the T4 audit was sufficient to provide assurance on the overall accuracy of the mapping of source deduction information through the CRA systems to RL. The sampling approach used in the selection of T2 returns was also adequate insofar as providing assurance on corporation taxes as a whole but the sample returns included only a limited number of provincial and territorial revenues. Further work is currently being carried out to expand coverage in this area to ensure the results will be relevant to F&A in meeting the new reporting requirements on control procedures under the Tax Collection Agreements with the provinces and territories.
+INTRODUCTION
+The Canada Revenue Agency (CRA) is responsible for assessing and collecting a broad range of taxes on behalf of the federal, provincial and territorial governments. Functional responsibility within CRA for ensuring tax assessments and returns are verified and accurately processed belongs to the Assessment and Benefit Services Branch (ABS). The Finance and Administration Branch (F&A) is in turn responsible for ensuring that the revenues administered by CRA are appropriately accounted for and reported.
+At the request of F&A, the Internal Audit Division (IAD) of the Corporate Audit and Evaluation Branch (CAEB) has created a cyclical audit plan to support CRA in meeting its responsibilities with respect to the accounting and reporting of revenues. The plan sets out a systematic approach to provide F&A with assurance, over time, of the accuracy and completeness of CRA financial data on federal, provincial and territorial tax revenues and the adequacy of controls for detecting and preventing errors. The cyclical audit plan covers a four-year period to begin with and was presented to the Internal Audit and Program Evaluation Committee (IAPEC) and the Board of Management (BoM) in 2005. The key activities are briefly described in Appendix A.
+Under the cyclical audit plan efforts are focused initially on substantive testing. Issues identified in the context of the cyclical audits will be taken up with F&A and the appropriate tax program area at the time an audit is being conducted. Formal reporting to management of results of recurring cyclical audit work will normally be in the form of periodic summary reports.
+A primary component of substantive testing is the transaction flow-through audits of the major revenue streams. These audits call for tracing and verifying data through CRA's assessment and accounting systems, from tax returns and schedules through the processing systems to the Revenue Ledger (RL).
+The first cyclical flow-through audits were carried out in 2005-2006 and covered three different revenue streams; T1 (individual income tax), T2 (corporation taxes) and T4 (source deductions). The findings of the T1 audit have been reported separately because of its status as a “pilot” project while the T2 and T4 audit results are summarized in this report.
+The transaction data selected for review in both the T2 and T4 flow-through audits was taken from the 2004 tax year database. According to the CRA annual report for 2003/2004, 1.5 million T2 corporation tax returns were processed that year for which $31.5 billion in revenues were collected. For the year 2004, a total of about 1.1 million T4 Summary returns with over 23 million T4 slips were processed, representing $162.6 billion in source deductions.
+FOCUS OF THE AUDIT
+The objective of the transaction flow-through audits was to provide assurance with respect to the accuracy and appropriateness of the automated flow of T2 and T4 transaction data, from source documents to the relevant CRA processing systems through to CRA's corporate accounting system, the RL.
+METHODOLOGY
+Audit planning and testing for the T2 and T4 flow-though audits was carried out separately between March and November 2005. Work on each audit included the development of a sampling methodology and subsequent selection of taxpayer returns for review and analysis of the flow of reported revenue amounts.
+The review was carried out to assess the accuracy of the data input from the source documents and the processing through the relevant assessment and accounting systems. The same information was then used to verify amounts that were posted to the appropriate taxpayer accounts and revenue accounts in the RL.
+The same basic lines of enquiry were used for both audits and the findings under each one have been combined and are presented together below. More detailed information about the testing and results of the T2 and T4 audit are provided in Appendix B and C respectively.
+FINDINGS
+1.0 Effectiveness of Source Systems as they Relate to the Accuracy and Appropriateness of Data Input and Processing
+T2 Corporation Tax
+Source documentation against which revenue (and deduction) amounts were traced and verified in the T2 flow-through audit were the
+T2 Corporate Income Tax Return
+and supporting schedules used by corporations to report and pay taxes on income. The automated source systems through which information provided on these documents were traced includes the Corporation Tax System (CORTAX) and the Standardized Accounting System (SA).
+There were 112 corporation tax returns from 2004 that were selected as samples. The revenue and deduction amounts that had been reported on these sample returns were compared to the assessment and accounting data available in the CORTAX & SA source systems. In general, the amounts traced through the automated systems were found to be accurate and appropriately allocated or posted to the corporate accounts. Variations in amounts that were noted for some returns were within acceptance thresholds and attributable to CORTAX rounding decimal amounts to the nearest dollar or the assessing system picking up missing amounts and input errors from the T2 returns.Nonetheless, the sampling methodology employed for the selection of T2 returns provided relatively limited coverage of the types of provincial and territorial revenues that could have been reported. Further audit work to cover these is therefore currently underway. The expanded coverage will add to the level of audit assurance and be useful in regards to fulfilling the new reporting requirements on control procedures under the Tax Collection Agreements with the provinces and territories.
+T4 Source Deductions
+Source documentation against which revenue amounts were traced and verified in the T4 flow-through audit included the
+Statement of Account for Source Deductions
+remittance forms used for instalment payments and the annual T4
+Summary of Remuneration Paid,
+which forms part of the T4 Information Return
+.
+Verification of the data flow through source systems included remittances through the Financial Input Processing (FIP) system and the input and processing of T4 information through Payroll Deduction, Accounting & Collections System (PAYDAC) and the Information Declaration System (INFODEC).
+A sample of 565 source deduction payment transactions were selected for testing from 267 randomly selected employers. Payments received from trustees or non-residents were not included as they relate more directly to other revenue streams that will be audited in the future. The population was stratified based on the transactions processed in each processing centre (TC, TSO) and further down into the methods of payment. The sample transactions covered all TCs and top 10 TSO's based on volume of transactions processed in each centre.
+Information from the source documents was verified against the information processed in the FIP system to verify accuracy of the input of payment data. The annual T4 Summaries were then reviewed for the employer numbers included in the sample and the payment received dates and reported amounts recorded on the summaries were compared to the information processed in the INFODEC system and the information posted to the employer accounts in PAYDAC.
+No errors were identified with respect to the accuracy and appropriateness of the flow of data for the transactions reviewed. Delays were noted in the transfer of payment information from FIP to PAYDAC for some transactions but this did not have an impact on the accuracy of the data. Regardless of the dates posted, the effective interest dates for these payments were correctly processed in the system as the date on which payment was received.
+2.0 Effectiveness of the RL System Processes as they Relate to the Accuracy and Appropriateness of the Data Posted in RL
+T2 Corporation Tax
+The audit reviewed the data captured in RL for the 112 sample T2 corporation tax returns to ensure it accurately reflected the data recorded in the CORTAX and SA systems and that the reconciliation procedures between systems were appropriate.
+The RL Account Determination Rules (ADR) Table was searched to identify all T2 RL accounts that existed for the CORTAX System (excluding clearing accounts). The amounts recorded in the RL accounts for the sample transactions were then traced using RL mapping documents provided by the ABS Branch.
+The results of the T2 audit indicate that the mapping of corporation tax data to the RL is accurate and complete. However, as noted previously, further audit testing is underway to expand the coverage of provincial and territorial revenue types to provide additional assurance on the overall flow of T2 data to the RL accounts.
+T4 Source Deductions
+When source deduction payments are received, the information is captured in FIP and passed on to a clearing account in the RL and the respective employer accounts in the PAYDAC system. When the T4 summaries are filed for the calendar year, the INFODEC system validates the information and passes assessed data to PAYDAC and RL. PAYDAC updates the respective employer accounts to offset the payments received during the year and the RL posts T4 summary amounts to the CPP, EI Premium and Tax Deductions revenue accounts.
+For the T4 Source Deduction transactions sampled from tax year 2004, the amounts recorded in RL (see Appendix C) were found to have been accurately and appropriately transferred and input from the relevant source systems.
+CONCLUSION
+Results of both the T2 and T4 flow-through audits indicate that tax information flowed accurately and appropriately through CRA's automated systems, from the source documentation of the selected returns through to the respective RL accounts.
+Audit methodology and sample size for the T4 audit was sufficient to provide assurance on the overall accuracy of the mapping of source deduction information through the CRA systems to RL. The sampling approach used in the selection of T2 returns was also adequate insofar as providing assurance on corporation taxes as a whole but the sample returns included only a limited number of provincial and territorial revenues. Further work is currently being carried out to expand coverage in this area to ensure the results will be relevant to F&A in meeting the new reporting requirements on control procedures under the Tax Collection Agreements with the provinces and territories.
+APPENDIX A COMPONENTS OF THE CYCLICAL AUDIT PLAN FOR CRA ADMINISTERED REVENUES
+Control Framework Assessment
+- IAD will provide input and support to F&A and its partners (ITB and A&BSB) in the development and assessment of a control framework. The overall objective of the F&A project is to develop assurance that adequate controls over revenue assessment and reporting exist, operate as intended, and can be relied upon. Currently, F&A is focussing on controls over provincial tax revenues and credits in preparation for a controls audit by the Office of the Auditor General (OAG).
+Controls Testing
+- Primarily the testing of controls will be accomplished through Accrual Accounting Audits. IAD will perform a series of audits with the objective of assessing whether adequate financial controls are in place and reasonable accrual accounting methodology exists to support the preparation of accurate financial statements. The audits will review controls over such things as timeliness, accuracy, and completeness of the processing of receipts and assessment details by the source systems and Revenue Ledger. They will also consider the reasonableness and completeness of the accrual accounting methodology and compliance with Treasury Board Secretariat requirements.
+Substantive Testing
+- IAD substantive testing work has historically focussed on the potential risk areas in CRA financial reporting as identified by F&A and the Office of the Auditor General (OAG). Under the plan the other significant component of substantive testing will be a series of Transaction Flow-Through Audits. These audits will trace data processing from source documents to the Revenue Ledger (RL), examining the amounts for accuracy and allocation to the appropriate RL accounts. The audits will cycle through all of CRAs different revenue types over the next four years.
+Monitoring Framework Support
+-
+IAD will support F&A in the development of a monitoring framework for revenues. IAD will also share knowledge and any tools it develops as part of its cyclical audit work. The T1 Transaction Flow-through sampling methodology, for example, was used by F&A in developing its own model for the monitoring work they are performing in the regions.
+APPENDIX B T2 CORPORATION INCOME TAX - RESULTS SUMMARY
+T2 Source Documents
+T2 corporate income tax returns and schedules.
+Processing Systems
+Corporation Taxation System (CORTAX) - used in processing of an initial corporation tax assessment (and automated re-assessments of related years).
+Automated Assessments Control (AAC) System - manually assessed T2 returns are reconciled to the debit or credit returns in this system.
+Standardized Accounting System (SA) - integrated business (operational) accounting application for CRA programs including corporation tax (T2).
+Financial Input Processing (FIP) - records, validates, combines and balances revenue payments received from taxpayers.
+Revenue Ledger (RL) - consolidated general ledger system with summary accounts organized for tracking, controlling and reporting revenue information fed from operational ledgers.
+Rapid Information for District Offices System (RAPID) national mainframe menu system used as a means of accessing T1 and T2 mainframe systems.
+Audit Methodology
+T2 samples were initially drawn randomly, using Business Numbers (BN), from the T2 master list of accounts, which was generated from SA on May 31, 2004. This method did not result in a sufficient number of viable samples (currently active accounts) being picked and additional samples were identified using a judgement approach to provide more coverage of potential revenue lines and RL accounts.
+In total, data from 112 T2 returns was traced by recording line items from the return to an excel template and than comparing amounts to the postings in the CORTAX and SA systems and then to the postings in the appropriate RL accounts.
+Findings
+Sampling methodology used in this audit resulted in adequate coverage of T2 revenue lines and RL accounts overall but not at a level to provide assurance on provincial and territorial revenues. Additional audit work is being carried out to develop and test a more dependable sampling approach to ensure broader audit coverage of all revenues collected and reported by CRA.
+Audit testing and Results - Summary
+Data Flow
+Tax Instalment Payments
+T2 corporate income tax return and schedules
+A) Source DOCUMENTATION to ASSESSING
+…to FIP
+…. to CORTAX
+Audit Testing:
+1. 85 T2 returns were verified against the information recorded in the taxpayer accounts in CORTAX. 4 of the returns were E-filed & were verified by comparing the RPT version in CORTAX with the IAS version in CORTAX.
+2. Additional 15 T2 returns were verified against the information recorded in the taxpayer accounts in CORTAX. These were selected to cover RL accounts that were not included in the original 85 samples. 3 of the returns were E-filed & were verified by comparing the RPT version in CORTAX with the IAS version in CORTAX.
+3. 12 additional T2 returns were verified against the information recorded in the taxpayer accounts in CORTAX having a RL liability accounts balance from British Columbia, Yukon, and Saskatchewan. 1 of the returns were E-filed that were verified by comparing the RPT version in CORTAX with the IAS version in CORTAX.
+Note 1: Automated Assessment Control (AAC) - manually assessed T2 returns were not in sample selected for the audit.
+Note 2: Instalment payment transactions to FIP and FIP to SA were not t raced but will be looked at in Phase 2.
+Results:
+112 samples traced had no errors, however the process uncovered 11 rounding discrepancies; 15 had discrepancies between the amount on the T2 return field(s) and the corresponding field(s) in CORTAX.
+Reasons for discrepancies include:
+amounts were rounded to the nearest dollar where if greater than 50 cents rounded up and less than 49 cents rounded down to the nearest dollar.
+differences between the input amounts from the T2 returns (RPT version) and the system generated assessment amount in CORTAX (IAS version).
+Breakdown of sample by Province:
+Saskatchewan = 13
+Quebec = 9
+Prince Edward Island = 1
+Ontario = 10
+Non-Residents = 2
+Nova Scotia = 7
+Newfoundland = 5
+New Brunswick = 11
+Multi-jurisdictional = 11
+Manitoba = 10
+British Columbia = 24
+Alberta = 8
+Yukon Territories = 1
+Note: only federal revenue from Ontario, Quebec and Alberta returns is reported by CRA and only these amounts were traced.
+B)
+ASSESSING to ACCOUNTING
+FIP to SA
+CORTAX to SA
+Audit Testing:
+1. 85 T2 returns information recorded in CORTAX were verified against the information in SA source system.
+2. Additional 15 T2 returns information recorded in CORTAX were verified against the information in SA. These were selected to cover RL accounts that were not included in the original 85 samples.
+3. 12 additional T2 returns information recorded in CORTAX were verified against the information in SA. These were selected to cover RL liability accounts for British Columbia, Yukon, and Saskatchewan.
+Results:
+No errors were found between the information in CORTAX and SA.
+C) ASSESSING & ACCOUNTING to REVENUE LEDGER (RL)
+FIP to RL
+SA to RL
+CORTAX & SA to RL
+Audit Testing:
+1. Information recorded in taxpayer accounts in CORTAX and SA for initial 85 T2 returns were verified against appropriate RL accounts.
+2. Information for additional 27 T2 returns selected to expand coverage was verified against taxpayer accounts in CORTAX and SA and appropriate RL.
+Results:
+No errors were found between the information in CORTAX and SA systems and RL downloads.
+Note:
+A derived RL account was encountered during the tracing process that did not have a one to one relationship with a field in the T2 Corporation Tax Return form. The revenue amount in the sample could be verified but further testing of data flow to derived accounts is needed.
+RL Accounts Traced from / to T2 Corporate Return Samples
+According to the ADR for CORTAX there are a total of 140 T2 RL revenue and liability accounts: 22 revenue / 118 liability. Overall the 112 T2 samples were linked to a total of 41 of the 140 RL Accounts (29%). However, 39 of the 140 RL revenue and liability accounts had balances of zero or no data was available as of March 31, 2005. When this was taken into consideration RL coverage provided by the samples increased slightly to 41%.
+RL Account
+RL Account Name
+45010
+SYNCRUDE REMISSION ORDER
+45200
+PART 1 TAX PAYABLE, CORP
+45202
+TOBACCO MANUFACTURER'S SURTAX
+45203
+PART 1.3 TAX PAYABLE - LARGE CORP
+45204
+PART IV TAX PAYABLE - TAXABLE
+45206
+PART VI TAX PAYABLE
+45207
+PART VI.I TAX GROSS FED/PROV
+45220
+DIVIDEND REFUND CORPORATION
+45226
+REFUNDABLE INVESTMENT TAX CREDIT CORP
+45229
+CANADIAN FILM TAX CREDIT CORP
+45240
+FILM OR VIDEO PRODUCT SRV TAX CREDIT REFUND
+48002
+TAX DEDUCTIONS APPLI
+65020
+NS CAPITAL TAX, CORP
+65030
+NB - CAPITAL TAX, CORP
+65075
+NL MFG & PROC PROFITS TAX CREDIT, CORP
+65100
+NL TAX LEVIED, CORP
+65101
+PEI TAX LEVIED CORPORATIONS
+65102
+NS TAX LEVIED CORPORATIONS
+65103
+NB TAX LEVIED CORPORATIONS
+65106
+MB TAX LEVIED CORPORATIONS
+65107
+SK TAX LEVIED CORPORATIONS
+65109
+BC TAX LEVIED, CORP
+65120
+NS MFG & PROC INVESTMENT TAX CREDIT, CORP
+65121
+NS FILM INDUSTRY TAX CREDIT, CORP
+65152
+YT TAX LEVIED CORPORATIONS
+65160
+MB MFG INVESTMENT TAX CREDIT, CORP
+65169
+SK MPP REDUCTION (2000), CORP
+65170
+SK ROYALTY TAX REBATE, CORP
+65177
+SK R & D TAX CREDIT, CORP
+65178
+SK FILM EMPLOYMENT TAX CREDIT, CORP
+65187
+BC SR & ED NON-REFUND TAX CREDIT CLAIMED, CORP
+65188
+BC SR & ED REFUNDABLE TAX CREDIT CLAIMED, CORP
+65190
+BC LOGGING TAX ALLOWANCE, CORP
+65197
+BC FILM & TELEVISION TAX CREDIT, CORP
+65198
+BC PRODUCTION SERVICES TAX CREDIT, CORP
+65200
+NL R&D TAX CREDIT, CORP
+65207
+SK INVESTMENT TAX CREDIT, CORP
+65214
+SK POLITICAL CONTRIBUTION TAX CREDIT, CORP
+65403
+NB POLITICAL TAX CREDIT, CORP
+65409
+BC POLITICAL TAX CREDIT, CORP
+65909
+BC FOREIGN TAX CREDIT, CORP
+APPENDIX C T4 SOURCE DEDUCTIONS - RESULTS SUMMARY
+T4 Source Documents
+Remittance forms issued by CRA for monthly/periodic instalment payments -
+Statement of Account for Source Deductions
+(PD7A).
+T4 Information Return prepared by employers annually (comprised of T4
+Summary of Remuneration Paid
+and individual employee T4 Slips -
+Statement of Remuneration Paid.
+Processing Systems
+Financial Input Processing (FIP) - records, validates, combines and balances revenue payments received from taxpayers.
+Information Declaration System (INFODEC) - used to enter, validate, match, correct and process T4 Summary and T4 slip information.
+Payroll Deduction, Accounting & Collections System (PAYDAC) - used to post & balance FIP payments and INFODEC T4 information in employer accounts. Also generates payment remittance forms sent to employers.
+Revenue Ledger (RL) - consolidated general ledger system with summary accounts organized for tracking, controlling and reporting revenue information fed from operational ledgers.
+Rapid Information for District Offices System (RAPID) - national mainframe menu system used as a means of accessing T1 and T2 mainframe systems.
+Audit Methodology
+Sample population used for this audit was the total of source deductions payments received and processed in the FIP system for the T4 revenue stream for 2004. This was stratified based on transactions processed in each processing centre (TC, TSO) and the method of payment (Direct Remitted, Financial Institutions Remitted and Electronic Fund Transfer Remitted payments).
+565 payment transactions were selected for testing from randomly selected employers identified in PAYDAC. Types of transactions selected covered all TC and 10 major TSO's and all payment types.
+No errors were identified with respect to the accuracy and appropriateness of the flow of data for the transactions reviewed. Payment and assessment information was traced from source documentation thru systems processing to posting to employers' accounts in PAYDAC and the appropriate revenue accounts in RL. Delays were noted in the transfer of payment information from FIP to PAYDAC for some transactions but this did not have an impact on the accuracy of the data (the effective interest date).
+Audit testing and Results - Summary
+Data Flow
+Tax Instalment Payments
+Annual T4 Return:
+T4 Summary
+Annual T4 Return:
+T4 Slips
+A) Source DOCUMENTATION to ASSESSING
+…to FIP
+…to INFODEC
+...to INFODEC
+Audit Testing:
+1. Information from source documents for the 565 sample payment transactions selected was verified against the information recorded in the FIP system to assess accuracy of the data input.
+2. T4 Summaries submitted for 2004 by the 267 employers in the sample were reviewed and the received dates and reported amounts in the summaries were matched to the information processed in the INFODEC system and verified the posting of T4 Summary returns information to appropriate employers' accounts in the PAYDAC system.
+For T4 Summaries that were filed electronically (Internet or magnetic media), the information was verified using On-line Taxpayer Information System (RAPID) to confirm the T4 Summary information.
+Results:
+Cash receipts were input without error and allocated to the correct employers' account.
+The input and processing of T4 Summary returns was completed without error and information was appropriately allocated to the respective client accounts.
+Note
+: INFODEC generates a system-calculated T4 Summary once all necessary information from T4 slips is input into the system. Purpose is to determine the correct calculations and compare against the filed T4 Summary information to detect any errors. Information from the T4 slips is then used for T1 matching (individual tax returns).
+B) ASSESSING to ACCOUNTING
+FIP to PAYDAC
+INFODEC to PAYDAC
+N/A
+Audit Testing:
+1. Information from the 565 sample payment transactions were traced to the respective employers' accounts in PAYDAC to assess accuracy of processing date, amounts posted and postings to the right employer accounts.
+2. The posting of information from the T4 Summaries for the 267 employers in the sample was verified in PAYDAC to ensure it had been posted to the appropriate employer accounts.
+Results:
+Payments (cash receipts) in the FIP system were not always fed to PAYDAC in a timely manner. The posting to employer accounts ranged from the same day to 55 calendar days after payments were received. However, regardless of the dates posted, the effective interest dates for these payments were correctly processed in the system as the date on which payment was received.
+The input and processing of T4 Summary return information was done without errors and appropriately allocated to the respective client accounts.
+C) ASSESSING & ACCOUNTING to REVENUE LEDGER (RL)
+FIP to RL
+PAYDAC to RL
+INFODEC to RL
+PAYDAC to RL
+N/A
+Audit Testing:
+1. Information recorded in FIP & PAYDAC for the 565 sample payment transactions selected was verified against the information recorded in the RL to ensure it had been posted to the appropriate clearing account.
+2. Information recorded in INFODEC & PAYDAC from the T4 Summaries for the 267 employers in the sample was verified in RL to ensure it had been posted to the appropriate revenue accounts.
+Results:
+1. Payment information received from FIP was correctly posted to Source Deductions clearing account in RL.
+2. Offsetting entries to this account posted when PAYDAC updated employer accounts' information to RL was posted correctly.
+3. Amounts reported on the T4 Summary returns was correctly posted to the appropriate revenue accounts in the RL.
+RL Accounts Traced from / to T4 Source deduction Samples
+44010 - TAX DEDUCTION REVENUE CANADA
+66922 - EI PREMIUM REVENUE CANADA
+66930 - CPP REVENUE - T4 EARNINGS
+79004 - CASH CLEARING - SOURCE DEDUCTIONS
+79074 - ASSESSMENT CLEARING SOURCE DEDUCTIONS
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2006-10-20
