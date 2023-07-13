@@ -35,7 +35,7 @@ class WebScraper:
             texts.append((text := self.extract_full_text(url)))
             if not text:
                 continue
-            file_path = f'{self.save_path}/{self.prefix}_{str(i).zfill(3)}_{names[i]}.txt'
+            file_path = f'{self.save_path}/{self.prefix}_{str(i+1).zfill(3)}_{names[i]}.txt'
             self.write_to_file(text, file_path)
             if os.path.exists(file_path):
                 success += 1
@@ -114,9 +114,11 @@ class CanadaRevenueAgencyScraper(WebScraper):
         super().__init__(base_url, prefix, patterns, save_path)
 
 def main():
-    # hc_scraper = HealthCanadaScraper()
-    # hc_scraper.run()
+    print('Scraping data from Health Canada')
+    hc_scraper = HealthCanadaScraper()
+    hc_scraper.run()
 
+    print('Scraping data from Canada Revenue Agency')
     cra_scraper = CanadaRevenueAgencyScraper()
     cra_scraper.run()
 
