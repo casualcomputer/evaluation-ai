@@ -1,0 +1,260 @@
+Cyclical Audits - T1 Transaction Flow-through Audit
+Corporate Audit and Evaluation Branch
+July 2006
+Executive Summary
+Introduction
+Focus of the Audit
+Methodology
+Findings
+1.0 Effectiveness of Source Systems as they Relate to the Accuracy and Appropriateness of Data Input and Processing
+2.0 Effectiveness of the RL System Processes as they Relate to the Accuracy and Appropriateness of the Data Captured in RL
+3.0 Flow-through Audit Methodology
+Conclusion
+Appendix A Components of the Cyclical Audit Plan For CRA's Administered Revenue
+Appendix B Summary of Audit Results
+Executive summary
+The Canada Revenue Agency (CRA) is the single largest government service provider in Canada. It interacts with over 29 million individuals, businesses, trusts, and organizations and collects more than $313 billion annually. This includes personal (T1) and trust (T3) income tax revenues[
+Footnote 1
+] totalling $93 billion federal and $35 billion provincial/territorial. Functional responsibility for ensuring the accurate inputting and processing of tax returns belongs to the Assessment and Benefit Services Branch (ABSB) while the Finance and Administration Branch (F&A) has functional responsibility for ensuring accurate accounting and reporting of these revenues.
+At the request of F&A, the Internal Audit Division (IAD) of the Corporate Audit and Evaluation Branch (CAEB) developed a cyclical audit plan to support CRA in meeting these accounting and reporting responsibilities. The plan sets out a systematic approach to provide F&A, over time, with assurance on the accuracy of financial data relating to federal, provincial and territorial tax revenues and the adequacy of controls for detecting and preventing errors. The cyclical audit plan was presented to the Internal Audit and Program Evaluation Committee (IAPEC) and the CRA Board of Management (BoM) in 2005.
+Under the cyclical plan substantive audit testing includes periodic transaction flow-through audits, which call for the tracing of assessment data from tax returns and related forms through to the Revenue Ledger (RL). These are to be carried out on all major revenue streams over a four-year period and T1 revenues (personal income tax) was chosen to be the pilot audit for the series.
+Objective:
+The objective of the T1 Transaction Flow-through audit was to provide assurance with respect to the accuracy and appropriateness of the flow of personal tax information through CRA's automated systems, from the source documents through the assessing and tax payer accounting systems to CRA's corporate accounting system, the RL. In addition, as a pilot it provided an opportunity to look at different audit methodologies and assist F&A in developing their own Financial Monitoring Framework for T1 revenues.
+Conclusion:
+The results of the audit indicate that tax information flowed accurately and appropriately through CRA's automated systems, from the T1 return line items used on the source documents for the selected returns through to the RL accounts. The sample size was relatively small but sufficient to trace and verify the flow of data though 75 of 97 potential assessing lines in the T1 mainframe systems and the posting of the same information to the RL accounts for 78 different federal, provincial and territorial taxes. Overall, no differences were detected between the tax information processed in the assessing and accounting systems and the information posted to RL.
+The usefulness and results of the various methodologies tried in selecting sample T1 General returns for review were shared with and have been made use of by F&A in the implementation of an ongoing monitoring framework for the T1 revenue stream.
+Future T1 flow-through audits will consider risks to data flow resulting from any new releases of the T1 system, changes made to the tax forms, changes made to the mapping/ allocation of amounts to RL accounts and the manual assessing system.
+Introduction
+The Canada Revenue Agency (CRA) is the single largest government service provider in Canada. It interacts with over 29 million individuals, businesses, trusts, and organizations and collects more than $313 billion annually. This includes personal (T1) and trust (T3) income tax revenues[
+Footnote 2
+] totalling $93 billion federal and $35 billion provincial/territorial. Functional responsibility for ensuring the accurate inputting and processing of tax returns and assessments belongs to the Assessment and Benefit Services Branch (ABSB) of CRA while the Finance and Administration Branch (F&A) has functional responsibility for ensuring accurate accounting and reporting of these revenues.
+At the request of F&A, the Internal Audit Division (IAD) of the Corporate Audit and Evaluation Branch (CAEB) developed a cyclical audit plan to support CRA in meeting these accounting and reporting responsibilities. The plan sets out a systematic approach to provide F&A, over time, with assurance on the accuracy of CRA financial data relating to federal, provincial and territorial tax revenues and the adequacy of controls for detecting and preventing errors. The cyclical audit plan was presented to the Internal Audit and Program Evaluation Committee (IAPEC) and the CRA Board of Management (BoM) in 2005. Key components of the plan are briefly described in Appendix A.
+Audit efforts are initially focused on substantive testing but will ultimately move towards more controls-based work. IAD already conducts substantive testing on a regular basis at fiscal year-end to confirm the accuracy of elements of the CRA financial statements such as cash receipts and accounts receivable. Under the plan this work will continue but substantive testing was expanded to include periodic transaction flow-through Audits. Flow-through audits call for the tracing of assessment data from tax returns and related forms through to the Revenue Ledger (RL). These are to be carried out on all major revenue streams over a four-year period and T1 revenues (personal income tax) was chosen to be the pilot audit for the series.
+Focus of the Audit
+The objective of the T1 Transaction Flow-through audit was to provide assurance with respect to the accuracy and appropriateness of the flow of personal tax information through CRA's automated systems, from the source documents through the assessing and taxpayer accounting systems to CRA's corporate accounting system, the RL. In addition, as a pilot it would provide an opportunity to look at different audit methodologies and assist F&A in developing their own Financial Monitoring Framework for revenues.
+Methodology
+The audit was performed in two phases between January and September 2005. In the first phase, a limited number of T1 General Returns (20) for tax year 2003 were randomly selected to test the audit methodology and provide a preliminary assessment of the auditability of the flow of the T1 revenue stream. For the second phase, an additional 48 returns were selected as samples from tax year 2004 to increase coverage of the kinds of revenue that could be reported on the T1 General return. This phase also included a visit to a Tax Centre (TC) to observe the processing of hard-copy T1 tax returns.
+The extent to which results from this audit can be projected to form conclusions about T1 processing as a whole is limited by the relatively small sample size and judgement sampling method that was used in selecting the T1 returns for review. However, it is a viable approach to use in checking and providing assurance on the accuracy and completeness of data flowing through automated systems as all items are subject to the same system logic and predefined business rules.
+For the samples selected that had been filed on a paper tax return, IAD obtained the tax return filed by the taxpayer and considered the reasonableness and accuracy of the assessment by performing a recalculation of the tax assessment. The calculated values were then compared to the amounts recorded in the T1 assessment system. (For samples that were filed by electronic means the review commenced with the information received by the T1 assessment system). T1 assessment values were compared to the assessment results captured in the T1 Accounting sub-system and then traced to the RL and compared to the calculated amounts to verify accuracy and completeness. The suitability of the revenue and credit accounts against which the federal, provincial and territorial tax amounts were recorded in the RL was also confirmed.
+Findings
+1.0 Effectiveness of Source Systems as they Relate to the Accuracy and Appropriateness of Data Input and Processing
+For all T1 returns sampled from tax years 2003 and 2004, the amounts examined were found to have been accurately and appropriately processed by the source system. Differences noted between taxpayer return and assessed information were caused by the assessing system rounding or picking up errors made by the taxpayers. Results of the sample review are outlined below and a more detailed summary of audit testing is provided in Appendix B.
+1.1 Processing of Assessments
+The T1 assessing system for processing personal income tax returns is mainframe based and has several different components or sub-systems through which data is captured and through which it flows. The principal components are the Daily Assessing System (DAS/TAD), the T1 Assessment and T1 Accounting sub-systems. T1 tax information is accessed through the use of a national mainframe menu system known as RAPID (Rapid Information for District Offices) that acts as an interface for 42 options and numerous sub-options.
+Complex returns where the entire assessment needs to be done manually are processed separately in the Automated Assessment Control System (AAC), which passes on the assessment data to the RL. The data flow through AAC was not examined as part of this initial audit of T1 information because of the manual intervention in their processing.
+Payments made directly by the taxpayer or on their behalf by an employer (source deductions) are input and processed through the CRA Financial Input Processing (FIP) system. This information is then forwarded to other CRA systems including the T1 Accounting Payments (TAP) sub-system, Information Declaration System (INFODEC) and the RL. Remittance slips and information included with the sample taxpayer returns was verified against the payment information in these three systems.
+1.2 Processing of Remittances and Disbursements
+The flow of T1 tax instalment payments was verified in T1 taxpayer accounting and in the appropriate account in the RL. It was however, only possible to trace the payments from the T1 RL instalment account to the RL clearing account. The remittances recorded in RL by FIP as payments could not be traced to the individual originating cash entries because these were batched for processing. The same occurs with T1 refunds and this batching of payments and disbursements reduces the audit trail within RL. Instead, a review of the source documents would be necessary in order to completely validate the existence, accuracy and proper assignment of a payment or disbursement.
+1.3 Postings to Taxpayer Accounting
+For all T1 returns sampled from tax years 2003 and 2004, payments and disbursements and postings to taxpayer accounts were found to have been accurately and appropriately processed and accounted for by the source system. Any differences found between the assessed amounts and the amounts on the taxpayer accounting during the review were not material and were caused by the accounting system reporting changes to the taxpayer's final balance (such as interest calculations on balances or refund amounts being held for outstanding balances).
+2.0 Effectiveness of the RL System Processes as they Relate to the Accuracy and Appropriateness of the Data Posted in RL
+Overall, no differences were detected between the tax information processed in the assessing and accounting systems and the tax information that was posted to RL.
+2.1 Posting to the RL
+Two inconsistencies were noted in the manner in which values had been posted to the RL from the T1 assessing system. First, when an initial assessment (IAS) results in a balance owing, the entire amount owing posts to RL as a debit to accounts receivable (A/R). Any amount paid on filing is then applied against the A/R as a credit. An IAS, however, does not always post to the T1 A/R account in RL. When an IAS results in a refund no amount is posted to A/R; instead, the refundable amount goes directly to the clearing account in RL and bypasses the A/R account. This inconsistency may become a factor when there are difficulties clearing accounts or reconciling and determining amounts for A/R.
+Inconsistencies also exist in the posting of reassessments to RL. When a reassessment is processed, the originally assessed federal and provincial tax revenue or credit amounts that are being reassessed are reversed in the RL. The new values for the reassessment are also posted at this time in the same journal entry as the reversals. On the other hand, when a reassessment changes the amount of a taxpayer's tax deductions at source there is no reversal of the previous value; the amount that posts to RL is only the change in dollar value. Using a single method to post reassessments to the RL would lead to a more consistent approach to posting that would reduce the complexity of the posted transaction. Using a single posting method would ensure consistency and reduce difficulties in reconciling and facilitate the monitoring of the effectiveness of the RL.
+2.2 Audit Trails
+When examining assessment data in the RL it is not possible to determine the TC that processed a T1 assessment. In the table that details the information that is needed in the data file being sent to RL for T1 assessments, the originating TC is not a required field. As a result, this information is not being sent to RL. The ability to easily determine the originating TC in RL would improve the audit trail of the transaction and improve the ability to monitor the effectiveness of the RL.
+3.0 Flow-through Audit Methodology
+A secondary objective of the audit was to identify and test sampling methodologies that might be suitable and could be replicated in other flow through audits as well as be used by F&A in developing an approach for their own Financial Monitoring Framework for revenues.
+In the first phase of the audit, a limited number of T1 returns (20) were randomly selected from tax year 2003 to provide a preliminary assessment of the auditability of the T1 revenue stream and test the audit methodology. For the second phase a judgement or targeting method was used to select an additional 48 samples from tax year 2004 to expand the audit coverage of the T1 line items. Overall, the flow of data from all of the samples that were selected for review were traced and verified from the T1 General Returns though to 75 of 97 possible assessing line items in the T1 mainframe systems and RL revenue and liability accounts for 78 different federal, provincial and territorial taxes. (See Annex B for listing of RL accounts.)
+Two different approaches were used in the targeting of samples. The first involved drawing random samples from RL accounts populated by tax forms that had undergone the most significant changes from tax year 2003 to tax year 2004. The objective was to mitigate the risk associated with changes to the tax forms by verifying that the data was still accurately flowing through the assessing system and populating the appropriate RL accounts after the changes had occurred. The second testing method called for targeted sampling of returns randomly selected from a single TC in order to increase coverage of RL accounts for specific provinces and territories.
+The final method tried was verifying transaction data electronically by matching a system download of T1 assessing data to a system download of RL data. The feasibility for electronic matching of large revenue files was confirmed as a viable option for use in future audits.
+Conclusion
+The results of the audit indicate that tax information flowed accurately and appropriately through CRA's automated systems, from the T1 return line items used on the source documents of the selected returns through to the RL accounts. The sample size was relatively small but sufficient to trace and verify the flow of data though 75 of 97 potential assessing lines in the T1 mainframe systems and the posting of the same information to the RL accounts for 78 different federal, provincial and territorial taxes. Overall, no differences were detected between the tax information processed in the assessing and accounting systems and the information posted to RL.
+The usefulness and results of the various methodologies tried in selecting sample T1 General returns for review were shared with and have been made use of by F&A in the implementation of an ongoing monitoring framework for the T1 revenue stream.
+Future T1 flow-through audits will consider risks to data flow resulting from any new releases of the T1 system, changes made to the tax forms, changes made to the mapping/ allocation of amounts to RL accounts and the manual assessing system.
+Appendix A Components of the Cyclical Audit Plan For CRA's Administered Revenue
+Control Framework Assessment
+- IAD will provide input and support to F&A and its partners (ITB and ABSB) in the development and assessment of a control framework. The overall objective of the F&A project is to develop assurance that adequate controls over revenue assessment and reporting exist, operate as intended, and can be relied upon. Currently, F&A is focussing on controls over provincial tax revenues and credits in preparation for a controls audit by the Office of the Auditor General (OAG).
+Controls Testing
+- Primarily the testing of controls will be accomplished through Accrual Accounting Audits. IAD will perform a series of audits with the objective of assessing whether adequate financial controls are in place and reasonable accrual accounting methodology exists to support the preparation of accurate financial statements. The audits will review controls over such things as timeliness, accuracy, and completeness of the processing of receipts and assessment details by the source systems and Revenue Ledger. They will also consider the reasonableness and completeness of the accrual accounting methodology and compliance with Treasury Board Secretariat requirements.
+Substantive Testing
+- IAD substantive testing work has historically focussed on the potential risk areas in CRA financial reporting as identified by F&A and the Office of the Auditor General (OAG). Under the plan the other significant component of substantive testing will be a series of Transaction Flow-Through Audits. These audits will trace data processing from source documents to the Revenue Ledger (RL), examining the amounts for accuracy and allocation to the appropriate RL accounts. The audits will cycle through all of CRAs different revenue types over the next four years.
+Monitoring Framework Support
+-
+IAD will support F&A in the development of a monitoring framework for revenues. IAD will also share knowledge and any tools it develops as part of its cyclical audit work. The T1 Transaction Flow-through sampling methodology, for example, was used by F&A in developing its own sampling model for the monitoring work they are performing in the regions.
+Appendix B Summary of Audit Results
+T1 Revenue Source Documents
+T1 General Returns and schedules for tax years 2003 and 2004 (electronic and hard copy).
+Taxpayer payment and income remittance slips (T4, T5, etc.).
+Processing Systems
+T1 Daily Assessing System (
+DAS/TAD
+) - processes T1 assessments and reassessments and posts the results to an individual's account. DAS updates the details of the assessment or reassessment to the
+assessing master
+and updates a summary of the assessment or reassessment on the
+accounting master
+.
+T1 Accounting Payments System
+(TAP)
+- receives payments intended for T1 accounts from FIP and processes these payments to an individual's accounting master.
+Rapid Information for District Offices System
+(RAPID)
+- national mainframe menu system used as a means of accessing T1 and T2 mainframe systems. RAPID acts as an ""interface" with 42 options and numerous sub-options.
+Information Declaration System
+(INFODEC)
+Display Menu - used to view employer and financial institution remittance information.
+Financial Input Processing
+(FIP)
+- records payments (cash receipts) received from or on behalf of taxpayers (all methods of payment).
+Revenue Ledger
+(RL)
+- consolidated general ledger system for financial transactions relating to administered revenues.
+Audit Methodology
+68 T1 tax returns and assessments were selected for review from tax years 2003 and 2004. Twenty of these samples were selected randomly and 48 were selected using a judgement or targeting approach in order to provide broader coverage of revenues for provinces/territories.
+T1 tax data was examined from the source documents through CRA's T1assessing & accounting system/sub-systems through to the RL.
+The extent to which results can be projected to form conclusions about T1 processing as a whole is limited by the relatively small sample size and judgement sampling method that was used in selecting the T1 returns for review. However, it is a viable approach to use in checking and providing assurance on the accuracy and completeness of data flowing through automated systems as all items are subject to the same system logic and predefined business rules.
+Results - Summary
+Data Flow
+Tax Instalment Payments
+Annual T1:
+General Income Tax Return
+:
+Remittances & Income Slips - T4, T5, etc.
+A) Source DOCUMENTATION to ASSESSING
+…to FIP
+…to DAS/TAD &
+Assessing Master
+…to INFODEC
+Audit Testing:
+1. 20 T1 returns from 2003 were randomly selected as samples for review in Phase 1. For those that were paper-filed (12/20) taxpayer calculations on the returns and schedules were verified and amounts declared were compared against remittance information recorded in INFODEC. Flow of information from the schedules to the returns was also reviewed for reasonableness and completeness.
+2. Taxpayer calculated results for the 12 returns were then compared to the T1 system-assessed values (using Rapid Option C - Income and Deductions Screen).
+3. Targeted sampling was used in Phase 2 to select 48 additional returns to ensure adequate coverage of T1 lines and data flow to provincial/territorial RL accounts. Data flow from source documents for these additional samples was verified for 15/48 as per above.
+Notes:
+1. 23 of the 68 T1 returns selected for review were electronically filed and did not have source documents. Review of the data flow to RL for these could only start from the T1 assessed values.
+2. 45 of the 68 T1 returns selected were paper-filed. Verification of taxpayer calculations and input of data from source documents was completed for 27 returns (60%). Testing was resource intensive and was discontinued when no errors were found in the 27 returns. Input procedures / controls at a TC were observed and also found to be adequate.
+Results:
+Input and processing of data from source documentation for the 27 T1 returns reviewed was completed without error.
+Differences between source documents and assessment values that were found were not material and were caused by the assessing system rounding or picking up taxpayer errors.
+Data from all of the samples selected for review were traced and verified from the T1 General Returns though to 75 of 97 possible assessing line items in the T1 mainframe systems.
+Listing of the 78 RL accounts for which tax revenues/credits were traced to or from the sample T1 returns is set out in a separate table.
+Notes:
+Tax payment information flow to FIP and INFODEC was not traced back to source documents as this is covered by a separate flow-through audit of T4 revenues (source deductions).
+B) ASSESSING to ACCOUNTING
+FIP to TAP
+DAS/TAD to
+Accounting Master
+N/A
+Audit Testing:
+1. The information from T1 assessing for the 68 sample returns was verified for accuracy and completeness against the accounting information (including refund or payments as applicable) using RAPID Option N - Taxpayer Accounting for T1 assessments.
+Notes:
+Flow of payment and refund information from FIP to TAP was not included in the scope of this audit.
+Results:
+Differences found were not material and resulted from the accounting system correctly reporting changes to the taxpayer's final balance refunded.
+C) ASSESSING / ACCOUNTING to RL
+FIP to RL
+TAP to RL
+DAS/TAD
+to RL
+N/A
+Audit Testing:
+1. For all 68 samples the taxpayer's assessment data in RL was verified against the information recorded in the T1 Assessing system.
+2. The flow of information to RL was reviewed for accuracy, completeness and allocation to the appropriate RL accounts.
+Results:
+No differences were reported between the taxpayer information processed in the assessing and accounting systems and the taxpayer information that posted to RL.
+Cash disbursements from the T1 Assessing system and tax instalment information from TAP could only be traced as far as the clearing account in RL.
+Postings of initial assessments to A/R in RL are not consistent as refunds and balances owing are treated differently.
+Federal & Provincial RL Revenue & Liability Accounts Traced from T1 Returns
+T1 Return Line Items: 420
+Net Federal Tax
+44013 - FED POL CONT TAX CR, IND
+44024 - INVEST FED TAX CR, IND
+44033 - YT BASIC FED TAX, IND
+44044 - YT FED FOR TAX CR, IND
+44080 - NL FED FOR TAX CR, IND
+44083 - NB FED FOR TAX CR, IND
+44085 - ON FED FOR TAX CR, IND
+44088 - AB FED FOR TAX CR, IND
+44170 - NL BASIC FED TAX, IND
+44173 - NB BASIC FED TAX, IND
+44174 - QC BASIC FED TAX, IND
+44175 - ON BASIC FED TAX, IND
+44176 - MB BASIC FED TAX, IND
+44177 - SK BASIC FED TAX, IND
+44178 - AB BASIC FED TAX, IND
+44179 - BC BASIC FED TAX, IND
+44370 - NL - FED RESP TAX PAYABLE
+44373 - NB - FED RESP TAX PAYABLE
+44375 - ON - FED RESP TAX PAYABLE
+44378 - AB - FED RESP TAX PAYABLE
+44860 - NL NAT LAB SPON VENT CAP TAX,
+44863 - NB NAT LAB SPON VENT CAP TAX
+44865 - ON NAT LAB SPON VENT CAP TAX,
+44868 - AB NAT LAB SPON VENT CAP TAX
+T1 Return Line Items: 428 Provincial / Territories Tax 479 Provincial / Territories Credits
+66041 - YT TAX LEVIED, IND
+66060 - NL TAX LEVIED, IND
+66063 - NB TAX LEVIED, IND
+66065 - ON TAX LEVIED, IND
+66066 - MB TAX LEVIED, IND
+66067 - SK TAX LEVIED, IND
+66068 - AB TAX LEVIED, IND
+66069 - BC TAX LEVIED, IND
+66090 - NL - FOR TAX CREDIT, IND
+66093 - NB - FOR TAX CREDIT, IND
+66095 - ON - FOR TAX CREDIT, IND
+66098 - AB - FOR TAX CREDIT, IND
+66102 - YT - FOR TAX CREDIT, IND
+66135 - ON - TAX REDUCTION, IND
+66158 - AB ROYALTY TAX REBATE
+66160 - NL SURTAX, IND
+66165 - ON SURTAX, IND
+66210 - NL - POL CONT TAX CR, IND
+66213 - NB - POL CONT TAX CR, IND
+66215 - ON - POL CONT TAX CR, IND
+66218 - AB - POL CONT TAX CR, IND
+66255 - ON - HOME OWNERSHIP SAVINGS PLAN, IND
+66263 - NB SMALL BUSINESS INVESTOR TAX CREDIT -I
+66265 - ON EMPLOYEE OWNERSHIP CREDIT, IND
+66285 - ON EDU TECHNOLOGY TAX CREDIT, IND
+66293 - NB LABOUR SPONSORED VENTURE TAX CREDIT, IND
+66295 - ON FOCUSED FLOW-THROUGH SHARE TAX CREDIT - IND
+66325 - ON WORKPLACE CHILD CARE, IND
+66327 - SK POST SECONDARY GRAD TAX CR, IND
+66345 - ON WPL ACC TAX CR INC, IND
+66349 - BC SALES TAX CREDIT, IND
+66365 - ON - APPRENTICESHIP TRAINING TAX CR - IND
+66415 - ON LABOUR SPONSORED INVESTMENT FUND CREDIT, IND
+66425 - ON CO-OP TAX CREDIT, IND
+66651 - ON LABOUR SPONS. INV. FUND TAX CREDIT (ROIF), IND
+66675 - ON GRADUATE TRANSITIONS TAX CR, IND
+66783 - NB LOW INCOME TAX REDUCTION, IND
+66810 - NL EQUITY TAX CREDIT, IND
+66814 - YT LOW INC FAMILY TAX CR, IND
+66815 - YT SMALL BUSINESS INV TAX CR, IND
+68852 - ON SCHOOL BUS SAFETY TAX CREDIT - IND
+T1 Return Line Items: Other
+66047 - YK-CPP LEVIED-SELF EMPLOYED
+66140 - NL-CPP LEVIED-SELF EMPLOYED
+66143 - NB-CPP LEVIED-SELF EMPLOYED
+66145 - ON-CPP LEVIED-SELF EMPLOYED
+66148 - AB-CPP LEVIED-SELF EMPLOYED
+66149 - BC-CPP LEVIED-SELF EMPLOYED
+69319 - OAS BENEFIT REPAYMENT
+69414 - CPP OVERPAYMENT
+69415 - CPP INTEREST
+69419 - EI OVERPAYMENT
+66650 - ON OPPORTUNITY FUNDS IND
+44011 - TAX DEDUCT APPLIED
+44280 - REFUND INVEST TAX CREDIT, IND
+Footnotes
+[Footnote 1]
+Personal (T1) and Trust (T3) tax revenues are reported together as a single amount in CRA financial statements. For purposes of this audit only the flow of T1 tax information was examined.
+[Footnote 2]
+Personal (T1) and Trust (T3) tax revenues are reported together as a single amount in CRA financial statements. For purposes of this audit only the flow of T1 tax information was examined.
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2006-10-20

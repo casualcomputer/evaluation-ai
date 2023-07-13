@@ -1,0 +1,211 @@
+Internal Audit of the CPP/EI Rulings Program
+Final Report
+Corporate Audit and Evaluation Branch
+June 2009
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+1.0 Governance
+1.1 Goals, Objectives, Roles and Responsibilities
+1.2 Communication with Stakeholders
+1.3 Risk Management
+1.4 Strategic Planning
+2.0 Program Delivery
+2.1 Functional Support
+2.2 Timely Processing of Rulings Requests
+2.3 Quality
+2.4 Workload Management
+Conclusion
+Executive Summary
+Background:
+The
+Canada Pension Plan (CPP)
+and
+Employment Insurance (EI)
+programs provide benefits to workers upon retirement, disability or unemployment and are jointly administered by the Canada Revenue Agency (CRA) and Human Resources and Skills Development Canada (HRSDC).
+The CPP/EI Rulings Division in the Legislative Policy and Regulatory Affairs Branch (LPRAB) is mandated to develop policies, procedures and working tools in relation to rulings being issued by the CRA pursuant to the CPP and EI legislation. This division is responsible for providing functional direction to CPP/EI rulings employees located in Tax Services Offices (TSO) and Tax Centres (TC).
+In the TCs and TSOs, CPP/EI Rulings employees provide services to businesses, individuals, representatives, HRSDC, and CRA staff such as trust examiners and employer compliance auditors. When there is uncertainty as to whether a worker is employed or self-employed, or whether their employment is pensionable or insurable for the purposes of the legislation, the CRA can issue a ruling to help the employer comply and ensure the worker receives appropriate coverage. Additional services provided by CPP/EI Rulings employees include issuing certificates related to social security agreements, conducting information sessions, and responding to enquiries.
+For the fiscal year ended March 31, 2008, the CPP/EI Rulings Division had 301 full-time employees (FTEs) at various TSOs and TCs throughout the regions and 36 FTEs at HQ. There were 19,139 rulings issued pursuant to the
+CPP Act
+, and 42,141 issued pursuant to the
+EI Act
+. Total expenditures for the program were approximately $21 million.
+Objective:
+The objective of the audit was to determine whether the governance, risk management, and controls in place to manage the CPP/EI Rulings program are adequate. The examination phase of the audit was conducted from June 2008 to November 2008.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Conclusion:
+The governance, risk management and controls in place to manage the CPP/EI Rulings program at the headquarters, regional and local office levels are effective in meeting program goals, which include processing rulings and other requests on a timely basis and meeting service standards consistently. The results of file reviews with respect to the accuracy of information entered into systems, however, indicate a potential data integrity issue which could impact overall results relating to processing timeliness.
+Controls relating to the quality of rulings decisions and program outputs should be strengthened. Additional quality review of files prior to the issuance of rulings, trends analysis of Appeals decisions, and the introduction of qualitative goals, objectives and performance measures would supplement the Quality Assurance process recently implemented.
+Functional support to field offices is strong, and lines of communication with internal and external stakeholders are well-established.
+Workload management is approached differently in each of the regions. A review of the various methods and best practices used should be undertaken in order to establish shared processes for increased consistency. At the national level, the introduction of the Referral Allocation Distribution System (RADS) for internal referrals has assisted management in headquarters and the regions in assigning and distributing work, reducing paper requests, and strengthening data integrity.
+Improvements to program governance should be made in areas relating to risk management and strategic planning. There is no systematic risk management process in place to identify and evaluate threats and opportunities for the program. In addition, there is no regular, structured business planning conducted by the CPP/EI Rulings Division to identify action plans, targets and deliverables to ensure that strategic objectives are achieved.
+Action Plans:
+CPP/EI Rulings Program management has committed in their action plans to making changes to address the issues identified in the audit, including:
+the implementation of a formal risk-management process;
+a commitment to regular business planning with regional participation;
+expanded and improved quality review of rulings files, and the implementation of a program monitoring process; and
+the establishment of standardized workload management practices.
+Introduction
+The
+Canada Pension Plan (CPP)
+and
+Employment Insurance (EI)
+programs provide benefits to workers upon retirement, disability or unemployment and are jointly administered by the Canada Revenue Agency (CRA) and Human Resources and Skills Development Canada (HRSDC).
+In the CRA organizational realignment of January 2006, the Legislative Policy and Regulatory Affairs Branch (LPRAB) became one of two distinct Branches created out of the former Policy and Planning Branch. At that time, the CPP/EI Rulings program was moved from the former Revenue Collections Branch to the Legislative Policy Directorate within LPRAB.
+The CPP/EI Rulings Division is mandated to develop policies, procedures and working tools in relation to rulings being issued by the Agency pursuant to the
+Canada Pension Plan (CPP)
+and
+Employment Insurance (EI) Act
+. This division is responsible for providing functional direction to CPP/EI rulings employees located in Tax Services Offices (TSO) and Tax Centres (TC). It provides technical advice, interpretative information and support to areas within headquarters (HQ), other government departments including HRSDC, and external clients such as employer associations.
+In the TCs and TSOs, CPP/EI Rulings employees provide services to businesses, individuals, representatives, and CRA staff such as trust examiners and employer compliance auditors. These services include:
+issuing rulings on the nature of employer/employee relationships and determining coverage of employment;
+issuing certificates related to social security agreements;
+conducting information sessions, seminars and conferences; and
+responding to telephone and written enquiries.
+For the fiscal year ended March 31, 2008, the CPP/EI Rulings Division had 301 full-time employees (FTEs) at various TSOs and TCs throughout the regions and 36 FTEs at HQ. There were 19,139 rulings issued pursuant to the
+CPP Act
+, and 42,141 issued pursuant to the
+EI Act
+. Total expenditures for the program were approximately $21 million. Given that Employment Insurance premiums collected were approximately $17 billion for the 2007-2008 fiscal year, and revenues administered on behalf of the Canada Pension Plan were approximately $35 billion, the importance of timely and accurate rulings for the Agency, businesses and individuals is significant.
+CRA has the legal authority to recover administrative costs for providing CPP and EI program services, including rulings. Surveys are conducted by CRA approximately every three years to establish a base year for determining these costs in the following years, and recovery of these costs is now made through monthly charges directly against the CPP and EI Accounts.
+Focus of the Audit
+The objective of the audit was to determine whether the governance, risk management, and controls in place to manage the CPP/EI Rulings program are adequate. The planning phase of the audit was conducted from January 2008 to May 2008. The examination phase was conducted from June 2008 to November 2008.
+Interviews relating to CPP/EI Rulings program activities were conducted in LPRAB and Appeals, Taxpayer Services and Debt Management (TSDMB), and Assessment and Benefit Services (ABSB) branches, HRSDC (Service Canada), and in selected TSOs and TCs in the Pacific, Ontario, and Prairie regions.
+A statistically valid random sample, representative of all regions, of 620 CPP/EI Rulings files completed during the 2007-2008 fiscal year was also examined to verify the integrity of program data and adherence to established procedures.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings, Recommendations and Action Plans
+Governance
+1.1 Goals, Objectives, Roles and Responsibilities
+Program goals, objectives and their related performance measures are established and are readily available to employees in their operation manuals on
+InfoZone
+.
+The roles and responsibilities of CPP/EI Rulings program employees are clearly defined. Job descriptions for positions at HQ and in the regions are in place, and the organizational structure for the program within LPRAB has been established and communicated to staff. In addition, the roles of CRA, HRSDC, HQ, the regions, and all levels of employees are clearly described in the operations manuals.
+The audit team confirmed during interviews in the planning and examination phases of the audit that CPP/EI Rulings program governance is, for the most part, understood by employees at all levels.
+1.2 Communication with Stakeholders
+Lines of communication between CPP/EI Rulings staff and internal and external stakeholders, at the HQ and regional levels, are strong and well-established. Communication with stakeholders (meetings, telephone, and email) is primarily ad-hoc, with issues being addressed as they arise. Regional and national conferences are held regularly, and internal and external stakeholders are invited to participate. The conferences are a positive forum for the exchange of program information and discussion.
+1.3 Risk Management
+Risk for any organization represents uncertainty, which encompasses both threats and opportunities that can affect its ability to meet strategic objectives. In both the public and private sectors, risk management is increasingly viewed as an essential component of effective governance, good management and a means to improve program performance.
+At the corporate level, the Agency uses Enterprise Risk Management (ERM) as a systematic, forward-looking and process-orientated approach to manage key risks in an integrated manner across the organization. In accordance with the
+Enterprise
+Risk Management Policy
+, all programs are expected to effectively manage their exposure to risks, including those associated with lost opportunities.
+Although CPP/EI Rulings management in HQ and the regions respond on a daily basis to problems that arise in the normal course of operational activities, there is no evidence of a formal risk management structure in place. This can lead to a delayed and less effective response. In 2007, for example, there was an unexpected and significant reduction in the volume of
+Pensionable
+and Insurable Earnings Review (PIER) program files referred to CPP/EI Rulings. A planned response to this type of risk event, integrated and coordinated with stakeholders in the affected business lines, could have resulted in a quicker and more beneficial allocation of resources (e.g. shifting of staff to other workloads) and better program results.
+Recommendation
+The CPP/EI Rulings Division should implement a formal risk management process, in alignment with the ERM process used at the Agency level, in order to identify, analyze, evaluate, address and monitor threats and opportunities to the program on a regular and ongoing basis.
+Action Plan
+A formal risk management process based on ERM principles will be researched and implemented by the start of the 2010-2011 fiscal year. Regions will be consulted as part of the research phase.
+1.4 Strategic Planning
+Strategic planning can be viewed as the process of determining an organization’s long term goals and objectives, and identifying the most effective and efficient ways to achieve them. It results in a strategy, or direction, to assist management in its decisions regarding the allocation of resources, in mitigating risk, and optimizing program results. Ultimately, the strategic planning process enables management to create business plans to organize the present with a view to achieving desired future operational results.
+During the audit, information relating to strategic planning was obtained during interviews with CPP/EI Rulings management and a review of relevant source documents. Strategic planning elements relating to the CPP/EI Rulings program are present in the
+Strategic Plan – Revenue Collections Branch 2005 – 2010
+(the branch to which the program previously belonged) and in the
+Legislative Policy and Regulatory Affairs Branch Business Plan 2008-2009 to 2010-2011
+. In addition, preliminary work has also begun on a new, high-level vision to position the CPP/EI Rulings Program as an area of expertise within the Agency on matters concerning employment status for purposes of the
+Income Tax Act
+as well as for CPP and EI legislation.
+While some program strategies were identified during the audit, and management is aware of issues and actively considers ways to address them, there is no regular, structured business planning done at the divisional level to identify and formally establish action plans, targets, deliverables and accountabilities. For example, ongoing mainframe system limitations for this program have been identified and solutions considered, but specific actions to further address the limitations have not been formally documented for action and follow-up. A structured planning process would facilitate action and monitoring of progress.
+Like many CRA programs, funding for the CPP/EI Rulings Program is established using a unit-cost approach with annual revisions for volumes. The program adheres to the costing policy contained in the
+Resource Management Volume, Finance and Administration Manual
+(FAM), and participates in the Annual Reference Level Update (ARLU), an annual process where three-year forecasts are revised and agreed upon by federal Departments and the Treasury Board of Canada Secretariat (TBS). In this regard, the current funding process is in line with both Agency and Treasury Board requirements.
+During the course of the audit, however, CPP/EI Rulings management in HQ and the regions expressed concerns regarding the unpredictability of a funding process linked to fluctuating volumes, which can and has affected the timing of business decisions on such areas as staffing and accommodations. Once again, a strong, structured planning process would assist management in making the best possible decisions to achieve their strategic objectives within an expected funding envelope.
+Recommendation
+The CPP/EI Rulings Division should, in collaboration with regional program management,
+undertake regular business planning (e.g. an annual or 2 or 3 year planning process) to identify action plans, targets and deliverables to ensure their strategic objectives are achieved with an optimal use of resources.
+Action Plan
+During the 2009-2010 fiscal year, regions will be consulted with respect to the development of a planning process. The frequency of the process will be determined during the consultation phase. A formal process will be implemented by the start of the 2010-2011 fiscal year.
+Program Delivery
+2.1 Functional Support
+Based on discussions with CPP/EI Rulings employees, satisfaction with respect to the quality and timeliness of field support from HQ is high. National electronic mailboxes for enquiries relating to procedures, policies and systems have been established as a direct communications link between the field and HQ. Files are assigned quickly to program officers, and field offices receive prompt acknowledgements and responses.
+The CPP/EI Rulings Division site on
+InfoZone
+hosts a large quantity of program information for rulings officers. Electronic versions of the procedures and policies manuals are available and are updated on an ongoing basis. In interviews, employees indicated that their overall satisfaction with the quality and accessibility of the various tools and materials, including web-based products and information relating to specific sectors and employment situations, is high.
+2.2 Timely Processing of Rulings Requests
+Rulings requests are received from various sources, including individuals, representatives, employers, HRSDC, trust examiners and employer compliance auditors. Different timeframes and service standards established for the various workloads to meet the needs of internal and external clients are well-communicated and understood by all levels of employees.
+Interviews with internal and external stakeholder areas confirmed that, for the most part, rulings are processed on a timely basis. This is corroborated by statistical data which show that the performance target of completing 85% of files within expected timeframes is met in almost all situations. It should be noted, however, that some problems were observed with respect to the accuracy of dates entered into systems, which could impact overall results relating to processing timeliness (see section 2.3 Quality).
+2.3    Quality
+Quality Review (QR) and Quality Assurance (QA)[
+Footnote 1
+] are processes that provide an organization with confidence in its products or outputs. While QR and QA processes cannot guarantee quality results in all cases, it increases the likelihood and provides assurance to management that the needs of clients are being met effectively, accurately and consistently.
+Quality review of CPP/EI rulings is a regional responsibility. The work of all new rulings officers is subject to 100 percent review until their team leader determines that they have sufficient experience to be removed from the QR process. In the regions visited, the audit team observed that there is no QR for experienced officers (generally those who have worked more than 2 years in the program). Team leaders are not required to review rulings, letters or provide "sign-off" before they are mailed to clients.
+However, in comparing the CPP/EI Rulings QR process against other CRA rulings programs, specifically GST/HST Rulings and Income Tax Rulings, the audit team noted that both of these programs have peer or supervisory review before the ruling is issued and final letters are mailed to the clients.
+In a review[
+Footnote 2
+] conducted by the audit team of 620 completed rulings files, only 3 files contained any evidence of quality review having taken place. In addition, a number of quality issues relating to adherence to national procedures were noted, including:
+in 22% of the files examined, there was no indication that all stakeholders were notified of the ruling decision;
+the "Date Received" (in Rulings) and the "Date Received in CRA" fields were input incorrectly in 18% and 21% of files, respectively. Had the date been entered correctly for the "Date Received" (in Rulings), 36% of these files would not have been completed within the established timeframes;
+in 18% of files reviewed, the officer did not indicate whether there were any prior rulings or appeals; and
+in 71% of files reviewed, there was no evidence of additional documentation requested and obtained to supplement the information supplied by individuals, businesses and representatives by telephone and/or questionnaire.
+Recommendations
+The CPP/EI Rulings Division should:
+issue procedures and guidelines to ensure that the Quality Review process performed in the regions includes a random selection of work from all officers;
+implement a team-leader or manager sign-off process for rulings, similar to other CRA rulings programs; and
+improve operational and system controls to ensure that information is documented accurately and reliably.
+Action Plans
+During the 2009-2010 fiscal year, regions will be consulted with respect to the implementation of a quality review process. Discussions will include a sign-off process, frequency of sampling as well as a reasonable sample size, and enhancement of controls relating to data integrity. A QR process will be implemented in the course of the 2010-2011 fiscal year.
+The CPP/EI Rulings Division had a program monitoring process in place to review a selection of completed work in the regions until fiscal 2005-2006. It was discontinued when HQ decided to develop a new and more comprehensive Quality Assurance (QA) program, which was implemented in May 2008. QA uses standardized templates and procedures to facilitate an on-line review of closed cases by region. All offices within a region are reviewed, and a report is provided to the relevant regional Assistant Director. During the audit, CPP/EI Rulings completed and issued one QA report (for Prairie Region in October 2008).
+The CPP/EI Rulings Program’s current stated goals, objectives and performance indicators are quantitative in nature, focused on production volumes, timeliness and cost-efficiency. In this regard, the introduction of the QA process represents a positive commitment to continuous quality improvement. From the documents reviewed during the course of the audit, however, key elements of the process had not been clearly defined: goals and objectives, roles and responsibilities for completing reviews, the frequency for offices and regions to be reviewed, the methods for determining how many cases will be reviewed, and the timeframes for completion of reviews and providing feedback to the regions. In addition, it was not clear from source documents or from discussions with CPP/EI Rulings management as to what is expected from the regions in terms of action plans and follow-ups subsequent to the issuance of the QA reports.
+Recommendation
+The CPP/EI Rulings Division should specify goals, objectives and expectations for the Quality Assurance Program in order to measure, evaluate and continuously improve its effectiveness.
+Action Plans
+The goals, objectives and expectations for the Quality Assurance program will be added to the divisional website during the 2009-2010 fiscal year.
+Additionally, during the 2009-2010 fiscal year, regions will be consulted with respect to the creation of a program monitoring process. The process will be implemented during the 2010-2011 fiscal year.
+Appeals decisions are another quality indicator for a number of Agency programs where legislation provides for this form of redress. Each year, approximately 5 to 6 per cent of CPP/EI rulings are appealed. For these rulings, the rate of decisions reversed and varied by Appeals is high. For the last three fiscal years, the rates were as follows: 39% for 2007-2008, 44% for 2006-2007, and 45% for 2005-2006 (Source: Appeals Branch). Although a joint 2006
+CPP/EI Officer Role Review
+made recommendations and new policies were introduced, the current Appeals reversal/variance rates have not significantly dropped.
+Communication between CPP/EI Rulings and Appeals takes place as needed when issues arise, but there is little evidence that analysis is completed by either area to identify and evaluate trends and potential risks relating to overall rulings quality.
+Recommendation
+The CPP/EI Rulings Division should complete a joint study with CPP/EI Appeals to identify and analyze trends and reasons relating to high reversal/variance rates for rulings, with a view to enhancing overall rulings quality.
+Action Plan
+Discussions will take place with the CPP/EI Appeals Division to establish a joint study. The actual date of the joint study will need to be negotiated, but it will be completed during the 2010-2011 fiscal year.
+2.4 Workload Management
+Workload Management in the Regions
+CPP/EI Rulings workloads (intakes and inventories) are managed primarily at the regional level, with the CPP/EI Rulings Division monitoring volumes at the national level and communicating with regional Assistant Directors, managers and team leaders as necessary. During interviews held in the three regions visited, the audit team found that each employ different methods with respect to workload management.
+Offices in the Ontario region use telephone calls, spreadsheets and other forms of communication in allocating and distributing workload across the region. Fluctuations in volumes and sharing of inventory are handled by regional conference calls with team leaders and the regional manager, who is located in Sudbury. Some team leaders indicated they spend a significant amount of time on workload management, which reduces the amount of time they can spend dealing with other day to day management responsibilities.
+The rulings program in the Pacific region is centralized at the Vancouver TSO and Surrey TC. Team leaders in the region participate in a weekly conference call to discuss workload allocations, do basic forecasting, and deal with fluctuations in inventories. During interviews with Pacific rulings staff, it was found that rulings officers assign their own files for all workload types except for HRSDC files.
+The workload/inventory management method implemented by the Prairie Region is the most structured out of the regions examined during the audit. The Prairie region handles the management and distribution of their workload by using a regional intake centre (RIC) approach. The RIC is managed on a rotational basis by a TC or TSO team leader known as the "RIC Coordinator".
+Although the Prairie region has not conducted a formal evaluation of the RIC implementation, in interviews their management indicated that it has had a positive impact on fairness and equity in the distribution of work, and managing fluctuations in intakes. Furthermore, they have noticed that better workload management has led to improvements and efficiencies in meeting their goals and objectives. In addition, the position of the RIC Coordinator has shifted some of the duties attributable to workload away from team leaders which has allowed them to focus on other management responsibilities as outlined in their job description.
+Referral Allocation Distribution System (RADS)
+A LAN based, electronic inventory management system called the Referral Allocation Distribution System (RADS) was developed by the CPP/EI Rulings Division and implemented in 2007 for an internal referral (T4A / Line 104 project) workflow. Internal stakeholders use RADS to send requests relating to this workflow electronically to CPP/EI rulings, where supervisors can assign (or the system can auto-assign) work directly to officers.
+CPP/EI Rulings management in HQ and the regions indicate that the introduction of RADS has assisted them in managing and distributing inventory, reducing paper based referrals, and strengthening data integrity. Rulings officers, technical officers and internal stakeholders also offered positive feedback regarding RADS, although many would like to see it integrated with the Case Management System (CMS) to reduce the manual steps that currently exist in using the two independently-operating systems.
+RADS was expanded to include the PIER workflow in February 2009, and the CPP/EI Rulings Division has indicated that they are planning to gradually add other internal referral workflows over the next few years.
+Recommendations
+The CPP/EI Rulings Division should:
+complete an analysis and review of workload management practices, and implement shared guidelines and procedures to promote efficiency and ensure consistency between regions; and
+continue to expand RADS to other workloads, and consider the costs and benefits of integrating the RADS system with CMS.
+Action Plans
+In 2006, a study was conducted on workload management but since that date several of the regions have modified their workload management practices. During the 2009-2010 fiscal year, regions will be consulted and the study revisited in order to implement shared national guidelines.
+A pilot project to expand RADS to other workloads will be conducted in the Ontario Region and should be completed by the end of the third quarter of the 2009-2010 fiscal year. If the pilot is successful, RADS will be expanded nationally.
+A review of existing systems, including CMS, is currently being conducted. This includes the integration of RADS functionality into CMS.
+Conclusion
+The governance, risk management and controls in place to manage the CPP/EI Rulings program at the headquarters, regional and local office levels are effective in meeting program goals, which include processing rulings and other requests on a timely basis and meeting service standards consistently. The results of file reviews with respect to the accuracy of information entered into systems, however, indicate a potential data integrity issue which could impact overall results relating to processing timeliness.
+Controls relating to quality of rulings decisions and program outputs should be strengthened. Additional quality review of files prior to the issuance of rulings, trends analysis of Appeals decisions, and the introduction of qualitative goals, objectives and performance measures would supplement the Quality Assurance process recently implemented.
+Functional support to field offices is strong, and lines of communication with internal and external stakeholders are well-established.
+Workload management is approached differently in each of the regions. A review of the various methods and best practices used should be undertaken to consider establishing shared processes for increased consistency. At the national level, the introduction of the Referral Allocation Distribution System (RADS) for internal referrals has assisted management in headquarters and the regions in assigning and distributing work, reducing paper requests, and strengthening data integrity.
+Improvements to program governance should be made in areas relating to risk management and strategic planning. There is no systematic risk management process in place to identify and evaluate threats and opportunities for the program. In addition, there is no regular, structured business planning conducted by the CPP/EI Rulings Division to identify action plans, targets and deliverables to ensure that strategic objectives are achieved.
+Footnotes
+[Footnote 1]
+For the purposes of this report, Quality Review processes are those done prior to issuance of a CPP/EI ruling letter to a client. Quality Assurance processes are performed on completed files.
+[Footnote 2]
+The file review consisted of a total of 620 files, confidence rate of 95%, expected deviation rate of 5% and tolerable deviation rate of 7.8%.
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2017-12-15

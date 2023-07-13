@@ -1,0 +1,197 @@
+Audit Trails – Mainframe Access to Taxpayer Information
+Final Report
+Corporate Audit and Evaluation Branch
+June 2010
+Table of Contents
+Executive Summary
+Introduction
+Scope of the Audit
+Findings, Recommendations and Action Plans
+1.0 Compliance with policies, guidelines and procedures
+1.1 List of computer applications
+1.2 Exempted applications
+1.3 Authorization to access ATS and OATS
+1.4 Analysis of OATS reports
+1.5 Method for using ATS and OATS
+1.6 Monitoring and reporting activities
+2.0 Governance
+Conclusion
+Executive Summary
+Background:
+The Government Security Policy specifies, through its Security Organization and Administration Standard, that one of the government's fundamental principles is to limit access to sensitive information to individuals whose duties require such accesses. The Canada Revenue Agency (CRA) has to comply with this policy and has developed the Logging and Monitoring of Access to Taxpayer Information Policy (Logging Policy). Under the Logging Policy, all accesses, such as creating, posting, modifying or deleting taxpayer information, must be recorded. In other words, all systems and applications that provide access to taxpayer information must log accesses in an audit trail on a daily basis in the manner set forth by the Security and Internal Affairs Directorate (SIAD).
+Consequently, CRA has implemented a National Audit Trail System (NATS), for which SIAD is the functional authority, and the Information Technology Branch (ITB) is responsible for saving the files containing a record of accesses to taxpayer information. This system offers two ways to search audit trails: the On‑line Audit Trail System (OATS) and an Audit Trail System (ATS).
+Objective and scope:
+The objective of this audit was to determine whether audit trails of mainframe access to taxpayer information are recorded, managed and monitored in accordance with the CRA policy.
+Audit trails of accesses to taxpayer information retrieved from the mainframe environment through local applications or macros are excluded from this audit.
+The examination phase of this audit took place from July 2009 to March 2010 at seven sites in three regions and with designated individuals at SIAD and ITB.
+Conclusion:
+ATS activities, which are associated with very specific access controls, are clearly defined, monitored, and carried out. These activities are handled by experienced individuals who are very familiar with the process involved in these cases.
+However, for OATS activities, the Logging Policy is not detailed enough and does not provide the framework needed for optimal use of the Policy. Developing procedures to clarify the roles and responsibilities of stakeholders, goals, objectives and performance indicators would improve the framework for all CRA managers.
+There is also no evidence that a follow up, monitoring or reporting program is in place at SIAD to achieve the goals and objectives of the OATS audit trail activities.
+Improvements are also needed to compile the list of computer applications that should maintain audit trails.
+Action plan:
+SIAD agrees with the recommendations and developed action plans to address them. In order to strengthen governance of the national OATS monitoring program, SIAD will review the Logging and Monitoring of Access to Taxpayer Information Policy. They have also committed to developing related policy instruments and implementing a national audit trails monitoring program.
+SIAD also developed action plans to ensure that the current applications list is correct and up to date and that threat and risk assessments for exempted applications are completed.
+Introduction
+The Canada Revenue Agency (CRA) is subject to the provisions of the Government Security Policy(GSP), the Policy on Government Information Management, and federal government security standards. The GSP makes reference to the Security Organization and Administration Standard, which states that one of the government's fundamental principles is to limit access to sensitive information to individuals whose duties require such accesses.
+Furthermore, under the laws and regulations administered by CRA, Canadians are required to provide protected and sometimes classified information. As such, CRA has legal obligations to protect the confidentiality, integrity, availability and value of the information for which it is responsible. These obligations stem, among others, from the
+Income Tax Act, Excise Tax Act,
+the
+Access to Information Act
+, the
+Privacy Act
+, the Canada Pension Plan and tax conventions.
+In accordance with the provisions of the GSP and in support of the protection of confidentiality requirements set forth in these laws and regulations, CRA has adopted the Logging and Monitoring of Access to Taxpayer Information Policy
+[Footnote1]
+(Logging Policy) and implemented a National Audit Trail System (NATS). The Security and Internal Affairs Directorate (SIAD) of the Finance and Administration Branch is the functional authority for this system, and the Information Technology Branch (ITB) is responsible for saving the files containing a record of accesses to taxpayer information.
+There are two ways to search audit trails in the NATS:
+The On‑line Audit Trail System (OATS) is a monitoring tool that enables authorized users in local offices and in Headquarters to conduct random spot-checks. The local director has the authority to grant this type of access to OATS.
+The Audit Trail System (ATS) records historical data. An audit trail report may be requested in response to a complaint by a taxpayer, in support of an investigation into alleged or suspected unauthorized access, or in response to an access to information request. Access to ATS is controlled by the Internal Affairs and Fraud Prevention Division (IAFPD).
+Under the Logging Policy, all accesses, such as creating, posting, modifying or deleting taxpayer information must be recorded. In other words, an audit trail must be maintained for all accesses. Exemptions to this policy must be justified through the Threat and Risk Assessment (TRA) process and approved by SIAD. In addition, control of access to taxpayer information is a key measure to mitigate the risk of unauthorized use and disclosure of such information.
+At CRA, SIAD is responsible for implementing measures and programs to ensure the protection of Agency information and assets, to conduct investigations into alleged or suspected misconduct, to establish methods for preventing fraud and to provide information services for the protection of employees and assets. The Information Security Division (ISD) is responsible for OATS, while IAFPD is responsible for ATS.
+Scope of the Audit
+The purpose of the internal audit was to determine whether audit trails of mainframe access to taxpayer information were recorded, managed and monitored in accordance with the CRA policy.
+It is important to note that audit trails regarding accesses to taxpayer information retrieved from the mainframe environment through local applications or macros are excluded from this audit.
+The examination phase of this audit took place from July 2009 to March 2010. Interviews, review of key documentation and tests using the Audit Trail System's databases and those related to monitoring activities were carried out at SIAD and at seven sites in three regions. To obtain further information as well as to confirm and validate certain data gathered previously, designated individuals at ITB were also contacted.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Findings, Recommendations and Action Plans
+1.0 Compliance with policies, guidelines and procedures
+1.1 List of computer applications
+Employees who are authorized to access taxpayer information carry out their duties using various computer applications on the CRA mainframe. To determine whether audit trails regarding these accesses are recorded in accordance with the Logging Policy, internal auditors contacted ITB to obtain a list of all applications installed on the CRA mainframe. This list, obtained in May 2009, contained a total of 134 applications with the ability to maintain audit trails. It was considered the main source of information throughout the examination phase and was used in the following three stages to confirm the applications generate audit trails:
+Test a sample of users in the local offices visited;
+Compare and validate data from the list against the tests conducted by our senior information technology analyst;
+Compare and validate the data from the list against data from ISD.
+The first stage involved 62 employees and team leaders. It confirmed the existence of audit trails in NATS for 84 of the 134 applications. This is an acceptable result at this stage, as several applications are on the e‑business computer infrastructure, to which the users interviewed did not have access as part of their duties.
+The objective of this first stage was also to determine whether certain applications accessed during the tests contained taxpayer information but were not included in the list provided by ITB. No discrepancies were observed in this regard.
+The second stage was conducted using the NATS database. These tests were used to validate the existence of audit trails for 46 other applications.
+As a result, the first two stages traced the existence of audit trails for 130 of the 134 applications (97%). The other four undetected applications were referred to ISD for investigation.
+For the final stage, internal auditors asked ISD in December 2009 for a list of applications in order to compare it to the list provided by ITB and used during the examination phase. The list provided by ISD was generated based on the mainframe applications accessed and saved in the NATS in November 2009. In comparing the two lists, some disparities in the total number of applications were noted and referred to ISD for investigation. The series of tests concluded that we were unable to obtain a comprehensive list of applications that should maintain audit trails.
+Recommendation
+ISD, in collaboration with ITB, should ensure that the list of applications providing access to taxpayer information is accurate, reliable and comprehensive.
+Action plan
+SIAD, in collaboration with the ITB, will identify the reason for irregularities between the various lists used to record the applications that maintain or require audit trails and will ensure that the current list is correct and up to date. The necessary changes will be identified and made as required.
+Target date: September 30, 2010.
+1.2 Exempted applications
+Under the Logging Policy, every access to taxpayer information must be recorded in a log (audit trail) unless it is exempted as a result of a TRA conducted by SIAD.
+A review of documentation and interviews in ISD revealed that there is a follow-up process for applications between ITB and ISD in order to ensure compliance with the Logging Policy. Although some applications have recently been exempted by SIAD, only one of the four requested TRAs was obtained. This draft version of the TRA was dated September 2007; however, the decision to exempt the application was made on December 17, 2008. Thus, there is no evidence that the approval process for the requested TRAs was complete.
+Recommendation
+The ISD should ensure to complete and retain the final version of all TRAs for every exempted application.
+Action plan
+SIAD, in collaboration with ITB, will identify the missing TRAs. If the TRAs have not been completed, SIAD and ITB will work closely with the client to start the process and complete the TRAs.
+Target date: December 31, 2010.
+1.3 Authorization to access ATS and OATS
+Access to ATS is limited to staff at IAFPD, and no discrepancies were noted in this regard. The request, the audit trail report and the results of its analysis were only communicated to individuals on a need to know basis, and information related to the cases processed is regularly recorded in the IAFPD Case Manager database.
+For OATS, the Logging Policy indicates that authorized users in local offices can request reports in the system and that the local director is the authority to control their authorizations access to OATS.
+At the time of the examination phase, several OATS users were not authorized by the local directors in three sites verified. The list of people with profiles was also not checked periodically and was not up to date, which also falls under the responsibility of the local director.
+Recommendation
+In collaboration with regional stakeholders, SIAD should ensure that the requirement in regard to authority to control OATS access is met, that this authority is exercised only by the local director and, in his or her absence, by the designated replacement, and that the appropriate monitoring processes are in place.
+Action plan
+As an interim measure, the SIAD will send a communiqué to all Directors to remind them of their authority to grant OATS access in their respective offices exclusively as defined in the existing Policy.
+Target date: July 31, 2010.
+The SIAD will survey all regions regarding current process, forms, documents, records used in their region to grant, log and monitor users' access, to identify gaps and best practices.
+Target date: September 30, 2010
+Based on the analysis of the survey results, a Directive on Granting Access to OATS (granting, logging, monitoring) will be issued.
+Target date: March 31, 2011
+SIAD will develop and implement a national audit trail monitoring program to ensure consistent approach across the CRA when reviewing audit trail reports.
+Target date: June 30, 2011.
+SIAD will review the Logging and Monitoring of Access to Taxpayer Information Policy (Chapter 22), Finance and Administration Manual, Security Volume to define roles, responsibilities and accountabilities related to granting OATS. Creating related policy instruments is required to better define the activities, performance measures and steps to follow, as well as to standardize the OATS monitoring approach (directives, standards, procedures, guidelines). Policy and related instruments will be approved by the Board of Management by target date.
+Target date: December 31, 2011
+1.4 Analysis of OATS reports
+It is essential that tools related to audit trails be used by stakeholders in a uniform manner and for their intended purposes.
+Most team leaders interviewed showed a lack of understanding in the various elements of reviewing OATS reports. Some only briefly checked the data in the reports, as they felt that there was far too much information. Others only looked at a few elements that represented a high risk for their work area.
+Some information relevant to the analysis of OATS reports is difficult to understand. The information is abbreviated and sometimes missing, such as the names of taxpayers, in some of the applications reviewed. A 2008 study of OATS by SIAD also identified similar problems. This study concluded that OATS did not meet the needs of SIAD and led to the development of a document entitled High Level Business Requirements, containing the desired vision for the system as well as the identification of needed improvements.
+The audit did not reveal that a national analysis tool exists. Although basic analysis grids were developed locally or regionally, there was no uniformity in the analyses performed. In addition, no process has been implemented by management to verify the quality of the work performed in the analyses of OATS reports.
+ISD also developed a macro application for saving OATS search results. This tool was rarely used by managers to conduct verifications. It is to be noted that this tool does not have sorting or searching capabilities in support of analyses.
+Recommendation
+SIAD should ensure that the necessary corrections are made to the existing system, including the development of a macro application with a national analysis grid in an Excel format and that training sessions are given using real examples.
+Action plan
+The observation that the information in the OATS reports is difficult to understand because some data fields are missing or abbreviated will be addressed by the first NATS modernisation phase that will standardize the data fields recorded in NATS. SIAD completed the definition of High Level and Detailed Business Requirements for this project and obtained a cost estimate from ITB. SIAD will complete the cost benefit analysis for presentation to the Resource and Investment Management Committee to request project funding.
+Target date: March 31, 2011
+SIAD will survey all regions on existing electronic tools used to produce an analyse audit trail reports.
+Target date: September 30, 2010
+SIAD will review existing tools and make national distribution of the best tools to regions as an interim measure for managers to integrate into their practices.
+Target date: November 30, 2010
+SIAD will evaluate effectiveness of existing analysis grids and technological tools (macro or other), identify gap and develop, as required, national analysis tools. SIAD will also develop a training package for managers and a plan to implement this training.
+Target date: March 31, 2011
+1.5 Method for using ATS and OATS
+Stakeholders should use ATS and OATS in a uniform manner and in accordance with the Logging Policy. OATS is used for random checks, while ATS is used for very specific purposes.
+As stated by all management interviewed in local and regional offices, the audit trail service provided by the Internal Affairs and Fraud Prevention Division (IAFPD) is adequate and timely. All ATS requests are justified and comply with the policy. Based on what was observed, the Case Manager database allows very limited access and is adequate for the needs of IAFPD.
+For OATS, the verification coverage sample and frequency as well as the number of days and the period covered by the verification must be clarified. Based on the statistics obtained on the reports, certain objectives set by the regions for reviewing accesses were somewhat theoretical, as the results do not correspond to the deliverables.
+Of the three regions visited, the first set a regional objective of annually reviewing the accesses of 10% of employees, in addition to local objectives. At the time of the examination phase, two thirds of the divisions visited had dropped the local element and only conducted the reviews required under the regional component. Our analysis of the regional reports concluded that only 7% of employee accesses were reviewed. The second region had set an objective of reviewing 100% of employees over 12 months. A review of the reports prepared by that region indicated that only 46% were completed. Finally, the third region had also set an objective of reviewing 100% of its employees annually, while the results from the two offices visited show that only 47% and 35% of the objective were achieved. For the first two regions, part of these discrepancies is attributable to the selection method used. Therefore, there is a lack of uniformity and understanding of the objectives being set.
+An Excel table prepared by SIAD is also very revealing of the inconsistencies in OATS requests for all CRA offices. In addition, our analysis of this table shows that very few reviews were conducted at Headquarters as a whole and in one CRA region.
+Stakeholders were not using OATS in a uniform manner. Each region developed its own method for using the system because there were no clear directives from SIAD.
+Recommendation
+In consultation with the regions, ISD should define the objectives and issue guidelines in order to standardize the search method to be used in OATS.
+Action plan
+SIAD will survey regions and evaluate their respective OATS monitoring program (objective, sampling selection method, frequency, and time period).
+Target date: September 30, 2010
+Once the information is reviewed, the SIAD will consult with stakeholders on a proposed directive.
+Target date: December 31, 2010
+SIAD will issue an interim directive on objectives, sampling selection method, frequency and time period.
+Target date: March 31, 2011
+SIAD will develop and implement a national audit trail monitoring program to ensure consistent approach across the CRA when reviewing audit trail reports.
+Target date: June 30, 2011.
+SIAD will review the Logging and Monitoring of Access to Taxpayer Information Policy (Chapter 22), Finance and Administration Manual, Security Volume to define a national objective (quantitative and qualitative) for OATS reviews. Creating related policy instruments is required to better define the activities, performance measures and steps to follow, as well as to standardize the OATS monitoring approach (directives, standards, procedures, guidelines). Policy and related instruments will be approved by the Board of Management by target date.
+Target date: December 31, 2011
+1.6 Monitoring and reporting activities
+Monitoring and reporting activities must be clearly defined, communicated, and controlled by SIAD, regional security and local offices. OATS search reports and documentation must be retained in support of analysis and results.
+However, the Logging Policy does not mention how OATS reports and documentation should support analyses and results. Instructions regarding consultation and retention of search documentation vary from one region to another. Furthermore, the way in which analyses were conducted did not allow for a monitoring program.
+Apart from compiling the number of OATS requests, there is no national monitoring or reporting program to ensure adequate use of OATS. As a result, some regions, offices or work areas make almost no use of OATS, and no one is asking them to report their use.
+For the sites visited, a very basic form was completed by team leaders or managers and sent to local or regional security. No evidence that the work was reviewed could be found to show that analysis requirements were met. It is therefore difficult to verify that analysis work was done properly.
+Recommendation
+SIAD should develop a monitoring and reporting program to support the review of OATS reports in order to ensure that analyses are conducted in a uniform manner based on established objectives.
+Action plan
+SIAD will survey regions and evaluate their respective OATS monitoring program (standardization of reports and recording of results).
+Target date: September 30, 2010
+Once the information is reviewed, the SIAD will consult with stakeholders on a proposed directive.
+Target date: December 31, 2010
+SIAD will issue an interim directive on standardization of reports and recording of results.
+Target date: March 31, 2011
+SIAD will develop and implement a national audit trail monitoring program to ensure consistent approach across the CRA when reviewing audit trail reports.
+Target date: June 30, 2011.
+SIAD will review the Logging and Monitoring of Access to Taxpayer Information Policy (Chapter 22), Finance and Administration Manual, Security Volume to define a national objective (quantitative and qualitative) for OATS reviews. Creating related policy instruments is required to better define the activities, performance measures and steps to follow, as well as to standardize the OATS monitoring approach (directives, standards, procedures, guidelines). Policy and related instruments will be approved by the Board of Management by target date.
+Target date: December 31, 2011
+2.0 Governance
+Policies, guidelines and procedures should be developed, defined, communicated and understood in order to provide a clear operational guidance to staff in local and regional offices and at SIAD. These policies and procedures should include roles and responsibilities, goals and objectives as well as selection, implementation and monitoring methods. It is also important that performance measurement indicators be in place to evaluate progress in meeting goals and objectives for audit trail activities.
+The logging policy does not refer to any guidelines or procedures regarding the use of OATS. Instead, it is a general guidance document that is not detailed enough to guide stakeholders in the performance of their duties.
+However, the Logging Policy meets ATS activities needs due to the very nature of the cases handled by experienced individuals who are very familiar with the process associated with such cases.
+For OATS, clarification is needed regarding the roles and responsibilities related to training and how team leaders and managers conduct analyses.
+Some stakeholders are concerned by the lack of communication and coordination between users, causing dissatisfaction and confusion about how to implement control measures.
+The goals and objectives as set forth in the policy are given in a general format and do not provide clarification regarding the quantitative results expected. It must also be noted that some team leaders question the effectiveness of the OATS tool
+Based on the regional results of the sites visited, the quantitative goals and objectives were defined but were not uniform. They were also not achieved locally in certain divisions or sectors. There is no systematic and uniform approach to carrying out or supervising audit trail activities at all levels.
+Regionally, there are very few performance measurement indicators. However, when performance measurement indicators are in place, they are not met. There is also no national follow-up in order to evaluate the progress achieved in regard to the audit trail process.
+Recommendation
+To provide the necessary framework, SIAD should develop detailed procedures and guidelines applicable to all elements of the OATS process in order to define the roles and responsibilities of the various stakeholders, set goals and objectives for OATS activities and develop performance indicators to ensure that those objectives are met.
+Action plan
+The SIAD will issue an interim directive defining objective, roles and responsibilities.
+Target date: December 31, 2010
+SIAD will develop and implement a national audit trail monitoring program to ensure consistent approach across the CRA when reviewing audit trail reports.
+Target date: June 30, 2011.
+SIAD will review the Logging and Monitoring of Access to Taxpayer Information Policy (Chapter 22), Finance and Administration Manual, Security Volume to define a national objective (quantitative and qualitative) for OATS reviews. Creating related policy instruments is required to better define the activities, performance measures and steps to follow, as well as to standardize the OATS monitoring approach (directives, standards, procedures, guidelines). Policy and related instruments will be approved by the Board of Management by target date.
+Target date: December 31, 2011
+Conclusion
+CRA has adopted the Logging Policy to control accesses to sensitive taxpayer information and, as such, has implemented two types of audit trail searches, ATS and OATS.
+ATS activities, which are associated with very specific access controls, are clearly defined, overseen and carried out. They are handled by experienced individuals who are very familiar with the process involved in these cases. No concerns were raised regarding ATS during this audit.
+Despite the existence of the Logging Policy, the audit identified areas of improvement in order to strengthen OATS activities. As a result, this policy should be supported by detailed procedures to define the roles and responsibilities of the stakeholders, the goals and objectives of the activities, the development of performance measurement indicators and the development of a follow‑up, monitoring and reporting program.
+Improvements are also needed in compiling the list of computer applications that need to maintain audit trails and the process for approving exempted applications.
+Footnotes
+[Footnote 1]
+Finance and Administration Manual, Security Volume, Chapter 22
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2010-11-01

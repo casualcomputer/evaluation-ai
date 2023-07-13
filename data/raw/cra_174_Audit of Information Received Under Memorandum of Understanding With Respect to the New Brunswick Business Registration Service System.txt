@@ -1,0 +1,130 @@
+Audit of Information Received Under Memorandum of Understanding With Respect to the New Brunswick Business Registration Service System
+Corporate Audit and Evaluation Branch
+October 2006
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings
+Use and Disclosure of Information
+Security and Safeguarding of Information
+Management of User Access Privileges
+Encryption
+Destruction of Information
+Security Awareness
+Conclusion
+Executive Summary
+The Canada Revenue Agency (CRA) has entered into a large number of Memoranda of Understanding (MOUs) and agreements with federal, provincial and territorial departments and agencies. This audit dealt with information received by the CRA under the MOU with respect to the
+New Brunswick Business Registration Service System
+signed on January 14, 2004.
+According to the MOU, the Province of New Brunswick (NB) and the CRA agreed to implement an integrated registration process to provide clients with a simplified method for registering with multiple government agencies. This was to provide a mechanism for the CRA and NB to utilize a common business identifier for their clients and provide on-line access to a joint registration system. Information provided to the CRA by NB is that which is required for the CRA to create a business number and maintain an account in the National Business Registry.
+Information exchange MOUs signed since 2001 generally include a clause whereby both parties will conduct periodic internal audits of the use, disclosure, and security with respect to information provided to each other. The audits are to be conducted within two years of the effective date of the MOU and, thereafter, at a minimum of once every five years. This internal audit report will be forwarded to NB by the Corporate Strategies and Business Development Branch, in accordance with the terms of the MOU.
+Objective:
+The objective of the audit was to provide assurance that the CRA is in compliance with the terms and conditions governing the use, disclosure, and security of information received from NB under this MOU. The audit was conducted during the fiscal year 2005-2006, and was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Conclusion:
+Based on the audit work performed, it is our opinion that the CRA is in compliance with the terms and conditions of the MOU governing the use, disclosure, and security of information received from NB. There was no evidence that information was used for other than the purpose for which it was intended, or disclosed to anyone outside of the terms of the MOU. Selected security standards applicable to the safeguarding of information received have been met.
+Introduction
+The Canada Revenue Agency (CRA) has entered into a large number of Memoranda of Understanding (MOUs) and agreements with federal, provincial and territorial departments and agencies. This audit dealt with information received by the CRA under the MOU with respect to the
+New Brunswick Business Registration Service System
+signed on January 14, 2004.
+The purpose of the MOU between the Province of New Brunswick (NB) and the CRA was to implement an integrated registration process to provide clients with a simplified method for registering with multiple government agencies. This was to provide a mechanism for the CRA and NB to utilize a common business identifier for their clients and provide on-line access to a joint registration system. Businesses may register for NB programs through various provincial service channels including the internet, mail, telephone, or counter-service. Registration information is then electronically sent to the CRA by NB. This information is required in order for the CRA to create a business number (BN) and maintain an account in the National Business Registry [
+Footnote 1
+]. The Business Number Services unit at the Summerside Tax Centre facilitates the resolution of problems that may occur during the registration process.
+The BN is a common identifier for businesses designed to simplify their dealings with numerous federal and provincial government programs, supporting the concept of “one client, one number”. This concept also reflects one of the strategic objectives of the CRA to strengthen partnerships with provinces and territories. BN data includes client identification and program registration information for numerous programs at all government levels. The business number database maintained by the CRA contains approximately 8.3 million accounts for more than 4.7 million business entities. The number of accounts maintained by the CRA for NB provincial programs is approximately 50,000.
+The MOU between the CRA and NB requires both parties to ensure that procedures are in place to protect the information from any further unauthorized disclosure. To this end both parties agreed to protect information in accordance with a series of standards related to the handling of client information. These standards are contained in an appendix to the MOU. In addition, a separate security standards document was also signed by both parties and is referred to in the MOU. [
+Footnote 2
+] This document outlines administrative, personnel, physical, and communication security standards.
+Information exchange MOUs signed since 2001 generally include a clause whereby both parties will conduct periodic internal audits of the use, disclosure, and security with respect to information provided to each other. The audits are to be conducted within two years of the effective date of the MOU and, thereafter, at a minimum of once every five years. The inclusion of the internal audit clause was part of a Corporate Strategies and Business Development Branch initiative to strengthen the security and client confidentiality provisions of existing MOUs that provided for the exchange of confidential client information. According to the terms of the MOU, this internal audit report will be forwarded to the province of New Brunswick.
+Focus of the Audit
+The objective of the audit was to provide assurance that the CRA is in compliance with the terms and conditions governing the use, disclosure, and security of information received from NB. The audit was requested by the Corporate Strategies and Business Development Branch as one in a series of mandatory audits to ensure compliance with the terms and conditions of MOUs.
+The scope of the audit included the Assessment and Benefit Services Branch (Business Registration Programs Support Section), the Corporate Strategies and Business Development Branch (Provincial and Territorial Relations Division), and the Summerside Tax Centre (Business Number Services). The audit was conducted during the fiscal year 2005-2006, and was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings
+Use and Disclosure of Information
+According to this MOU, information is to be used by the CRA solely for the administration and enforcement of the
+Income Tax Act
+and the
+Excise Tax Act;
+and information is only to be disclosed to others under the terms and conditions set out in the MOU.
+Much of this data is available to the general public from the
+Corporate Affairs Registry
+of
+Service New Brunswick
+. Therefore, limited audit procedures were performed in this area as the risks and consequences from inappropriate use and disclosure would not be significant. There was no evidence that information was used for other than the purpose for which it was intended.
+The CRA uses information provided by NB for the purpose of assigning a business number to a business entity in NB. The information received by the CRA would include the legal name of the business, business address, and owner(s) name(s). CRA maintains approximately 50,000 accounts on behalf of NB - this represents less than 1% of the active accounts in the
+National Business Registry
+. Many of the business entities associated with the accounts also have CRA accounts. (e.g. GST/HST, Corporation Tax, or Payroll Deduction accounts). Therefore, the core information related to BN accounts is the same for both the CRA and NB programs. Thus, the risk is minimal that NB specific information will be disclosed outside the terms of the MOU.
+Interviews conducted at the Assessment and Benefit Services Branch (Business Registration Programs Support Section) and the Summerside Tax Centre (STC) confirmed that information received from NB is used only to assign a business number and is only further disclosed within the terms of the MOU. An example relating to disclosure would be a situation where NB sends a message to the CRA to advise of a name change in a NB corporation. This information would then be updated in the BN system and then communicated to all systems legally permitted to receive the information including other provinces that have adopted the BN registration system and that are impacted by the change.
+Those interviewed at the Summerside Tax Centre indicated that they were not aware of any security incidents relating to information received from NB. In addition, the Security, Risk Management, and Internal Affairs Directorate of the Finance and Administration Branch has indicated that there have been no reported security incidents with respect to information received under the MOU. Controls in place regarding security awareness of employees (discussed later in this report) also serve to strengthen and enhance compliance with the terms and conditions for the use and disclosure of information.
+Security and Safeguarding of Information
+The MOU with NB contains an appendix that outlines CRA security standards for the handling of protected client information. In addition, a separate document entitled
+Security Standards – CRA and Non-Federal Organizations Protection of Information
+was also jointly signed by the CRA and NB. Overall, the two documents refer to over 30 security standards applicable to the handling, storage, and disposition of information.
+Internal audit conducted a risk assessment to determine the most significant risks in relation to the information received from NB. The Information Security Division of the Finance and Administration Branch also provided expert advice during the risk assessment. Based on the assessment, controls were examined in the following areas:
+Management of User Access Privileges;
+Encryption;
+Destruction of Information; and
+Security Awareness.
+Management of User Access Privileges
+The security of confidential client information is enhanced when access to information systems is only granted to employees when the information is needed to perform work-related activities. Furthermore, a management control system of user access rights ensures that employees do not accumulate user access rights when they change jobs within an organization. CRA security standards require that a record of all computer system access privileges is to be created and maintained for each person. In addition, a user's access privilege is to be kept current and immediately revoked or suspended when access to perform the assigned functions is no longer required. These security standards have been met in the Business Number Services (BNS) unit at the Summerside Tax Centre (STC).
+An audit test of computer user profiles held by employees in the BNS unit at the (STC) indicated that employees only held user profiles in CRA systems that were compatible with their duties. The management of user access profiles at the STC is supported by a local application called
+Profile Requests Online
+(PRO). The PRO system is used to identify which specific user profiles are required for a particular job. The system also functions by automatic deletion of previous access rights to systems when an employee changes positions within the STC.
+Client information received from NB and maintained in the BN system may be accessed by any CRA employee with an appropriate access profile in the BN system or any CRA system that is updated by the BN system. [
+Footnote 3
+] Therefore, a large portion of the CRA's 40,000 employees would require access to this type of information to perform their duties. The management of user access profiles in the CRA has been identified as an issue in a number of internal audit reports including an audit of information technology security in 2004. As a result of these audits, the Information Security Division of the Finance and Administration (F&A) Branch has undertaken several user access profile initiatives. The Internal Audit Division will conduct a follow up to the 2004 audit during the fiscal year 2006-2007.
+Encryption
+Under the terms of the MOU, the CRA and NB agree that client information transmitted electronically will be encrypted. In order to obtain a BN for a client, NB sends information electronically to the CRA using an encrypted [
+Footnote 4
+] secure channel. Information may also be exchanged between NB and the CRA after a client registration has occurred. Based on client information received from NB, the Business Number System issues a BN to the client if it is reasonably certain that a duplicate registration does not exist. If a possible duplicate exists, a BNS clerk searches the BN system and other CRA systems to determine whether a duplicate does exist. If a duplicate registration is detected, NB is notified to advise the client of the correct BN. NB is notified of duplicate registrations by means of an encrypted [
+Footnote 5
+] e-mail. The observation of files stored on a shared drive in the BNS unit, confirmed that they are encrypted. The terms of the MOU, related to the encryption of information that is transmitted electronically, have been met.
+Destruction of Information
+According to the conditions outlined in the MOU, information that is determined to be surplus to program administration needs is to be destroyed. Account information stored electronically in the BN system is not destroyed where the account, for example, has been closed. All information remains in the BN system for an indefinite period of time. The Business Returns and Payments Processing Directorate of the Assessment and Benefit Services Branch has indicated that the retention of account information on closed BNs can facilitate debt collection and account reactivation.
+The BN system generates work in process reports that are automatically printed at the Summerside Tax Centre on a daily basis. These reports are generated where the BN system has detected a possible duplicate registration. Once research has been done to determine whether a duplicate registration has occurred, the printout containing the client information is destroyed. Electronic files that are e-mailed to SNB, to advise of a correction to a business number, are also destroyed on a regular basis. The observation of these files, on a shared drive at the Summerside Tax Centre, indicated that they are retained for only a two-month period.
+Security Awareness
+CRA administrative security standards related to the computing environment, and contained in the MOU with NB, include the following:
+Users are not to use access privileges for personal benefit or curiosity;
+Computer system accounts and passwords are never to be shared; and
+Users are to ensure that access privileges are protected against unauthorized access when leaving their active session or when leaving the premises.
+The audit did not find any instances in which the BNS unit at the STC compromised on the CRA security standards.
+In the Atlantic Region, an audit trail initiative commenced in November 2005. The initiative involves the selection of a random sample of employee user IDs in the region on a bi-monthly basis. Using the On-line Audit Trail System (OATS), a record is generated of each employee's access to taxpayer accounts in mainframe systems. Managers are then required to certify that accesses are for work-related purposes. Internal Audit reviewed a sample of an OATS report of systems accesses that was generated for an employee at the Summerside Tax Centre for January 2006. In addition, a review was done of the document that certified that all accesses to taxpayer accounts was done according to CRA policies and guidelines. The document, signed by the employee's manager, also certified that the employee was informed that the review was done.
+A security awareness program is in place in the CRA and is delivered both on national and at local levels. The program promotes awareness of policies and procedures related to the protection of CRA personnel, information, and physical assets. At the Summerside Tax Centre all employees that were interviewed reported that they had received security awareness training when they first joined the agency and periodically thereafter. Security issues are also regularly discussed at team meetings and employees also receive security reminders via e-mail. Additionally, security posters were observed at the tax centre reminding employees, for example, to lock their computers when they leave their workstations to prevent the inadvertent disclosure of confidential information. An additional and compensating control exists in the computing environment as users are automatically locked out of the network after 10 minutes of inactivity.
+On a national level, the
+Security, Risk Management, and Internal Affairs Directorate
+of the Finance and Administration Branch launched the electronic interactive awareness session called
+Protecting Agency Employees, Information, and Assets: I make it my business
+in February 2006 as part of security awareness week in the CRA. The session is composed of several modules. The modules cover such topics as the legislative context, personnel security screening, categorization and protection of information, reporting of security incidents, and access to personal income tax information. Additionally, at regular intervals throughout the year, the Directorate sends newsletters to all CRA employees via e-mail. The newsletters were found to cover a range of security topics including e-mail security best practices, access to CRA systems, and protecting user IDs and passwords.
+Conclusion
+Based on the audit work performed, it is our opinion that the CRA is in compliance with the terms and conditions of the MOU governing the use, disclosure, and security of information received from NB. There was no evidence that information was used for other than the purpose for which it was intended, or disclosed to anyone outside of the terms of the MOU. Selected security standards applicable to the safeguarding of information received have been met.
+Footnotes
+[Footnote 1]
+The National Business Registry is the CRA's central repository of information for businesses using the BN system for federal and provincial programs
+[Footnote 2]
+The document is entitled:
+Security Standards – CRA and Non-Federal Organizations Protection of Information With Regard To The MOU concerning: Service New Brunswick Business Registration Service System
+[Footnote 3]
+Example of systems that are updated by the BN system are the RAPID system (Random Access Personal Information Database for T1 Personal Income Tax); GST Production; and Cortax (Corporation Income Tax)
+[Footnote 4]
+Encryption software used is Secure Sockets Layer version 3.
+[Footnote 5]
+Encryption tool used is
+Entrust
+software.
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2007-01-04

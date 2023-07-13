@@ -1,0 +1,295 @@
+Internal Audit – Criminal Investigations Program
+Final Report
+Audit, Evaluation, and Risk Branch
+March 2022
+Notice to the reader
+Please note that in the spirit of the Access to Information Act, some information within this document cannot be disclosed for reasons related to information that was obtained in confidence from a government of a foreign state.
+On this page
+Executive summary
+1. Introduction
+2. Focus of the audit
+2.1. Importance
+2.2. Objective
+2.3. Scope
+2.4. Audit criteria and methodology
+3. Findings, recommendations, and action plans
+3.1. Leads intake and processing
+3.2. Identification of workload
+3.3. Quality assurance
+3.4. Performance measurement
+4. Conclusion
+5. Acknowledgement
+6. Appendices
+Appendix A: Audit criteria and methodology
+Appendix B: Legal environment challenges
+Appendix C: Glossary
+Executive summary
+The Canada Revenue Agency (CRA) takes non-compliance very seriously. The Criminal Investigations Directorate within the Compliance Programs Branch is responsible for the Criminal Investigations Program, which investigates significant cases of tax evasion, fraud, and other serious violations of tax laws. Where appropriate, the Criminal Investigations Directorate refers cases to the Public Prosecution Service of Canada for possible criminal prosecution. If convicted, tax evaders could face court-imposed fines, jail time, and publicity of their conviction, in addition to having to pay the taxes they tried to evade, plus interest and penalties.
+The objective of the audit was to provide the Commissioner, CRA management, and the Board of Management with assurance that the Criminal Investigations Program has implemented effective internal controls to allow it to appropriately identify workload and assess the quality and performance of its investigations.
+The audit found that the Criminal Investigations Program has an effective system to receive internal referrals and external leads. The program is dependant on these leads and referrals to identify potential criminal investigation files. As criminal investigation files can result in prosecution by the Public Prosecution Service of Canada, Canada’s legal framework guides how an investigation is performed and the time it takes to complete an investigation. Although the results of the prosecuted cases are published, the reporting of the actual metrics of the program’s overall results does not provide sufficient information to monitor the program’s performance and conclude on how well the program is doing.
+Summary of recommendations
+The Compliance Programs Branch should implement targeted outreach activities to promote T134 referrals to targeted CRA program areas.
+The Compliance Programs Branch should ensure that all external leads received by liaison officers are entered in the leads referral register in a timely manner and that decisions on individual leads are adequately documented.
+The Compliance Programs Branch should review and update its methodology to ensure it is providing useful and timely feedback on quality assurance recommendations, as well as establish a monitoring process to ensure that corrective actions are taken.
+The Compliance Programs Branch, in collaboration with the Service, Innovation and Integration Branch, should review the existing performance indicators and develop new indicators where feasible to ensure the program’s performance indicators are relevant, appropriately assessed, and support decision making.
+Management response
+The Compliance Programs Branch agrees with the recommendations in this report and has developed related action plans. The Audit, Evaluation, and Risk Branch has determined that they appear reasonable to address the recommendations.
+1. Introduction
+The Canada Revenue Agency (CRA) takes non-compliance very seriously. The Criminal Investigations Directorate within the Compliance Programs Branch is responsible for the Criminal Investigations Program, which investigates significant cases of tax evasion and ancillary offences, such as fraud and other serious violations of tax laws. Where appropriate, the Criminal Investigations Directorate refers cases to the Public Prosecution Service of Canada for possible criminal prosecution. If convicted, tax evaders could face court-imposed fines, incarceration, and publicity of their conviction, in addition to having to pay the taxes they tried to evade, plus interest and penalties.
+A criminal investigation goes through three phases: (1) Workload/Preliminary, (2) Investigation, and (3) Court. In the Workload/Preliminary phase, various CRA program areas as well as national and international partners send referrals and leads to the Criminal Investigations Directorate. Detailed assessments, including a tiering committee review, take place to ensure selected files meet the Criminal Investigations Directorate’s strategic priorities before cases are assigned to investigators for the next phase. In the Investigation phase, investigators gather evidence through search warrants and other means to support the case. Finally, in the Court phase, Crown Counsel authorizes the CRA to lay charges against the offender(s), and the prosecution is led by the Public Prosecution Service of Canada with support from the CRA. The case is concluded when the court renders its decision and an enforcement notification is published to inform the public of any decision and sentencing.
+Planning and conducting investigations involves applying knowledge of criminal law found in the Criminal Code, tax laws found in the tax acts administered by the CRA, the rules of evidence, forensic accounting, and other related jurisprudences and acts. The ability to conduct criminal investigations is dictated by Canada’s legal framework. This legal framework poses some challenges for an investigation, including limiting the files that are investigated and hampering the established timeframes. These barriers that the Criminal Investigations Directorate often faces in their investigations related to the legal framework are not within their control and influence.
+2. Focus of the audit
+This internal audit was included in the Board of Management (Board) approved Risk-Based Assurance and Advisory Plan 2020-2021. The Assignment Planning Memorandum was presented to the Audit Committee of the Board on
+September 14, 2021
+, and approved by the Commissioner in October 2021.
+2.1. Importance
+Maintaining fairness in Canada’s tax and benefit administration, and strengthening trust, transparency, and accountability are two of the CRA’s priorities. To maintain confidence in the integrity of Canada’s self-assessment tax system and to deter others from failing to comply with tax laws, the CRA needs to address tax evasion. The Criminal Investigations Program works to ensure significant cases of tax evasion are investigated and, where appropriate, referred to the Public Prosecution Service of Canada for criminal prosecution. A criminal investigations program that is accomplishing its mandate helps the CRA achieve its priorities.
+2.2. Objective
+The objective of the audit was to provide the Commissioner, CRA management, and the Board with assurance that the Criminal Investigations Program has implemented effective internal controls to allow it to appropriately identify workload and assess the quality and performance of its investigations.
+2.3. Scope
+The audit covered all stages of the Criminal Investigations Program, including reviewing applicable policies, processes, and procedures. Given the length of pursuing a criminal investigation, this audit covered the last three fiscal years (2018-2019 to 2020-2021). Due to the classified nature of some of the information and the impact of the COVID-19 pandemic, the audit team did not go on site or receive classified information electronically. Therefore, detailed file reviews were not conducted.
+2.4. Audit criteria and methodology
+The audit criteria and methodology can be found in Appendix A.
+The examination phase of the internal audit took place from August 2021 to October 2021.
+The audit was conducted in accordance with the International Standards for the Professional Practice of Internal Auditing, as supported by the results of the quality assurance and improvement program.
+3. Findings, recommendations, and action plans
+The recommendations presented in this report address issues of high significance or mandatory requirements.
+The Compliance Program Branch agrees with the recommendations in this report and has developed related action plans. The Audit, Evaluation, and Risk Branch has determined that they appear reasonable to address the recommendations.
+3.1. Leads intake and processing
+3.1.1 The Criminal Investigations Directorate is aware of the process to propose legislative amendments to support investigations and reviews legislation and case law for impact on the Criminal Investigations Program.
+The CRA is responsible for administering a large number of complex laws related to taxation and benefits. The CRA also provides assistance to law enforcement in investigations, such as joint force operations where there are anticipated criminal charges of Income Tax Act or Excise Tax Act offenses. The main pieces of legislation include the Income Tax Act and the Excise Tax Act. Due to the constantly changing environment in which the CRA operates, significant effort is required to stay up to date and ensure the legislation it administers remains relevant. To that effect, the CRA proposes legislative amendments regularly to ensure it has the required legislative authority to operate and enforce compliance with tax legislation in an ever-changing world.
+CRA legislative proposals are mainly done as proposals through the Federal Budget track by going through the Department of Finance. However, other alternatives are also available to propose legislative changes to the Department of Finance. In some cases, the Department of Finance will determine that there is a need to bring changes in tax policy and will take the lead on the amendment for the Federal Budget track.
+Within the CRA, the Legislative Amendments Division of the Legislative Policy and Regulatory Affairs Branch is the principal liaison with the Department of Finance and with provincial and territorial finance departments. They are responsible for managing the legislative and regulatory processes within the CRA. The Policy and Legislative Section within the Criminal Investigations Directorate undertakes benchmarking analysis of foreign tax jurisdictions as well as what is being done domestically to identify priorities and potential legislative amendments. The final decision of including a CRA legislative amendment as part of the Federal Budget rests with the Department of Finance.
+The internal audit team found that most CRA legislative proposals are made through the Federal Budget track; however, there are two other alternatives that could yield legislative amendments that could benefit the Criminal Investigations Program. For example, changes to the Criminal Code could materialize outside of the Federal Budget track and could have a significant impact on the Criminal Investigations Program. The Criminal Investigations Program has been involved in the development of legislative amendment packages led by other government departments, for example the Anti-Money Laundering and Anti-Terrorist Financing Regime. In these cases, the proposals would also be subject to alignment with other Government of Canada initiatives, such as the modernization of the criminal justice system. This option requires coordination across government, and the CRA would have a smaller role in the amendment process. The second option available to the CRA would be to proceed with a proposal for an amendment to existing legislation by submitting a Memorandum to Cabinet. Memoranda to Cabinet are submitted by ministers when they are seeking a Cabinet decision on their proposal. They are decision documents prepared by sponsoring departments that present multiple options for consideration.
+Since 2017, the Criminal Investigations Directorate submitted four unique proposals for legislative amendments to the Legislative Policy and Regulatory Affairs Branch. None of them made it into the budgets. Subsequently, a number of them were re-submitted in following years unsuccessfully. The previous budget (2021) comprised of 13 legislative changes related to the CRA, albeit none originated from the Criminal Investigations Directorate. The processes of legislative amendments are the only ways to bring forward change in the legal environment and the best way to improve the effectiveness of the Criminal Investigations Program. Appendix B outlines some challenging legal environments that greatly impact the effectiveness of the Criminal Investigations Program.
+3.1.2 The Criminal Investigations Directorate can acquire legal guidance from the Legal Services Branch when required during an investigation. Additional support from the Public Prosecution Service of Canada is mainly provided during the prosecution stage but can occur during the investigation stage. Feedback from the Public Prosecution Service of Canada is received periodically.
+At the completion of a criminal investigation, a prosecution report is prepared and forwarded to the Public Prosecution Service of Canada. The prosecution report contains the results of an investigation, including the findings that are pertinent to prosecuting the case.
+Investigators have access to general guidance on how to prepare prosecution reports through the Criminal Investigations Manual posted on InfoZone. The manual outlines key sections that should be included as part of prosecution reports in order to properly reflect the results of an investigation. In addition to the manual, a prosecution report template is included as part of the Criminal Investigations Directorate Job Aid section in InfoZone. Other tools and resources are also available to investigators in the conduct of their investigations. Managers review prosecution reports prior to sending them to the Public Prosecution Service of Canada.
+In June 2019, the Public Prosecution Service of Canada, the CRA, and the Department of Justice entered into a Memorandum of Understanding that establishes the roles and responsibilities of each organization in the conduct of investigations and prosecutions of offences under the CRA statutes. The Criminal Investigations Directorate advised a new version of the Memorandum of Understanding with the Public Prosecution Service of Canada is currently being worked on.
+The Legal Services Branch is the first preference for legislative questions or to obtain guidance on Income Tax Act Section 241 issues, policy issues, training, and any legal issue on individual files that would affect other investigations and the program as a whole.
+The investigators consult the Public Prosecution Service of Canada during the course of an investigation as needed, and after a case has been referred for charge approval. Additionally, senior executives of the Criminal Investigations Directorate meet with the six regional Public Prosecution Service of Canada offices that litigate the directorate’s cases at least twice a year and the headquarters office on a quarterly basis, where issues and solutions are discussed. These are discussions regarding legal issues, timeframes, resourcing, strength of the partnership, and how the partnership can mutually improve its work.
+3.2. Identification of workload
+3.2.1 The Workload Development and Liaison Services Section is aware of a decline in the volume of internal referrals over the last five years.
+The Criminal Investigations Program relies heavily on external leads from law enforcement and other government partner agencies and on internal referrals from CRA program areas to identify potential investigations.
+The Criminal Investigations Directorate has had an increase in the number of external leads in the last five years from law enforcement and other partners. Refer to Figure 1 below for details.
+Figure 1: External leads received from law enforcement & other partners
+Fiscal year
+Total
+2016
+632
+2017
+729
+2018
+821
+2019
+967
+2020
+933
+When other compliance areas work their files, if wilful non-compliance or fraud is suspected, that file should be referred to the Criminal Investigations Directorate through a T134 referral form. This can occur at any point while the file is being worked. The Criminal Investigations Directorate has noticed a decline in internal referrals in the last five years despite outreach/training presentations being done with the tax services offices. Refer to Figure 2 below for details.
+Figure 2: T134 referrals received from CRA program areas
+Fiscal year
+Atlantic
+Quebec
+Ottawa
+Toronto North
+Prairie
+Pacific
+Total
+2016
+37
+28
+24
+78
+97
+51
+315
+2017
+22
+29
+30
+92
+72
+41
+286
+2018
+13
+26
+16
+67
+58
+25
+205
+2019
+26
+20
+17
+85
+23
+28
+199
+2020
+7
+19
+11
+89
+26
+36
+188
+With the dependency on the CRA program areas to submit referrals to the Criminal Investigations Program, if CRA program areas conduct less work, more limited reviews, or focus on their own programs’ performance metrics, criminal investigations referrals will decline. Additionally, more consistent and targeted outreach from the Criminal Investigations Program to CRA staff might reinforce the importance of submitting T134 referrals.
+Recommendation 1
+The Compliance Programs Branch should implement targeted outreach activities to promote T134 referrals to targeted CRA program areas.
+Action Plan 1
+The Criminal Investigations Directorate currently has an outreach program in place to ensure that auditors are well informed. The Criminal Investigations Directorate will continue with its outreach activities to CRA program areas that are likely to encounter non-compliance of a criminal nature. The target completion date for this is September 2022.
+Furthermore, the Criminal Investigations Directorate will amend existing audit guidance to state that an audit can be referred at any point when criminal grounds are established by the auditor, rather than at the conclusion of the audit. Work has begun to revise this guidance, and it will be finalized by September 2022.
+3.2.2 There are processes in place for external leads and internal referrals to be redirected to the Criminal Investigations Program for investigations; however, there are no mechanisms in place to ensure that all external leads are actioned accordingly.
+Policies and procedures are established for directing external leads and internal referrals that present a level of criminality through the proper channels for Criminal Investigations Program investigations. The policies and procedures are detailed in the Criminal Investigations Manual. In addition, all six tax services offices have a liaison program to manage referrals from CRA program areas and external partners.
+Leads that come from external partners go through the Criminal Investigations Program liaison officer in the region, who will then enter them in the region’s Criminal Investigations Program lead referral register. The internal audit team was informed that the Criminal Investigations Directorate does not monitor the various regional lead referral registers, and it is left to the tax services offices in the regions. Therefore, although the Criminal Investigations Directorate has access to the regional lead referral registers, they are unaware if all external leads are entered and actioned accordingly.
+The internal audit team reviewed a sample of T134 referral forms for internal referrals and noted that they are submitted with varying degrees of information from the compliance areas. The tax services office determines whether a referral will be accepted, and if so, they prepare a Case Development Proposal for approval by the Criminal Investigations Directorate. Once approved and tiered, the tax services office will then proceed with the case and inform the referring area that the file has been accepted for a full-scale investigation.
+The Criminal Investigations Directorate tracks the status of all internal referrals and whether or not they are accepted or rejected. However, as the completion of the T134 referral is the responsibility of the tax services office, the Criminal Investigations Directorate was not receiving any confirmation that the referring area was being informed of the final decision on whether or not their referral was accepted for criminal investigation. Also, they were not provided with the final email sent to the referring area of the decision. The Criminal Investigations Directorate advised the internal audit team that as of January 2022, a copy of the completed T134 will be requested along with a copy of the email sent to the referring area notifying them of the decision.
+Recommendation 2
+The Compliance Programs Branch should ensure that all external leads received by liaison officers are entered in the leads referral register in a timely manner and that decisions on individual leads are adequately documented.
+Action Plan 2
+The Criminal Investigations Directorate will ensure that all external leads are entered into the Criminal Investigations Program’s leads referral register by the regional liaison officers, and documentation maintained on how the lead was actioned. The Criminal Investigations Directorate will issue a directive in this regard to the regional teams, as well as update the Criminal Investigations Manual and will follow-up twice during the period of this action plan. The target completion date for this action plan is September 2022.
+3.2.3 The Criminal Investigations Program has established long-standing working relationships with external partners to maximize information transfer to the CRA.
+The CRA has long-standing external partnerships, both domestic and international. These partnerships are supported by well established Memoranda of Understanding, tax treaties, and tax information exchange agreements between the CRA and several national and international partners. Such partners include law enforcement, the Financial Transactions and Reports Analysis Centre of Canada, and the Joint Chiefs of Global Tax Enforcement. The Criminal Investigations Directorate noted that leads are received nationally from the Royal Canadian Mounted Police, other partners, and the Joint Chiefs of Global Tax Enforcement investigations.
+Additionally, the Business Intelligence Section within the Criminal Investigations Directorate currently uses an information-sharing platform run by the
+PROTECTED
+.
+3.3. Quality assurance
+3.3.1 A quality assurance framework has been put in place; however, execution on elements of the framework, such as timely reporting and follow-up, has not been observed.
+The Quality Assurance Section of the Compliance Programs Branch has policies, procedures, and tools that are available to support its activities, such as the Quality Assurance Framework, the Quality Assurance checklist, and the Criminal Investigations Manual. The Quality Assurance Framework contains a section on how to report each of the reviews. For instance, for the Quality Assurance and Functional review, a close-out meeting is held between the director of the Corporate and Operational Support Services Division, the manager of the Quality Assurance Section, the tax services office director, the assistant director of Criminal Investigations and their management team, and the regional program advisor, if necessary, to highlight findings. A preliminary report is prepared by the Quality Assurance Section within three months of completing the review. The report is then shared with the region and tax services office for input and feedback. The region and tax services office have 30 days to respond to the findings. The final report is concluded within 30 days of receiving feedback from the region and tax services office. As part of the feedback, the Criminal Investigations Directorate in collaboration with the regional office, are required to prepare an action plan to address any major deficiencies that were identified. The action plan must provide actionable items with reasonable deliverables.
+The internal audit team found that the results of the quality assurance reviews are not being communicated to the tax services office in a timely manner, as per the Quality Assurance Framework. The last three recent quality assurance reviews took more than 1.5 years to complete.
+The Quality Assurance Section has conducted five quality assurance and functional reviews since 2017. The internal audit team reviewed all five of the reports. The review found that action plans are not consistently completed in the quality assurance reports. From the 5 reports reviewed, 3 reports had action plans for all the recommendations, 1 report had 1 action plan for 1 of the 8 recommendations, and the other had 23 action plans for the 43 recommendations. The review also found that there were no follow-up reviews conducted to verify if the action plans were implemented. Due to the lack of follow-up reviews, the internal audit team cannot confirm that action plans identified by the quality reviews are being implemented and addressing the identified gaps.
+Recommendation 3
+The Compliance Programs Branch should review and update its methodology to ensure it is providing useful and timely feedback on quality assurance recommendations, as well as establish a monitoring process to ensure that corrective actions are taken.
+Action Plan 3
+In the spring of 2021, before this internal audit began, the Quality Assurance Section had started reviewing the methodology and framework against which quality assurance reviews are performed. The Quality Assurance Section has updated the documents to include a risk assessment for the Criminal Investigations Program, as well as timelines for reviews, related recommendations, and follow-up on action plans.
+The Calgary quality assurance review is planned for the spring of 2022 (subject to COVID-19 travel restrictions) and will be used as a pilot for the new methodology and framework that are being developed. Additionally, the Toronto quality assurance review will be the first formal follow-up of action plans in early 2023.
+Following the Calgary and Toronto quality assurance reviews, the Quality Assurance Section will review and finalize the quality assurance methodology and framework by March 2023.
+3.4. Performance measurement
+3.4.1 The performance indicators used for reporting do not provide an accurate and relevant representation of the overall performance of the Criminal Investigations Program.
+Beginning in fiscal year 2019 to 2020, the Criminal Investigations Directorate reported one performance indicator in the Departmental Results Report: 33% of the CRA’s most complex criminal investigations (involving activities such as international schemes, collaboration with other law enforcement agencies, and potential money laundering) will include taxes evaded of $1 million or more. In prior years, the Departmental Results Report consistently included Criminal Investigations Program performance indicators related to the conviction rate, tax evasion convictions, federal tax evaded, court sentencings, and total prison terms. The performance indicators also included a number of other key results about the cases referred to the Criminal Investigations Directorate, search warrants executed, and criminal charges laid under the Income Tax Act, Excise Tax Act, or Criminal Code. Some of the above-mentioned performance indicators are tracked internally.
+The internal audit team found that with only one performance indicator reported, the Criminal Investigations Directorate could not adequately exhibit the success of their program. The public perception from this indicator might be that only large-dollar files are important to the CRA because the Criminal Investigations Directorate performance indicator only reports on the amounts of files worked over $1 million.
+The national standards for completing case stages are 2 months for the workload stage, 16 months for the investigation stage, and between 18 and 30 months for the court stage (depending on the court level). The Criminal Investigations Directorate has an internal target of 70% adherence to national standards. The time required for the CRA to complete a case is increased by factors outside the control of the CRA, such as long response times for requests for information, claims of solicitor-client privileges, or the Public Prosecution Service of Canada’s workload.
+The internal audit team found that criminal investigations are not always completed within the prescribed timelines in accordance with the Criminal Investigations Manual. The Criminal Investigations Directorate reported internally in their dashboard that the workload stage was completed within the prescribed timeline approximately 89% of the time on average since fiscal year 2016 to 2017. The number of cases that went through the investigation stage, since fiscal year 2016 to 2017, within the prescribed 16 months, was approximately 53% on average. These metrics do not provide the information needed to conclude on the program’s performance.
+A ruling made by the Supreme Court of Canada, commonly referred to as the Jordan rule, sets out that the accused must be afforded a trial within 18 months of charges being laid when before the Provincial Court, and 30 months when before a higher court. Although, the Criminal Investigations Directorate has little influence on the duration of the court stage, any delays caused by the Crown that exceeds these timeframes could lead to a violation of the accused’s Charter rights. When it is the accused that causes the delay, the trial can proceed without a Charter challenge. There are also exceptions where the Crown might not be accountable for the delay, such as when there are international requests for information and therefore cases rarely go to trial within 18 months. From fiscal year 2018 to 2019 to today, more than half of the cases spent over 30 months in the court stage.
+Recommendation 4
+The Compliance Programs Branch, in collaboration with the Service, Innovation and Integration Branch, should review the existing performance indicators and develop new indicators where feasible to ensure the program’s performance indicators are relevant, appropriately assessed, and support decision making.
+Action Plan 4
+The Criminal Investigations Directorate will review its performance indicators and related reporting framework to ensure that the performance indicators are relevant, monitored, and support decision making. The review will examine possible improvements to internal indicators that help guide the day-to-day and long-term effectiveness of the Criminal Investigations Program.
+The Criminal Investigations Directorate will also consider what performance metrics (internal or external) could enhance the CRA’s ability to communicate program results to external groups and recommend the metrics to the CRA’s corporate committees for consideration. This review will be undertaken in conjunction with the directorate’s systems modernization project (Criminal Investigations Directorate 2.0), given new data and reports are being developed as part of this project, which will influence new indicators.
+The Criminal Investigations Directorate expects to complete its analysis and the development of a revised performance framework by December 2022, which will allow for new indicators to be implemented and used in the 2023 to 2024 fiscal year.
+3.4.2 Enforcement notifications are not always published within the 48 hours as suggested in the CRA Enforcement Notifications Directive.
+According to the CRA Enforcement Notifications Directive, there are many levels of approvals required for different communications products. The process for conviction enforcement notifications is as follows:
+The Regional Communications team prepares the enforcement notification package using the approved template.
+The regional assistant director of the Criminal Investigations Division approves the enforcement notification package.
+The regional director of the Regional Communications team and the regional assistant commissioner approve the enforcement notification package.
+The director general of the Criminal Investigations Directorate and the director of the Corporate and Operational Support Services Division approve the package.
+The assistant commissioner of the Compliance Programs Branch approves the package.
+The director of the Strategic Regional Communications Division, the director general of the Communications Directorate, and the assistant commissioner of the Public Affairs Branch approve the package.
+The Public Affairs Branch Web Operations team publishes the enforcement notification on Canada.ca and sends a copy to the Media Relations team to post to the national newswire.
+Enforcement notifications are to be published within 48 hours upon sentencing, where possible. The internal audit team found that for the fiscal year 2020 to 2021, 66% of enforcement notifications were published within the 48-hour timeline, 33% were published within the timeline in fiscal year 2019 to 2020, and 71% were published within the timeline in fiscal year 2018 to 2019.
+Although not meeting the 48-hour suggested guideline does not pose an increased risk to the CRA, not achieving the metric can give the impression that the process does not work effectively.
+The Criminal Investigations Directorate advised that improvements began before the internal audit had started to make the enforcement notification process more efficient. Further updates to the CRA Enforcement Notifications Directive include a proposed timeline for when enforcement notifications should be received in the Compliance Programs Branch and the Public Affairs Branch for approval, an updated prejudgment enforcement notification process, and the creation of generic media lines for all prejudgment, conviction, and sentencing enforcement notifications. These efforts are assisting the Criminal Investigations Directorate, the Compliance Program Branch, and the Public Affairs Branch in working collaboratively to meet the goal of posting enforcement notifications within 48 hours.
+4. Conclusion
+The audit objective was to provide assurance that the Criminal Investigations Program has implemented effective internal controls to allow it to appropriately identify workload and assess the quality and performance of its investigations.
+The ability to conduct criminal investigations is dictated by Canada’s legal framework. This determines many facets of an investigation, including limiting the files that are investigated and hampering the established timeframes.
+The Criminal Investigations Program has an effective system to receive internal referrals and external leads. The program is dependant on these external leads and internal referrals to identify potential criminal investigation files.
+Although the results of the prosecuted cases are published, existing performance indicators do not provide sufficient information to conclude on how well the program is doing.
+5. Acknowledgement
+In closing, we would like to acknowledge and thank the Compliance Programs Branch, the Legislative Policy and Regulatory Affairs Branch, the Public Affairs Branch, and the Western Region for the time dedicated and the information provided during the course of this engagement.
+6. Appendices
+Appendix A: Audit criteria and methodology
+Based on the Audit, Evaluation, and Risk Branch risk assessment and other applicable factors, the following lines of enquiry were identified:
+Lines of enquiry
+Lines of enquiry
+Criteria
+1. Legislative framework and key stakeholders
+1.1 The Criminal Investigations Directorate reviews legislation and case law for impact on the Criminal Investigations Program and to improve investigator training.
+1.2 The Criminal Investigations Directorate works collaboratively with the Public Prosecution Service of Canada to effectively resolve cases on a timely basis.
+2. Identification of workload
+2.1 Processes are established to allow for potential files to be referred from other CRA compliance programs to the Criminal Investigations Program.
+2.2 External partnerships, both domestic and international, are established to maximize information transfer to the CRA.
+2.3 Business intelligence processes are in place to identify potential workload.
+3. Quality assurance
+3.1 Quality assurance processes are comprehensive and include reporting and follow-up.
+4. Performance measurement
+4.1 Program performance measurements provide accurate and relevant information to support decision making.
+4.2 Performance results are communicated to the public to deter non-compliance.
+Methodology
+The methodology for examination included the following:
+Data analysis:
+The internal audit team reviewed program statistics and performance indicators for trends in performance reporting.
+Documentation and file review:
+The internal audit team tested selected controls through documentation and file reviews in order to verify that investigations were completed and approved according to documented processes and procedures and that they were done efficiently and effectively.
+Benchmarking
+: The internal audit team reviewed and analyzed the legal environments of other similar tax jurisdictions to identify best practices, emerging trends, and potential risks.
+Interviews:
+The internal audit team interviewed select management and staff at Headquarters and in the Western Region to confirm adherence to guidance documentation.
+The Internal Audit Division used data analysis to review three years of criminal investigations file data from April 2018 to March 2021. For performance data, the internal audit team reviewed results from 2016 to present.
+Appendix B: Legal environment challenges
+In the conduct of their work, investigators face a number of legal challenges arising from legal cases and legal principles. These challenges are increasing the complexity of conducting CRA criminal investigations and are worth mentioning to effectively convey the legal landscape investigators need to navigate. Some of the main challenges faced by investigators include, but are not limited to, the Charter of Rights and Freedoms against self-incrimination and to a trial within a reasonable time, as well as solicitor-client privilege.
+Right against self-incrimination
+The CRA has a dual role when it comes to enforcing tax legislations. They have a role in conducting civil tax audits and criminal tax investigations. While conducting a civil tax audit, CRA auditors have powers of compulsion (Income Tax Act ss. 231.1(1) and 231.2(1)), which allow them to compel a taxpayer to provide specific tax-related information in support of a CRA civil tax audit. The Supreme Court of Canada has recognized that an audit and an investigation are not mutually exclusive. Therefore, although an investigation has been commenced, the audit powers might continue to be used, though the results of the audit cannot be used in pursuance of the investigation or prosecution as this would be in violation of the Charter of Rights and Freedoms of the investigated taxpayer. The CRA has to be careful not to use the requirement power of the civil tax audit to gather further evidence for an investigation after it has commenced. Charter protections are engaged when it becomes apparent that CRA officials are engaged in the determination of penal liability under s.239 of the Income Tax Act when an adversarial relationship between the state and the individual exists. In this case, criminal investigators must provide the taxpayer with a proper warning, and search warrants or production orders are required in order to further the investigation
+Footnote
+1
+. A number of tools, resources, and guidelines have been developed to support investigators prepare production orders and search warrants to ensure their requests are aligned with the principles outlined in the relevant case law.
+Right to a trial within a reasonable time
+CRA investigators work closely with the Public Prosecution Service of Canada to obtain convictions following the successful completion of criminal tax investigations. Depending on the severity of the charges brought forward and whether appeals are filed, cases could end up in provincial or superior courts. The Charter of Rights and Freedoms recognizes the right to a trial within a reasonable time (Charter of Rights and Freedoms s.11 (b)); however, court delays and case complexity could lead to longer trials. The Supreme Court of Canada
+Footnote
+2
+created a new framework for analyzing Charter of Rights and Freedoms.11(b), one that has an objective timeline with a “presumptive ceiling”, a set period of time after which further delay is automatically presumed to be unreasonable. Under this framework, any systemic delay is presumed to be unreasonable if it is longer than 18 months for cases tried in provincial courts or 30 months in superior courts with the exception of reasonably unforeseen or unavoidable circumstances. Although the trial stage is in the hands of the Public Prosecution Service of Canada, criminal investigators have been made aware of the requirement to have trials completed within a reasonable amount of time and track the delay between when charges are laid and the end of a trial.
+Solicitor-client privilege
+CRA auditors are authorized to inspect, audit, review, or examine the books and records of a taxpayer and any document of the taxpayer or of any other person that relates or might relate to a taxpayer's books and records that could be relevant to the administration or enforcement of the Income Tax Act and Excise Tax Act. CRA officials are also authorized to request and receive any documents needed to conduct a proper inspection, audit, or examination unless these documents are privileged.
+As mentioned previously, in cases where there is a criminal investigation, inspection powers cannot be used, and criminal investigators must seek search warrants or production orders from the Court to have access to taxpayer data or documents.
+The Compliance Program Branch has issued guidance for investigators when they need to request information from lawyers and notaries. Investigators cannot execute search warrants for documents that are known to be protected by solicitor-client privilege. Additionally, before searching a law office, business or residence, investigative authorities must satisfy the issuing justice that no other reasonable alternative to the search exists.
+Criminal Investigations Program employees are made aware through various communication products of court decisions and legislative changes that could affect their investigations. Communiqués and memos have been issued by the Compliance Programs Branch at the branch level to a wider audience, including the Criminal Investigations Directorate, as well as directly by the Criminal Investigations Directorate for their investigators. The policies and training material are updated within the Criminal Investigations Directorate to reflect legislative changes and court decisions.
+Appendix C: Glossary
+Appendix B: Glossary
+Term
+Definition
+Canadian Charter of Rights and Freedoms
+The Charter of Rights and Freedoms guarantees certain political rights to Canadian citizens and civil rights of everyone in Canada from the policies and actions of all areas and levels of the government.
+Criminal Investigations Program
+The CRA program that strategically investigates and recommends prosecution of significant cases of fraud under the Income Tax Act and the Excise Tax Act (GST/HST).
+Departmental Results Report
+Part of the Estimates family of documents. Estimates documents support appropriation acts, which specify the amounts and broad purposes for which funds can be spent by the government.
+Enforcement notifications
+Used by the CRA to advise the media and the public of cases involving individuals convicted in the courts of offences under the Income Tax Act, Excise Tax Act, or the Criminal Code that are sent out through newswire and an electronic mailing list.
+InfoZone
+The CRA intranet network.
+Joint Chiefs of Global Tax Enforcement
+A global joint operational group, formed in mid-2018 to combat transnational tax crime. Composed of the Australian Taxation Office (Australia), the Canada Revenue Agency (Canada), the Fiscale Inlichtingen- en Opsporingsdienst (Netherlands), Her Majesty's Revenue & Customs (United Kingdom), and Internal Revenue Service, Criminal Investigation (United States of America).
+Lead Referral Register
+Table used by regional liaison officers to log external leads from law enforcement agencies.
+Public Prosecution Service of Canada
+A federal agency that prosecutes offenses on behalf of the Government of Canada.
+T134
+Name of form used for internal referrals to the Criminal Investigations Division.
+Footnotes
+Footnote 1
+R. v. Jarvis, [2002] 3 S.C.R. 757, 2002 SCC 73; and R. v. Ling, [2002] 3 S.C.R. 814, 2002 SCC 74
+Return to footnote
+1
+referrer
+Footnote 2
+R. v. Jordan, 2016 SCC 27
+Return to footnote
+2
+referrer
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2022-07-08

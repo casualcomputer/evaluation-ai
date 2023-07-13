@@ -1,0 +1,157 @@
+Personnel Security Screening
+Final Report
+Audit, Evaluation, and Risk Branch
+May 2013
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+1.0 Program Management
+2.0 Compliance with Policy and Procedures
+Conclusion
+Executive Summary
+Background
+The Assets Protection and Security Services Division (APSSD) is functionally located within the Security and Internal Affairs Directorate (SIAD), Finance and Administration (F&A) Branch. Within the APSSD, the Personnel Security Screening (PSS) group is responsible for the personnel security screening program, the Agency Personnel Security Screening policy, and related systems and services.
+The PSS group provides advice on all matters pertaining to personnel security screening, processes security screening applications for all Canada Revenue Agency (CRA) employees and contract personnel (12,000 to 15,000 total transactions annually), and is responsible for maintaining a database of screened employees. Security personnel located in tax centres and tax services offices act as liaisons between local managers and Headquarters (HQ) to ensure all employees and contract personnel are screened appropriately.
+The CRA’s Personnel Security Screening policy conforms to the Treasury Board Secretariat policy on Government Security. The policy is one of several instruments used to ensure the integrity of employees and contract personnel, and requires all individuals working on CRA premises or having access to CRA information or assets to be screened prior to commencing their duties.
+The procedures for personnel security screening were established by PSS and flow from the CRA policy. The procedures are subject to review by F&A on a five year cycle. F&A is also responsible for identifying and undertaking any monitoring and assessment activities that will help to determine if the procedures are effective and are being followed.
+The PSS program is part of a suite of controls under the Agency’s Integrity Framework intended to monitor, ensure integrity, and manage integrity lapses. The validity of each individual’s screening status is an ongoing responsibility of Agency managers at all levels. Managers are responsible for ensuring that their employees’ positions have appropriate screening level requirements, and that all individuals are screened appropriately in accordance with their need to access Protected or Classified information or assets.
+Directors are responsible for reviewing the status of individuals when adverse information that may be considered relevant to future reliability arises. SIAD, in consultation with the Director, is responsible for assessing such information in the case of an individual applying for, or holding a security clearance.
+Objectives
+The objectives of this audit were to provide assurance that internal controls were in place and working as intended for the assignment, renewal and revocation of reliability statuses and security clearances, as well as to assess the extent of compliance with the Personnel Security Screening policy and procedures.
+This audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Conclusion
+Overall internal controls currently in place support and facilitate the management and delivery of PSS program activities. However, certain opportunities exist to strengthen controls pertaining to risk management and program monitoring in order to better position the Agency to identify and prioritize risks affecting security status assessment. Enhancements to the clarity of procedures and guidelines, as well as training and awareness initiatives, are needed in order to reinforce the responsibility and commitment of Agency managers to PSS objectives. Issues concerning data integrity associated with current databases should be addressed to support these initiatives. We therefore recommended that SIAD should:
+Implement a formal risk assessment process to ensure that areas of high risk are identified, documented and analyzed;
+Develop enhanced quality assurance and program monitoring procedures and tools for the PSS group;
+Ensure that the integrity of screening information contained in databases is sufficient to provide managers with accurate and consistent information;
+Strengthen PSS controls, and provide training and tools to employees and managers, in order to increase awareness and ensure compliance with PSS policies and procedures;
+Incorporate a clear definition of adverse information in the PSS policy and procedures, as well as guidelines on its relation to the denial, downgrade or revocation of reliability status or security clearance; and
+In consultation with SIAD, we recommended that Human Resources Branch (HRB) should:
+Undertake a review of its related policies, procedures and tools under the Agency’s Integrity Framework to ensure they contain appropriate and clear reference to the PSS policy.
+Currently, the PSS group has started work to enhance the controls for employee screening, including an increase in the efficiency in processing screening applications, and a review of current screening requirements.
+Action Plan
+SIAD has a strong and efficient personnel security screening regime using policy instruments that are fully aligned with the Policy on Government Security and related screening standards thus maintaining the integrity of a population of over 44,000 individual employees and contractors. In consultation with HRB, controls will be instituted so that only employees with the appropriate security screening level and a demonstrated need to know the information to perform their assigned duties will be allowed access to classified and protected information and assets.
+SIAD agrees with the findings and recommendations and has developed action plans to address them. As detailed in this report, the action plans focus on the following areas:
+Risk Management
+Quality Review and Monitoring
+Data Integrity
+Procedures and Guidelines for Adverse Information
+Compliance with Policies and Procedures by Managers and Employees
+The SIAD is committed to addressing the recommendations in this report, which will strengthen the Agency’s Personnel Security Screening Practices and subsequently improve its overall security posture.
+HRB agrees with the finding and recommendation concerning adverse information, and has developed an action plan to address it.
+Introduction
+The Assets Protection and Security Services Division (APSSD) is functionally located within the Security and Internal Affairs Directorate (SIAD), Finance and Administration (F&A) Branch. Within the APSSD, the Personnel Security Screening (PSS) group is responsible for the personnel security screening program, the Agency Personnel Security Screening policy, and related systems and services.
+The PSS group provides advice on all matters pertaining to personnel security screening, processes security screening applications for all Canada Revenue Agency (CRA) employees and contract personnel (12,000 to 15,000 total transactions annually), and is responsible for maintaining a database of screened employees. Security personnel located in tax centres and tax services offices act as liaisons between local managers and Headquarters (HQ) to ensure all employees and contract personnel are screened appropriately.
+The CRA’s Personnel Security Screening policy conforms to the Treasury Board Secretariat policy on Government Security. The policy is one of several instruments used to ensure the integrity of employees and contract personnel, and requires all individuals working on CRA premises or having access to CRA information or assets to be screened prior to commencing their duties.
+The procedures for personnel security screening were established by PSS and flow from the CRA policy. The procedures are subject to review by F&A on a five year cycle. F&A is also responsible for identifying and undertaking any monitoring and assessment activities that will help to determine if the procedures are effective and are being followed.
+The PSS program is part of a suite of controls under the Agency’s Integrity Framework intended to monitor, ensure integrity, and manage integrity lapses. The validity of each individual’s screening status is an ongoing responsibility of Agency managers at all levels. Managers are responsible for ensuring that their employees’ positions have appropriate screening level requirements, and that all individuals are screened appropriately in accordance with their need to access Protected or Classified information or assets. Information is designated Protected when its disclosure could harm an individual, business or other entity. This includes, for example, information on a tax return. Information which could affect the national interest is designated as Classified.
+There are two types of screening that may be initiated:
+Reliability Status screening: Reliability Status is necessary when individuals require access to Protected information and allows them unescorted access to Agency premises. Reliability Status screening involves Criminal Records Name checks being performed by the Royal Canadian Mounted Police (RCMP).
+Security Clearance screening (Confidential, Secret, and Top Secret): This screening is required for individuals who need access to classified information or assets and includes a loyalty check. These checks are performed by the Canadian Security and Intelligence Service (CSIS) after the prerequisite criminal records name checks have been performed by the RCMP.
+Approximately 97% of Agency positions require Reliability Status screening which is a pre-requisite to obtain a security clearance that is required for the remaining 3% of the organization’s positions.
+Directors are responsible for reviewing the status of individuals when adverse information that may be considered relevant to their reliability arises. SIAD, in consultation with the Director, is responsible for assessing such information in the case of an individual applying for, or holding, a security clearance.
+Focus of the Audit
+The objectives of this audit were to provide assurance that internal controls were in place and working as intended for the granting, renewal and revocation of reliability statuses and security clearances, as well as to assess the extent of compliance with the Personnel Security Screening policy and procedures.
+This audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Findings, Recommendations and Action Plans
+1.0 Program Management
+To ensure that a security management structure is in place that meets the needs of the Agency, CRA must first clearly identify, analyze and address the risks involved in the process. All elements of the policy and procedures should be clearly stated in order to provide users with clear understanding and guidance in fulfilling their roles and responsibilities. A formal process for monitoring and reviewing data for the purpose of identifying trends, problems and opportunities for improvement should be in place, and supported by appropriate performance measures and standards and a database which contains consistent and accurate information. Information security is identified as a priority risk in the branch strategic plan 2011-2014.
+1.1 Risk Management
+Although a risk assessment is performed at the branch level, there is no indication that formal risk assessment is carried out to support this at the program level, nor has a full analysis of potential risks from an Agency perspective been undertaken. The PSS group participates in TBS led committees reviewing the Policy on Government Security and the TBS Personnel Security Standard with respect to personnel security screening. Efforts to enhance the screening program, including the introduction of additional mandatory checks are being developed by the PSS group.
+An analysis of security requirements for Agency positions indicated that the screening requirements for some job categories may not adequately address risks to the Agency. For example, some job categories which only require reliability status involve duties in which the risk of misuse of information is high relative to other positions requiring reliability status. A proactive risk assessment process would allow for a full analysis and identification of positions which may require additional screening.
+Without a formal risk assessment process in place it is difficult to determine whether areas of higher risk have been identified and addressed. This could lead to situations where Agency information could potentially be compromised or misused, causing injury to the Agency’s reputation.
+Recommendation
+SIAD should implement a formal risk assessment process to ensure that areas of high risk are identified, documented and analyzed.
+Action Plan
+The SIAD has already begun to create a new Personnel Security Risk Assessment Unit which will develop and implement a formal risk assessment process to ensure, on an ongoing basis, that areas of high risk are identified, documented and analysed. (Completion by June 30th, 2013)
+Furthermore, the SIAD is currently reviewing its Personnel Security Screening policy instrument to incorporate additional personnel security screening measures for Agency positions identified by the above-noted risk assessment process as requiring a higher level of trust. (Completion by June 30th, 2013)
+The SIAD has also begun conducting internal fraud risk assessments to understand where CRA is most vulnerable. Fraud risk assessments evaluate identified risks and the effectiveness of controls to mitigate the risks. Risks inherent to personnel security screening will be shared with the Assets Protection and Personnel Security Screening Division.
+1.2  Quality Review and Monitoring
+The PSS group provides advice on all matters pertaining to personnel security screening, processes security screening applications for all CRA employees and contract personnel, and is responsible for maintaining a database of screened employees. Standard operating procedures have been provided to field security teams and the PSS group reviews all security forms submitted to ensure completeness. A periodic review of hard copy files is done by the PSS manager on an ad hoc basis.
+The requirement for monitoring and assessment activities is included in the CRA Personnel Security Screening Procedures. The PSS group monitors timeliness in the processing of reliability status requests, however there is no indication that monitoring activities include the identification and analysis of problems, trends or opportunities for program improvement.
+Security information is collected by PSS to provide assurance to managers that personnel employed by the CRA are reliable and trustworthy. Without an effective quality review and monitoring process in place, problems may not be identified and opportunities for improvement may be missed.
+Recommendation
+SIAD should develop enhanced quality assurance and program monitoring procedures and tools for the PSS group
+Action Plan
+The SIAD will implement a formal quality assurance and program monitoring process to identify and analyse problems, trends and opportunities for program improvement and ensure that information provided to managers and used for monitoring security requirements is as accurate as possible. (Completion by September 30th, 2013)
+1.3  Data Integrity
+The PSS group is responsible for entering and maintaining screening information for Agency personnel in both the Corporate Administrative System (CAS) database and their own database. The PSS group relies primarily on their internal database which interfaces with the RCMP and CSIS for verifying and updating security status. CRA managers do not have access to this database and must rely on CAS which contains some, but not all of the information available in the PSS system. In addition to these two databases, Regional Security teams maintain their own screening data in order to respond to enquiries from managers; this information may not be consistent with either CAS or the PSS database.
+A comparison of the two databases maintained by the HQ PSS group indicated inconsistency in the data; for example a number of individuals listed as active employees in CAS could not be located in the PSS database, while the PSS database was found to contain many more individuals than were listed as active in CAS.
+The existence of multiple databases with inconsistent information creates the risk that managers may be granting access to information and assets to individuals without the appropriate security status.
+Recommendation
+SIAD should ensure that the integrity of screening information is sufficient to provide managers with accurate and consistent information.
+Action Plan
+The SIAD, in consultation with the Human Resources Branch and the Information Technology Branch, will conduct a feasibility study to identify which data source and technology options would enable for the best up-to-date information to be available for the use of the PSS group and managers. (Completion by December 31st, 2013)
+1.4  Procedures and Guidelines for Adverse Information
+The PSS policy states that Directors and above are responsible for considering the impact of adverse information on a reliability status, and for working with SIAD when there is adverse information for an individual holding a security clearance. The policy does not however contain a definition of adverse information, or provide categories or examples of information that may be considered adverse when determining whether to deny, downgrade or revoke a security status. There is no requirement in the policy or procedures for managers to notify the PSS group of cases of serious misconduct.
+The PSS group provides advice and guidance on adverse information to managers on an ad hoc basis, and at their request. Interviews with Directors indicated that there is a desire on their part for more functional guidance in determining when to deny, reduce or revoke a security status.
+Interviews with Internal Affairs Division and Human Resources Branch (HRB) indicated that they advise managers involved in employee misconduct investigations that they should be considering employee security status in cases of serious misconduct. A review of misconduct investigation files found that administrative cancellation of security status is usually done in conjunction with termination for cause. However, there were no documented instances where the continued validity of the individual’s security status was considered in cases where discipline other than termination was rendered. This was also the case with a limited number of files reviewed involving resignation or non-renewal of contracts during misconduct investigations. File checklists used by managers and HR Advisors did not include reference to security status.
+In the absence of a clear definition of adverse information, and appropriate guidance and tools when considering its effect on security status, managers’ ability to assess the reliability of employees may be affected. This may expose the Agency to the risk that unreliable employees are being allowed access to Protected or Classified information and assets.
+Recommendation
+SIAD should incorporate a clear definition of adverse information in the PSS policy and procedures, as well as guidelines on its relation to the denial, reduction or revocation of reliability status or security clearance.
+Action Plan
+The SIAD will establish criteria to define adverse information and assist in the determination of whether information could be considered “adverse” for the purpose of employees’ security status. (Completion by September 30th, 2013)
+The SIAD will develop and implement guidelines to provide information to managers on how adverse information affects an employee’s security status and when a formal review of an employee’s security status should be initiated following the discovery of adverse information. (Completion by January 31st, 2013)
+The SIAD will revise the Internal Affairs and Fraud Prevention Division’s Investigations Reports to include a recommendation to initiate a review, for cause, of the employee’s Reliability Status in the case of employee misconduct when appropriate. (Completion by January 31st, 2013)
+Recommendation
+In consultation with SIAD, HRB should undertake a review of its related policies, procedures and tools under the Agency’s Integrity Framework to ensure they contain appropriate and clear reference to the PSS policy.
+Action Plan
+The HRB has undertaken a review of its related policies, procedures and tools under the Agency’s Integrity Framework and, in consultation with the SIAD, has made revisions to ensure that they contain appropriate and clear reference to the PSS policy. Further adjustments will be made as required. (Completion by fall 2013)
+2.0  Compliance with Policy and Procedures
+In order to ensure compliance with the PSS policy and procedures, controls for the assignment, renewal and revocation of reliability statuses and security clearances, should be established and monitored to confirm they are working as intended.
+2.1  Compliance by Managers and Employees
+Individual managers at all levels are responsible for determining the appropriate screening required for positions held by their employees, and for ensuring that appropriate screening is performed. As per the CRA Personnel Security Screening Policy, an employee cannot be appointed or assigned to a position until a proper reliability status or security clearance, as required, has in fact been granted. Employees are responsible for notifying their manager, or the PSS group, when information relevant to their security status changes. To assess awareness and understanding of these responsibilities, questionnaires were sent to a representative sample of managers and employees. Compliance was tested through data analysis and file review, drawing on both CAS and the PSS database.
+Overall, manager and employee responsibilities for security screening are not well understood, and compliance with PSS policy and procedures is not being monitored or enforced at the Agency level. For example, questionnaire results indicated that 70% of managers were not aware of their responsibility for ensuring that the screening requirement of the positions occupied by their employees was appropriate.
+Controls are in place and working as intended for initial reliability status screening, as well as periodic renewals. Reliability status is a minimum requirement for all positions within the Agency, and authorizes the granting of access to taxpayer information on a need-to-know basis. However, data analysis and file review indicated employees are commencing work in positions identified as requiring security clearance to access classified information prior to obtaining the required level. Eleven active employees with substantive positions identified as requiring Top Secret clearance did not possess the required clearance. Top Secret clearance screening was in process for four of these individuals. Overall 122 of 1276 (9.6%) of active employees holding substantive positions identified as requiring security clearance were not security screened at the level identified for their positions.
+Managers are expected to perform their due diligence by checking the security status of current employees who change positions within the Agency to ensure they have the correct status. Questionnaire results indicated that the majority of hiring managers did not check the status of these individuals. A file review indicated that only 11 of 124 employees (9%) with conditional status associated to the position occupied, (i.e. those for whom five consecutive years of verifiable biographic background in Canada was not available, and supplemental documents were provided by the individual ) who changed positions had their status verified.
+Employees are not consistently notifying the PSS group as required when information relevant to their security status changes. A review of Marriage Leave usage under the PSAC Collective Agreement by individuals holding Secret or Top Secret clearance indicated that none had submitted their updated marital information as required.
+In the absence of awareness, monitoring and enforcement of PSS policy and procedures, the Agency is exposed to the risk that personnel may not have been screened at the appropriate level, including consideration of all information relevant to the screening process.
+Recommendation
+SIAD should strengthen PSS controls, and provide training and tools to employees and managers, in order to increase awareness and ensure compliance with PSS policies and procedures.
+Action Plan
+The SIAD has taken corrective actions to address the issue of the specific employees identified as not having the proper level of security clearance for their positions.
+The SIAD has undertaken a review of the HRB supplied list of employees with marriage leave in order to update the PSS records.
+The SIAD will revise its Personnel Security Screening policy instruments to strengthen PSS controls and ensure that the roles and responsibilities of all stakeholders are clearly defined. (Completion by June 30th, 2013)
+The SIAD will revise its communications tools to ensure they contain information that is up-to-date and pertinent for managers and employees and increase their reach to a wider audience. (Completion by September 30th, 2013)
+The SIAD will investigate the feasibility of making technological changes in current databases to automate the process of notifying managers and employees when personnel security screening actions need to be completed, such as when a security status needs to be updated. (Completion by December 31st, 2013)
+Conclusion
+Overall internal controls currently in place support and facilitate the management and delivery of PSS program activities. However, certain opportunities exist to strengthen controls pertaining to risk management and program monitoring in order to better position the Agency to identify and prioritize risks affecting security status assessment. Enhancements to the clarity of procedures and guidelines, as well as training and awareness initiatives, are needed in order to reinforce the responsibility and commitment of Agency managers to PSS objectives. Issues concerning data integrity associated with current databases should be addressed to support these initiatives. We therefore recommended that SIAD should:
+Implement a formal risk assessment process to ensure that areas of high risk are identified, documented and analyzed;
+Develop enhanced quality assurance and program monitoring procedures and tools for the PSS group;
+Ensure that the integrity of screening information contained in databases is sufficient to provide managers with accurate and consistent information;
+Strengthen PSS controls, and provide training and tools to employees and managers, in order to increase awareness and ensure compliance with PSS policies and procedures;
+Incorporate a clear definition of adverse information in the PSS policy and procedures, as well as guidelines on its relation to the denial, reduction or revocation of reliability status or security clearance; and
+In consultation with SIAD, we recommended that HRB should:
+Undertake a review of its related policies, procedures and tools under the Agency’s Integrity Framework to ensure they contain appropriate and clear reference to the PSS policy.
+Currently, the PSS group has started work to enhance the controls for employee screening, including technology enhancements to support processing screening applications, and a review of current screening requirements.
+Action Plan
+SIAD agrees with the findings and recommendations and has developed action plans to address them. As detailed in this report, the actions plans focus on the following areas:
+Risk Management
+Quality Review and Monitoring
+Data Integrity
+Procedures and Guidelines for Adverse Information
+Compliance with Policies and Procedures by Managers and Employees
+The SIAD is committed to addressing the recommendations in this report, which will strengthen the Agency’s Personnel Security Screening Practices and subsequently improve its overall security posture.
+HRB agrees with the finding and recommendation concerning adverse information, and has developed an action plan to address it.
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2017-01-20
