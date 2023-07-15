@@ -142,6 +142,14 @@ class NaturalResourcesCanadaScraper(WebScraper):
 
     def get_urls(self, url, pattern, url_prefix=''):
         return super().get_urls(url, pattern, url_prefix=url_prefix)
+
+class EmploymentSocialDevelopmentCanadaScraper(WebScraper):
+    BASE_URL = 'https://www.canada.ca/en/employment-social-development/corporate/reports/evaluations.html'
+    PREFIX = 'esdc'
+    PATTERNS = ['evaluations', 'neutral-assessment-evaluation-function', 'labour-market-low-income-seniors']
+    
+    def __init__(self, base_url=BASE_URL, prefix=PREFIX, patterns=PATTERNS, save_path=WebScraper.SAVE_PATH):
+        super().__init__(base_url, prefix, patterns, save_path=save_path)
     
 def scrape_health_canada():
     print('Scraping data from Health Canada')
@@ -158,10 +166,16 @@ def scrape_nrc():
     nrc_scraper = NaturalResourcesCanadaScraper()
     nrc_scraper.run()
 
+def scrape_esdc():
+    print('Scraping data from Employment Social Development Canada')
+    esdc_scraper = EmploymentSocialDevelopmentCanadaScraper()
+    esdc_scraper.run()
+
 def main():
     scrape_health_canada()
     scrape_cra()
     scrape_nrc()
+    scrape_esdc()
 
 if __name__ == '__main__':
     main()
