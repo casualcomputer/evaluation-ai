@@ -1,0 +1,1935 @@
+Evaluation Report: EcoENERGY for Alternative Fuels Program
+Table of Contents
+Acknowledgements
+Table of Acronyms and Abbreviations
+Executive Summary
+Recommendations and Management Response
+1.0 Introduction
+1.1 Overview
+1.2 Program Description
+1.3 Program Logic Model
+1.4 Program Resources
+2.0 Evaluation Design
+2.1 Evaluation Objectives
+2.2 Evaluation Questions
+2.3 Evaluation Approach and Methods
+2.4 Evaluation Limitations and Mitigation Strategies
+3.0 Findings: Program Relevance
+3.1 Continued Need for the program
+3.2 Alignment with Government Priorities, NRCan Strategic Outcomes, and Federal Roles and Responsibilities
+4.0 Findings: Program Performance (Effectiveness)
+4.1 Achievement of Expected Outcomes
+4.2 Unintended Impacts
+5.0 Findings: Program Performance (Efficiency and Economy)
+5.1 Demonstration of Efficiency and Economy
+6.0 Conclusions and Recommendations
+6.1 Conclusions
+6.2 Recommendations
+Annex A: Program Logic Model and Theory of Change
+Annex B: Program Summary
+Annex C: Calculation of Net Impact
+Acknowledgements
+The Evaluation Team would like to thank those who contributed to the evaluation of the ecoENERGY for Alternative Fuels program, particularly members of the Office of Energy Efficiency’s (OEE’s) Transportation and Alternative Fuels Division, as well as others who provided insights and comments important to this evaluation.
+The evaluation project was managed by Mary Kay Lamarche, with evaluation support from Amélie Veillette, and Edmund Wolfe. Jennifer Hollington (previous Head of Evaluation), Glenn Hargrove (current Head of Evaluation), and Gavin Lemieux (Director, Evaluation), provided Senior Management oversight.
+As this evaluation was part of the Treasury Board of Canada Secretariat’s (TBS’) Centre of Excellence for Evaluation (CEE) pilot of the
+Rapid Impact Evaluation
+approach, support was also provided by members of the CEE team, including Anne Routhier, Caroline Falaiye, and Nicholas Chesterley; as well as, Andy Rowe of ARCeconomics.
+Table of Acronyms and Abbreviations
+CACs
+Criteria air contaminants
+CEE
+Centre of Excellence for Evaluation
+CNG
+Compressed natural gas
+CNGVA
+Canadian Natural Gas Vehicle Alliance
+CSA
+Canadian Standards Association
+DOE
+Department of Energy
+ecoEAF
+ecoENERGY for Alternative Fuels
+GHG
+Greenhouse gases
+LNG
+Liquefied natural gas
+MDIP Fund
+Market Development Incentive Payment Fund
+NRCan
+Natural Resources Canada
+NSM
+National Safety Mark
+OEMs
+Original equipment manufacturers
+PAA
+Program Alignment Architecture
+PMRS
+Performance Measurement and Risk Strategy
+R&D
+Research and Development
+R,D&D
+Research, Development, and Demonstration
+RIE
+Rapid Impact Evaluation
+Roadmap
+Natural Gas Use in the Canadian Transportation Sector Deployment Roadmap
+TAG
+Technical Advisory Committee
+TBS
+Treasury Board of Canada Secretariat
+U.S.
+United States
+Executive Summary
+Introduction:
+This report presents the findings of the evaluation of Natural Resources Canada’s (NRCan’s) ecoENERGY for Alternative Fuels (ecoEAF) program. ecoEAF is a component  of the Alternative Transportation Fuels Sub-Program (PAA 2.1.3) in NRCan’s 2014-15 Program Alignment Architecture (PAA). The program is administered by NRCan’s Office of Energy Efficiency (OEE), part of the Energy Sector. This evaluation covers the period from 2011-12 to 2014-15.
+The purpose of the evaluation was to assess the relevance and performance (i.e., effectiveness, efficiency and economy) of the ecoEAF program, as required by the Treasury Board of Canada’s
+Policy on Evaluation
+(2009), as well as to be in compliance with section 42.1 (1) of the
+Financial Administration Act
+, which requires that all ongoing programs of grants and contributions be evaluated every five years.
+Methodology:
+This evaluation was part of a Treasury Board of Canada Secretariat’s (TBS’) Centre of Excellence for Evaluation (CEE) pilot of the
+Rapid Impact Evaluation
+(RIE) approach. This is a theory-based evaluation approach consisting of three phases, and employing multiple lines of evidence:
+Phase 1
+: develop a detailed program summary, theory of change, and scenario-based counterfactual (i.e., alternative delivery approach or model) against which program effectiveness can be compared in order to determine the net incremental change of the program. These were developed primarily based on a review of program files and documents, and were confirmed through consultations with a sample (n=5) of program stakeholders (internal and external to NRCan).
+Phase 2
+: assessment based on the program summary, theory of change, and scenario-based counterfactual from phase 1 to respond to the evaluation questions related to relevance, and performance. This phase used the following methods:
+Surveys or interviews with 33 program stakeholders (i.e., program management and staff, contribution agreement recipients, industry representatives who participate on committees or working groups, and participants in workshops delivered by the local support networks/hubs).
+Consultations with a panel of subject matter experts (n=4) external to the program. Experts represented: early adoption of natural gas in a medium or heavy duty fleet; deployment of a refuelling infrastructure; expertise in providing natural gas technology; and knowledge/experience specific to the trucking industry.
+Review of literature related to the use of natural gas in transportation.
+Analysis of program data, including performance measurement data being collected and monitored by the program, as well as information extracted from contribution agreement reports (i.e., awareness surveys, workshop surveys).
+Phase 3
+: verification, triangulation, and synthesis of data from all lines of evidence, and reporting.
+Relevance Findings:
+Ongoing and Continued Need
+At the time of implementation (2011-12), the ecoEAF program was designed to address needs that were clearly identified by the Natural Gas Use in Transportation Roundtable’s
+Natural Gas Use in the Canadian Transportation Sector Deployment Roadmap
+(
+Roadmap
+). The program targeted needs specifically related to addressing information gaps, and increasing capacity to sustain markets. Information gaps were addressed through the program’s support for outreach, awareness building, and education activities. To help increase the capacity to sustain markets, the program supported activities such as: development of a National Training Strategy; and updates and development of codes and standards related to compressed natural gas (CNG) and liquefied natural gas (LNG) vehicles and infrastructure.
+However, evidence suggests that the need is now transitioning away from awareness and education of industry stakeholders to further encourage the adoption of natural gas as an alternative fuel option. Results from the survey of program stakeholders and expert panel conducted as part of this evaluation demonstrate that the education, outreach, awareness building, and codes and standards development and updates have provided the foundation needed to facilitate the deployment of natural gas in medium and heavy duty vehicles.
+With this foundation in place, there is now a need to target promotion and collaboration activities on increasing the awareness and engagement of provinces/territories and authorities having jurisdiction, particularly in relation to referencing codes and standards in regulations. There is also a need for an increased focus on de-risking investment and early adoption to further encourage the deployment of natural gas in medium and heavy duty vehicles. Although this was often mentioned in terms of fiscal measures (e.g., financial incentives, tax rebates, etc.), it was suggested that this could also be addressed through demonstrations and proof of concept, or support for research and development of new technologies. As new technologies are developed, ongoing updates to codes and standards will also be important to maintain currency.
+During the time period covered by this evaluation (2011-12 to 2014-15), many of these evolving needs were not the focus of the ecoEAF program; rather it focused at the time on building awareness of the benefits of natural gas use in medium and heavy duty vehicles, increasing knowledge of alternative fuel pathways, as well as developing and updating some codes and standards. This shift in needs is consistent with findings from the
+Roadmap
+and other relevant literature
+Footnote
+1
+, suggesting that these specific areas continue to require efforts for them to be addressed.
+Alignment with NRCan Strategic Outcomes, Government Priorities and Federal Roles and Responsibility
+The ecoEAF program aligns with Strategic Outcome 2, Natural Resource Sectors and Consumers are Environmentally Responsible. The program also aligns with federal government priorities related to reducing greenhouse gas (GHG) emissions, moving towards a lower carbon future, and contributing to a clean and healthy environment.
+It has been determined that federal government leadership is needed to demonstrate a commitment to the use of natural gas in transportation, and that NRCan has the expertise and network to be well placed to lead in this area. This commitment is important for: addressing market barriers; coordinating with the U.S. to harmonize codes and standards; encouraging the adoption of codes and standards in regulations; and ensuring the credibility and neutrality of information related to the use of natural gas in medium and heavy duty vehicles.
+Results of the survey of program stakeholders substantiated the importance of NRCan being involved through the ecoEAF program. In particular, 65% of external program stakeholders observed that there would be a major negative impact if NRCan was not supporting this program. These stakeholders confirmed that NRCan’s involvement is needed because it: provides visibility and federal leadership; ensures the credibility and legitimacy of information; enables coordination and collaboration with other jurisdictions and stakeholders; facilitates the update and development of codes and standards; ensures consistency in codes and standards, incentives, and investments; and ensures the safe deployment of natural gas.
+Performance (Effectiveness) Findings:
+Achievement of Intended Outcomes
+The program met or exceeded the majority of its targets, or was on track to meet or exceed its targets. Targets that were not met were at the output level, but did not impact the ability of the program to achieve its intended outcomes. To that end, all intended immediate and intermediate level outcomes identified in the program’s logic model have been observed to some degree. There is also evidence that confirms the theory of change behind the logic model is sound, such that the activities and outputs led directly to the immediate level outcomes, and the immediate level outcomes will lead to, or contribute to, the intermediate level outcomes. The most important activities/outputs to directly impact the achievement of immediate level outcomes were related to outreach and education, and efforts on codes and standards.
+Increased awareness by stakeholders of the benefits of alternative fuel options, in particular natural gas (immediate outcome)
+: All key activities/outputs of the ecoEAF program are reported by program stakeholders to have led directly to increasing awareness by stakeholders of alternative fuel options, particularly natural gas.
+Survey results representing 11 of the 14 workshops delivered by the three local support networks (i.e., hubs) supported by the program, also indicate that the workshops are leading to an increased knowledge of both the economic and environmental benefits of natural gas, with 94% of respondents reporting a gain in knowledge of these benefits as a result of their participation in the workshops.
+Increased knowledge by stakeholders of alternative fuel pathways, in particular natural gas (immediate outcome)
+: All key activities/outputs of the ecoEAF program are reported by program stakeholders to have led directly to increasing knowledge by stakeholders of alternative fuel pathways, in particular natural gas.
+Considering the survey results for 11 of the 14 workshops delivered across all of the hubs, there is also an indication that workshop participants have increased their knowledge of natural gas as an alternative fuel pathway, particularly in areas such as: availability of factory-built natural gas trucks; CNG/LNG refuelling; use of CNG and LNG to fuel vehicles; refuelling stations for natural gas vehicles; gas-safe facilities; facilities modifications; financing options; and current and forecasted cost differential of natural gas versus other fuels. Specifically, 88% of respondents to these workshop surveys reported a knowledge gain in these areas as a result of their participation in the workshops.
+Enhanced knowledge within the standards community to harmonize/align and update the codes and standards related to natural gas vehicles and infrastructure (immediate outcome)
+: All program stakeholders reported that the Technical Advisory Group (TAG) and committees to update or develop codes and standards led directly to enhanced knowledge within the standards community to harmonize/align and update codes and standards.
+More harmonized codes and standards for alternative fuels, particularly natural gas (intermediate outcome)
+: Fifty-three percent (53%) of program stakeholders reported that the program led to more harmonized codes and standards for alternative fuels, particularly natural gas. Many of the remaining respondents (40%) indicated they did not know if this had happened. This could be because: the update of codes and standards or whether they have been harmonized with the U.S. is not directly relevant to them; or that some additional awareness building related to harmonized codes and standards is needed, particularly with impacted or relevant stakeholders (e.g., provinces/territories, authorities having jurisdiction).
+Energy consumers adopt energy efficient technologies and alternative fuel options, in particular natural gas (intermediate outcome)
+: Sixty percent (60%) of program stakeholders reported that the program has led to energy consumers adopting energy efficient technologies and alternative fuels. Many of the remaining respondents (33%) indicated they did not know if this had happened. With the program starting in 2011-12, it was not expected that by the end of 2014-15 (i.e., the time period covered by the evaluation), the program would have achieved this outcome; although it is clear the program is making progress towards it.
+Impacts of the Program
+A key component of the RIE approach is the use of a scenario-based counterfactual (i.e., alternative), which presents a reasonable, legal, and feasible alternative to program design and delivery against which the performance of the program can be compared. The purpose is to determine net impact of the program and attribute results directly to it. The changes reflected in the counterfactual for this evaluation were:
+Outreach and education would be available online only (i.e., no hubs);
+Existing codes and standards would not have been updated; and
+No new codes and standards would have been developed.
+Program stakeholders and members of the expert panel were asked to: (1) identify the likelihood the program will lead to each of the immediate and intermediate outcomes (on a scale of zero to four); and (2) identify what the size of the impact would be (on a scale of zero to four). They were then asked to do the same with the counterfactual.
+Overall, this analysis reveals that the ecoEAF program is having an early positive impact on the adoption of energy efficient technologies and alternative energy practices (namely, natural gas) by energy consumers. This is because it has built the information and knowledge foundation necessary to increase awareness of natural gas as an alternative fuel option, and knowledge of it as an alternative fuel pathway. However, there are opportunities for the program to increase its impact on the adoption of energy efficient technologies and alternative fuel energy practices, in line with the evolving need noted above.
+For the purposes of this evaluation, the determination of net impact was based on the definition of the impact: “adoption of energy efficient technologies and alternative energy practices”, specifically natural gas in medium and heavy duty vehicles (i.e., an intermediate outcome). Results showed that the ecoEAF program may improve the likelihood of adoption of energy efficient technologies and alternative energy practices (namely, natural gas) by energy consumers by 12 to 25%. This net impact does not mean that 12 to 25% of adoption is attributable to the program; rather, that because of the program, there is a 12 to 25% greater chance that adoption will happen.
+Factors Impacting Achievement of Outcomes
+The most frequently identified external factors relate to the availability of technology, access to refuelling infrastructure, and upfront investment costs.
+Availability of technology
+: If the required technology is not available and proven, fleets will be less likely to adopt natural gas.
+Footnote
+2
+Program stakeholders and experts referenced this specifically in terms of the lack of an available 15L engine after two companies who had planned to provide this engine changed their plans. This was unexpected for the program, and could negatively impact the adoption of natural gas in heavy duty vehicles as this technology is important in Canada, especially for fleets travelling through mountains.
+Access to refuelling infrastructure
+: Literature, program stakeholders and experts consistently referred to this as a type of
+chicken and egg dilemma
+. Fuel producers want there to be a sufficient number of natural gas vehicles on the road before they will take the risk of investing in a public refuelling infrastructure; but fleets are hesitant to switch to natural gas vehicles because the refuelling infrastructure is not there. This
+dilemma
+will need to be addressed in order to facilitate adoption.
+High cost of upfront investment
+: The upfront cost of investment in vehicles, refuelling infrastructure, and technology was identified as a barrier to investment, in the
+Roadmap
+and other relevant literature, and by both program stakeholders and experts. Many external program stakeholders as well as the experts expressed a need for financial or other measures to help offset this risk if the adoption of natural gas is going to increase.
+Various other external factors that could impact the ability of the program to achieve its intended outcomes were also identified:
+The difference in cost between conventional fuels (i.e., diesel) and natural gas, which in recent years has decreased, making the economic return on investment much longer, or non-existent;
+Existence of provincial programs, which literature shows has increased the adoption of natural gas as an alternative fuel in provinces with programs (i.e., Quebec and British Columbia) more so than in those without programs;
+Policy direction or other efforts being taken in the U.S., which is more advanced in the deployment of natural gas as an alternative fuel and could either result in Canada being left behind in this market or be a
+push
+factor for Canada (federally and/or provincially) to take similar measures;
+Policy direction in Canada and reliance on other federal government departments, for instance the introduction of regulations related to environmental performance and technologies would facilitate adoption and bring market certainty
+Footnote
+3
+;
+Interest or engagement of key stakeholders, particularly investors in technology, infrastructure, and vehicles, as well as provinces/territories or authorities having jurisdiction, in terms of adopting codes and standards in regulations; and
+Public perception, if there is a positive perception of the safety of natural gas the adoption of natural gas could be encouraged, including being able to provide the necessary refuelling infrastructure.
+A couple of internal factors were also identified as potentially impacting the ability of the program to achieve its intended outcomes:
+Delivery model and ensuring the availability of neutral, credible, up-to-date information; and
+Policy measures within the Government of Canada that encourage the alignment of codes and standards with the U.S.
+Unintended Outcomes
+Some unintended positive impacts were observed to have resulted directly from the ecoEAF program, including: increased efficiencies in deploying natural gas vehicles as a result of updates and development of codes and standards; consideration of LNG in sectors/markets outside of over the road transportation; and unexpected or unplanned benefits from Canada-U.S. collaboration. One gap was observed through program activities related to a lack of independent, third party LNG refuelling experts in North America. A potential long term impact pertaining to a reduction in air pollutants other than GHGs was also identified.
+Performance (Efficiency and Economy) Findings:
+The ecoEAF program built efficiency and economy into its design by limiting the amount of program support to a maximum of 50%, thus requiring leveraging of resources (financial and in-kind) from other sources. This ability to leverage resources was identified as a strength of the program and it was able to leverage approximately 69% of total costs associated with its most important activities/outputs. Approximately 96% of contribution agreement expenditures were also focused specifically on these key activities/outputs.
+Areas for improvement and potential alternatives primarily focus on future delivery of the program and align with the evolving need identified above. These include focusing on the areas of particular strength of the government such as: collaborating with, and educating, provinces/territories and authorities having jurisdiction to encourage adoption of codes and standards in regulation; with industry focusing on promotion to end users, particularly given the information and tools have now been developed.
+Future direction was also identified as needing federal government leadership and commitment to the use of natural gas by: supporting research, development, and demonstration of new technology; and supporting the de-risking of initial investments and early adoption through financial or other measures to support or offset upfront costs associated with investments in natural gas vehicles, refuelling infrastructure, and/or technology.
+Conclusions:
+The ecoEAF program was found to be highly relevant in that is was designed specifically to respond to a clearly identified need to: address information gaps through education and outreach; and help increase capacity to sustain markets by supporting the development of a National Training Strategy and updating or developing codes and standards related to natural gas vehicles and infrastructure. However, evidence from the evaluation suggests that the need is now shifting away from education and awareness to requiring support to de-risk investments and early adoption while expanding activities to increase capacity to sustain markets.
+It was also determined that the program aligns with Government of Canada priorities and NRCan Strategic Outcomes, and is aligned with federal roles and responsibilities.
+Overall, the ecoEAF program has met or exceeded most of its performance targets, or is on track to meet or exceed its targets by the target date. The program exceeded its targets in key areas related to developing and updating codes and standards and the implementation of hubs to conduct outreach and deliver workshops to key stakeholders. Evidence from the evaluation indicates the program has generally contributed directly to its immediate level outcomes and is making progress towards achieving its intermediate level outcomes. Overall, the program seems to be having an early positive impact related to the adoption of energy efficient technologies and alternative energy practices (namely, natural gas).
+The ecoEAF was designed, and confirmed to be economic and efficient. Particular strengths of the program related to the leadership and commitment demonstrated by the Government of Canada with NRCan delivering this program. In particular, the program was built to require leveraging of resources (financial or in-kind) from other sectors or organizations, and was able to leverage nearly 70% of total costs associated with the activities/outputs most important to achieving its intended outcomes.
+Areas for improvement and potential alternatives relate primarily to the future direction of the program. In particular, it is important to consider the evolving need, facilitate the adoption of codes and standards by provinces/territories and authorities having jurisdiction, and support the adoption of vehicles, technology, and infrastructure by de-risking investment and early adoption, and/or supporting research, development, and demonstration (R,D&D) of new technology.
+Recommendations and Management Response
+Recommendations
+Management Response
+Responsible Official/Sector
+(Target Date)
+Recommendation 1
+: Natural Resources Canada should consider transitioning the focus of the ecoEAF program from the awareness and education foundation established since 2011-12 to broaden its efforts to increase capacity to sustain markets, such as:
+Continuing to provide leadership in terms of NRCan providing, or actively participating in, forums that bring key stakeholders together to share knowledge, discuss issues and collaborate on solutions or key activities.
+Conducting outreach to, and collaborating with, provinces/territories and authorities having jurisdiction to build awareness of the program and encourage the adoption of codes and standards in regulations.
+Facilitating and supporting the development of codes and standards where gaps still exist and continuing to support updates to existing codes and standards as technology changes or advances, including harmonizing/aligning codes with the U.S.
+Outreach and education activities targeted at end users that were important to the first four or five years of the program could now be the responsibility of industry to deliver as many are already doing this, and the credible, neutral information and training has now been developed with the support of NRCan. In implementing this new focus, the program should also include flexibilities in its processes to enable it to adjust its priorities or focus part way through its implementation should stakeholder or market needs change, or new gaps be identified.
+ACCEPTED
+The Energy Sector concurs with this finding. With the support provided in Budget 2016, the focus of NRCan activities will evolve to address some remaining barriers and will include:
+Providing leadership and engaging with key alternative fuel stakeholders, bringing them together through existing committees and working groups to continue to identify opportunities and challenges associated with alternative fueled vehicle deployment;
+Focusing on partnerships with provinces/territories and authorities having jurisdiction in order to increase adoption of newly developed and or revised codes and standards; and
+Facilitating the continuous development and updating of codes and standards for alternative fuelled vehicles and refuelling infrastructure to ensure they reflect technological advances.
+The program will also be designed to be flexible with interim assessment and course correction built in so that there is an ability to respond as the market matures and needs change.
+ES, OEE
+(March 2017)
+Recommendation 2
+: The ecoEAF should explore, identify, and implement measures to support the de-risking of investments and early adoption in medium and heavy duty natural gas vehicles, refuelling infrastructure, and technologies. There are a range of options, including:
+Financial measures to offset the upfront cost of vehicles, or encourage investments in refuelling infrastructure in order to facilitate the sustainability of the market and encourage continued adoption.
+Advance research, development, and demonstration of new natural gas technology, including helping solve the gap created without the availability of a 15L engine, testing of codes and standards, and providing proof of concept of new technologies. This could include leveraging research capabilities of Canadian universities, research institutes, or industry. Promotion and demonstration of new technologies to end users and other industry stakeholders would then also be important.
+ACCEPTED
+The Energy Sector concurs with this assessment that barriers continue to exist. NRCan will continue to work with provinces and territories, and industry, to explore ways to address barriers. With the support provided in Budget 2016, Natural Resources Canada will address both financial and non-financial barriers to the awareness, availability and use of lower carbon transportation options such as hydrogen, electric and natural gas by investing in electric vehicle and alternative fuel infrastructure along key travel corridors.
+ES, OE
+(March 2019)
+1.0 Introduction
+1.1 Overview
+This report presents the findings of the evaluation of Natural Resources Canada’s (NRCan’s) ecoENERGY for Alternative Fuels (ecoEAF) program. ecoEAF is a component  of the Alternative Transportation Fuels Sub-Program (PAA 2.1.3) in NRCan’s 2014-15 Program Alignment Architecture (PAA). The program is administered by NRCan’s Office of Energy Efficiency (OEE), part of the Energy Sector. This evaluation covers the period from 2011-12 to 2014-15.
+The purpose of the evaluation was to assess the relevance and performance (i.e., effectiveness, efficiency and economy) of the ecoEAF program, as required by the Treasury Board of Canada’s
+Policy on Evaluation
+(2009), as well as to be in compliance with section 42.1 (1) of the
+Financial Administration Act
+, which requires that all ongoing programs of grants and contributions be evaluated every five years.
+1.2 Program Description
+Canada’s transportation sector accounts for approximately 25% of the nation’s energy use, and the vast majority of the energy (99%) is derived from conventional fossil fuels such as gasoline and diesel fuel. Diversifying the energy sources available for use as alternative fuels across the transportation sector requires a concerted effort on the part of all stakeholders. Alternative fuels, such as natural gas, have a lower carbon content relative to conventional fuels (e.g., gasoline and diesel). The increased awareness and use of these fuels can contribute to a reduction in greenhouse gas emissions in the Canadian transportation sector. An increase in the awareness and use of alternative fuels also creates new economic opportunities and/or savings for fuel suppliers, vehicle and equipment manufacturers, and end users.
+In 2010, the Natural Gas Use in Transportation Roundtable, a multi-stakeholder initiative facilitated by NRCan, produced the
+Natural Gas Use in the Canadian Transportation Sector Roadmap
+(
+Roadmap
+). This
+Roadmap
+focuses “…on expanding the use of natural gas across the transportation sector and represents an important contribution to deliberations towards a broader strategy to reducing greenhouse gas (GHG) emissions”.
+Footnote
+4
+In 2011-12 the Government of Canada launched the ecoEAF program, a transfer payment program, in response to recommendations made in the
+Roadmap
+.
+The ecoEAF program is specifically targeted at addressing non-financial barriers to the greater deployment of medium and heavy duty natural gas vehicles identified in the
+Roadmap
+by:
+Enhancing capacity within the standards community to harmonize/align and update codes and standards;
+Increasing alternative fuel stakeholder knowledge so that stakeholders are better able to assess alternative fuel pathways; and
+Increasing alternative fuel stakeholder awareness and access to information on the benefits of alternative fuel options.
+To help achieve these objectives, the program encompasses two pillars of action:
+Education and outreach
+: to deliver reliable information, education materials and outreach activities to stakeholders (e.g., end users) to increase:
+Knowledge by stakeholders of alternative fuel pathways, in particular natural gas; and
+Awareness and access to information by stakeholders on the benefits of alternative fuel options, in particular natural gas.
+Codes and standards
+: engage with stakeholders to:
+Update and develop codes and standards related to natural gas (both compressed – CNG and liquefied – LNG) vehicles, refuelling stations, technology, etc.; and
+Harmonize/align codes and standards with those of the United States (U.S.).
+Program activities under both pillars are delivered primarily through contribution agreements. Under the pillar of education and outreach, key program activities include: establishing local support networks (i.e., hubs) to provide on-the-ground resources for end users (i.e., fleet managers) and other key stakeholders (e.g., vehicle manufacturers); developing a National Training Strategy, as well as education and outreach tools (e.g., fact sheets, guides); and launching an industry web portal (
+Go with Natural Gas
+) to ensure consistent fact-based information is available to guide investments in and the adoption of alternative fuels (particularly natural gas) in medium and heavy duty vehicles.
+Under the other pillar, codes and standards, the program coordinates with stakeholders through an existing Technical Advisory Group (TAG), established as a part of the
+Natural Gas Use in Transportation Deployment Roadmap
+initiative. Through the TAG and contribution agreements with stakeholders, the ecoEAF program supports updated and new codes and standards to: account for advances in technology; address gaps; and better align Canadian codes and standards with those of the U.S.
+Specific activities supported under this pillar include: updates to codes CSA B108 (CNG refuelling station installation) and CSA B109 (natural gas for vehicles installation codes to support natural gas vehicles in Canada); development of new bi-national LNG vehicle component standards to support the automotive industry in Canada (CSA LNG 1 and CSA LNG 2); as well as a LNG Code Champion, to develop Annex D to CSA Z276 for LNG refuelling stations, and development of a guideline for Transport Canada’s National Safety Mark (NSM) compliance.
+1.3 Program Logic Model
+Per the logic model (presented in Annex A), these activities will lead to the following outputs:
+Collaboration arrangements for codes and standards and information exchange among alternative fuel stakeholders;
+International and domestic formal engagements with alternative fuel stakeholders;
+New research, analysis, and studies;
+Education and outreach materials; and
+Contribution agreements for natural gas local support networks.
+These activities and outputs are intended to result in the following immediate, intermediate, and ultimate outcomes:
+Immediate Outcomes:
+Increased awareness by stakeholders of the benefits of alternative fuel options;
+Increased knowledge by stakeholders of alternative fuel pathways; and
+Enhanced knowledge within the standards community to harmonize/align and update the codes and standards.
+Intermediate Outcomes:
+Energy consumers adopt energy efficient technologies and alternative energy practices; and
+More harmonized codes and standards for alternative fuels.
+Ultimate Outcome:
+Reduced greenhouse gas emissions.
+1.4 Program Resources
+Table 1 provides the actual expenditures for the ecoEAF program during the time period covered by the evaluation (2011-12 to 2014-15). The expenditures presented in this table do not include leveraged resources (financial or in-kind). Note that all expenditures for the program are C-base.
+Table 1: ecoENERGY for Alternative Fuels Program Actual Expenditures, by Expenditure Type, 2011-12 to 2014-15 ($)
+Expenditure Type
+2011-12
+2012-13
+2013-14
+2014-15
+Total
+O&M
+190,939
+77,940
+44,774
+17,650
+331,303
+Salaries
+138,972
+123,722
+193,873
+192,951
+649,518
+EBP
+27,795
+24,745
+38,775
+38,590
+129,905
+G&C
+56,536
+113,357
+316,500
+345,000
+831,393
+Total
+414,242
+339,764
+593,922
+594,191
+1,942,119
+2.0 Evaluation Design
+2.1 Evaluation Objectives
+The objectives of the evaluation were to assess the:
+Relevance of the ecoEAF program in terms of the extent to which the program continues to address a demonstrable need, linkages between program objectives and NRCan strategic outcomes as well as federal government priorities, and alignment with federal government roles and responsibilities;
+Effectiveness of the program in terms of achievement of expected outcomes, including performance targets, attribution of, and contribution to, outputs and outcomes; and
+Efficiency and economy of the program in terms of resource utilization to the production of outputs and progress toward expected outcomes.
+2.2 Evaluation Questions
+The evaluation questions addressed were:
+Relevance
+Is there an ongoing and continued need for the program?
+To what extent do the priorities of the program align with federal government priorities and NRCan strategic outcomes?
+Is there a legitimate and appropriate role for the federal government to play with respect to alternative fuels in transportation (in particular, natural gas in medium and heavy duty vehicles)?
+Performance (effectiveness)
+To what extent have the intended outcomes of the program been achieved?
+To what extent have there been any unintended impacts (positive or negative)?
+What internal and external factors impact the achievement of the intended outcomes?
+Performance (efficiency and economy)
+Is the program the most efficient and economic means of achieving the intended outputs and outcomes of the program?
+Is the program the most economic means of achieving the intended outcomes?
+2.3 Evaluation Approach and Methods
+This evaluation was part of a Treasury Board of Canada Secretariat’s (TBS’) Centre of Excellence for Evaluation (CEE) pilot of the
+Rapid Impact Evaluation
+(RIE) approach. This is a theory-based evaluation approach consisting of three phases, and employing multiple lines of evidence:
+Phase 1
+: develop a detailed program summary
+Footnote
+5
+(presented in Annex B), theory of change (presented in Annex A with the program logic model), and scenario-based counterfactual (i.e., alternative delivery approach or model) against which program effectiveness can be compared in order to determine the net incremental change of the program. These were developed primarily based on a review of program files and documents, and were confirmed through consultations with a sample (n=5) of program stakeholders (internal and external to NRCan).
+Phase 2
+: assessment based on the program summary, theory of change, and scenario-based counterfactual from phase 1 to respond to the evaluation questions related to relevance, and performance (i.e., effectiveness, efficiency and economy). This phase used the following methods:
+Surveys or interviews with 33 program stakeholders (i.e., program management and staff, contribution agreement recipients, industry representatives who participate on committees or working groups, and participants in workshops delivered by the local support networks/hubs).
+Consultations with a panel of subject matter experts (n=4) external to the program. Experts represented: early adoption of natural gas in a medium or heavy duty fleet; deployment of a refuelling infrastructure; expertise in providing natural gas technology; and knowledge/experience specific to the trucking industry.
+Review of literature related to the use of natural gas in transportation.
+Analysis of program data, including performance measurement data being collected and monitored by the program, as well as information extracted from contribution agreement reports (i.e., awareness surveys, workshop surveys).
+Phase 3
+: verification, triangulation, and synthesis of data from all lines of evidence, and reporting.
+2.4 Evaluation Limitations and Mitigation Strategies
+The following challenges or limitations should be considered when reviewing the evaluation results:
+The RIE approach is intended to include a technical advisor, someone who is external to the program and department with an expertise on the mechanism of change (e.g., dissemination theory) or nature of the program (e.g., behaviour change or deployment program). The role of this technical advisor is to assist the evaluation team in understanding the program, the validity of its theory of change, and assist with the development of a counterfactual as part of phase 1; as well assessing the effectiveness of the program as part of phase 2. As noted above, this evaluation piloted the RIE approach for the TBS-CEE. This included adapting the approach to the Government of Canada evaluation framework. Timelines of the pilot did not enable the inclusion of a technical advisor.
+Program stakeholder assessments conducted as part of phase 2 through surveys or interviews do not reflect representative samples of different stakeholder groups:
+23 program stakeholders (i.e., external, including contribution agreement proponents, industry representatives who are members of committees and working groups; and internal program management and staff) were surveyed, with a response rate of 83% (n=19); and
+86 participants in workshops only were surveyed, with a response rate of 16% (n=14).
+That being said, as part of the RIE approach, the purpose of the stakeholder survey(s)/interviews were to target those with the experience and expertise to provide an informed assessment of the relevance and performance of the program (as opposed to opinion-based research to inform the evaluation). There was also some overlap between those consulted in phase 1 and those surveyed or interviewed in phase 2.
+Program data extracted from the contribution agreement reports, specifically the results of the awareness surveys, had low response rates.
+All of these challenges or limitations were addressed through the design of the evaluation, in particular by using mixed methods, and triangulating data within and across lines of evidence. The RIE approach also has built into it, a mechanism to account for biases from different stakeholder groups. This is done by including internal and external perspectives, and validating and calculating these results for each stakeholder group.
+3.0 Findings: Program Relevance
+3.1 Continued Need for the program
+Evaluation Question
+Assessment
+Is there an ongoing and continued need for the program?
+An ongoing and continued need has been demonstrated.
+Summary:
+At the time of implementation (2011-12), the ecoEAF program was designed to address needs that were clearly identified, in particular by the Natural Gas Use in Transportation Roundtable’s
+Natural Gas Use in the Canadian Transportation Sector Deployment Roadmap
+. The program targeted needs specifically related to addressing information gaps, and increasing capacity to sustain markets. Information gaps were addressed through the program’s support for outreach, awareness building, and education activities. To help increase capacity to sustain markets, the program supported activities such as: development of a National Training Strategy; and updates and development of codes and standards related to CNG and LNG vehicles and infrastructure. Evidence suggests that the need is now evolving away from awareness and education of industry stakeholders; rather, there is now a need to target promotion and collaboration activities on increasing the awareness and engagement of provinces/ territories and authorities having jurisdiction. There is also a need for an increased focus on de-risking investment and early adoption to further encourage the deployment of natural gas in medium and heavy duty vehicles.
+Analysis:
+Identified Need or Gap at the Time of Program Implementation
+As noted above, the transportation sector accounts for about one quarter of Canada’s energy use, which has an associated environmental impact in terms of greenhouse gas (GHG) emissions or other criteria air contaminants (CACs).
+Footnote
+6
+The Canadian Natural Gas Vehicle Alliance (CNGVA) notes that while medium and heavy duty vehicles (i.e., trucks and buses) make up only 4% of on-road vehicles, since 1990, they have “…accounted for one-third of the growth in carbon emissions…”.
+Footnote
+7
+Relevant literature also notes that “[o]perating fleets on natural gas can make transportation companies more competitive…”
+Footnote
+8
+and provide environmental benefits given that “…natural gas vehicles can reduce carbon emissions…by about 15% to 25%”
+Footnote
+9
+.
+However, as the
+Roadmap
+identified in 2010, there are gaps to be addressed to facilitate the deployment of natural gas in transportation. Specifically, the
+Roadmap
+outlined 10 recommendations under four categories:
+De-risking investment and early adoption;
+Addressing information gaps;
+Increasing capacity to sustain markets; and
+Ensuring ongoing competitiveness.
+Footnote
+10
+These recommendations target needs related to advancing natural gas deployment in medium and heavy duty vehicles, which the
+Roadmap
+determined had the greatest potential for the deployment of natural gas given that: established vehicle engine technologies were available; heavy duty vehicles account for an important part of the growing energy demand; there were prospective fuel savings and payback for fleet owners; and there were good market opportunities based on return-to-base and developing corridor fleets.
+Footnote
+11
+This is consistent with the possible environmental benefits noted in relevant literature
+Footnote
+12
+if natural gas is deployed as an alternative fuel in medium and heavy duty fleets.
+As illustrated in Figure 1, program stakeholders surveyed as part of this evaluation confirmed the need for a program such as this to build awareness and knowledge of natural gas as an alternative fuel option, and update or develop codes and standards related to natural gas vehicles and infrastructure.
+Figure 1: Program Stakeholder Identification of Needs Related to the Use of Natural Gas in Medium and Heavy Duty Vehicles
+Source: Survey of program stakeholders conducted as part of this evaluation
+Text Version
+Figure 1: Program Stakeholder Identification of Needs Related to the Use of Natural Gas in Medium and Heavy Duty Vehicles
+Statement
+Completely disagree
+Somewhat disagree
+Somewhat agree
+Completely agree
+There is a need to provide information/ facts on the benefits of using natural gas
+3%
+3%
+12%
+82%
+There is a need to build awareness, generally, of the benefits of natural gas
+6%
+0%
+15%
+79%
+There is a need for education pertaining to the general use of natural gas
+3%
+0%
+21%
+76%
+Analytical tools are needed to enable vehicle end-users to assess the benefits of adopting natural gas
+6%
+6%
+12%
+73%
+New and revised codes and standards are needed to facilitate the adoption of natural gas
+3%
+0%
+27%
+61%
+Analytical tools are needed to enable vehicle and equipment manufacturers to assess the benefits of adopting natural gas
+6%
+9%
+24%
+55%
+Analytical tools are needed to enable fuel producers and distributors to assess the benefits of adopting natural gas
+12%
+9%
+33%
+42%
+The specific needs driving the ecoEAF program included: lack of awareness and knowledge about the use of natural gas in medium and heavy duty vehicles and its benefits (economic and environmental); a lack of Canadian training material related to the use of natural gas in transportation; dormant/outdated or gaps in codes and standards related to natural gas (both CNG and LNG) vehicles and infrastructure; and a need to ensure codes and standards are aligned/harmonized with the codes and standards of the U.S.
+Footnote
+13
+As illustrated in Figure 2, awareness surveys conducted by the local support networks (i.e., hubs) in 2014 provide further indication that there may have been a need to increase industry stakeholder knowledge of natural gas vehicles.
+Figure 2: Stakeholder Knowledge of Natural Gas Vehicles
+Source: 2014 Hub Awareness Surveys
+Text Version
+Figure 2: Stakeholder Knowledge of Natural Gas Vehicles
+Hub
+No Knowledge
+Limited Knowledge
+Fairly Good Knowledge
+Excellent Knowledge
+Western Hub
+28%
+60%
+9%
+4%
+Eastern Hub
+13%
+63%
+21%
+3%
+Francophone Hub
+25%
+35%
+30%
+10%
+ecoENERGY for Alternative Fuels Designed to Specifically Address Needs
+The ecoEAF program was designed to directly address two recommendations resulting from the
+Roadmap
+where the federal government was identified as having a role to play: addressing information gaps; and increasing capacity to sustain markets.
+Addressing information gaps
+: Through contribution agreements, the ecoEAF program supported: (1) the development of an industry website (
+www.gowithnaturalgas.ca
+) to be a central resource for industry partners and stakeholders to access information, analytical tools, and success stories related to the use of natural gas in medium and heavy duty vehicles; (2) creation of hubs to deliver outreach and workshops to end users and other industry stakeholders, and act as a
+one-stop shop
+for access to resources and information specific to natural gas use in medium and heavy duty vehicles; and (3) development of outreach tools and fact sheets for incorporation into the website and hubs so as to address information gaps and provide up-to-date information to end users and other industry stakeholders (e.g., emergency first responders, original equipment manufacturers (OEMs), etc.).
+Footnote
+14
+There is evidence that these efforts by the program have been helping to address the needs of stakeholders and target audiences. Specifically:
+Website
+: 62% of external program stakeholder respondents to the survey conducted as part of this evaluation had accessed the
+Go with Natural Gas
+website. Of these: 95% completely or somewhat agreed they were able to find the information they were looking for; 89% completely or somewhat agreed that the resources available on the website were relevant to their needs; and 83% completely or somewhat agreed that the information provided on the website was up-to-date.
+Communication with hubs
+: 24% of external program stakeholder respondents to the survey had communicated directly with a hub. Of these: 86% completely or somewhat agreed that the information provided by the hub responded to their question or concerns; and 86% completely or somewhat agreed that the information provided by the hub was relevant to meet their needs.
+Hub workshops
+: 59% of external program stakeholder respondents to the survey had been a participant in a workshop delivered by a hub. Of these, 83% completely or somewhat agreed that the workshop was relevant to their needs.
+Given the objective of the program to increase awareness and knowledge of natural gas as an alternative fuel for use in medium and heavy duty vehicles, providing information relevant to the needs of target audiences demonstrates alignment between program efforts and needs in this regard.
+Increasing capacity to sustain markets
+: Also through contribution agreements, the program supported: (1) the development of a National Training Strategy, including eleven Canadianized courses to address the lack of relevant Canadian training
+Footnote
+15
+; (2) updating existing and developing new codes and standards, including CSA B108 (CNG refuelling station installation) and CSA B109 (natural gas for vehicles installation), development of a LNG refuelling station code for Canada (reflected in Annex D for CSA Z276), and two bi-national LNG vehicle component standards (LNG 1, standard for LNG fuel connection devices; and LNG 2, standard for natural gas vehicle fuel containers); and (3) development of a technical guideline to explain how multi-stage manufactured natural gas vehicles can be imported into Canada and be treated as new vehicles, as well as how to successfully apply for Transport Canada’s NSM certification.
+Footnote
+16
+Activities related to codes and standards development and updates directly respond to findings from the
+Roadmap
+identifying that proper codes and standards are necessary to foster the deployment of new technologies
+Footnote
+17
+, and safety codes and standards help to reinforce consumer confidence by filling possible gaps in regulations that could otherwise impede new technologies from coming to market.
+Footnote
+18
+Collaboration with alternative fuel stakeholders
+: The program has also helped to address the above-mentioned needs by facilitating and participating in collaborative arrangements with alternative fuel stakeholders. This includes co-chairing (along with a representative from industry) committees and working groups, such as the Roadmap Implementation Committee, Education and Outreach Working Group, and TAG. Representation of NRCan at these committees, particularly as a co-chair, has been identified by program stakeholders as demonstrating leadership and a commitment to natural gas use in the transportation sector. This facilitated bringing relevant stakeholders together to discuss issues and share knowledge. Program stakeholders also identified these collaboration efforts as a type of education given they provide forums through which different stakeholders learn about the challenges and priorities of other stakeholders.
+Continuing and Evolving Need for the Program
+Results from the survey of program stakeholders and expert panel conducted as part of this evaluation demonstrate that the education, outreach, awareness building, and codes and standards development and updates have provided the foundation needed to facilitate the deployment of natural gas in medium and heavy duty vehicles. Evidence reveals that the need has now evolved to require more effort on de-risking the investment and early adoption of natural gas use in medium and heavy duty vehicles, as well as a continued and broadened focus related to increasing capacity to sustain markets.
+Leadership
+: Program stakeholders and subject matter experts who provided input into this evaluation noted that there continues to be a need for the Government of Canada to provide leadership and demonstrate a commitment to the use of natural gas in medium and heavy duty vehicles. NRCan was viewed as having the expertise and network of stakeholders to be well placed to provide this leadership and commitment from the Government of Canada. While this leadership and commitment is shown through the collaborative arrangements, such as committees and working groups, experts and program stakeholders also identified that this needs to be demonstrated through support to de-risk investment in vehicles and/or refuelling infrastructure.
+Support to de-risk investments in vehicles and/or refuelling infrastructure
+: Program stakeholders and experts commonly noted that an investment is needed by government (provincial and federal) to help reduce the risk associated with investing in natural gas vehicles and refuelling infrastructure. Government was identified as having the expertise and resources necessary to facilitate this, but also that commitment and leadership is needed at both the federal and provincial levels to coordinate efforts. Although de-risking investments was often mentioned in terms of fiscal measures (e.g., financial incentives, tax rebates, etc.), it was suggested that this could also be addressed through demonstrations and proof of concept, or support for research and development of new technologies. Experts noted that the awareness and education aspects have been addressed; now federal and provincial governments need to show a commitment to incent people to adopt natural gas, or take other actions to support and encourage adoption.
+Focus on continued updates and development of codes and standards
+: Relevant literature
+Footnote
+19
+identifies gaps that continue to exist in codes and standards related to both CNG and LNG – either with outdated or non-existent codes that are needed, or those that should be harmonized between Canada and the U.S. As new technologies are developed, ongoing updates to codes and standards will also be important to maintain currency.
+Promotion and collaboration with provinces/territories and authorities having jurisdiction
+: The perception among experts and external program stakeholders was that, to date, not enough effort has been given to promoting the program to, and collaborating with, provinces/territories or authorities having jurisdiction. This was deemed particularly important in terms of codes and standards because while development and updates have been driven by the federal government, they have to be referenced in regulations at these other levels, which has not been observed sufficiently to date.
+During the time period covered by this evaluation (2011-12 to 2014-15), many of these evolving needs were not the focus of the ecoEAF program; rather it focused at the time on building awareness of the benefits of natural gas use in medium and heavy duty vehicles, increasing knowledge of alternative fuel pathways, as well as developing and updating some codes and standards. This shift in needs is consistent with findings from the
+Roadmap
+and other relevant literature
+Footnote
+20
+, suggesting that these specific areas continue to require efforts for them to be addressed.
+3.2 Alignment with Government Priorities, NRCan Strategic Outcomes, and Federal Roles and Responsibilities
+Evaluation Question
+Assessment
+To what extent do the priorities of the program align with federal government priorities and NRCan strategic outcomes?
+Alignment with federal government priorities and NRCan strategic outcomes has been demonstrated.
+Is there a legitimate and appropriate role for the federal government to play with respect to alternative fuels in transportation (in particular, natural gas in medium and heavy duty vehicles)?
+Alignment with federal roles and responsibilities (i.e., legitimate and appropriate role) has been demonstrated.
+Summary:
+The ecoEAF program aligns with Strategic Outcome 2, Natural Resource Sectors and Consumers are Environmentally Responsible. The program also aligns with federal government priorities related to reducing GHG emissions, moving towards a lower carbon future, and contributing to a clean and healthy environment.
+It has been determined that federal government leadership is needed to demonstrate a commitment to the use of natural gas in transportation, and that NRCan has the expertise and network to be well placed to lead in this area. This commitment is important for addressing market barriers, coordinating with the U.S. to harmonize codes and standards, encouraging the adoption of codes and standards in regulations, and ensuring the credibility and neutrality of information related to the use of natural gas in medium and heavy duty vehicles.
+Analysis:
+Alignment with NRCan Strategic Outcomes
+Since its implementation in 2011-12, the ecoEAF program has consistently aligned with NRCan’s strategic outcomes by:
+Footnote
+21
+Directly contributing to two of the expected results for PAA Sub-Program 2.1.3, Alternative Transportation Fuels: (1) stakeholders have increased knowledge of alternative fuel pathways; and (2) standards community has increased ability to develop and update codes and standards related to alternative transportation fuels;
+Supporting to the expected result of PAA Program 2.1:  energy consumers adopt environmentally responsible products and practices related to energy use and production; and
+Aligning with Strategic Outcome 2, Natural Resources and Consumers are Environmentally Responsible by encouraging the adoption of technologies, products, practices, and services that improve efficiency and environmental performance.
+Alignment with Federal Government Priorities
+As part of Sub-Program 2.1.3 (Alternative Transportation Fuels), the program aligns with the Government of Canada Outcome of a clean and healthy environment, in particular because:
+“[a]lternative fuels (e.g., natural gas, ethanol, biodiesel) have a lower carbon content and thus emit fewer greenhouse gases than conventional fuels, such as gasoline and diesel”
+Footnote
+22
+; and
+“increased awareness of these [alternative] fuels can contribute to a reduction in greenhouse gas emissions (GHGs) in the Canadian transportation sector”, which will help the Government of Canada advance its clean energy and efficiency priorities
+Footnote
+23
+.
+In addition, the Government of Canada made commitments under the
+Copenhagen Accord
+to reduce GHG emissions by 17% from 2005 levels by 2020
+Footnote
+24
+, including emissions from the transportation sector; and in 2015 announced its continued support for a low carbon future and addressing the impacts of climate change through actions such as deploying clean technologies
+Footnote
+25
+. The ecoEAF program aligns with these commitments by: seeking to increase the awareness of stakeholders of the benefits of natural gas as an alternative fuel option for use in medium and heavy duty vehicles; increasing the knowledge of stakeholders of alternative fuel pathways (particularly natural gas); and developing and updating related codes and standards that are harmonized/aligned with those of the U.S. The CNGVA, for instance, has indicated that “…if 5% of the heavy vehicles in Canada operated on natural gas, this would result in an 825 kilotonne annual reduction in carbon, representing 13% of the transportation portion of Canada’s 2020 target”.
+Footnote
+26
+Alignment with Federal Roles and Responsibilities
+Given its mandate and responsibilities under the
+Department of Natural Resources Act
+(1994, c.41), and the
+Energy Efficiency Act
+(1992, c.36), there is a legitimate role for NRCan to play with respect to alternative fuels in transportation, including the use of natural gas in medium and heavy duty vehicles.
+Federal leadership is necessary, in particular for: generating GHG reductions at the lowest possible costs and facilitating alignment with the U.S.; as well as for promoting new technologies; and leveraging actions from provinces/territories, and other sectors.
+Footnote
+27
+Given its scientific expertise and wide network of stakeholders, NRCan can play key role to support clean energy innovation, and promotion of energy efficiency in targeted sectors
+Footnote
+28
+, including the use of natural gas in medium and heavy duty vehicles.
+The
+Roadmap
+identified specific areas where the government has a potential role and associated responsibilities:
+De-risking investment and early adoption, in terms of vehicle premium, corridor infrastructure, and demonstrations;
+Addressing information gaps through education and outreach related activities;
+Increasing capacity to sustain markets by updating or developing codes and standards, developing training, and participating on the Roadmap Implementation Committee; and
+Ensuring ongoing competitiveness by supporting research and development (R&D), and the use of natural gas in other applications.
+Footnote
+29
+Program documents, relevant literature
+Footnote
+30
+, and consultations with program stakeholders identify that two provinces (Quebec and British Columbia) have programs related to the adoption of natural gas use in transportation. Nevertheless, the ecoEAF program is identified as unique given its specific focus on awareness and knowledge building of natural gas as an alternative transportation fuel, which is not the primary purpose of the programs in Quebec and British Columbia. As discussed above, there was an identified need to build awareness and knowledge of natural gas as an alternative fuel option, which required neutral, unbiased and credible information. The
+Roadmap
+and program stakeholders noted that the government is needed for this; if other actors in the natural gas industry (e.g., fuel producers or distributors, OEMs, etc.) provided this information it would be perceived as biased, with them trying to serve their own interest.
+As relevant literature
+Footnote
+31
+, program stakeholders, and experts note, the involvement of the federal government is also needed to facilitate collaboration with other jurisdictions, in particular the U.S. to enable the harmonizing of codes and standards. In addition, federal government involvement facilitates collaboration with provinces/territories and authorities having jurisdiction to promote the referencing of new or updated codes and standards in regulations. It also encourages other industry stakeholders to participate in committees or working groups aimed at discussing issues, collaborating on efforts to deploy natural gas, and sharing knowledge among stakeholders.
+Results of the survey of program stakeholders substantiated the importance of NRCan being involved through the ecoEAF program. In particular, 65% of external program stakeholders observed that there would be a major negative impact if NRCan was not supporting this program. These stakeholders confirmed that NRCan’s involvement is needed because it: provides visibility and federal leadership; ensures the credibility and legitimacy of information; enables coordination and collaboration with other jurisdictions and stakeholders; facilitates the update and development of codes and standards; ensures consistency in codes and standards, incentives, and investments; and ensures the safe deployment of natural gas.
+Furthermore, the survey of program stakeholders verified the need for NRCan to be involved in specific activities incorporated into its design, specifically, workshops, outreach, training, an industry website, and informing policies in other jurisdictions.
+Natural gas workshops delivered by the hubs
+: 47% of external program stakeholders who participated in hub workshops were aware of NRCan’s support for these. Of these, 63% indicated there would be a negative impact (minimal or major) if NRCan did not support these workshops. It was identified that NRCan support is needed to: ensure the credibility and commitment to keeping information factual; coordinate at multiple levels of government or across multiple parties; and help to explain and obtain real life data to support fleets in their decision making.
+Other outreach, education, and training
+: Internal and external program stakeholders (not including those who only participated in workshops) somewhat or completely agreed that NRCan’s support increased the credibility of other outreach tools, education and training (89%), as well as the credibility of the information available on the
+Go with Natural Gas
+website (76%).
+Informing public policies in other jurisdictions
+: 77% of internal and external program stakeholders (not including those who only participated in workshops) somewhat or completely agreed that the program informs public policies in other jurisdictions (municipal, provincial/territorial, international) related to the use of natural gas in medium and heavy duty vehicles.
+4.0 Findings: Program Performance (Effectiveness)
+4.1 Achievement of Expected Outcomes
+Evaluation Question
+Assessment
+To what extent have the intended outcomes of the program been achieved?
+Achievement or progress towards achieving the intended outcomes has been demonstrated.
+Summary Assessment of Achievement of Outcomes
+Outcome
+Assessment
+Immediate outcome
+: Increased awareness by stakeholders of the benefits of alternativefuel options
+Demonstrated
+Immediate outcome
+: Increased knowledge by stakeholders of alternative fuel pathways
+Demonstrated
+Immediate outcome
+: Enhanced knowledge within the standards community to harmonize/alignand update the codes and standards
+Partially demonstrated,mixed perspectives from evaluation evidence
+Immediate outcome
+: More harmonized codes and standards for alternative fuels
+Demonstrated; however,this requires ongoing attention to address gaps not yet addressed, and astechnology evolves
+Intermediate outcome
+: Energy consumers adopt energy efficienttechnologies and alternative fuel options
+Some progress, in termsof the foundation being built to facilitate adoption; opportunities exist forthe program to contribute to this outcome moving forward
+Ultimate outcome
+: Reduced greenhouse gas emissions
+Too early to assess
+Summary:
+The program met or exceeded the majority of its targets, or was on track to meet or exceed its targets. Targets that were not met were at the output level, but did not impact the ability of the program to achieve its intended outcomes. To that end, all intended immediate and intermediate level outcomes identified in the program’s logic model have been observed to some degree. There is also evidence that confirms the theory of change behind the logic model is sound, such that the activities and outputs led directly to the immediate level outcomes, and the immediate level outcomes will lead to, or contribute to, the intermediate level outcomes.
+The ecoEAF program is having an early positive impact on the adoption of energy efficient technologies and alternative energy practices (namely, natural gas) by energy consumers. This is because it has built the information and knowledge foundation necessary to increase awareness of natural gas as an alternative fuel option, and knowledge of it as an alternative fuel pathway. There are opportunities for the program to increase its impact on the adoption of energy efficient technologies and alternative fuel energy practices, in line with the evolving need noted above, in the coming years.
+Analysis:
+Extent to which targets have been met
+Within individual years there were some instances in which targets had not been met; however, on a cumulative basis from 2011-12 to 2014-15, analysis of program performance measurement data determined that the majority of targets were exceeded (54.5%) or met (4.5%), or on track to be exceeded or met (13.6%) by the target date of March 31, 2016. In three instances (13.6%) – indicators related to the intermediate outcome
+energy consumers adopt energy efficient technologies and alternative energy practices
+– it was not possible to assess if targets were met because either a target and/or result was not available.
+Targets were not met for only two indicators (9.1%), both of which measured outputs. These two indicators were only measured in years one and two of the program. With subsequent updates to the program’s
+Performance Measurement and Risk Strategy
+(PMRS) these indicators were either rolled into a similar, stronger indicator already being tracked, or replaced with a stronger indicator for which targets were determined to be met or exceeded (or on track to be met or exceeded).
+In spite of delays in the launch of the program, it did exceed its target related to the implementation of hubs. The target was for two hubs, but the program was able to put in place three hubs. This third hub was possible primarily due to leveraging of financial support from NRCan’s Market Development Incentive Payment (MDIP) Fund.
+For the immediate outcome,
+enhanced knowledge within the standards community to harmonize/align and update the codes and standards
+, the target of two codes and standards committees was exceeded, with the actual result being four committees developing and updating codes and standards. Similarly, for the intermediate outcome
+more harmonized codes and standards for alternative fuels
+, a total of two codes and standards being updated or developed was the target, but the program was able to exceed this with three codes being updated/revised and two bi-national standards being developed.
+Targets for the immediate level outcome,
+increased knowledge by stakeholders of alternative fuel pathways
+is on track to meet or exceed the identified target. This is measured through surveys of hub workshop participants reporting an increased knowledge of alternative fuel pathways. At the time of the evaluation, the result was 90% (compared to the target of 80%), but the analysis does not include results from the final year of the program (2015-16).
+Extent to which outputs led directly to the immediate outcomes
+Increased awareness by stakeholders of the benefits of alternative fuel options, in particular natural gas (immediate outcome)
+: As illustrated in Figure 3, program stakeholders believed that key program activities/outputs led directly to this outcome.
+Figure 3: Program Activities/Outputs that Led to Increased Awareness by Stakeholders of Alternative Fuel Options
+Source: Survey of program stakeholders conducted as part of this evaluation
+Text Version
+Figure 3: Program Activities/Outputs that Led to Increased Awareness by Stakeholders of Alternative Fuel Options
+Key Activity/Output
+Yes
+No
+Technical Advisory Group
+63%
+6%
+Hubs
+63%
+0%
+Outreach Tools
+63%
+0%
+Website
+63%
+0%
+Education and Outreach Working Group
+56%
+6%
+Roadmap Implementation Committee
+56%
+6%
+New/updated Codes and Standards
+56%
+6%
+National Training Strategy
+44%
+6%
+The National Training Strategy was noted by the fewest number of program stakeholders (44%) as having led directly to increased awareness by stakeholders of natural gas as an alternative fuel option. The reason for this could be that although the courses for this have been developed, it has not yet been fully rolled out to colleges and trade schools. As such, there may still be a limited awareness of the Strategy among stakeholders.
+In both 2014 and 2015, each of the three hubs administered awareness surveys to stakeholders within their respective areas of responsibility. When comparing the results from 2014 to 2015, some positive changes are noted. Although this may not be directly attributable to the program, the results do suggest that the program may have contributed to an increase in awareness. When the survey was conducted in 2014 the hubs had only been in operation for a few months; while in 2015, they had been in operation – conducting outreach and delivering workshops – for over a year. Specific observations averaged across the hubs were made in three areas:
+Personal experience with natural gas vehicles
+: There was an increase in respondents reporting limited positive experience with natural gas vehicles (+13%), an increase in those reporting significant positive experience (+7%), as well as a decrease in both those reporting no experience with natural gas vehicles (-14%), and limited negative experience (-6%).
+Organizational experience with natural gas vehicles
+: There was an increase in respondents reporting limited positive experience with natural gas vehicles (+15%), an increase in significant positive experience (+6%), as well as a decrease in both those reporting no experience with natural gas vehicles (-15%), and limited negative experience (-4%).
+Knowledge of natural gas vehicles
+: There was a decrease in those reporting no knowledge of natural gas vehicles (-4%), a decrease in those reporting limited knowledge (-14%), an increase in those reporting fairly good knowledge (+12%), and an increase in those reporting excellent knowledge of natural gas vehicles (+7%).
+Survey results were also available for 11 of the 14 workshops delivered across all three hubs. There is a clear indication from these surveys that the workshops are leading to an increased knowledge of both the economic and environmental benefits of natural gas, with 94% of respondents reporting a gain in knowledge of these benefits as a result of their participation in the workshops. Figure 4 illustrates the results for each of the hubs.
+Figure 4: Hub Workshop Survey Respondents Reporting Increased Knowledge of the Economic and/or Environmental Benefits of Natural Gas
+Source: Workshop Surveys Administered by the Hubs
+Text Version
+Figure 4: Hub Workshop Survey Respondents Reporting Increased Knowledge of the Economic and/or Environmental Benefits of Natural Gas
+Hub
+Percentage
+Francophone Hub
+92%
+Eastern Hub
+92%
+Western Hub
+99%
+Increased knowledge by stakeholders of alternative fuel pathways, in particular natural gas (immediate outcome)
+: Figure 5 illustrates that some program stakeholders believed that key program activities/outputs led directly to this outcome.
+Figure 5: Program Activities/Outputs that Led to Increased Knowledge by Stakeholders of Alternative Fuel Pathways
+Source: Survey of program stakeholders conducted as part of this evaluation
+Text Version
+Figure 5: Program Activities/Outputs that Led to Increased Knowledge by Stakeholders of Alternative Fuel Pathways
+Key Activity/Output
+Yes
+No
+Technical Advisory Group
+71%
+0%
+Education and Outreach Working Group
+71%
+0%
+New/updated Codes and Standards
+71%
+0%
+Hubs
+71%
+0%
+Outreach Tools
+71%
+0%
+Website
+71%
+0%
+Roadmap Implementation Committee
+64%
+0%
+National Training Strategy
+50%
+0%
+As with the immediate outcome related to awareness of the benefits of natural gas, the National Training Strategy was identified by the fewest number of program stakeholders (50%) as having led directly to the outcome of increased knowledge by stakeholders of alternative fuel pathways. Again, this could be because the Strategy has not been fully rolled out and awareness of it may currently be limited.
+Considering the survey results for 11 of the 14 workshops delivered across all of the hubs, there is also an indication that workshop participants have increased their knowledge of natural gas as an alternative fuel pathway, particularly in areas such as: availability of factory-built natural gas trucks; CNG/LNG refuelling; use of CNG and LNG to fuel vehicles; refuelling stations for natural gas vehicles; gas-safe facilities; facilities modifications; financing options; and current and forecasted cost differential of natural gas versus other fuels.
+Eighty-eight percent (88%) of respondents to these workshop surveys reported a knowledge gain in these areas as a result of their participation in the workshops. Figure 6 illustrates the results for each of the hubs.
+Figure 6: Hub Workshop Survey Respondents Reporting Increased Knowledge in Areas Related to Natural Gas as an Alternative Fuel Pathway
+Source: Workshop Surveys Administered by the Hubs
+Text Version
+Figure 6: Hub Workshop Survey Respondents Reporting Increased Knowledge in Areas Related to Natural Gas as an Alternative Fuel Pathway
+Hub
+Percentage
+Western Hub
+66%
+Francophone Hub
+91%
+Eastern Hub
+93%
+Enhanced knowledge within the standards community to harmonize/align and update the codes and standards related to natural gas vehicles and infrastructure (immediate outcome)
+: Figure 7 illustrates that program stakeholders believed relevant program activities/outputs led directly to this outcome.
+Figure 7: Program Activities/Outputs that Led to Enhanced Knowledge within the Standards Community to Harmonize/Align and Update Codes and Standards
+Source: Survey of program stakeholders conducted as part of this evaluation
+Text Version
+Figure 7: Program Activities/Outputs that Led to Enhanced Knowledge within the Standards Community to Harmonize/Align and Update Codes and Standards
+Key Activity/Output
+Yes
+No
+Technical Advisory Group
+100%
+0%
+Committees to update/develop codes and standards
+100%
+0%
+Roadmap Implementation Committee
+83%
+0%
+Education and Outreach Working Group
+33%
+17%
+Extent to which immediate outcomes led to the intermediate outcomes
+More harmonized codes and standards for alternative fuels, particularly natural gas (intermediate outcome)
+: Fifty-three percent (53%) of program stakeholders reported that the program led to more harmonized codes and standards for alternative fuels, particularly natural gas. Many of the remaining respondents (40%) indicated they did not know if this had happened. This could be because: the update of codes and standards or whether they have been harmonized with the U.S. is not directly relevant to them; or that some additional awareness building related to harmonized codes and standards is needed, particularly with impacted or relevant stakeholders (e.g., provinces/territories, authorities having jurisdiction).
+Energy consumers adopt energy efficient technologies and alternative fuel options, in particular natural gas (intermediate outcome)
+: Sixty percent (60%) of program stakeholders reported that the program has led to energy consumers adopting energy efficient technologies and alternative fuels. Many of the remaining respondents (33%) indicated they did not know if this had happened. With the program starting in 2011-12, it was not expected that by the end of 2014-15 (i.e., the time period covered by the evaluation), the program would have achieved this outcome; although it is clear the program is making progress towards it.
+Participants in hub workshops surveyed as part of this evaluation were asked if the workshop: (1) led to them
+considering
+the adoption of natural gas; and (2) led to them
+adopting
+natural gas. Both of these are part of the indicators identified in the program’s PMRS
+Footnote
+32
+, where no data was available in BEERS to determine if the target had been met. Twenty-nine percent (29%) of these workshop participants reported the workshop had led to them considering adopting natural gas, with 64% reporting no. In terms of adopting natural gas, 86% said no, with the remainder responding they did not know.
+Most Important Program Activities/Outputs for Outcome Achievement
+The most important activities/outputs to directly impact the achievement of immediate level outcomes were related to outreach and education, and efforts on codes and standards.
+Outreach and Education
+: ecoEAF’s support for the development and implementation of outreach and education tools were considered the most important activities/outputs to lead to increased awareness of the benefits of natural gas, and increased knowledge of it as an alternative fuel pathway. Program stakeholders specifically noted that NRCan’s support – through the ecoEAF program – ensures credible, neutral information and data is available to target audiences.
+The importance of the specific activities varied slightly depending on the relevant immediate outcome:
+Increased awareness by stakeholders of the benefits of alternative fuel options, in particular natural gas:
+Outreach
+tools
+: 64% identified these as very important, and 21% as somewhat important;
+National Training Strategy
+: 50% identified this as very important, and 36% as somewhat important;
+Go with Natural Gas
+website
+: 50% identified this as very important, and 36% as somewhat important; and
+Hubs
+: 43% identified these as very important, and 43% as somewhat important.
+Increased knowledge by stakeholders of alternative fuel pathways, in particular natural gas:
+Go with Natural Gas website
+: 50% identified this as very important, and 36% as somewhat important;
+Hubs
+: 57% identified these as very important, and 29% as somewhat important; and
+Outreach tools
+: 57% identified these as very important, and 29% as somewhat important.
+Codes and standards
+: All (100%) program stakeholders identified both the TAG, and committees to update or develop codes and standards as very or somewhat important to achieving enhanced knowledge within the standards community to harmonize/align and update codes and standards related to natural gas vehicles and infrastructure:
+Committees to update/develop codes and standards: 100% identified these as very important; and
+Technical Advisory Group: 83% identified it as very important, 17% as somewhat important.
+Most program stakeholders also indicated that the Roadmap Implementation Committee is important to achieving this outcome, with 50% identifying it as very important, and 33% as somewhat important.
+Government support of these committees and working groups is considered important by program stakeholders because it: facilitates CSA Committees on codes and standards; and ensures key stakeholders are represented on committees/working groups to discuss issues and enhance knowledge or understanding of different concerns and priorities.
+Importance of immediate outcomes to achievement of intermediate outcomes
+More harmonized codes and standards for alternative fuels, particularly natural gas
+: Eighty-five percent (85%) of program stakeholders identified the most important immediate outcome to be met in order to achieve this intermediate outcome as: enhanced knowledge within the standards community to harmonize/align and update codes and standards related to natural gas vehicles and infrastructure.
+Results of the program stakeholder survey also suggest that for more harmonized codes and standards to be achieved, increasing the knowledge of alternative fuel pathways is most important among the following target audiences:
+Policy makers
+: 62% identified this as very important, 15% as somewhat important;
+Investors
+: 46% identified this as very important, 31% as somewhat important;
+Fuel users
+: 46% identified this as very important, 31% as somewhat important; and
+Fuel producers or distributors
+: 38% identified this as very important, 38% as somewhat important.
+Energy consumers adopt energy efficient technologies and alternative fuel options, in particular natural gas
+: Program stakeholders identified the following immediate level outcomes and target audiences as the most important to enabling the achievement of this intermediate level outcome:
+Increasing awareness of end users of the benefits of alternative fuel options, particularly natural gas
+: 64% identified this as very important, and 21% as somewhat important;
+Increasing the knowledge of fuel users of alternative fuel pathways, particularly natural gas
+: 57% identified this as very important, 29% as somewhat important; and
+Increasing the knowledge of investors of alternative fuel pathways, particularly natural gas
+: 43% identified this as very important, and 43% as somewhat important.
+Attribution of Impacts to the Program
+A key component of the RIE approach is the use of a scenario-based counterfactual (i.e., alternative). The purpose of the counterfactual is to identify a reasonable, legal, and feasible alternative to program design and delivery against which the performance of the program can be compared, in an effort to determine net impact of the program and attribute results directly to it.
+Footnote
+33
+The changes reflected in the counterfactual for this evaluation were:
+Outreach and education would be available online only (i.e., no hubs);
+Existing codes and standards
+Footnote
+34
+would not have been updated; and
+No new codes and standards would have been developed.
+Program stakeholders and members of the expert panel were asked to: (1) identify the likelihood the program will lead to each of the immediate and intermediate outcomes (on a scale of zero to four); and (2) identify what the size of the impact would be (on a scale of zero to four). They were then asked to do the same with the counterfactual.
+As a result of this analysis, net incremental change related to each of the immediate and intermediate level outcomes was calculated, enabling the identification of the extent to which these outcomes were a direct result of (i.e., attributable to) the program itself.
+Increased awareness by stakeholders of the benefits of alternative fuel options, in particular natural gas (immediate outcome)
+: External program stakeholders expect that because of the ecoEAF program there will be about a 20% increase in awareness by stakeholders of the benefits of alternative fuels, in particular natural gas; while internal program stakeholders expect this to be about 34%. Experts were more conservative, suggesting a 6% increase in awareness of the benefits because of the program.
+Reasons for this relate to: the role identified above in terms of NRCan’s involvement increasing the credibility of the education and outreach materials or tools used to build awareness and knowledge, and being perceived as an unbiased source of this information; as well as a lack of Canadian information and training related to the use of natural gas in transportation prior to the ecoEAF program supporting the development of outreach and education tools.
+Increased knowledge by stakeholders of alternative fuel pathways, in particular natural gas (immediate outcome)
+: Internal and external stakeholders expect that because of the ecoEAF program there will be approximately a 20% gain in knowledge by stakeholders of alternative fuel pathways, specifically natural gas. Experts were more conservative, suggesting a 6% increase in knowledge because of the program.
+Similar to the immediate outcome, increased awareness of natural gas as an alternative fuel option, reasons for this relate to: NRCan’s involvement increasing the credibility of the education and outreach materials or tools, and being perceived as an unbiased source; and a lack of Canadian information and training prior to the program.
+Enhanced knowledge within the standards community to harmonize/align and update the codes and standards related to natural gas vehicles and infrastructure (immediate outcome)
+: Internal program stakeholders are more optimistic than external program stakeholders when identifying the extent to which the program will lead directly to this result. Internal program stakeholders suggest the program will lead to a 74% enhancement in knowledge within the standards community; while external program stakeholders suggest this will be 28%. Assessments by experts fell between these, suggesting that because of the ecoEAF program, there will be a 51% enhancement in knowledge.
+These variances could be related to a different knowledge of the codes and standards process and experience with the updating or development of codes and standards. The higher expectation expressed by internal program stakeholders could also reflect the way in which the program measures this outcome (i.e., the indicator), which is the number of codes and standards committees working on updating codes and standards. This is a low level indicator that does not seem to directly measure the outcome of
+enhancing knowledge
+. Experts, for instance, noted that the standards community has the required expertise, that the program does not enhance this; rather the program facilitates the formation of committees to update or develop codes and standards.
+More harmonized codes and standards for alternative fuels, particularly natural gas (intermediate outcome)
+: Internal program stakeholders were again more optimistic than external stakeholders, with internal stakeholders suggesting that because of the ecoEAF program, there will be a gain of 85% in harmonized codes and standards; while external program stakeholders suggest the program will directly lead to a gain of 30%. Assessments of experts fall between the two, suggesting 47% of gains related to harmonized codes and standards will be a direct result of the program.
+These differences could again be related to different levels of knowledge or experience with the codes and standards process.
+Energy consumers adopt energy efficient technologies and alternative fuel options, in particular natural gas (intermediate outcome)
+: Internal and external program stakeholders suggest that approximately 20% of improvements in the adoption of natural gas in medium and heavy duty vehicles will be a direct result of the ecoEAF program. Experts are more conservative, suggesting 6% of improvements will be because of the program.
+This could relate to the ecoEAF supporting the development of Canadian information and data that can be used for education and outreach purposes, supporting targeted outreach (i.e., through the hubs), and updating outdated, and developing new, codes and standards related to natural gas vehicles and infrastructure.
+Net impact of the Program
+Based on the above identification of net incremental change for each outcome directly resulting from the program, it was possible to determine a range representing the overall net impact of the program. For the purposes of this evaluation, the impact was defined as the intermediate outcome, adoption of energy efficient technologies and alternative energy practices (namely, natural gas in medium and heavy duty vehicles). Annex C provides more detail related to this calculation.
+Results of this calculation showed variation between the experts, who suggest the program improved prospects for adoption by 12%, while program stakeholders (internal and external) suggest it improved prospects by 25%. Thus, the ecoEAF program may improve the likelihood of adoption of energy efficient technologies and alternative energy practices (namely, natural gas) by energy consumers by 12 to 25%. This net impact does not mean that 12 to 25% of adoption is attributable to the program; rather, that because of the program, there is a 12 to 25% greater chance that adoption will happen.
+Factors Impacting the Achievement of Intended Outcomes
+The
+Roadmap
+, relevant literature, program stakeholders and experts identified both internal and external factors that can either positively or negatively impact the program’s ability to achieve its intended outcomes. The most frequently identified external factors relate to the availability of technology, access to refuelling infrastructure, and upfront investment costs.
+Availability of technology
+: If the required technology is not available and proven, fleets will be less likely to adopt natural gas.
+Footnote
+35
+Program stakeholders and experts referenced this specifically in terms of the lack of an available 15L engine after two companies who had planned to provide this engine changed their plans. This was unexpected for the program, and could negatively impact the adoption of natural gas in heavy duty vehicles as this technology is important in Canada, especially for fleets travelling through mountains.
+Access to refuelling infrastructure
+: Literature
+Footnote
+36
+, program stakeholders and experts consistently referred to this as a type of
+chicken and egg dilemma
+. Fuel producers want there to be a sufficient number of natural gas vehicles on the road before they will take the risk of investing in a public refuelling infrastructure; but fleets are hesitant to switch to natural gas vehicles because the refuelling infrastructure is not there. This
+dilemma
+will need to be addressed in order to facilitate adoption.
+High cost of upfront investment
+: The upfront cost of investment in vehicles, refuelling infrastructure, and technology was identified as a barrier to investment, in the
+Roadmap
+and other relevant literature
+Footnote
+37
+, and by both program stakeholders and experts. Many external program stakeholders as well as the experts expressed a need for financial or other measures to help offset this risk if the adoption of natural gas is going to increase.
+Various other external factors that could impact the ability of the program to achieve its intended outcomes were also identified.
+The difference in cost between conventional fuels (i.e., diesel) and natural gas
+: When the program was implemented, the price of natural gas was more favourable than diesel, providing a potential economic benefit to adopting natural gas. As noted by program stakeholders, experts, and relevant literature
+Footnote
+38
+, with the price of conventional fuels having decreased recently, this economic benefit has diminished, making the economic return on investment much longer, or non-existent.
+Existence of provincial programs
+: As noted above, there are currently two provinces with programs targeting natural gas use in transportation: a provincial program in Quebec; and a program delivered by Fortis BC in British Columbia. Program stakeholders and experts identified this as a factor that can increase the effectiveness of the program. This was substantiated by relevant literature
+Footnote
+39
+, which indicates that the existence of these programs have increased adoption of natural gas as an alternative fuel in these provinces when compared to those provinces without programs. In particular, it was observed that 77% of new medium and heavy duty vehicle purchases have been eligible for incentives in either Quebec or British Columbia.
+Footnote
+40
+Policy direction or other efforts being taken in the U.S.
+: Relevant literature
+Footnote
+41
+as well as experts identified that Canada is behind the U.S. in the deployment of natural gas as an alternative fuel in medium and heavy duty vehicles. Specific mention is given to the broader refuelling infrastructure available in the U.S., and the different level of support provided through federal and state-level policy direction. For instance, in the U.S., there is a focus on providing incentives or other financial support encouraging the adoption of natural gas by de-risking the upfront investment. With Canada being behind in terms of deployment, and having less – or different – policy direction, there is a potential that it could be left behind in this market. Alternatively, this could be a
+push
+factor for Canada (federally and/or provincially) to take similar measures.
+Policy direction in Canada and reliance on other federal government departments
+: For instance, regulations of GHG emissions from medium and heavy duty vehicles would facilitate adoption. This was also identified in the
+Roadmap
+, which noted that regulations related to environmental performance and treatment of technologies can help bring market certainty.
+Footnote
+42
+Somewhat related to policy direction in Canada, it was noted that the program cannot be (and is not) held accountable for commitments made by other departments, such as releasing regulations related to emissions from medium and heavy duty vehicles that may have been planned but not yet released.
+Interest or engagement of key stakeholders, particularly investors, and provinces/territories or authorities having jurisdiction
+: Program stakeholders and experts noted that investors in technology, infrastructure, and vehicles need to be interested and engaged in natural gas as an alternative fuel option in order for adoption to occur. They also identified that provinces/territories and authorities having jurisdiction have to be aware of the program and be interested in adopting codes and standards in regulations.
+Public perception
+: If there is a positive perception related to the safety of natural gas this could help encourage adoption of natural gas as an alternative fuel, including being able to provide the necessary refuelling infrastructure for natural gas vehicles. Having codes and standards in place could change public perception, along with monitoring and tracking the number of major incidents (or lack of) as a result.
+A couple of internal factors were also identified as potentially impacting the ability of the program to achieve its intended outcomes.
+Delivery model and ensuring the availability of neutral, credible, up-to-date information
+: By delivering the program primarily through contribution agreements, there are some risks introduced given the reliance on third party delivery agents to achieve outcomes. The risks generally relate to the reputation and credibility of the third parties, as well as the ability to maintain the currency and relevancy of education and outreach tools (e.g., workshops, reference materials, website, analytical tools) targeting key audiences.
+Policy measures within the Government of Canada that encourage the alignment of codes and standards with the U.S.
+: For instance, recent agreements such as the a
+Memorandum of Understanding between NRCan and the DOE [Department of Energy] Concerning Cooperation on Energy
+, and the
+Regulatory Cooperation Council
+, although not a direct result of the ecoEAF program, increase the profile of the program and its efforts related to codes and standards that may not have existed without measures such as these.
+4.2 Unintended Impacts
+Evaluation Question
+Assessment
+To what extent have there been any unintended impacts (positive or negative)?
+Primarily positive unintended impacts were observed as a result of the program.
+Summary:
+Some unintended positive impacts were observed as resulting directly from the ecoEAF program, including: increased efficiencies in deploying natural gas vehicles as a result of updates and development of codes and standards; consideration of LNG in sectors/markets outside of over the road transportation; and unexpected or unplanned benefits from Canada-U.S. collaboration. One gap was observed through program activities related to a lack of independent, third party LNG refuelling experts in North America. A potential long term impact pertaining to a reduction in air pollutants other than GHGs was also identified.
+Analysis:
+When developing the program summary as part of phase 1 of the evaluation (specifically, consultations with program stakeholders), one unintended impact of the ecoEAF program was identified: increased efficiencies in deploying natural gas vehicles, resulting directly from codes and standards being developed or updated. It was believed that up-to-date and relevant codes and standards increased efficiencies because guidance and training was available that previously had not been, and obtaining permits took less time. When internal and external program stakeholders were asked about this unintended impact in the survey conducted as part of the evaluation:
+60% reported that they had observed this outcome as a direct result of the ecoEAF program; and
+78% identified that program activities focused on updating or revising codes and standards were very important (64%) or somewhat important (14%) to increasing efficiencies in deploying natural gas vehicles.
+When comparing the likelihood and size of this impact as a direct result of the ecoEAF program and the counterfactual (as described above), it was identified that program stakeholders (internal and external) expect nearly 40% of gains in efficiencies in deploying natural gas vehicles will be a direct result of the program. Experts judge the gains in efficiencies resulting directly from the program to be slightly lower, at 30%.
+This unintended impact was further substantiated in documentation and literature, which identified that: proper codes and standards are necessary to foster the deployment of new technologies
+Footnote
+43
+; and adopting codes and standards across federal (i.e., Canada and U.S.) and provincial jurisdictions can reduce regulatory barriers to the adoption of natural gas vehicles by “ensur[ing] a common environment for new natural gas vehicles…”
+Footnote
+44
+.
+Other unintended impacts observed as a result of the program were identified by program stakeholders through the consultations and survey conducted as part of this evaluation.
+Natural gas being used or considered in other sectors or markets, such as marine or rail
+: It was noted that the knowledge gained from the program, particularly related to LNG, led to this being considered as an alternative in other sectors or markets earlier than it might have been otherwise.
+Unexpected, or unplanned, benefits from Canada-U.S. collaboration
+: Collaboration between CSA offices in Canada and the U.S. was believed to have brought clarity to roles and responsibilities in terms of who should be doing what. This collaboration also brought new attention to transportation that crosses boundaries between Canada and the U.S., as well as intercontinentally (Canada, U.S., and Mexico). The governments of Canada and the U.S. also signed a memorandum of understanding related to cooperation on energy and entered into the
+Regulatory
+Cooperation Council
+, neither of which had been anticipated and may not be attributable directly to the ecoEAF program, but were highlighted by program stakeholders as occurring during the timeframe of the program.
+In delivering program activities, it also became evident that there is a lack of independent, third party experts in North America, especially in the area of LNG refuelling stations
+Footnote
+45
+.
+Finally, in consultations with program stakeholders as part of phase 1 of the evaluation, a long term impact not currently included in the program’s logic model is the reduction of air pollutants other than GHGs.
+5.0 Findings: Program Performance (Efficiency and Economy)
+5.1 Demonstration of Efficiency and Economy
+Evaluation Question
+Assessment
+Is the program the most efficient means of achieving the intended outputs and outcomes of the program?
+The program was confirmed to be an efficient way of achieving its intended outputs and outcomes.
+Is the program the most economic means of achieving the intended outcomes?
+The program was confirmed to be an economic means of achieving its intended outcomes.
+Summary:
+As a transfer payment program, the ecoEAF program built efficiency and economy into its design by limiting the amount of program support to a maximum of 50%, thus building leveraging directly into the program. This ability to leverage resources (in-kind and financial) was identified as a strength of the program and it was able to leverage approximately 69% of total costs associated with its most important activities/outputs from other sectors or organizations. Approximately 96% of contribution agreement expenditures were also focused specifically on these activities/outputs. In spite of delays in the start-up of the program, it is clear the program was still effective at delivering its outputs and achieving its intended outcomes, particularly at the immediate outcome level, in an efficient and economic way.
+Areas for improvement and potential alternatives primarily focus on future delivery of the program and align with the evolving need identified above. These include focusing on the areas of particular strength of the government such as collaborating with, and educating, provinces/territories and authorities having jurisdiction to encourage adoption of codes and standards in regulation, with industry focusing on promotion to end users, particularly given the information and tools have now been developed. Future direction was also identified as needing federal government leadership and commitment to the use of natural gas through: support for research, development, and demonstration of new technology; and supporting the de-risking of initial investments and early adoption through financial or other measures to support or offset upfront costs associated with investments in natural gas vehicles, refuelling infrastructure, and/or technology.
+Analysis:
+Program Design and Leveraging
+The ecoEAF program was designed to be efficient and economic by limiting contribution agreements to a maximum of 50% of project costs from the program, and 75% for all public sector contributions. This means that by default, the program was designed to leverage a minimum of 50% of project costs from other organizations, or 25% from other sectors
+Footnote
+46
+. Leveraged amounts could be financial or substantiated in-kind resources.
+The greatest leverage was seen with the following program activities/outputs:
+Updates to codes B108 and B109
+: The program contributed $160,000 while private sector/industry contributed over $693,000 (in-kind and financial);
+National Training Strategy
+: The program contributed $75,000 while private sector/industry contributed over $235,000 (in-kind and financial); and
+Western Hub
+: The program contributed $42,000, while NRCan’s MDIP Fund contributed $168,000, and private sector/industry contributed $210,000 (in-kind and financial)
+Footnote
+47
+.
+There were some inefficiencies noted in the program documentation, in particular a delayed start to the program, and issues identifying the proponent for the contribution agreements for the hubs, which led to delays in the hubs being established – and therefore, delays in outreach activities and delivery of workshops. Based on the above discussion on achievement of outcomes, it is clear that these inefficiencies did not impact the ability of the program to deliver its outputs and meet or exceed targets related to its intended immediate level outcomes, and one intermediate level outcome (i.e., more codes and standards).
+Resource Utilization in the Production of Outputs and Progress toward Intended Outcomes
+As noted above, the most important program activities/outputs for achieving the intended outcomes were:
+Go with Natural Gas
+website, National Training Strategy, and Hubs
+: in order to increase awareness by stakeholders of the benefits of alternative fuel options, particularly natural gas;
+Go with Natural Gas
+website, Outreach Tools, and Hubs
+: in order to increase knowledge by stakeholders of alternative fuel pathways, in particular natural gas; and
+Committees to update/develop codes and standards, and the TAG
+: in order to enhance knowledge within the standards community to harmonize/align and update the codes and standards related to natural gas in medium and heavy duty vehicles, including infrastructure.
+The majority (96%) of the program’s contribution agreement expenditures were directed specifically at these activities/outputs. The program also leveraged approximately 69% of total costs associated with these activities/outputs, contributing about $0.9 million (31%) of a total of $2.9 million.
+Program Strengths
+The strengths identified by program stakeholders all stem from the primary strength identified: leadership by government, thus showing a commitment to natural gas as an alternative fuel option. The strengths resulting from this leadership and commitment included:
+Ability of the program to leverage from industry, including cost-sharing and partnerships;
+Stewardship, transparency, and neutrality of the information;
+High quality of information developed and produced by the program;
+Focus on consistency and continuous improvement, particularly with respect to codes and standards; and
+Networking with end-to-end stakeholders, in terms of the ability to bring all stakeholders to the table to discuss issues and share knowledge.
+Areas for Improvement and Potential Alternatives
+The areas for improvement and potential alternatives primarily reflect the evolving need discussed above and reflect opportunities for the program to contribute more to the adoption of natural gas as an alternative fuel option.
+Flexibility in processes
+: Some stakeholders identified the need for the program to be able to adjust its priorities or shift its focus part way through implementation. For instance, to include different markets or sectors, or as new gaps or needs arise (e.g., when the 15L engine was no longer going to be made available, which had not been anticipated during the current program), and find ways to ensure the program is nimble enough for industry. Some experts identified that the program should plan a review 1 to 2 years into its implementation to ensure it is addressing the appropriate priorities or gaps, and enable the program to shift course as necessary.
+Awareness by provinces/territories, authorities having jurisdiction, and other federal departments
+: There was a perception among program stakeholders and experts that provinces/territories and authorities having jurisdiction are not aware of the program or its efforts. It was noted that the program should focus awareness building, education, and collaboration activities on provinces/territories, authorities having jurisdiction, and other federal government departments (i.e., Transport Canada, and Environment Canada); while industry focuses on promotion and collaboration with end users, which some industry organizations (fuel distributors, OEMs, industry associations, etc.) were identified as already doing.
+The survey conducted as part of this evaluation investigated the extent to which program stakeholders believed other organizations or sectors could deliver the awareness, outreach, and collaboration aspects of the ecoEAF program. As illustrated in Figure 8, program stakeholders indicated there would be a major gap without NRCan involvement, or that NRCan must be involved in these activities as they relate to codes and standards; however, they tended to believe there would be minor, or no, gaps if other organizations or sectors delivered other outreach, education, and collaboration activities.
+Figure 8: Extent to which Other Organizations or Sectors could Deliver Awareness, Outreach, Education and Collaboration Activities
+Source: Survey of program stakeholders conducted as part of this evaluation
+Text Version
+Figure 8: Extent to which Other Organizations or Sectors could Deliver Awareness, Outreach, Education and Collaboration Activities
+Activity
+Not at all (NRCan’s involvement is needed)
+To a moderate extent (minor gaps)
+To a small extent (minor gaps)
+Completely (no gaps)
+Collaboration with stakeholders to harmonize codes and standards related to natural gas
+50%
+30%
+20%
+0%
+Collaboration with stakeholders to develop or revise codes and standards related to natural gas
+50%
+30%
+20%
+0%
+Education of policy makers of codes and standards related to natural gas that can be referenced in regulations
+30%
+50%
+20%
+0%
+Awareness by stakeholders of codes and standards related to natural gas use
+40%
+40%
+20%
+0%
+Education of stakeholders of alternative fuel pathways
+20%
+20%
+60%
+0%
+Outreach to stakeholders about the use of natural gas
+10%
+20%
+70%
+0%
+Awareness by stakeholders of the benefits of alternative fuel options
+10%
+10%
+80%
+0%
+Better promotion of energy reduction/environmental benefits as well as the economic benefits of natural gas as an alternative fuel option
+: Program stakeholders indicated that the focus of promotion seemed to be on the economic benefits associated with switching to natural gas. Balancing this with the promotion of environmental benefits was noted as being important, particularly with the current price of conventional fuels decreasing and narrowing, or removing, the economic benefits. Some stakeholders were not aware of what the environmental benefits might be, further suggesting a need for more promotion in this regard.
+Financial support to de-risk initial investments and early adoption
+: As the
+Roadmap
+identified in 2010, fiscal measures can reduce the risk of early adoption by reducing the upfront investment required for fleets
+Footnote
+48
+. This support could take the form of financial incentives such as rebates, grants, or tax incentives to offset the upfront cost of vehicles, and/or financial incentives such as grants to encourage investments in refuelling infrastructure
+Footnote
+49
+, as well as financial investments from government to support the development of new codes and standards and continue to support updates to existing codes and standards as technology advances. It was noted in relevant literature
+Footnote
+50
+, and reiterated by experts, that while financial incentives are important to encourage the adoption of natural gas, this type of support needs to be short-term in nature; designed to get the market to shift but recognizing it ultimately has to be self-sustaining.
+Support for research, development, and demonstration (R,D&D)
+: The
+Roadmap
+identified that targeted research, development, and demonstration can help sustain the market by helping to develop a greater range of natural gas vehicles.
+Footnote
+51
+Although some research was conducted as part of the current ecoEAF programming, support for R,D&D was not a focus of the program. However, relevant literature identifies that the Government of Canada has in the past provided support for natural gas technology research and development
+Footnote
+52
+, and that in the U.S., the National Renewable Energy Laboratory’s Natural Gas Engine Research and Development Program is one example of government support in the area of R,D&D
+Footnote
+53
+. This support could also include tapping into research capabilities at Canadian universities or research institutes
+Footnote
+54
+.
+Program stakeholders specifically highlighted that federal government involvement is needed to address the gap created by not having a 15L engine available on the Canadian market. They also identified that this R,D&D support needs to include testing in conjunction with codes and standards, especially related to LNG and how it will react in different settings. It was observed that by adding testing or research to inform codes and standards for new technology or applications where there is not a lot a field data (including testing on new materials) is needed to help build confidence in the technology.
+Specific to demonstrations, program stakeholders, experts, and participants in hub workshops (based on workshop surveys conducted by the hubs), identified a need for new technology to be available for demonstration at workshops or other venues, along with a need to learn from real life experiences of fleets who have already adopted natural gas. It was identified that, to some degree, these real life lessons could be tied to any financial incentive or investment initiative (or other type of support) such that government could act as a
+clearinghouse
+for collecting information, best practices, lessons learned, and sharing this information broadly while also ensuring it is getting a return on its investment.
+6.0 Conclusions and Recommendations
+6.1 Conclusions
+Relevance
+The ecoEAF program was found to be highly relevant in that is was designed specifically to respond to a clearly identified need to: address information gaps through education and outreach; and help increase capacity to sustain markets by supporting the development of a National Training Strategy and updating or developing codes and standards related to natural gas vehicles and infrastructure. However, evidence from the evaluation suggests that the need is now shifting away from education and awareness to requiring support to de-risk investments and early adoption while expanding activities to increase capacity to sustain markets.
+It was also determined that the program aligns with Government of Canada priorities and NRCan Strategic Outcomes, and is aligned with federal roles and responsibilities.
+Performance (Effectiveness)
+Overall, the ecoEAF program has met or exceeded most of its performance targets, or is on track to meet or exceed its targets by the target date. The program exceeded its targets in key areas related to developing and updating codes and standards and the implementation of hubs to conduct outreach and deliver workshops to key stakeholders. Evidence from the evaluation indicates the program has generally contributed directly to its immediate level outcomes and is making progress towards achieving its intermediate level outcomes. Overall, the program seems to be having an early positive impact related to the adoption of energy efficient technologies and alternative energy practices (namely, natural gas).
+Performance (Efficiency and Economy)
+The ecoEAF was designed, and confirmed to be economic and efficient. Particular strengths of the program related to the leadership and commitment demonstrated by the Government of Canada with NRCan delivering this program. In particular, the program was built to require leveraging of resources (financial or in-kind) from other sectors or organizations, and was able to leverage nearly 70% of total costs associated with the activities/outputs most important to achieving its intended outcomes.
+Areas for improvement and potential alternatives relate primarily to the future direction of the program. In particular, it is important to consider the evolving need, facilitate the adoption of codes and standards by provinces/territories and authorities having jurisdiction, and support the adoption of vehicles, technology, and infrastructure by de-risking investment and early adoption, and/or supporting R,D&D of new technology.
+6.2 Recommendations
+Recommendation 1
+: Natural Resources Canada should consider transitioning the focus of the ecoEAF program from the awareness and education foundation established since 2011-12 to broaden its efforts to increase capacity to sustain markets, such as:
+Continuing to provide leadership in terms of NRCan providing, or actively participating in, forums that bring key stakeholders together to share knowledge, discuss issues and collaborate on solutions or key activities.
+Conducting outreach to, and collaborating with, provinces/territories and authorities having jurisdiction to build awareness of the program and encourage the adoption of codes and standards in regulations.
+Facilitating and supporting the development of codes and standards where gaps still exist and continuing to support updates to existing codes and standards as technology changes or advances, including harmonizing/aligning codes with the U.S.
+Outreach and education activities targeted at end users that were important to the first four or five years of the program could now be the responsibility of industry to deliver as many are already doing this, and the credible, neutral information and training has now been developed with the support of NRCan.
+In implementing this new focus, the program should also include flexibilities in its processes to enable it to adjust its priorities or focus part way through its implementation should stakeholder or market needs change, or new gaps be identified.
+Recommendation 2
+: The ecoEAF should explore, identify, and implement measures to support the de-risking of investments and early adoption in medium and heavy duty natural gas vehicles, refuelling infrastructure, and technologies. There are a range of options, including:
+Financial measures to offset the upfront cost of vehicles, or encourage investments in refuelling infrastructure in order to facilitate the sustainability of the market and encourage continued adoption.
+Advance research, development, and demonstration of new natural gas technology, including helping solve the gap created without the availability of a 15L engine, testing of codes and standards, and providing proof of concept of new technologies. This could include leveraging research capabilities of Canadian universities, research institutes, or industry. Promotion and demonstration of new technologies to end users and other industry stakeholders would then also be important.
+Annex A: Program Logic Model and Theory of Change
+Text Version
+Annex A: Program Logic Model and Theory of Change
+Level of Influence
+Control
+Outcome Level
+Activities
+Results Chain
+Facilitate the design, development and updating of codes and standards for alternative fuels and alternative fuel infrastructure
+Develop and maintain international and domestic networks and partnerships
+Conduct research, analysis and studies
+Design and develop education and outreach materials to support the use of alternative fuels
+Causal Links – Assumptions/Risks
+Target audiences are identified
+Committees/working groups are established
+Stakeholders/partners are identified and engaged
+Policy needs/gaps are identified
+Needs of stakeholders/partners are identified and aligned (i.e., common objectives)
+Needs of target audiences are identified
+Appropriate and sufficient support from stakeholders/partners
+Appropriate research and analysis conducted and shared with appropriate target audiences
+Leads to
+Level of Influence
+Control
+Outcome Level
+Outputs
+Results Chain
+Collaborative  arrangements for codes and standards and information exchange among alternative fuel stakeholders
+International and domestic formal engagements with alternative fuel stakeholders
+New research, analysis and studies
+Education and outreach materials
+Contribution agreements for natural gas local support networks
+Causal Links – Assumptions/Risks
+All relevant/applicable information is shared among stakeholders/partners (i.e., access to information)
+Appropriate and sufficient support for, and engagement in, collaborative arrangements (i.e., committees/working groups from stakeholders/partners
+Stakeholders/partners have the capacity to understand data/information related to alternative fuel pathways
+Codes and standards are developed
+Local Support Networks are appropriately and sufficiently engaged
+Codes and standards committees (i.e., collaborative arrangements) appropriately and sufficiently engaged
+Target audiences and stakeholders/partners have access to the necessary information
+Material experts are actively engaged
+Accurate information is provided by material experts
+Leads to
+Level of Influence
+Direct Influence
+Outcome Level
+Immediate Outcomes
+Results Chain
+Enhanced knowledge within the standards community to harmonize/align and update the codes and standards
+Increased knowledge by stakeholders of alternative fuel pathways
+Increased awareness by stakeholders of the benefits of alternative fuel options
+Causal Links – Assumptions/Risks
+Common understanding/agreement of alternative fuel pathways among stakeholders/partners
+Needs of target audiences and key stakeholders/partners are met (including information shared meets their needs)
+All jurisdictions agree on codes and standards for alternative fuels
+Regulations, codes and standards are adopted across jurisdictions
+Producers, suppliers, manufacturers have the capacity to deliver/produce energy efficient technologies and alternative energy practices (i.e., supplies exist)
+Awareness among target audiences of alternative fuel pathways
+Target audiences have the capacity to understand the information
+Leads to
+Level of Influence
+Direct Influence
+Outcome Level
+Intermediate Outcomes
+Results Chain
+More harmonized codes and standards for alternative fuels
+Energy consumers adopt energy efficient technologies and alternative fuel options
+Causal Links – Assumptions/Risks
+Harmonized codes and standards referenced across jurisdictions (i.e., implementation of new codes and standards)
+Behaviour changes by target audiences (distributers, manufacturers, other jurisdictions)
+Fleets (medium- and heavy-duty vehicles) use natural gas vehicles
+Leads to
+Level of Influence
+Indirect Influence
+Outcome Level
+Ultimate Outcome
+Results Chain
+Reduced greenhouse gas emissions
+Annex B: Program Summary
+Element
+Detail
+Rationale
+The increased awareness and use of alternative fuels, such as natural gas, can contribute to a reduction in greenhouse gas (GHG) emissions) in the Canadian transportation sector. An increase in the awareness and use of alternative fuels also creates new economic opportunities and/or savings for fuel suppliers, vehicle and equipment manufacturers, and end users. In the 2010
+Natural Gas Use in the Canadian Transportation Sector Deployment Roadmap
+, it was identified that end-users and other stakeholders required information and support to increase awareness and encourage the adoption of natural gas vehicles in medium- and heavy-duty fleets.
+Although codes and standards related to compressed natural gas (CNG) vehicles and refuelling stations existed, they primarily focused on light-duty vehicles. As a result, these codes and standards needed to be updated to cover medium- and heavy-duty vehicles, and advances in technologies. In addition, there were previously no codes and standards related to liquefied natural gas (LNG) vehicles and refuelling stations, thus requiring the development of new codes in this area.
+Purpose/Objective
+Objectives of the program as a whole are to:
+Enhance capacity within the standards community to harmonize/align and update the codes and standards;
+Increase alternative fuel  stakeholder knowledge so that stakeholders are better able to assess alternative fuel pathways; and
+Increase alternative stakeholder awareness and access to information on the benefits of alternative fuel options.
+Objective specific to education and outreach:
+To deliver reliable information, education materials and outreach activities to stakeholders (e.g., end-users of medium- and heavy-duty natural gas vehicles) to increase:
+Knowledge so stakeholders are better able to assess alternative fuel pathways; and
+Awareness and access to information on the benefits of alternative fuel options.
+Objectives specific to codes and standards:
+Update codes and standards pertaining to CNG vehicles, refuelling stations, technology, etc.
+Develop new codes and standards pertaining to LNG vehicles, refuelling stations, technology, etc.
+Align codes and standards with those of the United States
+Size (or scale)
+As of March 31, 2015, 588 participants/stakeholders – 257 were fleets – have attended workshops delivered by the Hubs
+Education and Outreach:
+Through three contribution agreements, the program contributed to:
+Development of a natural gas website (
+www.gowithnaturalgas.ca
+);
+Development of seven outreach tools (OEM Dealer Resource Guide; Emergency First Responder Guide; fact sheets focusing on CNG and LNG, Energy Content, Weights and Dimensions, and Safety and Fuel System Inspection; Energy Payback Worksheet; OEM and Aftermarket Natural Gas Vehicle Infographic; Canadian Compliance Guideline; and Station Permitting Guideline); and
+Development of a National Training Strategy, including 11 courses (General Awareness – Fleet, Public, Industry; Fleet Operations Readiness; Emergency First Responder; CNG Fuel System Inspection; LNG Fuel System Inspection; CNG Vehicle Maintenance; LNG Vehicle Maintenance; CNG Vehicle Conversion; CNG Vehicle Refueling; LNG Vehicle Refueling; LNG Bulk Transfer & Off-Load
+Education and outreach is primarily delivered via the website (
+www.gowithnaturalgas.ca
+) and three Hubs which were established through three contribution agreements:
+Eastern Hub: located in Ottawa, providing a single point of contact for target audiences/stakeholders in Ontario, Quebec, New Brunswick, Nova Scotia, and Newfoundland and Labrador;
+Western Hub: located in Vancouver, providing a single point of contact for target audiences/stakeholders in British Columbia, Alberta, Saskatchewan, Manitoba, Yukon, Northwest Territories, and Nunavut; and
+Francophone Hub: located in Montreal, providing a single point of contact for French language target audiences/stakeholders across Canada
+Note that the program’s original target was to establish two Hubs. With the leveraging of MDIP and Industry financial support, it was able to establish a third Hub.
+Codes and Standards:
+Through three contribution agreements, the program contributed to:
+Updates to B108 (Gas Fuelling Stations Installation) and B109 (Natural Gas for Vehicles Installation Codes to Support Natural Gas Vehicles in Canada);
+LNG Code Champion, and Guideline for NSM Compliance; and
+Development of new binational LNG vehicle component standards to support the automotive industry in Canada
+Note that the program’s original target was to update two existing Canadian codes so they would align with the U.S. The program exceeded this target and was able to update three codes and establish two binational standards. The program also signed two Canada-U.S. agreements (Memorandum of Understanding on Canada/U.S. Energy Cooperation, and Regulatory Cooperation Council).
+Committees/Working Groups:
+The program also participates in three committees or working groups:
+Roadmap Implementation Committee
+Education and Outreach Working Group
+Technical Advisory Working Group
+Target Audiences
+Hubs:
+Focus is on the following
+sectors
+: private and public refuse fleets; highway freight fleets; major municipalities’ fleets; school bus fleets; and urban transit fleets.
+Target audience
+groups include: end-users (i.e., fleet managers); fuel producers & distributers; vehicle and equipment manufacturers; maintenance and repair personnel; other federal government departments; other jurisdictions (i.e., municipal, provincial/territorial, international); authorities & regulatory bodies; industry; first responders; investors; academia and trade schools; general public; and media
+Codes and Standards:
+Focus is on working with the Standards Council of Canada, and the Canadian Standards Association (CSA) technical committees, in collaboration with the U.S. Department of Energy, to address gaps in existing CNG codes and standards, and develop new LNG codes and standards.
+Target audience
+groups include: industry; authorities and regulators; other federal government departments; other jurisdictions (i.e., municipal, provincial/territorial, international); vehicle and equipment providers/manufacturers, and end-users.
+Direct Impacts
+Enhanced knowledge within the standards community to harmonize/align and update the codes and standards
+More harmonized codes and standards for alternative fuelled vehicles, and refuelling infrastructure.
+Increased efficiencies in deploying natural gas vehicles (i.e., because of codes and standards)
+Increased knowledge by stakeholders (policy makers, alternative and conventional fuel producers, fuel users, investors)
+Increased awareness by stakeholders (end-users, alternative fuel producers, vehicle and equipment manufacturers) of the benefits of alternative fuel options
+Energy consumers adopt energy efficient technologies and alternative energy practices
+Larger Impacts
+Reduced greenhouse gas emissions and other air pollutants
+Internal Factors/Conditions that Impact Success
+Availability of information, education and analytical tools targeting key audiences
+Ability to maintain currency and relevance of outreach tools (e.g., workshops, reference material, website)
+Level of awareness among target audiences/stakeholders of alternative fuel pathways
+Policy measures within government encouraging the alignment of codes and standards with the United States
+External Factors/Conditions that Impact Success
+Ease of access to natural gas (LNG or CNG) as a fuel source for fleets
+Extent of existing, and access to, natural gas (LNG or CNG) infrastructure and technology
+Prices of conventional fuels (i.e., diesel and gasoline) drop significantly and there are supply disruptions in the price of alternatives or their feed stocks, which render them cost-prohibitive
+Costs associated with producing/manufacturing natural gas fleet vehicles, or producing/distributing natural gas (e.g., lack of financing opportunities for alternative fuel production technologies)
+Perception among stakeholders of credibility of analytical tools
+Level of interest/engagement by stakeholders to consider or invest in alternative fuels as a viable option
+Level of industry support for natural gas as a viable alternative option to conventional fuels
+Regulation of GHG emissions from medium- and heavy-duty vehicles
+Existence of provincial/territorial programs related to the use of natural gas in transportation
+Availability of appropriate natural gas vehicles/technologies (i.e., meet end-user needs)
+Safety incidences related to the use and/or storage of natural gas
+Perception of the public of the safety of natural gas
+Key Dates/Milestones
+Program Launch: January 2012
+Contribution Agreement
+Key Dates/Milestones
+Education and Outreach Materials
+Natural Gas Website
+February 2012 to June 2012
+Outreach Tools
+August 2012 to November 30, 2013
+National Training Strategy
+August 2012 to March 31, 2014
+Local Information Networks/Hubs
+Western, Eastern, and Francophone Hubs
+October 2013 to March 1, 2016
+Codes and Standards
+LNG Code (A: Champion – Phase 2; B: Guideline for NSM Compliance)
+July 18, 2012 to February 29, 2013
+Updates to B108 (Gas Fuelling Stations Installation) and B109 (Natural Gas for Vehicles Installation) Codes to Support Natural Gas Vehicles in Canada
+November 22, 2013 to March 1, 2015 (published in March 2015, with an effective date of July 1, 2015)
+Development of New LNG Vehicle Component Standards to Support the Automotive Industry in Canada
+January 2014 to January 16, 2016
+Program Resources (dollars and FTEs)
+NRCan FTEs: 2
+Contribution Agreement
+Contribution Amounts
+NRCan
+Other Federal
+Private Sector*
+Unclaimed (non-federal)
+Education and Outreach Materials
+Natural Gas Website
+$30,000
+n/a
+$30,000
+n/a
+Outreach Tools
+$35,000
+n/a
+$37,634
+n/a
+National Training Strategy
+$75,000
+n/a
+$75,000
+$160,835
+Local Support Networks (Hubs)
+Eastern Hub
+$210,000
+n/a
+$210,000
+n/a
+Western Hub
+$42,000
+$168,000**
+$210,000
+n/a
+Francophone Hub
+$210,000
+n/a
+$210,000
+n/a
+Codes and Standards
+Updates to B108 (Gas Fuelling Stations Installation) and B109 (Natural Gas for Vehicles Installation Codes to Support Natural Gas Vehicles in Canada
+$160,000
+n/a
+$693,120
+n/a
+LNG Code (A: Champion – Phase 2; B: Guideline for NSM Compliance)
+$31,993
+n/a
+$31,993
+n/a
+Development of New LNG Vehicle Component Standards to Support the Automotive Industry in Canada
+$156,500
+n/a
+$208,000
+n/a
+* Represents financial and in-kind support
+** Represents financial support from the Market Development Incentive Payment Fund (MDIP)
+Element
+Detail
+Key Stakeholders
+Program Delivery:
+Natural Resources Canada
+Contribution Agreement Proponents:
+Miratech Consulting Group (all three Hubs)
+MARCON (Eastern and Francophone Hubs)
+FPInnovations (Western Hub)
+Canadian Natural Gas Vehicle Alliance – CNGVA (Hubs, website, outreach tools, training strategy, LNG Champion and NSM compliance)
+Canada Standards Association – CSA (updates to B108 and B109 codes to support natural gas vehicles in Canada, new LNG vehicle component standards)
+Other Federal Government Departments:
+Transport Canada
+Other Jurisdictions:
+United States Department of Energy (DOE)
+Provinces/Territories
+Members of Committees:
+Roadmap Implementation Committee and its working groups
+Standards Development Organizations (SDOs)
+Target Audiences, including fleets/end-users, equipment and vehicle manufacturers, industry, fuel producers and distributers, etc. For example, those who have assisted in Hub workshop delivery:
+Western Hub
+: Manitoba Hydro; Cummins Westport; Cummins Western Canada; Emterra Environmental; Clean Energy; New Flyer; Conestoga-Rovers & Associates; Bayhurst Gas (Sask Energy); ENN Canada; Jenmar Concepts; Volvo Trucks Canada; ATCO Gas; ColdStar Solutions; Cold Star Freight; Shell Canada; Ferus; IMW; Fortis BC
+Eastern Hub
+: Union Gas; Change Energy; Cummins Westport; Cummins Canada; Freightliner (Daimler); Enbridge Gas Distribution; Emterra Group; ANGI Energy Systems; CNGVA; ENN; CTC
+Francophone Hub
+workshop delivery: Gaz Métro; Gaz Métro Solutions Transport; Cummins Westport; Cummins Eastern Canada; Clean energy fuels; Clean Energy; Kenworth; Freightliner (Daimler); EBI; Groupe EBI; Enbridge Gas New Brunswick; Enbridge Gas Distribution; Peterbilt Atlantic; Change Energy; RBC; Carrefour Francophone; ANGI Energy Systems; Labrie
+Governance
+The program is managed by Natural Resources Canada through the Office of Energy Efficiency (specifically the Transportation and Alternative Fuels Division).
+NRCan co-chairs the Roadmap Implementation Committee along with a representative from Industry. This Committee: supports the implementation of the
+Roadmap
+’s recommendations; assesses progress against key milestones, provides guidance and recommendations to key stakeholders to facilitate natural gas vehicle deployment in Canada; and overseas, guides and approves the work of the Education and Outreach Working Group and the Technical Advisory working Group.
+Annex C: Calculation of Net Impact
+For the purposes of this evaluation, the impact was defined as the adoption of energy efficient technologies and alternative energy practices (namely, natural gas in medium and heavy duty vehicles). To calculate the net impact of the program in relation to this, the
+mean
+incremental change for each relevant outcome across stakeholder groups (internal program stakeholders, external program stakeholders, and workshop participants only) and subject matter experts was calculated. Outcomes were then weighted based on how important program stakeholders believed the outcome was to achieving the impact. By multiplying the net incremental change by the weight, it was possible to identify the contribution of each outcome to the impact. By summing these for both the program stakeholders and experts, it was possible to identify a range illustrating the net impact of the program. Table 2 provides the results of this analysis for the program stakeholders and Table 3 for the experts.
+Table 2: Net Impact Calculations for Program Stakeholders
+Outcome
+Net Incremental Change for Program Stakeholders
+[A]
+Weight of Outcome
+[B]
+Contribution to Impact
+[A x B]
+Increased awareness by stakeholders of the benefits of alternative fuel options (immediate outcome)
+0.23
+0.35
+0.0805
+Increased knowledge by stakeholders of alternative fuel pathways (immediate outcome)
+0.20
+0.35
+0.07
+Increased efficiencies in deploying natural gas vehicles (unintended outcome)
+0.37
+0.25
+0.0925
+Energy consumers adopt energy efficient technologies and alternative fuel options (intermediate outcome)
+0.23
+0.05
+0.0115
+Impact
+1
+0.2545 (25%)
+Table 3: Net Impact Calculations for Subject Matter Experts
+Outcome
+Net Incremental Change for Subject Matter Experts
+[A]
+Weight of Outcome
+[B]
+Contribution to Impact
+[A x B]
+Increased awareness by stakeholders of the benefits of alternative fuel options (immediate outcome)
+0.06
+0.35
+0.021
+Increased knowledge by stakeholders of alternative fuel pathways (immediate outcome)
+0.06
+0.35
+0.021
+Increased efficiencies in deploying natural gas vehicles (unintended outcome)
+0.31
+0.25
+0.0775
+Energy consumers adopt energy efficient technologies and alternative fuel options (intermediate outcome)
+0.06
+0.05
+0.003
+Impact
+1
+0.1225 (12%)
+Footnotes
+Footnote 1
+Natural Gas Use in Transportation Roundtable (December 2010).
+Natural Gas Use in the Canadian Transportation Sector Deployment Roadmap
+; Marbek. (March 2010).
+Study of the Opportunities for Natural Gas in the Transportation Sector
+; and CNGVA. (31 October 2014).
+Study on natural gas research development priority setting for transportation in Canada: Final report
+.
+Return to footnote
+1
+referrer
+Footnote 2
+CNGVA.
+Transit buses: Early adopters
+. Retrieved November 6, 2015, from
+http://www.cngva.org/en/home/vehicles-stations/transit-buses.aspx
+; Navigant Research. (2014 Apr 14).
+Press release: Natural gas trucks and buses on the road worldwide will reach 3.7 million by 2022
+. Retrieved November 9, 2015, from
+http://www.navigantresearch.com/newsroom/natural-gas-trucks-and-buses-on-the-road-worldwide-will-reach-3-7-million-by-2022
+; Marbek. (March 2010).
+Study of the opportunities for natural gas in the transportation sector
+; and CNGVA. (31 October 2014).
+Study on natural gas research development priority setting for transportation in Canada: Final report
+.
+Return to footnote
+2
+referrer
+Footnote 3
+Natural Gas Use in Transportation Roundtable (December 2010).
+Natural gas use in the Canadian transportation sector deployment roadmap
+, p. 42.
+Return to footnote
+3
+referrer
+Footnote 4
+Natural Resources Canada (NRCan).
+The natural gas use in the Canadian transportation sector deployment roadmap
+. Retrieved March 11, 2016, from
+www.nrcan.gc.ca/energy/alternative-fuels/resources/3665
+Return to footnote
+4
+referrer
+Footnote 5
+The program summary includes identification of the: program rationale; objective(s); size/scope; target audiences and key stakeholders; outcomes and impacts expected to result from the program; internal and external factors impacting (positively or negatively) program success; key dates/milestones; and resources (financial and FTEs).
+Return to footnote
+5
+referrer
+Footnote 6
+Canadian Natural Gas Vehicle Alliance (CNGVA).
+Environment & safety: Energy and environment – impact of transportation
+. Retrieved November 6, 2015, from
+http://www.cngva.org/en/home/environment-safety.aspx
+Return to footnote
+6
+referrer
+Footnote 7
+CNGVA.,
+Environment & safety: Energy and environment – impact of transportation
+. Retrieved November 6, 2015, from
+http://www.cngva.org/en/home/environment-safety.aspx
+Return to footnote
+7
+referrer
+Footnote 8
+Today’s Trucking
+. (6 Feb 2014). “Shifting to natural gas trucks? Check out these workshops”. In
+Today’s trucking
+. Retrieved November 9, 2015, from
+http://www.todaystrucking.com/shifting-to-natural-gas-trucks-check-out-these-workshops
+Return to footnote
+8
+referrer
+Footnote 9
+CNGVA.
+Natural gas for vehicles
+. Retrieved March 11, 2016, from
+http://www.gowithnaturalgas.ca/operating-with-natural-gas/fuel/natural-gas-for-vehicles/
+Return to footnote
+9
+referrer
+Footnote 10
+Natural Gas Use in Transportation Roundtable (December 2010).
+Natural gas use in the Canadian transportation sector deployment roadmap
+, pp. 45-47.
+Return to footnote
+10
+referrer
+Footnote 11
+Natural Gas Use in Transportation Roundtable (December 2010).
+Natural gas use in the Canadian transportation sector deployment roadmap
+, p. 5.
+Return to footnote
+11
+referrer
+Footnote 12
+CNGVA.
+Emissions from heavy diesel vehicles: GHG emissions from heavy vehicles
+. Retrieved November 6, 2015, from
+http://www.cngva.org/en/home/environment-safety/emissions-from-heavy-diesel-vehicles.aspx
+; CNGVA.
+Transit buses: Early adoption leaders
+. Retrieved November 6, 2015, from
+http://www.cngva.org/en/home/vehicles-stations/transit-buses.aspx
+; Marbek. (March 2010).
+Study of the opportunities for natural gas in the transportation sector
+; U.S. Department of Energy (DOE). (2013).
+Liquefied natural gas: Understanding the basic facts
+. Retrieved November 5, 2015, from
+http://energy.gov/sites/prod/files/2013/04/f0/LNG_primerupd.pdf
+;
+Return to footnote
+12
+referrer
+Footnote 13
+Program documentation; Natural Gas Use in Transportation Roundtable (December 2010).
+Natural Gas Use in the Canadian Transportation Sector Deployment Roadmap
+; Canadian Natural Gas Vehicle Association (CNGVA). (31 October 2014).
+Study on natural gas research development priority setting for transportation in Canada: Final report
+.
+Return to footnote
+13
+referrer
+Footnote 14
+Program documentation.
+Return to footnote
+14
+referrer
+Footnote 15
+When the ecoEAF program was implemented there was only one natural gas-related training course available in Canada; it was focused only on light duty CNG conversion. Any other training was available only in the U.S.
+Return to footnote
+15
+referrer
+Footnote 16
+Program documentation.
+Return to footnote
+16
+referrer
+Footnote 17
+Natural Gas Use in Transportation Roundtable (December 2010).
+Natural gas use in the Canadian transportation sector deployment roadmap
+, p. xii.
+Return to footnote
+17
+referrer
+Footnote 18
+Natural Gas Use in Transportation Roundtable (December 2010).
+Natural gas use in the Canadian transportation sector deployment roadmap
+, p. 37; and Program documentation.
+Return to footnote
+18
+referrer
+Footnote 19
+Natural Gas Use in Transportation Roundtable (December 2010).
+Natural Gas Use in the Canadian Transportation Sector Deployment Roadmap
+; Canadian Natural Gas Vehicle Alliance (CNGVA). (31 October 2014).
+Study on natural gas research development priority setting for transportation in Canada: Final report
+.
+Return to footnote
+19
+referrer
+Footnote 20
+Natural Gas Use in Transportation Roundtable (December 2010).
+Natural gas use in the Canadian transportation sector deployment roadmap
+; Marbek. (March 2010).
+Study of the opportunities for natural gas in the transportation sector
+; and CNGVA. (31 October 2014).
+Study on natural gas research development priority setting for transportation in Canada: Final report
+.
+Return to footnote
+20
+referrer
+Footnote 21
+NRCan.
+2015-16 Program alignment architecture
+and
+performance measurement framework
+.
+Return to footnote
+21
+referrer
+Footnote 22
+NRCan.
+2014-15 Report on plans and priorities
+. p. 59.
+Return to footnote
+22
+referrer
+Footnote 23
+Program documentation.
+Return to footnote
+23
+referrer
+Footnote 24
+Program documentation.
+Return to footnote
+24
+referrer
+Footnote 25
+Government of Canada.
+Canada’s priorities for COP 21
+. Retrieved February 27, 2016, from
+http://www.climatechange.gc.ca/default.asp?lang=En&n=EF6CE373-1
+Return to footnote
+25
+referrer
+Footnote 26
+CNGVA.
+Emissions from heavy diesel vehicles: GHG emissions from heavy vehicles
+. Retrieved November 6, 2015, from
+http://www.cngva.org/en/home/environment-safety/emissions-from-heavy-diesel-vehicles.aspx
+Return to footnote
+26
+referrer
+Footnote 27
+Program documentation.
+Return to footnote
+27
+referrer
+Footnote 28
+NRCan.
+2011-12 Report on plans and priorities
+. pp. 12, 27.
+Return to footnote
+28
+referrer
+Footnote 29
+Natural Gas Use in Transportation Roundtable (December 2010).
+Natural gas use in the Canadian transportation sector deployment roadmap
+, p. 48.
+Return to footnote
+29
+referrer
+Footnote 30
+(CNGVA). (31 October 2014).
+Study on natural gas research development priority setting for transportation in Canada: Final report
+; and Natural Gas Use in Transportation Roundtable (December 2010).
+Natural gas use in the Canadian transportation sector deployment roadmap
+.
+Return to footnote
+30
+referrer
+Footnote 31
+Marbek. (March 2010).
+Study of the opportunities for natural gas in the transportation sector
+; and Natural Gas Use in Transportation Roundtable (December 2010).
+Natural gas use in the Canadian transportation sector deployment roadmap
+.
+Return to footnote
+31
+referrer
+Footnote 32
+Two of the three indicators identified in the program’s PMRS for the outcome
+energy consumers adopt energy efficient technologies and alternative energy practices
+are: (1) percent of stakeholders that had contact with the hub that have considered adopting natural gas as a transportation fuel; and (2) percentage of stakeholders that had contact with the hub that have adopted natural gas as a transportation fuel. Participation in a workshop is one way in which stakeholders may have contact with the hubs.
+Return to footnote
+32
+referrer
+Footnote 33
+A more robust counterfactual may have been a similar program delivered by an alternative delivery agent or by a different jurisdiction. In this case, there was not a sufficiently similar program (i.e., size, scope, delivery method) to enable a fair comparison for the purposes of determining net incremental impact. For instance, because ecoEAF uses contribution agreements to support the development and implementation of education and outreach tools/activities, and update/develop codes and standards, it could not be compared to a regulatory program or a financial incentive program. Program stakeholders were consulted on the counterfactual as part of phase 1 of the evaluation and agreed that it would be a reasonable, feasible, and legal comparison for the purposes of this evaluation, specifically to determine net program impact.
+Return to footnote
+33
+referrer
+Footnote 34
+In phase 1 of the evaluation, it was determined that new or updated codes and standards were not explicitly required for the program to support outreach and education activities to increase awareness and knowledge of natural gas as an alternative fuel and encourage its adoption in medium and heavy duty vehicles. Although outdated and dormant, codes and standards did exist in Canada that would have enabled the use of natural gas in medium and heavy duty vehicles.
+Return to footnote
+34
+referrer
+Footnote 35
+CNGVA.
+Transit buses: Early adopters
+. Retrieved November 6, 2015, from
+http://www.cngva.org/en/home/vehicles-stations/transit-buses.aspx
+; Navigant Research. (2014 Apr 14).
+Press release: Natural gas trucks and buses on the road worldwide will reach 3.7 million by 2022
+. Retrieved November 9, 2015, from
+http://www.navigantresearch.com/newsroom/natural-gas-trucks-and-buses-on-the-road-worldwide-will-reach-3-7-million-by-2022
+; Marbek. (March 2010).
+Study of the opportunities for natural gas in the transportation sector
+; and CNGVA. (31 October 2014).
+Study on natural gas research development priority setting for transportation in Canada: Final report
+.
+Return to footnote
+35
+referrer
+Footnote 36
+CNGVA.
+Highway tractors: Two technologies
+. Retrieved November 6, 2015, from
+http://www.cngva.org/en/home/vehicles-stations/highway-tractors.aspx
+; Navigant Research. (2013).
+Executive summary: Natural gas trucks and buses, natural as supply, refueling infrastructure, CNG and LNG: Global market analysis and forecasts
+. Today’s Trucking. (2013 Nov 19). “Two new LNG plants for western Canada’s trucking market”. In
+Today’s Trucking
+. Retrieved November 9, 2015, from
+http://www.todaystrucking.com/two-new-lng-plants-for-western-canada%E2%80%99s-trucking-market
+;  and Marbek. (March 2010).
+Study of the opportunities for natural gas in the transportation sector
+.
+Return to footnote
+36
+referrer
+Footnote 37
+Natural Gas Use in Transportation Roundtable (December 2010).
+Natural gas use in the Canadian transportation sector deployment roadmap
+; [37] CNGVA.
+Transit buses: Early adopters
+. Retrieved November 6, 2015, from
+http://www.cngva.org/en/home/vehicles-stations/transit-buses.aspx
+; Today’s Trucking. (2010 May 21). “Big-name trucker calls for gov’t support for LNG trucks”. In
+Today’s Trucking
+. Retrieved November 9, 2015, from
+http://www.todaystrucking.com/big-name-trucker-calls-for-govt-support-of-lng-trucks
+; Today’s Trucking. (2013). “Your guide to natural-gas-powered trucking in Canada: An executive summary”.
+The natural choice (a supplement to Today’s Trucking)
+. Retrieved November 9, 2015, from
+http://www.todaystrucking.com/images/Natural-Choice-En.pdf
+; and Marbek. (March 2010).
+Study of the opportunities for natural gas in the transportation sector
+.
+Return to footnote
+37
+referrer
+Footnote 38
+Today’s Trucking. (2014 Jan 17). “Natural gas truck sales expected to grow”. In
+Today’s Trucking
+. Retrieved November 9, 2015, from
+http://www.todaystrucking.com/natural-gas-truck-sales-expected-to-grow
+; Navigant Research. (2014 Apr 14).
+Executive summary: Natural gas trucks and buses, natural gas supply, refueling infrastructure, CNG and LNG: Global market analysis and forecasts.
+Retrieved November 9, 2015, from
+http://www.navigantresearch.com/research/natural-gas-trucks-and-buses
+; and Marbek. (March 2010).
+Study of the opportunities for natural gas in the transportation sector
+.
+Return to footnote
+38
+referrer
+Footnote 39
+Today’s Trucking. (2014 Feb 12). “B.C. trucking company makes move to LNG”. In
+Today’s Trucking
+. Retrieved November 9, 2015, from
+http://www.todaystrucking.com/bc-trucking-company-makes-move-to-lng
+; Marbek. (March 2010).
+Study of the opportunities for natural gas in the transportation sector
+; and CNGVA. (31 October 2014).
+Study on natural gas research development priority setting for transportation in Canada: Final report.
+Return to footnote
+39
+referrer
+Footnote 40
+Today’s Trucking. (2013). “Your guide to natural-gas powered trucking in Canada: An executive summary”.
+The natural choice (a supplement to Today’s Trucking)
+. Retrieved November 9, 2015, from
+http://www.todaystrucking.com/images/Natural-Choice-En.pdf
+; Marbek. (March 2010).
+Study of the opportunities for natural gas in the transportation sector
+; and CNGVA. (31 October 2014).
+Study on natural gas research development priority setting for transportation in Canada: Final report.
+Return to footnote
+40
+referrer
+Footnote 41
+CNGVA. (31 October 2014).
+Study on natural gas research development priority setting for transportation in Canada: Final report
+, p. 29.
+Return to footnote
+41
+referrer
+Footnote 42
+Natural Gas Use in Transportation Roundtable (December 2010).
+Natural gas use in the Canadian transportation sector deployment roadmap
+, p. 42.
+Return to footnote
+42
+referrer
+Footnote 43
+Natural Gas Use in Transportation Roundtable (December 2010).
+Natural gas use in the Canadian transportation sector deployment roadmap
+, p. xii.
+Return to footnote
+43
+referrer
+Footnote 44
+Program documentation.
+Return to footnote
+44
+referrer
+Footnote 45
+Program documentation.
+Return to footnote
+45
+referrer
+Footnote 46
+Program documentation.
+Return to footnote
+46
+referrer
+Footnote 47
+Note that this reflects planned contributions and planned leveraging. At the time of the evaluation, funding for the hub was ongoing.
+Return to footnote
+47
+referrer
+Footnote 48
+Natural Gas Use in Transportation Roundtable (December 2010).
+Natural gas use in the Canadian transportation sector deployment roadmap
+, p. 42.
+Return to footnote
+48
+referrer
+Footnote 49
+Marbek. (March 2010).
+Study of the opportunities for natural gas in the transportation sector
+, pp. 49-50.
+Return to footnote
+49
+referrer
+Footnote 50
+Marbek. (March 2010).
+Study of the opportunities for natural gas in the transportation sector
+, pp. 49-50.
+Return to footnote
+50
+referrer
+Footnote 51
+Natural Gas Use in Transportation Roundtable (December 2010).
+Natural gas use in the Canadian transportation sector deployment roadmap
+, p. 42.
+Return to footnote
+51
+referrer
+Footnote 52
+Marbek. (March 2010).
+Study of the opportunities for natural gas in the transportation sector
+, pp. 11-12.
+Return to footnote
+52
+referrer
+Footnote 53
+Natural Gas Use in Transportation Roundtable (December 2010).
+Natural gas use in the Canadian transportation sector deployment roadmap
+, p. 42.
+Return to footnote
+53
+referrer
+Footnote 54
+CNGVA. (31 October 2014).
+Study on natural gas research development priority setting for transportation in Canada: Final report
+, pp. 129-130.
+Return to footnote
+54
+referrer
+Report a problem on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2019-02-01

@@ -1,0 +1,3667 @@
+Evaluation of the Canada – Saskatchewan Labour Market Development Agreement
+From:
+Employment  and Social Development Canada
+On this  page
+Executive summary
+Management response
+1. Introduction
+1.1 Labour Market Development Agreement  background
+1.2 Methodology
+1.3 Overview of the studies summarized in this  report
+2. Evaluation findings
+2.1 Rationale and Labour Market context
+2.2 Skills Training
+2.3 Skills Training – Apprenticeship
+2.4 Targeted Wage Subsidies
+2.5 Self-Employment
+2.6 Workforce Development
+3. Comparison of key findings by program type
+4. Conclusion
+5. Recommendations
+References
+Acronyms
+Appendix A - Methodology
+Appendix B - Detailed results Skills Training
+Appendix C - Detailed results Skills Training –  Apprentices
+Appendix D - Detailed results Targeted Wage  Subsidies
+Appendix E - Detailed results Self-Employment
+Appendix F - Detailed results Workforce  Development
+Appendix G - List of eight studies included in the Saskatchewan synthesis  report
+Alternate formats
+Evaluation of the Canada – Saskatchewan Labour Market Development Agreement Synthesis Report
+[
+PDF
+- 1.15
+MB
+]
+Large print, braille,
+MP3
+(audio), e-text and
+DAISY
+formats are available on demand by
+ordering online
+or calling 1 800 O-Canada (1-800-622-6232). If you use a teletypewriter (
+TTY
+), call 1-800-926-9105.
+Executive summary
+Introduction
+Employment and Social Development Canada (ESDC) worked  jointly with Saskatchewan and 11 other Provinces and Territories (P/Ts) to  undertake the 2012 to 2017 second cycle of the Labour Market Development  Agreement (LMDA) evaluation. The first cycle of the LMDA evaluation was carried  out between 1998 and 2012 and involved conducting bilateral formative and  summative evaluations in all P/Ts. Under the second cycle, the evaluation work  consisted of conducting two to three studies per year on the Employment  Benefits and Support Measures (EBSMs) similar programming delivered under these  agreements. The studies generated evaluation evidence on the effectiveness,  efficiency and design/delivery of EBSMs for Canada, for Saskatchewan and for  the 11 other P/Ts that opted for a joint evaluation process with Canada.
+Under LMDAs, Canada transfers $2.14B in Employment Insurance  (EI) Part II funds to P/Ts for the design and delivery of programs and services  to help unemployed individuals, mainly those eligible for EI, to find and  maintain employment.
+Programs and services delivered  by Saskatchewan have to correspond to the EBSM categories defined under the EI  Act. The following is a short description of the four categories of programs  and services examined in the evaluation:
+Skills Development (Skills Training, including  Apprenticeship Training)
+helps participants obtain employment skills by  giving them financial assistance in order to attend classroom training.
+Targeted Wage Subsidies
+help participants obtain on-the-job work  experience by providing employers with a wage subsidy.
+Self-Employment
+provides financial  assistance and business planning advice to participants to help them start  their own business.
+Employment Assistance Services (Workforce  Development)
+such as counselling, job search skills, job placement services,  provision of labour market information and case management.
+Four additional programs and services are available under  the LMDAs: Job Creation Partnerships, Labour Market Partnerships, Research and  Innovation and Targeted Earnings Supplements. They were not evaluated as part  of this evaluation. The Job Creation Partnerships and Targeted Earnings  Supplements programs were not used in Saskatchewan while Labour Market  Partnerships and Research and Innovation will be evaluated at a later date.
+Table i provides an overview of the share of funding  allocated to the four EBSMs examined under the second cycle for LMDA evaluation  and the average cost per participant.
+Table  i. Share of LMDA funding and average cost per participant in Saskatchewan
+Program and service
+Share of funding
+2014 to 2015
+Average cost per participant
+2002 to 2005
+Skills    Training, including Apprenticeship Training
+79%
+$5,410
+Workforce    Development
+13%
+$336
+Self-Employment
+1%
+$3,542
+Targeted    Wage Subsidies
+-
+$5,306
+Total
+93%*
+–
+Sources: EI  Monitoring and Assessment Reports 2002 to 2003 to 2014 to 2015.
+* Note: Labour Market Partnerships represented about 7% of Employment  Benefits and Support Measures expenditures in 2014 to 2015. Targeted Wage  Subsidies were not offered in Saskatchewan in 2014 to 2015.
+This report presents a summary of the findings from eight  studies produced on Saskatchewan LMDA interventions and participants. Results  are presented for active and former EI claimants, as well as for youth (under  30 years old), older workers (55 years old and over) and long-tenured workers
+Footnote
+1
+when the number of  participants was sufficient to conduct quantitative analyses. Active EI  claimants are classified as those who were receiving EI benefits at the time of  their EBSM participation. Former EI claimants received EI up to three years  before starting their EBSM participation.
+Key findings
+Effectiveness and efficiency of EBSMs
+Incremental impacts and cost-benefit analyses addressed EBSM  effectiveness and efficiency. Overall, incremental impacts demonstrate that  LMDA programs and services are improving the labour market attachment of most  participants in Saskatchewan, including youth and older workers. As well, the  social benefits of participation exceeded the cost of investment for most  interventions over time. Finally, providing Workforce Development services  earlier during an EI claim (first four weeks) produced larger impacts on  earnings and facilitated participants’ earlier return to work. This  demonstrates the importance of targeting early participation of EI active  claimants.
+Figure i presents the incremental  impacts on the incidence of employment for active and former claimants by type  of program. The estimates can be interpreted as a change in the probability of  being employed following participation. For example, participation in Skills Training  increases the probability of being employed by 5.6 percentage points for active  EI claimants relative to unemployed non-participants.
+It is noted that Workforce  Development services are relatively modest activities that are, by themselves,  not expected to lead to substantial effects on labour market outcomes. In other  words, these services aim to support the return to work of unemployed  participants and not necessarily to secure better paying or long lasting jobs  than pre-participation. However, as demonstrated later in the report, providing  Workforce Development services earlier during the EI claim (first four weeks)  produced larger impacts on earnings and employment and facilitated earlier  returns to work.
+Figure i. Change in Probability of Being Employed in Participants Relative to Non-Participants
+Text description of Figure i
+Figure i. Change in Probability of Being Employed in Participants Relative to Non-Participants
+Skills Training
+Targeted Wage Subsidies
+Workforce Development
+Percentage Points
+Active Claimants
+5.6
+2.0*
+0.9*
+Former Claimants
+7.5
+7.0
+*The  estimates in Figure i are arithmetic averages of five annual estimates. Active  claimants who participated in Targeted Wage Subsidies had an incremental  increase in the incidence of employment (4.8 percentage points) in year 1  following participation. Participants in Workforce Development had an  incremental increase in the incidence of employment in year 5 following  participation (1.6 percentage points).
+Figure ii presents the cumulative  increase in employment earnings for active and former claimants over the five  post-participation years.
+Figure ii. Increased Cumulative Earnings of Participants Relative to Non-Participants
+Text description of Figure ii
+Figure ii. Increased Cumulative Earnings of Participants Relative to Non-Participants
+Skills Training
+Targeted Wage Subsidies
+Workforce Development
+Cumulative Gains in    Earnings
+Active Claimants
+$31,770
+-$1,702*
+$5,337
+Former Claimants
+$24,386
+$15,210
+*The estimate is not statistically significant at the 95%  confidence level.
+Table ii presents the number of  years required for the social benefits to exceed the program costs. Social  benefits to participation exceeded investment costs in a period ranging between  the second year of program participation to nearly four years after  participation. This excludes those active claimants who participated in  Targeted Wage Subsidies, for whom the investment costs may never be recovered.  However, active claimants in Targeted Wage Subsidies represented only 1.75% of  total participants in 2002 to 2005.
+Table  ii. Number of years for the benefits to exceed program costs
+Skills Training
+Targeted Wage    Subsidies
+Workforce    Development
+Active    claimants
+3.2
+Costs may never be recovered
+3.8
+Former    claimants
+2.4
+2nd Year of Participation
+Main challenges about EBSM design and delivery
+Key informant interviews with service providers and program  managers, as well as the reviewed documents and questionnaires completed by  Saskatchewan representatives, revealed a few challenges about program design  and delivery.
+Skills Training
+Key informants identified common barriers to employment  experienced by Skills Training participants including a lack of work  experience/employment opportunities; lack of education; lack of skills or  skills not relevant for the current job market; disabilities and mental health  issues; and a lack of job readiness.
+As well, key informants identified the following challenges  related to Skills Training design and delivery:
+Lack of  awareness of the program and the application process
+Applying  for Student Loans in most cases can be a cumbersome and frustrating process for  some participants
+Consultants  no longer have a contact from the federal government for inquiries about issues  with a participant's EI claim
+Lack of funding  for childcare
+The cost  and difficulties of using distance and online learning
+Apprenticeship Training
+Existing literature showed that there is a fairly high  non-completion rate among apprentices in Canada (40 to 50%)
+Footnote
+2
+. Furthermore, literature  revealed that despite the growth in apprenticeship registrations in Canada,  there has not been a corresponding increase in completions.
+Footnote
+3
+While available data do not provide reliable  information on completion and non-completion rates of participants, key informants  interviewed in the evaluation confirmed this trend and identified potential  factors that could lead them to drop out of the apprenticeship process. These  included:
+Financial constraints
+Lack of  essential skills or academic preparation
+Employers  are unwilling or unable to release their apprentices for training
+The  apprentice realizes that he/she is not suited for the trade selected
+Social challenges
+Family issues
+Other challenges noted by key informants regarding the  design and delivery of Apprenticeship Training included:
+EI benefit  waiting period is too long
+Communication  and planning challenges between the Ministry of the Economy and the  Apprenticeship Commission
+Lack of  support for individuals with learning disabilities and in need of accommodations  for training
+Lack of  funding for essential skills training
+Need to  make the application system fully electronic
+Workforce Development
+Key informants highlighted a number of challenges with  delivering Workforce Development services including:
+Lack of awareness  of the program
+Difficulty  hiring and keeping skilled and knowledgeable  services providers
+Difficulties  in providing a one-stop-shop for participants
+Participants with multiple barriers to employment may  require long-term services and multiple programs
+Recommendations
+A total of four recommendations emerged from the evaluation  findings. They are as follows:
+The study on the timing of participation in Workforce  Development services showed that receiving assistance early after starting an  employment insurance claim can lead to better labour market impacts. As well,  key informants reported a lack of awareness about Workforce Development  services.
+Recommendation 1:
+Consideration should be given to providing Saskatchewan with timely access to  data on new EI recipients to support targeting and to increase awareness.
+Key informants reported that lack of education, lack of skills or skills not relevant for  the current job market are among the common barriers to employment experienced  by Skills Training participants. As well, 56% of program funds in 2013 to 2014  were invested in Adult Basic Education and Essential Skills for the Workplace.
+Recommendation 2:
+Given the relevance of providing Adult Basic Education and literacy/essential  skills training to assist individuals with multiple barriers prepare for  vocational training and integrate into the labour market, these interventions  should be reported separately from other programs and services, especially  Occupational Skills Training, given their unique objectives.
+The evaluation was not able to produce a conclusive  assessment of the Self-Employment program effectiveness and efficiency since  the data used to assess impacts on earnings may not be the best source of  information available to reflect the financial wellbeing of the participants.  As well, it is not clear whether the participant’s success in improving their  labour market attachment through self-employment is more closely associated  with their business idea and their entrepreneurship skills rather than the  assistance provided under Self-Employment.
+Recommendation 3:
+Consideration  should be given to examine in more detail the design and delivery of the  Self-Employment program and whether the performance indicators for this program  are appropriate.
+Overall, the LMDA evaluation was able to produce a sound  assessment of EBSM effectiveness and efficiency because the team had access to  rich data on EI claimants, EBSM participation data and Canada Revenue Agency  taxation files. However, some data gaps limited the evaluation’s ability to  assess how EBSMs operate.
+Recommendation 4:
+Improvements  in the data collection process are recommended to address key program and  policy questions of interest to the federal and P/T governments. Specifically:
+Collect  data on whether participants are members of designated groups including  Indigenous peoples, persons with disabilities and recent immigrants.
+Collect  data on the type of training funded under Skills Training and the type of  assistance provided under Workforce Development. Saskatchewan, ESDC and other  P/Ts should work together to define common categories for both EBSMs.
+Collect  detailed data on the cost of interventions.
+Management response
+Employment and Social Development Canada collaborated with Saskatchewan,  as well as other P/Ts, during the planning and implementation of the second  cycle of the LMDA evaluation.   Saskatchewan is pleased with the evaluation process and agrees with the  recommendations articulated in the report.   Key actions for addressing the recommendations have been outlined in the  management response below.
+Recommendation 1
+:  Consideration should be given to providing Saskatchewan with timely access to  data on new EI recipients to support targeting and to increase awareness.
+Response:
+Agree
+Findings  from the evaluation indicate that earlier participation in Workforce  Development improves participants’ labour market outcomes. Providing  Saskatchewan with timely access to data on new EI recipients will support targeting  and increase awareness of programming.
+Saskatchewan  will work with ESDC to implement the Targeting, Referral and Feedback System in  Saskatchewan.  This will allow  Saskatchewan to identify and contact EI applicants early in their claim process  so that they can be referred to the appropriate intervention or employment  opportunity.
+Recommendation 2
+:  Given the relevance of providing Adult Basic Education and literacy/essential  skills training to assist individuals with multiple barriers prepare for  vocational training and integrate into the labour market, these interventions  should be reported separately from other programs and services, especially  Occupational Skills Training, given their unique objectives.
+Response
+: Agree
+Adult  Basic Education and literacy/essential skills training have fundamentally  different objectives than Occupational Skills Training programs.  As such, Saskatchewan agrees that these  programs should be reported separately.
+In  addition, Saskatchewan will better align programs and services with the Skills  Development and Targeted Wage Subsidies categories to inform future  evaluations.
+Recommendation 3
+:  Consideration should be given to examine in more detail the design and delivery  of the Self-Employment program and whether the performance indicators for this  program are appropriate.
+Response
+: Agree
+There is  an opportunity to better align program outcomes with performance  indicators.  This would provide greater  clarity on whether participant outcomes are an independent product of program  participation rather than their business idea and/or their entrepreneurship  skills.
+Recommendation 4
+:  Improvements in the data collection process are recommended to address key  program and policy questions of interest to the federal and P/T governments.  Specifically:
+Collect  data on whether participants are members of designated groups including  Indigenous peoples, persons with disabilities and recent immigrants.
+Collect  data on the type of training funded under Skills Training and the type of assistance  provided under Workforce Development. Saskatchewan, ESDC and other P/Ts should  work together to define common categories for both EBSMs.
+Collect  detailed data on the cost of interventions.
+Response
+: Agree
+Saskatchewan  will work to improve data collection processes so that there is more consistent  and fulsome data available for evaluative purposes.
+Saskatchewan  will continue to work with other P/Ts and ESDC to build a stronger performance  measurement framework for the renewed labour market transfer agreements.
+Saskatchewan  supports collection of data on the cost of interventions for the purpose of  determining return on investment.
+1.   Introduction
+Employment  and Social Development Canada (ESDC) worked jointly with Saskatchewan and 11  other Provinces and Territories (P/Ts) to undertake the 2012 to 2017 second  cycle for the Labour Market Development Agreement (LMDA) evaluations. The first  cycle of LMDA evaluation was carried out between 1998 and 2012 and involved  conducting bilateral formative and summative evaluations in all P/Ts. Under the  second cycle, the evaluation work consisted of conducting two to three studies  per year on the Employment Benefits and Support Measures (EBSMs) similar  programming delivered under these agreements. The studies generated evaluation  evidence on the effectiveness, efficiency and design/delivery of EBSMs for  Canada overall, for Saskatchewan and for the 11 other P/Ts that opted for a  joint evaluation process with the Government of Canada.
+This report presents a summary  of the findings from studies conducted for Saskatchewan and it is organised as  follows:
+Introduction  with an overview of the studies summarized in this report including their  scope, methodology, and contextual information on the LMDAs
+Findings  section with a discussion around the rationale for investing in labour market  programming and a summary of evaluation evidence
+Comparison  of key findings by program type
+Conclusions
+Recommendations  that emerge from the evaluation findings
+1.1  Labour Market Development Agreement background
+LMDAs are bilateral agreements between Canada and each P/T,  and were established under Part II of the 1996 Employment Insurance Act. As  part of these agreements, Canada transfers $2.14B annually in EI Part II  funding to the P/Ts in order to design and deliver programs and services to  assist individuals prepare for, obtain and maintain employment. Specifically,  Saskatchewan receives approximately $35.9M in EBSM funding each year.
+The Canada-Saskatchewan LMDA was signed on February 6, 1996.  The agreement transferred responsibility for the design and delivery of program  and services to Saskatchewan. Programs and services are classified under two  categories: 1) Employment Benefits and 2) Support Measures.
+Employment Benefits
+Employment Benefits funded  under the LMDAs are offered to unemployed individuals who 1) are actively on EI  (that is, active claimants); 2) ended their benefit period within three years  before participating (that is, former claimants); or 3) established a claim for  maternity or parental benefits within the past five years and are returning to  the labour force for the first time (that is, former claimants)
+Footnote
+4
+.  Employment benefits include the following  categories:
+Skills Development (Skills Training, including  Apprenticeship Training)
+helps participants obtain employment skills by  giving them financial assistance to enable them to select, arrange and pay for  classroom training.
+Targeted Wage Subsidies
+help participants obtain on-the-job work  experience by providing employers with financial assistance to help with the  wages of participants.
+The program is not currently  offered in Saskatchewan.
+Self-Employment
+provides financial  assistance and business planning advice to EI-eligible participants to help  them start their own business. This financial assistance is intended to cover  personal living expenses and other expenses during the initial stages of the  business.
+Job Creation Partnerships
+provides  participants with opportunities to gain work experience that will lead to  ongoing employment. Employment opportunities are provided by projects that  contribute to developing the community and the local economy. The program is  not offered in Saskatchewan and therefore not covered by the evaluation.
+Targeted Earnings Supplements
+encourage unemployed persons to accept employment  by offering them financial incentives. This program was not offered in  Saskatchewan and therefore not covered by the evaluation.
+Support measures
+Support Measures are  available to all unemployed individuals including those not eligible to receive  EI and include:
+Employment Assistance Services (Workforce  Development)
+such as individual counselling, action planning, help with job search  skills, job-finding clubs, job placement services, the provision of Labour  Market Information, case management and follow-up.
+Labour Market Partnerships
+provide funding to  help employers, employee and employer associations, and communities improve  their capacity to deal with human resource requirements and implement labour  force adjustments. These partnerships involve developing plans and strategies,  and implementing labour force adjustment measures. This support measure was not covered by the  evaluation.
+Research and Innovation
+supports activities that identify better ways of helping people prepare  for or keep employment and be productive participants in the labour force.  Funds are provided to eligible recipients to enable them to carry out  demonstration projects and research for this purpose. This support measure was not covered by the  evaluation.
+Table  1 provides an overview of the share of funding allocated to the four programs  and services examined under the second cycle for LMDA evaluation in  Saskatchewan and the average cost per participant. It is noted that the average  cost per participant was calculated based on the 2002 to 2005 data from the EI  Monitoring and Assessment Reports. The 2002 to 2005 period corresponds to the  cohort of participants selected for incremental impacts and cost-benefit  analysis in the LMDA evaluation.
+Table 1. Share of LMDA funding  and average cost per participant in Saskatchewan
+Table 1. Share of LMDA funding  and average cost per participant in Saskatchewan
+Program and service
+Share of funding
+2014 to 2015
+Average cost per participant
+2002 to 2005
+Skills    Training (including Apprenticeship Training)
+79%
+$5,410
+Workforce    Development
+13%
+$336
+Self-Employment
+1%
+$3,542
+Targeted    Wage Subsidies
+-
+$5,306
+Total
+93%*
+–
+Sources: EI  Monitoring and Assessment Reports 2002 to 2003 to 2014 to 2015.
+* Note: Labour Market Partnerships (not covered by the evaluation)  represented about 7% of Employment Benefits and Support Measures expenditures  in 2014 to 2015. Targeted Wage Subsidies were not offered in Saskatchewan in  2014 to 2015.
+1.2   Methodology
+This  section presents key aspects of the quantitative analyses carried out as part  of the LMDA studies, while a more detailed description of the methodology is  provided in
+Appendix A
+.
+All  quantitative analyses were based on administrative data from the EI Part I (EI  claim data) and Part II (EBSM participation data collected by Saskatchewan and  transferred to ESDC) databanks that was linked to T1 and T4 taxation files from  the Canada Revenue Agency. Incremental impact analyses and cost-benefit  analyses were based on 100% of participants in the reference period selected.
+Incremental  impacts analysis
+Five  studies assessed program effectiveness by estimating incremental impacts from  EBSM participation on participants’ labour market experience (for  example,
+earnings from employment/self-employment
+,
+incidence of employment
+,
+use of EI
+or
+social assistance
+and
+dependence on income support
+) after participation. The role of the incremental  impact analysis is to isolate the effects of participation from other factors  such as the economic cycle. In order to achieve this, the incremental impact  analyses compared the labour market experience of participants before and after  their participation with that of non-participants (see the example of  incremental impact calculation in Figure 1).
+The  matching of participants and comparison group members used up to 75  socio-demographic and labour market variables observed over five years before  participation. Two different  comparison groups were used to measure impacts for active and former EI  claimants. For active claimants, the incremental impacts were measured relative  to a comparison group of active claimants who were eligible to participate in  EBSMs but did not during the reference period.
+Figure 1. Example of Incremental Impact Calculation
+Text description of Figure 1
+presents an example of the approach used to estimate the incremental impacts on earnings.
+Figure 1. Example of Incremental Impact Calculation
+Participants
+Average    Annual Earnings
+Before participation
+After participation
+Change in earnings
+$30,000
+$38,000
+$8,000
+Comparison Group
+Average    Annual Earnings
+Before participation
+After participation
+Change in earnings
+$31,000
+$36,000
+$5,000
+Incremental    Impact (Change due to program participation): + $3,000 (in other words,    $8,000 - $5,000)
+Former claimants  can be underemployed and unable to requalify for EI, out of the labour force  for various reasons or on social assistance. Based on previous evaluation  methodologies, on expert advice and given the difficulty in generating a  suitable comparison for former claimants using administrative data alone, the  comparison group for former claimants was created using individuals who only  participated in Workforce Development services during the reference period.  This is a conservative approach given the fact that participation in Workforce  Development can lead to limited effects on labour market outcomes. In other  words, the experience of former claimants who received employment benefits (such  as, Skills Training, Targeted Wage Subsidies and Self-Employment) was compared  to the experience of former claimants who received a low intensity employment  service (that is Workforce Development only). Due to this difference in measurement, incremental impacts  estimated for active claimants should not be directly compared to former claimant  participants.
+Footnote
+5
+When the number of  participants was sufficient, incremental impacts were examined for active and  former EI claimants who were youth (under 30 years old), older workers (55  years old and over) and long-tenured workers. Long-tenured workers refer to  individuals who had long-term attachment to the labour market but not  necessarily a long tenure with the same employer.
+Factors accounted for in the cost-benefit analysis
+Program efficiency was assessed through a cost-benefit  analysis which compared the cost of participating in the program for the  participants and the cost of delivering the program for the government to the  benefits generated by the program. Overall, this analysis provided insight on  the extent to which the program is efficient for society (i.e., for both the  participants and the government). The costs and benefits accounted for in the  calculations were as follows (see detailed definitions in Appendix  A):
+Program  costs include program and administration costs paid by the government.
+Marginal  social costs of public funds represent the loss incurred by society when  raising additional revenues such as taxes to fund government programs.
+Employment  earnings consist of incremental impacts on participants’ earnings during and  after participation. The calculation accounts for the participant’s forgone  earnings during participation (i.e. opportunity cost). Employment earnings were  also increased by 15% to account for fringe benefits such as employer-paid  health, life insurance and pension contributions.
+Strengths and limitations of the studies
+One of the key strengths from the studies is that all  quantitative analyses were based on administrative data rather than survey  responses. Compared to survey data, administrative data are not subject to  recall errors or response bias.
+The propensity score models used to match participants and  non-participants for the incremental impact analyses are judged to be robust in  part because they were based on five years of pre-participation data and on a  vast array of variables including socio-demographic characteristics, location,  skill level related to last occupation and indicators of labour market  attachment. Sensitivity analysis and the use of alternative estimation methods  have increased confidence in the incremental impact estimates. However, one limitation with the propensity score  matching techniques is that no one can be fully sure the impacts were not  influenced by factors not captured in the data.
+The cost-benefit analysis accounted for all quantifiable  costs and benefits that are directly attributable to the EBSMs and that can be  estimated with the available administrative data. The analysis did not account  for non-quantifiable benefits such as improvements in participant’s wellbeing  or for the multiplier effect of increased spending on the economy.
+It should be noted that it is not possible to produce  incremental impacts of apprentices. Assessing these impacts poses a  methodological challenge because program participants are already employed and  are expected to return to their employment after completing their training.  Therefore, expected labour market impacts cannot be examined using a similar  approach as for other EBSMs, which are expected to help participants return to  employment. As well, the data available does not permit the identification of a  proper comparison group since program participants alternate between work and  training and no other potential counterfactuals have similar employment and  training patterns. In this context, it is possible to provide an analysis of  labour market outcomes associated with program participants but not possible to  produce estimates of program effectiveness. While outcomes can provide some  insights about the labour market experience of participants before and after  participation, it is not possible to attribute the change observed in the  outcomes to program participation. For example, a change in average annual  earnings from before to after participation could be due to program  participation or to other factors such as the maturation effect of youth, the  economic cycle, lay off, etc.
+When interpreting qualitative findings, readers should keep  in mind that these are based on the perception of a small number of key  informants who are directly involved in the design or delivery of the program.  Their perception may be representative of their own region or community but not  necessarily of the entire province. Since the number of key informants  interviewed in each study is small (that is ranging between 4 and 10), the  number of informants who reported a specific finding is not indicated in the  report. However, the report notes when there is a clear disagreement between  key informants
+.
+1.3   Overview of the studies summarized in this report
+Findings  presented in this report were drawn from eight separate studies produced on  Saskatchewan LMDA interventions and participants. These studies examined issues  related to EBSM effectiveness, efficiency, and design/delivery and used a mix  of qualitative and quantitative methods. Each study examined evaluation issues  in relation to active and former EI claimants.
+Table G1
+in
+Appendix G
+presents an overview of these studies, including the type of evidence  generated, the methods used, the reference period and the length of the  post-program period over which program effects were observed.
+2. Evaluation findings
+2.1  Rationale  and Labour Market context
+Active labour market programs are fairly similar across the  Organization for Economic Co-operation and Development countries and consist of  skills training in a classroom setting, work experience with employers (often  subsidized) or in the public/non-profit sector, return-to-employment assistance  and self-employment assistance. In Saskatchewan, the Ministry of the Economy  administers a range of active labour market programming targeted at various  groups of individuals. Programs and services offered to active and former EI  claimants are primarily funded under the LMDA.
+Saskatchewan’s  Ministry of the Economy’s Annual Report for 2015 to 2016 outlines strategic  priorities to meet the labour market needs. These include:
+Align  skills provision to the needs of the economy
+Engage under-represented  groups in the Saskatchewan workforce
+Attract  skilled workers to the province
+Footnote
+6
+Overall, incremental impacts  reported in the LMDA evaluation and discussed in this report, especially those  related to the Skills Training, demonstrated that LMDA funded programs and  services delivered in Saskatchewan are generally helping participants improve  their labour market experience after participation and contribute to meeting  some of the Ministry of the Economy’s key priorities.
+2.2 Skills Training
+2.2.1 Program description
+Based on a document review and four key informant  interviews completed in the summer of 2015
+Skills  Training assists active and former EI claimants obtain the skills they need for  employment.  Program funding provides  training to unemployed individuals that meets the needs of the local labour  market and results in sustainable labour market attachment.
+The following financial supports are provided under the  program:
+Tuition  and student registration fees
+Books,  equipment and other costs required to take the training
+Dependent care/childcare
+Transportation
+Special  equipment for persons with disabilities
+Provincial  training allowance (living allowance)
+Participants  are required to contribute towards their studies and the amount varies  depending on the resources available to the participant (income, assets,  spouse’s income).  Participants are also  required to apply for student loans to support their training.
+Training  supported under the Skills Training program (see Table 2) includes:
+Occupational  Skills Training such as licensed practical nursing, class 4 power engineering  and special care aids
+Adult  Basic Education interventions (such as grade 11 and 12 upgrading)
+Essential  Skills for the Workplace (such as computer use, writing skills, and oral  communication)
+Table  2.  Type of training supported under Skills Training
+Type of training
+Percent of interventions
+Occupational Skills Training
+44%
+Adult Basic Education
+35%
+Essential Skills for the Workplace
+21%
+Source: Information submitted  by the Ministry of Economy
+Skills Training courses can be classroom based, online, or  on-the-job.  Training can be delivered at  colleges, but university degrees are not supported under the program.  The duration of training varies depending on  the training program; however, key informants reported that the maximum  duration of the training ranges from 2 to 3 years in length.
+2.2.2 Program delivery
+As  part of the case management process, participants are required to undertake  labour market research on their chosen training program and occupation.  Participants can access labour market  information through the SaskJobs website. They also conduct informational  interviews with potential employers.  The  labour market information must demonstrate that sufficient demand exists for  the occupation associated with the participant’s chosen training program.  Consultants may also discuss local labour market demand and provide the participant  with labour market information to help inform their training choice.  The Ministry of the Economy has a labour  market information unit which determines occupations in demand and provides this  information to consultants.
+Skills  Training participants are monitored during participation. The frequency of the  monitoring depends on the length of training. Consultants contact participants  to see how they are progressing, and also maintain a close relationship with  training institutions. Participants are contacted again at 60 and 90 days after  the completion of training.  As well, a  follow-up survey is conducted with Adult Basic Education participants 3 months  after the completion of training.
+2.2.3 Profile of Skills  Training participants
+As shown in
+Table  B1
+in
+Appendix B
+, the majority of active claimants  who started their Skills Training  intervention between 2002 and 2005 were male (54%) whereas the 2006 to 2008  cohort of participants were evenly divided between males and female (50% each).  As well, the majority of participants in both cohorts were 34 years old and  younger (64% and 55% respectively). Participants in Skills Training most  frequently held occupations requiring secondary or occupational training in the  year prior to participation (41% for the 2002 to 2005 cohort and 43% for the  2006 to 2008 cohort).
+Former claimants who started their Skills Training participation  in the 2002 to 2005 and 2006 to 2008 periods were mainly female (57% and 61%  respectively). The majority of 2002 to 2005 participants were between 25 to 44  years of age (63%) while 2006 to 2008 participants were mainly 34 years old and  younger (64%). Participants in both cohorts most frequently held occupations  requiring secondary or occupational training before participation (40%  each).
+2.2.4 Incremental impacts
+Active claimants
+As shown in
+Table  B2
+in Appendix B, active claimants who started Skills Training participation  between 2002 and 2005 had incremental increases in earnings and incidence of  employment in each of the five years after participation. As shown in Figure 2,  gains in earnings continuously increased over time ranging between $1,943 and  $9,864 annually in the five years following participation. As well, increases  in incidence of employment ranged between 4.9 and 6.8 percentage points  annually over the post-program period. Participants also reduced their use of  EI (cumulative of $1,585 or 4.6 weeks) and their dependence on income support  (ranging between 1.6 and 2.8 percentage points) in four of the five  post-program years. The impacts on the use of social assistance were not  statistically significant.
+Figure 2. Increased earnings of active and former Skills Training participants relative to non-participants
+Footnote
+7
+Text description of Figure 2
+Figure 2. Increased Earnings of Active and Former Skills Training Participants Relative to Non-Participants
+Year 1 Post-Program
+Year 2 Post-Program
+Year 3 Post-Program
+Year 4 Post-Program
+Year 5 Post-Program
+Gains in Earnings
+Active Claimants
+$1,943
+$4,797
+$6,837
+$8,329
+$9,864
+Former Claimants
+$2,399
+$4,509
+$5,247
+$5,461
+$6,771
+Active claimants who started  Skills Training participation  in the 2006 to 2008 period had incremental increases in earnings (cumulative of  $14,517) and incidence of employment (between 5.8 and 6.5 percentage points)  over the three years post-participation. Participants also decreased their use  of EI by a cumulative of $541 or 1.6 weeks following participation. As well,  they decreased their use of social assistance by a cumulative of $497 and their  dependence on government income support (ranging between 2.6 and 3.7 percentage  points) over the three post-program years.
+Overall, active claimants  increased their labour market attachment by increasing their earnings and  incidence of employment and decreasing their level of dependence on government  income support (use of EI and social assistance).
+The results  for sub-groups of active claimants were as follows:
+Youth  (under 30 years old) who started Skills Training participation in the 2002 to 2005 period had  incremental increases in earnings (cumulative of $28,306) and incidence of  employment (ranging between 3.0 and 4.8 percentage points) in all five years  after participation. As well, they decreased their use of EI by a cumulative of  $1,507 or 4.1 weeks following participation.
+Incremental  impacts for
+long-tenured workers
+who started Skills Training  participation between 2007 and  2009 were largely non-statistically significant.
+Former claimants
+Former claimants who started  Skills Training participation  between 2002 and 2005 had incremental increases in employment earnings in all  years after participation. Gains in earnings increased from $2,399 in the first  year to $6,771 in the fifth year following participation (see Figure 2 and
+Table B3
+). As well, participants had increases in the  incidence of employment ranging between 5.1 and 8.6 percentage points annually  in the five post-participation years. Although the use of EI increased by a  cumulative of $902 or 3.6 weeks following participation, former claimants  decreased their use of social assistance by a cumulative of $1,789 and reduced  their dependence on government income support by 2.7 and 3.2 percentage points  in the second and fifth year post-participation.
+Former claimants who started their program participation  between 2006 and 2008 increased their employment earnings (cumulative of  $16,985) and their incidence of employment (ranging between 6.3 and 8.7  percentage points) over the three years post-participation. As well, they  decreased their use of social assistance (cumulative of $1,374) and their  dependence on income support (ranging between 3.3 and 7.4 percentage points)  following participation. Impacts on the use of EI were not statistically  significant for this cohort.
+Overall, former claimants improved their labour market  attachment through increases in earnings and incidence of employment, as well  as decreases in their use of social assistance and their dependence on  government income support. The increase in EI use for the 2002 to 2005 cohort  indicates the inability of some former claimants to maintain the employment  secured following participation. However, it can also be argued that the  increase in EI use is an indication of an increase in labour market attachment  for this client group since they also experienced increases in their earnings  and incidence of employment and decreases in social assistance use and overall  dependence on income support.
+Youth (under 30 years old) who  started Skills Training participation between 2002 and 2005 had incremental  increases in earnings in four of the five post-program years, as well as a gain  in incidence of employment in the second year after participation. The  incremental impacts on the use of EI, use of social assistance and dependence  on income support were not statistically significant.
+2.2.5 Cost-benefit results
+As shown in
+Table  B4
+in Appendix B, for active claimants, the benefits of Skills Training matched the  costs 3.2 years after participation. Six years after participation, the  benefits exceeded the costs by $24,145. For former claimants, the benefits  matched the costs 2.4 years after participation and exceeded the costs by  $20,619 six years after the end of participation.
+2.2.6 Challenges and lessons learned about Skills  Training design and delivery
+Based on a document review and four key informant  interviews completed in the summer of 2015
+Key informants identified common barriers to employment experienced by  Skills Training participants including a lack of work experience/employment  opportunities; lack of education; lack of skills or skills not relevant for the  current job market; disabilities and mental health issues; and a lack of job  readiness.
+As well, key informants identified the following challenges  in relation to the design and delivery of Skills Training:
+Lack of awareness  of the program and the application process
+Applying  for Canada Student Loans in most cases can be a cumbersome and frustrating process  for some participants
+Consultants  no longer have a contact from the federal government for inquiries about issues  with a participant’s EI claim
+Lack of  funding for childcare
+The cost  and difficulties of using distance and online learning
+Key informants also identified a number of lessons learned  and best practices:
+Developing  information packages for popular training programs such as truck driving and  administrative assistants helps potential participants understand the  occupation and training requirements before entering training
+Determining  appropriate supports on an individual basis instead of providing a set amount  of support
+Conducting needs assessments  upfront
+Building  relationships and maintaining communication with training institutions, industries  and Aboriginal communities
+Having  well-trained and knowledgeable staff to effectively negotiate supports with  participants
+2.3  Skills Training – Apprenticeship
+2.3.1        Program  description and delivery
+Based on a document review and five key informant  interviews completed in the summer of 2015
+Apprenticeship  Training is delivered through the Saskatchewan Apprenticeship and Trades  Certification Commission. The Commission is responsible for registering  apprentices and contracting for the delivery of apprenticeship training through  the provincial training system (85% of training is delivered through  Saskatchewan Polytechnic). The Commission is also involved in determining the  number of classes and training opportunities per trade as well as for  scheduling training with registered apprentices. The Commission produces a  three-year forecast for training needs including projections on the types of  trades in demand and the anticipated number of apprenticeship registrations.
+Apprenticeship  Training funding is provided to participants as a living away from home  allowance and is used to purchase seats for participants in training  institutions. There is a requirement for the apprentice to pay approximately  20% of the cost of tuition.
+Once  the apprentice begins training, the Commission monitors attendance on an  ongoing basis and consults regularly with instructors. Apprentices can be  counselled as well during the training.   The Commission also monitors the number of hours worked by the  apprentice.
+2.3.2 Profile of Skills Training – Apprenticeship participants
+As show in
+Table C1
+in
+Appendix C
+, the majority  of active claimants who started participation in the Skills Training –  Apprenticeship program in 2003 to 2005 and 2013 to 2014 were male (92% each).  Most active claimants who started participation between 2003 to 2005 were under  34 years old (84%), while those who started in 2013 to 2014 were between 25 and  44 years of age (76%). As well, participants most frequently held occupations  requiring college or apprenticeship training in the year before participation  (81% and 94% respectively).
+Former claimants who participated in Apprenticeship Training in the 2003 to 2005 and 2013  to 2014 cohorts were primarily male (91% and 88% respectively). The 2003 to 2005  cohort was slightly younger than the 2013 to 2014 cohort, with the majority  (76%) aged 34 years or under compared to 75% of the 2013 to 2014 cohort who  were between 25 and 44 years old.  Most  of these participants had an occupation requiring college or apprenticeship  training prior to participation (58% and 61% respectively).
+2.3.3 Labour Market outcomes
+Tables
+C2
+and
+C3
+in Appendix C present the labour market outcomes for active and former EI  claimants who started their program participation during the 2003 to 2005  period.
+Active claimants
+As shown in Figure 3, the employment earnings of active  claimants increased from $15,325 in the fifth year pre-program to $62,178 in  the seventh year after the program start year. While the average proportion of  participants employed was slightly lower in the seven years after the  participation start year (ranging between 94% and 98%) compared to before  participation (ranging between 95% and 100%), it remained above 94% in all  seven years after the program start year. The average proportion of  participants on EI steadily decreased in the years after program participation  to 14% by the seventh year after the program start year. Higher  proportions of self-employed participants and lower proportions of participants  on social assistance were also observed during the post-program period.
+Figure 3. Average Earnings for Active Claimant Participants in Skills Training – Apprenticeship (in Current Dollars)
+Text description of Figure 3
+Figure 3. Average Earnings for Active Claimant Participants in Skills Training – Apprenticeship (in Current Dollars)
+5 yrs pre-program
+4 yrs pre-program
+3 yrs pre-program
+2 yrs pre-program
+1 yr pre-program
+Program start year
+1 yr post-program
+2 yrs post-program
+3 yrs post-program
+4 yrs post-program
+5 yrs post-program
+6 yrs post-program
+7 yrs post-program
+Employment Earnings
+$15,325
+$17,311
+$19,459
+$22,673
+$26,644
+$24,408
+$30,746
+$38,443
+$45,472
+$51,624
+$55,055
+$58,763
+$62,178
+Former claimants
+As shown in Figure 4, average annual earnings for former  claimant participants steadily increased across all years before and after  participation, from $18,534 in the fifth year pre-program to $67,407 in the  seventh post-program year. The average annual proportion of employed participants  fluctuated between 96% and 100% in the five years before participation and then  between 94% and 98% in the seven years following the participation start year.  The proportion of participants in receipt of EI benefits declined from 38% to  16% in the seven years following participation.   Lower proportion of participants on social assistance was also observed  during the post-program period.
+Figure 4. Average Earnings for Former Claimant Participants in Skills Training – Apprenticeship (in Current Dollars)
+Text description of Figure 4
+Figure 4. Average Earnings for Former Claimant Participants in Skills Training – Apprenticeship (in Current Dollars)
+5 yrs pre-program
+4 yrs pre-program
+3 yrs pre-program
+2 yrs pre-program
+1 yr pre-program
+Program start year
+1 yr post-program
+2 yrs post-program
+3 yrs post-program
+4 yrs post-program
+5 yrs post-program
+6 yrs post-program
+7 yrs post-program
+Employment Earnings
+$18,534
+$21,153
+$21,419
+$24,866
+$27,211
+$29,632
+$34,771
+$40,162
+$47,679
+$53,656
+$55,463
+$60,604
+$67,407
+2.3.4        Challenges and lessons learned about Skills Training –  Apprenticeship design and delivery
+Based on a document review and five key informant  interviews completed in the summer of 2015
+Existing literature has shown  that there is a fairly high non-completion rate among apprentices in Canada (40  to 50%)
+Footnote
+8
+.  Furthermore, literature  revealed that despite the growth in apprenticeship registrations in Canada,  there has not been a corresponding increase in completions
+Footnote
+9
+. While program data  do not provide reliable information on completion and non-completion rates for program participants,  most key informants confirmed this trend and identified potential factors that  could lead apprentices to drop-out from the apprenticeship process. These  included:
+Financial constraints
+Lack of  essential skills or academic preparation
+Employers  are unwilling or unable to release their apprentices for training
+The  apprentice realizes that he/she is not suited for the trade selected
+Social challenges
+Family issues
+Key informants also noted  challenges in relation to program design and delivery. These included:
+EI benefit  waiting period is too long
+Communication  and planning challenges between the Ministry of the Economy and the Commission
+Lack of  support for individuals with learning disabilities and in need of  accommodations for training.
+Lack of  funding for essential skills training
+Need to  make the application system fully electronic
+Key informants highlighted  lessons learned and good practices related to program design and delivery.  These included:
+The Canada  Apprentice Loan may help offset the challenges created by delays in processing  EI benefits
+Being  proactive in setting up training and in monitoring apprentices on the job (hours  worked) and during training
+Use field  consultants to meet with employers to monitor how apprentices are learning on  the job and to provide apprentices with support during training
+2.4  Targeted  Wage Subsidies
+2.4.1 Program description and delivery
+In  2011, Saskatchewan stopped delivering the Targeted Wage Subsidies program.  Incremental impacts presented below pertain to participants in the 2002 to 2005  and 2006 to 2008 periods.
+2.4.2 Profile of Targeted  Wage Subsidies participants
+Socio-demographic statistics presented in
+Table  D1
+in
+Appendix D
+,  show that active claimants who started participation in 2002 to 2005 were  slightly more often female (53%) while 2006 to 2008 participants were slightly  more often male (54%). Sixty-two percent of those who participated in 2002 to 2005  were between 25 and 44 years old, while the majority (55%) of 2006 to 2008  participants were 35 years old and over. In their last job before program  participation, 32% of the 2002 to 2005 participants and 41% of the 2006 to 2008  cohort most frequently held occupations requiring secondary or occupational  training.
+Former claimants who started program participation in 2002 to 2005 and 2006 to 2008  were mainly male (52% and 56% respectively). More than half of participants in  each cohort were between 25 and 44 years of age (62% and 61% respectively).  Thirty-five percent of both cohorts’ participants most frequently held  occupations requiring secondary or occupational training prior to program  participation.
+2.4.3 Incremental impacts
+Detailed incremental impact results for active and former  claimants are presented in Tables
+D2
+and
+D3
+in Appendix D.
+Active claimants
+The incremental impacts for active claimants who started  participation in Targeted  Wage Subsidies between 2002 and 2005 were predominantly not  statistically significant. The only statistically significant result from the  analysis showed an increase in the first year of the post-program period of 4.8  percentage points in incidence of employment. As well, results for active  claimants who started Targeted  Wage Subsidies between 2006 and 2008 are unavailable as the number of  participants was too small to produce reliable statistics.
+Former claimants
+Former claimants who started participation in Targeted Wage Subsidies in  2002 to 2005 had incremental increases in earnings ranging between $2,778 and  $3,467 annually over the five post-participation years (see Figure 5). These gains  were accompanied by increases in their incidence of employment ranging between  6 and 8 percentage points annually in the five years following participation.  Participants increased their use of EI by a cumulative of $1,353 or 5.1 weeks  and decreased their use of social assistance by a cumulative of $1,623 after  program participation. Their dependence on income support was also reduced in  three of the five post-program years, ranging between 1.7 and 2.4 percentage  points annually.
+Similar to the 2002 to 2005 participants, former claimants  who started Targeted  Wage Subsidies in 2006 to 2008 had increased their earnings (cumulative  of $12,270), incidence of employment (ranging between 6.2 and 8.9 percentage  points) and their use of EI benefits (cumulative of $876) over the three  post-program years. Their use of social assistance decreased over the  post-program period (cumulative of $2,334) and their dependence on income  support decreased in the first year of the post-program period (4.7 percentage  points).
+The increase in EI use following participation may indicate  the inability of some former claimants to maintain the employment secured in  the short-term. It can also be argued that the increase in EI use is an  indication of an increase in labour market attachment for this client group  since they did experience increases in employment earnings and incidence of  employment as well as a decrease in the use of social assistance. As a  reminder, former claimants are participants for whom the EI benefit period ended  up to three years pre-participation.
+Figure 5. Increased Earnings of Active and Former Targeted Wage Subsidies Participants Relative to Non-Participants
+Text description of Figure 5
+Figure 5. Increased Earnings of Active and Former Targeted Wage Subsidies Participants Relative to Non-Participants
+Year 1 Post-Program
+Year 2 Post-Program
+Year 3 Post-Program
+Year 4 Post-Program
+Year 5 Post-Program
+Gains in Earnings
+Active Claimants
+$941*
+-$1,094*
+-$573*
+-$696*
+-$281*
+Former Claimants
+$3,036
+$3,090
+$2,778
+$2,839
+$3,467
+*The  estimates are not statically significant at the 95% confidence level.
+2.4.4        Cost-benefit  results
+Most incremental impacts for  active claimants who participated in Targeted Wage Subsidies were not  statistically significant. However, those results were still used for the  cost-benefit analysis as they represent the most reliable estimates available.
+As shown in
+Table  D4
+, the benefits of Targeted Wage Subsidies from society’s perspective were  $6,702 lower than the costs six years after participation for active claimants.  As such, the program costs may never be recovered. For former claimants, the  benefits matched the costs within the second year of program participation and  exceeded the costs by $20,876 six years after the end of participation.
+2.5  Self-employment
+2.5.1        Program  description and delivery
+Based on document review and information available on  Saskatchewan’s Ministry of the Economy website
+The Self-Employment program  provides unemployed individuals with financial support as they create a job for  themselves by starting a new business. Participants attend business skills  development training to develop a comprehensive business plan. Participants  also have access to business counselling services and are financially supported  for up to 42 weeks
+Footnote
+10
+as they launch their business plan.
+2.5.2 Profile of Self-Employment participants
+As shown in
+Table E1
+in
+Appendix E
+, active claimants who started participating in  the Self-Employment program in 2002 to  2005 and 2006 to 2008 were primarily male (63% and 60% respectively). Most  participants in both cohorts were 35 years of age and older (65% and 66%  respectively).  Prior to program  participation, participants in the 2002 to 2005 cohort most frequently had  occupations requiring college or apprenticeship training (42%) whereas the 2006  to 2008 participants most frequently had occupations requiring secondary or  occupational training (35%).
+Former claimants who started their Self-Employment  participation in 2002 to 2005 were closely split between male and female  (51% and 49% respectively) and were mainly 35 years of age and older (69%).  Prior to participation, these claimants most frequently held occupations  requiring secondary or occupational training (31%).
+The number of former claimants who began participating in  Self-Employment between 2006 and 2008 was too small to produce reliable  statistics.
+2.5.3 Challenges in measuring Self-Employment incremental  impacts and labour market outcomes
+Incremental impacts for the Self-Employment  participants in the 2002 to 2005 and 2006 to 2008 periods were not  produced because the number of participants was too small.
+The labour market outcomes for the participation in the  Self-Employment program are presented in Tables
+E2
+and
+E3
+in Appendix E but they are not discussed in the  evaluation report since they may not provide an accurate depiction of the  financial well-being of the participants in the post-program period. Labour  market outcomes on the incidence of employment and earnings were produced using  individual earnings reported in the T1 and T4 taxation files from Canada  Revenue Agency. However, according to a study from Statistics Canada,  self-employed individuals in Canada have a lower average annual income than  paid employees ($46,200 versus $52,400 in 2009), but the average net worth of  their households is 2.7 times greater than that of the paid employee  households, which indicates that some self-employed individuals may leave funds  within their business for reinvestment purposes
+Footnote
+11
+. Overall, this suggests  that looking at individual earnings alone, without taking the net worth into  consideration, may not provide a fair assessment of how well participants are  doing financially after participation.
+As well, little is known about the  design and delivery of this program. In particular, there is a lack of  understanding around the role played by this program in helping future  entrepreneurs implement viable business plans and develop their entrepreneurship  skills. Overall, it is not clear whether participant’s success in  improving their labour market attachment through self-employment is more  closely associated with their business idea and their entrepreneurship skills  or the assistance provided under the Self-Employment  program.
+2.6  Workforce  development
+2.6.1 Program description and delivery
+Based on a document review and 10 key informant interviews  completed in the summer of 2013
+The Workforce Development program  provides financial support to organizations to assist unemployed individuals  throughout Saskatchewan to prepare for, obtain and maintain employment.  Services provided under this measure are accessible to all unemployed persons  seeking employment-related supports. Services are delivered through a  combination of direct service provision by the province and through third-party  service providers.
+The Saskatchewan Ministry of the  Economy provides career and employment services to individuals in need of  information on career and job opportunities, as well as training and/or  education options that enable participation in the local labour market.  The services are focused on matching the  worker’s skills with the skill needs of employers.  Third-party contractors develop and manage  programs and services which support specific participant groups with barriers  to obtain and maintain employment.
+Key Workforce Development services and supports  provided by Ministry of the Economy staff include:
+Self-services  (such as access to computers) to prepare resumes and search for jobs on-line or  for information about training and education, as well as job search workshops.
+Assisted  services such as employment service needs assessment, stability and transition  planning, career and employment planning and counselling, service referrals to  agencies and employability assessment, testing, and individual training  supports (both financial and non-financial).
+Saskjobs.ca  is the provincial job posting site where employers with positions located in  Saskatchewan can advertise their jobs. Job seekers can use SaskJobs to manage  their job search, view opportunities, apply to positions online with their  resumes and post resumes for employers to review.
+The  SaskCareers website helps individuals connect to life long career planning and  development resources, provides information on the areas of jobs, work,  education and training, career planning, self-employment, labour market  information, financial help and the workplace.
+Workforce Development services  provided by third-party service providers include:
+Career  enhancement program for unemployed adults, including career assessment (for  example, skill level, essential skills, employability skills, interests, value,  aptitudes)
+Work  preparation services (such as job search, job coaching, workshops, resume  writing, interview skills, and assisting clients to research labour market  information)
+Workplace  skill development (for example, computer skills)
+Unpaid  work placement or work experience while on EI (8 to 10 weeks)
+Human  resource services for employers (employers pay for services)
+One-on-one  intervention sessions and group based interventions
+Needs assessments (10 step  plan)
+Readiness  employability strategy, which is developed with each client. This can include  one-on-one or group meetings
+Career occupation survey
+2.6.2 Profile of workforce  development participants
+The socio-demographic profile was produced for individuals  who participated exclusively in Workforce Development without participating in  other employment benefits.
+Active claimants
+As shown in
+Table F1
+in
+Appendix F
+, active claimants who started their  participation in 2002 to 2005 and in 2006 to 2008 were mostly males (61% each).  Over half of the participants in both cohorts were between 25 and 44 years of  age (58% and 56% respectively). Prior to participating in Workforce Development, active claimants most frequently held occupations  requiring secondary or occupational training (36% and 40% respectively).
+Former claimants
+Former claimants who participated exclusively in Workforce  Development were predominately male in both  the 2002 to 2005 and 2005 to 2008 cohorts (59% and 55% respectively).  Sixty-two percent of participants in the 2002  to 2005 and 2006 to 2008 cohorts were between 25 and 44 years old. As well,  participants in both cohorts most frequently held occupations requiring  secondary or occupational training before program participation (35% and 38%  respectively).
+Labour market barriers faced by Workforce  Development participants
+Based on a document review and 10 key informant interviews  completed in the summer of 2013
+Key informants identified a number of barriers experienced by Workforce Development participants in Saskatchewan.  These  are:
+Lack of transportation, especially in rural areas
+Lack  of affordable housing
+Seasonal  employment
+Personal issues such as criminal records, addictions, physical and mental  health issues, and social behavioural problems
+Lack of essential skills and/or outdated skills
+Refusal to take entry-level position
+Lack of balance between family and job
+As well, key  informants noted multiple labour market challenges experienced by new  immigrants including racism, language barriers, lack of foreign credential  recognition, lack of Canadian work experience, and lack of knowledge of the  Canadian workplace culture. Indigenious individuals also experience multiple  barriers to the labour market according to key informants, including racism,  addictions, lack of transportation and lack of child care services.
+2.6.3 Incremental impacts
+Incremental impacts were only produced for active claimants  since former claimants who participated exclusively in Workforce  Development were used as a comparison group for former claimants who  participated in other EBSMs.
+Results presented in
+Table F2
+in  Appendix F indicate that active claimants who participated exclusively in  Workforce Development between 2002 and 2005 increased their earnings by a  cumulative of $5,337 in the last four of five post-program years (see Figure  6). Participants also reduced their use of EI in all years after participation  by a cumulative of $1,696 or 5.3 weeks. Results for incidence of employment  were only statistically significant in the fifth year post-program, where it  increased 1.6 percentage points for participants. Social assistance use  increased ($122) in the first year and decreased ($56) in the fourth year after  participation. Dependence on income support also decreased between 1.5 and 1.9  percentage points annually in all five post-program years for active claimant  participants.
+Figure 6. Increased Earnings of Active Workforce Development Participants Relative to Non-Participants
+Text description of Figure 6
+Figure 6. Increased Earnings of Active Workforce Development Participants Relative to Non-Participants
+Year 1 Post-Program
+Year 2 Post-Program
+Year 3 Post-Program
+Year 4 Post-Program
+Year 5 Post-Program
+Gains in Earnings
+Active Claimants
+-$446*
+$710
+$1,169
+$1,831
+$2,074
+* The estimate is not statistically significant at the 95% confidence  level.
+Results for active claimants who participated in Workforce  Development services in 2006 to 2008 showed incremental increases in earnings  (cumulative of $1,741) and gains in incidence of employment in the first and  second (1.9 and 2.1 percentage points) of the three years following  participation. Their use of EI decreased by a cumulative of $1,052 or 3.1  weeks, while their use of social assistance increased by a cumulative of $436  over the three years following participation.
+Overall, active claimant who participated in Workforce  Development services improved their labour market attachment through gains in  earnings, some gains in incidence of employment and decreases in EI use and in  the level of dependence on government income support.
+The results varied for the three  sub-groups examined:
+Youth  (under 30 years old) who started a Workforce Development intervention between  2002 and 2005 had incremental gains in earnings in the last four years after  participation, and a gain in their incidence of employment in the third year  following participation. Their use of EI and dependence on income support  decreased in all post-program years. Their use of social assistance increased  in the first post-program year only.
+Older  workers (55 years old and over) who started a Workforce Development  intervention between 2002 and 2005 had incremental gains in earnings in the  last three post-program years, as well as increased incidence of employment in  the fourth and fifth years following participation. Incremental impacts for the  use of EI, social assistance and dependence on income support were not  statistically significant.
+Long-tenured workers
+who started a Workforce Development  intervention between 2007 and 2009 had decreased earnings in the first year  post-program. They decreased their number of weeks of EI use in the third year  after participation, but increased their use of social assistance (cumulative  of $357) following participation, indicating their difficulty to reintegrate  into the labour market.
+Earlier participation in Workforce Development services improves  participants’ labour market outcomes
+The study on the effects related to the timing of  participation showed that incremental impacts of program participation on  earnings and employment were larger for individuals who received Workforce Development services early during their EI  claim compared to non-participants and individuals who remained on EI longer  before receiving these services (see Figure 7 below and
+Table F3
+in Appendix F).  Specifically, individuals  who started their participation within four weeks following the start of their  EI benefit period had a cumulative gain in earnings of $14,880 over the five  post-program years.
+Active  claimants who participated in Workforce Development in weeks 5 to 8 and weeks 9 to 12  after the start of their EI claim had gains in earnings totalling $11,715 and  $13,103 respectively over the post-program period.   Participants who started Workforce  Development interventions  in the 2nd, 3rd and 4th quarters of their EI benefit period had  non-statistically significant cumulative impacts on terms of employment  earnings.
+The  study also looked at the difference between the number of EI weeks unused by  participants and their comparison group to determine the effect of the timing  of participation in Workforce Development on the return to employment. It was  found that those who received assistance within the first four weeks of their  claim returned to employment earlier than the comparison group. Specifically,  they returned to employment 2.3 weeks earlier than the comparison group (see
+Table  F4
+in  Appendix F). Participants who started a Workforce Development intervention in the fifth  week or later returned to employment later than the comparison group.
+Figure 7. Cumulative Incremental Impacts on Earnings Related to the Timing of Participation in Workforce Development
+Text description of Figure 7
+Figure 7. Cumulative Incremental Impacts on Earnings Related to the Timing of Participation in Workforce Development
+1 to 4 weeks
+5 to 8 weeks
+9 to 12 weeks
+2nd quarter
+3rd quarter
+4th quarter
+Cumulative Gains in Earnings
+$14,880
+$11,715
+$13,103
+$4,490*
+-$3,864*
+$1,366*
+* The estimates are  not statistically significant at the 95% confidence level
+Among  all Workforce Development  participants in the 2002 to 2005 period, 1,837 received assistance within the  first 4 weeks of establishing an EI claim. With an average weekly EI benefit of  $304 during this period, the 1,837 participants did not use $1,284,430 in EI  benefits (1,837 * $304* 2.3 weeks). The average cost of receiving only Workforce Development interventions in the 2002 to 2005 period was $336. This  represents a cost of $617,232 (1,837 * $336) for a net saving of $667,198 in EI  benefits.
+2.6.4 Cost-benefit results
+As shown in
+Table F5
+in Appendix F, the  benefits of Workforce Development from the  society perspective exceeded the cost by $4,749 six years after  participation.  These benefits would have  to be sustained for 3.8 years after participation in order to recover the costs.
+2.6.5 Challenges and lessons learned about Workforce  Development design and delivery
+Based on a document review and 10 key informant interviews  completed in the summer of 2013
+Key informants highlighted a  number of challenges with delivering Workforce Development services including:
+Lack of  awareness of the program
+Difficulty  hiring and keeping skilled and knowledgeable  services providers
+Difficulties  in providing a one-stop-shop for participants
+Participants with multiple barriers to employment may  require long-term services and multiple programs
+Best practices and lessons  learned related to the general design and delivery of program and services  included:
+Conduct a needs/skills  assessment and create a return-to-work-action-plan based on the specific needs  of the participant.
+Timely  provision of services to participants, especially for training opportunities.
+Contractual  obligations are very tight and more flexibility in terms of spending would  provide for a more tailored and innovative approach.
+Provide  opportunities for service providers to develop working relationship with  federal/provincial staff and other service providers.
+Ongoing  marketing of programs and services.
+3. Comparison of key findings by program type
+This section provides an  overview of the key findings from the incremental impact analysis and cost  benefit analysis for Skills Training, Targeted Wage Subsidies and Workforce Development  for both active and former EI claimant participants who started participation  in the 2002 to 2005 period.
+Overall, incremental impacts demonstrate that LMDA programs  and services are improving the labour market attachment of most participants in  Saskatchewan, including youth and older workers. As well, the social benefits  of participation exceeded the cost of investment for most interventions over  time. Finally, providing Workforce Development services earlier during an EI  claim (first four weeks) produced larger impacts on earnings and facilitated  participants’ earlier return to work. This demonstrates the importance of  targeting early participation of EI active claimants.
+Some program participants have a higher probability of  being employed than comparison group members
+As show in Figure 8, active EI claimants who participated in  Skills Training, including youth, had a higher probability of being employed  (for example, increased their incidence of employment) compared to similar  non-participants. As well, former EI claimants who participated in Skills  Training and Targeted Wage Subsidies had a higher probability of being employed  compared to former EI claimants who received low intensity interventions under  Workforce Development.
+It is noted that Workforce Development services are relatively modest  activities such as counselling, job search assistance and case management. By  themselves, they are not expected to lead to substantial effects on labour  market outcomes. However, as demonstrated in the report, providing Workforce  Development services earlier  during the EI claim (first four weeks) generates significantly greater returns  (see Figure 7).
+Figure 8. Change in Probability of Being Employed in Participants Relative to Non-Participants
+Text description of Figure 8
+Figure 8. Change in Probability of Being Employed in Participants Relative to Non-Participants
+Skills Training
+Targeted Wage Subsidies
+Workforce Development
+Percentage Points
+Active Claimants
+5.6
+2.0*
+0.9*
+Former Claimants
+7.5
+7.0
+*The  estimates in Figure 8 are arithmetic averages of five annual estimates. Active  claimants who participated in Targeted Wage Subsidies had an incremental  increase in the incidence of employment (4.8 percentage points) in year 1  following participation. Participants in Workforce Development had an  incremental increase in the incidence of employment in year 5 following  participation (1.6 percentage points).
+Increased earnings for participants compared to comparison  group members
+As shown in Figure 9, active EI claimants who participated  in Skills Training and Workforce Development services, including youth, increased their employment earnings  compared to similar non-participants. Older workers who participated in Workforce  Development also had  gains in earnings in three out of five post-program years.
+As well, former EI claimants who participated in Skills  Training and Targeted Wage Subsidies increased their employment earnings  compared to former EI claimants who received Workforce Development services exclusively.
+As already noted, providing Workforce Development services  earlier during the EI claim (first 4 weeks) generates significantly greater  returns.
+Figure 9. Increased Cumulative Earnings of Participants Compared to Non-Participants
+Text description of Figure 9
+Figure 9. Increased Cumulative Earnings of Participants Compared to Non-Participants
+Skills Training
+Targeted Wage Subsidies
+Workforce Development
+Cumulative Gains in    Earnings
+Active Claimants
+$31,770
+-$1,702*
+$5,337
+Former Claimants
+$24,386
+$15,210
+* The estimate is not statistically significant at the 95%  confidence level.
+The use of EI is  reduced for most active claimants. While EI use increased for former claimants  who participated in Skills Training and Workforce Development,
+it can be argued that this reflects an  increase in labour market attachment since the incremental impacts on  employment earnings and incidence of employment are positive and given the  decrease in their use of social assistance.
+As shown in Figure 10, active EI claimants who participated in the  Skills Training and Workforce Development decreased their use of EI compared to  similar non-participants.  All other  impacts on EI and social assistance use for active claimants were not  statistically significant.
+Figure 10. Change in the Cumulative Use of Employment Insurance and Social Assistance for Active Claimants Relative to Non-Participants
+Text description of Figure 10
+Figure 10. Change in the Cumulative Use of Employment Insurance and Social Assistance for Active Claimants Relative to Non-Participants
+Skills Training
+Targeted Wage Subsidies
+Workforce Development
+Cumulative    Use of EI and Social Assistance
+Employment Insurance
+-$1,585
+$19*
+-$1,696
+Social Assistance
+-$5*
+-$848*
+$71*
+* The estimates are not  statistically significant at the 95% confidence level
+As shown in Figure 11, former claimants who participated in  Skills Training and Targeted Wage Subsidies between 2002 and 2005 increased  their use of EI following program participation. This indicates the inability  of some former claimants to maintain the employment secured in the short-term.  However, these participants decreased their use of social assistance following  participation. It can also be argued that the increase in EI use is an  indication of an increase in the labour market attachment for this client group  since most participants experienced increases in employment earnings and  incidence of employment as well as a decrease in the use of social assistance.  As a reminder, former claimants are participants for whom the EI benefit period  ended up to three years pre-participation.
+Figure 11. Change in Cumulative Use of Employment Insurance and Social Assistance for Former Claimants Relative to Non-Participants
+Text description of Figure 11
+Figure 11. Change in Cumulative Use of Employment Insurance and Social Assistance for Former Claimants Relative to Non-Participants
+Skills Training
+Targeted Wage Subsidies
+Cumulative    Use of EI and Social Assistance
+Employment Insurance
+$902
+$1,353
+Social Assistance
+-$1,789
+-$1,623
+Social benefits of participation exceeded the cost of investments  for most interventions.
+As shown in Table 3, social benefits to participation  exceeded investment costs in a period ranging from the second year of program  participation to about 4 years after participation for most interventions. This  excludes those active claimants who participated in Targeted Wage Subsidies,  for whom the investment costs may never be recovered.
+Table  3. Number of years for the benefits to exceed program costs
+Skills Training
+Targeted Wage    Subsidies
+Workforce    Development
+Active    claimants
+3.2
+Costs may never be recovered
+3.8
+Former    claimants
+2.4
+2nd Year of Participation
+4.   Conclusions
+Evaluation evidence presented and  discussed in this report demonstrates that programs and services designed and  delivered by Saskatchewan under the LMDA are generally helping participants  improve their labour market experience after participation. As such, evaluation  evidence suggests that LMDA funded programming contributes to meeting some of  the Ministry of the Economy’s key priorities.
+Overall, incremental impacts demonstrate that LMDA programs  and services are improving the labour market attachment of participants,  including youth (under 30 years old) and older workers (55 years old and over).  As well, social benefits of participation exceeded the cost of investments for  most interventions over time. Finally, providing Workforce Development services  earlier during an EI claim (first four weeks) produced larger impacts on  earnings and facilitated earlier return to work. This demonstrates the  importance of targeting early participation of EI active claimants.
+Key informant interviews with service providers and program  managers as well as the documents reviewed and the questionnaires completed by  Saskatchewan representatives revealed specific challenges and lessons learned  about program design and delivery. Key challenges are highlighted below.
+Skills Training
+Key informants identified common barriers to employment  experienced by Skills Training participants including a lack of work  experience/employment opportunities; lack of education; lack of skills or  skills not relevant for the current job market; disabilities and mental health  issues; and a lack of job readiness.
+As well, key informants identified the following challenges  related to Skills Training design and delivery:
+Lack of  awareness of the program and the application process
+Applying  for Student Loans in most cases can be a cumbersome and frustrating process for  some participants
+Consultants  no longer have a contact from the federal government for inquiries about issues  with a participant's EI claim
+Lack of  funding for childcare
+The cost  and difficulties of using distance and online learning
+Apprenticeship Training
+Existing literature showed that there is a fairly high  non-completion rate among apprentices in Canada (40 to 50%)
+Footnote
+12
+. Furthermore, literature revealed  that despite the growth in apprenticeship registrations in Canada, there has  not been a corresponding increase in completions.
+Footnote
+13
+While available data do not provide reliable  information on completion and non-completion rates of participants, key informants  interviewed in the evaluation confirmed this trend and identified potential  factors that could lead them to drop out of the apprenticeship process. These  included:
+Financial constraints
+Lack of  essential skills or academic preparation
+Employers  are unwilling or unable to release their apprentices for training
+The  apprentice realizes that he/she is not suited for the trade selected
+Social challenges
+Family issues
+Other challenges noted by key informants regarding the  design and delivery of Apprenticeship Training included:
+EI benefit  waiting period is too long
+Communication  and planning challenges between the Ministry of the Economy and the  Apprenticeship Commission
+Lack of  support for individuals with learning disabilities and in need of accommodations  for training
+Lack of  funding for essential skills training
+Need to  make the application system fully electronic
+Workforce Development
+Key informants highlighted a number of challenges with  delivering Workforce Development services including:
+Lack of  awareness of the program
+Difficulty  hiring and keeping skilled and knowledgeable  services providers
+Difficulties  in providing a one-stop-shop for participants
+Participants with multiple barriers to employment may  require long-term services and multiple programs
+Recommendations
+A total of four recommendations emerged from the evaluation  findings. They are as follows:
+The study on the timing of participation in Workforce  Development services showed that receiving assistance early after starting an  employment insurance claim can lead to better labour market impacts. As well,  key informants reported a lack of awareness about the Workforce Development  services.
+Recommendation 1:
+Consideration should be given to providing Saskatchewan with timely access to  data on new EI recipients to support targeting and to increase awareness.
+Key informants reported that lack of education, lack of skills or skills not relevant for  the current job market are among the common barriers to employment experienced  by Skills Training participants. As well, 56% of program funds in 2013 to 2014  were invested in Adult Basic Education and Essential Skills for the Workplace.
+Recommendation 2:
+Given the relevance of providing Adult Basic Education and literacy/essential  skills training to assist individuals with multiple barriers prepare for  vocational training and integrate into the labour market, these interventions  should be reported separately from other programs and services, especially  Occupational Skills Training, given their unique objectives.
+The evaluation was not able to produce a conclusive  assessment of the Self-Employment program effectiveness and efficiency since  the data used to assess impacts on earnings may not be the best source of  information available to reflect the financial wellbeing of the participants.  As well, it is not clear whether the participant’s success in improving their  labour market attachment through self-employment is more closely associated  with their business idea and their entrepreneurship skills rather than the  assistance provided under Self-Employment.
+Recommendation 3:
+Consideration should be given to examine in more detail the design and delivery  of the Self-Employment program and whether the performance indicators for this  program are appropriate.
+Overall, the LMDA evaluation was able to produce a sound  assessment of EBSM effectiveness and efficiency because the team had access to  rich data on EI claimants, EBSM participation data and Canada Revenue Agency  taxation files. However, some data gaps limited the evaluation’s ability to  assess how EBSMs operate.
+Recommendation 4:
+Improvements in the data collection process are recommended to address key  program and policy questions of interest to the federal and P/T governments.  Specifically:
+Collect  data on whether participants are members of designated groups including  Indigenous peoples, persons with disabilities and recent immigrants.
+Collect  data on the type of training funded under Skills Training and the type of  assistance provided under Workforce Development. Saskatchewan, ESDC and other  P/Ts should work together to define common categories for both EBSMs.
+Collect  detailed data on the cost of interventions.
+References
+Canada Employment Insurance Commission. Employment Insurance  Monitoring and Assessment Reports. 2003 to 2004 to 2013 to 2014.
+Coe, Patrick. “Apprenticeship programme requirements and  apprenticeship completion rates in Canada.” Journal of Vocational Education and  Training. 2013. 65(4):575 to 605
+Employment and Social Development Canada. Analysis of  Employment Benefits and Support Measures (EBSM) Profile, Outcomes and Incremental  Impacts for 2006 to 2008 Participants in Saskatchewan: Technical Report.  Evaluation Directorate. March 3, 2015
+Employment and Social Development Canada. Analysis of  Employment Benefits and Support Measures (EBSM) Profile, Outcomes and  Incremental Impacts for the EI Claimant Category “Long-Tenured Workers”:  Technical Report. Evaluation Directorate. February 18, 2016
+Employment and Social Development Canada. Cost-Benefit  Analysis of Employment Benefits and Support Measures Delivered in Saskatchewan:  Technical Report. Evaluation Directorate. May 27, 2016
+Employment and Social Development Canada. Effects of the  Timing of Participation in Employment Assistance Services: Report on National  Results. Evaluation Directorate. November 28, 2014
+Employment and Social Development Canada. Profile, Outcomes  and New Impacts of Employment Benefits and Support Measures (EBSM) Participants  in Saskatchewan: Technical Report. Evaluation Directorate. March 2014
+Employment and Social Development Canada. Study on  Employment Assistance Services Saskatchewan: Technical Report. Evaluation  Directorate. July 31, 2014
+Employment and Social Development Canada. Study on Skills  Training – Apprenticeship in Saskatchewan: Technical Report. Evaluation  Directorate. June 10, 2016
+Employment and Social Development Canada. Study on Skills  Training in Saskatchewan: Technical Report. Evaluation Directorate. April 19,  2016
+Government of Saskatchewan. Annual Report for 2015-15.  Ministry of the Economy. 2016
+LaRochelle-Côté, Sébastien and Sharanjit Uppal, "The  Financial Well-Being of the Self-Employed," Perspectives on Labour and  Income, vol. 23, no. 4, Winter 2011.
+OECD (2016), Employment and Skills Strategies in  Saskatchewan and the Yukon, Canada, OECD Reviews on Local Job Creation, OECD  Publishing, Paris.
+Red Seal. Apprenticeship Completion, Certification and  Outcomes, Ottawa: Red Seal. 2014.
+Acronyms
+EBSM          Employment  Benefits and Support Measures
+EI                  Employment  Insurance
+ESDC          Employment  and Social Development Canada
+LMDA          Labour  Market Development Agreements
+P/T                Province/Territory
+Appendix A – Methodology
+Qualitative  Data
+Qualitative data reported in the Skills  Training, Skills Training – Apprenticeship, and Workforce Development studies  were collected from key informant interviews with managers and service  providers and a document/literature review. As well, questionnaires were  completed by Saskatchewan representatives for the Skills Training and Skills  Training – Apprenticeship studies. Table A1 provides the number of key  informants interviewed.
+Key informant interviews for the Workforce  Development study were conducted in 2013 while those for the Skills Training  and Skills Training – Apprenticeship studies were conducted in 2015.
+Table A1. Number of key informant interviews  conducted for the LMDA studies
+Studies
+Skills     Training
+Skills     Training -Apprenticeship
+Workforce     Development
+Number of key    informant interviews
+(Managers and Service Providers)
+4
+5
+10
+Quantitative Methods
+All quantitative analyses were conducted using linked  administrative data from EI Part I (EI claim), EI Part II (EBSM participation  data) and T1 and T4 taxation files for 100% of the participants in  Saskatchewan.
+Incremental impacts
+The incremental impact analysis compared the labour market  experience of participants before and after their participation with that of a  comparison group. The goal was to determine the direct effect of program  participation on key labour market indicators (see Figure 1 in the introduction  section).
+For active claimants, incremental impacts were measured  relative to a comparison group of active claimants who could have participated  in the EBSMs but did not. Former claimants can be underemployed and unable to  requalify for EI, out of the labour force for various reasons or on social  assistance. Based on previous evaluation methodologies, on expert advice and  given the difficulty in generating a suitable comparison for former claimants  using administrative data alone, the comparison group for former claimants was  created using individuals who participated in low-intensity Workforce  Development services only during the reference period. This is a conservative  approach given the fact that participation in Workforce Development can lead to  limited effects on labour market outcomes.
+Participants and non-participants were matched based on a  wide array of variables including age, sex, location, skill level required by  the last occupation held prior to participation, reason for separation from  employment, industry in which they were previously employed as well as  employment earnings and use of EI and social assistance for each of the five  years before participation.
+All analyses were conducted using a unit of analysis called  the Action Plan Equivalent, which combines all EBSMs given to an individual  within no more than six months of each other. For reporting purposes,  incremental impacts were attributed to the longest intervention of the Action  Plan Equivalent when Skills Training, Targeted Wage Subsidies or  Self-Employment program was the longest intervention. Impacts for Workforce  Development were calculated for Action Plan Equivalents that contained only  Workforce Development services with no employment benefits.
+The incremental impact estimates were produced using  non-experimental methods, namely propensity score matching, using the Kernel  Matching method, along with Difference-in-Differences method to estimate  program impacts. Alternative matching techniques (for example, Nearest  Neighbour and Inverse Propensity Weighting) were also used for validation  purposes.
+Incremental impacts were  measured for the following indicators:
+Employment/self-employment earnings represent the total earnings an individual had from paid employment  and/or self-employment.  (This  information is available by calendar year and was obtained from T1 and T4 tax  return records).
+Incidence of  employment/self-employment represents  the incidence of having earnings from employment and/or self-employment.
+Amount of EI benefits received represents the average amount of EI benefits received.
+Weeks in receipt of EI benefits represents the average number of weeks during which EI benefits were  received.
+Social assistance  benefits  represent the average amount of social  assistance benefits received. (This information is available by calendar year  and is obtained from T1 tax return records.)
+Dependence on income support represents the ratio of participant’s income  that came from EI and social assistance benefits (for example, EI benefits +  social assistance benefits / (EI benefits + social assistance benefits +  earnings from employment/self/employment)).
+Incremental impacts  were estimated for different cohorts of participants:
+Active and  former claimants as well as youth (under 30 years old) and older workers (55  years old and over) who started their EBSM participation between April 1, 2002  and March 31, 2005.
+Active and  former claimants who started their EBSM participation between January 1, 2006  and March 31, 2008.
+Active and  former claimants who were long-tenured workers and who started their EBSM participation  between January 1, 2007 and December 31, 2009. The long-tenured workers covered in this  study are individuals who have established an EI regular or fishing benefit  claimants and who had paid at least 30% of the annual maximum employee EI  premiums in seven of the ten years preceding their EI claim and who had  collected 35 or fewer weeks of EI regular or fishing benefits in the five years  preceding their claim. This definition is similar to the EI claimant category  long-tenured workers introduced under Connecting Canadians with Available Jobs.
+Cost-benefit analysis
+The cost-benefit analysis  compared how much it cost for individuals to participate in the programs and  how much it costs the government to deliver those programs with the benefits  both the participants and the government drew from those programs. The analysis  was carried out from the society perspective which combines the costs and the  benefits for both the participants and the government.
+Costs and benefits included in  the calculations were as follows:
+Program costs included the administration cost and the direct  cost of the EBSMs. The cost for each EBSM was calculated at the Action Plan  Equivalent level. The costs were determined based on the average composition of  the Action Plan Equivalent.
+The Marginal Social  Cost of Public Funds represented the loss incurred by society when  raising additional revenues such as taxes to fund government spending. The value was estimated as 20% of the program cost, sales taxes, income taxes,  impacts on EI and impacts on social assistance paid or collected by the  government.
+Employment  earnings consisted of incremental impacts on participants’ earnings during and  after participation. The calculation accounts for the participant’s forgone  earnings during participation (opportunity cost). These are based on  incremental impacts for the 2002 to 2005 participants.
+Fringe benefits included benefits such as employer-paid health  and life insurance as well as pension contributions. The rate used to calculate  the fringe benefits was 15% of the incremental impact on earnings.
+The program effects on EI and social assistance  use, and the sale and income tax revenues were not included in the calculations  since these costs and benefits cancel each other out from the social  perspective by definition. For example, while EI and social assistance are  benefits received by participants, they represent a cost for the government.  However, as indicated above, these effects are accounted for in the calculation  of the Marginal Social Cost of Public Funds.
+When producing the results, to bring all costs and benefits  to a common base and to account for inflation and interest on foregone government  investment, the estimates for the second year of participation and up to the  sixth year post-program were discounted by 5% per year.  As well, when the benefits were still lower  than the costs six years after program end, the payback period was calculated  by assuming that the average benefit or cost measured over the fifth and six  year post-program would persist over time (discounted at a 5% annual rate).
+Strengths and limitations from the studies
+Overall, the number of key informants interviewed was  relatively small in some studies.  The  key informants’ responses were representative of their own experience and their  own region but it is unclear if they were fully representative of the entire  province.
+The matching process led to the creation of comparison  groups closely matched to the LMDA participants in terms of their background  characteristics. Results obtained with Kernel Matching were validated with the  use of two other techniques (Inverse Propensity Weighting and Nearest  Neighbour), increasing the level of confidence in the results. However, readers  should be aware that incremental impacts may be affected by factors not  captured by the matching process. For example, the
+motivation to seek  employment was not directly measured except to the extent it was captured in  prior income and labour market attachment patterns.
+Readers should also keep in mind that it is not possible to  compare the results obtained for each claimant type since the results for  active claimants represent the effects of the EBSMs relative to  non-participation while the results for former claimants represents the  Employment Benefits relative to a limited treatment (Workforce Development).
+The definition for long-tenured  workers differs from the definition used in the literature as it does not  consider the number of years the worker remained employed with the same  employer.
+The cost-benefit analysis was limited in the sense that it  only took into account the quantifiable benefits and costs that were directly  linked to EBSM delivery and participation and that could be estimated using  available administrative data and the EI Monitoring and Assessment Report. The  analysis did not capture “intangible”, non-pecuniary and indirect benefits. It  did not consider the multiplier effect that improving participant’s income may  have on the economy and did not account for the effect of EI Part II investment  on sustaining a service delivery infrastructure and creating jobs among the  governmental program service providers.   As well, this analysis did not consider the displacement effect where  participants may take away jobs that would otherwise be filled by other  unemployed individuals. Finally, this analysis did not consider the possible  effect of EBSMs on increasing skill prices.
+Appendix B –Detailed results Skills Training
+Table  B1. Socio-demographic and labour market characteristics  of Skills Training participants
+Active claimants
+Former claimants
+2002 to 2005
+2006 to 2008
+2002 to 2005
+2006 to 2008
+Number of observations
+2,089
+1,375
+642
+514
+Gender
+Male
+54%
+50%
+43%
+39%
+Female
+46%
+50%
+57%
+61%
+Age
+Under 25
+33%
+24%
+22%
+25%
+25 to 34
+31%
+31%
+38%
+39%
+35 to 44
+20%
+23%
+25%
+19%
+45 to 54
+13%
+15%
+12%
+14%
+55 and    over
+3%
+6%
+3%
+4%
+Marital status
+Married or common-law
+38%
+44%
+37%
+31%
+Widowed or divorced/ separated
+12%
+12%
+14%
+16%
+Single
+49%
+43%
+48%
+50%
+Missing data / Unknown
+1%
+2%
+1%
+3%
+Skills    level related to National Occupation Code associated with  the last EI claim opened before Skills    Training participation
+1
+Managerial
+5%
+7%
+6%
+6%
+University
+4%
+4%
+5%
+5%
+College    or apprenticeship training
+26%
+23%
+22%
+25%
+Secondary    or occupational training
+41%
+43%
+40%
+40%
+On-the-job    training
+24%
+23%
+27%
+24%
+Key    Labour Market indicators in the year preceding the start of participation
+Earnings
+2
+$19,818
+$22,067
+3
+$8,304
+$12,364
+3
+Proportion    Employed
+98%
+99%
+77%
+88%
+Proportion    on Employment Insurance
+42%
+48%
+52%
+66%
+Proportion    on Social Assistance
+8%
+8%
+28%
+22%
+Proportions may not add up to 100% due to rounding
+1
+Skill level corresponds to the type    and/or amount of training or education typically required to work in the last    occupation participants had before opening the last EI claim they had before    participating in EBSMs:
+-Managerial: Management occupations
+-University: Occupations usually requiring university education (for    example, university degree at the bachelor's, master's or doctorate level)
+-College or apprenticeship training: Occupations usually requiring    college or vocational education or apprenticeship training such as 2 to 3    years of post-secondary education at a community college, institute of    technology or CEGEP or 2 to 5    years of apprenticeship training or    3 to 4 years of secondary school and more than 2 years of on-the-job    training, specialized training courses or specific work experience and/or    occupations with supervisory responsibilities and occupations with    significant health and safety responsibilities, such as firefighters, police    officers and registered nursing assistants.
+-Secondary or occupational training: Occupations usually requiring    secondary school and/or occupation-specific training such as one to four    years of secondary school education or    up to 2 years of on-the-job training specialized training courses or    specific work experience.
+-On-the-job training: On-the-job training is usually provided for    occupations (such as short work demonstration or on-the-job training or no formal educational requirements).
+2
+Average earnings for    all individuals included in the studies. The average was calculated including    participants who reported $0 earnings during that year.
+3
+Earnings for 2006 to 2008    participants have been    adjusted by the Consumer Price Index published by Statistics Canada, using    2002 as the base year.
+Table B2.     Incremental impacts for Skills Training –     Active claimants
+Indicators
+In-program period
+Post-program period
+Total     in- and post-program
+Program     start year
+Additional     year
+1st year
+2nd year
+3rd year
+4th     year
+5th     year
+Total     post
+All active    claimants
+2002    to 2005 participants (n= 2,089)
+Employment earnings ($)
+-3,876***
+-3,975***
+1,943***
+4,797***
+6,837***
+8,329***
+9,864***
+31,770***
+23,919***
+Incidence of employment
+(percentage points)
+-0.7
+0.3
+4.9***
+5.4***
+5.6***
+5.4***
+6.8***
+n/a
+n/a
+EI benefits ($)
+1,247***
+293***
+-464***
+-294***
+-290***
+-197**
+-339***
+-1,585***
+-44
+EI weeks (weeks)
+4.8***
+1.1***
+-1.5***
+-1.0***
+-0.8***
+-0.6**
+-0.9***
+-4.6***
+1.3
+Social Assistance    benefits ($)
+50*
+79**
+49
+20
+-16
+-22
+-37
+-5
+123
+Dependence    on income support (percentage points)
+11.6***
+6.1***
+-2.8***
+-1.6***
+-1.6***
+-1.1*
+-2.3***
+n/a
+n/a
+2006 to 2008    participants (n=1,375)
+Employment earnings ($)
+-5,486***
+-3,087***
+2,299***
+5,189***
+6,961***
+n/a
+n/a
+14,517***
+5,995***
+Incidence of employment
+(percentage points)
+-1.1
+4.0***
+5.8***
+6.4***
+6.5***
+n/a
+n/a
+n/a
+n/a
+EI benefits ($)
+1,739***
+276**
+-401***
+-223**
+83
+n/a
+n/a
+-541**
+1,474***
+EI weeks (weeks)
+5.2***
+0.7**
+-1.0***
+-0.7***
+0.1
+n/a
+n/a
+-1.6**
+4.3***
+Social    Assistance benefits ($)
+17
+-91**
+-98**
+-166***
+-233***
+n/a
+n/a
+-497***
+-571***
+Dependence    on income support (percentage points)
+10.8***
+1.4
+-3.7***
+-3.7***
+-2.6***
+n/a
+n/a
+n/a
+n/a
+Sub-groups    of active claimants
+Youth (below 30 years old) – 2002    to 2005 participants (n=1,089)
+Employment earnings ($)
+-3,891***
+-5,138***
+1,333**
+2,727***
+6,466***
+8,267***
+9,514***
+28,306***
+19,277***
+Incidence of employment
+(percentage points)
+-0.8
+0.4
+4.8***
+3.9***
+3.6***
+3.0**
+4.2***
+n/a
+n/a
+EI benefits ($)
+1,248***
+491***
+-404***
+-274**
+-295***
+-280**
+-254**
+-1,507***
+232
+EI weeks (weeks)
+5***
+1.8***
+-1.2***
+-0.8**
+-0.7**
+-0.8**
+-0.7*
+-4.1***
+2.7*
+Social    Assistance benefits ($)
+90***
+97***
+26
+45
+20
+-25
+-38
+29
+216
+Dependence    on income support (percentage points)
+12.7***
+6.6***
+-1.5**
+-0.6
+0.1
+-0.1
+-0.5
+n/a
+n/a
+Long-Tenured Workers – 2007 to 2009    participants (n=801)
+Employment earnings ($)
+-7,242***
+-3,435***
+-290
+2,558*
+3,161**
+n/a
+n/a
+5,428
+-5,249
+Incidence of employment
+(percentage points)
+-0.5
+2.1
+1.2
+2.1
+1.5
+n/a
+v/a
+n/a
+n/a
+EI benefits ($)
+2,325***
+1,156***
+-35
+-182
+-60
+n/a
+n/a
+-278
+3,203***
+EI weeks (weeks)
+5.5***
+2.8***
+-0.4
+-0.5
+-0.3
+n/a
+n/a
+-1.1
+7.1***
+Social Assistance benefits ($)
+-8
+-140***
+-81**
+-71
+-101**
+n/a
+n/a
+-252**
+-400***
+Dependence on income support (percentage points)
+10.5***
+4.8***
+-0.9
+-2.9**
+-0.8
+n/a
+n/a
+n/a
+n/a
+Significance  level *** 1%;   ** 5%; * 10%
+Table B3.     Incremental impacts for Skills Training – Former claimants
+Indicators
+In-program period
+Post-program period
+Total     in- and post-program
+Program     start year
+Additional     year
+1st year
+2nd year
+3rd year
+4th     year
+5th     year
+Total     post
+All former    claimants
+2002    to 2005 participants (n= 642)
+Employment earnings ($)
+-1,006**
+-1,225**
+2,399***
+4,509***
+5,247***
+5,461***
+6,771***
+24,386***
+22,155***
+Incidence of employment
+(percentage points)
+-3.8**
+1.7
+5.1***
+8.2***
+7.5***
+8.0***
+8.6***
+n/a
+n/a
+EI benefits ($)
+345***
+420**
+144
+89
+262*
+408***
+-1
+902**
+1,667**
+EI weeks (weeks)
+1.4***
+1.4***
+0.7
+0.5
+1.1**
+1.2***
+0.2
+3.6**
+6.4***
+Social    Assistance benefits ($)
+-429***
+-496***
+-316***
+-295
+-387***
+-403***
+-388***
+-1,789***
+-2,714***
+Dependence    on income support (percentage points)
+1.3
+-0.4
+-2.3
+-2.7**
+-2.1
+-0.8
+-3.2**
+n/a
+n/a
+2006 to 2008    participants (n=514)
+Employment earnings ($)
+-2,905***
+-1,947***
+4,115***
+5,277***
+7,592***
+n/a
+n/a
+16,985***
+12,136***
+Incidence of employment
+(percentage points)
+-4.8**
+3.1*
+7.6***
+6.3***
+8.7***
+n/a
+n/a
+n/a
+n/a
+EI benefits ($)
+672***
+224
+-131
+206
+89
+n/a
+n/a
+165
+1,061**
+EI weeks (weeks)
+2.1***
+0.6
+-0.6
+0.6
+0.1
+n/a
+n/a
+0.1
+2.8
+Social    Assistance benefits ($)
+-425***
+-375***
+-420***
+-496***
+-460***
+n/a
+n/a
+-1,374***
+-2,174***
+Dependence    on income support (percentage points)
+2.1
+-2.1
+-7.4***
+-4.2***
+-3.3**
+n/a
+n/a
+n/a
+n/a
+Sub-groups    of former claimants
+Youth (below 30 years old) – 2002    to 2005 participants (n=297)
+Employment earnings ($)
+-1,863***
+-2,168***
+1,320
+2,802**
+3,832***
+4,264***
+4,551**
+16,768***
+12,736*
+Incidence    of employment
+(percentage    points)
+-6.9**
+2.5
+4.6*
+5.3**
+4.0
+3.6
+3.8
+n/a
+n/a
+EI    benefits ($)
+439**
+407**
+281
+49
+198
+124
+-167
+485
+1,331
+EI weeks    (weeks)
+1.8**
+1.0
+0.4
+0.2
+0.8
+0.4
+-0.4
+1.5
+4.3
+Social Assistance    benefits ($)
+-336**
+-312**
+-186
+-23
+-81
+-102
+3
+-389
+-1,037
+Dependence on income    support (percentage points)
+4.5*
+1.3
+-0.5
+1.0
+2.4
+1.2
+1.2
+n/a
+n/a
+Significance  level *** 1%;   ** 5%; * 10%
+Table B4. Cost-benefit results from the social perspective  for Skills Training
+Total costs and benefits Over Participation Period (2 years) and    6 Years Post-program
+Active claimants
+(n=2,089)
+Former claimants
+(n=642)
+Program cost
+-$5,410
+-$5,460
+Marginal social costs of public funds
+$150
+-$74
+Employment earnings
+$25,570
+$22,742
+Fringe benefit
+$3,835
+$3,411
+Net present value
+(By how much do the benefits exceed the costs    6 years after participation?)
+$24,145
+$20,619
+Cost-benefit ratio
+(How much does it cost in EI part II funds to    achieve $1 in benefit 6 years after participation?)
+$0.20
+$0.20
+Payback period
+(How many years after participation would it    take for the benefits to recover the costs?)
+3.2 years after participation
+2.4 years after program end
+Appendix C – Detailed Results  Skills Training – Apprenticeship
+Table C1. Socio-demographic and labour market characteristics  of Skills Training – Apprenticeship participants
+Active claimants
+Former claimants
+2003 to 2005
+2013 to 2014
+2003 to 2005
+2013 to 2014
+Number of observations
+1,709
+284
+244
+75
+Gender
+Male
+92%
+92%
+91%
+88%
+Female
+8%
+8%
+9%
+9%
+Age
+Under 25
+53%
+17%
+32%
+7%
+25 to 34
+31%
+52%
+44%
+44%
+35 to 44
+10%
+24%
+16%
+31%
+45 to 54
+5%
+6%
+7%
+11%
+55    and over
+1%
+1%
+0%
+8%
+Skills level related to National Occupation Code associated    with  the last EI claim opened before    Skills Training – Apprenticeship participation
+1
+Managerial
+1%
+0%
+1%
+7%
+University
+1%
+0%
+1%
+1%
+College or apprenticeship    training
+81%
+94%
+58%
+61%
+Secondary school or    occupational training
+10%
+1%
+18%
+17%
+On-the-job training
+7%
+5%
+23%
+13%
+Key Labour Market indicators in the year preceding the start of participation
+Earnings including $0
+2
+$23,994
+$36,768
+3
+$25,786
+$30,289
+3
+Proportion Employed
+100%
+100%
+99%
+99%
+Proportion on Employment Insurance
+21%
+24%
+44%
+38%
+Proportion on Social    Assistance
+3%
+3%
+2%
+9%
+Proportions may not add up to 100% due to rounding
+1
+Skill level corresponds to the type    and/or amount of training or education typically required to work in the last    occupation participants had before opening the last EI claim they had before    participating in EBSMs:
+-Managerial: Management occupations
+-University: Occupations usually requiring university education (for    example, university degree at the bachelor's, master's or doctorate level)
+-College or apprenticeship training: Occupations usually requiring    college or vocational education or apprenticeship training such as 2 to 3    years of post-secondary education at a community college, institute of    technology or CEGEP or 2 to 5    years of apprenticeship training or    3 to 4 years of secondary school and more than 2 years of on-the-job    training, specialized training courses or specific work experience and/or    occupations with supervisory responsibilities and occupations with    significant health and safety responsibilities, such as firefighters, police    officers and registered nursing assistants.
+-Secondary or occupational training: Occupations usually requiring    secondary school and/or occupation-specific training such as one to four    years of secondary school education or    up to 2 years of on-the-job training specialized training courses or    specific work experience.
+-On-the-job training: On-the-job training is usually provided for    occupations (such as short work demonstration or on-the-job training or no formal educational requirements).
+2
+Average earnings for    all individuals included in the studies. The average was calculated including    participants who reported $0 earnings during that year.
+3
+Earnings for 2006 to 2008    participants have been    adjusted by the Consumer Price Index published by Statistics Canada, using    2002 as the base year.
+Table    C2. Labour market outcomes for active claimants    who began participation in Skills Training – Apprenticeship in 2003 to 2005
+Average outcomes
+Pre-program period
+After the program start year
+5 year pre
+4 year pre
+3 year pre
+2 year pre
+1 year pre
+Program start year
+1 year
+2 year
+3 year
+4year
+5 year
+6 year
+7 year
+Earnings including $0
+15,325
+17,311
+19,459
+22,673
+26,644
+24,408
+30,746
+38,443
+45,472
+51,624
+55,055
+58,763
+62,178
+Earnings excluding $0
+1
+16,121
+17,877
+20,297
+22,976
+26,688
+24,569
+31,368
+39,625
+47,198
+54,736
+58,542
+62,777
+66,034
+Proportion employed
+95%
+97%
+96%
+99%
+100%
+99%
+98%
+97%
+96%
+94%
+94%
+94%
+94%
+Proportion on EI
+19%
+22%
+24%
+23%
+25%
+99%
+71%
+51%
+40%
+24%
+18%
+16%
+14%
+EI benefits
+711
+894
+910
+849
+906
+3,780
+2,615
+1,893
+1,545
+1,001
+759
+873
+696
+Number of weeks on EI
+2.62
+3.04
+3.14
+2.77
+2.91
+12.34
+7.9
+5.29
+4.06
+2.59
+1.96
+2.15
+1.56
+Proportion on Social Assistance
+5%
+5%
+5%
+4%
+3%
+3%
+2%
+3%
+2%
+2%
+2%
+2%
+2%
+Social Assistance benefits
+148
+161
+138
+107
+79
+63
+78
+96
+70
+53
+72
+90
+80
+Dependence on income support
+6%
+7%
+6%
+5%
+4%
+17%
+11%
+7%
+5%
+4%
+4%
+4%
+3%
+Proportion self employed
+14%
+15%
+14%
+14%
+15%
+16%
+17%
+17%
+18%
+19%
+19%
+19%
+20%
+1
+Earnings outcomes excluding individuals who reported no earnings  in a given year.
+n=1,232
+Table C3.    Labour market outcomes for former claimants who began participation in Skills    Training – Apprenticeship in 2003 to 2005
+Average outcomes
+Pre-program period
+After the program start year
+5 year pre
+4 year pre
+3 year pre
+2 year pre
+1 year pre
+Program start year
+1 year
+2 year
+3 year
+4year
+5 year
+6 year
+7 year
+Earnings including $0
+18,534
+21,153
+21,419
+24,866
+27,211
+29,632
+34,771
+40,162
+47,679
+53,656
+55,463
+60,604
+67,407
+Earnings excluding $0
+1
+19,372
+21,679
+22,276
+25,351
+27,344
+30,222
+35,994
+40,978
+48,883
+54,740
+57,738
+64,514
+70,104
+Proportion employed
+96%
+98%
+96%
+98%
+100%
+98%
+97%
+98%
+98%
+98%
+96%
+94%
+96%
+Proportion on EI
+25%
+33%
+48%
+45%
+44%
+43%
+38%
+34%
+32%
+30%
+20%
+19%
+16%
+EI benefits ($)
+971
+1,187
+1,719
+1,574
+1,888
+1,396
+1,389
+1,454
+1,433
+1,448
+1,172
+1,100
+937
+Number of weeks on EI
+3.38
+3.91
+5.79
+5.08
+6.12
+4.74
+4.2
+3.97
+3.96
+3.88
+2.85
+2.63
+2.58
+Proportion on Social Assistance
+5%
+7%
+8%
+6%
+3%
+7%
+5%
+6%
+5%
+3%
+2%
+2%
+2%
+Social Assistance benefits ($)
+274
+276
+191
+150
+38
+201
+141
+128
+196
+80
+40
+40
+38
+Dependence on income support
+9%
+8%
+11%
+9%
+9%
+9%
+7%
+5%
+5%
+5%
+4%
+4%
+3%
+Proportion self employed
+14%
+19%
+17%
+17%
+18%
+17%
+16%
+15%
+19%
+22%
+17%
+18%
+22%
+1
+Earnings outcomes excluding individuals who reported no earnings  in a given year.
+n=1,232
+Appendix D -  Detailed results Targeted  Wage Subsidies
+Table D1. Socio-demographic and labour market characteristics  of Targeted Wage Subsidies participants
+Active claimants
+Former claimants
+2002 to 2005
+2006 to 2008
+2002 to 2005
+2006 to 2008
+Number of observations
+378
+223
+1,446
+555
+Gender
+Male
+47%
+54%
+52%
+56%
+Female
+53%
+45%
+48%
+44%
+Age
+Under 25
+18%
+10%
+20%
+18%
+25 to 34
+36%
+32%
+37%
+40%
+35 to 44
+26%
+23%
+25%
+21%
+45 to 54
+15%
+23%
+14%
+14%
+55 and over
+5%
+12%
+4%
+7%
+Marital    status
+Married or common law
+37%
+44%
+35%
+35%
+Widow/ divorced or separated
+13%
+12%
+13%
+11%
+Single
+47%
+41%
+49%
+50%
+Missing data / Unknown
+3%
+3%
+3%
+5%
+Skills level    related to National Occupation Code associated with  the last EI claim opened before Targeted    Wage Subsidies participation
+1
+Managerial
+6%
+14%
+7%
+6%
+University
+7%
+7%
+5%
+6%
+College or apprenticeship training
+28%
+23%
+25%
+28%
+Secondary or occupational training
+32%
+41%
+35%
+35%
+On-the-job training
+27%
+14%
+28%
+25%
+Key    Labour Market indicators in the year preceding the start of participation
+Earnings
+2
+$17,276
+$20,969
+3
+$10,671
+$14,330
+3
+Proportion Employed
+98%
+98%
+86%
+93%
+Proportion on Employment Insurance
+49%
+47%
+50%
+55%
+Proportion on Social Assistance
+16%
+10%
+22%
+17%
+Proportions may not add up to 100% due to rounding
+1
+Skill level corresponds to the type    and/or amount of training or education typically required to work in the last    occupation participants had before opening the last EI claim they had before    participating in EBSMs:
+-Managerial: Management occupations
+-University: Occupations usually requiring university education (for    example, university degree at the bachelor's, master's or doctorate level)
+-College or apprenticeship training: Occupations usually requiring    college or vocational education or apprenticeship training such as 2 to 3    years of post-secondary education at a community college, institute of    technology or CEGEP or 2 to 5    years of apprenticeship training or    3 to 4 years of secondary school and more than 2 years of on-the-job    training, specialized training courses or specific work experience and/or    occupations with supervisory responsibilities and occupations with    significant health and safety responsibilities, such as firefighters, police    officers and registered nursing assistants.
+-Secondary or occupational training: Occupations usually requiring    secondary school and/or occupation-specific training such as one to four    years of secondary school education or    up to 2 years of on-the-job training specialized training courses or    specific work experience.
+-On-the-job training: On-the-job training is usually provided for    occupations (such as short work demonstration or on-the-job training or no formal educational requirements).
+2
+Average earnings for    all individuals included in the studies. The average was calculated including    participants who reported $0 earnings during that year.
+3
+Earnings for 2006 to 2008    participants have been    adjusted by the Consumer Price Index published by Statistics Canada, using    2002 as the base year.
+Table D2.     Incremental impacts for Targeted Wage Subsidies – Active claimants
+Indicators
+In-program period
+Post-program period
+Total     in- and post-program
+Program     start year
+Additional     year
+1st year
+2nd year
+3rd year
+4th     year
+5th     year
+Total     post
+Active claimants
+2002    to 2005 participants (n=378)
+Employment earnings ($)
+-90
+753
+941
+-1,094
+-573
+-696
+-281
+-1,702
+-1,039
+Incidence of employment
+(percentage points)
+6.9***
+5.7***
+4.8**
+2.8
+0.4
+-0.5
+2.7
+n/a
+n/a
+EI benefits ($)
+-638***
+-363*
+-117
+237*
+81
+37
+-219*
+19
+-982*
+EI weeks (weeks)
+-1.0*
+0.2
+0.1
+1.0*
+0.2
+0.3
+-0.4
+1.3
+0.4
+Social    Assistance benefits ($)
+-119
+-116
+-157
+-195*
+-195*
+-173
+-127
+-848
+-1,083
+Dependence    on income support (percentage points)
+-3.8**
+-1.2
+1.2
+3*
+2.1
+1.9
+0.6
+n/a
+n/a
+Significance  level *** 1%;   ** 5%; * 10%
+Table D3.     Incremental impacts for Targeted Wage Subsidies – Former claimants
+Indicators
+In-program period
+Post-program period
+Total     in- and post-program
+Program     start year
+Additional     year
+1st year
+2nd year
+3rd year
+4th     year
+5th     year
+Total     post
+Former claimants
+2002    to 2005 participants (n=1,446)
+Employment earnings ($)
+3,867***
+4,030***
+3,036***
+3,090***
+2,778***
+2,839***
+3,467***
+15,210***
+23,107***
+Incidence of employment
+(percentage points)
+14.3***
+12.0***
+6.9***
+7.2***
+6.0***
+6.8***
+8.0***
+n/a
+n/a
+EI benefits ($)
+35
+565***
+430***
+355***
+305***
+158*
+106
+1,353***
+1,954***
+EI weeks (weeks)
+0.7**
+2.8***
+1.8***
+1.3***
+1.1***
+0.5
+0.4
+5.1***
+8.6***
+Social    Assistance benefits ($)
+-522***
+-598***
+-455***
+-299***
+-279***
+-249***
+-341***
+-1,623***
+-2,743***
+Dependence    on income support (percentage points)
+-12.0***
+-4.0***
+-1.2
+-1.7**
+-0.4
+-2.1**
+-2.4**
+n/a
+n/a
+2006 to 2008 participants (n=555)
+Employment earnings ($)
+4,341***
+3,992***
+4,596***
+3,614***
+4,049***
+n/a
+n/a
+12,270***
+20,585***
+Incidence of employment
+(percentage points)
+10.3***
+7.7***
+8.9***
+7.3***
+6.2***
+n/a
+n/a
+n/a
+n/a
+EI benefits ($)
+-46
+333**
+163
+457**
+256
+n/a
+n/a
+876**
+1,164*
+EI weeks (weeks)
+-0.2
+1.4**
+0.2
+1.0*
+0.7
+n/a
+n/a
+2.0
+3.2
+Social    Assistance benefits ($)
+-892***
+-919***
+-775***
+-853***
+-707***
+n/a
+n/a
+-2,334***
+-4,145***
+Dependence    on income support (percentage points)
+-11.0***
+-4.2***
+-4.7***
+-2.6*
+-1.8
+n/a
+n/a
+n/a
+n/a
+Significance  level *** 1%;   ** 5%; * 10%
+Table D4. Cost-benefit results from the social perspective  for Targeted Wage Subsidies
+Total costs and benefits over participation period (2 years) and    6 years post-program
+Active    claimants
+(n=378)
+Former    claimants
+(n=1,446)
+Program cost
+-$5,306
+-$4,480
+Marginal social costs of public funds
+-$661
+$22
+Employment earnings
+-$640
+$22,029
+Fringe benefit
+-$96
+$3,304
+Net present value
+(By how much do the benefits exceed the costs    6 years after participation?)
+-$6,702
+$20,876
+Cost-benefit ratio
+(How much does it cost in EI part II funds to    achieve $1 in benefit 6 years after participation?)
+Negative benefits
+$0.20
+Payback period
+(How many years after participation would it    take for the benefits to recover the costs?)
+Costs may never be recovered
+Second participation year
+Appendix  E -  Detailed Results Self-Employment
+Table E1. Socio-demographic and labour market characteristics  of Self-Employment participants
+Active claimants
+Former claimants
+2002 to 2005
+2006 to 2008
+2002 to 2005
+Number of observations
+250
+83
+74
+Gender
+Male
+63%
+60%
+51%
+Female
+37%
+40%
+49%
+Age
+Under 25
+3%
+6%
+7%
+25 to 34
+32%
+28%
+24%
+35 to 44
+28%
+30%
+42%
+45 to 54
+30%
+30%
+23%
+55 and    over
+7%
+6%
+4%
+Marital    Status
+Married    or common law
+67%
+65%
+55%
+Widow/    divorced or separated
+12%
+6%
+22%
+Single
+19%
+29%
+19%
+Missing    data / Unknown
+2%
+0%
+4%
+Skills    level related to National Occupation Code associated with  the last EI claim opened before    Self-Employment participation
+1
+Managerial
+11%
+16%
+11%
+University
+12%
+12%
+16%
+College    or apprenticeship training
+42%
+29%
+23%
+Secondary    or occupational training
+28%
+35%
+31%
+On-the-job    training
+7%
+8%
+19%
+Key    Labour Market indicators in the year preceding the start of participation
+Earnings
+2
+$29,257
+$27,142
+3
+$10,464
+Proportion    Employed
+97%
+100%
+81%
+Proportion    on Employment Insurance
+36%
+41%
+55%
+Proportion    on Social Assistance
+4%
+2%
+24%
+Proportions may not add up to 100% due to rounding
+1
+Skill level corresponds to the type    and/or amount of training or education typically required to work in the last    occupation participants had before opening the last EI claim they had before    participating in EBSMs:
+-Managerial: Management occupations
+-University: Occupations usually requiring university education (for    example, university degree at the bachelor's, master's or doctorate level)
+-College or apprenticeship training: Occupations usually requiring    college or vocational education or apprenticeship training such as 2 to 3    years of post-secondary education at a community college, institute of    technology or CEGEP or 2 to 5    years of apprenticeship training or    3 to 4 years of secondary school and more than 2 years of on-the-job    training, specialized training courses or specific work experience and/or    occupations with supervisory responsibilities and occupations with    significant health and safety responsibilities, such as firefighters, police    officers and registered nursing assistants.
+-Secondary or occupational training: Occupations usually requiring    secondary school and/or occupation-specific training such as one to four    years of secondary school education or    up to 2 years of on-the-job training specialized training courses or    specific work experience.
+-On-the-job training: On-the-job training is usually provided for    occupations (such as short work demonstration or on-the-job training or no formal educational requirements).
+2
+Average earnings for    all individuals included in the studies. The average was calculated including    participants who reported $0 earnings during that year.
+3
+Earnings for 2006 to 2008    participants have been    adjusted by the Consumer Price Index published by Statistics Canada, using    2002 as the base year.
+Table  E2. Labour market outcomes for Self-Employment – Active claimants
+Average     outcomes
+Pre-program     period
+Program     period
+Post-program     period
+Average     annual outcomes pre-
+1
+Average     annual outcomes post-
+2
+Change
+3
+5 yrs     pre
+4 yrs     pre
+3 yrs     pre
+2 yrs     pre
+1 yr     pre
+Program     start year
+1 yr     post start year
+1 yr     post
+2 yrs     post
+3 yrs     post
+4 yrs     post
+5 yrs     post
+All    active claimants (n=250)
+Earnings    including $0
+4
+19,413
+21,790
+23,919
+25,753
+29,257
+13,970
+11,385
+16,988
+18,992
+22,883
+24,272
+24,931
+24,026
+21,613
+-2,413
+Earnings    excluding $0
+5
+22,275
+24,775
+26,459
+27,632
+30,100
+15,592
+16,453
+23,335
+25,122
+30,593
+32,801
+35,213
+26,248
+29,413
+3,165
+Proportion    employed
+87%
+88%
+90%
+93%
+97%
+90%
+69%
+73%
+76%
+75%
+74%
+71%
+91%
+74%
+-17    pp
+Proportion    on EI
+22%
+22%
+20%
+24%
+36%
+97%
+52%
+13%
+14%
+13%
+13%
+12%
+25%
+13%
+-12    pp
+EI    benefits ($)
+903
+744
+851
+1,055
+1,441
+7,522
+2,903
+702
+753
+848
+898
+808
+999
+802
+-197
+Number    of weeks on EI
+3.3
+2.8
+3.1
+3.6
+5.1
+23.4
+8.7
+2.1
+2.3
+2.3
+2.3
+2.1
+3.6
+2.3
+-1.3
+Proportion    on Social Assistance
+7%
+6%
+5%
+6%
+4%
+4%
+4%
+5%
+5%
+4%
+4%
+3%
+5%
+4%
+-1    pp
+Social    Assistance benefits ($)
+290
+243
+179
+131
+81
+79
+98
+111
+146
+107
+183
+169
+185
+143
+-42
+Dependence    on income support
+10%
+8%
+8%
+7%
+8%
+44%
+32%
+6%
+6%
+5%
+7%
+6%
+8%
+6%
+-2    pp
+1
+Average annual outcome pre-: Represents the average annual  outcomes over the pre-participation period
+2
+Average annual outcome post-: Represents the average annual  outcomes over the post-participation period
+3
+Change between pre- and post-: Represents the difference between  the average annual outcome calculated over the pre-/post-participation periods.
+4
+Earnings outcome for all individuals covered by the study.
+5
+Earnings outcomes excluding individuals who reported no earnings  in a given year.
+pp:  percentage points
+Table  E3. Labour market outcomes for Self-Employment – Former claimants
+Average outcomes
+Pre-program period
+Program period
+Post-program period
+Average annual outcomes pre-
+Average annual outcomes post-
+Change
+5 yrs pre
+4 yrs pre
+3 yrs pre
+2 yrs pre
+1 yr pre
+Program start year
+1 yr post start year
+1 yr post
+2 yrs post
+3 yrs post
+4 yrs post
+5 yrs post
+All former claimants (n=74)
+Earnings    including $0
+13,886
+17,808
+17,441
+16,545
+10,464
+5,540
+5,535
+10,064
+15,075
+17,076
+18,649
+20,316
+15,229
+16,236
+1,007
+Earnings    excluding $0
+16,945
+19,668
+19,856
+17,744
+12,905
+8,540
+10,240
+16,926
+23,736
+26,885
+27,059
+29,478
+17,424
+24,817
+7,393
+Proportion    employed
+80%
+91%
+88%
+93%
+81%
+65%
+54%
+60%
+64%
+64%
+69%
+69%
+87%
+65%
+-22    pp
+Proportion    on EI
+24%
+23%
+38%
+42%
+55%
+42%
+10%
+10%
+14%
+22%
+30%
+23%
+37%
+20%
+-17    pp
+EI    benefits ($)
+1,299
+871
+2,119
+2,107
+3,663
+2,260
+604
+336
+563
+1,478
+1,992
+1,413
+2,012
+1,156
+-856
+Number    of weeks on EI
+4.7
+2.8
+8.2
+7.4
+11.9
+7.3
+1.8
+1.2
+1.7
+4.4
+5.8
+4.0
+7.0
+3.4
+-3.6
+Proportion    on Social Assistance
+22%
+22%
+14%
+16%
+24%
+26%
+19%
+15%
+14%
+14%
+15%
+16%
+20%
+15%
+-5    pp
+Social    Assistance benefits ($)
+810
+788
+603
+629
+1,287
+736
+751
+783
+572
+696
+778
+822
+823
+730
+-93
+Dependence    on income support
+21%
+12%
+22%
+22%
+38%
+43%
+17%
+11%
+13%
+17%
+17%
+16%
+23%
+15%
+-8    pp
+Appendix  F -  Detailed results Workforce Development
+Table F1. Socio-demographic  and labour market characteristics of Workforce Development participants
+Active claimants
+Former claimants
+2002 to 2005
+2006 to 2008
+2002 to 2005
+2006 to 2008
+Number of observations
+7,576
+5,269
+7,306
+5,674
+Gender
+Male
+61%
+61%
+59%
+55%
+Female
+39%
+39%
+41%
+45%
+Age
+Under 25
+19%
+15%
+15%
+14%
+25 to 34
+32%
+30%
+33%
+35%
+35 to 44
+26%
+26%
+29%
+27%
+45 to 54
+18%
+21%
+18%
+19%
+55 and    over
+5%
+7%
+5%
+5%
+Marital status
+Married    or common law
+40%
+39%
+29%
+24%
+Widow/    divorced or separated
+14%
+13%
+16%
+16%
+Single
+43%
+44%
+49%
+53%
+Missing    data / Unknown
+3%
+4%
+6%
+7%
+Skills    level related to National Occupation Code associated with  the last EI claim opened before Workforce    Development participation
+1
+Managerial
+6%
+6%
+5%
+5%
+University
+6%
+4%
+5%
+4%
+College    or apprenticeship training
+28%
+25%
+24%
+24%
+Secondary    or occupational training
+36%
+40%
+35%
+38%
+On-the-job    training
+24%
+25%
+31%
+30%
+Key    Labour Market indicators in the year preceding the start of participation
+Earnings
+2
+$20,126
+$21,580
+3
+$9,286
+$11,637
+3
+Proportion    Employed
+98%
+99%
+80%
+87%
+Proportion    on Employment Insurance
+45%
+46%
+51%
+51%
+Proportion    on Social Assistance
+12%
+14%
+32%
+31%
+Proportions may not add up to 100% due to rounding
+1
+Skill level corresponds to the type    and/or amount of training or education typically required to work in the last    occupation participants had before opening the last EI claim they had before    participating in EBSMs:
+-Managerial: Management occupations
+-University: Occupations usually requiring university education (for    example, university degree at the bachelor's, master's or doctorate level)
+-College or apprenticeship training: Occupations usually requiring    college or vocational education or apprenticeship training such as 2 to 3    years of post-secondary education at a community college, institute of    technology or CEGEP or 2 to 5    years of apprenticeship training or    3 to 4 years of secondary school and more than 2 years of on-the-job    training, specialized training courses or specific work experience and/or    occupations with supervisory responsibilities and occupations with    significant health and safety responsibilities, such as firefighters, police    officers and registered nursing assistants.
+-Secondary or occupational training: Occupations usually requiring    secondary school and/or occupation-specific training such as one to four    years of secondary school education or    up to 2 years of on-the-job training specialized training courses or    specific work experience.
+-On-the-job training: On-the-job training is usually provided for    occupations (such as short work demonstration or on-the-job training or no formal educational requirements).
+2
+Average earnings for    all individuals included in the studies. The average was calculated including    participants who reported $0 earnings during that year.
+3
+Earnings for 2006 to 2008    participants have been    adjusted by the Consumer Price Index published by Statistics Canada, using    2002 as the base year.
+Table F2.     Incremental impacts for Workforce     Development
+Indicators
+In-program period
+Post-program period
+Total in- and post-program
+1st year
+2nd year
+3rd year
+4th year
+5th year
+Total post
+Active claimants
+2002 to 2005 participants (n=7,576)
+Employment earnings ($)
+-2,247***
+-446*
+710***
+1,169***
+1,831***
+2,074***
+5,337***
+3,090**
+Incidence of employment
+(percentage points)
+-0.4
+-0.1
+0.5
+1.1*
+1.1*
+1.6**
+n/a
+n/a
+EI benefits ($)
+518***
+-530***
+-423***
+-303***
+-248***
+-190***
+-1,696***
+-1,178***
+EI weeks (weeks)
+2.1***
+-1.8***
+-1.3***
+-0.9***
+-0.8***
+-0.6***
+-5.3***
+-3.3***
+Social Assistance benefits ($)
+49**
+122***
+26
+13
+-56**
+-34
+71
+120
+Dependence on income support    (percentage points)
+5.1***
+-1.5***
+-1.9***
+-1.5***
+-1.8***
+-1.5***
+n/a
+n/a
+2006 to 2008 participants (n=5,269)
+Employment earnings ($)
+-2,740***
+-371
+731**
+1,381***
+n/a
+n/a
+1,741**
+-999
+Incidence of employment
+(percentage points)
+1.3**
+1.9***
+2.1***
+0.9
+n/a
+n/a
+n/a
+n/a
+EI benefits ($)
+607***
+-442***
+-332***
+-278***
+n/a
+n/a
+-1,052***
+-445**
+EI weeks (weeks)
+1.7***
+-1.3***
+-1.0***
+-0.8***
+n/a
+n/a
+-3.1***
+-1.4**
+Social Assistance benefits ($)
+145***
+199***
+134***
+103***
+n/a
+n/a
+436***
+581***
+Dependence on income support    (percentage points)
+4.3***
+-0.2
+-0.8
+-0.7
+n/a
+n/a
+n/a
+n/a
+sub-groups of active claimants
+youth (below 30 years old) – 2002    to 2005 participants (n=2,804)
+Employment earnings ($)
+-1,945***
+83
+1,134***
+1,519**
+2,032***
+2,709***
+7,476***
+5,532***
+Incidence of employment
+(percentage points)
+-0.6
+0.2
+1.2
+2.0**
+1.0
+1.1
+n/a
+n/a
+EI benefits ($)
+302***
+-708***
+-433***
+-362***
+-233***
+-238***
+-1,974***
+-1,671***
+EI weeks (weeks)
+1.5***
+-2.4***
+-1.2***
+-1.0***
+-0.6***
+-0.6***
+-5.8***
+-4.3***
+Social Assistance benefits ($)
+96***
+152***
+52*
+13
+-48
+-27
+143
+239*
+Dependence on income support (percentage    points)
+4.4***
+-2.9***
+-2.2***
+-1.9***
+-1.4***
+-1.7***
+n/a
+n/a
+older workers (55 years old and    over) – 2002 to 2005 participants (n=399)
+Employment earnings ($)
+-3,214***
+-1,541
+494
+2,732**
+3,377**
+3,384**
+8,445
+5,231
+Incidence of employment
+(percentage points)
+-1.5
+-1.4
+1.5
+4.6
+9.0***
+7.4**
+n/a
+n/a
+EI benefits ($)
+995***
+-436*
+-346*
+-186
+38
+221
+-709
+286
+EI weeks (weeks)
+3.8***
+-1.4*
+-0.9
+0.0
+0.5
+1.0
+-0.7
+3.0
+Social Assistance benefits ($)
+-4
+77
+136*
+56
+35
+73
+376
+373
+Dependence on income support    (percentage points)
+8.9***
+-3.1
+-1.5
+-3.1*
+-0.4
+2.4
+n/a
+n/a
+Long-tenured  workers- 2007 to 2009 participants    (n=1,045)
+Employment earnings ($)
+-3,520***
+-2,397***
+-2,048*
+-501
+n/a
+n/a
+-4,947*
+-8,467***
+Incidence of employment
+(percentage points)
+-0.4
+-0.9
+-1.3
+-0.8
+n/a
+n/a
+n/a
+n/a
+EI benefits ($)
+778***
+104
+-286
+-423
+n/a
+n/a
+-605
+173
+EI weeks (weeks)
+1.8***
+0.0
+-0.8*
+-1.2***
+n/a
+n/a
+-2.0*
+-0.2
+Social Assistance benefits ($)
+131***
+150***
+117**
+89*
+n/a
+n/a
+357***
+488***
+Dependence on income support    (percentage points)
+5.3***
+1.5
+-0.6
+-0.9
+n/a
+n/a
+n/a
+n/a
+Significance  level *** 1%;   ** 5%; * 10%
+Table F3.  Incremental impacts related to the timing of participation in Workforce Development
+Cohorts
+n=
+In-program
+Post-program period
+Total impact post-    program
+Total impact in- and    post- program
+1 year
+2 years
+3 years
+4 years
+5 years
+Employment earnings    ($)
+1 to 4 weeks
+1,837
+-520***
+347
+2,345***
+3,455***
+4,490***
+4,762***
+15,399***
+14,880***
+5 to 8 weeks
+1,074
+-1,429***
+309
+2,266***
+2,883***
+3,697***
+3,988***
+13,144***
+11,715***
+9 to 12 weeks
+816
+-1,717***
+1,338**
+2,038***
+2,833***
+3,853***
+4,758***
+14,820***
+13,103***
+2nd quarter
+1,654
+-3,352***
+-50
+942
+1,648***
+2,229***
+3,073***
+7,841***
+4,490*
+3rd quarter
+853
+-6,093***
+-273
+-82
+-47
+1,178
+1,452
+2,228
+-3,864
+4th quarter
+529
+-5,778***
+384
+1,002
+1,329
+2,107
+2,322*
+7,144*
+1,366
+Incidence of    Employment (percentage points)
+1 to 4 weeks
+1,837
+2.2***
+0.0
+0.3
+1.2
+1.1
+1.1
+n/a
+n/a
+5 to 8 weeks
+1,074
+1.1
+0.3
+-0.4
+0.0
+-0.2
+-1.8
+n/a
+n/a
+9 to 12 weeks
+816
+1.6*
+0.8
+-0.2
+2.4*
+0.9
+2.3
+n/a
+n/a
+2nd quarter
+1,654
+-1.2
+-0.9
+0.6
+0.9
+1.5
+1.4
+n/a
+n/a
+3rd quarter
+853
+-5.7***
+-3.6***
+-2.4**
+-2.1
+-0.2
+-0.7
+n/a
+n/a
+4th quarter
+529
+-8.2***
+-0.8
+-1.9
+-0.6
+-0.9
+0.2
+n/a
+n/a
+EI Benefits ($)
+1 to 4 weeks
+1,837
+193**
+-74
+-328***
+-276***
+-181***
+-145*
+-1,004***
+-810***
+5 to 8 weeks
+1,074
+875***
+-313***
+-478***
+-346***
+-352***
+-228***
+-1,717***
+-842**
+9 to 12 weeks
+816
+876***
+-671***
+-360***
+-347***
+-345***
+-243**
+-1,966***
+-1,090**
+2nd quarter
+1,654
+1,247***
+-870***
+-477***
+-288***
+-234***
+-208**
+-2,077***
+-829**
+3rd quarter
+853
+1,677***
+-1,747***
+-440***
+-334***
+-210*
+-181
+-2,913***
+-1,235**
+4th quarter
+529
+984***
+-2,291***
+-829***
+-452**
+-327*
+-351*
+-4,249***
+-3,265*
+* Significant at 10%; ** significant at 5%;    *** significant at 1%
+n= refers    to the number of participants. It corresponds to 100% of participants.
+Note: For the    estimations we have selected a 50% random sample among comparison group in    each cohort due to their large number. We used 100% of participants.
+Table F4. Incremental  time of return to employment for Workforce Development participants based on timing  of participation
+Cohorts
+(start of EAS-only after start of an EI claim)
+1    to 4 weeks
+5    to 8 weeks
+9    to 12 weeks
+2nd    quarter
+3rd    quarter
+4th    quarter
+(N=1,837)
+(N=1,074)
+(N=816)
+(N=1,654)
+(N=853)
+(N=529)
+Time of Return to Employment
+2.3***
+-0.7*
+-1.1***
+-2.7***
+-2.9***
+-1.5***
+* Significant at 10%; ** significant at 5%; *** significant at 1%
+Note    that, for the estimations we have selected 50% random sample, in each cohort,    among comparison group due to their large number. We used 100% of    participants.
+Note: The means of the standardized    bias reduction after matching was calculated as suggested by Rosenbaum and    Rubin (1985). The overall bias after matching lies between 3% and 15% which    is generally considered as acceptable in empirical research papers.
+Table    F5. Cost-benefit results from the social    perspective for Workforce    Development
+Total costs and benefits over    participation period (1 year) and 6 years post-program
+Active claimants
+(n=7,576)
+Program cost
+-336
+Marginal social costs of public    funds
+347
+Employment earnings
+4,120
+Fringe benefit
+618
+Net present value
+(By how much do the benefits exceed    the costs within 6 years after participation?)
+4,749
+Cost-benefit ratio
+(How much does it cost in EI part    II funds to achieve $1 in benefit 6 years after participation?)
+0.10
+Payback period
+(How many years after participation    would it take for the benefits to recover the costs?)
+3.8 years after participation
+Appendix  G –  List of eight studies included in the synthesis report
+Table  G1. Overview of studies included in this summary report
+Study
+Evidence    generated
+Methods
+Reference    period
+Observation    period
+Profile, Outcomes and Net Impacts of Employment Benefits and    Support Measures (EBSM) Participants in Saskatchewan (Completed in 2014)
+- Incremental impacts for participants including youth and older    workers
+- Profile and socio-demographic characteristics of participants
+- Non-experimental method using propensity score matching in    combination with Difference-in-Differences
+- Statistical profiling
+2002 to 2005 participants
+7 years between 2002 and 2011
+(2 years in program and 5 years post-program)
+Effects of the Timing of    Participation in Employment Assistance Services in Saskatchewan (Completed in    2014)
+- Incremental impacts
+- Non-experimental method using propensity score matching in    combination with Difference-in-Differences
+- Statistical profiling
+Cost-Benefit Analysis of    Employment Benefits and Support Measures Delivered in Saskatchewan (Completed    in 2016)
+- Cost-benefit analysis
+- Non-experimental method using propensity score matching in    combination with Difference-in-Differences
+- Cost analysis
+8 years between 2002 and 2013
+(2 years in-program and 6 years post-program)
+Analysis    of EBSMs Profile, Outcomes    and Incremental Impacts for 2006-2008 Participants in Saskatchewan (Completed    in 2015)
+- Incremental impacts
+- Profile    and socio-demographic characteristics of participants
+- Non-experimental method using propensity score matching in    combination with Difference-in-Differences
+- Statistical profiling
+2006 to 2008 participants
+5 years between 2006 and 2012
+(2 years in-program and 3 years post-program)
+Analysis of EBSMs    Profile, Outcomes, and Incremental Impacts for EI Claimants Category    “Long-Tenured Workers” in Saskatchewan (Completed in 2016)
+- Incremental impacts
+- Profile and socio-demographic characteristics of participants
+- Non-experimental method using propensity score matching in    combination with Difference-in-Differences
+- Statistical profiling
+2007 to 2009 participants
+5 years between 2007 and 2013
+(2 years in-program and 3 years post-program)
+Study on Employment    Assistance Services: Saskatchewan (Completed in 2014)
+- Program design and delivery
+- Challenges and lessons learned
+- 10 key informants interviews
+- Literature and document review
+Design and delivery at the time of the data collection (2013)
+Study on Skills Training    in Saskatchewan  (Completed in 2016)
+- Program design and delivery
+- Challenges and lessons learned
+- 4 key informants interviews
+- Literature and document review
+- Questionnaire completed by Saskatchewan officials
+Design and delivery at the time    of the data collection (2015)
+Study on Skills Training    – Apprenticeship in Saskatchewan     (Completed in 2016)
+- Program design and delivery
+- Challenges and lessons learned
+- 5 key informants interviews
+- Literature and document review
+- Questionnaire completed by Saskatchewan officials
+Footnotes
+Footnote 1
+The long-tenured workers covered in the evaluation  are individuals who had long-term attachment to the labour market but not  necessarily a long tenure with the same employer.
+Return to footnote
+1
+referrer
+Footnote 2
+Red Seal. 2014. Apprenticeship  Completion, Certification and Outcomes. Ottawa: Red Seal.
+Return to footnote
+2
+referrer
+Footnote 3
+Patrick Coe. 2013.  “Apprenticeship Programme Requirements and Apprenticeship Completion Rates in  Canada.” Journal of Vocational Education and Training. 65(4): 575 to 605
+Return to footnote
+3
+referrer
+Footnote 4
+Former claimants who received maternity or  parental benefits were not covered by the evaluation given the difficulty in  finding a suitable comparison group.
+Return to footnote
+4
+referrer
+Footnote 5
+Full details about the incremental impact  methodology can be found in the following report: Stream 1 Study for 2013 to  2014: National Level Analysis of EBSM Incremental Impacts. Methodology Report.  Evaluation Directorate. ESDC. September 16, 2013.
+Return to footnote
+5
+referrer
+Footnote 6
+Government of Saskatchewan. Annual Report for  2015 to 2016. Ministry of the Economy. 2016
+Return to footnote
+6
+referrer
+Footnote 7
+Incremental impacts on earnings  are estimated relative to pre-participation levels and to the comparison group.  They are estimated using current dollars.
+Return to footnote
+7
+referrer
+Footnote 8
+Red Seal. 2014. Apprenticeship  Completion, Certification and Outcomes. Ottawa: Red Seal.
+Return to footnote
+8
+referrer
+Footnote 9
+Patrick Coe. 2013.  “Apprenticeship programme requirements and apprenticeship completion rates in  Canada.” Journal of Vocational Education and Training. 65(4): 575 to 605.
+Return to footnote
+9
+referrer
+Footnote 10
+OECD (2016), Employment and  Skills Strategies in Saskatchewan and the Yukon, Canada, OECD Reviews on Local  Job Creation, OECD Publishing, Paris. p.106
+Return to footnote
+10
+referrer
+Footnote 11
+Sébastien LaRochelle-Côté and Sharanjit Uppal, "The Financial  Well-Being of the Self-Employed," Perspectives on Labour and Income, vol.  23, no. 4, Winter 2011.
+Return to footnote
+11
+referrer
+Footnote 12
+Red Seal. 2014. Apprenticeship  Completion, Certification and Outcomes. Ottawa: Red Seal.
+Return to footnote
+12
+referrer
+Footnote 13
+`Patrick Coe. 2013.  “Apprenticeship Programme Requirements and Apprenticeship Completion Rates in  Canada.” Journal of Vocational Education and Training. 65(4): 575 to 605
+Return to footnote
+13
+referrer
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2022-04-26
