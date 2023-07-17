@@ -1,0 +1,983 @@
+Evaluation of the Clean Energy Fund (CEF)
+Draft Report: June 2014
+Table of Contents
+Executive Summary
+Recommendations and Management Response
+1.0 Introduction and Background
+1.1 Overview
+1.2 Background
+1.2.1 Overview of the Clean Energy Fund Program
+1.2.2 The PAA
+1.2.3 CEF Logic Model
+1.2.4 Resources at the Program and Component Level
+1.2.5 Program Structure and Governance
+2.0 Evaluation Approach and Methodology
+2.1 Evaluation Scope and Objectives
+2.2 Evaluation Methods and Limitations
+2.3 Evaluation Limitations and Mitigation Strategies
+3.0 Evaluation Findings
+3.1 Relevance
+3.1.1 Is there an ongoing need for each of the CEF components?
+3.1.2 Are the CEF components consistent with government priorities and NRCan strategic outcomes?
+3.1.3 Is there a legitimate, appropriate and necessary role for the federal government in the CEF areas of activities for all components? Is NRCan's role appropriate in the context of the role of others?
+3.2 Performance
+3.2.1 Building on the existing work and accomplishment from other clean energy initiatives, to what extent have the CEF components achieved their outcomes?
+3.2.2 Have there been any unintended (positive or negative) outcomes?
+3.2.3 What are the internal and external factors that have facilitated or hindered the achievement of the intended outcomes for each component?
+3.2.4 Are the CEF activities within each component the most economic and efficient means of making progress towards the intended outcomes?
+4.0 Conclusions and Recommendations
+Annex A: Natural Resources Canada’s Program Alignment Architecture 2013-2014
+Annex B: CEF Program Resources
+Acknowledgements:
+The Evaluation Project Team would like to thank NRCan’s Office of Energy Research and Development for its collaboration during the evaluation. We would also like to acknowledge the contribution of all those individuals who provided insights and comments crucial to this evaluation.
+The Evaluation Project Team was under the direction of Jennifer Hollington, Head of Evaluation, as well as Gerry Godsoe and Gavin Lemieux, the former and current directors of evaluation. The evaluation was managed by Olive Kamanyana, with the support of Edmund Wolfe. Evaluation services were provided by Performance Management Network (PMN) Ltd.
+Executive Summary
+Introduction
+The following is an evaluation of Natural Resources Canada's (NRCan) Sub-program 2.2.3, Clean Energy Science and Technology (S&T) activities, funded under the Clean Energy Fund (CEF). The evaluation covers the period 2009-10 to 2012-13, and $281.5 million in NRCan expenditures over the four-year period.
+Footnote
+1
+The Clean Energy Fund was announced in Budget 2009, as part of Canada’s Economic Action Plan. The CEF program’s main objective is to support the Government’s commitment in the November 2008 Speech from the Throne to make greater use of technologies that reduce greenhouse gas (GHG) emissions from energy production, and thus contribute to the Government’s overall commitments of reducing Canada’s total GHG emissions by 20% from 2006 levels by 2020,
+Footnote
+2
+and that 90% of Canada’s electricity needs be met by non-emitting sources by 2020.
+Footnote
+3
+The CEF-funded research and development (R&D) and smaller- and large-scale demonstration projects that supported the development of new energy technologies to contribute to the reduction of GHG and other air emissions associated with energy production, transmission, distribution and use, and create new opportunities as Canada transitions toward a greener global economy.
+Evaluation Issues and Methodology
+The evaluation was completed as per the requirement of the Treasury Board Policy on Evaluation that all direct program spending be assessed every five years. The evaluation objective was to assess the relevance and performance (effectiveness, efficiency and economy) of the CEF program and to make recommendations for consideration by NRCan program and senior management.
+The study consisted of document, literature and project file reviews, 77 in-depth interviews with program managers, project proponents and Alberta government representatives, and two case studies.
+Relevance
+Need for the Program
+Literature, program documentation, file review and interview findings show that clean energy-related R&D needs are significant and ongoing in the priority areas that were addressed by the CEF. The evaluation found that, for R&D, there remains a need to reduce technology development risks to encourage private sector investment. Also, federal departments need capacity—namely, expertise, facilities and equipment—to support the development of codes, standards, regulations and policy-making.
+The evaluation found that, for both the smaller-scale and large-scale demonstrations, there is an ongoing need to develop and demonstrate new technologies to ensure that Canada’s GHG commitments are met as well as to extend or replicate these technologies within the energy sector and other industries as appropriate. There is also evidence of an ongoing need for federal government support to further develop and demonstrate these technologies given innovation activities related to alternative energy sources.
+Alignment with Government Priorities and NRCan Strategic Objectives
+The activities that were funded under the CEF program are broadly aligned with government priorities and NRCan strategic objectives.
+The CEF program is consistent with Government of Canada priorities, in particular Strong Economic Growth, and A Clean and Healthy Environment.
+By supporting R&D and demonstrations associated with clean technologies, the CEF activities are consistent with NRCan’s Strategic Outcome 2: Natural resource sectors and consumers are environmentally responsible, and helps NRCan to fulfil its mandate.
+Alignment with Federal Roles and Responsibilities
+There is a legitimate and appropriate role for the federal government’s support of such activities as were funded by the CEF. Further, NRCan's role is appropriate.
+The evaluation found that, in the case of the R&D component, the federal government has a role to play to ensure that credible and current research information is available to guide federal, national, provincial and municipal organizations in their decision-making related to clean energy. The evaluation found that NRCan has the structure and knowledge as a result of its experience with the long-standing interdepartmental Program of Energy Research and Development (PERD) to deliver the R&D component of the CEF.
+In the case of both smaller-scale and large-scale demonstrations, the evaluation found that the federal government has a role to play in supporting the progress of technologies towards commercialization, and NRCan provides much-needed technical support, in particular to smaller organizations receiving funding.
+Performance
+Achievement of Expected Outcomes
+The evaluation found that the program has been successful in achieving some of its early outcomes. However, it is too early to accurately predict the longer-term prospects for the clean energy technologies examined during the data collection phase of this evaluation. All program components have been successful in engaging a wide range of stakeholders from the public, not-for-profit and private sectors and in developing and diffusing knowledge products. The components have also contributed to policy advice, decision making, and the development of regulations, codes and standards.
+Assessment of success related to intermediate and longer-term outcomes was limited for a variety of reasons. This is true for all components, but for different reasons.
+In addition to the immediate outcomes achieved, the results of the R&D projects will inform the intermediate technology outcomes of future programs involving demonstrations. It is too early for the results of the CEF
+R&D projects
+to have affected policy outcomes given the time it takes for these to occur.
+Many of the
+smaller-scale demonstration projects
+were not completed during the course of the evaluation, limiting the extent to which their results could be measured against expected outcomes. In addition, many of the technologies have not yet been replicated or commercialized to a large degree within Canada, thereby limiting the extent to which the magnitude of those CEF outcomes could be assessed. There is, however, initial evidence that progress is being made towards intermediate and final outcomes.
+The
+large-scale demonstration projects
+were only in their early construction phase during the evaluation and had yet to implement actions that could easily demonstrate the extent to which they had achieved results related to technology adoption and impacts. A wide range of internal and external factors have facilitated or hindered the achievement of the intended outcomes for each component. These were similar across components.
+Internally, the expertise and support of the Office of Energy Research and Development (OERD) staff helped ensure technical issues and accountability requirements were addressed effectively and thus ensured that program requirements did not impede project progress. As well, the use of existing OERD processes and governance helped ensure that projects were funded, monitored and successfully completed within the limited timeframe of the CEF program. However, several interviewees suggested that the program’s limited timeframe and various aspects of the contribution agreements, such as those related to project cash flow considerations, while not affecting results, may have impacted the efficiency and economy of the CEF program through impacts on project delivery.
+Externally, the engagement of stakeholders and partners facilitated the progress and success of projects. However, external factors that impeded the success of the program included inadequate access to the tools required to complete the projects, such as intellectual property and proprietary processes, regulations, codes and standards, human resources, and equipment, as well as the economic slowdown and adverse weather conditions. These factors have, in general, resulted in project delays and/or cost overruns for the project proponents.
+Demonstration of Efficiency and Economy
+The CEF activities within each component appear to be an economic and efficient means of making progress towards the intended outcomes. Aspects of the program that are particularly economic and efficient include its design and delivery (using OERD processes and governance structure) and the extent of leveraging. For the R&D component, interdepartmental cooperation was considered efficient as it gave project teams access to the facilities and equipment housed in federal laboratories other than their own, and according to a majority of internal interviewees, the collaboration with external partners met or exceeded their expectations. In addition, interviewees noted that during the evaluation period, there did not appear to be alternatives to the program. Demonstration proponents could not identify alternative delivery mechanisms for the types of activities delivered by the CEF Program. Most noted that there was no overlap or duplication of funding considering the scope of their clean energy projects. For some, this was because their type of organization was not eligible for the funding from the other mechanisms mentioned.
+The evaluation found that opportunities may exist to improve the efficient and economic functioning of clean energy S&T programs similar to the CEF. Examples of these potential areas for improvement include:
+a flat funding profile (resources allocated equally over each year) may not be the most optimal funding structure as new programs of this nature take some time to be designed and implemented and this may create the need to re-profile program funding;
+there were concerns that the terms and conditions of the contribution agreements created inefficiencies for proponents, particularly for small- and medium-sized enterprises (SMEs). For SMEs, it is often difficult to predict project expenditures accurately over several years and to be able to cash-manage large contributions as smaller firms may have difficulty spending large amounts on a project before a G&C payment is provided by NRCan. For example, the purchase of foreign-sourced equipment may exceed initial estimates if the Canadian dollar depreciates, causing particular difficulties for smaller firms;
+the effectiveness and efficiency of research, development and demonstration programs can be enhanced through opportunities for project proponents to exchange ideas and learn from the experience of others. Given the limited timeframe, however, there were few opportunities for exchange between demonstration project proponents.
+Generally, the key aspects of the CEF program that may have limited its efficiency and economy (as well as its effectiveness) relate to its limited timeframe.
+Recommendations and Management Response
+The CEF program was not intended to be re-funded upon completion, and it will not be continuing in its present format. However, the evaluation identified potential improvements based on the CEF experience that may be applied to future clean energy S&T programming. The recommendations presented here are therefore intended to help improve the design and delivery of any future Innovation and Energy Technology Sector (IETS) programming.
+Recommendations
+Management Response
+Responsible Official/Sector
+(Target Date)
+New programs of this nature take some time to be designed and implemented. It can therefore take more than one year before projects are approved. As such, a flat funding profile is not always optimal for new programs.
+Where possible,
+IETS should propose funding profiles that recognize the time required to set up new programs and thus address issues related to a flat funding profile.
+ACCEPTED.
+OERD has already implemented this approach for the new Oil Spill Response Science (OSRS) Program. The OSRS program design does not include vote 10 funding in year one, in order to allow for sufficient time to issue a call and review proposals received, as well as to deliver and achieve program activities and milestones.
+Responsible Official: ADM, IETS
+Target Date: Completed. This recommendation has already been implemented and incorporated into the program design for the OSRS program.
+It will also be taken into consideration in the design of any future program proposal for C-base funding.
+In programs of this nature, it is often difficult to predict project expenditures accurately over several years.
+IETS should work with CMSS, particularly the Centre of Excellence for Grants and Contributions, to take advantage of existing mechanisms and explore other flexibility mechanisms to address changes to project expenditures during the lifetime of the project, while reducing the administrative burden.
+ACCEPTED.
+OERD will work with the Centre of Excellence for Grants and Contributions to explore flexible mechanisms, for current and future C-base programming.
+It is important to note that some decisions related to financial flexibility are outside the direct control of OERD.
+Responsible Official: ADM, IETS
+Target Date: Spring 2015.
+An important aspect of research, development and demonstration programs is to provide opportunities for project proponents to exchange ideas and learn from the experience of others to maximize the performance of projects. In the case of the CEF program, there were limited opportunities to do so, recognizing the limited timeframe of the program. Nevertheless,
+IETS should consider a range of formal and informal mechanisms to ensure that opportunities for the sharing of lessons learned, best practices, networking and collaboration are provided as early and as frequently as feasible during the life of its programs
+.
+ACCEPTED.
+OERD has been improving and developing mechanisms to foster more collaboration between researchers, exchange of information on best practices, and dissemination of project results. For example, an internet tool to promote collaboration between funding applicants was designed for the ecoENERGY Innovation Initiative (ecoEII). In addition, ecoEII requires proponents to prepare and implement a dissemination plan for each project and requires that they report on these activities annually.
+OERD will continue to explore ways to improve collaboration, networking, sharing of lessons learned, best practices and dissemination of project results in any new program design.
+Responsible Official: ADM, IETS
+Target Date: This recommendation will be taken into consideration in the design of any future C-base program proposals.
+1.0 Introduction and Background
+1.1 Overview
+The following is an evaluation of Natural Resources Canada's (NRCan) Sub-program 2.2.3, Clean Energy Science and Technology (S&T) activities, funded under the Clean Energy Fund (CEF). The evaluation covers the period 2009-10 to 2012-13, and $281.5 million in NRCan expenditures over the four year period.
+Footnote
+4
+The evaluation’s objective was to assess the relevance and performance (effectiveness, efficiency and economy) of the CEF program and to make recommendations for consideration by NRCan program and senior management.
+1.2 Background
+1.2.1 Overview of the Clean Energy Fund Program
+The Clean Energy Fund was announced in Budget 2009, as part of Canada’s Economic Action Plan. The CEF Program’s main objective is to support the Government’s commitment in the November 2008 Speech from the Throne to make greater use of technologies that reduce greenhouse gas (GHG) emissions from energy production and thus contribute to the Government’s overall commitments of reducing Canada’s total GHG emissions by 20% from 2006 levels by 2020,
+Footnote
+5
+and that 90% of Canada’s electricity needs be provided by non-emitting sources by 2020. This commitment was later revised to a 17% reduction of GHG levels from 2005 levels in the Copenhagen Accord.
+In order to advance the development of new technologies for reducing emissions, the CEF was designed to build on and extend the R&D and pre-commercial demonstration aspects of the existing ecoENERGY Technology Initiative (ecoETI, 2003-2008) and the Program of Energy Research and Development (PERD). Akin to ecoETI, the CEF funded research and development (R&D) and demonstration projects that supported the development of new energy technologies that contribute to the reduction of GHGs and other air emissions associated with energy production, transmission, distribution and use, and create new opportunities as Canada transitions toward a greener global economy. PERD provides a foundational platform for additional short-term, focused C-base
+Footnote
+6
+technology development programs as well as generating new knowledge to support codes, standards and regulations.
+The Government of Canada provided funding to support a suite of clean energy options through the CEF. These options were intended to recognize the importance of the innovation process, from basic research and development (R&D), to pre-commercial demonstration. Accordingly, the CEF is divided into R&D and technology demonstration components. The demonstration component was further divided into smaller-scale (renewables) and large-scale (carbon capture and storage) demonstration components. The CEF R&D component funded a range of activities from basic research up to and including pre-demonstration pilot projects, in four priority areas:
+Footnote
+7
+Smart Grid, Renewable and Clean Energy - Renewable and non-emitting energy in three sub-priority areas: (i) smart grid and integration technologies; (ii) integrating renewable energy into buildings and communities; and (iii) bioenergy;
+Oil Sands - New technologies to address the environmental challenges facing oil sands;
+Hydrogen and Fuel Cells – Hydrogen and fuel cells for transportation and stationary applications; and,
+Carbon Capture and Storage – Technologies to lower CO
+2
+capture costs and increase knowledge on CO
+2
+storage.
+The first priority (Smart Grid, Renewable and Clean Energy) comprises three related technologies; for the purpose of this evaluation, the expanded list of six technology priority areas was used to collect and structure findings.
+Through the smaller-scale demonstration component, CEF recognizes the importance of renewable energy technologies in GHG reductions, whereas through the large-scale demonstration component, the Fund recognizes the critical role of carbon capture and storage (CCS) in GHG reductions for Canada.
+1.2.2 The PAA
+In NRCan’s Program Alignment Architecture (PAA), the Clean Energy Fund contributes to NRCan’s Strategic Outcome (SO) 2: Natural resource sectors and consumers are environmentally responsible; specifically the CEF contributes to Sub-Program 2.2.3: Clean Energy Science and Technology.
+Footnote
+8
+OERD has integrated management of the clean energy priority areas of the CEF into its existing programming and the Clean Energy S&T PAA programs/sub-programs under which PERD and C-base programs are managed. NRCan’s PAA can be found in Annex A.
+1.2.3 CEF Logic Model
+The logic model depicted in Figure 1 demonstrates the causal relationships between the CEF Program’s activities and the intended immediate, intermediate, and final outcomes.
+Figure 1: Clean Energy Fund (CEF) Logic Model
+Text version
+Figure 1: Clean Energy Fund (CEF) Logic Model
+Clean Energy Fund (C E F) Logic Model. This is a flow chart diagram with boxes showing the program logic from the bottom up. Activity level: Stream one research and development (R and D) also labelled the policy outcomes stream. Stream two technology demonstrations, also labelled the technology outcomes stream. Output level: R and D stream, output one, policy targeted knowledge products in the four priority areas. Output two, direct stakeholder engagement. Output level: technology demonstration stream, output one, knowledge products that advance fundamental understanding and/or technology performance in two (demo) and four (R and D) priority areas. Output two, direct stakeholder engagement. R and D contributes to both of the R and D stream outputs, and both of the technology demonstration outputs, as shown with red lines. At the output level, technology demonstrations contribute only to both of the technology development stream outputs, as shown by dashed blue lines. Activities contribute to outputs in each respective stream as shown by black lines connecting the levels. Immediate outcomes level: R and D stream, immediate outcome, informed policy advice, decision making and regulation development. Immediate outcome, technology demonstrations stream, immediate outcome one, performance of advanced technology established at bench and pilot scales. Immediate outcome two, informed codes and standards development. R and D contributes to the immediate outcome in the R and D stream, and both of the immediate outcomes in the technology demonstration stream, as shown by red lines. Technology demonstrations contribute to the immediate outcome in the R and D stream, and to immediate outcome two in the technology demonstration stream, as shown by dashed blue lines. Intermediate outcome level, R and D stream: intermediate outcome, new and revised policies and regulations. Intermediate outcome level, technology development stream, intermediate outcome one, performance of advanced technology established at demonstration scale (penultimate before commercial). Intermediate outcome two, market for technology. Intermediate outcome three, codes and standards infrastructure established. The R and D stream connects to the intermediate outcome level only through a black line from the immediate outcome level. The technology development stream connects to intermediate outcomes one and two in the technology demonstration stream, as shown by dashed blue lines. The intermediate outcomes box is connected by a black arrow from the immediate outcome level. Final outcome level: Reduced air emissions (air pollution and GHGs) for Canada. Black arrows connect from both streams. Program objective level: To support the development and demonstration of the new, cutting edge energy technologies that are essential for reducing greenhouse gas and other air emissions in energy production, transmission, distribution and use.
+1.2.4 Resources at the Program and Component Level
+Budget 2009 allocated $1 billion
+Footnote
+9
+to the CEF. The CEF initial allocations included $650 million toward large-scale CCS demonstration projects, $200 million for demonstrating other clean energy technologies, and $150 million for R&D (including program delivery and administration costs). The R&D projects were to have been delivered by one of three mechanisms: research outside the federal government (for profit and non-profit organizations); research in federal laboratories; and the Natural Sciences and Engineering Research Council of Canada (NSERC).
+In the 2010 Budget, CEF’s overall funding was reduced to $795 million to provide additional funds to the ecoENERGY Retrofit-Homes initiative. Commensurate with these changes in total funding were significant changes in the Program’s initial funding allocations and program delivery. The number of smaller-scale demonstration successful applicants was reduced from 28 to 19, and funding for this component was reduced from $200 million to $146 million. The large-scale CCS demonstration component was scaled back from $650 million to $610 million. The biggest change was in the R&D component where funding was reduced from $150 million to $24 million for federal laboratory research and the external R&D and NSERC mechanisms that had been proposed were not pursued. In the end the total spending on the federal R&D component was $27.8 million.
+Specific program expenditures over the course of the evaluation period are provided in Annex B.
+1.2.5 Program Structure and Governance
+The Department manages the CEF through its Office of Energy Research and Development (OERD). OERD has extensive expertise and experience in coordinating federal energy S&T networks. This expertise has been developed through managing activities and initiatives funded by mechanisms such as PERD, the Climate Change Technology and Innovation Initiative (CCTII), the ecoENERGY Technology Initiative, and the Technology Early Action Measures (TEAM) program. The existing S&T platform and accountability structure that was used as the basis for the CEF’s governance structure is sometimes referred to as the “PERD Platform” managed by OERD. It has also been employed to manage activities under the other funding mechanisms, with some modifications over time, or specific to the funding mechanisms.
+Footnote
+10
+The highest body in CEF project selection and oversight is the ADM Panel, as shown in the OERD governance structure (Figure 2).
+Footnote
+11
+The ADM Panel was formed to provide guidance and advice to NRCan on the management and governance of PERD Platform activities, including the CEF. This panel is comprised of departments and agencies with major capacities in energy R&D. It also advised the Deputy Minister (DM), NRCan, as to which demonstration projects should be approved, and approved projects with funding of $5 million or more.
+OERD, in consultation with the Portfolio Committees and Federal Expert Committees,
+Footnote
+12
+was responsible for defining the scope of requests for project proposals under the CEF. The committees were responsible for reviewing all proposals received and approving funding of less than $5 million for R&D projects. Projects of $5 million and above were approved by a sub-set of the interdepartmental ADM Panel on Energy S&T (representatives from NRCan, Environment Canada, Industry Canada and National Research Council).
+Figure 2: OERD Governance Structure
+Text version
+Figure 2: OERD Governance Structure
+Office of Energy Research and Development Governance Structure. This is an organization chart showing the decision making structure for project selection from the bottom up. The bottom box contains the text, External Advisory Committee for each Portfolio Committee. Dashed lines connect upwards to a group of boxes, which are interconnected with solid lines. These boxes are labelled: portfolio committee bitumen oil and gas. Portfolio committee clean transportation systems. Portfolio committee frontier oil and gas. Portfolio committee distributed power generation. Portfolio committee built environment. Portfolio committee clean coal and carbon capture and storage. Portfolio committee low emission industrial systems. Portfolio committee next generation nuclear (Gen four). Portfolio committee bio based energy systems. All boxes connect upwards to a box labelled Program of Energy Research and Development management Natural Resources Canada and Office of Energy Research and Development portfolio committee chairs. To the right side, connected with a line, DG committee on energy science and technology. Chaired by director general, Office of Energy Research and Development, Natural Resources Canada. Fifteen Science Based Departments and Agencies, plus the Treasury Board Secretariat and department of finance. On top, connected with a line, Assistant Deputy Minister panel on energy science and technology chaired by A D M energy sector Natural Resources Canada, seven S B D A. In footnote the seven science-based departments and agencies are: Agriculture and Agrifood Canada, Environment Canada, Fisheries and Oceans, Health Canada, Industry Canada, National Research Council, Natural Resources Canada (ADM Innovation and Energy Technology Sector, also representing Earth Sciences Sector, Minerals and Metals Sector, and Canadian Forest Service.)
+2.0 Evaluation Approach and Methodology
+2.1 Evaluation Scope and Objectives
+The evaluation covers the period from 2009-10 to 2012-13 and expenditures of approximately $281.5 million.
+Footnote
+13
+The objective of the evaluation is to examine the relevance and performance (effectiveness, efficiency and economy) of the activities funded by CEF, as per the Treasury Board
+Policy on Evaluation
+.
+The evaluation addresses the following evaluation issues and questions:
+Relevance
+Is there an ongoing need for each of the CEF components?
+Are the CEF components consistent with government priorities and NRCan strategic outcomes?
+Is there a legitimate, appropriate and necessary role for the federal government in the CEF area of activities for all components? Is NRCan's role appropriate in the context of the role of others?
+Performance (Effectiveness)
+Building on the existing work and accomplishments from other clean energy initiatives, to what extent have the CEF components achieved their outcomes?
+Have there been any unintended outcomes from each component (positive or negative)?
+Performance (Efficiency and Economy)
+What are the internal and external factors that have facilitated or hindered the achievement of the intended outcomes for each component?
+Are the CEF activities within each component the most economic and efficient means of making progress towards the intended outcomes?
+2.2 Evaluation Methods and Limitations
+The evaluation methodology was designed to ensure that multiple lines of evidence were used to address each issue and question. The following methodologies were included:
+Document and literature review:
+A review of the CEF's foundational documents was conducted. This information assisted in building a more comprehensive program description and analysis of the continued need for the program and its alignment with government roles and priorities. In addition, a targeted review of academic and international literature was conducted to provide an overall understanding of the context for the CEF, with a special focus on demonstrations.
+Project file review:
+The review of project files included a review of project proposals, project annual progress reports and final reports. The file review included a sample of 32 of the 56 funded federal R&D projects,
+Footnote
+14
+2 of the 4 Atlantic Energy Gateway (AEG) funded projects as well as all (17)
+Footnote
+15
+smaller-scale demonstration projects. The project file review helped address questions related to the program's relevance, its effectiveness and its efficiency and economy.
+Interviews:
+In-depth in-person or telephone interviews of one to two hours in length were completed with funding recipients, program management and representatives of the Government of Alberta. In total, 77 individuals were consulted during the interviews. Researchers for 26 federal R&D projects were interviewed as well as 2 individuals from AEG projects, 23 from the smaller-scale demonstration projects and 8 from the large-scale demonstration projects. In addition, a total of nine NRCan management representatives and three Alberta government representatives were consulted.
+Case studies:
+Given the unique nature, importance and materiality of the two large-scale demonstration projects, case studies were completed for each project. These case studies focused on relevance, design and delivery issues as the projects will take several years to come on stream. Data collection for the two case studies included a review of NRCan project files, a literature review related to the context for the projects, project-level interviews and interviews with senior NRCan and Alberta government representatives.
+2.3 Evaluation Limitations and Mitigation Strategies
+The evaluation methodology provided the evidence required to conclude on all issues and questions. However, there were some limitations associated with the evaluation. These are outlined in Table 1:
+Table 1: Evaluation Limitations and Mitigation Strategies
+Limitations
+Mitigation Strategies
+An in-depth international comparison of the CEF to programs available in other countries would likely have proved useful, but was outside the scope of this evaluation.
+International comparisons for CCS projects were integrated in the case study methodology but these comparisons were limited to that available through literature.
+The amount of documents and literature available for review was extensive but could not all be included within the limited scope of the evaluation.
+Within the scope of the evaluation, the review was limited to documents and literature that could contribute the most to the identified issues within the timeline covered by the evaluation (i.e. 2009-10 to 2012-13).
+There were no case studies completed for projects related to the federal R&D and smaller-scale demonstration components.
+The interviews completed were directly associated with the projects examined during the file review. Therefore while there were no formal case study write-ups, the evaluation team was able to develop an in-depth understanding of the projects included in the samples.
+3.0 Evaluation Findings
+3.1 Relevance
+3.1.1 Is there an ongoing need for each of the CEF components?
+Summary:
+Federal R&D Component
+Literature, program documentation, file review and interview findings show that clean energy related R&D needs are significant and ongoing in the priority areas that were addressed by the CEF. The specific R&D needs within each area are unique and may include: performance improvements; cost reductions; better data (e.g.; technology performance, resource potential); bench-scale proof of concept testing; systems integration; and field testing. Government of Canada R&D funding provides the ‘patient capital’ needed to reduce technology development risks inherent in the early stages of the innovation cycle and encourage private sector investment. Investment in federal R&D is also needed to maintain the government’s capacity (expertise, facilities, and equipment) to undertake the necessary research to inform Canadian codes, standards and policies, and to ensure Canada’s continued participation in the international innovation system.
+Smaller-Scale Demonstration Component
+Evaluation findings revealed that there was a need for CEF funding in support of demonstration projects as there is an ongoing need to address environmental concerns, given that economic challenges are always prominent for new supplies of clean energy. There is an ongoing need to fund innovation and clean energy demonstrations in Canada, which is currently being addressed through follow-on funding mechanisms managed by NRCan, such as the ecoENERGY Innovation Initiative, which ends in 2015-16.
+Large-Scale Demonstration Component
+There was a demonstrated need for a Government of Canada and NRCan presence in the two large-scale demonstration projects reviewed. No evidence was collected (against the indicators) which would show that the need would be anything other than ongoing in the near- to medium-term, given the early nature of CCS demonstrations.
+Analysis:
+Overall
+Creation of the CEF stemmed from the identification of several priorities and gaps stemming from the following studies and subsequent recommendations made in the two or three years prior to 2009. These studies were undertaken by:
+The National Advisory Panel on Sustainable Energy Science and Technology which was convened at the request of, and reported to NRCan;
+The Federal-Provincial-Territorial (FPT) Energy Technology Working Group (ETWG) which is convened under the auspices of the Energy and Mines Ministers’ Conference (EMMC);
+Footnote
+16
+The National Round Table on the Environment and the Economy (NRTEE), in an independent study; and
+The Canadian Academy of Engineering, in an independent study.
+The Fund was aligned with the role of carbon capture and storage (CCS) in GHG reductions for Canada, but also recognized that accompanying environmentally friendly technologies are required to meet the Government's latest commitment to a 17% reduction of GHG emissions by 2020 from 2005 levels.
+Federal R&D Component
+Program documentation indicates that the R&D component was designed to support basic and applied R&D, field tests and pilot-scale demonstrations needed to mitigate technology development risks and move select technologies along the innovation chain to where ‘real-world’ trials (demonstration projects) may be pursued by industry. A federal R&D panel identified the four priority R&D areas, comprising six technologies, and specific gaps within each that presented the greatest need and opportunity for federal R&D (from basic research up to and including pre-demonstration pilot projects). As identified through the file review of CEF R&D projects, the specific R&D needs within each of the CEF priority R&D areas are unique and may include: performance improvements; cost reductions; better data (e.g., technology performance, resource potential); bench-scale proof of concept testing; systems integration; and field testing.
+As described by several R&D interviewees, federal labs may possess the unique Canadian expertise and equipment needed to address data gaps, generate new knowledge through basic and applied R&D, and demonstrate technology performance through proof of concept studies and small-scale pilot testing. As an example, according to two interviewees NRCan’s Bells Corners Complex has the only integrated testing facility in Canada required to complete bench- and pilot-scale testing of high-pressure energy conversion systems (a part of the Carbon Capture and Storage research effort). Pilot-scale proof of concept testing will allow for the optimization of CCS systems prior to committing to high-cost, industrial-scale demonstrations facilities.
+Several R&D interviewees and CEF program managers commented that on-going investment in the federal laboratory system is needed to maintain the government’s capacity (staff expertise, facilities, equipment) to inform Canadian codes, standards and policies and support Canada's participation in international codes and standards organizations
+Program documentation showed that the R&D component was oversubscribed, indicating an interest in, and need for, energy R&D funding within the federal laboratory system. The Call for Proposals led to 114 submissions, totalling $80.5 million in requested funding (a ratio of requested funding to available funding of 3:1). A majority of interviewees noted that the CEF R&D component helped to extend C-base funding beyond the planned termination of ecoETI in 2008. Recent reductions in PERD program funding, combined with diminishing core funding for science and research (at NRCan and other government departments) makes special non-core programs such as CEF increasingly important and needed to maintain R&D capacity within the federal system.
+Smaller-Scale Demonstration Component
+The documents reviewed for the evaluation, and the interviews conducted confirm that there is an ongoing need for demonstration activities of the type conducted by the CEF. All smaller-scale demonstration interviewees agreed that there was an ongoing need for funding demonstration projects for environmental reasons (i.e.; to increase interest in renewable energy and thus contribute to Canada's GHG reduction objectives) as well as for economic reasons (to maximize on economic opportunities associated with the technology, to minimize the economic risks associated with new technology and/or to alleviate the economic disincentives associated with renewable energy). Additionally, interviewees noted the ongoing need to support innovation, to ensure that the work is done in Canada and to support demonstrations. These needs were also reflected in the literature and in the strategic government documents reviewed. Smaller-scale demonstration interviews agreed that the CEF program met these needs.
+Large-Scale Demonstration Component
+Interviews and documents reviewed for the case studies suggest that there was a need for both the Shell Quest and the Enhance Alberta Carbon Trunk Line projects in terms of filling a demonstration need, a need to raise public understanding of carbon capture and storage (CCS) and show that measurement, monitoring and verification (MMV) confirm the safety and effectiveness of this technology.
+According to the project proponents, the need for ongoing funds for further advancement of the projects or other CCS demonstrations should not be determined until:
+the projects have demonstrated that the integration of the three technologies (capture, transport and storage) is feasible and practical;
+it can be shown that CCS systems can be replicated for other major stationary emissions projects; and
+it can be shown that further financial support is necessary to encourage deployment of CCS.
+3.1.2 Are the CEF components consistent with government priorities and NRCan strategic outcomes?
+Summary:
+Federal R&D Component
+Program documentation, file review and interview findings show that the CEF R&D priority areas and projects were consistent with federal priorities and NRCan strategic outcomes. Program documentation demonstrates clear linkages between the CEF priority R&D areas and NRCan’s Strategic Priorities and relevant Portfolios. Furthermore, file review and interview findings illustrate clear linkages between funded project activities and expected outcomes.
+Smaller-Scale Demonstration Component
+Based on the analysis of project proposals, the smaller-scale demonstration projects were consistent with federal priorities and NRCan strategic outcomes.
+Smaller-scale demonstration interviewees generally indicated that they were not extremely familiar with the Government of Canada priorities. However, smaller-scale demonstration and CEF program interviewees noted that the program was aligned with objectives related to GHG reductions as well as economic prosperity, both of which were priorities when CEF was launched.
+Smaller-scale demonstration projects were conducted in the areas of smart grid, renewable and clean energy (former Integration of Renewable Energy Systems priority) and bioenergy.
+Large-Scale Demonstration Component
+The large-scale demonstration component is aligned to both Government of Canada and NRCan priorities and outcomes, as described through the linkages to emissions reduction goals and strategies in the document and literature review technical reports of this evaluation.
+Analysis:
+Overall
+During the evaluation period, there were three Government of Canada priorities: Strong Economic Growth, A Clean and Healthy Environment, and A Safe and Secure Canada. CEF was aligned with the first two. In terms of consistency with NRCan's strategic outcomes, CEF contributes to the NRCan Program Alignment Architecture (PAA) Strategic Outcome 2: Canada is a world leader on environmental responsibility in the development and use of natural resources.
+Federal R&D Component
+The CEF R&D component was designed and implemented within the existing PERD portfolio structure, therefore there are clear links between this component and NRCan strategic priorities and outcomes. Table 2 illustrates how the CEF R&D priority areas link to NRCan’s nine former OERD Energy S&T Portfolios and six Strategic Priority Areas.
+Table 2: Alignment of NRCan Strategic Priorities, Portfolios and CEF Priority Areas
+Strategic Priority
+Portfolios
+CEF Priority Areas
+New Portfolio Structure (2013)
+Footnote
+17
+1. Oil and Gas
+1.1 Bitumen, Oil and Gas
+Oil Sands
+(13 projects)
+Fossil Fuels
+1.2 Frontier Oil and Gas
+Ineligible for CEF
+2. Clean Transportation Energy
+2.1 Clean Transportation Systems
+Hydrogen and Fuel Cells
+(7 projects)
+End Use
+3. Clean Energy Systems for Buildings and Communities
+3.1 Built Environment
+Clean Energy – Integration in Buildings and Communities
+(13 projects)
+4. Clean Energy Systems for Industry
+4.1 Low Emission Industrial Systems
+Ineligible for CEF
+5. Clean Electric Power Generation
+5.1 Distributed Power Generation
+Clean Energy – Renewable Energy Technology
+(14 projects)
+Renewables and Clean Electricity
+5.2 Clean Coal and Carbon Capture and Storage
+CCS
+Fossil Fuels
+5.3 Next Generation Nuclear (Gen IV)
+Ineligible for CEF
+Renewables and Clean Electricity
+6. Sustainable Bio-energy
+6.1 Bio based Energy Systems
+Clean Energy – Bioenergy
+(4 projects)
+Renewables and Clean Electricity
+R&D interviewees commented that the R&D component addressed their departmental priorities related to the environment and GHG reductions that were in place when the CEF was launched in 2009. The CEF program management interviewees commented that since that time federal priorities have shifted and there is now a greater focus on economic, over environmental, drivers. However, to the extent that clean energy technologies support both environmental and economic priorities these interviewees agreed that the R&D component continues to be aligned with current priorities.
+Both AEG interviewees commented that CEF funding helped them to search outside their provincial boundaries for technologies that will support GHG emission reduction targets, and created a positive environment where clean energy technologies can be developed and advanced.
+Smaller-Scale Demonstration Component
+The smaller-scale demonstration component of the CEF funded a range of projects in one of NRCan's priority areas: Smart Grid, Renewable and Clean Energy (CE) - Renewable and non-emitting energy, including integration of renewable technologies in Canada’s electricity system and the built environment.
+Footnote
+18
+Within NRCan’s former Clean Energy Science and Technology Program Strategic Priority and Portfolio structure, the smaller-scale demonstration component funded 13 projects related to the “Integration Renewable Energy Systems” (IRES) priority, and 4 projects related to the Bio-based Energy Systems priority.
+Smaller-scale demonstration interviewees generally indicated that they were not extremely familiar with the Government of Canada priorities. However, many noted that the program was aligned with objectives related to GHG reductions as well as economic prosperity. Six interviewees noted that environmental concerns appear to have been more prominent in the early days of the program than today.
+Large-Scale Demonstration Component
+It is estimated that the two large-scale CEF projects, Enhance Energy’s Alberta Carbon Trunk Line (ACTL) and Shell’s Quest project, should be able to sequester approximately 2.2 megatons of CO
+2
+per year. Canada requires a reduction in annual emissions of 124 mega-tonnes of CO
+2
+equivalent by 2020 to meet the 17% reduction commitments made in Copenhagen.
+Footnote
+19
+Further, both projects are expected to create in excess of 20,000 person years
+Footnote
+20
+of employment over the next four years. In addition, ACTL will provide an important piece of CO
+2
+infrastructure.
+3.1.3 Is there a legitimate, appropriate and necessary role for the federal government in the CEF areas of activities for all components? Is NRCan's role appropriate in the context of the role of others?
+Summary:
+Federal R&D Component
+Interview and literature, document and file review findings show a legitimate, appropriate and necessary role for the federal government in the CEF R&D component. The federal government has a role to play ensuring that credible and current research information is available to guide federal, national, provincial and municipal organizations in their decision-making related to clean energy (e.g.; codes and standards, energy and environmental policies). Federally funded and performed R&D can also address barriers to commercialization (e.g.; technology costs, durability, and integration with existing energy systems). Interview findings show that CEF funding was directed at key knowledge or data gaps that would not otherwise have been addressed.
+With respect to NRCan’s role, interviewees (NRCan and other government departments - OGDs) reported that NRCan has the structure and knowledge (within OERD and NRCan laboratories) to deliver this component, as established through PERD and previous R&D programs. Program stakeholders view NRCan’s role as both necessary and appropriate in the context of the role of others.
+Smaller-Scale Demonstration Component
+Based on the project proposals, CEF funding was required for a range of reasons, for example, to maximize the potential for economic and market opportunities, to help speed up the implementation process, to help reduce the risk associated with innovation, and to help build awareness on the technology and/or to avoid having to reduce the size of the demonstration project. In addition, some proponents noted that they would be unable to implement their project without CEF. This indicates that there is a role for the federal government in the CEF area of activities for the smaller-scale demonstration component.
+Interview findings confirmed that there is a legitimate, appropriate and necessary role for the federal government in the CEF smaller-scale demonstration component. In particular, interviewees believed that there is a legitimate and necessary role for government to be involved both nationally and internationally in the development of clean energy technologies, because these technologies are of national importance, because these cross provincial or international boundaries through trade, and/or because these are in the public interest. In addition, there is a necessary role for the federal government in innovation. All interviewees believed that NRCan's funding, technical support and/or project management support roles were appropriate.
+Large-Scale Demonstration Component
+The federal role is legitimate, appropriate, and to a large degree necessary. NRCan’s involvement in the projects was to act as one of a set of key federal and provincial actors to help reduce the private investment risk, by acting in the role of funder and project administrative advisor. The inextricable linkage of these projects with predecessor NRCan projects funded under ecoETI appears to have been both relevant and useful – serving as a pre-screening process and ‘feeder’ to the acceptance of the major projects.
+As per the literature, international commitments require Canada to be represented at the national level, and necessitate federal involvement and leadership. This does not in itself imply that federal funding is necessary; however, it would have been difficult for the Government of Canada to perform its role without being involved as a project funder. As many of the federal greenhouse gas emission regulations have not yet been implemented under the sector-by-sector approach (for example in the oil and gas sector), interviewees commented that federal efforts have so far been largely complementary to those at the provincial level.
+Analysis:
+Federal R&D Component
+Interviewees noted that the federal government maintains a range of unique facilities and equipment at NRCan, NRC and OGD laboratories and related expertise that is not widely available in the private sector in Canada.
+R&D interviewees provided examples of how federal involvement can lend credibility to research findings used in other organizations (e.g.; provincial and municipal governments, industry organizations, individual businesses) and help ensure the necessary cooperation among other stakeholders (industry, utilities, research organizations, etc.). Four interviewees described how CEF projects support their on-going participation in national and international energy and environmental codes and standards bodies including: the Canadian Standards Association (CSA), Canadian Building Code Committees, the Carbon Sequestration Leadership Forum, the International Energy Agency (IEA) (e.g., the IEA Implementing Agreement on GHG R&D), and the International Organization for Standardization (ISO).
+R&D to reduce technology development risks is needed to address barriers to commercialization and encourage industry investment. Federal support for pre-competitive RD&D (up to and including demonstrations) can address gaps that industry is unable to (due to limited funding, expertise, equipment) and reduce technical, financial and commercial risks for key technologies / systems. CEF federal R&D focused on:
+Reducing technology costs and improving or demonstrating performance (e.g.; fuel cells, solar technologies); technology performance assessments and data are needed to demonstrate to industry how the technology can be used and what cost-performance and efficiency can be reasonably expected.
+Helping move technologies from the lab to prototype testing / proof of concept investigation; CEF R&D projects were at an early Technology Readiness Level (TRL) of 1 (Basic principles of a new concept are observed and reported) to 4 (Component validation in a laboratory environment). At these early stages, with no guaranteed return on investment (ROI), industry generally will not pursue these projects without assistance.
+Program documentation and interview findings show that NRCan’s participation in clean energy R&D has been well established through PERD and other programs. The department’s existing technical review and selection committees (which include representatives from all relevant OGDs) ensured that CEF projects aligned with ongoing energy R&D efforts, were selected in an open and transparent manner, and benefited from (leveraged) existing federal capacity (expertise and facilities). The vast majority of interviewees (across all departments) felt that NRCan’s role was appropriate and some viewed NRCan’s role as even more relevant now given recent funding reductions and changes in priorities and organization in other federal departments.
+The Atlantic Energy Gateway interviewees commented that there is a role for the federal government in clean energy development given national commitments to CO
+2
+reductions and the need for a national strategy in order to meet these commitments. Both interviewees noted the challenges of bringing together multiple provinces and utilities in one project, and the value of federal involvement in making these types of projects work.
+Smaller-Scale Demonstration Component
+All interviewees agreed that NRCan's role was appropriate. Interviewees noted NRCan's role as including funding, technical support and project management support (e.g.; financial reporting, etc.).
+CEF program managers and NRCan senior management interviewees indicated that the federal government has a role to play in de-risking innovation through demonstrations. Barriers to technology deployment can be any combination of technical, financial and regulatory. The risks associated with new concepts are fairly high and co-funding (Government of Canada and proponent funding) further facilitates and enables other sources of funding and investment and reduces the risk associated with innovation. They also indicated that the government's role in general is that industry needs assistance with the pre-commercialization development of technologies, and there is a gap that can be filled there.
+The information available in the project files did not provide any direct evidence pertaining to the "role" of the federal government and of NRCan with respect to the CEF program. However, the project proposals provided direct information on the need for federal funding. Further analysis shows that CEF funding was needed for one or several of the following reasons: to ensure economic or market opportunities are not lost; to help speed up the implementation process; to help reduce the risk associated with innovation; to help build awareness on the technology; to avoid having to reduce the size of the demonstration project; and/or because proponents would have been unable to implement projects without CEF.
+Large-Scale Demonstration Component
+The literature review indicated that international commitments necessitate federal involvement and leadership, which was provided by NRCan and the Minister of Natural Resources.
+Case study interviews and document reviews show that the CEF program is inextricably linked to other programs, notably the ecoETI program. NRCan projects funded under ecoETI appear to have been both relevant and useful serving as a pre-screening process and ‘feeder’ to the acceptance of the major projects.
+Interviewees commented that federal efforts have so far been largely complementary to those at the provincial level.
+3.2 Performance
+3.2.1 Building on the existing work and accomplishment from other clean energy initiatives, to what extent have the CEF components achieved their outcomes?
+Summary:
+Federal R&D Component
+Interview and file review findings showed evidence of early outcomes related to enhanced collaboration, use of project findings in on-going research by federal researchers and other stakeholders, and new knowledge to support codes, standards and policy development. The key outcomes to-date as identified by interviewees included:
+Stakeholder engagement and increased collaboration / capacity in S&T;
+Maintained federal research capacity or improved / maintained federal R&D facilities (labs, equipment) by providing a bridge between PERD and ecoEII with funding covering some areas or items not eligible for PERD funds;
+Change in technology readiness levels, moving technologies along the innovation spectrum (outcome from the foundational documents and implicit in the CEF logic model).
+Smaller-Scale Demonstration Component
+Interview and file review findings showed evidence of project outcomes related to the technology outcomes silo of the logic model as well as early policy outcomes. As some outcomes take time before they can be achieved, the outcomes that have occurred to date are those that were important to the implementation of particular projects (e.g.; development of codes and standards may have been required for the successful implementation of projects) or those outcomes evidenced at or near the end of projects (e.g.; technology performance established at bench, pilot and demonstration scales). Other outcomes are likely to be measurable in future years.
+Large-Scale Demonstration Component
+Both demonstration projects reviewed were still under construction, so only select immediate and intermediate outcomes have been realized. No final outcomes associated with GHG reduction benefits can as yet be reported. To date, extensive stakeholder engagement has occurred through regulatory and environmental hearings and mechanisms (such as websites and contractual commitments) that are in-place for knowledge transfer.
+Analysis:
+Federal R&D Component
+The file review showed that R&D projects built on recent activity within the federal laboratory system. Project final reports show that most of the research, data collection, and testing activities were completed on schedule. Seven departments participated in CEF R&D projects with over 90% of CEF funding allocated to either NRCan (65%) or NRC (26%).
+The nature of the 56 funded R&D projects’ activities varied widely, from market assessments and surveys of codes and standards (i.e.; paper based studies), to laboratory based science, and field trials. In all cases interviewees described how the CEF R&D project built upon previous research efforts. CEF funding to these projects ranged from $71,000 for the project ‘overview and assessment of the progress of standardization development for low impact renewable energy generation technologies and services in Canada’ led by Industry Canada with no other partners, to $1.53 million for the project ‘emerging low-cost capture processes and technologies at atmospheric pressure for conversion or storage of CO
+2
+project led by NRCan CanmetENERGY in Ottawa.
+Based on the file review and interview findings, the performance of the federal R&D component against the logic model is summarized in Figure 3. In addition, interviewees provided related comments on outputs, immediate and intermediate outcomes:
+In some cases data analysis, final reporting and preparation of journal articles (among other possible outputs) were not complete by the end of the program (March 2012) and at the time of this evaluation some researchers were still working to complete these tasks. In cases where internal organizational priorities have changed or been re-aligned, these follow-up activities may not take place. Interview findings show that of the 26 projects addressed by interviewees, 11 projects are no longer priorities within the participating department and the use of projects’ outputs, and influence on longer-term outcome areas, is in question.
+CEF funding and project outputs help to ensure continued participation by Canada in international codes and standards organizations (for example, the International Energy Agency (IEA) and the International Organization for Standardization (ISO)).
+Figure 3: Federal R&D Component Performance
+Text version
+Federal R and D Component Performance. This is a logic model type flow diagram showing the results chain from the bottom up. Activity level, federal R&D projects. An arrow connects to a box containing three points. Point one, 56 projects at 7 departments: Natural Resources Canada 56% of funding, National Research Council (26%), Environment Canada (6%), and less than one percent at Agriculture and Agri-food Canada, Department of Fisheries and Oceans, and Public Works and Government Services Canada. Point two, six research themes: Smart Grid and renewable energy (includes smart grid integration 14 projects, 12% of CEF funding, buildings and communities (13.26%) and bioenergy (4.13%), oil sands 13.6%, carbon capture and storage (6.22%), hydrogen and fuel cells 7.11%. Point three, no data available for Atlantic Energy Gateway projects. Output level, direct stakeholder engagement. An arrow connects to a box with three points. Point one, of the 32 projects reviewed 20 involved two or more departments, 28 involved external partners, 20 involved industry participation, 12 included university researchers (430 months of high quality personnel training). Point two, R&D projects led to new collaboration, Clean Energy Fund design prompted some researchers to involve industry in their work for the first time, several new interdepartmental research partnerships were established. Point three, of the 32 projects reviewed, 28 (88%), increased stakeholder knowledge. Output level, knowledge products, an arrow connects to a box with three points. Point one, based on final reports, the 56 projects resulted in 84 peer reviewed publications, 171 conference presentations, 86 technical reports, 58 client reports. Point two, of the 32 projects reviewed: 20 (63%) developed new or enhanced modelling capacity. Eleven (34%) resulted in a new or enhanced measurement techniques. 15 (53%) led to new or enhanced analytical tools. Point three, other outputs include models, performance monitoring data sets, resource data. Immediate outcomes level, performance of advanced technology established at bench and pilot scales. An arrow connects to a box on the right with three points. Point one, projects advanced clean energy technology across the innovation spectrum (some projects addressed more than one part of the spectrum). Point two, according to the R&D summary report, of the 56 projects, 19 included elements of basic research, 36 included applied research, 5 involved pilot testing, and 5 involved field testing. Point three, 2 patents have been issued. Intermediate outcomes level, informed codes and standards development, and in a separate box, informed policy advice, decision making and regulation development. An arrow points from each box to a single box on the right, with four points. Point one, 18 of the 56 projects developed knowledge that can be used to support codes, standards and regulations (R&D summary report). Point two, 11 codes have been developed or revised (R&D summary report). Point three, of the 32 projects reviewed, 3 led to new or revised codes and standards (related to solar and building energy, agroforestry energy systems, and Proton Exchange Membrane fuel cells). Point four, no examples of impacts on policy advice or regulations were identified during the file review or by interviewees; a majority of interviewees cited the short Clean Energy Fund time frame and need for further R&D and or opportunity to present findings as reasons for this. Intermediate outcomes level, new and revised policies and regulations. An arrow points to a box containing the text, too early to assess. Final outcome level, reduced air emissions (air pollution and GHGs) for Canada, an arrow points to a box on the right with two points. Point one, estimates of greenhouse gas reductions were not required in R&D projects. Point two, greenhouse gas reductions and environmental performance criteria informed the selection of the R&D priority areas.
+Smaller-Scale Demonstration Component
+Based on the file review and the interviews, the actual performance of the smaller-scale demonstration component against the program logic model can best be summarized as per Figure 4.
+Figure 4: Smaller Scale Demonstration Component Performance
+Text version
+This is a logic model type flow diagram showing the results chain from the bottom up. Activity level, technology demonstrations, 17 projects funded, one of those terminated. Output level, direct stakeholder engagement, excluding recipients, 69 domestic and 18 international partners involved in the 17 projects making cash, in-kind and technical contribution to the projects. Output level, knowledge products, 19 refereed publications, 127 non refereed publications, 26 client reports,130 presentations, 4131 visits to the projects sites, 10 publically available data sets. Immediate outcomes level, informed codes and standards development. An arrow points to a box with three points. Point one, in progress reports, 6 of 17 recipients reported statistics regarding codes, standards and regulations (combined). Point two, 7 of 17 interviewees reported that their project had not contributed to informing codes and standards development, one noted that it was too early, others noted work related to future codes and standards (for example, construction codes, thermal measurement of networks, etcetera).  Point three, actual achievements were reported by three. Worked through documentation to allow for interconnection (Canadian Standards Association), Internal codes developed. Internationally, electrical code was amended for electric vehicles as per the novelty of the technology. Immediate outcome level, performance of advanced technology established at bench and pilot scales. Only 2 projects involved this, both reported success in this regard. Immediate outcome level, informed advice, decision making and regulation development. An arrow points to a box on the right with two points. Point one, 5 out of 17 reported this had not happened, 4 out of 17 believed this was going to happen in the future. Point two, where this occurred, it has occurred at the municipal level, for example, Metro Vancouver region is moving forward with a policy to ban recyclable materials from landfills. Provincial level, for example helped to speed up and inform Feed in Tariff in Nova Scotia. Federal level, for example energy credits for waste heat similar to those for solar and wind energy. And international, for example, federal energy regulatory commission ruling. Intermediate outcome level, codes and standards infrastructure established, none reported. Intermediate outcome level market for technology, arrow points to a box with two points. Point one, discussions with potential adopters of the technology (9 projects), no agreements reported to date. Point two, projects have created enhanced market opportunities for the recipients’ companies, project suppliers and competitors wishing to enter the market. Intermediate outcome level, performance of advanced technology established at demonstration scale. 2 of 17 interviewees said their project was not about technology demonstration, 6 of 17 said it was too early because the project was not yet completed, all others (9 of 17) reported success in this regard. Intermediate outcome level, new and revised policies and regulations, none reported. Final outcome level, reduced air emissions (air pollution and greenhouse gases for Canada. Arrow points to a box on the right with 6 points. Point one, capacity installed (12 projects). Point two, energy generated by renewables (10 projects). Point three, peak demand reduced (4 projects). Point four, energy saved (4 projects). Point five, displaced volume of diesel (1 project).Point six, decreased nitrogen oxides (4 projects).
+Large-Scale Demonstration Component
+Both of the large-scale demonstration projects are still under construction, so only a few immediate and intermediate outcomes have been realized. No final outcomes associated with GHG reduction benefits can be reported until the projects are commissioned. However, extensive stakeholder engagement has occurred through regulatory and environmental hearings. Knowledge transfer and communication is also taking place through various mechanisms, such as the Government of Alberta's website containing significant amounts of information for both projects, and the contractual commitments to provide NRCan with data and information for five years after project commissioning.
+Because of its jurisdiction over the regulation and management of CCS, the Government of Alberta appears to have made good progress on the following outcomes:
+informed policy advice, decision making and regulation development (for example, the enactment of the Alberta Carbon Capture and Storage Statutes Amendment Act and the publication of the Government of Alberta`s CCS Summary Report of the Regulatory Framework Assessment);
+informed codes and standards development; and
+new and revised policies and regulations.
+3.2.2 Have there been any unintended (positive or negative) outcomes?
+Summary:
+Federal R&D Component
+No unexpected outcomes were reported. Some researchers reported that projects yielded better than expected R&D results, with possible application in other sectors, and resulted in greater collaboration than expected.
+Smaller-Scale Demonstration Component
+Nothing was reported by interviewees or in the file review that meets the definition of true unexpected outcomes. Interviewees were asked if there had been any unexpected outcomes or surprises, either positive or negative resulting from their project's funded activities. Three said there had not been any and the rest of responses were not related to "outcomes" but rather to unexpected events or surprises that affected the implementation of the projects.
+Large-Scale Demonstration Component
+No unintended outcomes were indicated. However, some aspects of the CEF performed better than expected, including OERD’s use of a performance guarantee, which was a first for the division.
+Analysis:
+Federal R&D Component
+One-half of the interviewees reported no unintended outcomes and the others provided examples of unexpected results or surprises (not unintended outcomes) that included better than expected R&D results and greater collaboration than originally expected. For example, the project to improve membranes for CO
+2
+capture led to a more cost-effective membrane design than modelled, and further analysis demonstrated that cement companies are a promising near-term end-user for the new membrane. Project managers for the two largest R&D projects noted that given the low starting technology readiness levels of contact steam technology, they did not anticipate the significant level of industry interest seen in these projects. Industry members (through Canada's Oil Sands Innovation Alliance, an initiative involving 13 members including major energy companies)
+Footnote
+21
+became involved very early in the technology.
+Smaller-Scale Demonstration Component
+Three interviewees noted that there had not been any unexpected outcomes and the rest of the responses were not related to "outcomes" but rather to unexpected events that affected the implementation of the projects.
+Economic outcomes were not included in the logic model. The progress reports, however, included information on jobs created as a result of the projects. While not "unintended," these were not reported in the previous section. In total nine recipients reported 341 construction jobs created (FTEs) and six recipients reported a total of 68.2 O&M jobs created (FTEs) over the course of project reporting.
+Large-Scale Demonstration Component
+According to NRCan staff, NRCan harmonized its terms and conditions with those of Alberta, for these projects. One of the results of this harmonization was that NRCan was able to experiment with the use of performance requirements and contingent funding agreements. This development may be seen as a potential demonstration of improved economy and efficiency.
+3.2.3 What are the internal and external factors that have facilitated or hindered the achievement of the intended outcomes for each component?
+Summary:
+Federal R&D Component
+Based on the frequency of mention in the file review and interviews, the evaluation team has judged the following factors as those that most affected the achievement of R&D component outcomes: (i) short project duration (16 - 18 months); (ii) level of internal and external collaboration; (iii) project staffing / HR; (iv) the flat funding profile and restrictions; (v) data sharing / intellectual property issues. Interviewees also identified the impact of commodity prices on new clean energy technology adoption and the challenges of introducing new technologies into conservative industry sectors (e.g.; oil and gas sector, utilities).
+Smaller-Scale Demonstration Component
+Most of the factors that have facilitated or hindered the achievement of the intended outcomes for the smaller-scale demonstration component are external to NRCan in nature. Positive factors included project management capacity and suppliers. Negative factors included suppliers and partners, regulatory issues, legal issues, market pressures, technical problems, the weather and other unique factors.
+Large-Scale Demonstration Component
+A wide range of internal and external factors have facilitated and hindered progress towards outcomes for the two large-scale demonstration projects. Internally to NRCan, the knowledgeable and capable staff and feasibility work funded under ecoETI were noted as facilitators whereas the "machinery of Government" was sometimes seen as a barrier from the private sector perspective, which sometimes viewed government processes as too complicated or lengthy. Externally, facilitators included the private sector drive to succeed and the Alberta government's experience in managing oil and gas issues. External impediments included the economic downturn, delays and commodity prices.
+Analysis:
+Federal R&D Component
+The factor mentioned most often, and the one with the most significant impact on project activities and outcomes, was the time available to complete the projects (18 months). This factor in turn exacerbated a number of other internal, project-related factors (e.g.; hiring and industry collaboration agreements). Table 3 summarizes the factors affecting R&D projects.
+Table 3: Factors that Facilitated and Impeded Project Progress
+Facilitated
+Impeded
+Internal Factors
+Level of collaboration within federal departments.
+The majority of the 32 projects reviewed included the participation of two or more departments (20 of 32 projects). Inter-departmental cooperation gave project teams broader access to the facilities and equipment housed in federal laboratories.
+Flat funding profile.
+Some interviewees commented on the challenges presented by the flat funding profile, which does not account for the time needed to hire new staff and purchase equipment.
+Short project duration
+. The R&D projects were 18 months long and in some cases this short time frame was insufficient for project teams to finalize the results analysis and/or complete research papers, journal articles, etc. As a result, the overall value and impact of the research in the intermediate and longer-term may be diminished.
+Project staffing.
+Interviewees noted staffing issues, identifying challenges with hiring the necessary short-term, skilled resources and allocating departmental staff time. The short time frame of the program exacerbated this issue. The time required responding to other program RFPs (e.g.; ecoEII) diverted R&D resources from R&D activities.
+External Factors
+Level of collaboration with external stakeholders.
+The majority of the 32 projects reviewed included the participation of non-federal stakeholders (27 of 32 projects). A majority of interviewees noted that the level of collaboration met or exceeded their expectations and was critical to the success of their projects. External stakeholders often contributed financially and in-kind to the projects, and their involvement helped project teams vet early project findings, identify which technical solutions would be most readily adapted by the industry, and provided a pathway to share results.
+Data sharing and IP issues.
+Several interviewees commented on the challenge of negotiating data sharing agreements with utilities and R&D cooperation agreements with industry. These challenges were overcome but took more time than expected, causing delays in the analysis and reporting tasks.
+Industry reluctance to adopt new technology (external, negative factor).
+While this factor may be more important at later stages of technology development, some interviewees noted that the conservative nature of the oil sands and utility sectors makes it difficult to secure cooperation on R&D projects (e.g.; funding, access to industry operations) and which hinders R&D in the short-term and technology adoption in the longer-term.
+Commodity prices
+. The below-expected cost of natural gas affects the current viability of some proposed, new clean energy technologies.
+Interviews with project researchers led to the identification of another factor that may affect the longer-term impact of the R&D projects. Of the 26 projects discussed with interviewees, 11 are in areas that are no longer priorities for the lead department. In some cases this is due to a change in technology focus (e.g.; fuel cell R&D is no longer a high priority for NRCan as this technology is rapidly approaching commercialization, and the Communications Research Council (CRC) is re-focussing its R&D on its core technology (spectrum management) and no longer participating in the communications research aspect of smart grid systems). The involvement of multiple departments and external stakeholders in most CEF R&D projects, along with journal articles and other publications, help ensure that R&D results will be integrated into ongoing research efforts in both the public and private sectors.
+AEG interviewees identified strong collaboration and a willingness on the part of project partners to learn as the key positive factor. Negative factors included: intellectual property issues (legal agreements, commercially sensitive data) which led to delays; on-going policy work within the province (which was a negative factor because the significant back and forth with utilities dissuaded their participation); and the economic downturn which led to a decline in utilities’ interest in renewable energy technologies and made stakeholders more cautious.
+Smaller-Scale Demonstration Component
+Based on the interviews and progress reports, a range of factors that facilitated and impeded the progress of the projects were identified by the evaluation. These are summarized in Table 4.
+Table 4: Factors that Facilitated and Impeded Project Progress
+Facilitated
+Impeded
+Internal Factors
+Reporting requirements (good for proponent discipline but viewed as onerous)
+NRCan internal processes (significant proponent resources are required to complete reporting and accountability requirements)
+Length of program (technology uptake is slow over the first few years and it therefore takes about 10 years to get to the mainstream uptake; with set-up and project selection, there were originally only 2 1/2 years to implement)
+Footnote
+22
+Difficult amendment process due to change in NRCan's Policy on Transfer Payments
+External Factors
+Economy (e.g.; the development of the market for wood granules was based on the 2008-2009 supply; with the crash of the forest industry, it had to transform itself which presents a good opportunity for the project's potential)
+Project management (e.g. ability of universities to do financial reporting because of pre-existing systems)
+Suppliers (e.g.; good supplier relationship, in-kind contributions)
+Economy (e.g.; financial problems for stakeholders by the time the project started)
+Regulations, codes, standards (e.g.; technologies issuing from other countries did not meet Canadian codes, regulations and standards, long process for Environmental Assessments)
+Legal issues (e.g.; legal agreements took time)
+Market pressures (e.g.; price of natural gas going down reduces commitment to alternative energy)
+Technical issues (e.g.; need to adapt design, parts that did not work as intended, software not working, etc.)
+Communication issues (most of these being with project partners)
+Weather issues (e.g.; flooding, extreme cold, etc.)
+Cash flow issues
+Lack of capacity (e.g.; expertise, equipment)
+Availability of parts (e.g.; parts not yet delivered, equipment lost, fire incident at the Japanese battery manufacturer)
+Engagement issues (e.g.; host was unresponsive and thus caused delays, original partners changed due to lack of commitment, difficulty bringing stakeholders together, difficulty working with diverse group of partners, etc.)
+The impacts of these issues mostly related to project delays and cost increases, rather than reductions in intended outcomes.
+Large-Scale Demonstration Component
+A range of factors that facilitated and impeded the progress of the two large-scale projects were identified by the evaluation. These are summarized in Table 5.
+Table 5: Factors that Facilitated and Impeded Project Progress
+Facilitated
+Impeded
+Internal Factors
+According to all interviewees, the professional staff of the OERD was a great asset on these complicated files, which was a major facilitating factor that created some unprecedented strengths in project management.
+The linking of the CCS project funding with ecoETI and the Government of Alberta, and the ability to re-profile funding in the first years of the program appears to have kept the projects reasonably on-track.
+“Machinery of Government” barriers were the major hindering factors, including:
+The need to access funding from separate sources (ecoETI and CEF created some problems for Enhance)
+Enhance and its project partner the North West Redwater Partnership (refining and upgrading of bitumen) were not allowed to be co-signatories, a decision that caused the last minute changes to CEF agreement.
+According to interviews, the artificial nature of the federal government’s fiscal year and the requirement to have quarterly spending accurately predicted in advance for five years was a hindering factor.
+External Factors
+Private sector drive to succeed:
+Shell – the corporate commitment to sustainable development, compliance with anticipated low carbon fuel standards and the goal to develop a successful CCS project.
+Enhance –to capitalize on a strategic partnership with North West Upgrading, and an opportunity to become a CCS "infrastructure" provider with good market opportunities
+Alberta is as a jurisdiction that is experienced in managing oil and gas issues, which it adapted for CCS. It has also enacted the enabling legislation for CCS projects: Bill 24 – Carbon Capture and Storage Statutes Amendment Act, 2010
+The economic downturn in and around 2008 had the consequence of increasing the conservatism of venture capital and investment to fund the projects.
+Proponents noted that delays due to environmental permitting exacerbated the quarterly funding pressures and other ‘machinery of government' issues at both the federal and provincial levels.
+Commodity prices and compliance costs (crude oil, natural gas and carbon) may facilitate or hinder these projects, depending on the level and direction of those prices or compliance options.
+3.2.4 Are the CEF activities within each component the most economic and efficient means of making progress towards the intended outcomes?
+Summary:
+Federal R&D Component
+Interviewees were satisfied with the approaches used to review, select and manage CEF R&D projects, and found them to be efficient and effective. To the extent that the CEF components used the existing PERD delivery platform and governance structure, it appears that program management was economic and efficient. No alternative management approaches or opportunities for improving CEF management were identified.
+Interviewees provided a number of suggestions that could be used to improve future clean energy C-base programs. These included: (i) the development of strategic technology development plans to provide greater coordination at the program design phase; (ii) better communication / collaboration among program projects; (iii) dedicated funding for the preparation and distribution of targeted, stakeholder-specific material for communicating research results to various audiences including the research community.
+While not a requirement for R&D projects, the average leverage ratio for all 32 projects was 1:1 when all sources of funding (including federal A-base) are included. Excluding federal sources of funding, the leverage ratio is 1:0.4 (i.e.; for every dollar of CEF funding invested in R&D projects external partners contributed $0.40 (in-kind and financial resources).
+Smaller-Scale Demonstration Component
+The smaller-scale demonstration component was effective in leveraging funds from other sources. In fact, for every CEF dollar funded an additional $2.10 was levered from other sources of funding.
+No alternative delivery methods were identified by interviewees. Other sources of funding were identified as complementary, rather than alternatives. Recipients were generally pleased with the program and believed that it was well designed and delivered. The recipients' suggestions for improvements revolved predominantly around financial reporting requirements. A few also mentioned the need for improved opportunities for exchanges of knowledge as well as the need to streamline the environmental assessment requirements.
+Large-Scale Demonstration Component
+The two projects used $150M (combined) of CEF funding and arguably influenced $1,240M of Alberta Provincial funding in the two demonstration projects.
+Going forward, it would be useful to consider a joint or parallel application process with interested provinces for major CCS projects. Moreover, the funding profile would need to be examined to be aligned with the project needs.
+Analysis:
+Federal R&D Component
+Program Design and Delivery
+Interview and document review findings show that:
+R&D project selection and management used the existing PERD governance structure in order to achieve greatest efficiency and economy (lowest cost approach to delivering the CEF R&D component).
+NRCan provided program leadership and the use of PERD technical committees provided the coordination needed to ensure synergy with other government departments.
+Performance information provided in the two annual reports was used to help define requirements and determine the focus of follow-on programs, primarily ecoEII.
+Projects were funded and managed under the terms of memoranda of understanding (MOUs) between NRCan-OERD and participating departments. The MOUs outlined roles and responsibilities, funding arrangements and reporting requirements and were similar across all departments. R&D and AEG project-level interviewees were generally satisfied with the design, delivery and reporting requirements of the CEF Program.
+Program Leverage
+Table 6 shows the sources of funding for the 32 sampled CEF R&D projects. At the project-level, leverage ratios ranged from 1:0 to 1:3.4. The average leverage ratio for all 32 projects was 1:1 when all sources of funding (including departmental A-base) are included and 1:0.4 when only external (non-federal in-kind and financial) resources are included.
+Table 6: Sources of Funding for 32 Selected R&D Projects ($ million)
+CEF
+Additional Federal Contributions
+External In-kind Contributions
+External $ Contributions
+Total
+$
+$16.3
+$10.0
+($8.3 A-base, $1.7 ecoETI and ecoEII A)
+$4.4
+$2.6
+$33.3
+$7.0
+$17.0
+%
+49%
+30%
+12%
+8%
+Alternatives
+Project-level, CEF program managers, and NRCan management interviewees did not identify any program alternatives to CEF during the evaluation period. According to CEF program managers, an R&D panel and number of studies were used to identify the CEF R&D priorities and ensure that the Program would complement existing (and planned) R&D investments (e.g.; PERD, ecoETI, ecoEII).
+Suggested Improvements
+Interviewees provided several suggestions for improving future R&D programs:
+To improve the cost-effectiveness and efficiency of R&D investments, longer-term programs are needed to support federal R&D. Longer-term funding is needed to support collaboration with industry, universities, provincial research organizations and other countries (i.e.; it is difficult to enter into collaborative R&D projects with only two-year funding).
+The flat funding profile presented challenges for project managers to achieve project completion given the short timelines.
+Several researchers commented that more regular meetings among researchers, including end-of-project meetings, would help with technology transfer within project teams and more broadly within the R&D community. Those interviewees that had attended the CEF workshop in 2012 appreciated the opportunity to meet other researchers and share findings. They suggested that dedicated resources (time and funding) should be made available to ensure that technical results are presented in such a way to meet the needs of key federal audiences (research and policy) and for the preparation of stakeholder-specific material to disseminate research results to various external audiences.
+Several interviewees proposed that detailed technology development plans (with cost and performance targets) could be developed to form the framework for future clean energy programs and the selection of R&D projects. These interviewees felt that PERD, ecoEII and CEF have a (primarily) bottom-up approach, wherein researchers respond to broadly defined programs with project proposals to address their department- or lab-specific research needs. An overall top-down technology development strategy, it was suggested, would make it easier to assess the relative value of projects against each other and each individual project’s (or program’s) contribution to technology-specific performance, cost, and market development targets.
+Smaller-Scale Demonstration Component
+Program Design and Delivery
+The majority of responses highlighted in Table 7, both positive and negative, related to financial processes, reporting requirements and staff.
+Table 7: Assessment of Program Design and Delivery Features
+Nature of Response
+Positive Assessment
+Negative Assessment
+Financial
+Financial support
+Flexibility of NRCan
+Co-funding works extremely well (i.e.; not 100% government funding assistance)
+Cash flow
+Need more flexibility regarding estimates provided in proposals and in the way recipients allocate expenses
+Burdensome administration, finance and accounting requirements
+Cumbersome audit
+Need to allow for contingencies
+Need to synchronize reporting to improve efficiencies
+Need better coaching on financial reporting
+Reporting requirements
+Quarterly reports good/not too onerous
+Annual reviews with amendments based on progress were beneficial.
+No guidelines for reporting at first
+Need to synchronize reporting to improve efficiencies
+Changes in reporting formats from year to year
+Staff
+Understanding of the technology
+Provision of advice
+Flexibility
+Easy to work with
+Stretched thin
+High turnover
+Program Leverage
+The CEF-funded amounts compared to other sources of funding on the projects are presented in Table 8. The table shows that, based on the total project value and the CEF-funded amounts (including top-ups and other amendments), CEF provided 32.5% of the total funding to all small demonstration projects. In terms of leveraging, this means that for every $1 of CEF funding for smaller demonstration projects, an additional $2.10 was invested in the projects by others. Excluding other government sources of funding, the ratio is reduced to 1:1.9 (or $1.90 invested by other non-governmental sources for every $1 of CEF funding.
+Table 8: Sources of Funding for Smaller Demonstration Projects ($ million)
+Footnote
+23
+CEF
+Other Government
+Private Sector
+Other
+Total
+$M
+$116.4
+$23.3
+$208.7
+$13.2
+$361.6
+$245.3
+$23.3
+$222.0
+%
+32.5%
+6.4%
+57.7%
+3.7%
+100.0%
+Alternatives/Overlap/Duplication
+Smaller-scale demonstration interviewees could not identify any alternative delivery mechanisms for the CEF program. When asked if there was any overlap or duplication between the CEF program activities and other organizations, most (14/17) noted that there was no overlap or duplication. For some, this was because their type of organization was not eligible for funding from the other mechanisms mentioned. Rather, they noted that there were complementary funding mechanisms and programs but that this complementarity was essential. Complementary programs noted include:
+Sustainable Development Technology Canada (SDTC)
+Smart Grid Fund
+British Columbia's Innovative Clean Energy (ICE) Fund
+National Research Council-Industrial Research Assistance Program
+Saskatchewan's Go Green Fund
+Alberta's Climate Change and Emissions Management Corporation (CCEMC)
+Natural Science and Engineering Research Council (NSERC)
+Networks of Centres of Excellence (NCEs)
+Suggested Improvements
+The smaller-scale demonstration recipients' suggestions for improvements revolved predominantly around financial reporting requirements (similar to the concerns they expressed about the program). Specifically, some suggestions for improvements were as follows:
+Improvements to financial reporting and payment process (too cumbersome, needs to be streamlined, needs to be in line with private sector financial reporting, etc.);
+Provide opportunities for exchanges of knowledge (2 respondents);
+Streamline the environmental assessment requirements (2 respondents);
+More staff;
+Be more flexible;
+Streamline the proposal requirements.
+Other interviewees did not know or indicated that they had no suggestions for improvements.
+Large-Scale Demonstration Component
+The CEF provided $150M to the two projects, Alberta provided a further $1,240M. Contribution analysis suggests that the impact of the CEF funding was to allow the company to make a firmer (and likely more timely) commitment in the Shell case and, in the Enhance case, it likely encouraged a wider platform of shared infrastructure.
+In terms of alternative ways to deliver the program, interviewees mentioned that it might be possible to delegate or to greater integrate processes with Alberta for projects in that province. The Alberta Government interviewees suggested that one application process could be possible going forward.
+Program management interviews suggested that the funding profile did not fit the project expenditure cycle for the projects reviewed in these cases. The suggestion is that a front-end feasibility study would then lead into a funding profile that would be flexible enough to reflect and support the key stages of the projects in lieu of a flat funding profile approach.
+As evidence of mechanisms in place to ensure the program's economy, in the case of Shell, the full amount of the federal CEF contribution is repayable if the Quest project is not operational by December 2017. Enhance, being a smaller industry player with more limited financial resources, does not have this condition in its agreement.
+4.0 Conclusions and Recommendations
+There is an ongoing need for clean energy science and technology activities in the priority areas that were addressed by each of the CEF components.
+For R&D
+, there remains a need to reduce technology development risks to encourage private sector investment. Also, federal departments have to maintain capacity (expertise, facilities, equipment) to inform the codes, standards regulations and policy-making (i.e.; the infrastructure needed to support the development and adoption of new energy technologies and systems).
+For demonstrations
+, there is an ongoing need to develop and demonstrate new technologies to ensure that Canada’s GHG commitments are met as well as to extend / replicate these technologies within the energy sector and other industries as appropriate.
+The CEF program and its components are consistent with government priorities, in particular those related to Canada’s economic growth and prosperity as well as to a healthy environment. Additionally, through some smaller scale demonstration projects, the program is consistent with broader federal Aboriginal and northern priority areas.
+Within NRCan, by supporting R&D and demonstrations associated with clean technologies, the CEF is consistent with Strategic Outcome 2: Natural resource sectors and consumers are environmentally responsible, and helps NRCan to fulfil its mandate.
+There is a legitimate, appropriate and necessary role for the federal government in the CEF areas of activities for all components.
+In the case of R&D, the federal government has a role to play to ensure that credible and current research information is available to guide federal, national, provincial and municipal organizations in their decision-making related to clean energy.
+In the case of demonstrations, the federal government has a role to play in ensuring that funding is available to ensure technologies progress towards commercialization as well as to provide technical support available throughout federal labs.
+NRCan’s role is appropriate in the context of the role of others.
+In the case of R&D, NRCan has the structure and knowledge as a result of PERD programming to deliver this component of the CEF.
+In the case of demonstrations, NRCan can not only provide funding but it can also provide much needed technical support, in particular to smaller organizations. In addition, NRCan has an important (future) role to play in ensuring project results are shared.
+The program theory of change, as depicted in the logic model, demonstrates a logical sequence of progress. However, program level activities, outputs and early outcomes are not reflected in the logic model. As such, part of the performance story is lost. The logic model would be improved by including the program-specific activities and outputs (e.g.; requests for proposals, approvals, funding, etc.) and ensuring all results not within the sphere of direct control of NRCan are outcomes (e.g.; engagement and knowledge products). Finally, levels of outcomes could be established as:
+Immediate: results that occur during or at the end of projects;
+Intermediate: results that occur after projects have been completed;
+Final: results that are aligned with the program's objectives.
+Notwithstanding concerns with the logic model, there is evidence that the program has been successful in achieving some of its early outcomes. However, it is too early to demonstrate success regarding intermediate and longer-term outcomes. This is true for all components, but for different reasons:
+It is too early to provide a clear assessment of how the results of R&D projects have affected policy outcomes. In addition, the results of the R&D projects could not inform the CEF program technology outcomes because their completion occurred after the demonstration projects had been selected; they could however inform technology outcomes of future programs involving demonstrations.
+It is too early for the results of all of the smaller scale demonstration projects to be measured, because many of the projects are not yet completed. In addition, many of the technologies have not yet been replicated or commercialized to a large degree, thereby limiting the actual magnitude of those outcomes that have been achieved.
+It is too early for the large scale demonstration projects to have achieved results related to technology adoption and impacts because they are only in their early construction phase. As such, it is also too early to predict future outcomes and impacts.
+There are a wide range of internal and external factors that have facilitated or hindered the achievement of the intended outcomes for each component. These are similar across components.
+Internally, the expertise and support of CEF staff helped ensure technical issues and accountability requirements are addressed effectively and thus ensure that program accountability requirements do not impede proponent project progress. In addition, use of existing OERD process and governance have helped ensure that projects are funded, monitored and successfully completed within the limited timeframe of the CEF program.
+Externally, the engagement of stakeholders and partners has facilitated projects’ progress and success.
+Internal factors that have impeded the success of the CEF program pertain to the program’s limited timeframe and various aspects of the contribution agreements such as those related to project cash flow.
+External factors that have impeded the success of the program are multi-faceted and outside the sphere of control of the program, such as the economy and weather conditions as well as factors related to access to the tools required to complete the projects such as intellectual property and protected processes, regulations, codes and standards, human resources and equipment. These factors have, in general, resulted in project delays and/or cost overruns. With a longer program timeframe, many of these factors could have been resolved with less effect on the program’s achievement of outcomes.
+The CEF activities within each component appear to be the most economic and efficient means of making progress towards the intended outcomes. Aspects of the program that are particularly economic and efficient include its design and delivery (using OERD processes and governance structure), extent of leveraging, funding that is incremental to the ability of projects to proceed or to their scope. In addition, there do not appear to be alternatives to the program. There are also limited opportunities for improving the program to make it more efficient and economic. The key aspects of the CEF program that may have limited its efficiency and economy (as well as its effectiveness) relate to its limited timeframe.
+Recommendations
+New programs of this nature take some time to be designed and implemented. It can therefore take more than one year before projects are approved. As such, a flat funding profile is not always optimal for new programs.
+Where possible,
+IETS should propose funding profiles that recognize the time required to set up new programs and thus address issues related to a flat funding profile.
+In programs of this nature, it is often difficult to predict project expenditures accurately over several years.
+IETS should work with CMSS, particularly the Centre of Excellence for Grants and Contributions, to take advantage of existing mechanisms and explore other flexibility mechanisms to address changes to project expenditures during the lifetime of the project, while reducing the administrative burden.
+An important aspect of research, development and demonstration programs is to provide opportunities for project proponents to exchange ideas and learn from the experience of others to maximize the performance of projects. In the case of the CEF program, there were limited opportunities to do so, recognizing the limited timeframe of the program. Nevertheless,
+IETS should consider a range of formal and informal mechanisms to ensure that opportunities for the sharing of lessons learned, best practices, networking and collaboration are provided as early and as frequently as feasible during the life of its programs
+.
+Annex A: Natural Resources Canada’s Program Alignment Architecture 2013-2014
+Text version
+Annex A shows where "Clean Energy Science and Technology" is located in the Program Alignment Architecture
+Natural Resources Canada 2013-14 Program Alignment Architecture
+Canada's Natural Resource Sectors are Globally Competitive
+1.1. Market Access and Diversification
+1.1.1 Mineral and Metal Markets Access and Development
+1.1.2 Forest Products Market Access and Development
+1.1.3 Energy Market Regulation and Information
+1.2 Innovation for New Products and Processes
+1.2.1 Mining Innovation
+1.2.2 Forest Sector Innovation
+1.2.3 Geomatics Innovation
+1.3 Investment in Natural Resource Sectors
+1.3.1 Mineral Investment
+1.3.2 Forest-based Community Partnerships
+1.3.3 Targeted Geoscience Initiative 4 (TGI4)
+1.3.4 Geo-mapping for Energy and Minerals
+1.3.5 New Energy Supply
+1.3.6 Major Projects Management Office Initiative
+1.4 Statutory Programs – Atlantic Offshore
+Natural Resource Sectors and Consumers are Environmentally Responsible
+2.1 Energy-efficient Practices & Lower-carbon Energy Sources
+2.1.1 Renewable Energy Deployment
+2.1.2 Support for Clean Energy Decision-making
+2.1.3 Alternative Transportation Fuels
+2.1.4 Energy Efficiency
+2.2 Technology Innovation
+2.2.1 Materials for Energy
+2.2.2 Green Mining
+2.2.3 Clean Energy Science and Technology
+2.3 Responsible Natural Resource Management
+2.3.1 Forest Ecosystem Science and Application
+2.3.2 Groundwater Geoscience
+2.3.3 Environmental Studies and Assessments
+2.3.4 Radioactive Waste Management
+2.3.5 Earth Observations for Responsible Development of Natural Resources
+Canadians have Information to Manage their Lands and Natural Resources, and are Protected from Related Risks
+3.1 Protection for Canadians and Natural Resources
+3.1.1 Explosives Safety and Security
+3.1.2 Materials and Certification for Safety and Security
+3.1.3 Forest Disturbances Science and Application
+3.1.4 Climate Change Adaptation
+3.1.5 Geohazards and Public Safety
+3.2 Landmass Information
+3.2.1 Essential Geographic Information
+3.2.2 Canada’s Legal Boundaries
+3.2.3 Polar Continental Shelf Logistics Support
+4.1 Internal Services
+4.1.1 Governance and Management Support
+4.1.2 Resource Management Services
+4.1.3 Asset Management Services
+Annex B: CEF Program Resources
+Expenditures for the CEF (millions of dollars)
+Component
+2009-10
+2010-11
+2011-12
+2012-13
+Total
+Sal
+EBP
+O&M
+G&C
+Tot
+Sal
+EBP
+O&M
+G&C
+Tot
+Sal
+EBP
+O&M
+G&C
+Tot
+Sal
+EBP
+O&M
+G&C
+Tot
+Large-Scale Demos
+-
+-
+-
+24.0
+24.0
+-
+-
+-
+62.4
+62.4
+-
+-
+-
+53.7
+53.7
+-
+-
+-
+10.2
+10.2
+150.3
+Small-Scale Demos
+-
+-
+-
+6.0
+6.0
+-
+-
+-
+40.5
+40.5
+-
+-
+-
+35.3
+35.3
+17.3
+17.3
+99.1
+R&D
+-
+-
+-
+-
+-
+3.5
+0.7
+3.9
+0.3
+8.4
+9.7
+1.9
+6.2
+1.6
+19.4
+-
+-
+-
+-
+-
+27.8
+Office Budget
+-
+-
+-
+-
+-
+0.6
+0.1
+0.2
+-
+0.5
+1.3
+0.3
+0.5
+-
+2.0
+0.8
+0.2
+0.8
+-
+1.8
+4.3
+CEF Annual Total without corporate costs
+30.0
+111.8
+110.4
+29.3
+281.5
+Number of Full-Time Equivalents (FTEs)
+CEF Number of Full-Time Equivalents (FTE)
+2009-10
+2010-11
+2011-12
+2012-13
+30
+140
+140
+16
+Footnotes
+Footnote 1
+Expenditures excluding corporate costs.
+Return to footnote
+1
+referrer
+Footnote 2
+Canada’s Economic Action Plan: Budget 2009. Action to Support Business and Communities. January 2009. pg. 179
+Return to footnote
+2
+referrer
+Footnote 3
+This commitment was later revised to a 17% reduction of GHG levels from 2005 levels in the Copenhagen Accord.
+Return to footnote
+3
+referrer
+Footnote 4
+Excluding corporate costs.
+Return to footnote
+4
+referrer
+Footnote 5
+Canada’s Economic Action Plan: Budget 2009. Action to Support Business and Communities. January 2009. pg. 179
+Return to footnote
+5
+referrer
+Footnote 6
+C-base funding refers to special or time limited funding that is additional to ‘A-base’ core funding.
+Return to footnote
+6
+referrer
+Footnote 7
+CEF R&D in Federal Departments and Agencies Call for Proposals and Applicants’ Guide (OERD).
+Return to footnote
+7
+referrer
+Footnote 8
+Natural Resources Canada. Departmental Performance Report 2012-2013. pg.7
+Return to footnote
+8
+referrer
+Footnote 9
+Audit Branch, Natural Resources Canada. Audit of the Clean Energy Fund: Project AU1111. December 2010.pg.16
+Return to footnote
+9
+referrer
+Footnote 10
+The inclusion of the Deputy Minister NRCan in CEF governance for approving large contribution agreements is one example of a departure from the normal PERD platform, and as such the DM role is not shown in the OERD governance diagram.
+Return to footnote
+10
+referrer
+Footnote 11
+Energy S&T Program, Office of Energy Research and Development, Natural Resources Canada. Guide for the Preparation of Proposal and Planning Documents, March 2010, pg. 16
+Return to footnote
+11
+referrer
+Footnote 12
+NRCan and OERD nomenclature is often interchangeable. Though the naming of committees and organizational divisions has changed over the years, the term "Portfolio" is persistent and still in wide use.
+Return to footnote
+12
+referrer
+Footnote 13
+Corporate costs are excluded.
+Return to footnote
+13
+referrer
+Footnote 14
+The sampled projects included some from each of the six R&D technology areas (see Section 1.2.1), all departments involved in the program as well as all federal labs.
+Return to footnote
+14
+referrer
+Footnote 15
+Although 19 projects were approved, changes in the program resulted in only 17 smaller-scale projects proceeding to contribution agreements during the data collection phase of the evaluation.
+Return to footnote
+15
+referrer
+Footnote 16
+The EMMC provides a forum for energy ministers to discuss intergovernmental energy issues with a view to maximising collaboration and cooperation in areas of common concerns. The role of the ETWG is to identify priorities for energy technology development across Canada and to build public-private partnerships to accelerate the availability of new energy technologies.
+Return to footnote
+16
+referrer
+Footnote 17
+Information in this column was provided by OERD during the evaluation study.
+Return to footnote
+17
+referrer
+Footnote 18
+This definition from the CEF foundational documents includes the "BIO" area as renewable energy.
+Return to footnote
+18
+referrer
+Footnote 19
+According to Environment Canada, Canada’s emissions were 731 mega-tonnes (MT) in 2005, and the target is 607MT, a reduction of 124MT by 2020. Available at:
+http://www.ec.gc.ca/doc/publications/cc/COM1374/ec-com1374-en-es.htm
+July 2011
+Return to footnote
+19
+referrer
+Footnote 20
+Based on information provided by Shell and Enhance in their project proposals March and April 2009 respectively.
+Return to footnote
+20
+referrer
+Footnote 21
+COSIA, 2014. Canadian Oil Sands Innovation Alliance Members. Available at:
+http://www.cosia.ca/about-cosia/members
+. Accessed February 27, 2014.
+Return to footnote
+21
+referrer
+Footnote 22
+Proponents noted this as an impediment; however, with the program extension to October 2016, most proponents who need extensions have been granted them to March 31, 2015.
+Return to footnote
+22
+referrer
+Footnote 23
+Includes planned expenditures for the lifetime of the CEF, which are higher than expenditures during the evaluation period.
+Return to footnote
+23
+referrer
+Report a problem on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2016-04-11

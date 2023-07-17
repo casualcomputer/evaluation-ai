@@ -1,0 +1,621 @@
+JOINT AUDIT & EVALUATION - THE ELECTRIC VEHICLE & ALTERNATIVE FUEL INFRASTRUCTURE DEPLOYMENT INITIATIVE
+Presented to the Departmental Audit Committee (DAC)
+September 26, 2019
+Table of Contents
+Executive Summary
+Introduction
+Strengths
+Areas for Improvement
+Conclusion and Opinion
+Statement of Conformance
+Introduction
+Objective
+Considerations
+Scope
+Approach and Methodology
+Audit and Evaluation Criteria
+Findings and Recommendations
+Relevance of the Program
+Governance Structures & Processes
+Program Compliance
+Program Operations
+Effectiveness
+Design and Delivery of the Program
+Efficiency and Economy
+APPENDIX A –  Logic Model
+APPENDIX B – Engagement Criteria
+APPENDIX C – Glossary
+Executive Summary
+Introduction
+Natural Resources Canada’s (NRCan’s) Electric Vehicle and Alternative Fuel Infrastructure Deployment Initiative transfer payment program (EVAFIDI; the Program) is intended to provide organizational incentives to construct electric vehicle charging stations as well as natural gas and hydrogen refueling stations. This is done by minimizing the capital-intensive investment requirement through a conditional, repayable contribution program. The Program is managed by the Transportation and Alternative Fuels Division within the Energy Sector’s Office of Energy Efficiency and is a subset of the Pan-Canadian Framework on Clean Growth and Climate Change.
+As of 2016, nearly one quarter of Canada’s greenhouse gas (GHG) emissions resulted from the transportation sector, primarily driven by the use of carbon intensive fuels (i.e., gasoline and diesel). In the same year, the Canadian government signed the
+Paris Agreement,
+which involves a commitment to meet or exceed a targeted 30% reduction in GHG emissions by 2030, relative to 2005 levels.
+Lower emission transportation is both an essential component of longer-term decarbonisation of the economy as well as a shorter-term means for reducing GHG emissions.  Canadians have demonstrated an interest in both electric and alternative fuel vehicles for both private and commercial use; however, adoption of low-emission transportation options has been limited due to financial and non-financial barriers, including a lack of recharging/refuelling infrastructure for non-gasoline and non-diesel vehicles. Given that less than 1% of new vehicle sales in 2017 were low-emission vehicles, private investment in the required infrastructure is often impeded by high upfront costs and the uncertainty of demand for these vehicles.
+Given the completion of the EVAFIDI’s Phase 1 funding period and the significant investment for Phase 2, as well as the importance of clean technology investments by the Department, a joint audit and evaluation of the EVAFIDI was included in the 2018-2021 Risk-Based Audit Plan, approved by the Deputy Minister on April 12, 2018.
+Strengths
+The joint engagement team determined that the EVAFIDI is a relevant program and that it has achieved its key intended outcomes for Phase 1, and is progressing similarly for Phase 2. In addition, the Program has established appropriate governance structures and processes for oversight, and compliance is being monitored appropriately. Key financial and operational controls have also been designed, implemented, and operating effectively since Program inception. The design and delivery of the Program was also found to facilitate the achievement of its intended outcomes and outputs such as establishing contribution agreements to build electric vehicle (EV), natural gas (NG) and fuel cell vehicle (FCV) stations. Finally, the Program has demonstrated evidence of efficiency and economy in its operations.
+Areas for Improvement
+Although EV station usage data reporting requirements are contained in the contribution agreements, the Program has not formalized how data will be collected, monitored, analyzed, and disseminated. An opportunity exists, once data is available, for Program analysis of these statistics to identify opportunities to increase EV usage. This could also be useful to enhance Program outcomes for the second phase of the EVAFIDI, as well as for the new Zero-Emission Vehicle Infrastructure Program. External parties may also find the data useful to make decisions regarding their own EV station plans. Another opportunity exists for the Program to develop a strategy and formalize roles and responsibilities associated with monitoring contribution repayments, given the potential materiality of these amounts.
+Conclusion and Opinion
+In my opinion, the EVAFIDI is a relevant program that has achieved its key intended outcomes during Phase 1, and is progressing similarly for Phase 2 based on current results. Furthermore, the Program has established and implemented adequate and effective management processes and controls. The positive practices observed throughout the engagement may serve to inform the Zero-Emission Vehicle Infrastructure Program and similar future programs. Opportunities exist to formalize the collection and analysis of station usage data, as well as a monitoring and collection strategy for the repayment of contributions.
+Statement of Conformance
+In my professional judgement as Chief Audit and Evaluation Executive, the engagement conforms with the Institute of Internal Auditors' International Standards for the Professional Practice of Internal Auditing, the Government of Canada’s (GoC)
+Policy on Internal Audit
+, the
+Policy on Results
+, and the Directive on Results (the evaluation standard for GoC) as supported by the results of the Quality Assurance and Improvement Program.
+Christian Asselin, CPA, CA, CMA, CFE
+Chief Audit and Evaluation Executive
+September 26, 2019
+Acknowledgements
+The engagement team would like to thank those individuals who contributed to this project and particularly employees who provided insights and comments.
+Introduction
+As of 2016, nearly one quarter of Canada’s greenhouse gas (GHG) emissions resulted from the transportation sector, primarily driven by the use of carbon intensive fuels (i.e., gasoline and diesel). In the same year, the Canadian government signed the
+Paris Agreement
+, which involves a commitment to meet or exceed a targeted 30% reduction in GHG emissions by 2030, relative to 2005 levels. The graphic below summarizes GHG emissions by economic sector in Canada from 1990 to 2016; more specifically, it illustrates the growth observed in GHG emissions for the transportation sector.
+Text version
+Figure 1
+The Canadian greenhouse gas emissions for the oil and was sector were 106 megatons of carbon dioxide equivalent for the year 1990, 104 in 1991, 113 in 1992, 121 in 1993, 125 in 1994, 132 in 1995, 139 in 1996, 140 in 1997, 145 in 1998, 154 in 1999, 157 in 2000, 158 in 2001, 161 in 2002, 163 in 2003, 162 in 2004, 158 in 2005, 161 in 2006, 168 in 2007, 160 in 2008, 158 in 2009, 159 in 2010, 165 in 2011, 176 in 2012, 186 in 2013, 193 in 2014, 192 in 2015, 187 in 2016, and 195 in 2017.
+The Canadian greenhouse gas emissions for the transportation sector were 122 megatons of carbon dioxide equivalent in 1990, 116 in 1991, 117 in 1992, 118 in 1993, 122 in 1994, 123 in 1995, 127 in 1996, 132 in 1997, 139 in 1998, 144 in 1999, 146 in 2000, 148 in 2001, 149 in 2002, 154 in 2003, 159 in 2004, 162 in 2005, 163 in 2006, 167 in 2007, 167 in 2008, 164 in 2008, 170 in 2009, 170 in 2010, 172 in 2011, 175 in 2012, 173 in 2014, 174 in 2015 till 2017.
+The Canadian greenhouse gas emissions for the buildings sector were 74 megatons of carbon dioxide equivalent in 1990, 73 in 1991, 75 in 1992, 79 in 1993 and 1994, 80 in 1995, 86 in 1996, 83 in 1997, 76 in 1998, 79 in 1999, 86 in 2000, 82 in 2001, 87 in 2002, 92 in 2003, 90 in 2004, 86 in 2005, 81 in 2006, 87 in 2007, 86 in 2008, 85 in 2009, 82 in 2010, 87 in 2011, 86 in 2012 and 2013, 88 in 2014, 86 in 2015, 82 in 2016 and 85 in 2017.
+The Canadian greenhouse gas emissions for the electricity sector were 94 megatons of carbon dioxide equivalent in 1990, 96 in 1991, 102 in 1992, 93 in 1993, 95 in 1994, 98 in 1995 and 1996, 109 in 1997, 122 in 1998, 119 in 1999, 129 in 2000, 130 in 2001, 123 in 2002, 127 in 2003, 120 in 2004, 119 in 2005, 114 in 2006, 119 in 2007, 110 in 2008, 95 in 2009, 97 in 2010, 88 in 2011, 84 in 2012, 81 in 2013, 78 in 2014, 81 in 2015, 76 in 2016, and 74 in 2017.
+The Canadian greenhouse gas emissions for the heavy industry sector were 97 megatons of carbon dioxide equivalent in 1990 and 1991, 94 in 1992, 93 in 1993, 99 in 1994, 100 in 1995, 102 in 1996 and 1997, 96 in 1998, 94 in 1999, 93 in 2000, 87 in 2001, 89 in 2002, 88 in 2003, 92 in 2004, 87 in 2005, 86 in 2006 and 2007, 84 in 2008, 72 in 2009, 74 in 2010, 81 in 2011, 80 in 2012, 78 in 2013 and 2014, 77 in 2015, 76 in 2016, 73 in 2017.
+The Canadian greenhouse gas emissions for the agriculture sector were 57 megatonnes of carbon dioxide equivalent in 1990, 58 in 1991, 60 in 1992, 62 in 1993, 65 in 1994, 68 in 1995, 69 in 1996, 70 in 1997 and 1998, 69 in 1999, 70 in 2000, 68 in 2001, 67 in 2002, 70 in 2003, 72 in 2004 and 2005, 70 in 2006, 71 in 2007, 70 in 2008, 68 in 2009 till 2011, 70 in 2012, 72 in 2013, 71 in 2014 and 2015, and 72 in both 2016 and 2017.
+The Canadian greenhouse gas emissions for the waste and others sector were 52 megatonnes of carbon dioxide equivalent in 1990, 50 in 1991, 49 in 1992, 47 in 1993, 49 in 1994, 51 in 1995 till 1997, 47 in 1998 and 1999, 49 in 2000, 47 in 2001 till 2003, 49 in 2004, 47 in 2005, 46 in 2006, 47 in 2007, 45 in 2008, 41 in 2009, 43 in 2010, 44 in 2011, 42 in 2012, 43 in 2013, 42 in 2014 and 2015, 41 in 2016, and 42 in 2017.
+Lower carbon transportation is an essential component of the Pan-Canadian Framework on Clean Growth and Climate Change, to achieve longer-term decarbonisation of the economy, as well as a shorter-term means for reducing GHG emissions. In turn, Canadians have demonstrated an interest in both electric and alternative fuel vehicles for both private and commercial use; however, adoption of low-emission transportation options has been limited due to financial and non-financial barriers, including a lack of recharging/refuelling infrastructure for alternative fuel vehicles. Given that less than 1% of new motor vehicle sales in 2017 were low-emission vehicles, private investment in the required infrastructure is impeded by high upfront costs and the uncertainty of demand for these vehicles.
+Natural Resources Canada’s (NRCan’s) Electric Vehicle and Alternative Fuel Infrastructure Deployment Initiative (EVAFIDI; the Program) transfer payment program is intended to provide organizational incentives to construct electric vehicle charging stations as well as natural gas and hydrogen refueling stations. This is done by minimizing the capital-intensive investment requirement through a conditional, repayable contribution program. The EVAFIDI is intended to address commitments made in the NRCan Minister Mandate letter to support the Minister of Transport on next steps to put more low-emission vehicles, including electric vehicles, on the roads in Canada. The Program is managed by the Transportation and Alternative Fuels Division within the Energy Sector’s Office of Energy Efficiency and is a subset of the Pan-Canadian Framework on Clean Growth and Climate Change.
+The Program has had two phases to date, with Phase 1 having received $16.4 million (M) through Budget 2016 ($4.2M in fiscal year (FY) 2016/2017 and $12.2M in FY 2017/2018) to support the initial infrastructure deployment. A further $80M over four years ($15.4M in FY 2018/2019, $16M in FY 2019/2020, $23.3M in FY 2020/2021 and $25.3M in FY 2021/2022) was provided through Budget 2017 to support Phase 2 of the deployment initiative. Notional targets for Phase 1 and 2 are to build 1,000 EV fast-charging stations, 22 natural gas (NG) stations, and 15 fuel cell vehicle (FCV) stations.
+The Office of Energy Efficiency has established a logic model, as part of the Performance Information Profile (PIP) for the Lower Carbon Transportation Program, which includes (but is not limited to) EVAFIDI (Appendix A). Its purpose is to provide an overview and explanation of the Program’s linking of key activities to expected outputs and outcomes. The logic model is used to monitor and evaluate the Program’s implementation and effectiveness in order to determine the extent to which the Program is/has been achieving its intended outcomes. More specifically, the logic model identifies:
+(1) key activities; (2) key outputs produced as a result of these activities; and (3) the intended immediate, intermediate, and ultimate outcomes to which the Program is expected to contribute. The existing program logic model was used to support this joint engagement, but it should be noted that as NRCan undertakes a systematic review of PIPs, logic models including the one used for this program will be reviewed and changes applied, if necessary.
+Given the completion of the EVAFIDI’s Phase 1 funding period and the significant investment for Phase 2, as well as the importance of significance of clean-technology investments by the Department, a joint audit and evaluation of the EVAFIDI was included in the 2018-2021 Risk-Based Joint Audit and Evaluation Plan, approved by the Deputy Minister on April 12, 2018.
+Objective
+The objective of this joint engagement was to assess Program relevance, effectiveness, and efficiency as well as the adequacy and effectiveness of the EVAFIDI’s management processes and controls.
+Specifically, the engagement assessed the extent to which:
+The Program is relevant;
+Adequate and effective governance structures and processes have been designed and implemented to support the achievement of Program objectives;
+Adequate and effective processes and controls are in place to support Program compliance with relevant departmental guidance and the Treasury Board (TB)
+Policy on Transfer Payments
+;
+Key financial and operational controls have been designed, implemented, and are operating effectively;
+The Program is achieving its intended outputs and outcomes;
+The Program appropriately considers the internal and external factors that could impact its ability to achieve its intended outputs and outcomes; and
+The Program is being delivered efficiently and economically.
+Considerations
+A risk-based approach was used in establishing the objectives, scope, and approach for this joint engagement. The following areas were identified as having significance in the achievement of the Department’s objectives, and were therefore assessed as increased areas of risk for this engagement:
+Governance structures and processes to support the achievement of the Program’s objectives;
+Program management processes and controls to ensure that the EVAFIDI adheres to the
+Financial Administration Act
+, relevant TB policies and departmental guidance;
+Design, implementation and operation of key financial and operational controls to ensure appropriate due diligence has been completed for selected proponents;
+Program approval at various stages to ensure effective program operations;
+Project timelines, to ensure proponents receive the contributions and build the stations in accordance with agreed upon timelines; and
+Adequacy of the solicitation process used to ensure a sufficient number of qualified Program applicants.
+Scope
+The scope of this engagement focused primarily on EVAFIDI Phase 1 and Phase 2 activities from April 2016 to June 30, 2019, with a focus on examining recent Program activities and processes.
+The results of previous advisory studies, reviews, audits, and evaluation projects were also considered.
+The engagement team excluded the development, communication, and maintenance of regulations, codes and standards from the scope of the engagement. The engagement team anticipates that this topic (codes and standards) will be covered in the program evaluation of Lower Carbon Transportation, expected to take place in 2020/2021.
+Approach and Methodology
+The joint engagement is intended to produce a value-added engagement that limits the duplication of efforts that would be required to conduct separate audit and evaluation projects. The engagement was carried out in a manner that ensures the team’s neutrality and objectivity, as per respective professional requirements and standards, and ensures that observations and conclusions are evidence-based.
+The approach and methodology used in this engagement followed the Institute of Internal Auditors’ International Standards for the Professional Practice of Internal Auditing (IIA Standards), the TB
+Policy on Internal Audit
+, the TB
+Policy on Results
+, and the TB Directive on Results, which includes the GoC standard for evaluation. These standards and policies required that the project be planned and performed in such a way as to obtain reasonable assurance that engagement objectives are achieved. The engagement included tests considered necessary to provide such assurance.
+The engagement included the following key tasks:
+Interviews with key Program personnel, committee representatives, and 17 external stakeholders;
+Review of selected key documents, business processes and communication materials;
+Consideration of key TB and departmental policies and procedures;
+Performance of transactional testing on selected contribution agreements; and
+Analysis and synthesis of the information collected; and Communication with key EVAFIDI Program officials including senior management.
+The conduct phase of this engagement was substantially completed in July 2019.
+This report is structured thematically to best present the findings in a coherent way while eliminating duplication of information.
+The engagement focused on seven major themes:
+Relevance of the Program;
+Governance Structures and Processes;
+Program Compliance;
+Program Operations;
+Effectiveness;
+Program Design and Delivery; and
+Efficiency and Economy.
+Limitations and mitigation measures
+This engagement had three important areas where limitations existed. These were addressed through appropriate mitigation measures as follows:
+Stakeholders, who signed contribution agreements (CAs), may have views influenced by expected benefits, and future orientation of the Program such as funding limits. To address this limitation, the joint engagement team interviewed a variety of external stakeholders from different provinces and groups, such as provincial utilities and private sector corporations, and for different years (2017 to 2019) Furthermore, the evaluation-related findings were triangulated across multiple lines of evidence to further mitigate this limitation.
+The Program has not been completed, thus the joint engagement team took appropriate steps to assess the outputs and outcomes of this ongoing Program. For example, the team performed an evaluation of Phase 1 of the Program, for which the funding period has been completed. The team also took into consideration the preliminary results of Phase 2, which has not been completed, and compared them with Phase 1. This was beneficial to determine if the trends noticed in Phase 1 persisted in Phase 2. Furthermore, Phase 1 had a defined timeframe, input resources, outputs, and outcome, thus enabling an objective assessment and evaluation of its performance.
+There was no logic model created solely for EVAFIDI. To address this, the engagement team used the Lower Carbon Transportation Program logic model, which includes EVAFIDI.
+Audit and Evaluation Criteria
+Please refer to Appendix B for the detailed engagement criteria. The criteria guided the conduct of this engagement and formed the basis for the overall conclusion.
+Glossary
+Refer to Appendix C for definitions and acronyms throughout the report.
+Findings and Recommendations
+Relevance of the Program
+Summary Finding
+The joint engagement team confirms that the use of EV, NG and FCV, is a relevant program area for NRCan. The Canadian infrastructure for these vehicles was limited when the Program launched in 2016, and remains limited today.
+The EVAFIDI plays an important role in ensuring that recharging and refuelling infrastructure being proposed through the application process is appropriately located, taking into consideration the location of existing or planned infrastructure built by the private sector and other levels of government. Furthermore, the Program’s objectives are aligned with the federal government’s Paris Agreement commitments to decrease GHG emissions, the Pan-Canadian Framework on Clean Growth and Climate Change and the Mandate Letter for the Minister of NRCan. In this regard, the Program supports the Minister’s Mandate commitment to work with provinces and territories on sustainable energy development that enhances the ways that energy is produced, moved and used, and also on energy efficiency, infrastructure, as well as advanced technology/innovation.
+Overall, the joint engagement identified a need for the EVAFIDI, including coordination, guidance, and oversight in order to enable the transition to nation-wide use of electric and alternative fuel vehicles and the supporting infrastructure. All external stakeholders consulted indicated that the need for the Program continues to exist.
+Supporting Observations
+Alignment with Federal Government and Departmental Priorities
+This initiative falls under NRCan’s
+Lower Carbon Transportation
+(deployment) and
+Clean Growth in Natural Resource Sectors
+(demonstration) Program Inventory and is aligned with NRCan’s Core Responsibility (CR) 2:
+Innovative and Sustainable Natural Resources Development,
+and CR 3:
+Globally Competitive Natural Resource Sectors
+under NRCan’s 2018-2019 Departmental Results Framework (DRF).
+Evidence collected throughout the engagement indicates federal government involvement has enabled an appropriate electric vehicle and alternative fuel infrastructure, including a coast-to-coast network of EV recharging stations that address range anxiety – the fear of not being able to recharge an EV due to a lack of infrastructure. This anxiety is one of the key barriers to EV adoption by Canadians. EVAFIDI, which is intended to ensure that EV stations are appropriately located coast-to-coast, to minimize range anxiety and provide incentives to purchase EVs. Interviews with stakeholders and Program management indicated that this initiative has increased awareness amongst target groups and prevented potential station builders from lacking the necessary information about what other station builders are planning to do (e.g., location of a future station). Moreover, through the EVAFIDI, the federal government has provided appropriate tools to proponents, allowing for the planning of optimal location of stations (e.g. optimal distance, distance to core route, distance to border, etc.). As a result, the EVAFIDI has supported decision-making needed to build stations in the right locations throughout Canada.
+Infrastructure versus Demand
+Infrastructure versus demand is an issue within the electric and alternative fuel vehicle industry, and relates to the question of whether to install infrastructure first in order to increase demand for electric and alternative fuel vehicles, or to supply vehicles first and build infrastructure in response to demand by vehicle retailers and owners. Stakeholders interviewed as part of this joint engagement indicated the constructions of infrastructure first is important and that the federal government has a key role to play here. With the approach taken by the Program, the federal government has enabled the construction of the infrastructure first, as the existence of critical infrastructure favours significant uptake in vehicles.
+It is also important to note that federal government involvement can help de-risk private sector investment to support innovation and build the required infrastructure for EV, NGV, and FCVs. Investment risk is heightened by the possibility that there will be insufficient EV consumers or alternative fuel vehicles to cover the costs of building and operating the infrastructure. This issue is also linked to the causality dilemma described above. Without large-scale adoption of electric and alternative fuel vehicles, the required infrastructure may not be sufficiently utilized to recuperate the costs and provide a return on investment. During the joint engagement team’s consultations, stakeholders from the private sector and provincial government-funded utilities indicated that without the funding received through the Program, they would not have been able to build the infrastructure, would have built less infrastructure and would have had to delay their investment or build inferior infrastructure.
+A tangible example is the building of a hydrogen station in Quebec City, which enabled an agreement between the Government of Quebec and an automotive manufacturer to provide the City with approximately 50 FCVs. FCV are in high demand with limited availability from the manufacturers. Quebec City’s hydrogen station was one of the key factors in influencing the manufacturer to provide a fleet of FCVs to the Quebec government, for which one of them will be assigned to the federal government as part of greening government operations efforts.
+Governance Structures & Processes
+Summary Finding
+Overall, the Transportation and Alternative Fuels Division has designed and implemented governance structures for the management of the EVAFIDI contribution program. Governance bodies provide leadership and oversight, while monitoring the overall state of the Program as well as compliance with the TB
+Policy on Transfer Payments
+and departmental policies.
+Supporting Observations
+The engagement sought to determine whether the Department has designed and implemented effective governance structures and processes, supporting the delivery of the EVAFIDI. These processes are intended to ensure clarity of roles, responsibilities, and accountabilities among stakeholders, and they should provide a leadership, oversight, and challenge function. The engagement also sought to determine whether Program results are effectively captured and reported to senior management in a timely manner to ensure real-time data is driving Program performance and improvement measures.
+Roles, Responsibilities, and Accountabilities
+Key roles, responsibilities, and accountabilities for the Program are adequately defined and appropriately communicated to relevant parties. Key documents include the EVAFIDI Procedures Manual, proponent selection committee guidance, the NRCan Departmental Policy on Transfer Payments, and the NRCan Directive on Repayable Contributions.
+The EVAFIDI Procedures Manual was developed to assist management and staff in the approval process of project proposals, contribution agreement management, project monitoring, information management, and communications. The Manual identifies key processes along with assignments and descriptions of roles and responsibilities; moreover, the document identifies the key roles required as part of the NRCan Departmental Policy on Transfer Payments and the NRCan Directive on Repayable Contributions.
+The engagement team concluded the documents above adequately define the roles, responsibilities and accountabilities of the Program, and that they have been communicated and are generally understood by Program management and staff.
+Program Oversight and Challenge Functions
+The Program has effective governance bodies that provide appropriate oversight and challenge functions; notably, the Program utilizes a selection committee that is composed of both internal and external members. The committee is comprised of 12 members, five of which are NRCan employees from the Energy Sector managing the EVAFIDI. The remaining members include representation from other government departments.  The committee members are responsible for the review of the incoming proponent proposals against specific merit criteria in order to determine which proponents will be awarded a contribution. In addition, the Infrastructure and Grid Readiness Working Group, created in 2016 to provide expert advice to NRCan, supports the Program with relevant work addressing some of the challenges that industry faces in deploying ZEV infrastructure and identify opportunities for collaboration and synergies.
+Monitoring Program Results
+Overall, the Program has established various mechanisms for reporting to different levels of management. Mainly, these reporting mechanisms are used to monitor the progress of projects for each phase of the Program. As a result, the Program has been able to effectively monitor the status of its projects through internally developed status reports, as required in the Contribution Agreements. The status update reports produced are sufficiently detailed, allowing senior management to make informed decisions in the future phases of the Program. In addition, a monthly dashboard is presented to Program management to assist in assessing progress as well as identifying problem scenarios in a timely manner. As well, upon station completion, Program staff map the location of new infrastructure. This living map is then available to stakeholders to determine whether current and geographic needs for EV and alternative fuel infrastructure are being appropriately addressed.
+Program Compliance
+Summary Finding
+Overall, adequate and effective processes and controls were in place during the design phase of the Program and continued to operate effectively throughout the operational phase. Contribution agreements were drafted per TBapproved Program Terms and Conditions as well as the
+Policy on Transfer Payments
+. Furthermore, compliance with contribution agreements was ensured through risk-based recipient audits conducted by third party assurance providers.
+Supporting Observations
+The joint engagement team sought to determine whether contribution agreements were drafted in accordance with the TB-approved Program Terms and Conditions and the
+Policy on Transfer Payments
+. The engagement also examined whether processes were in place to ensure that Program operations are aligned with departmental guidelines and service standards. In addition, the engagement expected that project managers utilized a risk-based approach to planning recipient audits and monitoring their execution to ensure compliance.
+Contribution Agreement Compliance
+The CAs for the EVAFIDI were drafted in accordance with the TB-approved Terms and Conditions of the Program, and the departmental Policy on Transfer Payments, that is based on the TB
+Policy on Transfer Payments
+. The CAs follow the departmental policy on contribution holdbacks in order to prevent overpayments. In the case of the EVAFIDI, the holdback percentage is 10%. In addition, the Program Objectives and Outcomes outlined in the CAs align with those in the Terms and Conditions for Contributions in Support of Transportation and Alternative Fuels document. The CAs also align with the basis of payments section of the Program Terms and Conditions, where contributions to the projects are only made when expenses are incurred by the proponent and financial reports are shared and approved by NRCan.
+Service Standards
+NRCan has developed a Guideline on Service Standards to be followed by all grant and contribution (G&C) programs. The guideline conforms with paragraph 6.5.8 of the TB
+Policy on Transfer Payments
+, which specifies the responsibility to establish departmental service standards for all G&C programs. The guideline aims at helping management establish realistic service standards for their G&C programs, and was used by EVAFIDI management in establishing their service standards.
+The Program has published its service standards on NRCan’s external website to inform its proponents and the public. The EVAFIDI’s goal is to achieve its service standards a minimum of 80% of the time under normal circumstances, which includes the following:
+Responding to general inquiries made by phone or email before the end of the next business day;
+Reviewing the completeness of applications with a reply within three business days;
+Assessing applications and communicate the approval or rejection notification letter to the applicant within 100 days after the end of the Request for Proposal (RFP) deadline;
+Sending a draft CA for review within 30 business days of issuing the Letter of conditional approval and review the payment claim within 15 business days; and
+Sending a payment to the proponent within 30 business days of receipt of a completed and documented payment claim.
+The engagement team was able to conclude that the Program sufficiently met all of the above service standards.
+Agreement Enforcement and Recipient Auditing
+The Program authority outsources the recipient auditing function through a RFP process that clearly defines the statement of work (SoW) for the selected audit firm. The SoW includes the required deliverable, timelines, as well as the requirement for bi-weekly reporting to the Program. The engagement team found that final deliverables are monitored and approved by the Program. In addition, a risk-based approach is implemented by the audit firm, and the Program monitors compliance using project charters and bi-weekly reports.
+For the first phase of recipient audits, only three of the projects under the EVAFIDI were fully completed by the time the recipient audits were being conducted. As a result, all three of these proponents were selected for the recipient audits for the FY 2017-2018. For the FY 2018-2019, the proponents subject to recipient audits were selected based on a risk-assessment process that was completed at the early stages of drafting the CAs for each of the proponents. It was noted that the recipient audits for Phase 1 were compliant with the Program requirements. In addition, the audit reports are stored centrally for Program management to access and consult past results.
+Program Operations
+Summary Finding
+Overall, key financial and operational controls have been designed, implemented, and were operating effectively since Program inception. Relevant committees were established in the planning phases of the Program to ensure qualified applicants received funding and that key controls were in place during the operational phase. Furthermore, the Program designed standardized measures to ensure activities were publicly disclosed when required.
+Supporting Observations
+The joint engagement team sought to determine whether selected proponents met the selection criteria of the Program; and whether Program management conducted appropriate due diligence on payments made and information received by proponents. In addition, the engagement team expected that payments to proponents were made in accordance with the Program’s Terms and Conditions (e.g. percentage allowable), and that processes would be in place to ensure that contributions over $25,000 are appropriately disclosed, verified for accuracy and approved prior to Web posting.
+Selection Criteria
+As referenced previously in this report, the Program implemented a proponent selection committee comprised of both internal and external members with the required technical, financial and program management expertise to adequately assess applications for funding. The joint engagement team found that the review committee appropriately verifies whether the proposed projects have the potential to enable the achievement of the Program’s objectives and priorities.
+The Program drafted an evaluation matrix to be used by all review committee members in order to evaluate the applications according to established criteria. The criteria are assessed according to information provided by the applicants. The mandatory requirements evaluated include assessing whether the proposed infrastructure:
+Will be located in Canada;
+Will be available to the public all year round, free of membership limitations and flexible billing, not restricted to a car make;
+Is new (not publically announced or approved for funding);
+Is eligible as per the Terms and Conditions of the Program (implementing alternative fuel infrastructure – electric, natural gas and/or hydrogen);
+Have completion deadlines within the eligible expenditure period of the Program phase;
+Have a reasonable construction timeline;
+Have at least 50% of project costs secured; and
+Have access to project site for at least 10 years after the project end date.
+The proposal must meet all the mandatory requirements before proceeding to the second round of evaluation. The second round of evaluation of the proposals is based on merit criteria that were created specifically by the Program. The engagement team assessed the review committee’s evaluation metrics for reviewing incoming proposals and concluded both selection criteria and application assessment criteria were adequately designed and enforced.
+Expenditure Due Diligence & Payments to Proponents
+The timing and general requirements for proponents reporting financial information to the Program are clearly defined in both the Program Terms and Conditions and the signed contribution agreements.
+Reporting requirements are identified under section 7.3 of the Terms and Conditions. The proponents are required to provide the Program with detailed financial statements signed by the organization’s Chief Financial Officer. The reports dictate how the funding was allocated as well as a declaration of all other funding received by the proponent. In addition, the proponent is required to provide the Program with annual financial statements for a period of up to 10 years following the completion of the project.
+The engagement team verified NRCan financial system ledgers in order to determine whether the appropriate payments were made, which was the case for all the sampled proponents. For every payment made, the respective Quality Assurance Checklist was appropriately completed and signed by
+Financial Administrative Act
+(FAA) Section 33-authorized individuals. In addition, the respective Section 34 Certificate was completed by an individual with appropriate Section 34 authority.
+Proactive Disclosure
+At the time of the engagement, federal departments were required to publicly disclose all G&C whose value exceeds $25,000, as part of the GoC’s Management Improvement Agenda. With the recent approval of Bill C-58, Departments are now required to disclose all G&C amounts. NRCan proactively adopted this measure early, implementing the requirement to disclose all G&C funding activity beginning December 2018.
+The engagement team concluded for the sample of agreements reviewed, proactive disclosure documentation was appropriately approved for each proponent CA prior to public posting. In addition, all CA values were properly disclosed on NRCan’s external website.
+Effectiveness
+Summary Finding
+The joint engagement team determined that the Program has achieved its key intended outcomes during Phase 1, and is progressing similarly for Phase 2, based on current results. The key outcome – to supply lower carbon transportation options – is the direct result of the CAs signed by the Program with participating proponents. The CAs are the key output of the Program.
+Although EV station usage data reporting requirements are contained in the CAs, the Program has not formalized how data will be collected, monitored, analyzed and disseminated. As usage data is available from Phase 1 stations, it will be important that NRCan analyse it and make it publically available, when possible (note some data may be commercially sensitive). Program analysis of statistics on the use of EV stations may identify opportunities to increase EV usage and enhance the Program outcomes for the second phase of EVAFIDI, as well as for the new Zero-Emission Vehicle Infrastructure Program. External parties may also find the data useful to make decisions regarding their own EV station plans.
+Supporting Observations
+Key Outcomes and Targets
+The proponents constructed a higher number of lower carbon transportation stations than expected during the two-year timeframe of Phase 1. The key outputs are the CAs signed by NRCan with proponents from target groups. These proponents are given funding to achieve the key Program outcome of building stations for EV, NGV and FCV. The target groups include mostly provincial utilities and private sector corporations such as British Columbia Hydro and Power Authority, Hydro Quebec, Hydro One (Ontario), Peel Regional Municipality, Suncor, Add Energie, Harnois Energies Inc., EBI Energies Inc., Union Gas and Hydrogenics Corporation. In Phase 1, 32 agreements were signed. This led to the Program exceeding its intermediate outcome in terms of target groups supplying lower carbon transportation options. This is illustrated below in Exhibit A.
+Exhibit A – Achievement of Key Program Outcome for Phase 1:  Supply of Lower Carbon Transportation Options
+Number of Stations Planned and Constructed
+Outcome Targets
+Actual Outcome
+Percentage – Exceeding Targets
+Electric Vehicle (EV) Stations
+70
+102
+46%
+Natural Gas (NGV) Stations
+6
+7
+17%
+Fuel Cell (FCV) Stations
+2
+3
+50%
+Total
+78
+112
+44%
+Exhibit A also shows the number of stations built in Phase 1 exceeded targets in the set two-year timeframe. The most significant increase is in the number of EV stations built, where the target of 70 was exceeded by over 45%, to 102. As of July 31, 2019, all Phase 1 stations were opened and operational, with the exception of one NGV station and three FCV stations. The three FCV stations are constructed; however, with hydrogen being a new, not fully established alternative fuel, there have been longer than anticipated delays in obtaining approval from regulating authorities related to measurement, safety and security. Regarding, the one NGV station, there have been challenges related mainly to obtaining a construction permit from the city. As a result, the proponent and NRCan have decided to build this station in a different location.
+Funding Leverage Ratio
+The intent of the Program was that the federal funding for Phase 1 would leverage at least a funding ratio of one to one (1:1) from industry and other partners. This meant that the $14 million (M) invested in Phase 1 would be used to generate at least another $14M in investment from industry and other partners. The funding leverage ratios for Phase 1 and the first year of Phase 2 have exceeded this target, as illustrated in Exhibit B below. This indicates that the proponents who signed the CAs contributed more funding than expected to build the infrastructure. In other words, the proponents chosen by NRCan through the RFP selection process contributed, for the majority, more than 50% of total project cost.
+As Exhibit B shows, funding leverage targets were exceeded across all type of stations, for both Phase 1 and the first year of Phase 2.
+Exhibit B – Funding Leverage Ratio for Phase 1 and for the First RFP of Phase 2
+Total Project Cost
+NRCan Funding
+Non-NRCan Funding
+Funding Leverage Ratio
+Phase 1 - Complete Results
+EV Stations
+$11,286,466
+$4,850,714
+$6,435,752
+1:1.3
+NGV Stations
+$13,754,678
+$6,502,000
+$7,252,678
+1:1.1
+FCV Stations
+$10,101,208
+$3,000,000
+$7,101,208
+1:2.4
+Total Phase 1
+$35,142,352
+$14,352,714
+$20,789,638
+1:1.4
+Phase 2 – Partial Results
+EV Stations
+$61,685,369
+$21,185,255
+$40,500,114
+1:1.9
+NGV Stations
+$10,659,250
+$4,229,000
+$6,430,250
+1:1.5
+FCV Stations
+$8,200,000
+$3,000,000
+$5,200,000
+1:1.7
+Total Phase 2
+$80,544,619
+$28,414,255
+$52,130,364
+1:1.8
+Total Phases 1 and 2
+$115,686,971
+$42,766,969
+$72,920,002
+1:1.7
+Lower Carbon Transportation Stations Usage
+Target groups are using lower carbon transportation stations based on performance indicators established for Phases 1 and 2. Specifically, targets set for annual sales and market share sales have been exceeded. It is too early to make a determination on the target of increased station usage, given that only six stations reported data. However, the majority of 112 stations currently built will report data within one year, and based on interviews with external stakeholders, all should show station usage. While it is too early to conclude on the overall achievement of the intermediate Program outcome (See Logic Model in Appendix A), information to date points to it being be achieved once more station data is reported.
+Canadian Sales
+Exhibit C below demonstrates that the sales of Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV) have increased significantly in Canada over the last six years. During this six-year period, total sales have increased from 3,254 to 44,085 of BEV and PHEV. This trend is similar to what has been observed in the United States, Europe and China (as reported by the International Energy Agency in June 2017). The availability of electric and alternative fuel charging stations is one factor that contributed to this increase. Other factors may include, but are not limited to:
+the desire by individuals and organizations to take action to reduce GHG emissions;
+incentives and programs by other levels of governments;
+the price of traditional fuel; and
+characteristics of EVs available in Canada, such as price, range, perceived long-term mechanical reliability, performance and other options, such as all-wheel-drive and advanced driver assistance technologies.
+Overall, the demand for EVs has increased significantly in Canada.
+Similarly, the market share for EV has increased every year as the following numbers indicate: 0.18% in 2013; 0.28% in 2014; 0.36% in 2015; 0.58% in 2016; 0.92% in 2017; 2.2% in 2018; and reached 3% in the first half of 2019.
+The results exceed the targets set for both Phases 1 and 2. In Phase 1, the targets were annual increases in the 2015 baseline data, which were 6,933 for EV sales and 0.36 for EV market share of annual sales. In Phase 2, these targets were annual increases of 10% in the 2017 baseline data for both annual sales and market share of EV annual sales. Information on sales of NGV and FCV were not readily available, so they are not included in this analysis.
+Exhibit C – Canadian Sales of Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV)
+Text version
+In 2013, 1,641 BEV units were sold and 1,613 PHEV units were sold.
+In 2014, 2,886 BEV units were sold and 2,470 PHEV units were sold.
+In 2015, 4,378 BEV units were sold and 2,694 PHEV units were sold.
+In 2016, 5,130 BEV units were sold and 5,893 PHEV units were sold.
+In 2017, 9,957 BEV units were sold and 9,279 PHEV units were sold.
+In 2018, 22,600 BEV units were sold and 21,485 PHEV units were sold.
+Preliminary EV Station Usage Data
+Proponents are required to collect annual EV usage data and report them to NRCan starting one year after a station is operational and for the repayment period of up to 10 years. For example, if a proponent station became operational December 31, 2017, the proponent is required, starting December 31 2018, to provide the 12-month usage data at every December 31 for 10 years. As of March 31, 2019, only six of the 102 EV stations (6%) reported usage data to NRCan; the data were not provided for the remaining stations because they have not yet been in operation for a full year. Usage data collected are summarized in Exhibit D below.
+Overall, Exhibit D provides an initial snapshot of EV data collected. A proponent in the Regional Municipality of Peel, near Toronto, built two of the stations. A Quebec proponent built the other four stations in the towns of Saint-Esprit and Notre-Dame-des-Prairies, northeast of Montreal, about mid-way to Quebec City. Each of the three sites had two stations financed by NRCan. Exhibit D also provides details on the type of station built; total number of charging instances that took place annually for the two stations at each site; annual average of charging instances per station; average time EVs stopped for charging; and daily average number of EV using the station.
+Exhibit D – EV Stations Usage based on Available Data
+Funded Infrastructure
+# of EV Stations
+Type of Stations
+Total Charging Instances
+Per Station Instances
+Average Length of Time
+Average Use on a Daily Basis
+1. Peel
+2
+Two level-3
+2,728
+1,346
+38 minutes
+3.7
+2. Saint-Esprit
+2
+One level-2
+One level-3
+2,153
+1,077
+20 minutes
+3
+3. Notre-Dame-des-Prairies
+2
+One level-2
+One level-3
+868
+434
+23 minutes
+1.2
+Grand Total and Overall Average
+6
+Two level-2
+Four level-3
+5749
+958
+29 minutes
+2.6
+The joint team determined that although EV station usage data reporting requirements are contained in the CAs, the Program has not formalized how data will be collected, monitored, analyzed and disseminated. As usage data is available from Phase 1 stations, it will be important that NRCan analyse aggregated information and make it publically available in a way that does not compromise third-party confidential/business information. Program analysis of statistics on the use of EV stations may identify opportunities to increase EV usage and enhance the Program outcomes for the second phase of EVAFIDI, as well as for the new Zero-Emission Vehicle Infrastructure Program. External parties may also find the data useful to make decisions regarding their own EV station plans.
+Location of Electric Vehicle Charging Stations and Alternative Fuel Stations
+Program decisions on the EV station locations were based on a defined process. NRCan’s aim is to approve locations, so that a coast-to-coast network of EV stations is built. EV stations are present in densely populated areas, selected remote locations, and along the cross-Canada main corridor. Program management reviewed each of the proposed locations before approving the projects. In cases where a change of location was required, Program personnel took into consideration the latest available location information to select new station locations. Based on the joint engagement team’s interviews and files reviewed, the manner in which location changes took place respected the Program’s authority, goals, and proposal selection criteria.
+Other Program Outcomes are Being Achieved
+The joint engagement team determined that the other outputs and outcomes of the Program for Phase 1 have been achieved based on document reviews, interviews with management and two previous studies by conducted by an independent energy-consulting firm, which included wide-ranging consultations with target groups (refer to the following section and Exhibit E). In addition, these other outputs, immediate, intermediate and ultimate outcomes are identified in the Program Logic Model in Appendix A.
+Risk and Impact
+Without a planned approach to data management and comprehensive analysis, there is a risk that relevant information will not be available to assess Program impacts and enable for future infrastructure decisions by stakeholders within and outside of NRCan.
+Recommendation
+Recommendation 1:
+It is recommended that the Assistant Deputy Minister, Energy Sector, formalize and implement its plan to collect, analyze, summarize and make station aggregate usage data accessible to stakeholders, to inform future decisions by program managers and stakeholders.
+Management Action Plan
+Management agrees.
+The Energy Sector concurs with this finding. The Program will formalize how data is being collected and plans to analyze infrastructure usage data submitted by the proponents. The plan will be embedded in the Program’s procedures manual and will include guidelines and procedures on the collection, recording, control and the dissemination of the data (aggregate) or analysis publically when appropriate. The Program already has in place the information systems that allow usage data to be collected and recorded. The Program will explore ways to enhance proponent’s usage data with other sources, for example a national survey (e.g. Commercial and Institutional Building Energy Use Survey prepared by Statistics Canada and NRCan) or a voluntary questionnaire.
+Position responsible
+: Program Chief
+Timing:
+December 2019 (to formalize its plan); March 2020 (to begin aggregate data/analysis dissemination).
+Design and Delivery of the Program
+Summary Finding
+The joint engagement team determined that the design and delivery of the Program facilitates the achievement of its intended outputs and outcomes. The approach used by the Program was flexible and tailored to the particular circumstances of each proponent, while respecting Program requirements established for EVAFIDI. In addition, during Phase 1, Program management sought external expert advice that included stakeholder consultations to obtain feedback and suggestions on how the Program’s processes and results could be improved.
+Supporting Observations
+Information and data collected from engagement interviews with target groups indicated that Program personnel was receptive and flexible in addressing implementation issues faced by proponents. Innovative ways were used to achieve win-win solutions to problems, as described in the three examples below. This approach respected all federal government requirements for the Program, including policies governing contribution funding.
+Example 1:
+An EV proponent participating in the Program indicated that the selection criteria were not well-aligned with the goal of their organization to reduce GHG emissions in large high-density areas. Program management was aware of the situation, but could not make changes due to the specific Canada-wide objective of EVAFIDI Phases 1 and 2. The new Zero-Emission Vehicle Infrastructure Program will be used to fund projects in large, high-density areas to address points raised by this and other proponents.
+Example 2:
+An NGV proponent encountered a prolonged delay in securing its intended location due to several factors, some under the control of the proponent, others beyond its control.  Program management worked closely with this proponent to provide assistance, investing a substantial amount of time rather than simply terminating the CA. According to Program management, their aim was to find a win-win solution respecting the Government of Canada requirements. A solution was found and is in the process of being implemented.
+Example 3:
+Program management worked with a FCV proponent to complete a project, even though the location had to change from one province to another. During this engagement, several factors came to play, including changes in partnership with provincial governments and FCV manufacturers. The Program could have terminated the agreement, resulting in the FCV station having not been built. Instead, Program management’s efforts led to the establishment of one of the rare Fuel Cell charging stations in Canada and the delivery of approximately fifty FCVs to provincial governments. The purchase of the FCVs was not part of EVAFIDI, but was made possible because the FCV station was approved and funded as part of NRCan’s program. As a result, this provincial government was able to advance its own initiative to reduce GHG emissions.
+Approaches to Respond to Current and Anticipated Key Factors affecting the Program
+The joint engagement team found that Program management closely monitors how the EVAFIDI is being implemented, in order to leverage knowledge and adjust it for long-term success. Part of this effort has involved seeking feedback and suggestions from target groups, including but not limited to Program participants. Some of these consultations were undertaken directly by Program personnel, while other consultations were delegated to an external firm. The firm from which Program management sought external advice is specialized in the assessment, design and evaluation of efficient and renewable energy.
+Specifically during Phase 1, management hired an independent energy-consulting firm to assess strengths and weaknesses, as well as to identify and suggest different approaches that would improve the EVAFIDI. During the period 2017-2018, the firm conducted two studies, interviewed a representative sample of external Program stakeholders, and delivered two reports. Program management implemented over 75% of their suggestions, given that they viewed them as value-added to the Program and they were feasible to implement.
+Below are some of these suggestions from the firm:
+Suggestions to optimize the application process through improved communication and amending the requirement related to proof of access to sites. NRCan implemented all four suggestions by the firm regarding the application process.
+Suggestions related to improving the operation and maintenance of the stations, even though funding for this is out of scope. (The EVAFIDI only funds capital costs and excludes operations and maintenance costs). For example, a suggestion related to quality of service during the operation and maintenance of the station could not be implemented as formulated, but Program management instead decided that, going forward, points would be awarded in the RFP evaluation process for projects that presented a good operating and maintenance plan.
+Encouraging applicants to establish stations that can easily adapt to increased traffic and higher power charging, and concentrating hydrogen stations in certain locations, instead of spreading them too thinly across Canada; this practice was put into place by Program Management.
+Increasing the maximum per-technology project cost funding provided by NRCan; although this suggestion was not implemented, it is now being considered for future programming.
+Other important suggestions included: (1) relaxing the criteria for project locations and allowing the applicants to build a case for the location(s) they propose; and (2) encouraging consultation and partnership among stakeholders before submitting their proposals to NRCan.
+Exhibit E below presents the status of the 40 suggestions made by the independent energy-consulting firm in late 2017 and early 2018 to improve the Program. These suggestions were presented in two reports that took into consideration input from a variety of Program stakeholders from across the country. Specifically, the firm reached out to over 40 stakeholders including utilities, governments, Program proponents, and rejected applicants.
+Exhibit E – NRCan Response to External Expert Advice Sought on EVAFIDI from the independent energy-consulting firm
+Topic of the Suggestion
+# of Suggestions
+Status
+Implemented
+Not Implemented
+Partially Implemented
+General Feedback
+8
+6
+2
+-
+Hydrogen
+1
+1
+-
+-
+Natural Gas
+4
+3
+1
+-
+Electric Vehicle
+18
+15
+2
+1
+Application Process
+4
+4
+Program Design
+5
+2
+3
+-
+Total
+40
+31
+8
+1
+Efficiency and Economy
+Summary Finding
+The joint engagement team found that the Program demonstrates evidence of efficiency and economy. The analysis of EVAFIDI results for Phase 1 indicated that slightly fewer resources than budgeted were used and more stations built than expected.
+In addition, the Program has begun to identify a process for the monitoring and collection of repayable contributions as defined in Program operational documentation. Though proactive steps have been taken in planning for repayment, a formalized, defined plan for managing, collecting and monitoring repayments does not exist.
+Supporting Observations
+Program Inputs /Resources for Phase 1
+For Phase 1, EVAFIDI was allocated a total of $16.4M, including $14.5M in contribution funding. Final financial numbers for Phase 1 obtained from Program management indicate that, in total, just under $16M was spent, and approximately $14.5Mdisbursed in CAs.
+Program management’s resourcing decisions used more personnel than planned, but spent less on other operating costs. Although more Full-Time Equivalents (FTEs) than budgeted were used (seven instead of four), Program management spent approximately $750,000 less towards other operating costs. The difference between planned and actual expenditures was due to using staff (FTEs) already in place to provide indirect Program support. Some of the budget for other operating costs was used to pay for these FTEs. Program management determined that this approach was an effective alternative, given that existing FTEs had relevant NRCan expertise. This analysis did take into consideration the following cost categories: salaries; employee benefits; other operating costs; and contribution payments. The budget against resources used is summarized in Exhibit F below.
+Exhibit F – Budget against Resources Used for Phase 1 of the EVAFIDI
+Budget
+Actual FTEs & Expenditures
+FTEs
+4
+7
+Personnel (Salary)
+$ 299,198
+$ 660,810
+Employee Benefits (20% of Salary)
+$ 59,839
+$ 132,162
+Other Operating Costs
+$ 1,519,896
+$ 767,670
+Contributions
+$ 14,479,371
+$ 14,432,366
+Total
+$ 16,358,304
+$ 15,993,008
+As indicated previously in this report (refer to Exhibit A), the Program exceeded its key outcome for Phase 1 by supporting the building of more stations than expected. The EVAFIDI supported the establishment of 112 stations vs. a target of 78.
+Program Efficiency During Phase 1
+The joint engagement team determined that the Program performed efficiently during Phase 1, as it achieved more outputs than expected with the inputs provided. In other words, with the $16M invested, the Program was able to establish CAs that resulted in financing 102 EV, seven NGV, and three FCV stations, which is greater than the targets of 70 EV, six NGV, and two FCV stations.
+Repayable Contributions
+NRCan contribution payments from the EVAFIDI to the proponents are repayable based on the profit to be generated during the first 10 years of operation of the stations. Proponents are responsible to provide NRCan with annual reports for this purpose. For example, if a proponent received a contribution of $100,000, that represents 40% of their total project cost, every year and for 10 years, they have to reimburse Canada using the same ratio (40%) of their profits until the contribution is repaid. If after 10 years the contribution is not reimbursed, the project is closed.
+During the interviews, some proponents indicated that they expect to make a profit, while others do not. For the ones expecting a profit, most forecasted that profitability would start between years four and seven. There was also a lack of understanding by some of the interviewees on the requirements for profit calculations.
+The EVAFIDI’s repayable contributions represent a significant amount of money: $16M for Phase 1, $80M for Phase 2, and $130M for Phase 3, also referred to as Zero-Emission Vehicle Infrastructure Program (ZEVIP). At the time of the engagement, three proponents had stations generating repayment reports to NRCan. Although the majority of proponents had not yet entered the repayment phase, the engagement team reviewed the documented process for repayment in both the EVAFIDI Operations Manual, as well as stipulations listed in the CAs. It was noted that although the Program has taken proactive steps in planning for repayment, a formalized, defined plan for managing, collecting, and monitoring repayments does not exist.
+Risk and Impact
+There is a risk that without an effective monitoring and collection strategy, repayable contributions may not be recovered within the prescribed 10-year period.
+Recommendation
+Recommendation 2:
+It is recommended that the Assistant Deputy Minister, Energy Sector, communicate to proponents to ensure they understand their repayable contribution requirements, and put in place a plan that will ensure effective monitoring and collection of repayable contributions over the 10-year period.
+Management Action Plan
+Management agrees.
+The Energy Sector concurs with this finding. The Program is already undertaking work to formalize the procedures to manage the repayable contributions. The Program is also seeking assistance from a third party to develop necessary tools such as a repayment guide for proponent to provide guidance and ensure they understand their repayable requirements. The Program will leverage the systems already in place to manage, collect and monitor repayments adequately. The Program will continue to work with the Centre of Expertise on G&Cs of NRCan to share best practices.
+Position responsible
+: Program Chief
+Timing:
+December 2019
+APPENDIX A –  Logic Model
+Lower Carbon Transportation Logic Model from the Performance Information Profile prepared by the Office of Energy Efficiency
+ULTIMATE OUTCOME
+Canada transitions to a lower carbon transportation
+arrow pointing up
+INTERMEDIATE OUTCOME
+Target groups supply lower carbon transportation options
+Target groups use lower carbon transportation options
+Target groups and jurisdictions adopt codes and standards
+arrow pointing up
+INTERMEDIATE OUTCOME
+Target groups are aware of energy efficiency and lower carbon options and practices
+Target groups have capacity (knowledge, skills, ability, tools or funds) to enable the supply and use of low-carbon fuels
+Target groups are engaged in improving energy efficiency and implementing lower carbon options and practices
+Organizations leverage NRCan’s information tools and products related to lower carbon options and practices
+arrow pointing up
+OUTPUTS
+Partnerships and collaborative arrangements
+Information tools and products & services
+Regulations, codes and standards for electric and alternative fueled vehicles, and refueling infrastructure
+Contribution agreements
+arrow pointing up
+ACTIVITIES
+Develop and maintain partnerships and collaborative arrangements
+Capacity (knowledge, skills and ability) building activities
+Develop information and benchmarking tools and products
+Develop and inform and maintain regulations, codes and standards
+Provide funds
+Target groups
+Consumers, private sector companies associated with the transportation sector (freight transporters, fleet owners, transportation technology developers, manufacturers, auto dealerships, logistics companies, etc.), electric and gas utilities, provincial and territorial governments across Canada.
+APPENDIX B – Engagement Criteria
+This appendix includes the criteria for the Joint Audit & Evaluation of the EVAFIDI.
+The criteria were developed based on key controls set out in the TB of Canada’s Core Management Controls, in conjunction with the TB
+Policy on Transfer Payments
+and the TB Policy and Directive on Results, particularly Appendix C of the Directive titled Standards on Evaluation. The criteria guided the fieldwork and formed the basis for the overall engagement conclusion.
+The objective of this engagement was to assess Program relevance, effectiveness and efficiency as well as the adequacy and effectiveness of the EVAFIDI’s management processes and controls.
+The following criteria were used to conduct the engagement:
+Sub-Objectives
+Criteria
+Sub-Objective 1: The Program is relevant.
+1.1 Program objectives are aligned with federal government and NRCan priorities.
+1.2 There is an ongoing need for the federal government to engage in electric vehicle charging and alternative fuel infrastructure investments.
+1.3 The Program has engaged a sufficient number of external stakeholders.
+Sub-Objective 2: Adequate and effective governance structures and processes have been designed and implemented to support the achievement of Program objectives.
+2.1 Program roles, responsibilities and accountabilities are adequately defined and communicated.
+2.2 Governance bodies provide effective Program oversight and challenge functions.
+2.3 Program results are monitored and communicated to Senior Management and used to inform future Program phases.
+Sub-Objective 3: Adequate and effective processes and controls are in place to support Program compliance with relevant departmental guidance and the Treasury Board
+Policy on Transfer Payments
+.
+3.1 Contribution agreements have been drafted in accordance with the Treasury Board-approved Program Terms and Conditions and the
+Policy on Transfer Payments
+.
+3.2 Processes are in place to ensure that Program operations are aligned with departmental guidelines and service standards.
+3.3 Project managers utilize a risk-based approach to planning recipient audits and monitor their execution to ensure compliance.
+Sub-Objective 4: Key financial and operational controls have been designed and implemented, and are operating effectively.
+4.1 Selected proponents meet the selection criteria of the Program.
+4.2 Program management has conducted appropriate due diligence on payments made and information received by proponents (e.g. Stacking, allowable expenditures, signed by CFO).
+4.3 Payments to proponents have been made in accordance with the Program’s Terms and Conditions (e.g. percentage allowable).
+4.4 Processes are in place to ensure that appropriate disclosure of contributions over $25,000 are verified for accuracy and approved prior to Web posting.
+Sub-Objective 5: The Program is achieving its intended outputs and outcomes.
+5.1 Program outputs and targets have - or are expected to - lead to the achievement of intended outcomes.
+5.2 The design and delivery of the Program facilitates the achievement of its intended outputs and outcomes.
+5.3 Target groups are using the fueling stations that were built by the proponents.
+5.4 The expected number of electric vehicle charging and alternative fuel stations have been completed by the proponents.
+5.5 Electric vehicle charging stations and alternative fuel stations are appropriately located.
+Sub-Objective 6: The Program appropriately considers the internal and external factors that could impact its ability to achieve its intended outputs and outcomes.
+6.1 The Program has identified and developed approaches to respond to current and anticipated key factors that impact, or are expected to impact, the Program.
+Sub-Objective 7: The Program is being delivered efficiently and economically.
+7.1 The Program demonstrates evidence of efficiency and economy in program delivery such as through an analysis of program input and output.
+APPENDIX C – Glossary
+Term/Acronym
+Definition
+Battery Electric Vehicle (BEV)
+An electric vehicle relying solely on electricity for its propulsion.
+Contribution Agreement (CA)
+Contribution agreements are legal documents that lay out the conditions surrounding the transfer of an asset from one party to another. This report refers to the specific agreements between NRCan and each proponent to build EV, NGV or FCV infrastructure in exchange for a financial contribution from the government. These agreements are the key output of the EVAFIDI.
+Economy
+Economy focuses on minimizing the use of resources. Economy is often achieved when the cost of resources used is less than expected. This can be due to several factors such as an innovative way of acquiring resources or in selecting a mix of resources that is superior and less costly than the standard or usual one.
+Effectiveness
+The effectiveness of a program consists of the assessment of progress toward expected outcomes (including immediate, intermediate, and ultimate outcomes) taking into consideration performance targets and program design. Effectiveness assessment often includes the linkage and contribution of outputs to outcomes.
+Efficiency
+Efficiency is the extent to which resources are used such that a greater level of output is produced with the same level of input, or a lower level of input is used to produce the same level of output. Changes in the level of input and output such as increases or decreases in quantity, quality or both have an impact on efficiency. In some situations, outcomes can be a better indicator of efficiency than outputs.
+Electric Vehicle
+(EV)
+This is a vehicle that is driven by an electric motor, which typically draws its power from batteries.
+An EV can be BEV or PHEV.
+Electric Vehicle and Alternative Fuel Infrastructure Deployment Initiative (EVAFIDI)
+This Government of Canada Initiative supports the establishment of a coast-to-coast charging network for electric vehicles, natural gas stations along key freight corridors, and stations for hydrogen fuel cell electric vehicles in metropolitan centres.
+Phase 1 of the EVAFIDI resulted from the federal Budget 2016, which had $16.4M allocated over two fiscal years, from April 1, 2016 to March 31, 2018. Phase 1 had infrastructure targets over the two-year period of 70 EV, six NGV, and two FCV stations. Phase 1 targets and achievements are the main focus of this report.
+Phase 2 of the EVAFIDI resulted from Budget 2018 and provided an additional amount of $80M over four fiscal years, starting April 1, 2018. Phase 2 has infrastructure targets over the four-year period of 900 EV, 15 NGV, and 12 FCV stations.
+Fuel Cell Vehicle (FCV)
+Also referred to as Hydrogen Fuel Cell Electric Vehicle, is a type of electric vehicle that uses a fuel cell, instead of a battery, or in combination with a battery or super capacitor, to power its on-board electric motor. (A super capacitor is a high capacity electronic component that stores electrical energy).
+Greenhouse Gas (GHG)
+A greenhouse gas is a gas that absorbs and emits radiant energy within the thermal infrared range. Greenhouse gases cause the greenhouse effect.
+Internal Combustion Engine (ICE)
+A vehicle propelled by gasoline. The most common vehicles produced by carmakers in Japan, Germany, North America and other places; and extensively used throughout the world.
+Level 2 charger
+Level 2 charging refers to the voltage that the electric vehicle charger uses (240 volts). Level 2 chargers take more time to recharge an electric vehicle than a Level 3 charger. This is the most common public charging station for EV at this time.
+Level 3 charger
+Faster, more expensive and less common charging stations. Many electric vehicles that are hybrids and other older models cannot be charged using a Level 3 charger.
+Natural Gas Vehicle (NGV)
+A natural gas vehicle is an alternative fuel vehicle that uses compressed natural gas or liquefied natural gas.
+Plug-in Hybrid Electric Vehicle (PHEV)
+A vehicle relying on both gasoline and electricity for its propulsion.
+Proponent
+An organization that signed a CA with NRCan for the purpose of building EV, NGV or FCV infrastructure as part of the EVAFIDI.
+Repayable Contribution
+A contribution that is repayable to the Government of Canada by the recipient, based on project outcomes. Generally, these contributions are non-interest bearing and unsecured. The EVAFIDI offers repayable contributions to support the construction of EV, NGV, and FCV stations.
+Request for Proposal (RFP)
+A RFP is a formal invitation by the Government of Canada to external organizations to prepare and submit a bid for a project.
+The RFP also outlines the bidding process, evaluation criteria and contract terms, and provides guidance on how the bid should be formatted and presented. NRCan uses RFPs to invite target groups to submit proposals toward EVAFIDI funding.
+Target Groups (also referred to as Stakeholders)
+Target groups or stakeholders of the EVAFIDI are composed of consumers, private sector companies associated with the transportation sector (freight transporters, fleet owners, transportation technology developers, manufacturers, auto dealerships, logistics companies, etc.), electric and gas utilities, and provincial and territorial governments across Canada.
+Zero-Emission Vehicle Infrastructure Program (ZEVIP)
+Often referred to as Phase 3 of the EVAFIDI, ZEVIP was announced in Budget 2019. Its aim is to provide $130Mover five years (2019-2024) to deploy a network of zero-emission vehicle charging (Level 2 and higher) and hydrogen refuelling stations in more localized areas. It also includes support for strategic projects for corporate fleets, last-mile delivery fleets, and mass transit. ZEVIP has notional targets of 20,000 chargers and 30-50 strategic infrastructure projects.
+Report a problem on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2020-01-15

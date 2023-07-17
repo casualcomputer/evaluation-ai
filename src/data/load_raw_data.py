@@ -31,9 +31,10 @@ class WebScraper:
         texts = []
         for i, url in enumerate(urls):
             print(f'[{str(i+1).zfill(3)}/{len(urls)}] {names[i]}')
-            texts.append((text := self.extract_full_text(url)))
+            text = self.extract_full_text(url)
             if not text:
                 continue
+            texts.append(text)
             file_path = f'{self.save_path}/{self.prefix}_{str(i+1).zfill(3)}_{names[i]}.txt'
             self.write_to_file(text, file_path)
             if os.path.exists(file_path):
@@ -56,7 +57,7 @@ class WebScraper:
             urls, names = self.get_urls(self.base_url, self.patterns)
         return urls, names
 
-    def get_urls(self, url, pattern):
+    def get_urls(self, url, pattern, url_prefix='https://www.canada.ca/'):
         page = requests.get(url)
         soup = BeautifulSoup(page.content, 'html.parser')
         urls = []
@@ -64,8 +65,8 @@ class WebScraper:
 
         for link in soup.find_all('a'):
             url = link.get('href')
-            if url := self.is_match(url, pattern):
-                urls.append(url)
+            if self.is_match(url, pattern):
+                urls.append(url_prefix + url)
                 names.append(link.text)
         return urls, names
 
@@ -74,7 +75,7 @@ class WebScraper:
             return False
         for pattern in patterns:
             if pattern in url:
-                return 'https://www.canada.ca/' + url
+                return True
         return False
 
     def extract_full_text(self, url):
@@ -105,7 +106,6 @@ class WebScraper:
             return False
 
 class HealthCanadaScraper(WebScraper):
-    #REQUIRED
     BASE_URL = 'https://www.canada.ca/en/health-canada/corporate/transparency/corporate-management-reporting/evaluation.html'
     PREFIX = 'hc'
     PATTERNS = [
@@ -122,25 +122,46 @@ class HealthCanadaScraper(WebScraper):
         super().__init__(base_url, prefix, patterns, save_path=save_path)
 
 class CanadaRevenueAgencyScraper(WebScraper):
-    #REQUIRED
     BASE_URL = 'https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/internal-audit-program-evaluation.html'
     PREFIX = 'cra'
     PATTERNS = ['evaluation']
-    
-    #OPTIONAL
     P_PATTERNS = ['internal-audit-program-evaluation']
     
     def __init__(self, p_patterns=P_PATTERNS, base_url=BASE_URL, prefix=PREFIX, patterns=PATTERNS, save_path=WebScraper.SAVE_PATH):
         super().__init__(base_url, prefix, patterns, p_patterns=p_patterns, save_path=save_path)
 
-def main():
+class NaturalResourcesCanadaScraper(WebScraper):
+    #REQUIRED
+    BASE_URL = 'https://natural-resources.canada.ca/transparency/reporting-and-accountability/plans-and-performance-reports/strategic-evaluation-division/year/782'
+    PREFIX = 'nrc'
+    PATTERNS = ['evaluation']
+    P_PATTERNS = ['/evaluation-reports-', 'strategic-evaluation-division/year/2020']
+
+    def __init__(self, base_url=BASE_URL, prefix=PREFIX, patterns=PATTERNS, p_patterns=P_PATTERNS, save_path=WebScraper.SAVE_PATH):
+        super().__init__(base_url, prefix, patterns, p_patterns=p_patterns, save_path=save_path)
+
+    def get_urls(self, url, pattern, url_prefix=''):
+        return super().get_urls(url, pattern, url_prefix=url_prefix)
+    
+def scrape_health_canada():
     print('Scraping data from Health Canada')
     hc_scraper = HealthCanadaScraper()
     hc_scraper.run()
 
+def scrape_cra():
     print('Scraping data from Canada Revenue Agency')
     cra_scraper = CanadaRevenueAgencyScraper()
     cra_scraper.run()
+
+def scrape_nrc():
+    print('Scraping data from Natural Resources Canada')
+    nrc_scraper = NaturalResourcesCanadaScraper()
+    nrc_scraper.run()
+
+def main():
+    scrape_health_canada()
+    scrape_cra()
+    scrape_nrc()
 
 if __name__ == '__main__':
     main()
