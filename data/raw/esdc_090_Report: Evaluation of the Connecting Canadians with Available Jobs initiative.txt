@@ -1,0 +1,651 @@
+Report: Evaluation of the Connecting Canadians with Available Jobs initiative
+From:
+Employment and Social Development Canada
+Official title:
+Evaluation of the Connecting Canadians with Available Jobs initiative. Final report, August 2018
+On this  page
+List of acronyms
+List of figures
+Executive summary
+Management response
+1. Introduction
+1.1 Overview
+1.2 Evaluation approach
+2. Description of the CCAJ initiative
+2.1 Legislative changes and enhanced integrity measures
+2.2 Enhancements to Job Alerts and labour market information
+2.3 Improved connections between the Temporary Foreign Worker Program and the EI Program
+2.4 Collaboration projects
+3. Key findings
+3.1 Legislative changes and enhanced integrity measures
+3.2 Enhancements to Job Alerts and labour market information
+3.3 Improved connections between the Temporary Foreign Worker Program and the EI Program
+3.4 Collaboration Projects
+3.5 Combination of the four CCAJ measures
+4. Lessons learned
+Bibliography
+Appendix A - Lines of evidence
+Appendix B - Evaluation questions
+Alternate formats
+Report: Evaluation of the Connecting Canadians with Available Jobs initiative
+[
+PDF
+- 289
+KB
+]
+Large print, braille,
+MP3
+(audio), e-text and
+DAISY
+formats are available on demand by
+ordering online
+or calling 1 800 O-Canada (1-800-622-6232). If you use a teletypewriter (
+TTY
+), call 1-800-926-9105.
+List of acronyms
+CCAJ: Connecting Canadians with Available Jobs
+EI: Employment Insurance
+ESDC: Employment and Social Development Canada
+HRSDC: Human Resources and Skills Development Canada
+TRF: Targeting, Referral and Feedback
+List of figures
+Figure 1. Work claimants were required to seek and accept under the CCAJ initiative
+Executive summary
+This report presents the key findings and lessons learned of the evaluation of Employment Insurance (EI) measures put in place in 2013 as part of a federal initiative to better connect Canadians with available jobs.
+The Connecting Canadians with Available Jobs (CCAJ) initiative came into force on January 6, 2013 and comprised a set of four measures which all had the objective of helping unemployed workers find employment and return to work more quickly where there are suitable job opportunities available in their labour market. In addition to this main objective, each of the 4 measures had its own goal:
+Legislative changes and enhanced integrity measures to strengthen Employment Insurance claimant’s obligations to undertake a “reasonable job search” for “suitable employment”.
+Enhancements to Job Alerts and labour market information to support job-search activities.
+Improved connections between the Temporary Foreign Worker Program and the EI program to ensure Canadians are considered before temporary foreign workers.
+Collaboration Projects with interested provinces and territories (Manitoba and British Colombia) to test whether providing EI claimants with information regarding employment supports earlier in their claim would decrease EI usage.
+This evaluation assesses whether the four measures put in place as part of the CCAJ initiative were effective at helping unemployed workers return to work more quickly. The evaluation also examines its impact on various EI and labour market outcomes and draws some observations that can be taken into consideration in the development of future EI policies.
+Overall, the evaluation finds that there is evidence supporting the need for actions to facilitate more effective job searches and encouraging claimants to accept all suitable work. While some of the 4 measures put in place contributed to some extent to achieve these overall objectives, others had mitigated impacts. Below is a summary of the key evaluation results pertaining to the relevance, performance and efficiency of the 4 measures of the initiative.
+The evidence shows that there was a need for facilitating more effective job searches and encouraging claimants to accept all suitable work
+Data on unemployed individuals who were laid off from their job in 2010 or 2011 (pre-CCAJ period) suggest that about 13 to 14% of EI regular claimants did not fulfill their job search obligations as they did not look for work while collecting benefits and did not report a valid reason for not searching. EI regular claimants were also less likely to report using active job search methods (contacting employers directly, working at jobs on short term trial basis) and more likely to delay job start than non EI claimants. Moreover, about 35% of unemployed claimants and non-claimants said that their chances of finding a job were not very good and about 19% of them said that what would help the most is job search assistance.
+In addition, a very large number of EI claims compared to the number of temporary foreign worker approved positions were found in several regions and occupations, suggesting that some EI claimants could potentially replace temporary foreign workers if they were aware of these employment opportunities. Finally, the international literature demonstrated that providing job search assistance and information early in the unemployment spell can improve the labour market outcomes of targeted groups.
+The legislative changes with respect to the definitions of “reasonable job search” and “suitable employment” did not encourage claimants to increase their job search efforts.
+According to focus group results, awareness of the “reasonable job search” for “suitable employment” rules was low and their effect on claimant’s search behaviour was minimal. Moreover, among focus group participants who had heard at least some aspects of the rules for “suitable employment”, there were significant inaccuracies in their understanding of the rules. In addition, survey data did not reveal any significant changes in the job search activities of claimants after the introduction of the CCAJ initiative. Besides, some evidence indicate that EI claimants obligations to seek and accept a broader range of employment after a certain time on claim (one of the criteria of the “suitable employment” definition) had a negative impact on the job search effort and the quality of the new jobs found for some claimants.
+Evidence suggests that the enhanced integrity measures led to better monitoring of claimants and helped claimants return to work faster.
+The probability of having a disqualification or disentitlement due to inadequate job searches or failing to accept suitable job offers doubled but remained low after the introduction of the CCAJ initiative to reach 0.12% (proportion of claims with CCAJ related disqualification or disentitlement), which suggest that Service Canada monitoring of search requirement became more efficient. In addition, results from the claimant information sessions indicate that they helped some claimants return to work: EI claimants directed to a claimant information session were 1.3 times more likely to report finding work at the end of their claim compared to claimants not directed to a session. The claimant information sessions were also effective at generating EI savings since claimants directed to a claimant information session used about 1 week less of EI benefits than claimants not directed to the session.
+The changes to Job Alerts increased the awareness and take-up of this service; however, there was no significant improvement in labour market outcomes.
+Overall, evidence suggests that the initiative was successful at improving the awareness of the existence of the Job Alerts service (that is the likelihood that unawareness of the service was the reason for not using the service declined by 16.7 percentage points after the initiative) and the subscription to the service (job searchers were 8.6 percentage points more likely to subscribe to the Job Alerts service after the enhancement of the service was introduced). However, the evaluation finds mixed results in terms of job search activity, and no overall improvement in labour market experience between subscribers to Job Alerts and Job Bank before and after the enhancements with the exception that Job Bank users improved somewhat their tenure at their new job after the enhancement (by 0.2 years or 10 weeks).
+The improved connection between the EI program and Temporary Foreign Worker Program had a minimal impact on the number of Canadians considered and hired for jobs for which employers requested temporary foreign workers.
+A minority of employers interviewed reported that the CCAJ initiative had an impact on the number of Canadians applying and hired for positions for which they normally hire temporary foreign workers. The empirical analysis of the number of temporary foreign worker positions approved and the number of EI claims that started and terminated before and after the CCAJ initiative did not however provide evidence that firms hired EI claimants instead of temporary foreign workers.
+The effectiveness of the Collaboration Projects at reducing EI usage was limited.
+The objective of the Collaboration Projects was to test whether contacting EI claimants early in their claim period to provide them with information regarding employment supports would facilitate a faster return to work and generate EI savings. Only one subgroup of participants (youth in southern interior British Columbia) received less EI benefits as a result of their participation in the projects (1.5 to 2 weeks or $705 per claim, on average). EI usage did not decline for the main targeted groups: youth in British Columbia; occasional claimants in British Columbia; claimants residing in Winnipeg; and claimants residing in the rest of Manitoba. These results indicate that early information provision could potentially be an effective policy for reducing EI benefits paid when targeted at specific subgroups.
+Management response
+The department accepts the findings of the Evaluation of the Connecting Canadians with Available Jobs (CCAJ) initiative and provides the following Management Response.
+Lessons
+The evaluation findings point to four key lessons:
+The changes to the “reasonable job search effort” and “suitable employment” rules might have been more effective at influencing job search efforts if all claimants had been aware of the changes and had been more likely to be monitored and penalized for non-compliance.
+The presentation of the information at the claimant information sessions could have provided a clearer description of claimant obligations.
+Improved targeting of interventions under the Collaboration Projects could have reduced EI usage to a greater extent.
+Little is known about the optimal timing of interventions.
+Management accepts these lessons that were identified by the evaluation and will integrate them into its future efforts.
+The department acknowledges that effective communication of program changes to clients is a critical success factor to achieving the expected results, and will enhance future policy changes with communication strategies that use multiple channels to connect with clients (online, by telephone or in person at a Service Canada Centre).
+In June of 2018, the claimant information session presentation was updated to simplify language and reduce the density of text on the slides in order to clarify and improve comprehensibility of the content.
+The Collaboration Projects confirm that direct contacts with EI clients such as via telephone, are more effective than contacts via mail, for the purpose of delivering relevant information to job seekers and increasing interest in active employment programming.
+The results from the Collaboration Projects also reinforce the idea that mechanisms facilitating early interventions, specifically the national Targeting, Referral and Feedback (TRF) system, have the potential to improve the labour market’s performance. Not only can the TRF system better target clients, it can potentially generate evidence on the optimal timing of EI Part II interventions, which could further lead to better outcomes for participants. The TRF system is already used in Quebec, Alberta, and British Columbia, and will be operational in all jurisdictions by March 31, 2020.
+1.   Introduction
+1.1   Overview
+This report presents the key findings and lessons learned of the evaluation of Employment Insurance measures put in place in 2013 as part of a federal initiative to better connect Canadians with available jobs; the Connecting Canadians with Available Jobs (CCAJ) initiative (the initiative). This initiative was introduced on January 6, 2013 with the objective of helping unemployed workers, and Employment Insurance (EI) claimants in particular, find employment and return to work more quickly. The CCAJ initiative was comprised of four (4) measures which each had their own underlying objectives:
+Legislative changes and enhanced integrity measures to strengthen Employment Insurance (EI) claimant’s obligations to undertake a “reasonable job search” for “suitable employment”.
+Enhancements to Job Alerts and labour market information to support job-search activities.
+Improved connections between the Temporary Foreign Worker Program and the EI program to ensure Canadians are considered before temporary foreign workers.
+Collaboration Projects with interested provinces and territories (Manitoba and British Colombia) to test whether providing EI claimants with information regarding employment supports earlier in their claim would decrease EI usage.
+1.2  Evaluation approach
+The main goal of the evaluation is to assess whether the 4 measures achieved their specific objectives and whether they helped unemployed workers return to work more quickly. The evaluation also gauges other issues related to the relevance, performance and efficiency of the initiative.
+Footnote
+1
+A total of 18 evaluation questions were addressed.
+A total of eleven (11) lines of evidence support the evaluation results. These include two (2) literature reviews, two (2) qualitative projects, five (5) quantitative studies and two (2) experimental projects.
+Appendix A
+summarizes each of these studies and
+Appendix B
+presents a matrix linking the studies to the evaluation questions they address.
+Footnote
+2
+2.   Description of the CCAJ initiative
+Through the Economic Action Plan 2012 Jobs, Growth and Long-term Prosperity, the Government of Canada announced a number of measures with the objective of keeping the EI program fair, flexible while helping Canadians find work. The CCAJ initiative was one of these measures and its objective was to help unemployed workers find employment and return to work more quickly where there are suitable job opportunities available in their local labour market. The 4 measures that comprised the CCAJ initiative are described below.
+2.1  Legislative changes and enhanced integrity measures
+Background/Rationale
+Prior to the CCAJ initiative, the Employment Insurance Act (the Act) outlined general responsibilities for regular claimants to conduct a reasonable job search and included provisions that they be willing to accept suitable employment. However, claimant responsibilities, while receiving employment insurance regular and fishing benefits, were not clearly defined and claimants could restrict their job search efforts to their usual employment and previous wage rates. The lack of clarity in the legislation also limited program compliance measures to ensure claimants were fulfilling their responsibilities to conduct a reasonable job search for suitable employment.
+Objectives
+The objectives of the first component of the CCAJ initiative were to:
+provide claimants with clarity and direction with respect to their responsibilities to seek and accept all suitable employment;
+better enable Service Canada staff to monitor claimants’ eligibility and ensure claimants are fulfilling their responsibilities; and
+support claimants to return to work faster.
+Description of legislative changes
+The EI Regulations were amended to provide objective and measurable criteria to assess claimant’s job search effort and determine what constitutes suitable employment for three categories of claimants. The content of these Regulations that came into force on January 6, 2013 is summarised below
+Footnote
+3
+.
+Reasonable job search
+Claimants' efforts are sustained, are directed toward obtaining suitable employment and consist of a variety of search activities: assessing employment opportunities; preparing a resume or cover letter; registering for job search tools or with electronic job banks or employment agencies; attending job search workshops or job fairs; networking; contacting prospective employers; submitting job applications; attending interviews; and undergoing evaluations of competencies.
+Categories of claimants
+Long-tenured workers are claimants who have paid at least 30% of the maximum annual employee’s premium for 7 out of the last 10 tax years and to whom fewer than 36 weeks of EI regular and fishing benefits were paid over the past five years.
+Frequent claimants are claimants who have three or more regular and fishing claims and to whom over 60 weeks of regular and fishing benefits were paid in the past five years.
+Occasional claimants are claimants not captured by the other two categories.
+Suitable employment
+The type of employment and earnings
+Footnote
+4
+claimants are required to seek and accept depends on the claimant’s category and the time spent on claim as illustrated in Figure 1.
+The hours of work are not incompatible with the claimant’s family obligations or religious beliefs.
+The nature of the work is not contrary to the claimant’s moral convictions or religious beliefs.
+The employment will not put the claimant in a less favourable financial situation than the less favourable of (i) the financial situation that the claimant is in while receiving benefits, and (ii) the financial situation that the claimant was in during their qualifying period.
+The daily commuting time
+Footnote
+5
+to or from the place of work is not greater than one hour or, if it is greater than one hour, it does not exceed the claimant’s daily commuting time during the qualifying period or is not uncommon given the place where the claimant resides. The commuting time is assessed by reference to the modes of commute commonly used in the place where the claimant resides.
+The claimant’s health and physical capabilities allow them to commute to the place of work and to perform the work.
+Figure 1. Work claimants were required to seek and accept under the CCAJ initiative
+Footnote
+6
+Text description of Figure 1
+Figure 1 is a chart that presents the type of employment and earnings that each of the three categories of claimants would be required to seek and accept under the CCAJ initiative depending on their EI claim duration. The chart is labelled vertically from top to bottom, with the categories of claimants: long-tenured workers, occasional and frequent claimants, and horizontally with the EI claim duration from 0 to 19 weeks and more.
+For each category of claimants, the type of employment and earnings is represented with horizontal arrows. Three types of employment and earnings are included in the chart: same occupation and 90% of previous earnings, similar occupation and 80% of previous earnings and any work and 70% of previous earnings.
+From top to bottom, the first line of arrows illustrates that long-tenured workers would be required to seek and accept the same occupation and 90% of previous earnings for an EI claim duration of up to 18 weeks, while above 18 weeks they would be required to seek and accept similar occupation with 80% of previous earnings.
+Occasional claimants would be required to seek and accept:
+the same occupation and 90% of previous earnings for EI claim duration of up to 6 weeks;
+similar occupation and 80% previous earnings for an EI claim duration above 6 weeks and until 18 weeks;
+any work and 70% of previous earnings for EI claim duration of more than 18 weeks.
+Frequent claimants would be required to seek and accept:
+similar occupation and 80% of previous earnings for an EI claim duration of up to 6 weeks;
+any work the claimant is qualified to perform and 70% of previous earnings for EI claim duration of more than 6 weeks.
+Description of enhanced integrity measures
+The enhanced integrity measures that supported the legislative changes included:
+The standardization of how EI claimants were selected for participation in the claimant information sessions. Previously done at the regional level, the selection of claimants for participation in the claimant information sessions was centralized in the National Capital Region. The methodology for identifying participants was also revised to give the priority to claimants with the highest job demand in their previous occupation. These claimants were believed to be most likely to benefit from the enhanced claimant information sessions.
+Footnote
+7
+The claimant information sessions were redesigned to reflect the legislative changes. Three different types of session, one for each category of claimants, were introduced and more emphasis was made on informing claimants of their obligations with a focus on the adequacy of job search activities and the obligation to accept all suitable work. Claimants were also required to submit a detailed job search record to the integrity officer at the start of the claimant information session. Claimants were expected to demonstrate that they are making genuine efforts to find a job. Besides, the sessions continued to provide information about programs and services available to claimants to help them find suitable employment.
+The establishment of compliance investigations and follow-ups tailored to each category of claimants. The priority was on claimants at greatest risk of not meeting their job search responsibilities despite a strong likelihood of finding suitable employment.
+2.2  Enhancements to Job Alerts and labour market information
+Background/Rationale
+Prior to the CCAJ initiative, EI claimants could receive up to three samples of job postings every two weeks when they completed their biweekly EI report through the internet reporting service.  Claimants using the internet reporting service
+Footnote
+8
+also received an invitation to visit the Job Bank website and to subscribe to Job Alerts to receive job postings by email. However, many claimants did not receive any job postings because these postings were drawn exclusively from Job Bank which carried about one in five jobs advertised online in Canada.
+Objective
+The objective of the second component of the CCAJ initiative was to provide claimants with the necessary support to conduct a reasonable job search for suitable employment.
+Description
+The functionality of the Job Alerts system was enhanced via the following features that were introduced in spring 2013:
+Job Alerts provided a more comprehensive list of available jobs as the supply of job postings available in Job Bank (which feeds Job Alerts) was expanded through partnerships with private sector job boards. Job postings from employers seeking to hire temporary foreign workers were also included in the list of available jobs in Jobs Alerts.
+Job Alerts users could choose to receive a greater variety of job postings by subscribing to multiple Job Alerts searches, each referring to a given occupation, sector, region, or any other criteria.
+Job Alerts subscribers were updated more quickly on new job opportunities since they could receive up to two emails per day notifying them of new job postings.
+Job Alerts subscribers were provided with easier access to labour market information as it was included directly in Job Alerts emails, along with a hyperlink to complementary labour market information found on the Job Bank website.
+Job Alerts was promoted more directly to all clients via the EI system for application with the exception of claimants residing in the province of Quebec who were referred to Emploi-Québec instead.
+Footnote
+9
+2.3 Improved connections between the Temporary Foreign Worker Program and the EI Program
+Background/Rationale
+Prior to the CCAJ initiative, employers were approved to bring in approximately 180,000 temporary foreign workers each year to fill labour needs. At the same time, some EI claimants consistently relied on the EI program or collected benefits for prolonged periods of time. Although the lack of alignment between labour supply and demand can be explained by many factors (such as, skills mismatch, geographic considerations, access to childcare, access to transportation, etc.) more could be done to ensure that EI claimants are aware of all employment opportunities.
+Objective
+The objective of the third component of the CCAJ initiative was to ensure that Canadians are considered first before employers can hire temporary foreign workers.
+Description
+The Temporary Foreign Worker Program is jointly managed by ESDC and Immigration, Refugees and Citizenship Canada. ESDC receives applications from employers requesting to hire temporary foreign workers and assess whether there is no Canadian worker available to do the job and how the hiring of a temporary foreign worker will affect the Canadian labour market. Based on this assessment ESDC issues positive, neutral or negative Labour Market Impact Assessment.
+Footnote
+10
+Immigration, Refugees and Citizenship Canada is responsible for issuing work permit to potential temporary foreign workers whose employers received positive Labour Market Impact Assessment. As part of the CCAJ initiative, ESDC pursued a different management of the Temporary Foreign Worker Program through the following changes implemented in 2013:
+Job Alerts provides postings from employers seeking to hire temporary foreign workers which ensure that EI claimants who register to Job Alerts are aware of these employment opportunities if they correspond to their job alerts’ criteria in term regions, occupations, etc.
+The Temporary Foreign Worker Program officers are required to systematically check if employers have laid off Canadians in the previous year and, to do so, they use on the Records of Employment. If it is determined that employers are seeking to replace recently laid off Canadian workers with foreign workers, this may results in a negative decision on issuing a Labour Market Impact Assessment. This ensures that Labour Market Impact Assessments are not issued to employers who lay off Canadians and attempt to hire temporary foreign workers to fill the jobs of those laid off Canadian workers.
+2.4  Collaboration projects
+Background/Rationale
+Prior to the CCAJ initiative, the Government of Canada shared only aggregate information on EI Part I income benefits with the provinces and territories with the exception of Quebec and Alberta whose respective Labour Market Development Agreement includes provisions authorizing the sharing of individual EI claimant information. This information is used to better select EI claimants for participation in employment benefits and support measures designed and delivered by the provinces (such as counselling, training, and subsidised work experience).
+Footnote
+11
+The lack of information on individual EI claimants in other provinces and territories has made it difficult for those provinces and territories to effectively target claimants for support measures. Early targeting of claimants is also very limited because there is no incentive for provinces and territories to act early.
+Objective
+The objective of the fourth component of the CCAJ initiative was to test whether contacting EI claimants early in their claim period to provide them with information regarding employment supports would facilitate a faster return to work and generate EI savings.
+Description
+To meet the objective stated above, the Government of Canada initiated discussions with all provinces and territories for their participation in Collaboration Projects. Agreements were reached with British Columbia and Manitoba and the Collaboration Projects were implemented in these two provinces throughout 2013 and 2014.
+The provinces were responsible for identifying the target groups of EI Part I claimants for participation in the Collaboration Projects. British Columbia identified youth claimants (up to age 30) and occasional claimants. Manitoba also chose to target two groups of claimants: those residing in Winnipeg and those residing outside Winnipeg (Rest of Manitoba).
+Over the course of the projects, the Department employed an approach designed to better assess and measure the effectiveness of contacting claimants early in the claim period. From the target populations, Service Canada selected—on a weekly basis in Manitoba and a monthly basis in British Columbia—4 random samples of EI claimants (one for each target group identified by the province) who had been on claim for 4 to 8 weeks. One part of the sample (referred within the literature as the “treatment group” for this type of approach), was identified to participating provinces so that these EI claimants could receive basic information on the employment services available with the objective of facilitating a faster return to employment.
+Footnote
+12
+In order to assess whether or not this new outreach activity resulted in any appreciable change in employment outcomes, the remaining part of the sample (the “control group”) were not identified for this new additional outreach activity, but did continue to receive EI benefits and have access to provincial Employment Benefits and Support Measures and Service Canada resources regularly provided to EI claimants. In this way, any differences in the speed at which claimants no longer required EI could be more easily attributed to the new activity after controlling for other factors.
+3. Key findings
+3.1 Legislative changes and enhanced integrity measures
+Description
+The EI regulations were amended to include new criteria defining claimants’ obligations to undertake a “reasonable job search” for “suitable employment”. The claimant information sessions were also redesigned to reflect the legislative changes and inform claimants of the new criteria. The objectives of this CCAJ measure was to clarify claimant’s obligations, better enable Service Canada staff to monitor claimants on the fulfillment of their responsibilities, and support claimants to return to work faster.
+Findings
+The evaluation found evidence supporting the need for facilitating more effective job searches and encouraging claimants to accept all suitable work. Data covering the pre-CCAJ period (2010 and 2011) suggest that about 13 to 14% of EI regular claimants did not fulfill their job search obligations as they did not look for work while collecting benefits and did not report a valid reason for not searching. Moreover, EI regular claimants were less likely to use active job search methods (contacting employers directly, working at jobs on short term trial basis) and more likely to delay job start than non EI claimants.
+Footnote
+13
+However, awareness of the “reasonable job search” for “suitable employment” rules among focus group participants was low. Only about one (1) in four (4) focus group participants remembered something about the “reasonable job search” for “suitable employment” rules despite the fact that about half of them attended a claimant information session. Among participants who had heard at least some aspects of the rules for “suitable employment”, there were significant inaccuracies in their knowledge of the number of thresholds where job search must be expanded, the time frames for each threshold, and/or the percentage wage level associated with each threshold. There were only several participants (all long-tenured workers) who knew enough of the rules to be able to accurately follow the rules. Moreover, the majority of focus group participants said these obligations had no impact on their job search since they believed they were already in compliance with the EI rules.
+Footnote
+14
+A study based on the Canadian Out-of-Employment Panel survey supports focus group findings as claimants (long-tenured workers, occasional claimants and frequent claimants) who established a claim after the introduction of the CCAJ initiative were not found to be significantly different in terms of their job search activities from those who had a claim in the pre-CCAJ period.
+Footnote
+15
+The objective of better enabling Service Canada staff to monitor claimants seemed to have been achieved. A first study compared the period of January 6, 2013 to January 4, 2014 (post-CCAJ) to the period of January 8, 2012 to January 5, 2013 (pre-CCAJ period) and showed that the increase in the incidence of CCAJ-related disqualifications and disentitlements between the two periods was significant for all claimants altogether.
+Footnote
+16
+Another study found similar results for the three categories of EI claimants when comparing the period of January 25, 2009 to September 11, 2010 (pre-CCAJ) to the period of January 27, 2013 to September 13, 2014 (post-CCAJ).
+Footnote
+17
+The probability of having a disqualification or disentitlement due to inadequate job searches or failing to accept suitable job offers doubled after the introduction of the CCAJ initiative, but remained low. Despite this increase, the proportion of claimants with a disqualification or disentitlement due to inadequate job searches or failing to accept suitable job offers remained marginal at about 0.12% in the year following the launch of the initiative compared to 0.06% in the preceding year.
+As for helping claimants return to work faster, the claimant information sessions seem to have met this goal: EI claimants directed to a claimant information session (claimants with the highest job demand in their previous occupation) were 1.3 times more likely to report finding work at the end of their claim compared to claimants not directed to a session. Claimants directed to an information session also used about 1 week less of EI benefits compared to claimants not directed to a session.
+Footnote
+18
+There is one criteria of the “suitable employment” definition that might have negatively affected some claimants. That is the criteria that required claimants to broaden the type of work and earnings they must seek and accept after a given number of weeks on claim:
+Long-tenured workers who terminated their claim shortly after the week where they had to expand their job search to include similar occupation offering 80% of previous earnings (the 18th week of the claim) spent less time searching for a job than long-tenured workers who terminated their claims just before the 18th week.
+The probability of transitioning to a permanent job was lower for long-tenured workers who crossed the first threshold (18th week) where they were expected to expand their job search compared to their counterparts who did not cross the threshold.
+The probability of moving to take or find a job and the number of search method used were lower for frequent claimants who terminated their claim shortly after the 6th week (the threshold where frequent claimants had to expand their job search from “similar occupation, 80% of previous earnings” to “any work, 70% of previous earnings”) than frequent claimants who terminated their claim before the 6th week.
+Footnote
+19
+3.2 Enhancements to Job Alerts and labour market information
+Description
+The functionality of the Job Alerts system – an email notification service that informs subscribers about job openings advertised at an online job board (Job Bank) – was enhanced by improving the timeliness with which subscribers are informed about available jobs, by broadening the pool of job postings sent to subscribers, and by improving access to labour market information. The objective of this CCAJ measure was to provide EI claimants with the necessary support to conduct a reasonable job search for suitable employment.
+Findings
+The evaluation findings confirmed that there was a need to improve job search support. Among individuals who were laid off from their job in 2010 or 2011 (pre-CCAJ period), about 35% said that their chances of finding a job were not very good and about 19% of them said that what would help the most is job search assistance. No difference was observed between EI regular claimants and non EI claimants which indicates that both groups equally needed support.
+Footnote
+20
+The findings of this evaluation suggest that the enhancements to Job Alerts and Job Bank had some positive effects. The evidence suggests that the initiative was successful at improving the awareness of the existence of the Job Alerts service and the subscription to the service:
+job seekers were 8.6 percentage points more likely to subscribe to Job Alerts after the changes;
+those who started job search after Job Alerts enhancements were 16.7 percentage points less likely to report not using Job Alerts because of being unaware.
+Despite the enhancements made to Job Alerts and Job Bank, the evaluation finds no evidence of a change in the perception of users/subscribers about the increased timeliness of available information, the increased number of job postings available, the increased availability of labour market information offered by the two services. The evaluation also finds that Job Alerts and Job Bank users rating of the two services in terms of usefulness in finding a job was lower after the enhancements (by about 5%).
+Nevertheless, higher intensity of exposure to Job Alerts (the number of alerts/jobs per alert received) improved the rating of the service in terms of their usefulness to access labour market information.
+Footnote
+21
+As far as search activity and overall labor market experience is concerned, the evaluation finds that users of Job Alerts and Job Bank were 5 to 6 percentage points more likely to report the Internet as a successful search method that led to a job compared to those who did not use the services. Also, larger exposure to Job Alerts is found to be positively linked to the number of interviews and job offers, the number of hours of search in a typical week, and the likelihood of switching from a temporary to a permanent job. However, the evaluation finds no measurable differences in search activity and overall labour market experience between subscribers to Job Alerts and Job Bank users before and after the enhancements, with the exception of Job Bank users who improved somewhat their tenure at their new job (by about 0.2 year or 10 weeks) after the enhancements.
+Footnote
+22
+3.3 Improved connections between the Temporary Foreign Worker Program and the EI Program
+Description
+The connections between the Temporary Foreign Worker Program and the EI program were strengthened by verifying that employers are not laying off Canadians and attempting to hire temporary foreign workers for the same job, and by ensuring Job Alerts users become aware of job opportunities before temporary foreign workers are hired. The objective of this CCAJ measure was to ensure Canadians are considered before temporary foreign workers.
+Findings
+The evaluation found that in all EI economic regions and two digit National Occupational Classification codes, the pool of EI claims was larger than the pool of temporary foreign worker positions in the year prior to the introduction of the CCAJ initiative. On average in Canada, there were about 19 new EI claims for each new temporary foreign worker positions approved in 2012. In some occupations and regions, the number of new EI claims was 900 to 1,000 times higher than the number of temporary foreign worker positions. This suggests that the chances that some EI claimants could have filled the jobs that were being offered to temporary foreign workers might have been high. However, the actual matching potential between EI claimants and temporary foreign worker positions is unknown since the specific skills, knowledge and experiences required for the temporary foreign worker jobs and the qualifications of EI claimants are not observed. The large number of EI claimants for each job offered to temporary foreign workers in some regions and occupations nevertheless support the objective of better linking the EI program and Temporary Foreign Worker Program.
+Footnote
+23
+The evidence suggests that the third CCAJ measure met to minimal extent its objective of ensuring Canadians are considered before temporary foreign workers. About 53% of employers interviewed had decreased their number of applications for temporary foreign workers between 2012 and 2013. However, only 3% of them attributed this decline to the CCAJ initiative. Some employers (13%) said that they noticed an increase in the number of Canadians applying for positions for which they normally hire temporary foreign workers. Of these, approximately half indicated they believed candidates had become aware of the positions through the Job Bank. Yet, only 7% of respondents thought the increase in the number of applications was associated with the CCAJ initiative. Finally, 20% of respondents indicated that they had noticed an increased in the number of Canadians hired for jobs for which they would normally have hired temporary foreign workers. However, a minority (3%) of respondents thought the CCAJ initiative had contributed to this increase.
+Footnote
+24
+The empirical analysis did not provide evidence that the CCAJ initiative coincided with a rise in the number or probability of EI claims ending, as one would expect to see if the drop in temporary foreign worker approved positions observed after the CCAJ initiative was due to firms hiring EI claimants in their region rather than temporary foreign workers.
+Footnote
+25
+3.4 Collaboration Projects
+Description
+The Collaboration Projects were experiments conducted in interested provinces and territories (Manitoba and British Colombia) with EI claimants. The objective of the projects was to test whether contacting EI claimants early in their claim period to offer them information about employment programs and services would help them return to work and generate EI savings.
+Findings
+Results from experimental research conducted abroad suggest that information provision similar to what was done with the Collaboration Projects can be effective for improving employment outcomes of job seekers when it is targeted at specific subgroups.
+Footnote
+26
+The Collaboration Projects did not meet its objective of reducing EI usage for the 4 main groups of participants (youth in British Colombia; occasional claimants in British Colombia; claimants residing in Winnipeg; and claimants residing in the rest of Manitoba). Only one subgroup, youth in Southern Interior British Columbia, used less EI benefits (1.5 to 2 weeks or $705 less per claim on average) after being contacted and offered information about employment programs and services compared to a control group of similar claimants who were not contacted. Whether these claimants found work was however not measured.
+Footnote
+27
+The effectiveness of the Collaboration Projects at reducing EI usage for a given subgroup suggests that this type of intervention could generate significant savings to the EI operating account if better targeted at EI claimants who are likely to benefit from receiving information about employment programs and services.
+3.5 Combination of the four CCAJ measures
+Description
+The CCAJ initiative consisted of 4 measures implemented throughout 2013 and 2014:
+Legislative changes and enhanced integrity measures
+Enhancements to Job Alerts and labour market information
+Improved connections between the Temporary Foreign Worker Program and the EI program
+Collaboration Projects
+While each CCAJ measure had its own goal, the main objective of the CCAJ initiative as a whole was to help EI claimants return to work more quickly.
+Findings
+Two empirical studies measured the impacts of the CCAJ initiative as a whole (the 4 measures combined) on EI usage and one of them also considered impacts on EI claimants’ re-employment probabilities, job search efforts, and other outcomes. Overall results are mixed and inconclusive. This is not surprising given that the effects of each individual CCAJ measure were modest and/or restricted to a small part of the population.
+One study that compared the year prior to the CCAJ initiative (January 8, 2012 to January 5, 2013) to the year following the introduction of the CCAJ initiative (January 6, 2013 to January 4, 2014) found that EI usage significantly increased for all claimants.
+Footnote
+28
+However, another study that compared the period of January 25, 2009 to September 11, 2010 (pre-CCAJ) to the period of January 27, 2013 to September 13, 2014 (post-CCAJ) found that EI usage decreased for occasional claimants (by $1,200 to $1,300 per claim) and for frequent claimants (by $1,500 to $1,600 per claim) between the two periods. The re-employment probabilities were also found to have increased by 71% for occasional claimants and by 51% for frequent claimants between the pre and post-CCAJ periods. Yet, the study did not provide evidence indicating that claimants increased their job search efforts (probability of looking for work, proportion of the unemployment spell spent looking, hours per week spent looking, number of method used, and probability of moving to take or find a job) after the introduction of the CCAJ initiative.
+Footnote
+29
+The lack of change in job search effort combined with the increase in re-employment probabilities could mean two things: the faster return to work observed for occasional and frequent claimants was obtained at the expense of lower quality job; and/or the Job Alerts changes improved the efficiency of job searches. The evidence on these effects is however not strong enough to settle the question (mixed results were found on whether the changes to Job Alerts provided enhanced job search support
+Footnote
+30
+; and on the impacts of the CCAJ initiative on job quality
+Footnote
+31
+). There is also the possibility that the study did not perfectly control for changes in the economic conditions and that the faster return to work observed for occasional and frequent claimants was due to the economic recovery experienced between the two periods analysed rather than to the CCAJ initiative.
+4.   Lessons learned
+Some key pieces of evidence generated by the evaluation of the CCAJ initiative brought out interesting observations that can be taken into consideration in the development of future EI policies. These observations or “lessons learned” are briefly discussed below.
+The changes to the “reasonable job search effort” and “suitable employment” rules might have been more effective at influencing job search efforts if all claimants had been aware of the changes and had been more likely to be monitored and penalized for non-compliance.
+The CCAJ initiative introduced changes to the “reasonable job search effort” and “suitable employment” rules claimants must comply with in order to remain eligible for EI benefits. Claimants who did not attend a claimant information session (about 90% of regular and fishing claimants) were not directly informed of these changes. Moreover, for non-claimant information session attendees, the legislative changes did not come along with an increased risk of being investigated and of being penalized for non-compliance. Indeed, the additional compliance investigation focused on claimants at greater risk of not meeting their obligations as identified through the claimant information sessions. Focus group participants actually commented that they had not seen any sign that the EI program was checking on whether they were complying with the new rules.
+Footnote
+32
+The presentation of the information at the claimant information sessions could have provided a clearer description of claimant obligations.
+Most focus group participants who heard some aspects of the “reasonable job search” and “suitable employment” rules had heard the rules at a claimant information session which suggests that the sessions played a very important role in disseminating information on claimants’ responsibilities. The number of participants who did remember something about the rules was however low despite the high level of claimant information session attendance. This indicates that a substantial number of claimant information session attendees did not retain the information provided at the sessions and indeed participants told the moderator this was the case.
+Footnote
+33
+Improved targeting of interventions under the Collaboration Projects could have reduced EI usage to a greater extent.
+Participants in the Collaboration Projects were broadly defined as: youth in British Colombia; occasional claimants in British Colombia; claimants residing in Winnipeg; and claimants residing in the rest of Manitoba. A better targeting of EI claimants who are likely to be more responsive to interventions (for example, those who lack information about employment programs and services and who are likely to benefit from receiving this information) could perhaps improve the effectiveness of interventions similar to the Collaboration Projects.
+Little is known about the optimal timing of interventions.
+The ineffectiveness of the Collaboration Projects at reducing EI usage in the short term for the 4 main groups of participants could be explained by the fact that the timing of the treatment was not optimal. Claimants were contacted 17 weeks and 11 weeks after the start of their claim on average in British Columbia and Manitoba respectively. At that time, 21% of claimants in British Columbia and 10% of claimants in Manitoba had already left EI and for these claimants the treatment was obviously ineffective. On the other hand, at the time of the contact, a significant portion of the entitlement of claimants remaining on EI had not been used (about 40% in British Columbia and 60% in Manitoba) which means the potential for reducing EI usage was still high.
+Footnote
+34
+Whether information about programs and services should be provided earlier (to reach the maximum number of claimants still receiving benefits) or later (to treat claimants when they start being discouraged and are more likely to respond to the treatment) is a question that could be investigated.
+Bibliography
+PDF version of the following documents can be ordered by calling 1 800 O-Canada (1-800-622-6232). If you use a TTY, call 1-800-926-9105. The PDF version can only be sent via e-mail. Please note there will be a certain delay before receiving the documents.
+ESDC. (2014a). A Survey of Evidence on Job Search Inefficiencies.
+ESDC. (2014b). A Survey of Evaluation Findings on Measures Designed to Encourage a Quick Return to Work (by Jones, Stephen).
+ESDC. (2014c). A Synthesis of Lessons Learned in Learning and Labour Market Information.
+ESDC. (2014d). Case Studies with Employers for the Evaluation of the Connecting Canadians with Available Jobs (CCAJ) Initiative.
+ESDC. (2015). Connecting Canadians with Available Jobs (CCAJ) Initiative – Impacts of the Collaboration Projects with British Columbia and Manitoba.
+ESDC. (2016a). Early Impacts of the Connecting Canadians with Available Jobs (CCAJ) Initiative.
+ESDC. (2016b). Employment Insurance Claimant Take-Up of Job Alerts (by Brenčič, Vera and Dubois, Julie).
+ESDC. (2016c). Focus Groups for the Evaluation of the Connecting Canadians with Available Jobs (CCAJ) Initiative.
+ESDC. (2016d). Government of Canada’s Connecting Canadians with Available Jobs Initiative – Impact assessment of the component involving Enhanced Integrity activities.
+ESDC. (2017). Impacts of the Connecting Canadians with Available Jobs (CCAJ) Initiative on Job Search Efforts and Job Characteristics.
+Worswick, Christopher and Marcel Voia. (2017). The Connecting Canadians with Available Jobs Initiative: Implications for the hiring of Temporary Foreign Workers and Employment Insurance Claimants.
+Appendix A -  Lines of evidence
+The following studies were used as lines of evidence for the evaluation of the Connecting Canadians with Available Jobs (CCAJ) initiative.
+Literature reviews
+A literature review on the impacts of labour market information in Canada and abroad had been planned by ESDC Evaluation Directorate prior to the launch of the CCAJ evaluation. Although this study does not focus on specific labour market information components of the CCAJ initiative, it does provide evidence to help assess the rationale of the initiative. For example, the study summarises findings from the Summative Evaluation of HRSDC Labour Market Information Products and Services (2005) as well as results from six experiments conducted by the department over the 2005 to 2008 period to measure the impact of labour market information on employment outcomes and intermediate outcomes.
+Footnote
+35
+Another literature review was conducted specifically for the evaluation of the CCAJ initiative. This study reviews the international evidence on the impacts of policies similar to the CCAJ initiative; in other words, policies aimed at reducing unemployment duration and EI usage. Results on the effectiveness of these measures were used to gauge the rationale of the CCAJ initiative.
+Footnote
+36
+Qualitative studies
+In 2014, 93 case study interviews were conducted with employers who submitted Labour Market Opinion applications to hire temporary foreign workers through the Temporary Foreign Worker Program in 2012 and 2013. Employers interviewed were representative of the population of heaviest users of the Temporary Foreign Worker Program (based on the number of positions requested). Findings from this study provide qualitative evidence on whether the third component of the CCAJ initiative achieved its objective.
+Footnote
+37
+Focus groups were conducted in November 2015 in 4 locations (Halifax, Laval, Toronto and Edmonton) with EI recipients who established a claim in 2013 or later. In each location, three focus groups were conducted, one with each claimant type (frequent claimants, occasional claimants, and long-tenured workers). Focus groups participants provided their views on several evaluation questions related to the impacts of the CCAJ initiative.
+Footnote
+38
+Quantitative studies
+A statistical study based on the Canadian Out-of-Employment Panel survey and the Employment Insurance Coverage Survey (EICS) analyses the job search behaviours of unemployed individuals who were laid off from their job in 2010 or 2011 (pre-CCAJ period). EI regular recipients are compared to non EI recipients with regards to several job search indicators to address a question related to the rationale of the initiative: What is the evidence suggesting inefficiencies in the job search behaviour of EI claimants?
+Footnote
+39
+One econometric study measured the impacts of the CCAJ initiative on various outcomes of EI claimants: weeks and amount of EI benefits paid, probability of having disqualifications or disentitlements due to inadequate job searches or failing to accept suitable job offers, job search activities, unemployment duration, and post-claim job characteristics. Different econometric models are estimated using EI administrative data and Canadian Out-of-Employment Panel survey data to provide evidence on several questions related to the performance of the initiative.
+Footnote
+40
+An econometric study focuses on the second component of the CCAJ initiative (changes to Job Alerts and labour market information). The study relies on EI administrative data and Canadian Out-of-Employment Panel survey data and uses various econometric approaches to assess whether the usage of Job Alerts, Job Bank and labour market information increased as a result of the CCAJ initiative and whether the usage of these services had an impact on the labour market outcomes of users.
+Footnote
+41
+Another econometric study examines the impacts of the third components of the CCAJ initiative (improved connections between the Temporary Foreign Worker Program and the EI program). The study uses Temporary Foreign Worker Program and EI administrative data and multivariate analysis to study the determinants of changes over time in the number of claimants and number of temporary foreign worker positions requested and approved. The effect of the CCAJ initiative on these changes is isolated from the effect of other factors. This study provides evidence on whether the CCAJ initiative helped ensure Canadians are considered before temporary foreign workers.
+Footnote
+42
+A statistical study based on EI administrative data assesses the short term effects of the CCAJ initiative as a whole. The study looks at trends in the incidence of disqualification/disentitlement and EI usage (weeks and amount of EI benefits paid) in the one year period prior to and following the introduction of the CCAJ initiative. The effect of the CCAJ initiative on these outcomes is isolated from the effects of other factors using multivariate analyses.
+Footnote
+43
+Experimental studies
+An experimental study was conducted to measure the effects of the Claimant Information (CI) sessions that were redesigned as part of the CCAJ initiative (first component). The process to select claimants for sessions was standardized and based on a random allocation to treatment (directed to sessions) and control (not directed to sessions) groups. The impact of the redesigned sessions was measured by comparing the two groups on a number of indicators, including the length of claim, claim exhaustion, report of finding work and applied disentitlements and disqualifications.
+Footnote
+44
+Another experimental study was designed to estimate the impacts of the Collaboration Projects, the fourth component of the CCAJ initiative. The Collaboration Projects were implemented in British Columbia and Manitoba and took the form of field experiments in which a random group of EI claimants within a targeted population was assigned to the treatment group to be contacted early in their claim about available employment program and services or assigned to a control group (see section 2.4). The causal impact of this outreach activity (or the “treatment effects”) was estimated by comparing the EI outcomes (claim duration, weeks and amount of EI benefits paid, probability of training) of the two randomly selected samples of claimants, while also controlling for observed differences in the characteristics of the two groups via regression and matching models.
+Footnote
+45
+Appendix B - Evaluation questions
+Need for the Program
+What are the evidence suggesting inefficiencies in the job search behaviours of EI claimants?
+Lines of evidence: Quantitative studies, literature reviews
+What is the state of knowledge on the use of labour market information and its impacts on labour market outcomes?
+Lines of evidence: Literature reviews
+What is the matching potential between EI claimants and the jobs that are filled or expected to be filled by temporary foreign workers?
+Lines of evidence: Quantitative studies
+What are the potential benefits of worker profiling and early intervention strategies?
+Lines of evidence: Literature reviews
+Achievement of expected outcomes and secondary impacts
+Did the CCAJ initiative clarify claimants’ responsibilities to seek and accept all suitable employment?
+Lines of evidence: Qualitative studies
+Did the CCAJ initiative increase benefit disqualifications and/or disentitlements due to inadequate job searches or failing to accept suitable job offers?
+Lines of evidence: Quantitative studies
+Did the CCAJ initiative encourage claimants to return to work faster and reduce unemployment duration?
+Lines of evidence: Experimental studies, quantitative studies, qualitative studies
+Did the CCAJ initiative reduce EI usage (claim duration, benefit paid, frequency of claims)?
+Lines of evidence: Experimental studies, quantitative studies
+What was the impact of the CCAJ initiative on the type of work accepted by EI claimants (for example, earning, location)?
+Lines of evidence: Quantitative studies, qualitative studies
+What was the impact of the CCAJ initiative on work patterns of EI claimants (for example, movement from seasonal to permanent jobs)?
+Lines of evidence: Quantitative studies, qualitative studies
+Did the CCAJ initiative reduce the number of employers requesting and receiving government permission to hire temporary foreign workers? Where and to what extent did the number reduce?
+Lines of evidence: Quantitative studies, qualitative studies
+Did the CCAJ initiative increase the number of claimants matched to positions expected to be filled by temporary foreign workers?
+Lines of evidence: Quantitative studies, qualitative studies
+Was enhanced labour market information made available to EI claimants as a result of the CCAJ initiative?
+Lines of evidence: Quantitative studies, qualitative studies
+Did the enhanced labour market information help claimants make informed career decisions?
+Lines of evidence: Quantitative studies, qualitative studies
+Did the CCAJ initiative generate savings to the EI Operating Account?
+Lines of evidence: Experimental studies, quantitative studies
+Demonstration of efficiency and economy
+Did the CCAJ initiative improve the overall efficiency of the EI program?
+Lines of evidence: Experimental studies, quantitative studies
+Footnotes
+Footnote 1
+The evaluation covered the five core evaluation issues identified in the 2009 Treasury Board’s Policy on Evaluation which was in place when the evaluation of the CCAJ initiative started (See
+Appendix B
+).
+Return to footnote
+1
+referrer
+Footnote 2
+For further details, the individual technical studies are available upon request.
+Return to footnote
+2
+referrer
+Footnote 3
+Source: See Canada
+Gazette, Vol. 146, No. 26 - December 19, 2012
+Return to footnote
+3
+referrer
+Footnote 4
+Note that this criterion was repealed on July 3, 2016. See Canada
+Gazette, Vol. 150, No. 14 - July 13, 2016
+Return to footnote
+4
+referrer
+Footnote 5
+Note that this criterion was repealed on July 3, 2016. See Canada
+Gazette, Vol. 150, No. 14 - July 13, 2016
+Return to footnote
+5
+referrer
+Footnote 6
+“Same occupation” means any occupation in which the claimant worked during their qualifying period. “Similar occupation” means any occupation in which the claimant is qualified to work and which entails duties that are comparable to the ones that the claimant had during their qualifying period. “Any work” includes an occupation in which the claimant could become qualified to work through on-the-job training. “Previous earnings” refer to earnings from the employment in which the claimant worked for the greatest number of hours during the qualifying period.
+Return to footnote
+6
+referrer
+Footnote 7
+A cut off was also applied to eliminate claimants with the lowest job demand in their previous occupation.
+Return to footnote
+7
+referrer
+Footnote 8
+To receive EI benefits, most claimants must complete and submit biweekly reports to demonstrate their continuing entitlement. The Internet Reporting Service allows claimants to do so easily and securely over the Internet. In 2012 to 2013, 99.9% of eligible claimants filed their biweekly reports electronically.
+Return to footnote
+8
+referrer
+Footnote 9
+The job listings and job bank messaging displayed on the AppliWeb Confirmation and Information page prior to implementation of the CCAJ initiative was removed. Clients were presented instead with a new link, titled “Continue Job Search.” This link directs the client to the Job Alerts subscription page.
+Return to footnote
+9
+referrer
+Footnote 10
+Note that the evaluation of the EI and Temporary Foreign Worker Program component of the CCAJ initiative covers the period during which the old Labour Market Opinion process was in place. The Labour Market Impact Assessment replaced the Labour Market Opinion process on June 20, 2014.
+Return to footnote
+10
+referrer
+Footnote 11
+Labour Market Development Agreements are bilateral agreements signed between the Government of Canada and all provinces and territories. Under these agreements, the provinces and territories are responsible for the design and delivery of programs similar to the employment benefits and support measures established under Part II of the EI Act.
+Return to footnote
+11
+referrer
+Footnote 12
+In British Columbia, claimants were informed about the services delivered though Employment Program of British Columbia. In Manitoba, claimants received information about programs and services available at Manitoba Jobs & Skills Development Centres.
+Return to footnote
+12
+referrer
+Footnote 13
+ESDC. (2014a). A Survey of Evidence on Job Search Inefficiencies.
+Return to footnote
+13
+referrer
+Footnote 14
+ESDC. (2016c). Focus Groups for the Evaluation of the Connecting Canadians with Available Jobs (CCAJ) Initiative.
+Return to footnote
+14
+referrer
+Footnote 15
+ESDC. (2017a). Impacts of the Connecting Canadians with Available Jobs (CCAJ) Initiative on Job Search Efforts and Job Characteristics.
+Return to footnote
+15
+referrer
+Footnote 16
+ESDC. (2016a). Early Impacts of the Connecting Canadians with Available Jobs (CCAJ) Initiative.
+Return to footnote
+16
+referrer
+Footnote 17
+ESDC. (2017a). Impacts of the Connecting Canadians with Available Jobs (CCAJ) Initiative on Job Search Efforts and Job Characteristics.
+Return to footnote
+17
+referrer
+Footnote 18
+ESDC. (2016d). Government of Canada’s Connecting Canadians with Available Jobs Initiative – Impact assessment of the component involving Enhanced Integrity activities.
+Return to footnote
+18
+referrer
+Footnote 19
+ESDC. (2017). Impacts of the Connecting Canadians with Available Jobs (CCAJ) Initiative on Job Search Efforts and Job Characteristics.
+Return to footnote
+19
+referrer
+Footnote 20
+ESDC. (2014a). A Survey of Evidence on Job Search Inefficiencies.
+Return to footnote
+20
+referrer
+Footnote 21
+ESDC. (2016b). Employment Insurance Claimant Take-Up of Job Alerts (by Brenčič, Vera and Julie Dubois).
+Return to footnote
+21
+referrer
+Footnote 22
+ESDC. (2016b). Employment Insurance Claimant Take-Up of Job Alerts (by Brenčič, Vera and Julie Dubois).
+Return to footnote
+22
+referrer
+Footnote 23
+Worswick, Christopher and Marcel Voia. (2017). The Connecting Canadians with Available Jobs Initiative: Implications for the hiring of Temporary Foreign Workers and Employment Insurance Claimants.
+Return to footnote
+23
+referrer
+Footnote 24
+ESDC. (2014d). Case Studies with Employers for the Evaluation of the Connecting Canadians with Available Jobs (CCAJ) Initiative.
+Return to footnote
+24
+referrer
+Footnote 25
+Worswick, Christopher and Marcel Voia. (2017). The Connecting Canadians with Available Jobs Initiative: Implications for the hiring of Temporary Foreign Workers and Employment Insurance Claimants.
+Return to footnote
+25
+referrer
+Footnote 26
+ESDC. (2014b). A Survey of Evaluation Findings on Measures Designed to Encourage a Quick Return to Work (by Jones, Stephen).
+Return to footnote
+26
+referrer
+Footnote 27
+ESDC. (2015). Connecting Canadians with Available Jobs (CCAJ) Initiative – Impacts of the Collaboration Projects with British Columbia and Manitoba.
+Return to footnote
+27
+referrer
+Footnote 28
+ESDC. (2016a). Early Impacts of the Connecting Canadians with Available Jobs (CCAJ) Initiative.
+Return to footnote
+28
+referrer
+Footnote 29
+ESDC. (2017). Impacts of the Connecting Canadians with Available Jobs (CCAJ) Initiative on Job Search Efforts and Job Characteristics.
+Return to footnote
+29
+referrer
+Footnote 30
+ESDC. (2016b). Employment Insurance Claimant Take-Up of Job Alerts (by Brenčič, Vera and Julie Dubois).
+Return to footnote
+30
+referrer
+Footnote 31
+ESDC. (2017). Impacts of the Connecting Canadians with Available Jobs (CCAJ) Initiative on Job Search Efforts and Job Characteristics.
+Return to footnote
+31
+referrer
+Footnote 32
+ESDC. (2016c). Focus Groups for the Evaluation of the Connecting Canadians with Available Jobs (CCAJ) Initiative.
+Return to footnote
+32
+referrer
+Footnote 33
+ESDC. (2016c). Focus Groups for the Evaluation of the Connecting Canadians with Available Jobs (CCAJ) Initiative.
+Return to footnote
+33
+referrer
+Footnote 34
+ESDC. (2015). Connecting Canadians with Available Jobs (CCAJ) Initiative – Impacts of the Collaboration Projects with British Columbia and Manitoba.
+Return to footnote
+34
+referrer
+Footnote 35
+ESDC. (2014c). A Synthesis of Lessons Learned in Learning and Labour Market Information.
+Return to footnote
+35
+referrer
+Footnote 36
+ESDC. (2014b). A Survey of Evaluation Findings on Measures Designed to Encourage a Quick Return to Work (by Jones, Stephen).
+Return to footnote
+36
+referrer
+Footnote 37
+ESDC. (2014d). Case Studies with Employers for the Evaluation of the Connecting Canadians with Available Jobs (CCAJ) Initiative.
+Return to footnote
+37
+referrer
+Footnote 38
+ESDC. (2016c). Focus Groups for the Evaluation of the Connecting Canadians with Available Jobs (CCAJ) Initiative.
+Return to footnote
+38
+referrer
+Footnote 39
+ESDC. (2014a). A Survey of Evidence on Job Search Inefficiencies.
+Return to footnote
+39
+referrer
+Footnote 40
+ESDC. (2017). Impacts of the Connecting Canadians with Available Jobs (CCAJ) Initiative on Job Search Efforts and Job Characteristics.
+Return to footnote
+40
+referrer
+Footnote 41
+ESDC. (2016b). Employment Insurance Claimant Take-Up of Job Alerts (by Brenčič, Vera and Julie Dubois).
+Return to footnote
+41
+referrer
+Footnote 42
+Worswick, Christopher and Marcel Voia. (2017). The Connecting Canadians with Available Jobs Initiative: Implications for the hiring of Temporary Foreign Workers and Employment Insurance Claimants.
+Return to footnote
+42
+referrer
+Footnote 43
+ESDC. (2016a). Early Impacts of the Connecting Canadians with Available Jobs (CCAJ) Initiative.
+Return to footnote
+43
+referrer
+Footnote 44
+ESDC. (2016d). Government of Canada’s Connecting Canadians with Available Jobs Initiative – Impact assessment of the component involving Enhanced Integrity activities.
+Return to footnote
+44
+referrer
+Footnote 45
+ESDC. (2015). Connecting Canadians with Available Jobs (CCAJ) Initiative – Impacts of the Collaboration Projects with British Columbia and Manitoba.
+Return to footnote
+45
+referrer
+Report a problem or mistake on this page
+Please select all that apply:
+A link, button or video is not working
+It has a spelling mistake
+Information is missing
+Information is outdated or wrong
+Login error when trying to access an account
+I can't find what I'm looking for
+Other issue not in this list
+Submit
+Thank you for your help!
+You will not receive a reply. For enquiries,
+contact us
+.
+Date modified:
+2022-04-20
