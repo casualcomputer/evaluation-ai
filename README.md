@@ -2,6 +2,24 @@
 
 Open repository of codes to train language models for program evaluations.
 
+
+## Usage
+### Clone the repository
+
+```bash
+git clone https://github.com/casualcomputer/evaluation-ai.git
+```
+
+### Navigate to the script location
+you can use `-h` with the scripts to see the help messages.
+
+```bash
+```bash
+cd evaluation-ai/src/data/
+python 00_load_raw_data.py
+python 01_extract_text.py
+```
+
 ## Data Sources
 
 | Source Name              | Source Link                                                                                                                                             | Number of Extracted Reports |
