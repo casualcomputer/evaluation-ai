@@ -1,4 +1,5 @@
 import os
+import random
 
 import requests
 from bs4 import BeautifulSoup
@@ -29,7 +30,7 @@ class BaseWebScraper:
     
     
     SAVE_PATH = '../../data'
-
+    
 
     def __init__(self, base_url, prefix, patterns, p_patterns=None, save_path=SAVE_PATH, verbose=True):
         self.base_url = base_url
