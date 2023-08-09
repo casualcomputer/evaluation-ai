@@ -23,6 +23,7 @@ def clear_files(base_folder, patterns=""):
     for file in get_files(base_folder, patterns):
         os.remove(file)
 
+
 def get_files(base_folder, pattern=""):
     """
     Gets all files in the base_folder folder and subfolder, as long as it matches the pattern(s).
