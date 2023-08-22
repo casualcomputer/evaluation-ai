@@ -1,0 +1,92 @@
+Audit of Information Received Under Memorandum of Understanding with Respect to Integrated Business Registration and Change of Business Information - Province of Ontario
+Corporate Audit and Evaluation Branch
+October 2006
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings
+Use and Disclosure of Information
+Security and Safeguarding of Information
+Management Of User Access Privileges
+Encryption
+Destruction of Information
+Security Awareness
+Conclusion
+Executive Summary
+The Canada Revenue Agency (CRA) has entered into a large number of Memoranda of Understanding (MOUs) and agreements with federal, provincial and territorial departments and agencies.This audit dealt with information received by the CRA under the MOU with respect to
+Integrated Business Registration and Change of Business Information
+between the Canada Revenue Agency and the Province of Ontario (Ministry of Government Services)
+signed on March 30, 2004.
+Information exchange MOUs signed since 2001 generally include a clause whereby both parties will conduct periodic internal audits of the use, communication to others, and security with respect to information provided to each other. The MOU with the Ministry of Government Services (MGS) stipulates that the first audit shall be conducted within two years after the date the MOU comes into effect and thereafter on a regular basis, at least once every five years.
+According to the MOU for integrated business registration and change of business information, the CRA and the MGS agreed to share client information with respect to Ontario business registration. The CRA captures and forwards information relating to specific Ontario programs through the Business Registration Online application to the MGS. When a clients input changes to tombstone information or closes an account using the Change of Business Information application on the Ontario Business Connects website, an email is sent to the Business Number Services Unit in the Sudbury Tax Centre for input to the CRA's Business Number (BN) system which serves to maintain the integrity of tombstone registration data.
+Objective:
+The objective of the audit was to provide assurance that the CRA is in compliance with the terms and conditions governing the use and security of the taxpayer information provided by the Ministry under this MOU. This audit was conducted during the fiscal year 2005-2006, and was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Conclusion:
+Based on the audit work performed, it is our opinion that the CRA is in compliance with the terms and conditions of the MOU governing the use, communication to others, and security of information received from MGS. There was no evidence that information was used for other than the purpose for which it was intended, or disclosed to anyone outside of the terms of the MOU. Selected security standards applicable to the safeguarding of information received have been met.
+Introduction
+The Canada Revenue Agency (CRA) has entered into a large number of Memoranda of Understanding (MOUs) and agreements with federal, provincial and territorial departments and agencies. This audit dealt with information received by the CRA under the MOU with respect to
+Integrated Business Registration and Change of Business Information Between the Canada Revenue Agency and the Province of Ontario (Ministry of Government Services) signed on March 30, 2004.
+Information exchange MOUs signed since 2001 generally include a clause whereby both parties will conduct periodic internal audits of the use, communication, and security with respect to information provided to each other. The inclusion of the internal audit clause was part of a Corporate Strategies and Business Development Branch initiative to strengthen the security and client confidentiality provisions of existing MOUs that provided for the exchange of confidential client information.
+The MOU with the Ministry of Government Services (MGS) stipulates that the first audit shall be conducted within two years after the date the MOU comes into effect and thereafter on a regular basis, at least once every five years. In accordance with the terms of the MOU, this internal audit report will be forwarded to the Province of Ontario by the Corporate Strategies and Business Development Branch.
+This MOU establishes the administrative framework that governs the relationship between the CRA and the MGS with respect to integrated registration for business provided through the joint registration/change systems. The CRA and the MGS share client information with respect to business registration.
+The CRA captures and forwards information to the MGS relating to specified Ontario programs through the Business Registration Online (BRO) application. When a client inputs changes to tombstone information or closes an account using the Change of Business Information (COBI) application on the Ontario Business Connects (OBC) website, an email encrypted by Entrust software is sent to the Business Number Services (BNS) Unit in the Sudbury Tax Centre (STC) for review, research and input to CRA's Business Number (BN) system. This serves to maintain the integrity of tombstone registration data. COBI was implemented on February 18, 2003 on the OBC website for both the Ministry of Finance and Ministry of Consumer and Business Services (now the MGS).
+The BNS unit at the Winnipeg Tax Centre supports the business registration process where an Ontario entity may have been issued a duplicate BN. The BN system generates daily Work in Process (WIP) reports, which are automatically printed at the tax centre. The quantity of WIP reports generated for Ontario BN registration is minimal with only eight received to date.
+The BN is a common identifier for businesses, designed to simplify their dealings with all government levels, support the concept of “one client, one number” and reflect the CRA's strategic objective to strengthen partnerships with provinces and territories. BN data includes client identification and program registration information for numerous programs at all government levels. The BN database maintained by the CRA contains approximately 8.3 million accounts for more than 4.7 million distinct business entities.
+Focus of the Audit
+The objective of the audit was to provide assurance that the CRA is in compliance with the terms and conditions governing the use and security of the taxpayer information provided by the Ministry.
+The scope of the audit included the Assessment and Benefit Services Branch (A&BSB), the Corporate Strategies and Business Development Branch, and the Sudbury and Winnipeg Tax Centres (TCs). This audit was conducted during the fiscal year 2005-2006, and was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings
+Use and Disclosure of Information
+According to this MOU, information is to be used by the CRA solely for the administration and enforcement of the
+Income Tax Act
+and the
+Excise Tax Act;
+and information is only to be disclosed to others under the terms and conditions set out in the MOU.
+As much of the data received from the MGS is available to the general public, limited audit procedures were performed in this area. The risks and consequences from inappropriate use and disclosure would not be significant. There was no evidence that information was used for other than the purpose for which it was intended.
+This information included the registration number, type of business, contact names and telephone numbers of those responsible for the account name, tombstone data from the province, change of address, closure of business and if applicable, the reason for business closure. The CRA uses the information to change tombstone data or close an account for a business entity in Ontario.
+Interviews conducted at the Business Returns and Payments Processing Directorate (BRPP) in the A&BSB and the Sudbury and Winnipeg TCs confirmed that information received from the MGS is used only to change tombstone information or close an account and is further disclosed only within the terms of the MOU. In instances where registrants conduct business in more than one province, information may be communicated to other CRA Business Number partners.
+Interviewees indicated that they were not aware of any security incidents relating to inappropriate use and communication of information received from the MGS. The Security, Risk Management and Internal Affairs Directorate of the Finance and Administration Branch (FAB) confirmed that there have been no reported security incidents with respect to information received under the MOU.
+Controls in place regarding security awareness for employees (discussed later in this report) strengthen and enhance compliance to the terms and conditions for the use and disclosure of information.
+Security and Safeguarding of Information
+Appendix I of the MOU outlines the requirements for the confidentiality and security of information, including adherence to the
+CCRA Security Standards for the Handling of Protected Client Information
+that includes security standards applicable to the handling, storage and disposition of information.
+Internal Audit conducted a risk assessment of the security standards, with support from the Information Security Division in FAB. The assessment determined the most significant risks within selected standards related to information received from the MGS. Based on this assessment, the audit examined controls in the following areas:
+Management of User Access Privileges;
+Encryption;
+Destruction of Information; and
+Security Awareness.
+Management Of User Access Privileges
+The security of confidential client information is enhanced when access to information systems is granted to employees only when the information is needed to perform work-related activities. The CRA security standards require that a record of all computer system access privileges be to be created and maintained for each employee. A management control system of user access rights ensures that employees do not accumulate user access rights when they change jobs within an organization. User access privilege is to be kept current and immediately revoked or suspended when access to perform the assigned functions is no longer required.
+These security standards have been met in the BNS unit at the Sudbury Tax Centre (STC). An audit test of computer user profiles held by employees in the unit indicated that their user profiles for CRA systems are compatible with their duties. An audit test of Entrust profiles, including document review and validation with the Information Technology (IT) Branch, confirmed that only the BNS Unit Team Leader and three designated clerks have access to open encrypted emails from the province. The management of user access profiles at the STC is supported by a local application called
+WebSAM
+, which allows management to request new profiles or make changes to existing profiles online. This application was developed by IT in the former Northern Ontario Region (NOR) and is used throughout the former NOR. The goal is to have an on-line access request system for the new Ontario Region up and running in the fiscal year 2006-2007.
+Client information received from the MGS and maintained in the BN system may be accessed by any CRA employee with an appropriate access profile in the BN system or any CRA system that is updated by the BN system. Therefore, a large portion of the CRA's 40,000 employees would require access to this type of information to perform their duties.
+The management of user access profiles in the CRA has been identified as an issue in a number of internal audit reports including an audit of information technology security in 2004. As a result of these audits, the Information Security Division of the Finance and Administration (F&A) Branch has undertaken several user access profile initiatives. The Internal Audit Division will conduct a follow up to the 2004 audit during the fiscal year 2006-2007. In January 2006, the Role-Based Access Guide (RBAG) provided managers and administrators with better support on appropriate systems access.
+Encryption
+Under the terms of the MOU, the CRA and the MGS agree that client information transmitted electronically will be encrypted. The CRA has met these terms.
+When a client inputs changes to tombstone information or closes an account using the COBI on the OBC website, an email, encrypted by Entrust software, is sent to the BNS Unit in the STC for review, research and input to the CRA's BN system.
+Information is sent electronically to the CRA by the MGS using an encrypted secure channel as part of the BRO process. A Threat and Risk Assessment (TRA) of BRO was most recently updated in January 2004. The TRA was conducted by the Security, Risk Management, and Internal Affairs Directorate in FAB and the IT Branch. The TRA identifies potential threats, the likelihood of the threats occurring and possible consequences. Given the safeguards such as encryption that have been put in place in the BRO system, a review of the TRA did not identify any residual high-risk areas.
+Destruction of Information
+According to the conditions outlined in the MOU, information that is determined to be surplus to program administration should be destroyed. This condition has been met at the STC. There is a 24-hour service standard for all partner workload items. These items are processed on a priority basis and then deleted or disposed of when no longer required.
+The only exception to the destruction of information condition is account information stored electronically in the BN system. Information for closed accounts remain in the BN system for an indefinite period of time. The BRPP Directorate in the A&BSB indicated that the retention of account information on closed BNs is a business requirement to sustain the longevity of the BN system and facilitate debt collection and account reactivation.
+The BNS unit at the Winnipeg Tax Centre (WTC) receives Work in Process (WIP) reports when an Ontario entity may have been issued a duplicate BN. The WIP reports generated daily by the BN system are automatically printed at the WTC. However, the quantity of reports for Ontario BN registration is minimal with only eight received to date. Once research has been completed to determine whether a true duplicate registration has occurred, the printout containing the client information is destroyed.
+Security Awareness
+CRA security standards related to the computing environment, and contained in the MOU, include the following:
+Users are not to use access privileges for personal benefit or curiosity purposes;
+Computer system accounts and passwords are never to be shared; and
+Users are to ensure that access privileges are protected against unauthorized access when leaving their active session or when leaving the premises.
+The audit did not find any instances in which the BNS unit at the STC compromised on the CRA security standards.
+Security awareness initiatives are in place in the CRA and delivered on national and local levels. These initiatives promote awareness of policies and procedures related to the protection of CRA personnel, information, and physical assets. All selected STC interviewees reported that they had received security awareness training when they first joined the agency and periodically thereafter. Security issues are discussed regularly at team meetings. Employees receive security reminders via e-mail. The Winnipeg TC provides Security Awareness sessions for all employees every two years, which include the WTC Electronic Networks and Use of Email policies. All attendees must sign a Security Awareness agreement after each session. Emails from the Director are sent periodically throughout the year as reminders to all staff.
+In February 2006, the Security, Risk Management, and Internal Affairs Directorate of FAB launched the electronic interactive awareness session called “
+Protecting Agency Employees, Information, and Assets: I make it my business”
+as part of security awareness week in the CRA. The session is composed of several modules. The modules cover such topics as the legislative context, personnel security screening, categorization and protection of information, reporting of security incidents, and access to personal income tax information. At regular intervals throughout the year, the Directorate sends newsletters to all CRA employees via e-mail. The newsletters cover a range of security topics including e-mail security best practices, access to CRA systems and protecting user IDs and passwords.
+Conclusion
+Based on the audit work performed, it is our opinion that the CRA is in compliance with the terms and conditions of the MOU governing the use, communication to others, and security of information received from MGS. There was no evidence that information was used for other than the purpose for which it was intended, or disclosed to anyone outside of the terms of the MOU. Selected security standards applicable to the safeguarding of information received have been met.
+Page details
+Report a problem on this page
+Date modified:
+2007-01-04

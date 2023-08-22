@@ -1,0 +1,151 @@
+Compliance Support to Electronic Commerce Activities
+Final Report
+Corporate Audit and Evaluation Branch
+May 2012
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, recommendations and action plans Program Management
+1.0 Program Management
+2.0 Monitoring and Performance Reporting
+Conclusion
+Executive Summary
+Background
+The Electronic Commerce Compliance Division (ECCD) in the Compliance Programs Branch (CPB) is responsible for providing strategic direction, coordination and technical support in order to enhance compliance by businesses engaged in electronic commerce (eCommerce) and those using electronic accounting systems.
+ECommerce can be broadly defined as the delivery of products, services, information or payments via electronic means such as telephone, computer or other automated media.
+Footnote 1
+This definition recognizes that eCommerce encompasses business activities which occur in the electronic environment but goes beyond the purchasing of goods and services electronically. In 2010
+Footnote 2
+, Canadians placed nearly 114 million orders for goods and services online valued at approximately $15.3 billion.
+Recent initiatives include the Central Processing Lab, which allows ECCD to process electronic accounting records more quickly from a centralized location and the Electronic Transfer of Accounting Data (ETAD), which enables them to receive electronic accounting records from taxpayers and registrants through the My Business Account.
+For the fiscal year 2011-2012, ECCD had budgeted for 226 full-time equivalents (FTEs) at Tax Services Offices (TSOs) across the regions and 31 FTEs at Headquarters (HQ) for total salaries of approximately $20.5M
+Footnote 3
+. This has remained fairly consistent over the past five fiscal years.
+Objective
+The objective of this audit was to determine whether controls are in place and functioning as intended to effectively manage, monitor, and report on the delivery of ECCD activities.
+This audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Conclusion
+Finding new and efficient ways to secure and audit electronic accounting data will become more important as the use of electronic accounting records becomes the norm and the use of manual accounting records becomes increasingly limited. ECCD's efforts to address this issue include the implementation of a central processing lab and ETAD. Overall, internal controls currently in place support and facilitate the management and delivery of ECCD program activities. Opportunities exist to strengthen controls pertaining to risk management so that the ECCD would be better positioned to identify and prioritize risks that affect eCommerce. In addition, controls with respect to managing projects and initiatives should be enhanced to ensure that areas of high risk are addressed appropriately.
+Controls to monitor and report on the delivery of ECCD activities are in place. Strengthening these controls will give ECCD the ability to more accurately quantify their contribution to increasing compliance by businesses engaged in eCommerce and using electronic accounting systems. Timely feedback is crucial to ensuring quality program delivery.
+Action Plan
+CPB agrees with the audit recommendations outlined in this report and have developed action plans to address the findings.
+ECCD will undertake a formal risk assessment process to ensure that risks are identified and evaluated, and that those with the greatest level of risk are appropriately addressed through program strategies and initiatives. This process will result in documentation of risk that can be used to inform priority setting and planning exercises, such as project planning, to ensure that resources are dedicated to the areas with the highest level of risk.
+ECCD will also establish project planning guidelines to include provisions for identifying project risks, measures of success, and a means to track, monitor, and report results.
+Finally, ECCD will commence a dialogue with their clients to develop a framework to determine the value of the benefits provided to their clients' programs and to determine a methodology to quantify the benefits. In addition, ECCD will develop service protocols with each of their clients.
+Introduction
+The Electronic Commerce Compliance Division (ECCD) in the Compliance Programs Branch (CPB) is responsible for providing strategic direction, coordination and technical support in order to enhance compliance by businesses engaged in electronic commerce (eCommerce) and those using electronic accounting systems.
+ECommerce can be broadly defined as the delivery of products, services, information or payments via electronic means such as telephone, computer or other automated media.
+Footnote 4
+This definition recognizes that eCommerce encompasses business activities which occur in the electronic environment but goes beyond the purchasing of goods and services electronically. In 2010
+Footnote 5
+, Canadians placed nearly 114 million orders for goods and services online valued at approximately $15.3 billion.
+ECCD implements and maintains strategies to enhance compliance pertaining to eCommerce as well as supporting consistent program delivery across the country. This includes:
+Coordinating and developing the implementation of compliance strategies through research, consultation, service, and compliance activities;
+Leading and/or participating in domestic and international initiatives related to electronic record keeping and eCommerce; and
+Developing and providing solutions and technical applications for eCommerce and electronic record keeping issues that arise.
+ECCD provides the training and tools necessary to the Electronic Commerce Audit Specialists (ECAS) located in various Tax Services Offices (TSOs). ECAS provides assistance to their clients, including auditors in programs such as Large Business Audit (LBA) and Small and Medium Enterprise Audit. This includes:
+Evaluation of the taxpayer's and/or registrant's accounting or business system and related internal controls and weaknesses;
+Identification, acquisition and preparation of electronic records related to audit objectives;
+Extraction, conversion, analysis and transfer of selected electronic records to the auditors for further analysis and audit tests; and
+Participation in eCommerce projects and initiatives.
+For the fiscal year 2011-2012, ECCD had budgeted for 226 full-time equivalents (FTEs) at TSOs across the regions and 31 FTEs at Headquarters (HQ) for total salaries of approximately $20.5M
+Footnote 6
+.
+Focus of the Audit
+The objective of this audit was to determine whether controls are in place and functioning as intended to effectively manage, monitor, and report on the delivery of ECCD activities.
+ECAS service to auditors in LBA and security protocols were excluded in the examination phase of the audit because the preliminary reviews of controls indicated that they were strong and working as intended. The examination phase of the audit was conducted between September 2011 and January 2012.
+This audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Findings, recommendations and action plans
+1.0 Program Management
+1.1 Risk Management
+ECCD has outlined program priorities and initiatives for the upcoming three fiscal years in their planning guidelines. The division's Forward and Internet Strategy documents outline areas of risk as well as possible trends for eCommerce. Additionally, ECCD participates in Organisation for Economic Co-operation and Development (OECD) committees to target global eCommerce issues. However, formal risk assessment processes (as prescribed in the
+Enterprise Risk Management Policy
+) are not in place to identify, analyze, evaluate, address, monitor, report and communicate risks within ECCD.  Although projects and initiatives address areas of risk, they are not supported by documented evaluation of the risk environment. Without this documented evaluation, management cannot be assured that high risk areas are considered.
+Recommendation
+ECCD should implement a comprehensive risk management process to ensure that strategies and initiatives address the areas of greatest risk.
+Action Plan
+ECCD will undertake a formal risk assessment process to ensure that risks are identified and evaluated, and that those with the greatest level of risk are appropriately addressed through program strategies and initiatives. ECCD managers will complete the Enterprise Risk Management Branch Risk Management Training session. Target completion date June 2013.
+ECCD will follow the CRA's formal risk assessment process which will include the development of action plans for 2014-2015 fiscal year. The action plan will be reviewed annually between the months of August-October, with a formal risk assessment to take place three years following the original assessment.Target completion date March 2014.
+This process will result in documentation of risk that can be used to inform priority setting and planning exercises, such as project planning, to ensure that resources are dedicated to the areas with the highest level of risk.
+1.2 Projects and Initiatives
+Recent initiatives implemented within ECCD include the Central Processing Lab, which allows for more efficient processing of electronic accounting records from a centralized location and the Electronic Transfer of Accounting Data (ETAD), which enables receipt of electronic accounting records from taxpayers and registrants through the My Business Account.
+At the strategic level, project planning documents and strategies are in place for the ECCD projects (i.e. Electronic Suppression of Sales, Auction Websites, Internet Strategy, and ETAD). While roles and responsibilities for such projects are defined and communicated to the project participants, there is minimal regional and local (TSO) involvement in the development of project business plans, which can impact project success.
+Planning documents do not contain guidelines for monitoring, measuring and reporting on results. Without the ability to measure the success of ECCD projects and initiatives (i.e. impact on compliance), it is difficult to distinguish which projects should continue to be pursued or which projects should be given priority.
+For specific projects and initiatives led by regional electronic commerce audit advisors (i.e. PayPal, money-laundering, legislative review), project plans and other supporting documentation is not evident. Without comprehensive project plans, measures of success and timely reporting, management is not able to assess the extent to which resources are utilized effectively and determine whether project goals and objectives are being met.
+Recommendation
+ECCD should strengthen its planning process for all projects and initiatives through comprehensive project plans which include quantifiable measures of success, and a means to track, monitor, and report results and progress towards ECCD goals and objectives.
+Action Plan
+ECCD will establish project planning guidelines to include provisions for identifying project risks, measures of success, and a means to track, monitor, and report results. Target completion date March 2013.
+ECCD will establish regular (e.g. monthly, quarterly, semi-annually) reporting guidelines to provide updates for ongoing projects and initiatives. Target completion date March 2013.
+1.3 Training and Learning
+In May 2010, a National Symposium was held by ECCD. This forum provided ECAS auditors with an opportunity to network, share knowledge and attend workshops. Feedback from the participants indicated that it was informative and well received.
+ECCD staff use various informal avenues to advance their learning in the field of eCommerce. Examples include attending Information Technology trade shows, communications with other external groups such as the OECD and Royal Canadian Mounted Police, and searching the Internet for additional information.
+While there are four formal courses and one refresher course at the AU-02 and AU-03 auditor level, CRA training at the AU-04 and AU-05 levels is minimal. For the senior AU levels, advancement of knowledge and skills is obtained through experience, peers, and self-learning. ECCD does not have a formal learning path for ECAS auditors to ensure they are current with the skills and knowledge required for their jobs. Formal training for senior ECAS may increase their effectiveness in meeting program goals and objectives such as timely service to their clients through a better understanding of the technology.
+Auditors, Team Leaders and TSO management have all observed that the training available for ECAS is not sufficient in areas of databases and relational databases (for example Structured Query Language (SQL)), advanced IDEA™ functions, internet commerce and various other software packages. These areas are important to ensure effective program delivery.
+Recommendation
+ECCD should analyze the learning needs of ECAS and ensure that those needs are met on a timely and ongoing basis.
+Action Plan
+ECCD will undertake a review of the learning products currently available for Electronic Commerce Audit Specialists (ECAS) and prepare a report including the findings. The analysis will include an emphasis on the senior-level ECAS (AU03 and AU04) learning needs and new technologies. Courses will be made available in areas important to senior level ECAS (e.g. IDEAScript
+™
+, advanced IDEA
+™
+functions, SQL, internet commerce). Timing and development of the courses is dependent on the availability of the expertise (both internal and external) and resources. Target completion date March 2013.
+The report's analysis will be used to enhance the current informal learning paths for its ECAS and identify any gaps in learning products. Efforts will be undertaken to create and develop new learning products as needed and, due to the technical nature of the senior-level learning products, development is dependent upon the availability of the expertise required for development (both internal and external). ECCD learning paths will be published on the ECCD National Library along with, when available, the finalized learning products. Target completion date July 2014.
+The learning paths and related learning products will be reviewed every three years for updates. The need for updates will be determined through consultations with ECAS staff and identified technological advances. Information sessions on ad-hoc basis will be provided for emerging issues. Target completion date July 2017.
+2.0 Monitoring and Performance Reporting
+2.1 Performance Measures
+Performance measures currently in place are used to monitor budgeted hours against the number of ECAS files (Computer Audit Assists (CAA)) completed and the time to complete those files. ECCD monitors these statistics monthly and communicates the results to the regional offices to ensure that they are on track to meet year-end targets.
+However, performance measures are not in place to assess the value ECCD is providing to their clients. The increased effectiveness and efficiencies gained due to ECCD actions (e.g. increase in audit adjustments, reducing time spent by the auditor) are not tracked and/or monitored. Although it may be a challenge to measure the impact ECAS services has on both compliance and overall efficiency, this information would not only facilitate resource allocation for efficiency and effectiveness, but also improve the overall program delivery.
+Recommendation
+ECCD should begin to address the need for establishing and implementing performance measures that quantify ECCD's value to their clients.
+Action Plan
+ECCD will commence a dialogue with their clients to develop a framework to determine the value of the benefits provided to the programs and to determine a methodology to quantify the benefits. Target completion date December 2012.
+ECCD will investigate what additional systems and processes are required to monitor (track) the measures. ECCD will investigate, with the assistance of Compliance Systems Redesign (CSR), what, if any, additional Audit Information Management System (AIMS) measures could be utilized. Target completion date March 2014.
+2.2 Service Standards
+Although ECAS requests are typically actioned on a first in first out basis, ECCD does not track the time to respond to these requests. Data is not available to determine the number of days required to complete a CAA as a national inventory system is not in place to track incoming requests and their completion times. Currently, ECCD can only track supplementary cases in the AIMS once the files are created by the ECAS.
+Interviews with tax and GST/HST auditors indicated inconsistency in the turnaround time of the service from ECAS. ECCD clients need to achieve their standards for timeliness (i.e. Quality Assurance Standards for CPB Audit Programs –Timeliness Element). The lack of similar standards in ECCD may affect the overall timeliness of audit files. In addition, the ECAS manual does not include guidelines on turnaround time for ECAS service.
+Recommendation
+ECCD should implement a national service standard and measure, monitor and report on the timeliness of ECAS activities against that standard.
+Action Plan
+ECCD will develop, in consultation with their clients, service protocols with each of their clients. Approved protocols will be communicated to the programs and published on Infozone. This will depend on the availability of program areas and extent of business transformation impacts. Target completion date March 2013.
+ECCD will, in consultation with their clients, develop specific minimum service standards for each of the types/ranges of files (or auditor grade level). Approved service standards will be communicated to the programs and published on Infozone. Target completion date March 2013.
+ECCD will develop a mechanism to measure its performance based on the service standards (e.g. immediate feedback from clients on each case). Feedback will be monitored, in HQ, regularly. Feedback summary reports will be prepared quarterly/semi-annually/annually will be shared with appropriate clients/stakeholders. Target completion date April 2014.
+2.3 Quality Review
+ECCD has a quality review process in place that is well-defined and supported by a detailed functional review manual. Functional review reports have identified concerns at the TSO level and made specific recommendations to rectify the issues. Interviews with TSO staff indicated that the functional reviewers provide valuable expertise in completing the reviews.
+However, functional review reports are not timely. Although informal debriefs take place with the TSO management, it takes an average of 220 days for the reports to be issued by ECCD to the TSO. Without timely reporting, TSO corrective actions may not be completed to address identified deficiencies and program quality may be affected.
+As required by the functional review manual, a cumulative results spreadsheet is prepared by ECCD that captures best practices, areas of efficiency or special techniques as well as areas of concern. Although the information should be shared amongst the TSOs in order to improve the overall ECAS program, ECCD has not done so. Without this information, the ECAS program and TSOs may be missing opportunities to gain efficiencies and improve service quality.
+Since adoption of the new functional review process in 2009, follow-up reviews have not been completed to meet the manual's requirement for two follow-up reviews in each fiscal year. As a result, it is difficult to assess the status of action plans and their effectiveness to address identified deficiencies in the delivery of the ECAS program.
+Recommendation
+ECCD should issue timely functional review reports to the TSOs to allow for implementation of the corrective actions. Additionally, results and best practices should be shared throughout the program to promote proactive changes.
+ECCD should strengthen their follow-up process in order to ensure that corrective actions are implemented in a timely manner and are working as intended.
+Action Plan
+ECCD will establish and implement timelines for delivering reports to the field and obtaining responses to the recommendations. All timelines will be communicated in the letter sent to the TSO under review at the initial stage of the functional review. The standard initial contact letter contained in the ECCD Functional Review Manual will be updated to reflect all timelines established. Targeted completion date September 2013.
+ECCD will share best practices via the ECCD National Library and, quarterly, advise of new postings, if any, via a national email to all HQ and field ECAS. Targeted completion date September 2013.
+ECCD will formalize a follow-up process for the post-functional review period. The process will be included in the ECCD Functional Review Manual and the timelines for follow-up will be included in the post-review communication that is delivered to the TSO along with the Functional Review Report. Targeted completion date September 2013.
+Conclusion
+Finding new and efficient ways to secure and audit electronic accounting data will become more important as the use of electronic accounting records becomes the norm and the use of manual accounting records becomes increasingly limited. ECCD's efforts to address this issue include the implementation of a central processing lab and ETAD.
+Overall, internal controls currently in place support and facilitate the management and delivery of ECCD program activities. Opportunities exist to strengthen controls pertaining to risk management so that the ECCD would be better positioned to identify and prioritize risks that affect eCommerce. In addition, controls with respect to managing projects and initiatives should be enhanced to ensure that areas of high risk are addressed appropriately.
+Controls to monitor and report on the delivery of ECCD activities are in place. Strengthening these controls will give ECCD the ability to more accurately quantify their contribution to increasing compliance by businesses engaged in eCommerce and using electronic accounting systems. Timely feedback is crucial to ensuring quality program delivery.
+Footnote 1
+E-commerce
+Footnote 2
+Statistics Canada: The Daily, Wednesday, October 12, 2011.
+Individual Internet use and eCommerce
+Footnote 3
+CPB Program Business Plan, 2011-2012 to 2013-2014, Electronic Commerce Audit Program, April 29, 2011
+Footnote 4
+E-commerce
+Footnote 5
+Statistics Canada: The Daily, Wednesday, October 12, 2011.
+Individual Internet use and eCommerce
+Footnote 6
+CPB Program Business Plan, 2011-2012 to 2013-2014, Electronic Commerce Audit Program, April 29, 2011
+Page details
+Report a problem on this page
+Date modified:
+2016-04-15

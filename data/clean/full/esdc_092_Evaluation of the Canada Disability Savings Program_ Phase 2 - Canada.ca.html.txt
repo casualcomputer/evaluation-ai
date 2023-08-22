@@ -1,0 +1,1779 @@
+Evaluation of the Canada Disability Savings Program: Phase 2
+From:
+Employment and Social Development Canada
+On this page
+Executive summary
+Management response and action plan
+1. Introduction
+2. Canada Disability Savings Program
+2.1 Program objective
+2.2 Background
+2.3 Program description
+2.4 Expected results
+2.5 Delivery model
+3. Evaluation strategy
+3.1 Phase 1
+3.2 Phase 2
+4. Relevance
+4.1 Need for future savings for persons with disabilities
+4.2 Barriers to accumulating desired savings
+4.3 Alignment with federal government priorities
+5. Performance
+5.1 Program delivery
+5.2 Awareness
+5.3 Registered Disability Savings Plan take-up
+5.4 Contributions to Registered Disability Savings Plans
+5.5 Canada Disability Savings Grant and Canada Disability Savings Bond take-up
+5.6 Improvements in long-term financial security
+6. Efficiency and effectiveness
+6.1 Administrative costs
+6.2  Effectiveness
+6.3 Factors influencing program effectiveness
+7. Conclusion
+8. Recommendations
+Appendix A - Canada Disability Savings Program logic model
+Appendix B - Evaluation matrix for Canada Disability Savings Program Evaluation Phase 2
+Appendix C – Methodology
+Appendix D – Program changes
+Appendix E – Additional questions
+Appendix F – References
+Alternate formats
+Evaluation of the Canada Disability Savings Program: Phase II
+[
+PDF
+- 623
+KB
+]
+Large print, braille,
+MP3
+(audio), e-text and
+DAISY
+formats are available on demand by
+ordering online
+or calling 1 800 O-Canada (1-800-622-6232). If you use a teletypewriter (
+TTY
+), call 1-800-926-9105.
+List of tables
+Table 1: Contribution match rates for the Canada Disability Savings Grant
+Table 2: Bond eligibility rates for the Canada Disability Savings Bond
+Table 3: Average contributions by income and total excess contributions after maximizing grants, 2008 to 2017
+Table 4: Helpfulness of the Registered Disability Savings Plan, Canada Disability Savings Grant and Canada Disability Savings Bond in Terms of Saving for the Future
+List of figures
+Figure 1: Registered Disability Savings Plan Accounts Opened, 2009 to 2017
+Figure 2: Registered Disability Savings Plan Accounts by Age, 2009 to 2017
+Figure 3: Percentage of Disability Tax Credit Eligible Persons with a Registered Disability Savings Plan 2009 to 2016
+Figure 4: Annual and Cumulative Registered Disability Savings Plan Contributions, 2009 – 2017
+Figure 5: Annual average Registered Disability Savings Plan contributions
+Figure 6: Total Contributions by Income Group in Nominal Dollars, 2009 to 2017
+Figure 7: Cost / beneficiary by year for Registered Education Savings Plan and Registered Disability Savings Plan, 2013 to 2016
+Figure 8: Number and Total Dollar Value of Grants Paid to Low- and Modest-Income Beneficiaries as a Percentage of the Total Number of Grants and Total Dollar Value, April 2010-March 2018
+Figure 9: Canada Disability Savings Program Road map to Long Term Financial Security
+Executive summary
+The Canada Disability Savings Program  was designed to encourage long-term savings to help ensure the financial security of people with severe and prolonged disabilities.
+Footnote
+1
+The program consists of 3 components: the Registered Disability Savings Plan, the Canada Disability Savings Grant  and the Canada Disability Savings Bond.
+To be eligible for a Registered Disability Savings Plan, the beneficiary must have applied and received eligibility for the Disability Tax Credit, be under 60 years of age, be a Canadian resident and have a Social Insurance Number. A beneficiary must have a Plan in order to be eligible for the Canada Disability Savings Grant and the Canada Disability Savings Bond. Plans are registered by the Government of Canada and savings grow tax-free until the beneficiary makes withdrawals. The Canada Disability Savings Grant is a means-tested limited matching amount payable against contributions.
+Footnote
+2
+The Canada Disability Savings Bond is paid to beneficiaries with low- to modest- income, regardless of whether they contribute.
+The Canada Disability Savings Program is jointly managed by Employment and Social Development Canada and the Canada Revenue Agency, which is also responsible for administering the Disability Tax Credit. The legislative authority for the Canada Disability Savings Grant and Canada Disability Savings Bond is the
+Canada Disability Savings Act
+and the
+Canada Disability Savings Regulations
+, for which Employment and Social Development Canada is responsible. Plans are governed by the
+Income Tax Act
+, for which the Department of Finance has responsibility.
+This report presents the findings and conclusions of a summative evaluation, building on the findings of the Evaluation of the Canada Disability Savings Grant and Bond: Phase
+I
+.
+Phase 1 examined the first 4 years of the program's operations and early outcomes. Phase 2, the summative evaluation, builds on this earlier work to address the core evaluation issues of program effectiveness/performance, relevance, and efficiency, now examining 8 years of program results (2009 to 2017).
+The Phase 2 evaluation found that both plan holders and key informants believe that the program is making progress towards its ultimate outcome of “Improved long-term financial security for people with severe and prolonged disabilities.” The evaluation generated significant evidence supporting achievement of the 2 intermediate program outcomes that will lead to this ultimate outcome:
+Intermediate outcome one: Canadians are aware and can access the Registered Disability Savings Plan, grant and bond.
+In 2016, the take-up rate among persons aged 0 to 59 who had been approved for the Disability Tax Credit (such as, those eligible to open a plan) was 24.5%.
+The take up rate among those in the same group aged 0 to 49 (such as, those eligible for grant and bond payments) was 29%.
+Footnote
+3
+,
+Footnote
+4
+Eighty-four percent of Registered Disability Saving Plans are held by persons with disabilities aged 0 to 49.
+Footnote
+5
+By 2017, nearly 170,000 registered plans were in place, compared to about 72,000 in 2013.
+An ongoing program outreach strategy is increasing awareness of the program. The strategy includes dissemination of information through provincial/territorial government offices, engaging stakeholders, conference and event attendance, and Canada Revenue Agency mail-outs to individuals who are eligible for the Disability Tax Credit but who do not yet have a Registered Disability Savings Plan. Tracking volumes of calls and other inquiries showed that these efforts are effective in increasing the awareness of the Registered Disability Savings Plan.
+Footnote
+6
+Data limitations prevent a full understanding of awareness levels amongst eligible individuals who do not yet have a Registered Disability Savings Plan.
+Intermediate outcome two: Increased long-term savings of people with disabilities
+The asset value of the Registered Disability Saving Plans has increased every year and is over $4 billion as of December 2017. While many people remain who would benefit from opening a Registered Disability Savings Plan, the program is increasing savings and improving financial security for existing beneficiaries.
+By the end of 2017, the Government of Canada had paid $1.8 billion in Grants and $837.5 million in Bonds while total personal contributions amounted to $1.24 billion. 86% of Registered Disability Saving Plan holders had received at least one grant and/or a bond payment to assist them and their families to save for their long-term financial security.
+The program has been successful in reaching its primary target of low-to modest-income people with disabilities. In fact, 94% of Canada Disability Savings Grant funds were paid to low- and modest-income beneficiaries and 90% of Canada Disability Savings Bond funds were paid to beneficiaries in low income.
+Beneficiaries in the low income category have the largest amount of savings (average $36.7K) in their Registered Disability Savings Plans and the lowest amount (average $9.2K) in other savings. Those in the high income category have less savings in their Registered Disability Savings Plan (average $22.8K) and more (average $37.7K) in other savings.
+Footnote
+7
+The program's target group, those with severe and prolonged disabilities, have lower labour market attachment, lower current levels of income and significantly higher living costs than other Canadians, all affecting the ability to save.
+Gender-based Analysis +
+The summative evaluation examined participants' results using a gender-based analysis plus lens, including, for example, intersections between gender, disability, and age.
+Footnote
+8
+Examination of other intersections such as Indigenous groups, ethnicity, new Canadian and region was not possible due to data limitations.  Key gender-based analysis plus findings are:
+For the Registered Disability Savings Plans opened between 2008 and 2017, about 40% of beneficiaries are female while about 60% are male.
+Footnote
+9
+Most (69.4%) of the funds in Registered Disability Savings Plan holdings are from the Canada Disability Savings Grant or Canada Disability Savings Bond. Women, and individuals in the lower 3 income brackets, were more likely to say that the larger portion of their Registered Disability Savings Plan came from government money as compared to men and people in the higher income bracket.
+Footnote
+10
+Findings on program relevance and efficiency
+Relevance:
+The Canada Disability Savings Program is one of a suite of programs, tax incentives and financial support measures established by the federal government aimed at persons with disabilities.
+Footnote
+11
+The Government of Canada reiterated this commitment most recently in Budget 2016, as it promised to “eliminate systemic barriers and deliver equality of opportunity to all Canadians living with disabilities”.
+Footnote
+12
+Efficiency:
+Following an initial start-up period when costs were incurred to implement necessary processes and systems, unit costs to administer the Canada Disability Savings Program have dropped rapidly as the number of registered plans rises while administration costs have also been declining.
+Challenges
+Raising awareness among the most difficult to reach segments of the population, such as those in the lowest income bracket in order to communicate the benefit of opening an Registered Disability Savings Plan.
+Addressing the knowledge gaps that continue to exist amongst financial institution / issuer partners and Canadians seeking information regarding the Registered Disability Savings Plan, Canada Disability Savings Grant and Canada Disability Savings Bond.
+Enhancing the service experience of all those who attempt to open or maintain a Registered Disability Savings Plan, invest or withdraw funds, particularly the experience of those with multiple vulnerabilities (for example, Indigenous, new arrivals, or LGBT persons with severe and prolonged disabilities.)
+Recommendations
+Recommendation 1:
+Continue working with all partners to increase awareness amongst people with severe and prolonged disabilities, and their families of the benefits of having a Registered Disability Savings Plan and accessing the Canada Disability Savings Bond and Canada Disability Savings Grant.
+Recommendation 2:
+Continue working with all partners involved in delivering the Registered Disability Savings Plan, the Canada Disability Savings Bond and Canada Disability Savings Grant to identify and address knowledge gaps
+Footnote
+13
+that persist within partner organizations and among Registered Disability Savings Plan holders and beneficiaries.
+Recommendation 3:
+Continue working with all partners to identify and address the barriers
+Footnote
+14
+that hinder people with severe and prolonged disabilities who are aware of the Registered Disability Savings Plan from opening or maintaining one and to improve the service experience of those who attempt to do so.
+Management response and action plan
+The Canada Disability Savings Program  helps Canadians with severe and prolonged disabilities and their families save for the future. It is comprised of 3 components: the Registered Disability Savings Plan, the Canada Disability Savings Grant and the Canada Disability Savings Bond. The Registered  Disability Savings Plan, the Canada Disability Savings Grant and the Canada Disability Savings Bond complement other government measures that help support financial security for people with disabilities (that is tax support and benefits, earnings replacement and income support programs). As the bond is available to low and modest-income beneficiaries without requiring any contribution to the plan, it complements the Government of Canada's broader commitment to poverty reduction.
+The Program administration and delivery is a shared responsibility between the Government of Canada (Employment and Social Development Canada, Canada Revenue Agency and Finance Canada) and participating financial institutions (issuers).
+To ensure that the Registered Disability Savings Plan, Canada Disability  Savings Grant and the Canada Disability Savings Bond continue to help meet the financial security needs of Canadians with severe and prolonged disabilities, Management has developed a response to the findings of the Phase 2 Evaluation of the Canada Disability Savings Bond and the resulting recommendations outlined below. Drawing on multiple lines of evidence, the Phase 2 Evaluation demonstrates the continued relevance of the Registered Disability Savings Plan, the Canada Disability  Savings Grant and the Canada Disability Savings Bond.
+This Management Response outlines how the Department will review and implement the recommendations in the report regarding program awareness, take-up and service experience.
+Recommendation 1:
+Continue working with all partners to increase awareness amongst people with severe and prolonged disabilities, and their families of the benefits of having a Registered Disability Savings Plan and accessing the Canada Disability Savings Bond and  Canada Disability  Savings Grant.
+Response
+TheThe Department agrees with the recommendation to continue working with all partners to increase awareness amongst people with severe and prolonged disabilities, and their families, of the benefits of having a Registered Disability Savings Plan and accessing the Canada Disability Savings Bond and Canada Disability Savings Grant. The key actions include: continued collaboration with Canada Revenue Agency on mass mail-outs to potential beneficiaries including testing innovative models; improving the Canada.ca website; and working with the Employment and Social Development Canada Innovation Lab to identify approaches to better target hard-to-reach populations.
+The Registered  Disability Savings Plan, the Canada Disability Savings Grant and the Canada  Disability Savings Bond are delivered through a relationship between the Government of Canada (Employment and  Social Development Canada, Canada Revenue Agency and Finance Canada) and financial institutions (issuers). Since the program's implementation in 2008, a robust governance structure, (which consists of letters of agreement, memoranda of understanding and issuer agreements), and a collaborative partnership were established to ensure effective administration among partners.
+Since 2012, Employment and Social Development Canada has been collaborating with the Canada Revenue Agency to deliver annual mass mail-outs targeted to Disability Tax Credit -eligible individuals across Canada. Up to 320,000 mail-out letters are sent every year. Over the past 3 years, an increase in the number of Registered Disability Savings Plans opened was observed within the first 2 months following each mail-out (approximately 50% to 80% increase in the average monthly rate). Employment and Social Development Canada will continue to collaborate with Canada Revenue Agency to facilitate the annual mail-out of letters and to inform Disability Tax Credit-eligible individuals about the program. Further approaches to better target the hard-to-reach population with disabilities (that is, Indigenous, low income, immigrants and people living in remote and rural areas) will also be explored in collaboration with the Employment and Social Development Canada Innovation Lab, which could include partnerships with other Employment and Social Development Canada programs that face similar challenges around program uptake, or the development of specific projects tailored to the Canada Disability Savings Program.
+One of the ways that people access information about the Registered Disability Savings Plan, the Canada Disability Savings Grant and the Canada Disability Savings Bond is through searches for the program on the Internet. Canada.ca is the public website that lists all of the programs, services and initiatives of the Government of Canada and was set up to be a consolidated resource. Currently, information about the Registered Disability Savings Plan, the Canada Disability Savings Grant and the Canada Disability Savings Bond is posted to this site by both Employment and Social Development Canada and Canada Revenue Agency with different styles of wording and some duplication of information. Communicating more clearly to the target population, which includes people who lack financial literacy, requires the use of plain language and a more holistic and unified approach to how the program's information is presented on Canada.ca. Employment and Social Development Canada is currently updating web content and will coordinate efforts and messaging with the Canada Revenue Agency to improve and streamline the program's web presence on Canada.ca.
+In order to help address regional realities, identifying at a more granular level the geographic locations of potential beneficiaries is needed. The program has initiated a study to break down the current take-up rate by more specific geographic details such as the first 3 digits of the postal code and/or census division. The program will engage Canada Revenue Agency in a discussion to obtain reports on Disability Tax Credit take-up with more detailed geographic locations. This analysis will help Canada Disability Savings Program Outreach target future promotional and stakeholder engagement activities.
+Management action plan
+Collaborate with Canada Revenue Agency to facilitate the 2018 mail-out which will target potential Registered Disability Savings Plan beneficiaries aged 19 to 49.
+Completion date: October/November 2018
+Work with Employment and Social Development Canada's Innovation Lab to consider possible new approaches to better target the hard-to-reach population with disabilities.
+Completion date: September 2019
+Work with Employment and Social Development Canada Public Affairs and Stakeholder Relations Branch  and collaborate with Canada Revenue Agency to improve and streamline program web content.
+Completion date: July 2019
+As part of the work to improve the program's web content, ensure that new tools and enhanced communication products are available in alternate formats.
+Completion date: September 2019
+Recommendation 2:
+Continue working with all partners involved in delivering the Registered Disability Savings Plan, the Canada Disability Savings Grant and the Canada Disability Savings Bond to identify and address knowledge gaps that persist within partner organizations and among Registered Disability Savings Plan holders and beneficiaries.
+Response
+Management acknowledges the need to continue working with partners for the purpose of identifying and addressing knowledge gaps. Over the past years, work has been done to identify key knowledge gaps that persist among partner organizations and Registered Disability Savings Plan holders and beneficiaries.
+To help issuers administer Registered Disability Savings Plans and explain the program to applicants, Employment and Social Development Canada will continue to provide a comprehensive suite (in various formats) of reference/training resources and regular updated bulletins to issuers. These resources will be regularly enhanced and refreshed based on client experiences and feedback from stakeholders.
+2019 will mark 10 years since the initial payments of grant and bond were made into Registered Disability Savings Plans. The Program will put specific emphasis on communications products explaining the rules regarding withdrawals and repayments to avoid confusion among plan holders, beneficiaries and financial institution and to ensure that they are not negatively affected.
+To help better address the key knowledge gaps faced by the employees of issuers who deal with Registered Disability Savings Plans, including any additional support as part of the program's ten-year anniversary, Employment and Social Development Canada will request more targeted feedback from issuers (through teleconferences and meetings) to both identify the gaps and develop potential solutions to address these gaps. This can be achieved by further strengthening the relationship with issuers through the Registered Disability Savings Plan Advisory Committee, created in 2012 to provide a forum for program delivery partners to discuss key issues. While these meetings have traditionally been held on an as needed basis, the last one being in June of 2017, increased consultation with issuers is being pursued. Employment and Social Development Canada and the Canada Revenue Agency co-chair the committee that brings together representatives from all issuers. The next Registered Disability Savings Plan Advisory Committee meeting is scheduled for October 2018. Engagement through the Registered Disability Savings Plan Advisory Committee will continue and participation in discussions by delivery partners will be encouraged.
+Some identified program research gaps pose a challenge to being more strategic and targeted with outreach efforts. In particular, research and analysis are needed to determine the key demographic characteristics of the 'non-client' group, that is Disability Tax Credit-eligible individuals in the 0 to 49 age group who have not yet opened a Registered Disability Savings Plan. To this end, Employment and Social Development Canada will collaborate with Statistics Canada to carry out an ad-hoc survey on non-clients aimed at investigating the reason why they have not yet opened a Registered Disability Savings Plan and how this relates to demographic and socio-economic characteristics. In 2018, the program transferred its administrative data to Statistics Canada pursuant to a memorandum of understanding between Statistics Canada and Employment and Social Development Canada. In this regard, Employment and Social Development Canada has begun developing project parameters to have Statistics Canada link the Canada Disability Savings Program administrative data with tax file or survey data.
+Management action plan
+Through reinvigorating the relationship with issuers by means of Registered Disability Savings Plan Advisory Committee meetings and teleconferences, solicit feedback from issuers regarding any potential issues evolving from knowledge gaps, for instance additional information on withdrawals may be needed to help issuers provide more clarity to holders in the event of the 10-year anniversary issue.
+Completion date: March 2019
+Work with Statistics Canada is beginning in fall 2018 to facilitate a survey of a sample from the non-clients group in order to better understand their reasons for not opening a Registered Disability Savings Plan. It is tentatively planned that the survey could go out in Spring 2019 and then results would be rolled up during Summer 2019. The subsequent analysis will help inform the Canada Disability Savings Program's future outreach and policy work.
+Completion date: September 2019
+Recommendation 3:
+Continue working with all partners to identify and address the barriers that hinder people with severe and prolonged disabilities who are aware of the Registered Disability Savings Plan from opening or maintaining one and to improve the service experience of those who attempt to do so.
+Response
+Management agrees with this recommendation. The Canada Disability Savings Program will continue to collaborate with partners to find ways to better address barriers that prevent people with disabilities from opening or maintaining a Registered Disability Savings Plan.
+After 10 years of program delivery experience, feedback (anecdotal and quantitative) has been gathered to be able to identify some of the barriers that challenge potential beneficiaries with accessing the program. One of the key challenges is understanding how the Disability Tax Credit works and completing the application process. Recommendations are expected in 2019 from Canada Revenue Agency's Disability Advisory Committee, which was reinstated in 2017 to provide advice to the Minister of National Revenue and the Canada Revenue Agency Commissioner with respect to administrative issues evolving from disability tax measures (including the Disability Tax Credit). Employment and Social Development Canada will work with the Canada Revenue Agency and the Department of Finance to take into consideration the advice of the Disability Advisory Committee in developing the outreach strategy and to improve client service in the Program.
+As part of the work to address knowledge gaps and barriers, Employment and Social Development Canada will continue to collaborate with stakeholders such as disability support organizations and financial planners and the program's delivery arm (that is the financial institutions) to focus on areas where further potential improvements to the service experience of both clients and non-clients is possible. Program officials will engage the issuers to identify areas where improvements to the service experience could be made at this Octobers Registered Disability Savings Plan Advisory Committee meeting and through teleconferences in the coming year.
+In some jurisdictions it is the perception of some potential beneficiaries who are low-income that Registered Disability Savings Plan assets or income could negatively impact eligibility for provincial disability supports; and this perception prevents them from opening a Registered Disability Savings Plan. Program officials will continue to work with the provinces/territories and welcome further collaboration with the Ontario Disability Support Program. An engagement strategy is being developed to strengthen the program's collaboration with provincial/territorial counterparts and increase program promotion in particular in jurisdictions with lower take-up rates.
+In addition to partnering with Statistics Canada to conduct a survey of the non-client group (as mentioned in Recommendation 2), program officials will consider other ways to solicit this type of information from the non-client group, for example through informal surveys of people who visit the Canada Disability Savings Program kiosk during conferences and events.
+Management action plan
+Expand our current work with provincial and territorial representatives, especially in jurisdictions with lower take-up (for example Atlantic provinces, Quebec) — to help increase awareness and enhance understanding among provincial/territorial staff that work in the areas of social services programs/ benefits with a view to increasing take up rates across the country.
+Completion date: July 2019
+Through Registered Disability Savings Plan Advisory Committee meetings and teleconference discussions, solicit ideas from issuers regarding any potential areas where the service experience can be improved.
+Completion date: December 2019
+1. Introduction
+This report presents the findings and conclusions of the summative evaluation, building on the findings of the Evaluation of the Canada Disability Savings Grant and Bond: Phase I. Phase 1 examined the first 4 years of the program's operations and early outcomes. The summative evaluation builds on this earlier work to address the core evaluation issues of program relevance, effectiveness and efficiency, now examining 8 years of program results (2009 to 2017).
+Footnote
+15
+2. Canada Disability Savings Program
+2.1 Program objective
+The objective of the Canada Disability Savings Program is to encourage long-term savings to help ensure the financial security of people with severe and prolonged disabilities. The program was designed based on the final report of an expert panel that had been convened by the Government of Canada and given the mandate "to make recommendations on how families can provide for the future financial security of their family member with a disability".
+Footnote
+16
+2.2 Background
+In 2006, the Government of Canada announced the appointment of an Expert Panel on Financial Security for Children with Severe Disabilities to examine ways to help parents save for the long-term financial security of their children. The concern was how best to ensure the financial security of a disabled child when parents are no longer able to provide support, as well as to help alleviate the poverty so disproportionately experienced by Canadians with disabilities.
+Footnote
+17
+In developing its recommendations, the panel was concerned with balancing 2 competing objectives: (1) to encourage long-terms savings and (2) to ensure that the beneficiary would benefit from those savings within his or her lifetime.
+In Budget 2007, the Government of Canada, acting on the recommendations from the Panel’s final report
+Footnote
+18
+, announced the introduction of the tax deferred
+Footnote
+19
+Registered Disability Savings Plan. The Registered Disability Savings Plan was then introduced in 2008. As recommended by the Panel, the Registered Disability Savings Plan was modeled on the Registered Education Savings Plan emulating its higher matching rates for those in the low and modest income categories, thus producing more equitable distribution of public contributions.
+Footnote
+20
+2.3 Program description
+The Canada Disability Savings Program consists of 3 components:
+The Registered Disability Savings Plan
+The Canada Disability Savings Grant
+The Canada Disability Savings Bond
+Registered Disability Savings Plan
+Registered Disability Savings Plans are available through major financial institutions
+Footnote
+21
+in Canada. To be eligible for a Plan, the beneficiary must have applied and received eligibility for the Disability Tax Credit;
+Footnote
+22
+be under 60 years of age; be a Canadian resident; and have a Social Insurance Number.
+Holders of a Plan may be the beneficiaries or they may be parents of beneficiaries who opened it when the beneficiary was still a minor, a qualifying family member (for example, parent or spouse), or a legal representative or government agency that is legally authorized to act for the beneficiary.
+A beneficiary must have a Registered Disability Savings Plan in order to be eligible for the Canada Disability Savings Grant and the Canada Disability Savings Bond. Canada Disability Savings Grant and/or Canada Disability Savings Bond contributions are available to eligible beneficiaries up to December 31st of the year that the beneficiary turns 49.
+Canada Disability Savings Grant
+The Canada Disability Savings Grant is a matching amount the Government of Canada contributes to a Registered Disability Savings Plan. For a family with an income of $91,831 or less (income thresholds for 2017) the maximum grant available per year is $3,500 and is dependent on a personal contribution of $1,500 being made. For families with incomes greater than $91,831, the maximum grant is $1,000 (if a contribution of $1,000 is made) (see Table 1).
+Table 1: Contribution match rates for the Canada Disability Savings Grant
+Footnote
+23
+Personal Contribution amount
+Income ≤ $91,831
+Income ˃ $91,831
+Percentage
+Dollars
+Percentage
+Dollars
+First $500
+300%
+$1,500
+-
+-
+First $1,000
+-
+-
+100%
+$1,000
+Next $1,000
+200%
+$2,000
+-
+-
+Total maximum grant
+n/a
+$3,500
+n/a
+$1,000
+Rates and income threshold as of January 2017
+Dash (-) indicates that the program does not provide a matching grant for this particular contribution amount.
+Canada Disability Savings Bond
+The Canada Disability Savings Bond is an amount paid by the government into a Registered Disability Savings Plan. It is only available to low- and modest-income families. A personal contribution to the Registered Disability Savings Plan is not required in order to receive the Canada Disability Savings Bond. The maximum annual Canada Disability Savings Bond available is $1,000 and the lifetime maximum Canada Disability Savings Bond entitlement is $20,000 per Registered Disability Savings Plan beneficiary. Canada Disability Savings Bond payments are means-tested based on income level (see Table 2).
+Table 2: Bond eligibility rates for the Canada Disability Savings Bond
+Footnote
+24
+Bond eligibility rates for the Canada Disability Savings Bond
+Family income level
+≤ $30,000
+$30,000-$45,916
+> $45,916
+Maximum bond available
+$1,000
+Pro-rated portion of $1,000
+$0
+Rates as of January 2017
+Like the Canada Disability Savings Grant, the Canada Disability Savings Bond is subject to a ten-year holdback during which time any Canada Disability Savings Bond money paid into an Registered Disability Savings Plan cannot be accessed and must be paid back to the Government of Canada if the Registered Disability Savings Plan is closed.
+2.4 Expected results
+As articulated in the Performance Measurement Strategy for the Canada Disability Savings Program (2015),
+Footnote
+25
+the direct outcomes for the Canada Disability Savings Program are:
+People with disabilities are aware of the Canada Disability Savings Grant and Canada Disability Savings Bond as incentives to save in a Registered Disability Savings Plan.
+Eligible beneficiaries apply for and receive the Canada Disability Savings Grant and Canada Disability Savings Bond.
+Eligible beneficiaries take withdrawals.
+Intermediate outcomes are:
+Canadians are aware of and can access the Registered Disability Savings Plan, Canada Disability Savings Grant and Canada Disability Savings Bond.
+Increased long-term savings of people with disabilities.
+The ultimate outcome, "improved long-term financial security for people with severe and prolonged disabilities", is expected to happen over time due to the accumulation of savings in Registered Disability Savings Plans.
+2.5 Delivery model
+The Canada Disability Savings Program is jointly managed by Employment and Social Development Canada, the Canada Revenue Agency and the Department of Finance. Employment and Social Development Canada is responsible for program design and delivery, policy development, outreach, communications products, Federal/Provincial/Territorial relationships, business and system needs, evaluations and performance reporting.
+In closing this section, it is worth noting that, since initial implementation in 2008, operational experience has led to numerous program changes (see Appendix D). However, the program has been relatively stable during the years covered by this evaluation report.
+3. Evaluation strategy
+The evaluation of the Canada Disability Savings Program comprised 2 phases, an early formative evaluation approved in October 2014 and the current summative evaluation whose results are contained in this report.
+Footnote
+26
+3.1 Phase 1
+The Phase 1 Evaluation examined early results of the program from 2008 to 2012. The objective of Phase 1 was to examine the design and delivery of the program, its relevance, and early directional impacts. It confirmed that the Canada Disability Savings Grant and the Canada Disability Savings Bond had introduced important new instruments, namely asset-development, to provide financial security for persons with severe and prolonged disabilities. As expected, the evaluation found a number of areas for improvement in the program itself and its administration, such as enhancing performance measurement; improving communications and outreach; streamlining the application process; and supporting awareness and knowledge amongst delivery partners.
+3.2 Phase 2
+Evaluation scope
+The evaluation of the Canada Disability Savings Program Phase 2 is based primarily on the period 2008-2009 to 2016-17, though occasionally, data from 2017 to 2018 are included.
+Footnote
+27
+Evaluation planning activities established twelve key questions to address the core issues of relevance, performance, and efficiency/economy (For more details see the Evaluation Matrix in Appendix B).
+Methodology
+The evaluation employed a mixed methods approach to respond to the evaluation questions and used 7 lines of evidence (Appendix C) including:
+a review of program documents and project files
+key informant interviews (n=31) with program staff from Employment and Social Development Canada, Finance Canada and the Canada Revenue Agency and representatives from key stakeholder groups: Provincial/Territorial governments, non-government organizations and financial institutions
+Footnote
+28
+Canada Disability Savings Program Administrative data
+technical studies/statistical analyses
+thirty case studies of families of a Registered Disability Savings Plan beneficiary
+analyses of various Statistics Canada population surveys
+Survey of Households of Canadians with Disabilities, a custom survey of Registered Disability Savings Plan clients and non-clients
+Data limitations
+In this phase of the evaluation, the Canada Revenue Agency did not permit Employment and Social Development Canada to link to their data on Disability Tax Credit-eligible individuals. As a result, the Agency’s information on personal income and income sources, employment, Registered Retirement Saving Plans, and deductions was not available to augment the analysis of program data. Canada Revenue Agency data concerning Disability Tax Credit status, income levels and participation or non-participation in the Canada Disability Savings Program could have provided information on the socio-economic profile of the eligible population. It could also have helped to determine the extent to which individuals and families are saving outside of a Registered Disability Savings Plan (for example, in a Registered Retirement Savings Plan). Also, questions related to the total population of persons eligible for the Disability Tax Credit could not be addressed.
+Within these limitations, program data on matching Canada Disability Savings Grants and Canada Disability Savings Bonds clearly showed that the program significantly benefits low-income participants. In addition, the Survey for the Evaluation of Canada Disability Savings Program includes income data that shows the contributions made to the program by income group.  Further, as documented in the Management Response to the evaluation, recent data sharing arrangements with Statistics Canada will now support the creation of new data linkages that will permit the department to address the above limitations.
+The Canada Disability Savings Program administrative data does not contain information on the severity or type of disability, which are needed to fully examine variations in the program’s impact on the target audience. The Participation and Activity Limitation Survey (2006) was used to develop the profile of families of children with disabilities but its index categorizes the severity and type of a person’s disability differently than the eligibility criteria for the Disability Tax Credit. This survey contains data taken from prior to the introduction of the Registered Disability Savings Plan and thus does not contain any information about take up of the Registered Disability Savings Plan or its effects.
+The Survey of Households of Canadians with Disabilities,
+Footnote
+29
+conducted for this evaluation, included Client and Non-Client Surveys. However, there was a very low response rate to the Non-Client Survey – non-clients being individuals who were eligible for a Registered Disability Savings Plan (and who were 49 years old or younger) but did not have one. Due to the small sample size (13 respondents), analysis of the data that was collected was not undertaken.
+In examining levels of awareness, challenges were noted in isolating the impact of Employment and Social Development Canada-led promotional efforts from those of other jurisdictions (for example, the Province of British Columbia has made considerable efforts in promoting the program).
+Footnote
+30
+Despite this, the assessment of program awareness benefited from input from various sources of information at different levels (for example, departmental program staff, provincial and territorial representatives, NGO’s, case studies of program participants). This allowed for a greater triangulation of the information received.
+4. Relevance
+Evaluation evidence gathered demonstrates that the Canada Disability Savings Program is aligned with Governmental and Departmental roles, responsibilities and priorities and that it is meeting an ongoing need within the target population of persons with severe and prolonged disabilities.
+4.1 Need for future savings for persons with disabilities
+The need for people with disabilities to save for the future was strongly supported by all lines of inquiry. An overwhelming number of respondents to the Survey of Households of Canadians with Disabilities survey
+Footnote
+31
+(98.5%) felt that they needed to save for the future; key informants concurred,
+Footnote
+32
+case studies supported this need
+Footnote
+33
+as did the technical studies of program data.
+Footnote
+34
+In addition, respondents to the Survey of Households of Canadians with Disabilities revealed a lack of confidence in their future regarding self-sufficiency with almost half (45.9%) indicating they will not have enough money in the future for either their wants or their needs.
+Footnote
+35
+There were no significant differences by gender or income level.
+Interviewees for nearly all case studies anticipated that the beneficiary of the Registered Disability Savings Plan would need additional savings in the future to either pay for additional care required by their disability, or to supplement income – irrespective of whether that income was from employment or provincial income assistance and disability programs.
+Footnote
+36
+There were some case study participants who expected that beneficiaries would be eligible for, and live in, group homes or similar living arrangements, where costs of living would be provided by the province.
+Footnote
+37
+However, these case study participants noted that these programs cover only the “bare basics” such as shelter, food and care while other expenses such as clothing, entertainment or outings are not covered by these programs.
+Footnote
+38
+The Canada Disability Savings Grants and Canada Disability Savings Bonds available through the Registered Disability Savings Plan were seen as an incentive for saving,
+Footnote
+39
+particularly for those with low and modest incomes. The desire to save for anticipated future needs is further highlighted by the finding that some beneficiaries and account holders continue to contribute to a Registered Disability Savings Plan even after they reach the maximum grant (See section 5.4 for more details).
+4.2 Barriers to accumulating desired savings
+According to the Canadian Survey on Disability, people with disabilities and families of children with disabilities face significant economic barriers making it more difficult to contribute to a Registered Disability Savings Plan or otherwise save for the future. An analysis of the Canadian Survey on Disability (2012) found that people aged 15 to 59 with
+more severe
+disabilities differed from those with
+less severe
+disabilities in a number of important ways, including living in lower income households, and being less likely to have employment.
+Footnote
+40
+The Canadian Survey on Disability found that 22.7% of all people with disabilities were prevented from working due to their disabilities. Further examination shows that 34.6% of people with
+more severe
+disabilities are prevented from working while 11.3% of people with
+less severe
+disabilities are prevented from working due to their disabilities. Results from the Survey of Households of Canadians with Disabilities revealed that many Registered Disability Savings Plan beneficiaries were not currently employed (65.5%). Of those that were employed, a larger proportion was employed on a part-time basis (24.2%) than a full-time basis (10.3%).
+Footnote
+41
+As for families of children with disabilities, analysis of the Participation and Activity Limitation Survey (2006) found that many face job-related difficulties, including not taking a job (26.4%), working fewer hours (38.4%) and leaving (21.6%) or losing (6.2%) a job to care for the child with disabilities.
+Footnote
+42
+As with other issues, the prevalence was greater among families who had children with
+more severe
+disabilities than those who had children with
+less severe
+disabilities.
+For these reasons, families of children with
+more severe
+disabilities have lower average household incomes ($65,310) than families with children with
+less severe
+disabilities ($71,530) or those without disabilities ($73,680).
+Footnote
+43
+Both the Canadian Survey on Disability (2012) and the Participation and Activity Limitation Survey (2006) provided evidence that people with
+more severe
+disabilities and families of children with
+more severe
+disabilities incur higher living costs than people with
+less severe
+disabilities and people without disabilities. For example, 34.3% of families of children with less severe disabilities indicated that they had out-of-pocket expenses for prescription or non-prescription drugs in the last 12 months compared to 41.4% of families of children with more severe disabilities.
+Footnote
+44
+In addition, people with disabilities can expect these costs to continue and likely increase as they age. Out-of-pocket expenses include health-related items, assistive aids and devices, caregiving services, transportation and others.
+Footnote
+45
+The Survey on Household Spending examined the period from 2010 to 2013 and concluded that households of persons with disabilities or of children with disabilities dedicate a greater percentage of expenses for food (11.7% versus 10.4%), shelter (21.5% versus 20.8%), household operation (6.8% versus 6.2%), furniture (2.8% versus 2.6%) and transportation (15.8% versus 14.9%) than comparable households without disability. They also spent more on health care and general consumption compared to households without people with disabilities or families of children with disabilities.
+Footnote
+46
+Higher living costs generally mean less capacity to save.
+4.3 Alignment with federal government priorities
+The Canada Disability Savings Program's objective is to encourage long-term savings to help ensure the financial security of people with severe and prolonged disabilities. This is consistent with the Departmental Results Framework / Program Inventory (2018 to 2019) and contributes to Employment and Social Development Canada's Strategic Outcome 4
+:
+Income security, access to opportunities and well-being for individuals, families and communities
+.
+Footnote
+47
+The Canada Disability Savings Program is one of a suite of programs, tax incentives and financial support measures established by the federal government aimed at persons with disabilities.
+Footnote
+48
+The Government of Canada reiterated this commitment most recently in Budget 2016, as it promised to “eliminate systemic barriers and deliver equality of opportunity to all Canadians living with disabilities”.
+Footnote
+49
+As part of the government's accessibility agenda, federal accessibility legislation was introduced to remove barriers to accessibility across sectors of federal jurisdiction. The Accessible Canada Program  supports the meaningful participation of people with disabilities in the ongoing implementation and administration of federal accessibility legislation.
+5. Performance
+All lines of evidence suggest that the program has made considerable progress in achieving its core objective, noted as follows:
+Awareness / information
+Various support tools, such as in-person training sessions and webinars, are provided to financial institutions to assist in front-line delivery; financial institutions in turn provide the target population with different ways to access or get information about the program. A majority of survey respondents reported they were satisfied with the information they received from their financial institution, but 25.7% stated they were not able to get all the information they needed.
+Awareness of the program is high, with 92% of respondents in one study indicating that their awareness had increased. The most frequently cited sources of information were disability organizations/service providers, financial institutions, friends or relatives, while the most effective outreach strategy was identified as the Canada Revenue Agency mail outs.
+Take up / effectiveness
+Take-up of the Registered Disability Savings Plan, Canada Disability Savings Grant and Canada Disability Savings Bond has increased steadily since 2009 (from 24,259 total accounts opened in 2009 to 168,567 in 2017).
+Footnote
+50
+The average and total value of the Plans has been increasing, with take-up by age relatively evenly distributed across age groups under 50, and dropping for those older.
+Low-income groups have the highest total personal contributions and also have made the most in total contributions after maximizing the Canada Disability Savings Grant. Total contributions for low-income groups between 2008 and 2017 were approximately $742 million, compared to $113 million, $171 million and $172 million (for middle-, upper middle- and high-income groups, respectively.
+Most (69.4%) of the funds in Registered Disability Savings Plan holdings are from the Canada Disability Savings Grant or Canada Disability Savings Bond. Women, and individuals in the lower 3 income brackets, were more likely to say that the larger portion of their Registered Disability Savings Plan came from government money as compared to men and people in the higher income bracket.
+Footnote
+51
+The program was perceived to have “greatly helped” the majority (66.0%) of people with disabilities save for their future.
+Footnote
+52
+5.1 Program delivery
+The Canada Disability Savings Program provides support to financial institutions (referred to as "issuers") that offer the Registered Disability Savings Plan in order to ensure that the program requirements are clear and that the needs of the target population are met. As Canada Disability Savings Program stakeholders, financial institutions have a front line delivery role.
+A file and document review indicates that the Program provides various support tools to financial institutions. Existing training materials are reviewed and modified on an ongoing basis in collaboration with financial institutions to meet their needs. In addition, in-person training sessions and webinars are offered to financial institutions to help them to better provide services to people with disabilities. The Program informs financial institutions of changes in program legislation and regulations, and how these changes may impact their administration of the program.
+Financial institutions offer the target population different ways to access the program (for example, centralized telephone system, in-person service) as well as alternative formats for information about the program (for example, Braille, website accommodations). Most key informants from financial institutions indicated confidence in their ability to serve clients who were registering for Registered Disability Savings Plan accounts and processing the required transactions. They were also generally satisfied with the training and supports received from Employment and Social Development Canada. Most financial institutions interviewed rated their institution a "5" or above on a scale of 1 to 7 when asked to assess their institution on ‘registration and opening clients' accounts' and ‘processing unusual or usual transactions'.
+Financial institutions admitted concerns over the complexity of the program and expressed interest in receiving more information on aspects of the program's policies, rules and regulations, including:
+identifying who is legally able to be a representative or holder;
+processes to follow regarding disposal of Registered Disability Savings Plan assets; and
+whether or not Registered Disability Savings Plans are entitled to creditor protection.
+Footnote
+53
+Results from the Survey of Households of Canadians with Disabilities (2017) revealed that the majority of people (74.3%) were satisfied with the information they received and the ease with which they were able to set up their Registered Disability Savings Plan, while 25.7% stated they were not able to get all the information needed.
+Footnote
+54
+Of those who were not satisfied, the most common observation was that the financial institution representative was not well informed about the program.
+Case studies with Registered Disability Savings Plan beneficiaries found some similar results, with about one-half of case study participants reporting that the staff they dealt with at financial institutions were not knowledgeable about the program and had difficulty answering questions.
+Footnote
+55
+Areas where information was lacking included specifics of the Assistance Holdback Amount rules and the eligibility requirements to apply for the Registered Disability Savings Plan, Canada Disability Savings Grant and Canada Disability Savings Bond. At the same time, many case study participants also reported that staff was eager to find out needed information about the program to ensure that they received good service.
+5.2 Awareness
+People with disabilities (and/or their families/caregivers) are aware of the Canada Disability Savings Grant and Canada Disability Savings Bond as incentives to save in a Registered Disability Savings Plan. Program outreach activities were designed to increase awareness of the program with the expectation that would increase take-up.
+The Program disseminated plain language print and internet information for people with disabilities and their families about the Registered Disability Savings Plan, Canada Disability Savings Grant and Canada Disability Savings Bond. Subsequent efforts focused on 5 initiatives:
+Developing a pan-Canadian promotional strategy targeting the parents of children with disabilities, adults with disabilities, and Indigenous people with disabilities
+Implementing service contracts to deliver information sessions and one-on-one support to people with disabilities
+Increasing outreach to community based organizations through print, conference attendance and in-person meetings
+Disseminating print information to provincial/territorial offices that provide income and social support to people with disabilities
+Producing accessible Canada Disability Savings Program information for the deaf and hard of hearing communities
+The Program contracted non-governmental organizations to deliver group information sessions to people who wanted to learn more about the Registered Disability Savings Plan, including people with disabilities, parents, siblings, friends, support workers and financial professionals. Feedback from these initiatives showed that 92% of participants indicated that their knowledge of the Registered Disability Savings Plan, Canada Disability Savings Grant and Canada Disability Savings Bond had increased and 43% of respondents intended to open a Registered Disability Savings Plan in the near future, suggesting these are effective communication methods.
+Footnote
+56
+The case studies found that approximately one-half of all cases reported having seen promotional materials about the program. The most frequently reported forms of promotion were pamphlets and posters, either at service provider organizations or financial institutions. A few case study participants mentioned seeing promotion for the program in their annual notice of assessment from the Canada Revenue Agency, and some participants noted seeing advertisements in mass media (for example, newspapers, television). However, feedback from case study participants and from the Survey of Households of Persons with Disabilities (2017), suggests that advertising, posters, and pamphlets have not been highly successful in raising awareness of the program.
+Financial institutions and program staff in the key informant interviews reported that the most effective outreach strategy was the Canada Revenue Agency mail-outs. Since 2013, the Program has conducted 6 mass mail-outs, in partnership with the Canada Revenue Agency, to Disability Tax Credit-eligible individuals. While causality is not certain, after each mail-out, the 1-800-O-Canada line experienced increased call volumes (on average a 125% increase)
+Footnote
+57
+and visits to the website. The Canada Disability Savings Program call centre and financial institutions that issue the Registered Disability Savings Plan also reported increased interest in the Registered Disability Savings Plan at the time of the mail-outs.
+Footnote
+58
+Understanding program requirements
+Beyond awareness of the Registered Disability Savings Plan, Canada Disability Savings Grant and Canada Disability Savings Bond for people with disabilities (and their families/ caregivers) lies the expectation that they will also understand program requirements. After conducting key informant interviews, the least understood requirements were:
+The Assistance Holdback Amount: According to some key informants from financial institutions and non-governmental organizations many Registered Disability Savings Plan holders do not understand the rules governing withdrawals from their plan.
+Eligibility for the Registered Disability Savings Plan/Disability Tax Credit: key informants noted that many prospective clients did not understand the need to be eligible for the Disability Tax Credit before they could open a Registered Disability Savings Plan and some did not understand what the Disability Tax Credit is. Some did not realize that they must maintain eligibility for the Disability Tax Credit to continue in the program. Respondents to the Survey of Households of Canadians with Disabilities tended to be unaware that: (1) there is a lifetime personal contribution limit of $200,000 that can be deposited into a Registered Disability Savings Plan; and (2) a Canada Disability Savings Bond can be deposited into a Registered Disability Savings Plan even if no personal contributions have been made.
+Other program elements where awareness could be improved include:
+The amount of Canada Disability Savings Grants and Canada Disability Savings Bonds available to participants;
+Footnote
+59
+Eligibility for Canada Disability Savings Grants and Canada Disability Savings Bonds ends after December 31 of the year that the beneficiary turns 49 and no Canada Disability Savings Grant is paid on contributions made after this date;
+Footnote
+60
+No personal contributions can be made after the year that the beneficiary turns 59;
+Footnote
+61
+For eligible beneficiaries, Canada Disability Savings Bond eligibility is based only on family income level, not on contributions.
+Footnote
+62
+While program representatives in the key informant interviews described efforts to use plain language in promotional materials, non-governmental organization representatives stated that more plain language is needed in order to increase program understanding for many potential clients.
+Footnote
+63
+Survey findings indicated that people with lower income levels were more likely to understand the rules around the Registered Disability Savings Plan, Canada Disability Savings Grant and Canada Disability Savings Bond than people with higher incomes.
+Footnote
+64
+5.3 Registered Disability Savings Plan take-up
+There has been steady increase in registered accounts, with a total of 168,567 at the end of 2017 (see Figure 1).
+Figure 1: Registered Disability Savings Plan accounts opened, 2009 to 2017
+Text description of Figure 1
+Year
+Number of registered accounts
+2009*
+24,259
+2010
+34,630
+2011
+44,007
+2012
+56,656
+2013
+71,770
+2014
+91,761
+2015
+120,090
+2016
+149,684
+2017
+168,567
+Total
+168,567
+Source: Canada Disability Savings Program Administrative Data Analysis
+*Registered Disability Savings Plans were made available to Canadians in December 2008; therefore, 2009 covers the period of December 2008 to end of December 2009.
+The number of Registered Disability Savings Plans is almost evenly distributed and relatively high across younger age groups (about 30% for each age group) (see Figure 2). This number drops significantly for the older age groups (50 to 59 and 60+). This is due to the fact that eligibility for Canada Disability Savings Grant and Canada Disability Savings Bond payments ends after December 31 of the year when the beneficiary turns age 49 and people over age 60 are not eligible to open a Registered Disability Savings Plan.
+Figure 2: Registered Disability Savings Plan Accounts by age, 2009 to 2017
+Text description of Figure 2
+Take-up by Age
+% of accounts by age
+0 to 18
+25%
+19 to 34
+32%
+35 to 49
+29%
+50 to 59
+13%
+60 and over
+1%
+Total
+100%
+With respect to gender, females held about 40% while males held about 60% of the Registered Disability Savings Plans opened between 2008 and 2017.
+Footnote
+65
+These results align approximately with the Participation and Activity Survey (2006) finding that about one third of all children with
+more severe
+disabilities are female, and the Canadian Survey on Disability (2012) that approximately half of people aged 15 to 64 with more severe disabilities are women.
+Footnote
+66
+Eligibility for the Disability Tax Credit is required for Registered Disability Savings Plan eligibility. Therefore a key metric is the percentage of the Disability Tax Credit eligible population that has a Registered Disability Savings Plan. By 2016, approximately 29% of those aged 0 to 49 in Disability-Tax-Credit-eligible population had a Registered Disability Savings Plan while almost 24% of those under age 59 had one (See Figure 3).
+Figure 3: Percentage of Disability Tax Credit eligible persons with a Registered Disability Savings Plan 2009 to 2016
+Text description of Figure 3
+% of Disability Tax Credit Eligible Population with Registered Disability Savings Plan
+Ages 0 to 49
+Take up rate
+Ages 0 to 59
+Take up rate
+Year
+2009
+9.10%
+5.62%
+2010
+15.57%
+9.87%
+2011
+13.24%
+8.76%
+2012
+15.69%
+12.89%
+2013
+14.28%
+12.40%
+2014
+20.38%
+17.02%
+2015
+24.33%
+20.38%
+2016
+28.99%
+24.54%
+Program administration data show that take-up rates vary considerably by province. Rates are highest in British Columbia (over 30%). Alberta, Saskatchewan, Manitoba, and Ontario have take-up rates in the mid to high twenties. Quebec and Prince Edward Island take up is in the low twenties. The remaining Atlantic Provinces have take-up rates below twenty percent.
+5.4 Contributions to Registered Disability Savings Plans
+Savings accumulated in a Registered Disability Savings Plan come from 3 principal sources: (1) contributions from the Registered Disability Savings Plan holder or others, (2) Canada Disability Savings Bond and (3) Canada Disability Savings Grant deposits made by the program. Total annual contributions have been increasing slowly as the number of registered plans increases (see Figure 4). By the end of 2017, total cumulative contributions amounted to $1.239B.
+Figure 4: Annual and Cumulative Registered Disability Savings Plan Contributions, 2009 to 2017
+Text description of Figure 4
+Year
+Total annual contributions ($ million)
+Total cumulative contributions ($ million)
+2009
+$55
+$55
+2010
+$83
+$138
+2011
+$91
+$229
+2012
+$114
+$343
+2013
+$129
+$472
+2014
+$165
+$637
+2015
+$173
+$810
+2016
+$205
+$1,015
+2017
+$223
+$1,239
+Source: Canada Disability Savings Program Administrative Data
+The average contribution has dropped slowly since 2009 (see Figure 5). This is likely due to maximization of contributions in the first year or 2 in order to attract the maximum Canada Disability Savings Grant and Canada Disability Savings Bond payments. Once full retroactive payments have been received, contributors may prefer to reduce their contributions.
+Figure 5: Annual average Registered Disability Savings Plan contributions
+Text description of Figure 5
+Years, 2009 to 2017
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+Average annual contribution amount
+$3,224
+$2,907
+$2,742
+$2,922
+$2,811
+$2,950
+$2,622
+$2,508
+$2,489
+Analysis of contribution trends by income level since the beginning of the program revealed that it is the low-income group
+Footnote
+67
+that had the highest total aggregate personal contributions (see Figure 6). Total contributions increased each year for all 4 income groups from 2010 to 2017. Both program administration data and the survey of Registered Disability Savings Plan holders conducted for the evaluation found that Registered Disability Savings Plan holders in the lowest income group made the highest average contributions,
+Footnote
+68
+though the differences in average contributions across the 4 income groups are relatively small. Thus the differences in total contributions are almost entirely explained by the relative number of plans in each income group. For example, the  low-income group comprised 48% of all Registered Disability Savings Plan holders,
+Footnote
+69
+and total contributions by this group is slightly larger than the total contribution by the other 4 income groups combined.
+Figure 6: Total contributions by income group in nominal dollars, 2009 to 2017
+Text description of Figure 6
+Total Contributions by Income Group
+High Income
+Above second income threshold
+Upper Middle Income
+Below second income threshold
+Middle Income
+Below first threshold
+Low Income
+Below the phase out income*
+Other / income not reported
+Year
+2009
+$12,869,193
+$8,428,166
+$5,637,225
+$38,878,539
+$2,703,336
+2010
+$10,722,914
+$9,138,104
+$6,110,996
+$42,255,189
+$1,684,737
+2011
+$11,369,937
+$11,845,214
+$7,892,124
+$57,566,764
+$1,870,896
+2012
+$15,403,866
+$15,632,931
+$10,340,711
+$69,336,679
+$3,742,881
+2013
+$17,555,058
+$18,269,224
+$12,074,016
+$79,226,473
+$4,729,398
+2014
+$23,159,966
+$21,751,108
+$15,726,918
+$98,933,473
+$5,594,687
+2015
+$23,978,352
+$24,930,264
+$16,596,398
+$104,797,520
+$7,098,029
+2016
+$27,345,284
+$29,593,413
+$20,547,643
+$117,888,729
+$8,047,641
+2017
+$28,810,557
+$30,298,057
+$18,192,957
+$129,978,814
+$9,135,107
+Total
+$171,215,127
+$169,886,480
+$113,118,989
+$738,862,180
+$44,606,712
+Source: Canada Disability Savings Program Administrative Data
+Registered Disability Savings Plan beneficiaries/holders from all income categories might continue to contribute to their Registered Disability Savings Plan after maximizing Canada Disability Savings Grants (see Table 3). The reasons for doing so include that, even without the Canada Disability Savings Grant, the Registered Disability Savings Plan is a tax deferred savings account
+Footnote
+70
+and because Registered Disability Savings Plan income and assets are fully exempt for the determination of disability income supports in most provinces/territories.
+Table 3: Average contributions by income and total excess contributions after maximizing grants, 2008 to 2017
+Income group
+Total contributions
+Excess contributions after maximizing grants*
+Mean of total contributions
+Low Income
+$741,750,607
+$538,216,179
+$2,700
+Middle Income
+$113,552,412
+$80,370,103
+$2,397
+Upper Middle Income
+$171,089,422
+$115,635,168
+$2,192
+High Income
+$172,331,317
+$124,071,767
+$2,402
+Agency
+$837,664
+$634,679
+$1,151
+Other (No income, no match, other)
+$44,256,921
+$32,962,607
+$2,353
+Totals
+$1,243,818,343
+$891,890,503
+$2,199
+Source:  Canada Disability Savings Program Administrative data (timeframe from December 2008 to December 31, 2017)
+*Includes contributions made after contributing $1,500, that is contributions > $1,500 in a given year
+Private contributions from relatives and friends
+The Registered Disability Savings Plan was designed to enable parents, beneficiaries and others
+Footnote
+71
+to contribute to a Registered Disability Savings Plan. According to the Survey for the Evaluation of the Canada Disability Savings Program and case studies for this evaluation, a small proportion of survey respondents (6.2%)
+Footnote
+72
+stated that ‘other relatives’ had contributed to their Registered Disability Savings Plan and only 5 of the 30 case studies found contributors from ‘outside the household’ (mostly family members).
+Footnote
+73
+Borrowing to contribute to Registered Disability Savings Plans
+The vast majority of survey respondents (96.6 %) stated that they were not borrowing money in order to contribute to their Registered Disability Savings Plan. There were no significant differences by gender or income level regarding likelihood to borrow money for Registered Disability Savings Plan.
+Footnote
+74
+5.5 Canada Disability Savings Grant and Canada Disability Savings Bond take-up
+Program staff key informants noted that when Registered Disability Savings Plans were opened, applications for the Canada Disability Savings Grant and Canada Disability Savings Bond were made simultaneously. Informants were aware that the number of Canada Disability Savings Grants and Canada Disability Savings Bonds being paid out was increasing.
+For over two-thirds (69.4%) of respondents, the largest part of their Registered Disability Savings Plan holdings came from the Canada Disability Savings Bond and/or Canada Disability Savings Grant (see Table 4). Similar proportions of the remaining respondents stated that the Canada Disability Savings Bond/ Canada Disability Savings Grant and the personal contributions were about equal (14.0%) or that their personal contributions made up the larger part of the Registered Disability Savings Plan (16.5%). These custom survey findings are broadly consistent with published information based on administrative data showing that 32% of total Registered Disability Savings Plan assets are derived from personal contributions, while 68% are derived from Canada Disability Savings Grants or Canada Disability Savings Bonds.
+Footnote
+75
+Gender differences were observed in the survey findings, with women more likely to say that the larger part of their Registered Disability Savings Plan holdings came from the Canada Disability Savings Bond and/or Canada Disability Savings Grant.
+Footnote
+76
+A majority of respondents (64%) indicated that the Canada Disability Savings Bond and Canada Disability Savings Grant made up the larger portion of their Registered Disability Savings Plan.
+Footnote
+77
+When the data were reviewed on the basis of income, respondents in the highest income group were significantly more likely to state that the Canada Disability Savings Bond/ Canada Disability Savings Grant and the personal contributions were about equal or that their personal contributions made up the larger part of the Registered Disability Savings Plan, while lower income individuals were less likely to say the same. This indicates that financial matching from the program is being received primarily by those least financially able to provide for their support needs. Indeed, this is how the program is designed. It suggests that the lowest income groups would be more financially vulnerable in the absence of the program.
+5.6 Improvements in long-term financial security
+Participants in the Survey of Households of Canadians with Disabilities were asked how helpful they found the Registered Disability Savings Plan, Canada Disability Savings Grant and Canada Disability Savings Bond to be in saving for the future. Key informants were also asked for their views on this question.
+Table 4: Helpfulness of the Registered Disability Savings Plan, Canada Disability Savings Grant and Canada Disability Savings Bond in terms of saving for the future
+On a scale of 1 to 7, how helpful has the following been:
+Having a Registered Disability Savings Plan? (n=871)
+The Canada Disability Savings Grant? (n=813)
+The Canada Disability Savings Bond? (n=757)
+1(No help)
+2.0%
+3.0%
+11.4%
+2
+1.5%
+2.5%
+2.4%
+3
+4.4%
+3.0%
+3.8%
+4
+4.7%
+4.8%
+4.3%
+5
+11.4%
+10.4%
+10.1%
+6
+10.1%
+9.2%
+9.3%
+7 (Greatly helped)
+66.0%
+67.2%
+58.6%
+Total
+100.0%
+100.0%
+*100.0%
+Survey for the Evaluation of the Canada Disability Savings Program (2017), Unweighted total n=884
+*Total does not add to 100% due to rounding
+The Registered Disability Savings Plan and the Canada Disability Savings Grant received similar helpfulness ratings as recorded in Table 4, while the score for the Canada Disability Savings Bond was lower for ‘greatly helped’ and higher for ‘no help’. This may reflect the fact that fewer people qualify for the Canada Disability Savings Bond, and those that do may qualify for only a portion of the Canada Disability Savings Bond and thus may not find it as helpful as the Registered Disability Savings Plan or Canada Disability Savings Grant.
+Footnote
+78
+Overall, informants supported the program but some believed that improvements to better reach very low-income and marginalized populations are still needed.
+6. Efficiency and effectiveness
+This section  examines the Employment and Social Development Canada administrative costs of the program,  how those costs compare with a similar program, whether the program is  achieving results in the most effective and efficient way, and what internal  and external factors influence the efficiency and effectiveness of the program.  The costs related to the
+Income Tax Act
+,  registering Registered Disability Savings Plans, administering the Disability  Tax Credit and developing policy as undertaken by the Canada  Revenue Agency and/or the Department of Finance were beyond the scope of this  evaluation.
+6.1 Administrative costs
+Footnote
+79
+To examine how the administrative costs of the Canada Disability Savings Program compared to a similar program, the Canada Education Savings Plan was chosen. The design of the Canada Disability Savings Program was based on the Canada Education Savings Program with program staff representatives confirming that most aspects of the Canada Disability Savings Program "piggy-backed" onto the Canada Education Savings Program (for example registration of plans, issuer agreements) in order to achieve administrative efficiencies.
+Footnote
+80
+As a result, the Canada Disability Savings Program has a similar delivery mechanism and components to that of the Canada Education Savings Program with grants and bonds delivered through partnerships with Canadian financial institutions.
+Figure 7 compares the administration costs per beneficiary for the most recent 4 years of program operation.
+Footnote
+81
+The first few years of the Canada Disability Savings Program are excluded from this comparison as the program incurred substantial start-up costs to build the systems and other supports required to launch and operate the program during that period. While the program’s annual administrative costs have declined somewhat, the number of beneficiaries has risen substantially,
+Footnote
+82
+resulting in a significant decline in unit costs. The number of beneficiaries of the Canada Education Savings Program also grew over this period, but at a slower percentage rate due to the relative maturity of the Canada Education Savings Program compared to the Canada Disability Savings Program.
+Analysis of cost/$1000 of savings held in registered plans shows an even steeper downward trend (chart not shown), as the total amount of savings held in Registered Disability Savings Plans (savings + bonds + grants) has increased even more rapidly than the total number of registered plans.
+Figure 7: Cost / beneficiary by year for Registered Education Savings Plan and Registered Disability Savings Plan, 2013 to 2016
+Text description of Figure 7
+Registered Disability Savings Plan
+Unit cost
+RESP
+Unit cost
+2013
+$61.54
+2013
+$3.95
+2014
+$41.45
+2014
+$3.73
+2015
+$27.02
+2015
+$3.46
+2016
+$16.94
+2016
+$3.12
+The analysis here suggests that unit costs to administer the Canada Disability Savings Program have dropped rapidly as the number of registered plans rises while administration costs have also been declining. In light of other evaluation findings that many potential beneficiaries have not yet accessed the Registered Disability Savings Plan, this cost analysis suggests that there may be room to make new investments in reaching out to the target population and in overcoming obstacles to Registered Disability Savings Plan enrollment.
+6.2  Effectiveness
+In order to evaluate the effectiveness of the program, the evaluation considered whether the outcomes of the program were being achieved and whether the results-to-date demonstrate that the program is moving towards fully achieving its objectives. To address this issue, program staff key informants (10 of the 31 key informants) were asked whether they thought the program was achieving outcomes in the most effective way.
+Footnote
+83
+Almost all program staff interviewees reported being unaware of any redundancies or duplication of work in the delivery of the Canada Disability Savings Program.
+Are the Registered Disability Savings Plan, Canada Disability Savings Grant, and Canada Disability Savings Bond helping to improve the long-term financial security of Canadians with disabilities?
+The majority of financial institutions' and program staff key informants (17 of 25 interviewees) who responded to this question) stated that the program was contributing to improved financial security for persons with disabilities. A few of these interviewees stated that it was too early to tell, yet, whether the program would meet that long-term goal. A few others stated that the program, as it is currently designed, is helping to improve the long-term financial security of Canadians with disabilities, but that the help is being delivered to those who appear to need it less and they expressed concerns that very low-income and very marginalized groups are not benefiting as much as they could.
+An analysis of administrative data reveals that the program has been effective in progressing towards its ultimate result of contributing to the financial security of people with severe and prolonged disabilities. The Canada Disability Savings Grant and the Canada Disability Savings Bond are designed to encourage people with disabilities who have low incomes to open, and contribute to, a Registered Disability Savings Plan.
+Footnote
+84
+Indeed, the value of the matching Canada Disability Savings Grant paid into a plan is dependent upon the income level of the beneficiary. As described in section 2.3, for family income under the highest threshold
+Footnote
+85
+the matching Canada Disability Savings Grant is 3:1 for the first $500 and 2:1 for the next $1,000 for a maximum of $3,500. For families with incomes greater than the threshold, the Canada Disability Savings Grant is 1:1 for the first $1,000 for a maximum of $1,000. Thus, examining the number of Canada Disability Savings Grants paid at the 300% and 200% level demonstrates the percentage of beneficiaries whose income is below the highest income threshold.
+As presented in Figure 8, most of the Canada Disability Savings Grants being paid out are at the 300% and 200% levels, from a low of 84% in October-September 2011 to a consistent level of 88% beginning in October, 2015. Correspondingly, in terms of the dollar amounts paid out, most are also in the 300% and 200% levels. The percentage of the Canada Disability Savings Grant dollars paid out at the 300% and 200% ranged from 92% to 95%, with the remainder paid to families with incomes greater than the income threshold. Thus, both the number of Canada Disability Savings Grants being paid out and the dollar amount of Canada Disability Savings Grants paid out show that those below the income threshold are making contributions and receiving most of the benefit paid by Canada Disability Savings Grants.
+Figure 8: Number and total dollar value of Canada Disability Savings Grants paid to low- and modest-income beneficiaries as a percentage of the total number of Canada Disability Savings Grants and total dollar value, April 2010 to March 2018
+Text description of Figure 8
+Period of months from April 2010 to March 2018
+% of grants paid at 300% and 200%
+% of total dollars of grants paid at 300% and 200%
+Apr-Sep 2010-11
+85%
+95%
+Oct-Mar 2010-11
+84%
+94%
+Apr-Sep 2011-12
+84%
+94%
+Oct-Mar 2011-12
+87%
+94%
+Apr-Sep 2012-13
+86%
+92%
+Oct-Mar 2012-13
+86%
+93%
+Apr-Sep 2013-14
+86%
+92%
+Oct-Mar 2013-14
+86%
+93%
+Apr-Sep 2014-15
+87%
+92%
+Oct-Mar 2014-15
+87%
+93%
+Apr-Sep 2015-16
+87%
+92%
+Oct-Mar 2015-16
+88%
+93%
+Apr-Sep 2016-17
+88%
+93%
+Oct-Mar 2016-17
+88%
+94%
+Apr-Sep 2017-18
+88%
+93%
+Oct-Mar 2017-18
+88%
+93%
+The Canada Disability Savings Bond is targeted at low income individuals and as income increases, the Canada Disability Savings Bond decreases. Those who receive a full Canada Disability Savings Bond represent those at the lowest income level. Analysis of program data indicates that 77% of Canada Disability Savings Bonds were paid out at full value over the years from 2010 to 2017, representing 89% of total dollars paid out. Thus, the vast majority of Canada Disability Savings Bonds paid out are for the full Canada Disability Savings Bond amount, which means they are being paid to beneficiaries who are in the lowest income category.
+The analysis thus shows that both Canada Disability Savings Grant and Canada Disability Savings Bond are effectively distributing most of the benefits to those in the lower income groups. The Canada Disability Savings Grant is effective in encouraging those below the income threshold to contribute to their Registered Disability Savings Plan. In addition, the Canada Disability Savings Bonds that have been distributed have been mostly full Canada Disability Savings Bonds, showing that they are reaching the lowest income beneficiaries.
+The Survey of Households of Canadians with Disabilities, conducted for the evaluation, showed that people in the low income category (below $26,021 in the year of the survey) have the largest amount ($36,700) in their Registered Disability Savings Plans and the lowest amount ($9,200) in other savings/investment vehicles relative to those in other income categories. Those in the high income category (above $89,400 in the year of the survey) are in the opposite position, having less money in their Registered Disability Savings Plan ($22,800) and more money ($37,700) in other savings/investment vehicles relative to other income categories.
+Footnote
+86
+This distribution indicates that the Canada Disability Savings Program is successful in targeting those who have low incomes.
+Some key informants had expressed concerns that the program was not benefitting enough low-income beneficiaries. However, these findings demonstrate that for those low- and modest-income individuals who do choose to participate in the program, the results are quite positive.
+Additional questions
+In addition to the questions formally identified within the scope of the evaluation, several closely related topics arose during the research stage of the project. (See Appendix E for findings on these questions.) Additional questions included:
+Do Registered Disability Savings Plan holders receive adequate support throughout the lifetime of the Registered Disability Savings Plan to effectively maintain the account?
+What proportion of Registered Disability Savings Plan beneficiaries is accessing funds early? On time?
+Do Registered Disability Savings Plan holders receive adequate support when attempting to access their funds or close the account?
+6.3 Factors influencing program effectiveness
+Data from key informant interviews indicate the following factors influence program effectiveness:
+Complexity of the process involved in applying for the Disability Tax Credit. Interviewees noted that both the complexity of the application process (medical practitioner verification is required) along with the potential expiry of the Disability Tax Credit (if it expires it must be renewed), create obstacles for people to apply.
+Footnote
+87
+Assistance Holdback Amount rules. Several key informants expressed concerns about the severity of the rules and the length of time before funds could be withdrawn from the account. Interviewees indicated that waiting until the beneficiary is 60 years old is too late in life for many to access their funds.
+Footnote
+88
+Performance of financial institutions in issuing Registered Disability Savings Plans. Issuers are primarily responsible for explaining the Registered Disability Savings Plan and its requirements to clients and assisting them to set up a Plan. While the number of financial institutions offering Registered Disability Savings Plans appears to be sufficient to meet consumer needs, some persons with disabilities in remote/Northern and rural areas may not be adequately served. Also, as noted above, the Survey and Case Studies
+Footnote
+89
+found that financial institution staff could not always answer questions around the specifics of the program.
+Some interviewees indicated that rules around Lifetime Disability Assistance Payments limit program effectiveness, expressing 2 main concerns:
+By the time the beneficiary is 60 years old, the parents or caregivers of a beneficiary requiring significant care will likely be elderly. As such, they will likely need care themselves prior to that point, and will not be able to “fill the gaps” in provincial care, for about a decade before the beneficiary becomes eligible for Lifetime Disability Assistance Payments from an Registered Disability Savings Plan; and
+Many people with disabilities face shortened life expectancies and may not live long enough past 60 to fully realize the benefits of the funds accrued in Plans. Although exceptions can be made and Lifetime Disability Assistance Payments started early,
+Footnote
+90
+if a doctor can certify that the beneficiary is unlikely to live beyond 5 years, for many disabilities it is not possible to specify life expectancy.
+7. Conclusion
+The Canada Disability Savings Program responds to long-standing and ongoing needs identified by people with severe and prolonged disabilities, their families and support organizations for assistance in saving for their future financial needs. People with more severe disabilities and their families face higher additional expenses, lower average incomes and more labour market challenges than do people with less severe disabilities, all of which limit their ability to save.
+Evaluation evidence shows that the Program is helping members of its primary target of low- to modest-income people with disabilities to save. By the end of 2016, 29% of Disability Tax Credit-eligible individuals aged 0-49 had opened a Registered Disability Savings Plan, showing a significant take up since the beginning of the program in 2008 (9.1%). The value of assets is now over $4B, or an average of more than $25,000 in each plan. Administrative data analyses showed that 77% of Canada Disability Savings Bond recipients are in the low-income category (annual income below $30,000 in 2017), and that 93% of Canada Disability Savings Grant funds were paid to those in low or modest income recipients (annual income below $30,000 or $45,916 in 2017).
+Further understanding is needed on how the 29% take up is distributed across sub-populations of people with severe and prolonged disabilities (for example, physical, mental, multiple disabilities, region, Indigenous status, etc.). More refined data would help identify if there are gaps among sub-populations.
+In considering these findings, the following roadmap demonstrates the steps participants may experience prior to making changes in saving-related behaviours (Figure 9).
+Footnote
+91
+Figure 9: Canada Disability Savings Program road map to long term financial security
+Text description of Figure 9
+The process begins with awareness of the Canada Disability Savings Program. To move from awareness education about financial security, and changes to beliefs and attitudes are necessary to reach understanding. To move from understanding requires motivation, liquidity, and a positive service experience to reach action.
+The evaluation findings illustrate some of the barriers and enhancers conceptualized above.
+Key informants and case study participants mentioned the complexity of the program as a factor that might influence take-up rates and administrative efficiency. Complexity is a factor in understanding eligibility to open and manage a Registered Disability Savings Plan, understanding the potential benefits of the program, completing the application process, assessing how much and when to contribute, understanding the interaction with provincial and territorial programs, and determining when to withdraw funds in light of penalties for early withdrawal. Some key informants noted that lower financial literacy in the target population of persons with disabilities could hamper take-up of such a complex program. Program complexity was also noted during the earlier formative evaluation and the program area has attempted to improve explanatory material, training and support for various audiences.
+The Canada Disability Savings Program provides support to financial institutions/issuers with communications materials in a variety of accessible formats and with training and support to meet the needs of people with disabilities and their families when setting up an Registered Disability Savings Plan and applying for the Canada Disability Savings Grant/ Canada Disability Savings Bond. Both the Survey and the Case Studies found that a significant minority of clients did not get adequate answers to their questions.
+Since 2015, the Program has developed and is implementing a promotion strategy to raise awareness of the Registered Disability Savings Plan, Canada Disability Savings Grant and Canada Disability Savings Bond and to increase understanding. Strategies have included various awareness/promotional methods, outreach contracts with community based organizations, dissemination of information through provincial/territorial government offices, conference and event attendance, and mail-outs to Disability Tax Credit-eligible individuals who do not yet have a Registered Disability Savings Plan. Tracking volumes of calls and other inquiries showed that these efforts have been effective in increasing the awareness of the Registered Disability Savings Plan, Canada Disability Savings Grant and Canada Disability Savings Bond.
+The evaluation findings also point to some of the variation that is likely to exist within the target population:
+Examination of Registered Disability Savings Plan take-up rates shows significant variation across jurisdictions. Investigating the reasons for this variability may point the way to improving outreach activities in jurisdictions with lower take-up.
+The evaluation was unable to estimate the degree of take-up within sub-population groups such as those living alone, Indigenous, LGBTQ, newcomers to Canada, rural/northern residents, etc. Significant numbers in the target population have increased savings. Concern remains that some subpopulations of people with disabilities in the very low income bracket are still not benefiting. For example, some key informants believed that improvements to better reach people with disabilities in very low-income and vulnerable sub-populations are still needed.
+Potential areas for future research towards improved program effectiveness:
+Figure 9 suggests 3 broad areas which may hinder Canada Disability Savings Program effectiveness: (a) lack of awareness of the Registered Disability Savings Plan and/or motivation on the part of potential beneficiaries to move forward; (b) knowledge gaps about key plan features and administrative requirements; (c) administrative or service barriers that hinder action to open / maintain, invest in, or withdraw funds from a Registered Disability Savings Plan. Further research would focus and guide the following:
+Awareness: A survey of a sample of Disability Tax Credit-eligible non-clients could capture their awareness and knowledge of the Registered Disability Savings Plan, perceived obstacles to opening a Registered Disability Savings Plan, and potential motivation to do so.
+Awareness: Develop a systematic review of Registered Disability Savings Plan promotion efforts and their results across jurisdictions, including those targeting specific groups such as low income, Indigenous, newcomers to Canada, rural/Northern, and LGBTQ.
+Knowledge gaps: Conduct focus groups and/or surveys of Registered Disability Savings Plan beneficiaries, families, financial service organization customer service staff, and third party intermediaries to identify knowledge gaps.
+Knowledge Gaps, Administrative or Service Barriers: Examine Registered Disability Savings Plan take up and holdings according to level and sources of household income (for example earnings, social assistance), deductions claimed (for example Medical expenses), age, sex, province of residence, marital status and other personal or family characteristics available on the T1 file.
+Administrative or Service Barriers: Conduct a survey of Registered Disability Savings Plan clients focusing on their service experience with their financial institution, government of Canada departments, and any other third party provider.
+8. Recommendations
+Recommendation 1:
+Continue working with all partners to increase awareness amongst people with severe and prolonged disabilities, and their families of the benefits of having a Registered Disability Savings Plan and accessing the Canada Disability Savings Bond and Canada Disability Savings Grant.
+Recommendation 2:
+Continue working with all partners involved in delivering the Registered Disability Savings Plan, the Canada Disability Savings Bond and Canada Disability Savings Grant to identify and address the knowledge gaps
+Footnote
+92
+that persist within partner organizations and among Registered Disability Savings Plan holders and beneficiaries.
+Recommendation 3:
+Continue working with all partners to identify and address the barriers
+Footnote
+93
+that hinder people with severe and prolonged disabilities who are aware of the Registered Disability Savings Plan from opening or maintaining one and to improve the service experience of those who attempt to do so.
+Appendix A - Canada Disability Savings Program logic model
+Canada Disability Savings Program Canada Disability Savings Program Logic Model
+Text description of Appendix A
+Appendix A illustrates the logic model of the Canada Disability Savings Program which outlines, from the bottom to the top, its inputs, activities, outputs, immediate outcomes, intermediate outcomes, ultimate outcome and the strategic outcome the program intends to achieve or to which it intends to contribute.
+Inputs
+Government of Canada funding for grant and bond payments, program full-time equivalents, and operating budget.
+Activities
+The inputs lead to the following activities:
+Design and provide outreach activities
+Analyze program policy and provide operational guidance
+Process
+Footnote
+94
+grant and bond requests
+Engage
+Footnote
+95
+issuers and stakeholders
+Outputs
+These activities lead to the following outputs:
+Outreach materials reach Canadians
+Grant and bond payments processed
+Issuer agreements signed, compliance reports produced, training/guidelines/advice for issuers provided
+Immediate outcomes
+These outputs lead to the following immediate outcomes:
+People with disabilities are aware of the grant and bond incentives to save in a Registered Disability Savings Plan
+Eligible beneficiaries apply for and receive grant and/or bond
+Eligible beneficiaries take withdrawals
+Intermediate outcomes
+These immediate outcomes lead to the following intermediate outcomes:
+Canadians are aware and can access the Registered Disability Savings Plan, grant and bond
+Increased long-term savings of people with disabilities
+Ultimate outcome
+These intermediate outcomes lead to the following ultimate outcome:
+Improved long-term financial security for people with severe and prolonged disabilities
+Alignment with Employment and Social Development Canada Management Resources and Results Structure
+This ultimate outcome aligns with the Employment and Social Development Strategic Outcome:
+Income security, access to opportunity and well-being for individuals, families, and communities
+Notes:
+Logic Model is taken from August 2017 Canada  Disability Savings Program Performance Information Profile.
+People with disabilities and/or their families/caregivers.
+Issuers are the Canadian financial institutions that offer the Registered Disability Savings Plan.
+Transactions processing is done through the CANADA DISABILITY SAVINGS PROGRAM Administrative System which includes these key activities: systems development, enhancement, maintenance and integrity.
+Appendix B - Evaluation matrix for Canada Disability Savings Program Evaluation Phase 2
+Relevance
+Is there a demonstrated ongoing need for the program?
+Evaluation Phase 2 Survey
+Case Studies
+Key Informant Interviews
+File and Document Review
+Canada Disability Savings Program Administrative Data Analysis
+Survey of Household Spending
+ASETS
+Performance
+Has the Canada Disability Savings Program been effective in helping to ensure that financial institutions and non-government organizations that have been contracted by Employment and Social Development Canada are able to provide services –with regards to the program–that meet the needs of persons with disabilities and their families?
+Evaluation Phase 2 Survey
+Case Studies
+Key Informant Interviews
+File and Document Review
+Has the program generated communication and outreach strategies and documents to raise awareness among People with disabilities and their families?
+Evaluation Phase 2 Survey
+Case Studies
+Key Informant Interviews
+File and Document Review
+How effective have these outreach and communication strategies been in raising awareness about the Registered Disability Savings Plan, the grant and bond among People with disabilities and their families?
+Evaluation Phase 2 Survey
+Case Studies
+Key Informant Interviews
+File and Document Review
+To what extent are People with disabilities and their families aware of the Registered Disability Savings Plan, grant and bond, and its requirements?
+Evaluation Phase 2 Survey
+Case Studies
+Key Informant Interviews
+File and Document Review
+Participation and Activity Limitation Survey
+ASETS
+Canada Survey of Disability
+What is the extent of awareness about the Registered Disability Savings Plan, the grant and bond among the Disability Tax Credit-eligible population aged 0 to 49?  Of those who are aware, what is the extent of their understanding about the Registered Disability Savings Plan, the grant and the bond and its requirements?
+Evaluation Phase 2 Survey
+Case Studies
+Key Informant Interviews
+File and Document Review
+Participation and Activity Limitation Survey
+ASETS
+Canada Survey of Disability
+What is the take up rate of CDS grants and bonds among the Disability Tax Credit - eligible population aged 0 to 49 years (for example, by age, gender, and family status, region/ province, income, employment status, etc.)?
+Linked Employment and Social Development - Canada Revenue Agency Data Analysis
+Canada Disability Savings Program Administrative Data Analysis
+What is the Registered Disability Savings Plan take-up rate (of the Disability Tax Credit eligible population aged 0 to 59 years), and grant and bond take up rate (of Disability Tax Credit-eligible aged 0 to 49 years) among beneficiaries from low income and under-represented groups ? What are the trends?
+Linked Employment and Social Development - Canada Revenue Agency Data Analysis
+What is the average annual amount of savings in Registered Disability Savings Plans, grants and bonds, through both private and government contributions? What is the trend?
+Linked Employment and Social Development - Canada Revenue Agency Data Analysis
+Canada Disability Savings Program Administrative Data Analysis
+What has been the incremental impact of grant and bond contributions on savings in Registered Disability Savings Plans?
+Linked Employment and Social Development - Canada Revenue Agency Data Analysis
+Canada Disability Savings Program Administrative Data Analysis
+To what extent have corrective actions been taken to address recommendations from the formative evaluation?
+Key Informant Interviews
+File and Document Review
+Canada Survey on Disability
+What are the trends in savings among people with disabilities compared to the general population of Canadians since the introduction of the Canada Disability Savings Program in 2008?
+Linked Employment and Social Development – Canada Revenue Agency Data Analysis
+Canada Disability Savings Program Administrative Data Analysis
+Participation and Activity Limitation Survey
+Survey of Household Spending
+To what extent are Registered Disability Savings Plan private contributions coming from relatives and/or friends?
+Evaluation Phase 2 Survey
+Case Studies
+To what extent are persons with disabilities or their families borrowing money to put into Registered Disability Savings Plans?
+Evaluation Phase 2 Survey
+Case Studies
+Participation and Activity Limitation Survey
+Survey of Household Spending
+Canada Survey on Disability
+To what extent are Canadians with disabilities and their families saving outside of a Registered Disability Savings Plan? What are savings tools/plans are they using?
+Evaluation Phase 2 Survey
+Case Studies
+Key informant Interviews
+ASETS
+If using other savings vehicles, why have you chosen not to save in an Registered Disability Savings Plan instead?
+Evaluation Phase 2 Survey
+Case Studies
+Efficiency and Economy
+What are the program's administrative costs per beneficiary? (Per dollar administrated)?
+File and Document Review
+Participation and Activity Limitation Survey
+How are the costs of the Canada Disability Savings Program compared to those of similar programs such as the Canada Education Savings Program, and compared to those programs which are solely government-delivered? (that is Canada Pension Plan, Employment Insurance, Old Age Security, etc.)
+Key informant Interviews
+File and Document Review
+Participation and Activity Limitation Survey
+Is the program achieving its outputs and outcomes in the most effective and efficient way?
+Key informant Interviews
+File and Document Review
+What internal and external factors influence the efficiency and economy of the program?
+Key informant Interviews
+File and Document Review
+Could the efficiency of the program be improved?
+Key informant Interviews
+File and Document Review
+Appendix C – Methodology
+The evaluation employed a mixed-methods approach incorporating 5 lines of evidence. This Appendix describes the approach, data sources, data collection methods and constraints and limitations.
+This evaluation examines the period covering 2008-2009 to 2015-2016. It focuses on the core evaluation issues as required by the Policy on Evaluation using the questions identified in Appendix B to examine those issues. The evaluation is national in scope.
+The following lines of evidence were developed to respond to the twelve key evaluation questions. Some were developed in-house by Employment and Social Development Canada Evaluation Directorate staff while some were conducted by external contractors, with oversight from the Employment and Social Development Canada Evaluation Working Group.
+Document and file review:
+This included previous evaluation final report and program documentation and project files provided by the program.
+Administrative data
+A data file prepared for evaluation was extracted from Canada Disability Savings Program administrative data and was analysed: Administrative Data Analysis for the Evaluation of Canada Disability Savings Program December 2008 to October 2015 (January 2017) (update – March 2017)
+Key informant interviews:
+Initially 36 interviews were planned; 31 interviews were conducted. Interviews were carried out by an external contractor and were conducted by telephone. Interview guides, based on the evaluation questions set by the Employment and Social Development Canada Evaluation Directorate, were prepared for each of the 4 stakeholder groups. Representatives from 4 stakeholder groups participated: program staff (Employment and Social Development Canada, Canada Revenue Agency and Finance Canada) (n=10), provincial/territorial representatives (income assistance programs) (n=8), non-government organizations (service provider organizations that advocate on behalf of persons with disabilities) (n=5) and issuers (financial institutions) (n=7) Interviews were carried out by between February 14 and March 10, 2017.
+When reporting key themes, the following descriptors were used to summarize responses from key informants:
+"All/almost all" – findings reflect the views and opinions of 90% or more of the key informants in the group.
+"Large majority/most" – findings reflect the views and opinions of at least 75% but less than 90% of key informants in the group.
+"Majority" - findings reflect the views and opinions of at least 51% but less than 75% of key informants in the group.
+"Half" – findings reflect the views and opinions of 50% of the respondents in the group.
+"Some" - findings reflect the views and opinions of at least 25% but less than 50% of key informants in the group.
+"A few" - findings reflect the views and opinions of at least 2 respondents but less than 25% of key informants in the group. "A couple" refers to the opinions of 2 respondents.
+Case Studies:
+Thirty case studies were conducted of Canadian families that hold Registered Disability Savings Plans (Registered Disability Savings Plans) and that were determined to be broadly representative of a range of income brackets, age groups and regions.
+Studies / Analyses:
+Specific, focused technical reports based on survey analysis were prepared including:
+Savings among Households with Person with Disability: Findings from the Access and Support to Education and Training Survey (ASETS) (July 2015)
+Cost-benefit Study for the Evaluation of Canada Disability Savings Program – Phase 2 (August 2015)
+Additional Living Costs and Barriers Faced by Families with Children Living with Disabilities; Evidence from the Participation and Activity Limitation Survey (PALS 2006) (October 2016)
+Update of the Additional Living Costs and Barriers Faced by Persons with Disabilities: Findings from the 2012 Canadian Survey on Disability (CSD) (January 2017)
+Supplementary Information on: Additional Expenses by Households with Persons/Children with Disabilities: Findings from the Survey of Household Spending – 2010 to 2013 (January 2017)
+Survey of Households of Canadians with Disabilities – Technical Report Prepared for the Canada Disability Savings Grant and Bond Evaluation (March 2017)
+Survey for the Evaluation of Canada Disability Savings Program (March 2017) (reports and discusses the results of the Survey of Households of Canadians with Disabilities).
+Appendix D – Program changes
+Budget 2010
+Footnote
+96
+Canada Disability Savings Act (
+CDSA) was amended to allow the carry forward of any unused grant and bond entitlements from the previous 10 years (starting in 2008), up to an annual maximum of $10,500 for grants and $11,000 for bonds.
+Introduction of a rollover provision which allows for the tax-deferred transfer of proceeds from a deceased individual’s Registered Retirement Savings Plan, Registered Retirement Income Fund, and/or Registered Pension Plan into the Registered Disability Savings Plan of a financial dependent child or grandchild with a disability.
+Budget 2011
+Footnote
+97
+Amendments to withdrawal rules to provide greater flexibility for beneficiaries with shortened life expectancy. For beneficiaries with a life expectancy of 5 years or less, the change allowed annual Registered Disability Savings Plan withdrawals of up to $10,000 in taxable plan savings, as well as a pro-rated amount of non-taxable savings, without requiring the repayment of grant and bond paid into the plan in the preceding 10 years.
+Budget 2012
+Footnote
+98
+Expanded the definition of who may open an Registered Disability Savings Plan for a person with disabilities;
+Proportional Repayment Rule introduced so persons with disabilities will have greater access to their savings, as they only have to repay, at a fixed rate, part of any grants and bonds paid into their Registered Disability Savings Plan in the 10 years before the withdrawal;
+The annual maximum withdrawal limit for Registered Disability Savings Plans under certain conditions was increased to make withdrawals more flexible; a minimum amount must be withdrawn from an Registered Disability Savings Plan from the year that the beneficiary turns 60, to ensure that Registered Disability Savings Plan assets are used for beneficiaries during their lifetime;
+Rollover of Registered Education Savings Plan Investment Income to allow, under certain circumstances, the income earned on investments in a beneficiary’s Registered Education Savings Plan, to be moved, on a tax-deferred basis, into that person’s  Registered Disability Savings Plan, further deferring taxation;
+Amending the rules around closing an Registered Disability Savings Plan when Disability Tax Credit eligibility ceases: Registered Disability Savings Plans can remain open for a longer period, under certain circumstances, after an individual ceases to be eligible for the Disability Tax Credit;
+Administrative changes to improve how financial institutions administer the Registered Disability Savings Plan, the grant and the bond for persons with disabilities: the 60, 120 and 180 day rules were eliminated and Employment and Social Development Canada committed to transferring the historical information related to the existing plan to the new issuer, when a plan is transferred from one issuer to another.
+Budget 2015
+Footnote
+99
+Extend, until the end of 2018, the temporary federal measure that allows a qualifying family member to become the plan holder of a Registered Disability Savings Plan for an adult individual who might not be able to enter into a contract.
+Appendix E – Additional questions
+Do Registered Disability Savings Plan holders receive adequate support throughout the lifetime of the Registered Disability Savings Plan to effectively maintain the account?
+All stakeholder groups in the key informant interviews, except representatives from non-governmental organizations, commented on the issue of Registered Disability Savings Plan clients maintaining their eligibility. All of the financial institutions interviewed stated that it was difficult to serve clients whose Disability Tax Credit eligibility had lapsed as they subsequently lost eligibility for their Registered Disability Savings Plans. The issuers are then required to close the account. A few financial institutions mentioned that they did receive notice from the Canada Revenue Agency when a Registered Disability Savings Plan client had lost their Disability Tax Credit, but only some of these individuals stated that they provided support in the form of reminders to their clients to renew their Disability Tax Credit eligibility. For others, the process of contacting everyone with an expiring Disability Tax Credit would be too burdensome. No other interviewees mentioned other supports available to Registered Disability Savings Plan holders to help them maintain their account.
+Only about half of the financial institution key informants indicated that their clients were sufficiently aware of the fact that the Disability Tax Credit could expire, or the impact that such an expiry could have on their Registered Disability Savings Plan. On this point, a few representatives from non-governmental organizations did note that information about maintaining the Disability Tax Credit, and the impact on one’s Registered Disability Savings Plan if the Disability Tax Credit lapses, was covered in the educational sessions that they presented. These findings, in combination with the comments of issuers that loss of Disability Tax Credit eligibility is not uncommon among Registered Disability Savings Plan clients, suggest that although the information is being made available to potential Registered Disability Savings Plan holders, they are not sufficiently aware of it or do not act in a timely manner.
+Program staff representatives noted that individuals are given 2 years’ notice (from Canada Revenue Agency) of when their Disability Tax Credit is set to expire. Despite this notice period, a few interviewees identified challenges:
+The notification is sent out with the Canada Revenue Agency Notice of Assessment, which relies on people reading their notices; and
+The notice period is insufficient, due to the fact that the target population often has additional needs or barriers to understanding and who then face possible challenges in finding a doctor to complete the required section of the Disability Tax Credit application.
+What proportion of Registered Disability Savings Plan beneficiaries is accessing their funds early? On time?
+Key informants stated that only a small minority of Registered Disability Savings Plan holders have withdrawn money from their accounts; this finding was corroborated by one program staff interviewee who reviewed administrative statistics to address this question. A majority of key informants from financial institutions stated that they tend to get far more inquiries about withdrawals than they actually get applications for withdrawal, which they felt was likely due to the penalties for withdrawing early.
+Withdrawing funds “on-time” would be when the Registered Disability Savings Plan has fully matured.
+Footnote
+100
+Although the program has been operational for 10 years, the first grant and bond contributions were not paid until 2009, thus there should be no grant/bond contributions that have fully matured and therefore no Lifetime Disability Assistance Payments taken out from Registered Disability Savings Plans at this time. It is possible for people to withdraw Disability Assistance Payments, although penalties as per the proportional repayment and Assistance Holdback Amount rules apply. However, under the shortened life expectancy provision, it is possible for people to have their Registered Disability Savings Plan designated as a Specified Disability Saving Plan and begin making limited withdrawals without being subject to Assistance Holdback provisions.
+Administrative data reporting reveals that withdrawals have been made: the amount of Disability Assistance Payments paid out each year has increased steadily from 2009 to 2017. However, Lifetime Disability Assistance Payments did not increase as significantly as Disability Assistance Payments. In 2017, combined Lifetime Disability Assistance Payments and Disability Assistance Payments amounted to $28.4M and cumulative payments totaled $107.7M.
+Footnote
+101
+2.1% of Beneficiaries received a Disability Assistance Payment and 0.5% of beneficiaries received Life Disability Assistance payments.
+Do Registered Disability Savings Plan holders receive adequate support when attempting to access their funds or close the account?
+As this role would fall to the financial institutions, key informants from those organizations addressed this question. They stated that they were confident in their ability to effectively handle requests for withdrawing funds or closing Registered Disability Savings Plans. Many also mentioned that they take care to ensure that clients making these requests are aware of the penalties for withdrawing, so clients can make well-informed financial decisions. This finding should be read with caution as the only respondents to this question were key informants from the financial institutions.
+Appendix F – References
+The 2006 Participation and Activity Limitation Survey (PALS): Disability in Canada (89-628-X) PALS was funded by Employment and Social Development Canada (formerly Human Resources and Social Development Canada). It is a post-censual
+survey
+which used the
+2006
+Census as a sampling frame to identify its population. The PALS is Canada's national survey that gathers information about adults and children whose daily activities are limited by a physical, mental, or other health-related condition or problem.
+Statistics Canada (2013).
+The 2012 Canadian Survey on Disability (CSD) and the 2006 Participation and Activity Limitation Survey (PALS)
+.
+Department of Finance Canada (2006). A New Beginning.
+The Report of the Minister of Finance’s Expert Panel on Financial Security for Children with Severe Disabilities
+Dunn, S. and Zwicker, J. (2018).
+Policy Brief – Why is Uptake of the Disability Tax Credit Low in Canada?  Exploring Possible Barriers to Access
+.
+Employment and Social Development Canada. (2017). Canada Disability Savings Program. Annual Statistical Review 2015: Employment and Social Development Canada.
+Employment and Social Development Canada 2017-18 Departmental Plan
+.
+Footnotes
+Footnote 1
+See:
+Registered disability savings plan (Registered Disability Savings Plan)
+Return to footnote
+1
+referrer
+Footnote 2
+The Canada Disability Savings Program's means-testing rules gage a potential recipient's need for government assistance in order to save.  The means-testing rules determine whether or not a participant in the program has an income that is low enough to qualify for a Canada Disability Savings Bond and a full or partial Canada Disability Saving Grant.
+Return to footnote
+2
+referrer
+Footnote 3
+At the time of writing this report, the number of Disability Tax Credit holders at the end of 2017 was not available.
+Return to footnote
+3
+referrer
+Footnote 4
+The 2018 target is 33%.
+Return to footnote
+4
+referrer
+Footnote 5
+Data limitations prevented calculating take up rates by income level.  Management will pursue data linkage opportunities with Statistics Canada that may overcome these limitations.
+Return to footnote
+5
+referrer
+Footnote 6
+For example, the 2016-2019 Registered Disability Savings Plan Outreach Strategic Plan indicated a 125% increase in calls to 1-800-0-Canada that coincided with a November, 2015 information mail-out to eligible participants, as well as a 10-fold increase in contacts to Service Canada about the program.
+Return to footnote
+6
+referrer
+Footnote 7
+Survey for the Evaluation of Canada Disability Savings Program (2017), p. 34
+Return to footnote
+7
+referrer
+Footnote 8
+For more details, see
+Status of Women Canada. What is GBA+?
+Return to footnote
+8
+referrer
+Footnote 9
+Registered Disability Savings Plan Annual Statistical Review
+Return to footnote
+9
+referrer
+Footnote 10
+Survey for the Evaluation of Canada Disability Savings Program, p.34
+Return to footnote
+10
+referrer
+Footnote 11
+Evaluation of the Canada Disability Savings Grant and Bond: Phase I (2014), p.6
+Return to footnote
+11
+referrer
+Footnote 12
+Government of Canada Budget 2016
+Chapter 5 – An Inclusive and Fair Canada
+Return to footnote
+12
+referrer
+Footnote 13
+For example, Assistance Holdback Amount rules were identified as one of the least understood aspects of the program by both Key Informants and Case Study participants.
+Return to footnote
+13
+referrer
+Footnote 14
+For example, the need to establish eligibility for the disability tax credit in order to open an Registered Disability Savings Plan and then to re-establish eligibility if it is lost in order to keep the Registered Disability Savings Plan open was identified as a barrier.
+Return to footnote
+14
+referrer
+Footnote 15
+The Canada disability savings program became available in December of 2008. However, accounts opened in 2008 have been combined with 2009 in analyses presented in this report.
+Return to footnote
+15
+referrer
+Footnote 16
+A
+New Beginning: The  Report of the Minister of Finance's Expert Panel on Financial Security for  Children with Severe Disabilities
+December 2006, p.2
+Return to footnote
+16
+referrer
+Footnote 17
+Ibid, p.4
+Return to footnote
+17
+referrer
+Footnote 18
+A New Beginning: The Report of the Minister of Finance's Expert Panel on Financial Security for Children with Severe Disabilities
+, December 2006, p.68
+Return to footnote
+18
+referrer
+Footnote 19
+At the time of its introduction, the Registered Disability Savings Plan was referred to as “tax-assisted”; the change in terminology is not substantive.
+Return to footnote
+19
+referrer
+Footnote 20
+Department of Finance Canada (2006). A New Beginning: The Report of the Minister of Finance's Expert Panel on Financial Security for Children with Severe Disabilities, p.21
+Return to footnote
+20
+referrer
+Footnote 21
+Currently fourteen (14): ATB Securities, Bank of Montreal; Bank of Nova Scotia; Central 1 Credit Union; Central 1 Trust Company; Community Trust Company; CIBC; Desjardins; Investors Group Trust Co. Ltd.; Fond d’investissements FMOQ inc.; Mackenzie Financial Corporation; RBC Royal Bank; TD Waterhouse Canada Inc.; and Natcan Trust Company
+Return to footnote
+21
+referrer
+Footnote 22
+To qualify for the Disability Tax Credit, Canada Revenue Agency must approve Form T2201, Disability Tax Credit Certificate. The beneficiary completes part A of the form and a medical practitioner fills out Part B to certify that the applicant has a severe and prolonged impairment and must describe its effect(s).
+Return to footnote
+22
+referrer
+Footnote 23
+Registered Disability Savings Plan
+Return to footnote
+23
+referrer
+Footnote 24
+Ibid
+Return to footnote
+24
+referrer
+Footnote 25
+As per the Policy on Results (effective July 2016), the Program has replaced the Performance Measurement Strategy with a Performance Information Profile (2017) with a modified Logic Model (Appendix A); however for the outcomes noted here, there were no substantive changes
+Return to footnote
+25
+referrer
+Footnote 26
+The
+Phase I report
+Return to footnote
+26
+referrer
+Footnote 27
+For consistency with public reporting by the program, data tables and analysis within the evaluation are presented based on calendar year. Occasionally, fiscal year data are included in the analysis, such as administrative cost analysis. In those cases the fiscal year beginning April 1 is paired with the same calendar year beginning, January 1. For example 2016-17 = 2016, 2017-18=2017.
+Return to footnote
+27
+referrer
+Footnote 28
+See Appendix C for the KII Registered Education Savings Plan response scale.
+Return to footnote
+28
+referrer
+Footnote 29
+Survey for the Evaluation of the Canada Disability Savings Program (2017). See Annex C.
+Return to footnote
+29
+referrer
+Footnote 30
+For example,
+BC government release about Registered Disability Savings Plan awareness month
+in October, 2017.
+(This was started in 2015 - and continues each year)
+Return to footnote
+30
+referrer
+Footnote 31
+Survey for the Evaluation of the Canada Disability Savings Program (2017) p. 15. (See Annex C.)
+Return to footnote
+31
+referrer
+Footnote 32
+Key Informant Interviews for the Evaluation of Canada Disability Savings Program (2017), p.9
+Return to footnote
+32
+referrer
+Footnote 33
+Case Studies for the Evaluation of Canada Disability Savings Program (2017), p.10
+Return to footnote
+33
+referrer
+Footnote 34
+File and Document Review for the Evaluation of the Canada Disability Savings Program Phase II (PAA 4.1.4), p.9;  Administrative Data Analysis for the Evaluation of Canada Disability Savings Program December 2008 to October 2015 (January 2017) (update – March 2017), p.9
+Return to footnote
+34
+referrer
+Footnote 35
+Survey for the Evaluation of Canada Disability Savings Program (2017), p. 16
+Return to footnote
+35
+referrer
+Footnote 36
+Case Studies for the Evaluation of Canada Disability Savings Program (2017), p.10
+Return to footnote
+36
+referrer
+Footnote 37
+Ibid.
+Return to footnote
+37
+referrer
+Footnote 38
+Case Studies for the Evaluation of Canada Disability Savings Program (2017), p.10
+Return to footnote
+38
+referrer
+Footnote 39
+Ibid., p.11
+Return to footnote
+39
+referrer
+Footnote 40
+Update of the Additional Living Costs and Barriers Faced by Persons with Disabilities: Findings from the 2012 Canadian Survey on Disability, p.10
+Return to footnote
+40
+referrer
+Footnote 41
+Survey for the Evaluation of Canada Disability Savings Program (2017), p.10
+Return to footnote
+41
+referrer
+Footnote 42
+Additional  Living Costs and Barriers Faced by Families with Children with Disabilities:  Evidence from the Participation and Activity Limitation Survey (PALS - 2006)
+.
+Note that PALS  uses different categorizations for disability so the analysis prepared for this  evaluation used the “more severe” disabilities grouping used by PALS as the  category of individuals most likely to qualify for the Disability Tax Credit  and thus eligible for the Registered Disability Savings Plan.
+Return to footnote
+42
+referrer
+Footnote 43
+Additional Living Costs and Barriers Faced by Families with Children with Disabilities: Evidence from the Participation and Activity Limitation Survey (PALS - 2006), p.13
+Return to footnote
+43
+referrer
+Footnote 44
+Additional  Living Costs and Barriers Faced by Families with Children with Disabilities:  Evidence from the Participation and Activity Limitation Survey (PALS - 2006)
+.
+Return to footnote
+44
+referrer
+Footnote 45
+Ibid., p.13
+Return to footnote
+45
+referrer
+Footnote 46
+Supplementary information on: Additional Expenses by Households with Persons/Children with Disabilities: Findings from the Survey of Household Spending (SHS) – 2010 to 2013, p.11
+Return to footnote
+46
+referrer
+Footnote 47
+2018-19  Departmental plan
+Return to footnote
+47
+referrer
+Footnote 48
+Evaluation of the Canada Disability Savings Grant and Bond: Phase I (2014), p.6
+Return to footnote
+48
+referrer
+Footnote 49
+Government of Canada Budget 2016
+Chapter  5 – An Inclusive and Fair Canada
+Return to footnote
+49
+referrer
+Footnote 50
+Source: Canada Disability Savings Program Administrative Data Analysis.
+Return to footnote
+50
+referrer
+Footnote 51
+Survey for the Evaluation of Canada Disability Savings Program, p.34
+Return to footnote
+51
+referrer
+Footnote 52
+Ibid.,  p.31
+Return to footnote
+52
+referrer
+Footnote 53
+Some recent court cases in different provinces have established precedents that they are, but there is no national regulation on this, as noted in interviews for the Evaluation of the Canada Disability Savings Program (2017), p.12
+Return to footnote
+53
+referrer
+Footnote 54
+Survey for the Evaluation of Canada Disability Savings Program, p. 21
+Return to footnote
+54
+referrer
+Footnote 55
+Case Studies for the Evaluation of Canada Disability Savings Program (2017), p. 17
+Return to footnote
+55
+referrer
+Footnote 56
+Employment and Social Development Canada,
+ODIPRG Year in Review – Outreach (2016)
+, p. 5.
+Return to footnote
+56
+referrer
+Footnote 57
+File and Document Review for the Evaluation of Canada Disability Savings Program, p.8
+Return to footnote
+57
+referrer
+Footnote 58
+File and Document Review for the Evaluation of Canada Disability Savings Program, p.8
+Return to footnote
+58
+referrer
+Footnote 59
+Interviews for the Evaluation of the Canada Disability Savings Program – Technical Report (2017), p.17
+Return to footnote
+59
+referrer
+Footnote 60
+Survey for the Evaluation of the Canada Disability Savings Program (2017), p.21
+Return to footnote
+60
+referrer
+Footnote 61
+Ibid.
+Return to footnote
+61
+referrer
+Footnote 62
+Ibid.
+Return to footnote
+62
+referrer
+Footnote 63
+Interviews for the Evaluation of the Canada Disability Savings Program – Technical Report (2017), p.30
+Return to footnote
+63
+referrer
+Footnote 64
+Survey for the Evaluation of the Canada Disability Savings Program (2017), p.23
+Return to footnote
+64
+referrer
+Footnote 65
+Registered Disability Savings Plan Annual Statistical Review
+Return to footnote
+65
+referrer
+Footnote 66
+Additional Living Costs and Barriers Faced by Families with Children with Disabilities: Evidence from the Participation and Activity Limitation Survey (PALS - 2006), p.13,  Profile of Adults with Severe Disabilities by Laurent Brisebois, Gail Fawcett, and Jeffrey Hughes (2018)
+Return to footnote
+66
+referrer
+Footnote 67
+*The Registered Disability Savings Plan income matching rates for 2017 are based on these thresholds:  $30,000 ("Phase out  income" – the income level above which the annual amount of Canada Disability Savings Bond payable begins to decrease); $45,916 ("First threshold" – the income level that, when reached or exceeded, the annual amount of bond payable is nil); $91,831 ("Second threshold" – the income level below which or equal to the matching Canada Disability Savings Grant in a particular year will be 300% of the first $500 in contributions and 200% of the next $1,000 in contributions; or, above which the matching grant will be 100% of the first $1,000 in contributions).
+Return to footnote
+67
+referrer
+Footnote 68
+Survey for the Evaluation of Canada Disability Savings Program, p. 34.
+Return to footnote
+68
+referrer
+Footnote 69
+Administrative Data Analysis for the Evaluation of Canada Disability Savings Program December 2008 - October 2015 (March 2017), p.13 and Appendix A2
+Return to footnote
+69
+referrer
+Footnote 70
+Ibid., p. 14
+Return to footnote
+70
+referrer
+Footnote 71
+Budget 2007, p.83. https://www.budget.canada.ca/2007/pdf/bp2007e.pdf
+Return to footnote
+71
+referrer
+Footnote 72
+Survey for the Evaluation of the Canada Disability Savings Program (2017), p.24
+Return to footnote
+72
+referrer
+Footnote 73
+Case Studies for the Evaluation of Canada Disability Savings Program, p. 24
+Return to footnote
+73
+referrer
+Footnote 74
+Survey for the Evaluation of Canada Disability Savings Program (2017) p. 26
+Return to footnote
+74
+referrer
+Footnote 75
+Canada Disability Savings Program 2016 Annual Statistical Review.
+https://www.canada.ca/en/employment-social-development/programs/disability-savings/reports/statistical-review-2016.html
+Return to footnote
+75
+referrer
+Footnote 76
+Survey for the Evaluation of Canada Disability Savings Program (2017), p. 35.
+Return to footnote
+76
+referrer
+Footnote 77
+Survey for the Evaluation of the Canada Disability Savings Program (2017), p.34
+Return to footnote
+77
+referrer
+Footnote 78
+Survey for the Evaluation of Canada Disability Savings Program (2017) p. 31
+Return to footnote
+78
+referrer
+Footnote 79
+Actual costs provided by the Chief Financial Officer Branch of Employment and Social Development Canada.
+Return to footnote
+79
+referrer
+Footnote 80
+A New Beginning:
+The Report of the  Minister of Finance’s Expert Panel on Financial Security for Children with  Severe Disabilities
+December 2006, p.60
+Return to footnote
+80
+referrer
+Footnote 81
+Figure 7 compares the Registered Education Savings Plan and the Registered Disability Savings Plan, which are the savings plans for the Canadian Education Savings Plan and the Canada Disability Savings Program, respectively.
+Return to footnote
+81
+referrer
+Footnote 82
+Over the period of December 2008 to December 2017 the number of registered plans (beneficiaries) grew to 168,567.
+Return to footnote
+82
+referrer
+Footnote 83
+As this question was assessing potential redundancies in the program, only program staff were asked this question during the key informant interviews.
+Return to footnote
+83
+referrer
+Footnote 84
+By the end of 2017, the Government of Canada had paid $1.8 billion in Grants and $837.5 million in Bonds into holders’ Registered Disability Savings Plans.
+Return to footnote
+84
+referrer
+Footnote 85
+$89,401 at the time of the analysis; it has since increased
+Return to footnote
+85
+referrer
+Footnote 86
+Survey for the Evaluation of Canada Disability Savings Program (2017), p. 34
+Return to footnote
+86
+referrer
+Footnote 87
+Disability Tax Credit certificates can be issued by the Canada Revenue Agency on a permanent or temporary basis.
+Return to footnote
+87
+referrer
+Footnote 88
+Case Studies for the Evaluation of the Canada Disability Savings Program – Technical Report (October 2017), p. 17
+Return to footnote
+88
+referrer
+Footnote 89
+Case Studies for the Evaluation of the Canada Disability Savings Program – Technical Report (October 2017), p. 17
+Return to footnote
+89
+referrer
+Footnote 90
+For beneficiaries who have shortened life expectancy, an Registered Disability Savings Plan can be changed to an SDSP (specified disability savings plan)—which provides these beneficiaries with greater flexibility to access their savings from an Registered Disability Savings Plan. Withdrawals (DAPs) from an SDSP will not trigger a repayment of the Assistance Holdback Amount as long as the sum of the taxable portion of all withdrawals made in the year does not exceed $10,000.
+Return to footnote
+90
+referrer
+Footnote 91
+The Leading Model for Training  Results
+Return to footnote
+91
+referrer
+Footnote 92
+For example, Assistance Holdback Amount rules were identified as one of the least understood aspects of the program by both Key Informants and Case Study participants.
+Return to footnote
+92
+referrer
+Footnote 93
+For example, addressing any obstacles in the process of applying for the Disability Tax Credit (and maintaining eligibility if it is lost) in order to open a Registered Disability Savings Plan.
+Return to footnote
+93
+referrer
+Footnote 94
+People with disabilities and/or their families/caregivers.
+Return to footnote
+94
+referrer
+Footnote 95
+Issuers are the Canadian financial institutions that offer the Registered Disability Savings Plan.
+Return to footnote
+95
+referrer
+Footnote 96
+Budget  2010 Leading the Way on Jobs and Growth
+Return to footnote
+96
+referrer
+Footnote 97
+The Next Phase of  Canada’s Economic Action Plan, A Low-Tax Plan for Jobs and Growth
+Return to footnote
+97
+referrer
+Footnote 98
+Jobs Growth and  Long-Term Prosperity, Economic Action Plan 2012
+Return to footnote
+98
+referrer
+Footnote 99
+Strong  Leadership, A Balanced-Budget, Low-Tax Plan for Jobs, Growth and Security
+Return to footnote
+99
+referrer
+Footnote 100
+A Registered Disability Savings Plan is fully matured when the last government-contributed Canada Disability Savings Grant and/or Canada Disability Savings Bond money has matured 10 years. Eligibility for Government contributions through Canada Disability Savings Grants and Canada Disability Savings Bonds ends by December 31st of the year that the beneficiary turns 49. (There is a maximum lifetime Canada Disability Savings Grant contribution of $70,000 and maximum lifetime Canada Disability Savings Bond contribution of $20,000.).
+Return to footnote
+100
+referrer
+Footnote 101
+Canada Disability Savings Program Annual Statistical Review 2017 (Draft), Page 37.
+Return to footnote
+101
+referrer
+Page details
+Report a problem on this page
+Date modified:
+2022-04-21

@@ -1,0 +1,328 @@
+List of Figures
+Figure 1 Use of Electronic Services
+
+
+Figure 2 Percentage of Claim Meeting the 80% Speed of Payment Service Standard
+
+
+Figure 3 Monthly Speed of Payment and Claim Volume
+
+
+Figure 4 Savings Attributed to Electronic ROEs
+List of Acronyms
+ACP Automated Claims Processing
+CAWS Citizen Access Workstation Service
+CIC Citizenship and Immigration Canada
+CFOB Chief Financial Officer Branch
+COEP Canadian Out of Employment Panel
+CRA Canada Revenue Agency
+EAP Economic Action Plan
+EI Employment Insurance
+EI M&A Employment Insurance Monitoring and Assessment Report
+eROE Electronic Record of Employment
+ESDC Employment and Social Development Canada
+FTE Full-Time Equivalent
+GOL Government On-Line
+HRSDC Human Resources and Skills Development Canada
+ISB Integrity Services Branch
+IT Information Technology
+MSC Modernizing Services for Canadians
+MSCA My Service Canada Account
+NWS National Workload System
+PPSB Processing and Payment Services Branch
+ROE Record of Employment
+SAT Secure Automated Transfer
+SOP Speed of Payment
+Executive Summary
+Objective of EI Automation and Modernization
+Activities undertaken between 2008-2009 and 2011-2012 in order to:
+Meet potential increases in client demands (volume).
+Address rising expectations of Canadians for on-line and client contact centres.
+Realize increased savings, efficiencies and improved accuracy.
+Key Findings of Relevance
+EI automation and modernization met the needs of Canadians by providing them with on-line options to consult information and apply for EI benefits.
+Key Findings on Achievement of Automation and Modernization Outcomes
+Did EI automation and modernization translate into better services for Canadians?
+Increased use of electronic tools and processing functions:
+Led to greater consistency among Service Canada Regions.
+Enabled quicker payment after a decision was rendered.
+Benefited Canadians through streamlined processing of less complex claims.
+Supported effective workload management practices.
+The Speed of Payment standard remained static, subject to the volume of claims and challenges created by a complex and changing operating environment
+Key Findings on Demonstration of Efficiency and Economy
+Did EI automation and modernization contribute to greater efficiency and economy?
+Limitations in the financial data affected the ability of the evaluators to have a comprehensive understanding of costs related to processing and related functions over the period.
+When considering regional processing salary costs, the per claim amount decreased from $66.60 to $59.88 between 2008-2009 and 2011-2012.
+Expectations for EI automation and modernization were high; however, resources allocated to the EI processing aspect of the initiative ($15.8M) were modest.
+Changes in context (e.g. economic downturn, resource reduction resulting from Strategic Review and Budget 2012 Implementation, etc.) created challenges in meeting goals.
+EI Claims processing continues to rely on human intervention to supplement automation capabilities.
+Recommendations
+Continue to enhance the EI service delivery model and Information Technology (i.e., systems and telephony) to advance EI modernization.
+Examine ways to optimize information held by ESDC and other Government of Canada departments to support claims processing and modernization.
+Explore options to better align fluctuating claims volumes and pressures with required human and financial (i.e., funding model) resources to achieve service levels.
+Review the performance measurement strategy and related financial and administrative data collection practices and systems to ensure ongoing relevance and effectiveness.
+Management Response
+Introduction
+This management response conveys the position of Service Canada regarding key findings and recommendations of the Evaluation of Employment Insurance (EI) Automation and Modernization (2008-2009 to 2011-2012). The evaluation was conducted by the Evaluation Directorate, Strategic and Service Policy Branch, Employment and Social Development Canada (ESDC) between November 2008 and April 2014.
+Among its findings, the evaluation highlights that EI automation and modernization met the needs of Canadians by providing them on-line options to consult information and apply for EI benefits. The increased use of electronic tools and processing functions translated into multiple benefits such as:  improved provision of services to Canadians, giving citizens the choice of multiple access channels when contacting Service Canada, greater consistency among regions, enabled provision of payment more quickly after a decision was rendered, and streamlined processing of low complexity claims.
+The evaluation notes that regional processing salary costs decreased by 10% between 2008-2009 and 2011-2012, reducing the cost per claim from $66.60 to $59.88. The evaluation found that expectations set for EI automation and modernization were high, partly driven by private sector innovations.
+Findings from the Evaluation present opportunities to enhance EI automation and modernization and further improve service delivery to Canadians. The management response provides information on improvements already made, identifies on-going activities, and outlines plans for further action that will address the recommendations.
+Recommendations
+1.	Continue to enhance the EI service delivery model and Information Technology (i.e., systems and telephony) to advance EI modernization.
+Management agrees to continue to enhance EI service delivery model and IT infrastructure to provide service excellence for Canadians.
+Since 2001, ESDC has been implementing tactical modernization initiatives to automate EI service delivery and achieve efficiencies through initiatives such as EI Simplification and Automation, Strategic Review, and Budget 2012 Implementation initiatives. The Departmental investments have resulted in significant advancements to date, with nearly 66% of EI Initial and Renewal claims fully or partially automated in 2012-2013. The gradual increase in electronic services and in claims automation has reduced the amount of manual claims processing, resulting in fewer resources required to process the claims (nearly 34% less in 2012-2013 compared to 2002 2003) and a lower cost per claim (42% less in 2012-2013 compared to 2002 2003). These improvements have been accomplished by exploiting the current technology and business model to its full capacity.
+In support of enhancing program delivery and service excellence for Canadians, Service Canada has dedicated resources to three key initiatives focused on the modernization of IT infrastructure.
+Telephony - As part of Shared Service Canada’s (SSC) mandate to acquire a common, government-wide call centre telephony platform on behalf of all departments, Service Canada Call Centres will be migrated to a centralized, hosted call centre telephony platform which will enable call centres to leverage the latest technologies to meet current and future business requirements.  SSC anticipates awarding a contract for the new platform in Fall 2015 with a commitment to migrating Service Canada Call Centres to the new platform by Fall 2016.
+Service Canada is looking to streamline IT infrastructure and enhance security. The initiative will move existing applications, data, and systems onto a SSC standard technology infrastructure platform for key program delivery systems.  This investment will address short-term platform dependencies. 
+In parallel, the EI Service Delivery (SD) Modernization initiative has also been initiated. This initiative represents a longer view which focuses on business process reengineering and implementation of a modern technology suite. The end goal of EI SD Modernization is to increase service levels and program agility, while decreasing the total cost of administration and addressing the Department’s aging IT. It will enable ESDC/Service Canada to deliver the EI Program more efficiently and effectively, as well as ensure sustainability in terms of meeting technological requirements and demands in the longer term.
+2.	Examine ways to optimize information held by ESDC and other government of Canada departments to support claims processing and modernization.
+Management agrees to examine ways to optimize information held by the Department and its partners to support claims processing and modernization, while respecting privacy and program legislation, e.g. through development of Information Sharing Agreements with other Departments.  This would allow Service Canada to leverage technology and use information as a Government of Canada resource.  For example, Service Canada could also use this opportunity to explore the feasibility of implementing a real-time e-payroll solution. In addition, shifting the controls from back-end processing to front-end controls would allow for preventative measures instead of follow-up investigations. Up-front analytics would provide opportunities for enhanced integrity, resource allocation optimization, quality and stewardship.
+Service Canada has undertaken several recent initiatives to collect and use information from partners to reduce client burden, including:
+On-line Registration for electronic Record of Employment (eROE) - developed using Canada Revenue Agency (CRA) information to validate the identity of the primary officer of the business. This service will be leveraged by other programs that provide service to employers. 
+Information from CRA is used to validate income of self-employed claimants and deliver the Connecting Canadians with Available Jobs initiative.
+An agreement is also in place with CRA to support administration of the Family Supplement.
+3.	Explore options to better align fluctuating claims volumes and pressures with required human and financial (i.e., funding model) resources to achieve service levels.
+Management agrees that there is a need to develop and obtain support for a new suitable funding model that reflects the realities of fluctuating claim volumes and which would ensure that service delivery performance targets are met.
+4. Review the performance measurement strategy and related financial and administrative data collection practices and systems to ensure ongoing relevance and effectiveness.
+Management is actively reviewing the performance measurement strategy and has undertaken steps such as developing a Scorecard that tracks EI service delivery performance.   In addition, Service Canada continues to invest in management tools to provide insight into the EI processing network and identify areas where there are opportunities for improved performance.  Service Canada also agrees to explore updating the EI performance measurement strategy to more accurately reflect the entire EI claim service delivery cycle.
+Management agrees to review the related financial and administrative data collection practices and systems to ensure ongoing relevance and effectiveness. Service Canada has implemented a rigorous process to track results related to various initiatives such as Strategic Review and the Budget 2012 Implementation. The corporate move towards a new suite of financial and human resources software will continue to build Service Canada’s ability to more accurately track financial and non-financial data related to EI activities.
+Conclusion
+Service Canada agrees with the recommendations and will continue to invest in all aspects of the EI service delivery model, while at the same time, exploring opportunities to better utilize government data stores.
+1. Introduction
+This report presents the results of the evaluation of the automation and modernization of the Employment Insurance (EI) Program for the period 2008-2009 to 2011-2012.  It focuses on the service delivery component of EI benefits and was conducted by the Strategic Evaluation Division, Employment and Social Development Canada (ESDC) between November 2008 and April 2014. The evaluation addresses the following overarching questions: 1) Was EI service delivery in need of modernization?  2) Did automation and modernization of the EI Program translate into better services for Canadians? 3) Did EI automation and modernization contribute towards greater efficiency and economy?  An assessment of the EI Program's policy objectives was excluded from the scope of this evaluation; however, it is acknowledged that policy changes have an impact on how EI benefits are delivered.
+1.1	Evaluative Work
+EI service delivery has changed as information technology has advanced and evolved over the years, resulting in increased capacity, security and reliability for both claimant interface with EI and claims processing.  ESDC examined automation and modernization activities in the context of the economic downturn and the Economic Action Plan (EAP; April 2009 to February 2011) during which time several new policy measures were implemented (see Annex C).  It focused on determining the extent to which the EI system coped with increasing claims volumes, budget constraints, and several new policy measures from EAP, while continuing to meet service delivery and automation targets. It also examined how efforts to simplify, standardize and automate processes may have contributed to the effectiveness, efficiency and economy of EI service delivery between 2008-2009 and 2011-2012.
+Multiple lines of evidence were collected and analyzed in support of this evaluation, including document/literature review, international benchmarking, focus groups, financial and administrative data analysis, site visits, and a client satisfaction survey.  Annex A provides the list of twelve technical reports supporting this evaluation.
+2. EI Automation and Modernization Profile
+2.1 EI Service Delivery Description
+Three main groups are implicated in the delivery of EI:  (1) claimants; (2) employers; and (3) Service Canada.
+Claimants
+In 2011-2012, Service Canada received 2.86 million EI applications.  Almost all EI claimants complete and submit their application forms for regular benefits on-line via the Service Canada website or the Citizens Access Web Stations (CAWS) available in Service Canada Centres. Claimants are responsible for completing the application form and providing accurate information. The right to receive benefits involves a shared responsibility between a claimant and Service Canada.  Claimants’ responsibilities are determined according to the type of benefits (i.e., regular, special, etc.) being requested.
+Employers
+Employers, in accordance with the EI Act, are required to complete and submit a Record of Employment (ROE) for each employee affected by a work interruption, even if the employee does not plan to apply for EI.  In 2011-2012, 9.0 million ROEs were issued. Employers are required to keep a copy of each ROE on file, as well as provide a copy of each ROE issued to both the former employee and Service Canada. ROEs can be submitted to Service Canada via the Internet (electronic ROE [eROE]) and Secure Automated Transfer (SAT)) or by regular mail (traditional paper-based form).
+Service Canada
+Service Canada is responsible for disseminating information about EI to Canadians via its website, Service Canada Centres located across the country (including scheduled outreach offices), and Call Centres. It also addresses claimants’ and employers’ enquiries throughout the claims processing period, and after a decision has been communicated to claimants.
+Service Canada is also responsible for processing each EI application it receives and for meeting both its service standards, as well as performance indicators (i.e., speed of payment (SOP), payment accuracy and accessibility to service).  Claimant information regarding a claim (application, eROEs received, decision, etc.) can be consulted on-line via My Service Canada Account (MSCA).  Processing includes determining, on a case-by-case basis, an applicant’s eligibility in accordance with the EI Act, based on the information provided by each applicant and associated employer(s) to Service Canada.
+Finally, Service Canada validates claimants’ and employers’ information, in part, in collaboration with the Canada Revenue Agency (CRA).  Claims can be processed fully or partially through automation, depending on the completeness of the information provided by both the claimant and employer(s), subject to the level of complexity of the claim.  Complex claims necessitate interpretation of EI policy and legislation as well as regulations by Service Canada agents.  Annex B presents the processing map for both fully and partially automated claims.
+2.2 EI Modernization Activities
+EI automation and modernization activities have been a cornerstone of numerous ESDC service transformation initiatives over the last decade and a half, starting with the launch of the Government On-Line (GOL) initiative in 1999.
+Over time, GOL shifted to Modernizing Services for Canadians (MSC), which grew out of the vision of placing citizens at the heart of service delivery, and was premised on the belief that new information and communication technologies were critical to improving services for citizens by providing Canadians with a single service window that could cut across federal government programs.  The continued automation and modernization of programs such as EI are at the forefront of the Federal Government’s service transformation agenda in order to:
+Meet potential increases in client demands (volume);
+Address the rising expectations of Canadians for on-line and client contact centre services (channel offerings); and 
+Realize increased savings for reinvestment into further technological upgrades and innovations (through cost reductions).
+From MSC, Service Canada emerged in September 2005 as “the federal government’s easy-to-access, one-stop service delivery network.” The introduction of Service Canada and its strategic objectives have influenced the rationale for EI governance and service delivery since 2006. These objectives include: delivering seamless citizen-centred service; enhancing the integrity of programs; working as a collaborative and networked government; demonstrating accountable and responsible government; and establishing a culture of service excellence.
+Annex C provides a general illustration of how automation and modernization activities have evolved over a decade. It shows how a complex policy agenda including the introduction of new measures (e.g., various EI pilot projects, EAP measures) during the economic downturn period, have affected systems development and consequently claims processing, thereby contributing to making automation and modernization a moving target.
+In 2009, Service Canada committed to realize 5% savings on EI processing costs by 2010-2011. In 2010-2011, requested funding was reduced by 5% in support of this commitment.
+Given the complex nature of EI processing, the automation and modernization agenda required a multi-faceted approach that took into account policies, people, technologies, processes, procedures, operational strategies, etc. Information technology was one of the levers used to facilitate the automation and modernization of EI processing to improve services for Canadians.
+2.3  Objectives of EI Automation and Modernization
+The overall objective of the automation and modernization of the EI Program is to improve the quality, efficiency and effectiveness of service delivery by simplifying and standardizing processes and procedures, as well as by automating select EI claims (initial and renewal claims). This objective supports the following two Service Canada overarching priorities:  to improve service to Canadians; and to increase efficiency and effectiveness of service delivery.
+In response to the economic downturn that started in 2008-2009, a government-wide EAP, representing a complex policy agenda, was implemented at the Federal level. The measures specific to Service Canada took place from April 2009 to February 2011. Over that period, in addition to the implementation of the EAP measures, Service Canada sought to cope with increasing claim volumes, while continuing both to pursue the modernization agenda and to meet its established service standards.
+3. Relevance
+This section presents the evaluation findings regarding the extent to which the automation and modernization of EI service delivery: addressed the needs of Canadians; is aligned with federal government and ESDC/Service Canada priorities; and is aligned with federal roles and responsibilities.
+3.1 Was EI service delivery in need of modernization?
+Findings from various sources of information support a clear need for automating and modernizing EI service delivery.  EI modernization addresses the needs of Canadians by facilitating on-line application for benefits (AppliWeb and eROEs), as well as access to: secure and accurate information on-line, the latest information on the EI Program, and service options of choice (Internet, in-person and phone).
+Modernization efforts also responded effectively to the needs of Canadians, particularly during the EAP period (April 2009 to February 2011), as Canadians relied on the federal government to continue processing claims in a timely manner.  Over that period, as the volume of claims rose, the monthly SOP indicator continued to be successfully met.
+Finally, efforts to modernize similar programs in other countries, such as Australia, the United Kingdom and New Zealand, are in line with what has been accomplished in Canada between 2001 and 2012.
+3.2 Why should the Federal Government be responsible for EI service delivery?
+The modernization of EI service delivery and the additional funding allocated for processing increased volumes of EI claims during the economic downturn (2008-2009 to 2011-2012) aligned with federal roles and responsibilities. Under the EI Act, ESDC has the responsibility to administer the Canada Employment Insurance Program.  Moreover, Service Canada has been mandated to improve service to Canadians by providing access to services and benefits Canadians want and need – in person, by phone, Internet, and mail. In addition to being specialized in service delivery, Service Canada has the capacity to provide services across the country via its channel network.
+3.3 Why should Service Canada deliver EI?
+EI modernization objectives (listed in Section 2.3) have consistently been aligned with federal government and ESDC/Service Canada priorities. Automation and modernization efforts were launched as part of the government-wide initiative to provide on-line services to citizens and businesses with secure, private and high speed access.  The first initiative, from which EI modernization emerged, was Government On-Line (GOL), which was launched in 1999-2000.  Modernizing Services for Canadians (MSC) took the GOL vision further and emphasized citizen-centred service, one-window access, and unique collection of data to facilitate effective customer relationship management. In September 2005, Service Canada was created with its one-one-one vision, based on the idea of service delivery as one process, one workforce and one national workload.
+4. Achievement of Automation and Modernization Outcomes
+This section presents the evaluation findings in relation to the overarching question: did the impacts of EI automation and modernization translate into better services for Canadians?  The performance strategy for EI Processing, updated in 2005-2006, provides two quantitative performance indicators which are reported in the annual ESDC Departmental Performance Report and ESDC Report on Plan and Priorities report: percentage of EI benefit payments or non-payments notifications issued within 28 days of filing (target: 80%); and EI payment accuracy (target: 95%). Changes to the indicators cannot only be associated to progress/success of automation and modernization activities as other factors impact SOP and payment accuracy, such as claim volume and complexity, and policy changes.  The objective of these initiatives was to automate the straightforward aspects of processing which allow employees to focus on serving the client (i.e. interpreting legislation and processing complex claims) and spend less time on the administrative tasks.
+4.1 Use of Electronic Services
+Service Canada has employed and continues to invest considerable efforts to automate EI service delivery.  Figure 1 shows how the use of electronic services (e.g., AppliWeb, electronic ROEs) has increased over time.
+Figure 1	Use of Electronic Services
+
+
+
+
+Show data table
+Figure 1 illustrates the extent to which Canadians made use of EI electronic services on a fiscal year basis from 2001-2002 to 2011-2012. The left hand vertical axis shows the percentage of claims/applications that were completed via an electronic service. The checker board columns show the proportion of benefits paid via direct deposit.
+
+
+
+
+Source: Service Canada Administrative Data
+In terms of applying for EI, the on-line filing option represented 97.2% of applications in 2008-2009 and 98.0% in 2011-2012. These percentages include two different on-line methods used by Canadians for submitting their application: Appliweb (Internet) and CAWS (Citizen Access Workstation Service), which represented respectively 69.3% and 27.9% in 2008-2009 and 70% and 28% in 2011-2012.  The more electronic services are used, the more claims can be processed through automated means:  in 2008-2009, 28.0% of initial claims were automated and 59.9% of renewals were; in 2011-2012, 58.9% of initial claims were fully or partially automated and 63.0% of renewals were. Other electronic services also significantly increased over this period. In 2011-2012, employers submitted 65.8% of their ROEs via on-line services compared to 41.4% in 2008-2009, which is a key enabler to support automation.  The proportion of clients who opted for EI benefit payments via direct deposit reached 88.9% in 2011-2012.
+4.2 Speed of Payment Standard
+The EI Speed of Payment service standard requires that a predetermined percentage of initial and renewal claims be processed within 28 days.  As of 2004-2005, the target has been set at 80% of applicants receiving a payment/non-payment notification within 28 days of the date of filing.
+Figure 2   Percentage of Claims Meeting the 80% Speed of Payment Service Standard
+
+
+
+Show data table
+Figure 2 illustrates the percentage of claims for which the 28-day speed of payment service standard was met on a fiscal year basis from 2008-2009 to 2011-2012.  The vertical axis shows the percentage of claims.
+
+Data element     
+Claims met 28-day standard
+Service Standard
+Claims included to calculate the standard
+
+
+
+
+
+
+
+Source: Service standard data compiled from administrative data.
+EI claim volume: Statistics Canada. Table 276-0004 - Employment Insurance Program (E.I.), claims received and allowed by province and type of claim, monthly (claims)
+Speed of Payment target: Departmental Performance Report and internal documentation.
+Several factors can influence the achievement of the 28-day SOP target, including:  increased claim volume, increased complexity of claims, lack of completeness of claimants’ and employers’ information, new systems development and related processes, employee training, and fiscal restraints.  The complexity of the EI legislation/regulations continues to require knowledge and judgement in order to adjudicate claims.  In 2011-2012, 59.7% of EI initial and renewal claims were fully or partially automated. In another study, in the same year, it was found that in an estimated 20% of cases, Automated Claims Processing (ACP) was able to process claims completely with the balance of claims, 80%, separated into work items with as many of them automated as possible and allocating the remaining items to staff through the National Workload System (NWS).
+Figure 3 illustrates the monthly SOP results, as well as the fluctuation in claims volume from 2007-2008 to 2011-2012.
+Figure 3	Monthly Speed of Payment and Claim Volume
+
+
+
+Show data table
+Figure 3 illustrates the percentage of claims for which the 28-day speed of payment service standard was met, and the number of claims received on a monthly basis from April 2007 to March 2012. The left hand vertical axis shows the percentage of claims meeting the 28 days target. The right hand vertical axis shows the number of claims received. In the figure, the time period from April 2009 to March 2011 is shaded in light orange to highlight the period covered by the Economic Action Plan.
+
+Data element     
+Percentage of claims meeting the 28 days target
+Number of Claims received
+Speed of Payment Target
+
+
+
+
+
+
+
+Source: Speed of Payment within 28 days and Speed of Payment Target compiled from administrative data.
+
+
+Statistics Canada, Table 276-0004 - Employment Insurance Program (E.I.), claims received and allowed by province and type of claim, monthly (claims).
+As indicated in Figures 2 and 3 above, during the Economic Action Plan (EAP) period, the SOP standard was largely met and at some points even exceeded. According to ESDC’s Departmental Performance Reports, SOP results were achieved during the period including the economic downturn (2009-2010 to 2010-2011) due to three main factors: (1) additional resources (i.e., a temporary increase in the number of EI processing staff and funding based on reaching the SOP target monthly, rather than yearly); (2) an agreement with the Canada Revenue Agency to process EI claims; and (3) the use of the NWS electronic work distribution tool to improve workload management nationally. In terms of additional FTEs, Service Canada estimates that approximately 800 FTEs were hired temporarily during the EAP period to process EI claims.
+After the EAP period (after February 2011) when funding levels returned to pre-EAP levels (salary expenditures dropped by 22% between 2010-2011 and 2012-2013), the volume of claims continued to be high (initial and renewal claims only decreased by 5% compared to the EAP period), resulting in the percentage of claims meeting the 28-day SOP target declining from 84% to 71% between 2010-2011 and 2011 2012.
+4.3 Claims Pending Over 28 Days
+The age of a claim refers to the number of days that have elapsed since the claimant’s date of filing prior to a payment or non-payment notification being issued. This concept is applied specifically to track claims that are not meeting the established 28-day Speed of Payment (SOP) service standard.  The age of claims is also important in the EI service delivery context, as it provides information on the proportion of EI claimants who wait over 28 days to receive a payment or non-payment notification.
+During the economic downturn and EAP period (2008-2009 to February 2011), approximately 10% of claims were between 29-35 days old.  In 2011-2012, the year following the EAP when funding levels returned to pre-EAP levels, every category for age of claim grew, with increases in excess of 50% for the categories of claims aged 36-42 days, as well as those pending over 50 days. These statistics suggest that once the additional 800 temporary FTEs hired to process EI claims during the EAP period were no longer available, the automated systems alone were not able to cope with the volume of claims, which remained above the pre-economic downturn levels, resulting in an increased number of claimants waiting over 50 days for their EI claims to be decided (from 36,455 in 2010-2011 to 99,552 in 2011-2012). Furthermore, given the complexity of the EI Act, efforts to simplify aspects of the work process, and automate where possible, have been focused on less complex claims (e.g., single ROE, complete information, etc.), meaning that claims pending over 50 days are more complex and require manual interventions.
+4.4 Payment and Processing Accuracy
+In general, during the year following implementation of a new processing function (e.g., My Service Canada Account (2008) or Automated Claims Processing (2007)) payment accuracy increases. This supports the theory that greater automation and modernization leads to greater accuracy, as manual functions are progressively automated.  However, it is not possible to conclude that the fluctuations in payment accuracy can only be attributed to automation because other factors such as claims volume and new EI policy can also impact payment accuracy.
+Service Canada has two measures of accuracy for EI: the Payment Accuracy Review is a key performance quality indicator implemented in 1983 with a target of 95%; and the Processing Accuracy Review, which assesses degree of conformity to national operational policies and procedures, is a quality indicator introduced in 2001 with a target of 80%. The accuracy of partially and fully Automated Claims Processing (ACP) has been monitored since it was first launched in 2007.  Claims processed via ACP (end-to-end fully automated) had a processing accuracy rate of 96.5% in 2007-2008 and 100.0% in 2011-2012. The processing accuracy rate is influenced by the consideration of manual work.  When manually conducted work is included in the calculation, the processing accuracy rate was 84.0% in 2007-2008 and 85.9% in 2011-2012.
+Shifting focus to that of payment accuracy, the rate was 95.2% in 2011-2012.  It should be noted that there are instances when the standardized process may not be strictly followed; however,  this nonconformity does not result in an incorrect decision or incorrect payment given that there are several internal processing requirements that do not have a direct impact on the client.  In addition, the Integrity Services Branch (ISB) conducts post-audit activities, which provides further intelligence on unidentified errors with a focus on fraud detection.
+4.5 Client Satisfaction
+Client satisfaction is a driver behind the overall perception of service delivery; as a result, the quality of the EI service delivery experience was analyzed. It should be noted, however, that client satisfaction pertaining to decisions regarding applicants’ claims was not analyzed for this evaluation.  Results from the most recent source of data, the 2012 Canadian Out-of-Employment Panel (COEP) survey, indicate that nearly two-thirds of respondents (63%) who had contacted Service Canada concerning their EI applications were satisfied or very satisfied with their experience compared to 73% in 2010 (EAP period) and 78% in 2008.
+Interpreting this finding requires consideration of the context and recognition that this decline in client satisfaction could be the result of a number of factors.
+Efforts to modernize EI service delivery have been taking place in an environment where citizens’ expectations have been directly or indirectly influenced by innovations in the private sector.  Balancing such expectations against significant challenges (e.g., unrealistic and unrealizable timelines, fluctuating and unforeseen workload volumes, technological limitations, and limited resources) contributed to a highly complex operational environment.
+Potential elements influencing client satisfaction may include the increase in the inventory of claims pending at the end of the EAP period, when the additional resources were withdrawn, resulting in more claimants contacting Service Canada to inquire about, for example, the delay in getting their EI benefits.  Moreover, demands to the call centre network fluctuates over the course of a year based on a variety of factors such as bi-weekly reporting requirements, renewal of EI claims and claim volume. There are high call volume periods when the client demand exceeds the call handling capacity of the network, resulting in accessibility challenges and longer wait times to speak with an agent, which may have impacted the results of the client satisfaction survey.
+4.6	Moving Towards the One-One-One Vision
+One-One-One is a service delivery vision for EI that optimizes national processing capacity to consistently achieve timely and quality outcomes for Canadians through the committed contributions of the network using national standardized principles and processes. One of the goals of EI automation and modernization was to deliver consistent service to all Canadians across the country.  One way to measure whether that goal was reached is to examine the percentage of claims meeting the 28-day SOP standard between EI regions with the highest percentage of claims and those with the lowest.  Results signal that over time, modernization efforts have led to greater consistency in meeting the SOP standard across all four Service Canada Regions.  For example, the difference between the region with the highest and the lowest number of claims was 18 percentage points in 2004-2005 and 2.1 percentage points by 2010-2011.
+In 2008, Service Canada implemented the NWS to support the distribution of the EI claims processing workload across all regions.  The NWS was introduced in order to effectively manage increasing volumes of EI claims, as well as to support progress towards achieving the Service Canada One-One-One Vision.  When human intervention is needed to process a given EI claim, NWS separates the claim into discrete work items, and in its original conceptualization, sends the specific work items to the next available agents across the country. Focus group evidence indicates that claims remained in the originating region. Although NWS is capable of national workload distribution, operational limitations (e.g. time zone differences inhibit agents in Atlantic Canada to begin processing work items received from the Western region until halfway through their day, also preventing them from reaching the client or the employer) resulted in a strategic business decision to share work items with the next available agent within the region in which the specific claim originated and moving work across the country as required.
+5. Demonstration of Efficiency and Economy
+This section presents the findings addressing the following question: Did EI automation and modernization contribute to greater economy and efficiency? It includes observations on potential savings resulting from EI automation and modernization activities, as well as on resource allocations.
+5.1	Achievement of Cost Savings through Automation and Modernization
+As mentioned in Section 2.3, the overall objective of EI automation and modernization was to improve the quality, efficiency and effectiveness of service delivery.  This section presents observations on potential savings realized as a result of these efforts.
+Electronic Records of Employment
+As illustrated in Figure 1 (page 18), over the period of 2006-2007 to 2011-2012, the use of eROEs increased by 44 percentage points.   Program data indicate that this shift from paper-based ROEs to eROEs resulted in savings on two fronts: (1) reduced data entry for paper ROEs (1st and 2nd copy); and (2) print savings. These savings are shown in Figure 4 below.
+Figure 4	Savings Attributed to Electronic ROEs
+
+
+
+Show data table
+Figure 4 illustrates the savings attributed to electronic ROEs on a fiscal year basis from 2003-2004 to 2011-2012. The left hand vertical axis is the savings in dollars. The black solid line displays the savings associated with reduced data entry for paper ROEs and the black dash line shows print savings associated with eROEs.
+
+
+
+
+Source: Data provided by Processing and Payment Services Branch
+
+
+Notes: [1] 2nd copy savings include paper ROEs provided to Service Canada by employer and paper ROE data entry costs; [2] Print savings realized from reducing volume of paper ROEs
+As employers progressively adopted eROEs, savings related to eROEs continued to increase: between 2003-2004 and 2011-2012, eROEs savings totaled $9.7 million. Since take-up was slow at the onset of the eROE introduction, Service Canada invested in a marketing strategy to encourage employers to shift from paper ROEs to eROEs.  Costs attributed to marketing activities for 2007-2008 and 2011-2012 were estimated at $642,682 (including marketing products, trade shows/conference, and travel) resulting in net savings of $9 million.
+In addition to these savings directly attributable to eROEs, the automation of certain functions related to eROEs, such as on-line applications, direct deposit and eROE (including eROEs web and eROEs Secure Automated Transfer (SAT)), led to a reduced red tape (administrative) burden on employers and applicants, including savings in paper and postage costs.  The monetary value attributed to these savings was not available at the time of this evaluation.
+Service Canada EI Processing Centres
+Additional cost savings have been attained through the consolidation of EI processing centres.  The number of processing centres decreased from 114 before 2007-2008 to 91 in 2007-2008.  Further consolidation efforts remain underway and related savings to date could not be assessed; however, it is suggested that the majority of the savings resulted from lower property costs, including operation and maintenance.  Additional savings attributed to the decreasing need for paper storage (applications, ROEs, information pamphlets, etc.) could not be verified in the course of the evaluation.
+Human Resources
+During the EAP (April 2009 to February 2011), approximately 800 additional FTEs were temporarily engaged for EI processing claims activities.  They were engaged on a short-term basis to help manage the increased EI claims volume; however, specific funding had also been allocated explicitly for that purpose on a defined basis.
+A number of other Government of Canada initiatives were underway during the evaluation period, including the implementation of Strategic Review, Budget 2012 Implementation initiatives, and the regional site consolidation exercise. Each of these initiatives resulted in regional human resources savings, making it difficult to attribute FTE salary reductions specifically to EI automation and modernization efforts.  Given these conditions, other savings on human resources attributed to EI automation and modernization resulted from departmental strategic reviews, a reduction of $9.3 million by 2011-2012 in EI regional processing salary (including $2.1 million savings for eROEs Strategic Review).
+While the number of FTEs, and in particular temporary resources during the EAP, decreased, service quality performance also declined (e.g., less claims meeting the SOP target (see Figure 3), more claims pending over 28 days and lower client satisfaction levels).  This suggests that termination of temporary resources occurred at a faster pace than the expected declining need for processing staff.
+5.2	EI Claim Processing Costs
+In an operational setting, a number of factors can be considered when analyzing costs; in the present case, analyzing the costs to process applications. Two broad categories of cost are:  (1) direct and indirect, and (2) fixed and variable.  A key finding in this evaluation is the limited financial data that was available to provide a comprehensive understanding of costs related to processing and related functions (e.g., policy) and supports (e.g., information technology).  EI delivery costs at a global level are available, including, for example, information technology and support, policy and program development, citizen services, and call centres.  However, these aggregate costs were insufficiently granular to link to efforts under automation and modernization for a single year or over a greater period of time.
+Regional Processing Salary Costs
+According to figures published in the annual EI Monitoring and Assessment (EI M&A) Report, the cost to process an EI claim includes regional considerations and is based on the sum spending on salary (i.e., direct cost) for all regional processing centres, Insurance Payment Operational Centres (IPOC), and a proportion of team leaders’ salary costs divided by the number of initial and renewal EI claims processed within a given fiscal year.  Based on the formula below, Service Canada reported a cost per claim of $59.88 in 2011.
+Note:
+Service Canada Regional Processing Centres, IPOC, proportion of Team Leaders’ salaries
+# Initial and Renewal EI Claims/Fiscal Year
+Originally, this methodology was developed to compare regional efficiency; as such it represents one possible approach. Measuring overall efficiency with this formula can potentially result in:  underestimating cost per claim when staff levels remain constant during periods of higher claim volumes; and conversely, overestimating costs when processing salary costs increase due to additional processing staff hired when the actual volume is lower than forecasted.
+An alternative approach would consider expenses related to the Program Alignment Architecture (PAA) activities, such as support services for EI local operations ($1.38 million), eROE business registration ($842K), as well non-salary expenses attributed to processing activities ($5 million), general and EI specialized call-centres, IT systems development and maintenance, policy development, and shared services. Thus, depending on the purpose of the analysis, the costing methodology will vary accordingly based on what elements are included and excluded.
+5.3 Resource Allocation
+This section presents observations on whether adequate resources were allocated to EI automation and modernization in order to fully implement the modernization agenda and produce the expected benefits.
+Information Technology (IT)
+EI automation and modernization involves transforming existing processes, particularly those based primarily on manual elements into automated functions.  Computerization and IT systems development has had, and is expected to continue to have, a fundamental role to play in modernizing federal government processing services.  For example, Citizenship and Immigration Canada (CIC) obtained a $387 million spending approval from Treasury Board Secretariat to modernize its processing systems.
+Between 2000 and 2003, ESDC, via the Government On-Line initiative, received $32.8 million for introducing the EI claim applications on-line system.  From that $32.8 million, $14.5 million was allocated specifically from the GOL initiative, $15.8 million was transferred from the EI account, and $2.5 million was invested by means of internal reallocations. These investments are the only documented support allocated to EI automation and modernization.  In 2003 when Modernizing Services for Canadians emerged, the AppliWeb project was integrated into this new initiative, along with other key projects related to EI. Modernizing and automating EI processing claims received modest investment in relation to significant expectations surrounding timely and accurate EI processing. Although, ESDC has made significant advancements in terms of automation and modernization, the level of investment has played an influential role in the department’s ability to fully realize potential benefits from the EI automation and modernization agenda.
+As a result of the relatively minimal IT investments, there is evidence that the antiquated EI system supporting claims processing have at times led to processing being slower in the afternoon when all processing centres across Canada are processing claims. However, the EI system demonstrated flexibility in automating pilot projects.  Diverse pilot projects were introduced to the EI program and corresponding automated systems were developed in order to integrate these changes and still allow automated processing of EI claims.  Only one pilot project resulted in having related claims processed manually.  This capacity of the EI system to adapt to (often rapid) change demonstrates a certain level of continued robustness.
+In summary, the absence of sufficient investments in technology to support EI processing, combined with reduced budgets and an increasingly complex operating environment limited the department’s ability to fully realize the potential benefits of the automation and modernization agenda. Results in EI processing included the following:
+A decrease in the number of claims processed within the SOP target compared to what more timely processing could be if an adequate number of staff were processing claims and if technology allowed more claims to be fully and/or partially processed via automation;
+An increase in the total processing time required per EI claim, as the system slows down, in order to maintain functionality when a high number of staff are processing claims at the same time;
+
+An increase in the number of claims pending over 28 days as a result of increased processing time and a decrease in the volume of claims processed; and
+A decrease in client satisfaction potentially stemming from an increase in the number of claims pending over 28 days and impeded and limited accessibility to services, such as call centres (blocked calls).
+6. Conclusions
+This section summarizes the key evaluation findings and conclusions on EI automation and modernization.
+Relevance
+EI automation and modernization met the needs of Canadians by providing them with on-line options to consult information and apply for EI benefits.
+Achievement of Automation and Modernization Outcomes
+Did EI automation and modernization translate into better services for Canadians?
+The increased use of electronic functions, such as AppliWeb, direct deposit, biweekly reporting on-line, and eROE, suggest that EI automation and modernization has improved provision of services to Canadians, giving citizens the choice of multiple channels when contacting Service Canada.  In addition, there is evidence that automated tools developed for modernizing and automating EI service delivery, such as Automated Claims Processing and National Workload System, led to greater consistency in Speed of Payment (SOP) across Canada, in turn contributing to the Service Canada goal of offering the same standard of service to all Canadians and the successful implementation of the one-one-one vision.
+Some key areas of EI service delivery, such as SOP, automated processing and client satisfaction, would benefit from further improvements.  With respect to SOP, although payments tend to be made more quickly after a decision has been rendered, the evidence collected was not able to determine the impact of EI automation and modernization efforts on SOP as many other factors must also be considered.  In addition, EI claims processing has been gradually simplified and streamlined in the context of automation, making claims processing a moving target, from manual to hybrid and then to automated.
+Demonstration of Efficiency and Economy
+Did EI automation and modernization contribute towards greater efficiency and economy?
+Evidence gathered during the course of this evaluation suggests that achievements to date, such as ROE-related savings and red tape reduction with the introduction of electronic services (AppliWeb, eROEs, direct deposit, biweekly telephone and Internet reporting), set the foundation for further automation and modernization efforts.  Service Canada regularly reports on savings attributable to EI automation and modernization.  According to the EI Monitoring &Assessment Report (2012), automation and modernization led to a decrease in cost per claim of 10% between 2008-2009 and 2011-2012, shrinking from a cost of $66.60 to $59.88 per claim. However, these figures are based on a cost per claim methodology developed for comparing regional efficiency and do not reflect a full-costing approach.  As noted earlier, availability of financial data at a detailed level limited the evaluation’s ability to conduct such an analysis – in snapshot or historical perspective.
+In terms of resource allocation, in comparison with other projects with like-minded goals, ESDC received minimal investment to modernize and automate EI resulting in different systems/applications being developed over a long period of time and reliance on functioning with legacy systems.  Moreover, there is evidence that under the EAP period, when temporary additional funding was provided to hire more staff to temporarily handle EI claims processing, the SOP target was met, suggesting that claim processing remains strongly reliant on human intervention.
+Finally, based on the findings from this evaluation, expectations set for EI automation and modernization were high, partly driven by private sector innovations (and implicit comparisons).  In addition, the level of resources allocated to the initiative; the interconnectivity with policy and legislation; and the change in the operating context resulting from the economic downturn and responding EAP characterized by a complex policy agenda posed challenges to the advancement of the automation and modernization agenda.
+7. Recommendations
+As a result of the evidence presented in this evaluation, it is recommended that Service Canada:
+Continue to enhance the EI service delivery model and Information Technology (i.e., systems and telephony) to advance EI modernization.
+Examine ways to optimize information held by ESDC and other government of Canada departments to support claims processing and modernization. 
+Explore options to better align fluctuating claims volumes and pressures with required human and financial (i.e., funding model) resources to achieve service levels.
+Review the performance measurement strategy and related financial and administrative data collection practices and systems to ensure ongoing relevance and effectiveness.
+Annex A	List of Technical Reports and Methodology
+Literature Review of Performance Issues and Outcomes in Delivery of Employment Insurance
+Document Review
+EI Service Delivery International Benchmarking
+EI Processing and Payment: Examining Accuracy and Speed of Payment
+EI Speed of Payment and Age of Claims 2004-2005 to 2011-2012
+Focus Group
+Transforming EI IT Systems
+Financial Study
+EI Client Satisfaction
+Other Government of Canada Comparison
+Study of the Incidence of Recalculation of EI Benefits
+Evaluation of the Early (2001-2008) Employment Insurance Automation and Modernization,  Phase I
+Annex B Employment Insurance Processing Map
+EI claims processing map for claims received electronically (AppliWeb)*
+
+
+
+Show data table
+The title of Annex B is “Employment Insurance Processing Map”. It depicts the EI claims processing map for claims received electronically through AppliWeb.  The map shows the 8 steps in the EI claims process.  The process involves EI claimants, employers, and Service Canada agents and systems.
+The following text explains each of the eight steps. 
+
+
+
+Note: Paper claims received by Service Canada are processed entirely manually.
+
+
+Source: Internal Documentation, April 2011
+Claimants apply for EI by completing the application either on AppliWeb via the Internet or in a Service Canada Centre and in few instances on paper or by telephone.  When AppliWeb is used, the Interactive Fact Finding System prompts clients with a set of questions based on their answers to previous application questions.  It is designed to facilitate fact finding on potentially contentious claims. If a claim is received in any other format than AppliWeb (paper, telephone, etc.) the claim is processed entirely manually and the processing map above does not apply. According to the EI Act, employers are required to issue Records of Employment (ROE) using the electronic ROE (On-line Data Entry (eROE Web) or the Secure Automated Transfer using the employer payroll system (eROE SAT)) or by paper.
+AppliWeb data are automatically sent to Automated Claims Processing (ACP) where claims are registered as being either an initial or renewal claim.   Electronic ROE (Web & SAT) information is sent directly to the ROE database.  Data from ROE paper forms data are entered manually by Service Canada staff and then input into the ROE database.
+Using the applicant’s Social Insurance Number, the ACP tries to match a claimant’s EI application data with a corresponding entry in the ROE database.  If the same Social Insurance Number is found in the two systems, the ACP assesses whether any information is missing (continue to step 4).  	If matching SIN numbers are not found, the matching process continues for a period of 45 days, after which a work item is created through the National Workload System (NWS) and sent to an agent for action. 
+If the ACP determines that all of the necessary information has been found, it interfaces with the Unemployment Insurance Calculation (UIC) Module to continue automatic processing.  In the case of missing information, the ACP assigns issues, identified as discrete work items, to the interactive work assignment tool – the National Workload System (NWS) – to be processed manually. As a result, it is possible to have a different proportion of automatic processing in response to the specificities of each claim.
+The UIC Module calculates the benefits to which the claimant is entitled by using information sent via the ACP and the Support System for Agents.  The latter system is a rules-based program that assesses and calculates a claim for EI benefits based on current policy and procedures. Once the benefit is calculated, it is sent to the Benefit Pay System, which generates a payment.  For claims with missing information, the NWS assigns work items to agents for manual processing based on workload information.  It transfers work to agents based on where capacity exists at any given point in time. 
+The Benefit Pay System pays EI benefits into a claimant’s account by direct deposit, usually within 2 business days (for 2011-2012, 88.9% of payments were completed via Direct deposit).  Payment can also be sent by cheque to the client via mail.  Information about the benefit amount to which the client is entitled is transferred to the applicant’s My Service Canada Account for the applicant to see. Once any outstanding issues are resolved by agents, using information available through other systems such as Support System to Agent, ROE database, Full Text Screen and clients depending on the information needed, the work items are sent to NWS.  They are subsequently sent to the ACP, which reassesses the completeness of necessary information (back to box 3). 
+MSCA enables claimants to view information about their specific ROEs, claim processing and decisions; it also permits them to update their own information.  When the client is made aware of his or her eligibility and benefit, she or he is required to use the Internet/phone reporting system to submit a bi-weekly report before the first payment can be issued. NWS interfaces with MSCA and when the missing information becomes available through MSCA or when clients update their accounts, NWS sends the work item back to ACP. 
+Once the client report has been filled, information is transferred to the Benefit Pay System, which generates the payment for the next 2 weeks.  The steps 5, 6, 7 and 8 are repeated every 2 weeks for the entire length of the benefits period.  Information from both Agents and MSCA are sent back the ACP via NWS.  If all of the information is complete, the work items related to the file will follow steps 4 to 8 for the “yes” process.  If information is still missing, the file will follow steps 4 to 8 for the “no” process, which will repeat until eventually, all the information has been collected.  Once this occurs, the work items will be sent to steps 4 to 8 of the “yes process”.
+Annex C EI Changes - Regular Benefits Only
+EI Changes-Regular Benefits Only
+
+
+
+Show data table
+The title of Annex C is “EI Changes-Regular Benefits Only.” Annex C presents a timeline from 1991 to 2012, against which the following two categories of change are mapped: 1) changes to EI policy and regulation with respect to regular benefits and 2) EI systems development.  In some instances, there are inter-connections between changes in policy/regulation and changes in systems development. 
+Note: Annex C is not an exhaustive representation of all EI Pilot projects implemented throughout the period of 2001-02002 to 2011-2012.  The purpose of the figure is to illustrate both the complexity of systems developed in response to policy/legislative changes, and further automation initiatives implemented to support EI processing. 
+The following table presents the information represented graphically in Annex C. Blank cells indicate that no change in that category is represented in the graphic for the designated year. 
+
+
+
+
+Note: This is not an exhaustive representation of all EI Pilot projects implemented throughout the period of 2001-2002 to 2011-2012. The purpose of this figure is to illustrate both the complexity of systems developed in response to policy/legislative changes, and further automation initiatives implemented to support EI processing.

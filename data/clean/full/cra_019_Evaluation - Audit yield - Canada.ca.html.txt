@@ -1,0 +1,315 @@
+Evaluation - Audit yield
+Final Report
+Audit, Evaluation, and Risk Branch
+January 2020
+Table of contents
+Executive summary
+1. Introduction
+2. Background
+3. Methodologies
+4. Findings, recommendations, and management response
+4.1. The extent to which audit reassessments materialize into cash recoveries is measurable for income tax and GST/HST audit programs.
+4.2. Audit yield is a relevant and useful measure for CRA performance monitoring.
+4.3. There are barriers that limit the CRA’s ability to automate monitoring and reporting on a measure such as audit yield.
+5. Conclusion
+6. Acknowledgements
+7. Appendices
+Appendix A: Evaluation issues and methodology
+Appendix B: Glossary
+Executive summary
+The purpose of this report is to provide the Commissioner, Canada Revenue Agency (CRA) management, and the Board of Management with an independent assessment of the CRA’s ability to measure the extent to which audit reassessments materialize into cash recovered. The evaluation considers cash recovered as amounts that are either paid by the taxpayer voluntarily or acquired through collections activities.
+The CRA annually publishes the results of the previous fiscal year’s audit activities. One of these results is called “fiscal impact” and is determined based on tax assessed, tax refunds reduced, interest and penalties, and present value of future federal tax assessable arising from compliance actions. Currently, the CRA does not monitor and report on the extent to which the dollars associated with audits are actually collected though the CRA has recently committed, and launched initiatives, to identify and use models that would link reporting and payment compliance behaviours. Without this information, the CRA has a limited view of its performance across functions.
+One way the CRA can improve its performance monitoring and reporting is through a measure such as audit yield. The Organisation for Economic Cooperation and Development uses the term “audit yield” to refer to the additional tax liabilities identified and collected through audit activities. It is a measure that accounts for appeals activities and uncollected amounts on fiscal impact results. Measuring audit yield provides a more fulsome and transparent performance story and understanding of the CRA’s results because it reports on the dollars coming into government coffers as a result of its audit efforts. It complements and supplements other measures, such as fiscal impact, by providing insight into CRA-wide results and outcomes.
+The extent to which audit reassessments materialize into cash recoveries is measurable for income tax and GST/HST audit programs. As of July 2019, the CRA had recovered an estimated 60-64% of the income tax audit debit reassessments closed in fiscal year 2016 to 2017 and an estimated 71% of the GST/HST audit debit reassessments closed in fiscal year 2015 to 2016.
+It is expected that the results will change as more time passes and appeals rights are exhausted or collections activities are concluded. Complex objections and appeals involving high-dollar value reassessments might take years to finalize and may not have been decided at the time of the analysis. The results presented in this report are a snapshot from single fiscal years and should not be used to draw conclusions on performance. Expanding the analysis to multiple years will enable the CRA to identify a reasonable target or benchmark for its performance.
+An integrated performance measure like audit yield is useful and relevant for a variety of stakeholders. Linking audit cases to downstream activities, such as objections and collections, shows how audit files impact other workloads. Recently, the CRA has implemented system and procedural modernizations that impact the way work is processed. This may be contributing to the current level of manual intervention required to match audit results across systems. This intervention limits the ability of the CRA to implement repeatable processes using queries, which would lead to more efficient and automated performance monitoring and reporting.
+Summary of recommendations
+The CRA should adopt an integrated measure that periodically calculates the cash collected from audits and that takes into account the results of downstream activities. The CRA should also make changes to achieve more efficient and automated performance monitoring.
+Management response
+The Compliance Programs Branch and the Service, Innovation, and Integration Branch agree with the recommendations in this report and have developed related action plans. The Audit, Evaluation, and Risk Branch has determined that they appear reasonable to address the recommendations.
+1. Introduction
+This evaluation is included in the most recent Board of Management (Board) approved Risk-Based Audit and Evaluation Plan 2019-2022 under the Evaluation Study - CRA’s Management of Closely-Held Business. The evaluation framework was approved following the Management Audit and Evaluation Committee meeting in May 2019. It contained a series of thematic topics that were heavily reliant on data analysis and queries. The framework identified the following issues to be examined through various thematic topics (see
+Appendix A
+for more details):
+What outcomes are being achieved?
+In what ways could a full taxpayer view impact the CRA’s administration?
+This evaluation report provides insight into the CRA’s performance once income tax and GST/HST audits are closed. It is not limited to audits of closely-held businesses as it was determined to be more valuable to consider the entire population of audits. The next report identified in the framework will examine the labels and definitions surrounding “business” at the CRA and elsewhere.
+2. Background
+The purpose of this report is to provide the Commissioner, CRA management, and the Board with an independent assessment of the CRA’s ability to measure the extent to which audit reassessments materialize into cash recovered. The evaluation considers cash recovered as amounts that are either paid by the taxpayer voluntarily or acquired through collections activities.
+The CRA annually publishes the results of the previous fiscal year’s audit activities. One of these results is called “fiscal impact” and is determined based on tax assessed, tax refunds reduced, interest and penalties, and present value of future federal tax assessable arising from compliance actions. It does not account for the impact of appeals reversals and uncollected amounts. In other words, fiscal impact reports on results as of when an audit closes, and the results of other CRA activities are reported separately. It is important to note the CRA undertakes audit activities for a variety of reasons, of which revenue generation is one. These objectives are:
+generate revenue
+build trust in the vigilance of the tax administration
+determine the true amount of taxpayers’ liability
+provide a disincentive to non-compliance
+gather intelligence and improve the CRA’s understanding of non-compliance
+identify areas of the law that require clarification
+An audit might result in no change to taxes owing or might identify that the taxpayer has reported too much or too little tax. When additional taxes are identified as being owed, a “debit reassessment” is raised. From a taxpayer perspective, this means that their obligation is incomplete until they pay the taxes owing or exhaust their right to redress. Because it can take years to finalize amounts, the CRA’s ability to report the outcome of these accounts in the annual reporting cycle is limited. Currently, the CRA does not monitor and report on the extent to which the dollars associated with audits are actually collected though it has recently committed, and launched initiatives, to identify and use models that would link reporting and payment compliance behaviours. Without this information, the CRA has a limited view of its performance across functions.
+In response to various internal and external assurance engagements in recent years, the CRA has begun to review its performance measures and increase the transparency of its audit results. For example, in response to
+Report 7 - Compliance Activities - Canada Revenue Agency
+(external link)
+of the 2018 Fall Reports of the Auditor General of Canada to the Parliament of Canada, the CRA committed to enhancing its performance indicators so that it could fully measure and report on the results of compliance activities and the actual collected tax revenues.
+One way the CRA can do this is through a measure such as audit yield. The Organisation for Economic Cooperation and Development uses the term “audit yield” to refer to the additional tax liabilities identified and collected through audit activities.
+Footnote
+1
+Other tax administrations, including the Australian Tax Office and Revenu Québec, publish estimates of cash collected relative to compliance liabilities. Each tax administration calculates and reports their results differently and provides explanations on what is included.
+Australia reports cash collected from direct compliance activities. The amount of collected liabilities to raised liabilities was 65.4% in fiscal year 2016 to 2017.
+Revenu Québec reports the ratio between resolved amounts (including write-offs) and total debts generated from audit debit reassessments. This ratio was 66.9% in fiscal year 2016 to 2017.
+At the CRA, several branches have roles to support efficient and accurate performance monitoring and reporting. The Service, Innovation, and Integration Branch is responsible for coordinating results and reporting them internally and externally. They receive performance information from program branches who are responsible for monitoring the results of activities delivered in headquarters and the regions. Program branches include the Compliance Programs Branch; the Appeals Branch; the Collections and Verification Branch; and the Assessment, Benefit, and Service Branch. The Service, Innovation, and Integration Branch is also responsible for leading the effective management of the CRA's data and optimizing its business value as a strategic asset for use in advanced analytics.
+3. Methodologies
+In this evaluation, audit yield is defined as a measure of the rate of recovery on accounts receivable. In other words, calculations are based on actual cash (collectible amounts) paid or collected that could be directly attributed to audit activities. Audit yield is, therefore, considered a subset of the broader fiscal impact measure since it removes the non-cash portions calculated as part of fiscal impact. Non-cash items include things such as future taxes which is when an audit adjustment has a future year tax implication, such as a decrease of credits available to claim in the future.
+For income tax results, 2 sets of analyses were completed on audit files that resulted in a debit reassessment. One analysis involved a query approach that covered 85% of the total number of corporate income tax audit files closed in fiscal year 2015 to 2016. A second analysis used a sample-based approach that manually reviewed a total of 713 audit files closed in fiscal year 2016 to 2017. The 713 files include a detailed review of all files with debit reassessments equal to or over $5 million which represented 64% of the total collectible federal taxes. A representative sample was drawn from all other files with debit reassessments less than $5 million.
+For GST/HST results, the total number of audit files with a debit reassessment closed in fiscal year 2015 to 2016 were analyzed with a query approach.
+Appendix A
+provides more details on the evaluation issues and methodologies.
+Appendix B
+provides a glossary of terms used in this report.
+4. Findings, recommendations, and management response
+The recommendations presented in this report address issues of high significance or mandatory requirements.
+The stakeholders agree with the recommendations in this report and have developed related action plans. The Audit, Evaluation, and Risk Branch has determined that they appear reasonable to address the recommendations.
+4.1. The extent to which audit reassessments materialize into cash recoveries is measurable for income tax and GST/HST audit programs.
+In addition to collectible taxes, income tax fiscal impact also includes an estimation of future taxes and reassessments. Because the estimated future taxes do not generate any collectible amount when the audit closes, these estimates of future taxes are excluded from the audit yield analysis but are nonetheless important measures of audit activities. The audit yield calculation is based solely on cash values and the taxes owing at the time an audit case is closed.
+Income tax audit programs reported a combined fiscal impact of $9.6 billion for fiscal year 2016 to 2017.
+Footnote
+2
+Overall, the evaluation estimated that between $6.4 billion and $6.8 billion
+Footnote
+3
+(67-71%) of the income tax fiscal impact was collectible cash. Of this amount, it is estimated that 60-64% has been recovered. Table 1 provides a detailed breakdown of the collectible cash portion of fiscal impact as of July 2019.
+Table 1: Results of income tax debit reassessments completed in fiscal year 2016 to 2017
+Income tax results
+Dollar amount
+(‘000,000)
+%
+Table 1 Notes
+Table 1 Note *
+It is expected that amounts under dispute, once settled, will result in additional recoveries, reversals, and write-offs
+Return to table 1 note
+*
+referrer
+Table 1 Note **
+Collections officers may determine that some of the collectible amounts are uncollectible such as in the case of bankruptcy, resulting in additional write-offs
+Return to table 2 note
+**
+referrer
+Recovered (paid/collected)
+$3,960 - $4,224
+60 - 64%
+Reversed
+$594 - $792
+9 - 12%
+Written off
+$33 - $99
+< 0.5 – 1.5%
+Under dispute
+table 1 note
+*
+$990 – $1,122
+15 - 17%
+In collections
+table 1 note
+**
+$660 - $858
+10 - 13%
+TOTAL
+$6,606
+100%
+GST/HST fiscal impact is also calculated to include items that do not generate any collectible amount. For example, many GST/HST audits result in a reduction of refunds before they are issued. These protected amounts are excluded from the audit yield analysis to arrive at a calculation that is based solely on cash values and the taxes owing at the time an audit case closes.
+GST/HST audit programs reported a combined fiscal impact of $2.60 billion for fiscal year 2015 to 2016
+Footnote
+4
+. Overall, the evaluation team found that $1.77 billion (68%) of the GST/HST fiscal impact was collectible cash. Of this amount, 71% has been recovered. Table 2 provides a detailed breakdown of the collectible cash portion of fiscal impact as of July 2019. Ranges are not provided for GST/HST results because the evaluation reviewed the full population of audit files.
+Table 2: Results of GST/HST debit reassessments completed in fiscal year 2015 to 2016
+GST/HST results
+Dollar amount
+(‘000,000)
+%
+Table 2 Notes
+Table 2 Note *
+Collections officers may determine that some of the collectible amounts are uncollectible such as in the case of bankruptcy, resulting in additional write offs
+Return to table 1 note
+*
+referrer
+Recovered (paid/collected)
+$1,251
+71%
+Reversed
+$212
+12%
+Written off
+$79
+4%
+In collections
+table 2 note
+*
+$227
+13%
+TOTAL
+$1,769
+100%
+It is expected that the income tax and GST/HST results will change as more time passes and appeals rights are exhausted or collections activities are concluded. Complex objections and appeals involving high-dollar value reassessments might take years to finalize and may not have been decided at the time of the analysis.
+4.2. Audit yield is a relevant and useful measure for CRA performance monitoring.
+The measurement of audit yield allowed for a variety of comparisons and analyses that provided greater insight into the CRA’s performance after an audit closes. As opposed to a measure of individual program performance, a measure such as audit yield allowed a more holistic view of how various programs interact to deliver results. Select comparisons and analyses are described below.
+A cost-benefit analysis in Table 3 compares the direct costs of audit programs to the estimated overall federal audit yield on debit reassessments. This is simply an example of a ratio to illustrate how the metric may be useful; the CRA could identify other ones to measure and monitor its performance across one or several program activities.
+Table 3: Estimated cost effectiveness by audit type
+Income Tax
+(2016-2017)
+GST/HST
+(2015-2016)
+Table 3 Notes
+Table 3 Note *
+Direct costs for audit (salary and O&M), does not include employee benefits; figures provided by the Compliance Services Directorate, ILBIB
+Return to table 1 note
+*
+referrer
+Table 3 Note **
+Total recovered on federal collectible amounts after removing provincial collectible amounts
+Return to table 2 note
+**
+referrer
+Total cost
+table 3 note
+*
+$633 million
+$211 million
+Total federal audit yield
+table 3 note
+**
+$3.09 billion
+$1.25 billion
+Federal return
+4.9 : 1
+5.9 : 1
+When an audit adjustment results in a debit reassessment, different outcomes emerge. For example, a taxpayer might pay voluntarily, raise an objection to dispute the amount, or withhold payment on an undisputed debt.
+A downstream analysis provided insight into how audit adjustments that result in taxes owing can impact appeals and collections workloads. The analysis showed that audit files closed in the fourth quarter account for a higher proportion of the total value of reassessments than files closed in any of the 3 other quarters (
+Figure 1
+). The fourth quarter GST/HST audits are more likely to be disputed and are reversed more often.
+Footnote
+5
+Monitoring these results on a regular basis would provide useful information for resource planning and allocation.
+Figure 1: Proportion of the estimated total dollar value of reassessments completed in the fourth quarter
+This figure presents the proportion of the estimated total dollar value of Income Tax reassessments closed in the fourth quarter, which is 43%.
+This figure presents the proportion of the estimated total dollar value of GST/HST reassessments closed in the fourth quarter, which is 38%.
+Select examples of how audit yield could be used to measure and monitor different aspects of performance have been provided above; however, other uses were also identified. Based on stakeholder consultations, the level of relevance and value of each application would change depending on the CRA activity or function that would use it.
+4.3. There are barriers that limit the CRA’s ability to automate monitoring and reporting on a measure such as audit yield.
+The calculation of audit yield, or a similar measure, can be automated for the population of GST/HST audit files using Business Number as a common identifier. For GST/HST, 99% of files in the audit case management system matched with a reassessment; this indicates that automated processes can be implemented with a high degree of confidence in the GST/HST results.
+In the case of income tax audit files, the evaluation team encountered several instances where manual intervention was required to match audit files closed in either the Audit Information Management System (AIMS) or in the Integrated Audit Management System (INTEGRAS) to reassessments and accounting information. Common identifiers in systems, such as the audit file number, were difficult to match due to incomplete or inaccurate data entries. Additional matches were identified using transaction data, such as amounts or dates.
+For personal income tax (T1) audit files, 8% of all files with a debit reassessment closed in INTEGRAS in fiscal year 2017 to 2018 did not have a matching audit file number in the T1 assessing system. For the purpose of population-level matching, the evaluation did not review T1 files closed in AIMS since it has been gradually replaced by INTEGRAS and new files are no longer created in AIMS.
+For corporation income tax (T2) audit files, based on the stratified random sample, 15% of files with a debit reassessment closed in AIMS in fiscal year 2016 to 2017 did not have a matching audit file number in the corporate tax assessing system known as CORTAX. These files account for 22% of the total value of federal taxes and are more difficult to force match than T1 files due to the complexity of corporation audits. A small number of T2 files were closed in INTEGRAS during that fiscal year; they were not reviewed since they accounted for 0.17% of the total T2 debt.
+Interviews with stakeholders noted that, in many cases, reassessments are processed manually rather than automatically with a data transfer. For example, there is a need to process certain reassessment in the sub-ledger or certain reassessments fail to transfer electronically. Additionally, the CRA has recently implemented system and procedural modernizations that impact the way work is processed and which may be contributing to lags linking inter-branch data.
+Measuring audit yield or a similar measure, requires tracking an audit file to one or several reassessments. Audit file number is a unique identifier that links with certainty an audit file to an associated reassessment. Once the reassessments are found, it becomes possible to subsequently trace the information downstream to the accounting transactions and the activities undertaken by other areas of the CRA in relation to the file, such as collections or appeals.
+The challenges noted above would need to be addressed in order to implement reliable automated processes for monitoring purposes. Repeatable processes using queries would support regular and timely monitoring of performance and increase the feasibility of calculating and using a measure such as audit yield regularly for operational monitoring.
+Recommendation 1
+For monitoring and reporting purposes, the Service, Innovation, and Integration Branch should work with the Compliance Programs Branch and others to adopt and report on an integrated measure that periodically calculates the cash collected from audits and takes into account the results of downstream activities
+Recommendation 2
+The Compliance Programs Branch should work with the Assessment, Benefit, and Service Branch, and the Service, Innovation, and Integration Branch to undertake changes required to achieve more efficient and automated performance monitoring
+Management response
+The Compliance Programs Branch and the Service, Innovation, and Integration Branch agree with the recommendations in this report.
+The CRA had previously committed in response to
+Report 7 – Compliance Activities – Canada Revenue Agency,
+of the 2018 Fall Reports of the Auditor General of Canada to “develop a performance measurement framework for its compliance programs, including a measure that factors in appeals and collections, by March 2020” and the work is underway.
+For example, the CRA has developed a methodology to measure to the final resolution (including reversals, write-offs and collections) of GST/HST audits through its actions in response to the 2018
+Evaluation Study - Horizontal Compliance Management - GST HST Audit Program
+. In addition, it had previously prototyped a methodology to do the same for audits of individuals (T1). And plans are currently underway to shortly begin prototyping a methodology for audits of corporations (T2) that considers a longer timeframe (than 2016-2017) and a complete set of data (in contrast to the data sample in this evaluation).
+In order to adopt and report on an integrated measure that periodically calculates the cash collected from audits and takes into account the results of downstream activities the following work remains to be done:
+Create repeatable processes to automatically link the data among the various inter-branch systems
+Determine the best strategic approach to adopting and reporting on this new indicator, in collaboration with the Appeals Branch that takes into account the characteristics of the different compliance programs and the cultural impact on audit staff by introducing a new performance measure.
+This work can be done in parallel.
+For recommendation #1:
+As Office of Primary Interest, the Service, Innovation, and Integration Branch will build on previous progress by working with other implicated branches to develop a holistic strategy and timeline for implementing a new measure for compliance activities’ results and actual collected tax revenues for GST/HST, T1 and T2. This will take into account audit, appeals and collection actions on given taxpayers accounts, the existing reporting environment, strategic program considerations, and the impact on the organizational culture. The plan will identify who will adopt and report on any measures and by which means.
+The expected completion of this work is June 30, 2021, given its reliance on the outcome of the action plan to recommendation #2. The resulting plan will be reviewed by the Audit, Evaluation, and Risk Branch and subject to the annual follow-up process.
+For recommendation #2:
+The Compliance Programs Branch will continue to work with the Service, Innovation, and Integration Branch and other implicated branches to analyze the requirements for undertaking the changes to achieve a more efficient and automated approach to linking the data in the various inter-branch systems in order to refine performance indicators as articulated in the response to the Office of the Auditor General of Canada, including estimates of net audit impacts. This work will involve:
+analyzing the data gaps in case management, assessing, and accounting systems (T1 and T2) between the following branches: Compliance Programs, Collections and Verification, Appeals, and Assessment, Benefit and Service.
+in consultation with the Information and Technology Branch, developing a multi-year plan to address the inter-branch data gaps.
+The expected completion of this work is December 31, 2020.
+Note: due to the T3 system re-design, this revenue line is out of scope for audit yield at this time.
+5. Conclusion
+Measuring audit yield provides a more fulsome and transparent performance story and understanding of CRA results by reporting on the dollars coming into government coffers as a result of its audit efforts. It provides insight into CRA-wide results and outcomes to complement and supplement other measures such as fiscal impact and it supports and informs decision-making. The results presented in this report are a snapshot from single fiscal years and it is not possible to draw conclusions on performance. It is expected that results will change as more time passes and appeals rights are exhausted or collections activities are concluded. Expanding the analysis to additional years would enable the CRA to establish a baseline and make year-over-year judgements on its performance.
+An integrated measure is relevant and useful for a variety of stakeholders. Currently, manual intervention is required to match audit results across systems. This intervention limits the ability of the CRA to implement repeatable processes using queries for more efficient and automated performance monitoring and reporting.
+An outcome-based measure such as audit yield is important because it combines the results of functionally separated activities to help the CRA tell a more comprehensive and transparent performance story.
+6. Acknowledgements
+In closing, we would like to acknowledge, recognize, and thank the branches, who dedicated time and provided information during the course of this engagement: the Appeals Branch, the Assessment, Benefit, and Service Branch; the Collections and Verification Branch; the Compliance Programs Branch; and the Service, Innovation, and Integration Branch.
+7. Appendices
+Appendix A: Evaluation issues and methodology
+Issue 1: What outcomes are being achieved?
+What occurs after an audit is closed?
+What trends are observed in the population?
+Issue 2: In what ways could this view impact the CRA’s administration?
+In what ways could it impact current monitoring and reporting approaches?
+Can current operating assumptions be validated?
+Methodology
+The methodology for examination included the following:
+Data analysis – Income tax
+sample-based analysis of 23,146 individual income tax (T1), corporation income tax (T2), trust (T3), and non-resident audit files closed in fiscal year 2016 to 2017 that resulted in a positive amount of income tax being assessed.
+Segment 1: convenience sample of all audit files where the federal tax change was above $5 million; this segment of 102 files represents approximately 64% of the total collectible federal taxes
+Segment 2: stratified random sample of 611 files from the remaining debit audit files based on Region, Tax Services Office, Audit Program and Federal Tax Change amount – this segment represents approximately 6% of the total collectible federal taxes and results are statistically valid to the rest of the population with a 95% confidence level
+population-based analysis of T2 audit files closed in fiscal year 2015 to 2016; 85% of T2 files accounting for 94% of total collectible taxes and penalties
+Data analysis – GST/HST
+population-based analysis of 20,979 audit files closed in fiscal year 2015 to 2016 that resulted in a positive amount of GST/HST being assessed; adjustments affecting refunds only were excluded, such as most of the Refund Integrity Program cases
+includes all GST/HST cases for which a valid GST ‘line of business’ identifier was captured in INTEGRAS and which could be matched to a positive GST/HST assessment in the Standardized Accounting data – the matching process used data from various systems, was tested and was found to be accurate and reliable
+Internal interviews
+were conducted with management and employees who have responsibilities and participate in activities related to conducting audits and the downstream impacts.
+File and document reviews
+were conducted of CRA files and documents related to processes, procedures, and performance reports.
+Appendix B: Glossary
+Glossary
+Term
+Definition
+Audit Information Management System (AIMS)
+A case management system used by audit programs, which contains historical audit information; files were no longer created and managed in this system with the introduction of INTEGRAS
+audit yield
+The additional tax liabilities identified and collected through audit activities
+collectible
+Amounts raised by an audit that have the potential to be collected; while amounts outstanding are collectible, it should not be assumed that they will all be collected
+Corporation Tax Processing System (CORTAX)
+The Corporation Tax Processing System captures, assesses, and reassesses the Corporation Income Tax Return (T2)
+debit reassessment
+The amount that is collectible after removing non-cash items from the reported fiscal impact such as future assessable taxes
+downstream
+Processes, activities, or functions that occur later in a sequence or series; any process occurring after another is considered downstream
+fiscal impact
+A publically reported measure composed of tax assessed, tax refunds reduced, interest and penalties, and present value of future federal tax assessable arising from compliance actions; it does not account for the impact of appeals reversals and uncollected amounts
+future taxes
+Audit adjustments with a future year implication, such as the decrease of credits available to claim in the future
+Integrated Audit Management System (INTEGRAS)
+A recently introduced audit case management system that replaced AIMS
+reversal
+Amounts that are either fully or partially allowed; it includes both the objections to the Appeals Branch and the disputes to the tax courts
+tax recovered
+Any payment made to completely or partially offset a debt, including applying available credits and refunds; it includes both voluntary payment by the taxpayer and interventions that lead to debt collection
+write-off
+An accounting action that removes uncollectible debts to the Crown from the accounts receivable records; it does not release the debtor from their obligation to pay, and does not affect the Crown’s right to collect the debt in the future (section 25 FAA)
+Footnotes
+Footnote 1
+OECD, 2004. Measures of tax compliance outcomes: A practical guide
+Return to footnote
+1
+referrer
+Footnote 2
+2016-17 Departmental Results Report
+, pages 47 and 56
+Return to
+first
+footnote
+2
+referrer
+Footnote 3
+The margin of error is ± 2.9%, 19 times out of 20.
+Return to footnote
+3
+referrer
+Footnote 4
+Departmental Performance Report 2015-16
+, page 60
+Return to footnote
+4
+referrer
+Footnote 5
+It was not possible to complete a quarterly analysis of the extent of disputes and reversals for income tax audits since the stratified random sample did not include “quarter” as a stratification variable.
+Return to footnote
+5
+referrer
+Page details
+Report a problem on this page
+Date modified:
+2020-02-14

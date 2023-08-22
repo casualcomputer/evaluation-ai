@@ -1,0 +1,56 @@
+Follow-Up of 2005-2006 Internal Audit Reports
+Corporate Audit and Evaluation Branch
+December 2008
+Introduction
+This report summarizes the results of the annual follow-up process on recommendations made by the Corporate Audit and Evaluation Branch (CAEB) through Internal Audits.
+Internal audit professional standards require the Internal Audit (IA) function to perform follow-up activities to determine if management action plans have been effectively implemented.
+CAEB’s annual follow-up process is based on self-assessment by Canada Revenue Agency (CRA) management, supplemented by more in-depth procedures where warranted. CRA management is responsible for reporting the progress made in implementing their action plans. In areas of greatest risk, CAEB requests additional supporting information or documentation to ensure an accurate conclusion is drawn. The annual follow-up report is presented to the Management Audit and Evaluation Committee (MAEC), formerly the Internal Audit Management Committee (IAMC), and to the Audit Committee of the Board of Management (BoM).
+This year’s process encompassed the action plans from the 14 internal audit reports approved by the IAMC in 2005-2006 and action plans that had not been fully implemented in 13 reports from prior years, which still remain outstanding.
+The follow-up process was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Summary of Results
+Overall, CRA management have implemented or made progress towards implementing the action plans committed to in 2005-2006. In total, 94% of action plans (137 of 146 as detailed in
+Appendix A
+) approved by the IAMC throughout 2005-2006 and prior years have made satisfactory progress, have been implemented, or actions/circumstances have overtaken the need to do further work.
+Those audits with higher risk action plans and/or those requiring attention are summarized below.
+Information Exchange MOU with HRDC (January 2005)
+The Information Exchange MOU with Human Resources Development Canada (HRDC) audit was reported to the IAMC in January 2005 and to Audit Committee of the BoM in March 2005.
+The objective of the audit was to determine whether the CRA was in compliance with the terms and conditions governing receipt, use, storage and destruction of information received from HRDC, in accordance with the authorized MOUs and General Amendment thereto.
+The audit concluded that revisions to the MOUs with HRDC were required to reflect the changes to the organizational structure and designated officials of both organizations in order to confirm administrative authorities and to ensure clarity of roles and responsibilities. In addition, the terms and provisions of the MOUs were to be clarified and communicated to management and staff to maximize awareness, understanding, and appropriate use in program delivery.
+Follow-up activity indicates that Corporate Strategies and Business Development Branch (CSBDB) has experienced delays in renegotiating the four MOUs with HRSDC due to the numerous organisational and personnel changes that HRSDC has undergone in the recent past.
+All action plans remaining are directly related to the renewal of existing MOUs and the creation of an umbrella MOU that would be user friendly, reflect the actual structure of both organizations, clarify which information can be exchanged and communication channels, detail the recording and reporting requirements, and establish security requirements. A first meeting was held in May 2008 to discuss the approach and identify projects leaders from CRA, HRSDC and Service Canada. Assuming that HRSDC commits to having a dedicated team to work on this project, CSBDB has provided a revised timetable towards the renewal of the MOU by June 30, 2009.
+Review of the Management of Accounts Receivable (January 2005)
+The Review of the Management of Accounts Receivable Audit (AR) was reported to the IAMC in January 2005 and to the Audit Committee of the BoM in March 2005.
+The objective of the review was to identify factors influencing the growth in AR, to provide assurance that the accounts are managed effectively, and to identify potential opportunities for improvement. In addition, relevant recommendations and action plans from the internal audit of the Statistical Tracking Analysis and Reporting System (STARS) of June 2001 were also included in the scope.
+The review concluded that the growth in AR had been influenced by factors both external and internal to CRA. The report also contained a number of recommendations to help CRA better manage taxpayer debts. In particular, enhancements to risk scoring, reporting and performance measurement systems were planned to provide more robust analytical capacity to the Accounts Receivable Division.
+Follow-up activity indicates that three of the five remaining action plans developed in response to the review have been fully implemented, and those remaining show acceptable progress. The Integrated Revenue Collections project (IRC) addresses a number of the action plans developed in response to the review. Given that IRC system changes are planned for phased implementation starting in 2009, TSDMB expects these action plans to be met over the next several years as future IRC phases are implemented.
+TSDMB is making progress through a combination of incremental changes that require significant new systems functionality. These changes will develop over years and Internal Audit will track progress through follow-ups as well as through future audit and evaluation work as described below. This will help ensure the risks identified in our 2001 and 2005 reports are addressed.
+Given the inherent risk of large IT projects and the centrality of IRC to addressing key debt management challenges, CAEB has two current engagements in this area. The Program Evaluation Division has supported TSDMB in preparing a Results-Based Management Accountability Framework for IRC Release 2 and plans to conduct further work with the Branch to carry out a baseline assessment prior to April 2009. This will assist in the future evaluation of IRC Release 2. The Internal Audit Division has conducted a pre-implementation audit of the IRC project and plans to report findings in the 2008-2009 fiscal year.
+Non-capital Asset Management (May 2004)
+The Non-capital Asset Management was a regional audit that was reported to the IAMC in May 2004 and to the Audit Committee of the BoM in June 2004.
+The objective of the audit was to assess the controls over and the potential risk to the CRA with regard to non-capital assets valued under $10,000. The scope of the audit focused on controls in place in key phases of the life cycle of non-capital assets, specifically during acquisition and use.
+The audit identified the need for controls to be more rigorous in terms of accountability, tracking and monitoring of non-capital assets.
+This follow-up indicates that two of the three outstanding action plans have been completed, and one is considered to have made unsatisfactory progress in the implementation of the non-capital asset management directive.
+The Administration Directorate committed to a review of all Material Management policies and guidelines regarding asset management including an initial review of all assets to determine those that should be controlled through CAS, by the end of June 2004. They also committed that by December 2004 they would introduce a new or revised assets management directive, synchronized with the approval and implementation of the recommendations of the review.
+The review of the Material Management policies and guidelines regarding asset management is still ongoing. No progress on this point has been made due to resource constraints. Corporate Services Division, in collaboration with the Policy and Program Development Division, will develop and commence implementation of a plan to address the audit’s recommendations. The Administration Directorate has now assigned a project manager to this initiative; it is expected to be completed in the next fiscal year.
+MOU on Tax Information Exchange with Revenu Québec (February 2006)
+The MOU on Tax Information Exchange with Revenu Québec (RQ) Audit was reported to the IAMC in February 2006 and to the Audit Committee of the BoM in March 2006.
+The objective of the audit was to provide assurance to senior management that CRA is observing the general conditions governing the receipt, use, storage and return or destruction of information received from RQ and the sending of information to the latter in accordance with the MOU.
+The audit concluded that managers, users and authorized persons were not sufficiently knowledgeable about the MOU, their roles and responsibilities, and related compliance requirements. Consequently, although authorized under subsection 241(4) of the
+Income Tax Act
+, there were frequent exchanges between individuals not authorized under the terms of this MOU. Moreover, there were cases where the information exchanged and the frequency of distribution was not consistent with the terms of the MOU. Shortcomings were also observed in transmitting information electronically and the protection applied.
+This follow-up indicates that 8 out of 16 action plans have been completed, progress for 5 action plans are considered satisfactory, while the remaining action plans require attention.
+The update of the
+Policy on the Management of Protected Client Information
+will clarify two requirements; the first one will define the review cycle of existing MOUs and the second will define the need to indicate a security classification on MOUs and Annexes, when necessary. The policy will also establish the measures to implement in order to monitor and follow-up on the information exchanged by the various stakeholders. The policy review is expected to be completed by April 2009.
+The implementation of a National Information Exchange Registry (NIER) is also part of the proposed action plans. Now that it has been fully developed, the registry should be implemented in the fall of 2008. However, the initial finding, which stipulates that “[Translation] parties must maintain a record of the usage to ensure that requests for access and use of protected information are monitored”, was raised to ensure compliance to the MOU Appendix E requirements. Since the current NIER was not developed to provide a record of usage of the information received from Revenu Québec, this issue is being addressed as part of the actual MOU review conducted by CSBDB and should be completed by June 2009.
+Conclusion
+Overall, CRA management implements their action plans in a timely manner. Those categorized as having made satisfactory progress, as having been implemented, or where actions/circumstances have overtaken the need to do so account for 94% of the action plans included in this report.
+All of the above noted outstanding action plans will be included in the scope of the next annual follow-up.
+Appendix A
+Office of Primary Interest (OPI) Legend
+Page details
+Report a problem on this page
+Date modified:
+2009-04-09

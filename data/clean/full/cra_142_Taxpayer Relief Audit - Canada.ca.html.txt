@@ -1,0 +1,223 @@
+Taxpayer Relief Audit
+Final Report
+Corporate Audit and Evaluation Branch
+October 2008
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+1.0 Governance
+2.0 Coordination
+3.0 Guidance and Support for Staff
+4.0 Monitoring
+5.0 Reporting
+Conclusion
+Executive Summary
+Background:
+The Taxpayer Relief (TR) Provisions provide a mechanism for the Minister of National Revenue to exercise discretion in granting relief from interest and penalties. The TR provisions give the Canada Revenue Agency (CRA) the ability to administer legislation fairly and reasonably by helping taxpayers resolve issues that have arisen through no fault of their own, and to allow for a common sense approach in dealing with taxpayers who, because of personal misfortune or circumstances beyond their control, could not comply with a statutory requirement.
+The Taxpayer Relief and Service Complaints Directorate (TRSCD) in the Appeals Branch has overall responsibility for TR activities and provides guidance to the branches and field offices on matters that are horizontal in nature or national in scope. The five program branches (i.e. the Compliance Programs, Assessment and Benefit Services, Taxpayer Services and Debt Management, Legislative Policy and Regulatory Affairs, and Appeals branches) are responsible for providing field offices with program-specific guidance and support relating to their business lines. Field office directors in forty-six offices across all regions have overall responsibility for applying the TR provisions and processing taxpayers’ requests for relief.
+Objective:
+The objective of the audit was to determine whether controls for the effective delivery of TR activities are in place and are functioning as intended. The focus of the audit was on taxpayer requested penalty and interest cancellations and waivers. Automated waivers were reviewed with respect to reporting obligations to the Public Accounts of Canada.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Conclusion:
+The governance structure for TR activities provides program branches and field offices with extensive flexibility to integrate TR activities into their regular operations. While some degree of administrative flexibility is appropriate to accommodate variations in the different program workloads, the extent of decentralization that currently exists for TR administration has created challenges in maintaining control and consistency over key management activities, such as monitoring and reporting.
+The TRSCD has conducted studies on the existing governance structure and taken steps to clarify roles and responsibilities. Plans have also been initiated to improve monitoring and reporting processes to help detect and resolve processing inconsistencies. However, the current governance structure limits TRSCD’s ability to coordinate and implement these plans in a timely manner.
+For individual taxpayer requests, the CRA has control structures in place to ensure that TR cases are resolved with due care and consideration. Despite these controls, the audit found that processing inconsistencies existed between offices and between different work areas within offices. Although some of the processing inconsistencies could be resolved through regular updates and improvements to the TRSCD website, or further enhancements to the monitoring and reporting processes, fundamental changes to the existing governance structure are needed.
+The recent re-engineering initiative launched by TRSCD provides a timely opportunity to explore options for strengthening the fundamental TR governance structure. In conjunction with efforts to address specific issues regarding technical resources, monitoring, and reporting activities, these improvements should provide TRSCD with the required controls to effectively manage TR activities.
+Action Plans:
+The TRSCD agrees with the findings and has developed plans and established timeframes to address the recommendations provided in this report. Program branch and regional involvement will be assured through participation in the Taxpayer Relief Committee, which will be the forum for implementing governance and processing enhancements.
+Accountability will be clarified through analysis of the proposed regionalized model and a review of the existing governance structure, including considering program status for taxpayer relief. The
+Protocol Agreement-Fairness Provisions
+will be updated with specific information regarding accountability and roles and responsibilities.
+The TRSCD will implement processes to identify compliance projects or issues that could result in a number of taxpayer relief requests and will develop policies to resolve those requests. In addition, the TRSCD will increase the effectiveness of the TRSCD website as the primary source of TR information through regular updates. Improvements to processing consistency will result.
+Monitoring and reporting control weaknesses will be mitigated through establishing monitoring partnerships and recommending that program branches use the TRSCD monitoring framework. TRSCD is committed to taking more responsibility for the validation of the accuracy of forgiven amounts reported to the Public Accounts. They will work with Finance and Administration and the program branches in quantifying and documenting the risks associated with manually compiled forgiven amounts.
+Introduction
+The
+Income Tax Act (ITA),
+the
+Excise Tax Act (ETA),
+the
+Excise Act 2001 (EA 2001),
+the
+Air Travellers Security Charge Act
+(ATSCA
+) and the
+Softwood Lumber Products Export Charge Act, 2006
+impose interest charges and penalties on taxpayers who do not fully remit amounts and/or file required returns on time or when reassessments are issued. The Taxpayer Relief (TR) Provisions provide a mechanism for the Minister of National Revenue to exercise discretion
+[Footnote 1]
+in granting relief from interest and penalties.
+The TR Provisions were enacted in December 1991 for Income Tax and June 1993 for Excise and GST to permit the Canada Revenue Agency (CRA) to be flexible and responsive to circumstances where it would be unreasonable or unfair to penalize taxpayers. The TR provisions allow taxpayers to request interest and penalty relief due to personal misfortune or circumstances beyond their control, including disasters, civil disturbances, illness or accident, emotional distress, or delays and errors caused by the CRA. Consideration is also given to situations where taxpayers are unable to pay due to financial hardship. The TR Provisions also empower the CRA to issue income tax refunds beyond the normal reassessment period, and accept late-filed, amended, or revoked elections.
+In order to be proactive in situations where applying a penalty would be overly punitive or inefficient to process, CRA has programmed rules directly into its mainframe systems so that relief can be granted automatically based on administrative tolerances. According to the
+CRA Annual Report to Parliament (2006-2007)
+, the total value of all cancellations and waivers was approximately $466 million for over 580,000 taxpayers. Over $303 million, or 65% of this amount, was a result of these automated waivers.
+Taxpayer requested relief transactions are requests for relief that taxpayers submit in writing to the CRA. These requests are reviewed by CRA employees in tax service offices (TSOs) and tax centres (TCs) across the country, to determine whether the circumstances warrant relief under the TR Provisions
+[Footnote 2]
+. During the 2006-2007 fiscal year, CRA received a total of 75,361 requests for relief, of which 39,131 (52%) were allowed, for a total of $163 million, or 35% of the total amount forgiven.
+Previous audits have been conducted on the TR Provisions. Most recently, the April 2002 Office of the Auditor General (OAG) report on
+Tax Administration: Write-offs and Forgiveness
+identified risks regarding the forgiveness of interest and penalties under the TR Provisions, including the adequacy of the Registry, the level of rigour in the approval process, measures to ensure that decision-making is consistent, monitoring, and the integrity of data reported in the Public Accounts of Canada. Similar issues were identified in the 1999 Internal Audit on
+Application of the Fairness Legislation
+.
+Focus of the Audit
+The objective of the audit was to determine whether controls for the effective delivery of TR activities are in place and are functioning as intended. This was accomplished through an examination of:
+management controls to ensure the consistent application of policy and legislation, and
+controls to facilitate monitoring and reporting.
+The focus of the audit was on taxpayer requested penalty and interest cancellations and waivers. Since each request for relief must be considered on its own merits, the audit did not focus on the consistency of the decisions themselves. Instead, examinations focused on whether controls to enhance consistency in the processes supporting the decisions were in place and being followed. Automated waivers were reviewed with respect to reporting obligations to the Public Accounts of Canada.
+The planning phase of the audit was conducted from December 2006 to June 2007. The examination phase was conducted from June 2007 to March 2008. Examinations of TR processing activities were conducted in the Appeals, Assessment and Benefit Services (ABSB), Taxpayer Services and Debt Management (TSDMB), Legislative Policy and Regulatory Affairs (LPRAB), and Compliance Programs (CPB) branches (referred to collectively as the “program branches”), and in selected TSOs and TCs in each region. A judgment sample of 761 TR cases
+[Footnote 3]
+completed during the 2006-2007 fiscal year was also reviewed to corroborate information received in interviews and compare processes between offices.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings, Recommendations and Action Plans
+1.0 Governance
+The Appeals Branch has played a leadership role in the administration of TR activities since the legislation was created, and has been actively involved in the evolution of its governance structure. In November of 2004, functional leadership for TR activities was assigned to the Taxpayer Relief and Service Complaints Directorate (TRSCD)
+[Footnote 4]
+. The TRSCD's mandate is to serve as the centre of expertise for the administration of TR activities across CRA, particularly on issues of a horizontal nature or those with potential national impacts. Its primary role is to provide cross-functional leadership, policy development, and direction to the program branches and regions. The Director General (DG) of the TRSCD chairs the Taxpayer Relief Committee (TRC), which is the forum where horizontal issues relating to TR activities are discussed. The TRC includes representatives from the five program branches and regions involved in TR activities.
+The CRA did not receive incremental funding to administer TR activities when the legislation was created. The costs were absorbed throughout CRA operations, primarily in the program branches. The governance structure that CRA established to administer TR activities involves five headquarters branches and forty-six offices
+[Footnote 5]
+in all regions across the country. The program branches maintain primary responsibility for ensuring that field offices have adequate resources and direction to process TR requests for their specific business lines. Field office directors have the authority to structure TR activities to meet operational needs, provided that the review and approval processes in place are consistent with national policies and functional guidelines.
+The decentralized nature of the TR governance structure has made it difficult to maintain consistency over TR activities. In recent years, the Pacific, Prairie, Ontario, and Atlantic regions began consolidating some TR workflows and processes in order to improve control and consistency. The TRSCD conducted a study on the different TR delivery structures in the regions and summarized its findings in a report titled
+Management of the Fairness Workload
+. The report confirmed that there were regional differences in the consolidation of programs and activities, and concluded that there were advantages to harmonizing certain program workloads and centralizing inventory control functions.
+According to TRC meeting minutes and TRSCD memoranda from 2005 and 2006, there was agreement that the existing governance structure had led to confusion over roles and responsibilities, and needed to be reviewed. In December 2006, the TRSCD introduced the
+Protocol Agreement - Fairness
+Provisions
+(“the
+Protocol Agreement
+”), which re-emphasized the functional roles and responsibilities of the TRSCD and the other branches, directorates, and regions involved in TR activities.
+The
+Protocol Agreement
+was signed by TRC members in December 2006 and came into effect in January 2007. However, audit tests indicated that, despite the existence of
+the Protocol Agreement
+, the inherent flexibility in the governance structure imposed limits on TRSCD’s ability to measure, monitor and influence change.
+For example,
+t
+he
+Protocol Agreement
+indicates that the TRSCD plays an oversight role for program monitoring, but program branches are responsible for conducting their own monitoring activities. Since the program branches have discretion over the type and extent of monitoring activities they conduct, the TRSCD has limited control over what is monitored, the quality of the results, or the corrective actions taken. An analysis of each program branches’ monitoring reports showed that there were significant differences in the way monitoring activities were conducted. As a result, the TRSCD has not been able to compare results or analyze trends. In August 2008, the TRSCD placed a standard monitoring framework on their website to improve quality and consistency in this area; however, under the current governance structure, the program branches would still have discretion over the depth and breadth of their monitoring activities and the corrective actions taken.
+A similar situation exists for reporting forgiven amounts to the Public Accounts. The TRSCD is accountable for consolidating and reporting these amounts, but since the Appeals Branch does not “own” the mainframe systems that store the data, the program branches ultimately have discretion over the methods used to validate the amounts. In the case of manually compiled waivers for Information Returns, some amounts are estimated. The TRSCD stated that, while they encouraged the use of automated validation checks, the systems that could be changed to perform such functions belonged to the program branches. As a result, although TRSCD is accountable for the accuracy of amounts reported to the Public Accounts, they are not able to implement all of the desired controls to ensure accuracy of the reported amounts collected from the program branches.
+In 2007, the TRSCD launched a major re-engineering initiative aimed at addressing key issues, such as establishing performance measures and deciding whether to implement an intake centre approach to manage workloads. External consultants were hired in December 2007 to assess the current status of TR administration and recommend improvements. As of September 2008, this work was still in progress.
+Although the TRSCD has conducted a number of reviews since 2004 to find ways to improve the TR governance structure, the inherent risks within the governance structure remain.
+Recommendation
+As part of its re-engineering initiative, the TRSCD should include a fundamental review of CRA’s approach to managing TR activities so that accountabilities are aligned with responsibilities over key management controls.
+Action Plans
+Following the June 17th and 18th 2008 TRC meeting, it was agreed by all participants that accountability was an issue. More detailed analysis of the proposed regionalized model is required as well as a review of the existing governance structure. This includes identifying the pros and cons of program status for taxpayer relief. A review will be done of the national and horizontal impacts of a taxpayer relief program during the next fiscal year. Target completion date – end of 2008-2009 fiscal.
+The TRSCD will prepare a draft update to the Protocol that will include more specific information regarding accountability and roles and responsibilities. The revised protocol will be discussed and signed at the next TRC meeting scheduled for November 4, 2008. Target completion date – fall of 2008.
+2.0 Coordination
+The Protocol Agreement
+reinforces TRSCD’s leadership role over cross-functional matters and issues that have national implications; however, TRSCD depends on the program branches to provide information and feedback on significant matters affecting TR activities. According to interviews with managers and staff in the regions, there was broad consensus that receiving TR processing instructions for large compliance projects in advance would be helpful to enhance consistency. Ensuring TRSCD is kept informed of upcoming projects or other initiatives with potential TR implications would allow for more effective planning and coordination with the program branches and field offices, and minimize the risk of taxpayers being treated differently on account of delays in issuing instructions to the field offices.
+An analysis of previous compliance projects showed that delays in communicating guidelines to field office staff had significant impacts on processing consistency. In some of these projects, TR positions had not been developed proactively or had not been communicated nationally on a timely basis. This resulted in taxpayers being treated differently, depending on whether their files were processed before or after updated instructions were issued to field office employees.
+The Accountability Management Framework (Section 5) of
+the Protocol Agreement
+states that the “other branches and regions will advise the [TRSCD] on a timely basis of any information that needs to be shared; participate in joint meetings – [TRC], working groups, etc.; and consult the [TRSCD] on any activities that have fairness implications.”
+Recommendations
+The TRSCD should ensure that program branch representatives of the TRC share information on major compliance projects that could potentially impact TR activities.
+The TRSCD should establish criteria to assist program branches in identifying large projects where developing coordinated and proactive relief positions would be warranted.
+Action Plans
+Upcoming compliance projects will be added to the agenda of future TRC meetings so that program branch representatives can update the TRSCD on any major compliance projects or any issues that could impact taxpayer relief. Target completion date - The next TRC is scheduled for November 4, 2008.
+A number of policies are currently under development including both a policy regarding the acceptance of bulk taxpayer relief requests as they relate to project files to ensure consistency of decisions, as well as a policy regarding protective taxpayer relief requests that would preserve taxpayer relief options. Research is also being done regarding issuing proactive relief in specific situations. Target completion date - Policies are anticipated to be completed in fiscal 2008-2009.
+3.0 Guidance and Support for Staff
+Achieving consistency in activities like TR, where decisions are decentralized and require the use of judgment, depends heavily on the knowledge, skills, and experience of staff working on the cases. As a result, clear and timely communication of policy updates, procedures, and guidelines are essential for ensuring that CRA staff make good decisions and follow consistent procedures when processing TR requests.
+Training resources and support were found to be in place, and in the majority of cases, employees working on TR cases were experienced. Interviews with managers and staff in the regions also indicated that the TRSCD website is a valuable technical resource. In particular, the
+Taxpayer Relief Reference Guide (TRRG)
+was considered the primary source of guidance for decisions. The common mailbox also provided staff with easy access to the TRSCD for non-program-specific guidance. However, the information on the TRSCD website was not always updated in a timely manner.
+The most recent revision to the
+Taxpayer Relief Reference Guide
+was issued on May 1, 2008, but prior to that, the last update to the section “
+Guidelines for cancelling or waiving penalties and/or interest
+” was issued on April 28, 2006. Updates to other sections of the guide were issued in May and July of 2006 and May, June, and November of 2007. Also, when paragraph 24 of Information Circular IC07-01
+Taxpayer Relief Provisions
+was modified to clarify CRA’s published position on granting relief where there were no circumstances beyond the taxpayer’s control, the TRSCD did not issue guidelines to field office staff to clarify how the TR provisions would apply. As of September 1, 2008, TRSCD had still not provided guidelines for this issue.
+Staff in the regions stated that the March 2007 National Taxpayer Relief Conference provided an excellent venue for sharing information and providing guidance on how to handle complex issues, such as extraordinary circumstances and financial hardship. Since financial constraints limited the number of participants, only a small percentage of staff benefited from the conference. However, as of September 1, 2008, information from the conference had not been placed on the website. TRSCD confirmed recently that the conference material would be posted on its website.
+Since the TRSCD website is the primary technical resource for field office staff, ensuring that it is continuously improved, updated, and consistent with changes to publicly available documents, such as information circulars, is essential for maintaining process consistency.
+Recommendations
+The TRSCD should update its website on a timely basis, and include additional resource materials, such as conference presentation materials, to provide further guidance on common areas of inconsistency.
+Action Plans
+Material from the March 2007 National Taxpayer Relief Conference was updated on the website as of September 17, 2008. The TRRG was updated as of September 17, 2008 to include additional information providing clarification to the information circular IC07-01.
+The TRRG will be updated, if required, on a quarterly basis with the next update scheduled for December 2008. The website will be updated on an annual basis (or on an as needs basis) with common questions and answers and/or any clarification or procedures regarding taxpayer relief. Target completion date – the next regularly scheduled update is June 2009.
+4.0 Monitoring
+For activities like TR, where processes and decisions are extensively decentralized and rely heavily on judgement, a rigorous monitoring program is a key management control for ensuring processing consistency. An effective monitoring program should assess activities against relevant TR guidelines and incorporate appropriate performance targets so that progress can be measured over time against established standards.
+Based on a review of monitoring results for the 2006-2007 fiscal year, the TRSCD recognized that there were significant variations in monitoring methodologies between the various program branches. The different monitoring approaches had a negative impact on the quality of monitoring and produced results that were not comparable. This limited TRSCD’s ability to conduct meaningful trend analysis or assess performance on a national basis.
+A comparison of the different branch monitoring reports showed that key aspects of processing TR requests were not reviewed or reported by every branch, and sample sizes used in the monitoring reviews were not always representative of the number of requests processed by the different program areas. Issues relating to processing inconsistencies between offices and work areas were also not identified in any of the branch monitoring reports, even though audit tests confirmed that there were differences between individual work areas.
+Some improvements have been made in monitoring processes since the start of this audit. In particular, the TSDMB’s Continuous Improvement and Quality Assurance Section (CIQAS), which conducts comprehensive and structured reviews based on 14 criteria (including the quality of decisions), has been complemented by the implementation of the On-site Quality Assurance Review (OSQAR) Program for Accounts Receivable work activities. This initiative was established in each office to identify specific issues, including inconsistencies between offices.
+Similarly, the TRSCD took action to improve consistency in the way program branches monitor TR activities. In 2006, a monitoring team from the TRSCD conducted joint monitoring activities with CIQAS in the Toronto North TSO in order to obtain its own assessment of the TSDMB’s monitoring practices and to “ensure that every program handles requests in the same manner, with the same criteria and provide consistent decisions across revenue lines and across the Agency.” In August 2008, the TRSCD also created a
+Monitoring Framework,
+which it developed to provide program branches with standard tools and methods for conducting monitoring activities.
+With respect to performance measures, the Accounts Receivable and Trust Accounts divisions in TSDMB have established timeliness service standards of four to six weeks for their programs, and some offices have adopted informal standards (e.g. forty-five calendar days or thirty working days) to help manage time spent on files. However, no official performance indicators have been established for TR activities.
+Setting guidelines for TR activities and managing the level of effort, timeliness, and quality would assist program areas in setting and achieving objectives. During a process mapping exercise in the 2005-2006 fiscal year, subject matter experts were consulted on the “effort and timelines” involved in processing TR files. Results for the various program areas were presented at the March 2007 National Taxpayer Relief Conference in a document entitled
+Service Standards and Performance Measurement
+. However, this information has not been used to provide guidelines for each program area.
+The TRSCD has started to create productive partnerships with the program branches to improve monitoring consistency and also has information to provide guidance on developing informal guidelines for TR activities. However, further work is needed to ensure that the monitoring processes are able to produce consistent results.
+Recommendations
+The TRSCD should implement its Monitoring Framework and ensure that the program branches follow it.
+The TRSCD should also expand its joint monitoring initiatives with the program branches to find further opportunities to enhance consistency.
+The TRSCD should consult with the program branches and establish performance guidelines using the information available from previous studies, including the results of the 2005-2006 process mapping exercise.
+Action Plans
+TRSCD’s monitoring framework was presented to the TRC during its meeting of June 17th and 18th, 2008. The framework’s monitoring objectives exemplify future partnering, so the framework can be used by all branches, either in partnership or on behalf of TRSCD. The 2008-2009 schedule includes partnering with TSDMB and CPB. Target completion date – the framework has been posted on the website and shared with all Branches and field offices. TRSCD recommends that the framework be used by all branches when monitoring taxpayer relief provisions.
+Performance indicators will be part of the review initiated to determine the value of regionalized taxpayer relief centres of expertise. Due to the nature of the taxpayer relief provisions, it will, for the time being, remain up to each functional area to establish what is reasonable and acceptable for their revenue lines. Target completion date – the next TRC is scheduled for November 4, 2008 when TRC will be given a preview of the presentation on the re-engineering initiative that is scheduled to be given to the Operations Committee in December.
+5.0 Reporting
+The CRA has a legislative requirement to report forgiven amounts of interest and penalties to the Public Accounts of Canada, in accordance with Section 24.2 of the
+Financial Administration Act.
+Each program branch is responsible for gathering, validating, and approving amounts that need to be reported to the Public Accounts of Canada. The TRSCD’s responsibility is to consolidate the information and forward it to the Finance and Administration Branch for inclusion into the CRA financial reports.
+To date, none of the program branches’ mainframe systems have been programmed to independently tabulate forgiven amounts. The financial information on TR transactions is passed from these host mainframe systems to the Statistical Tracking, Analysis and Reporting System (STARS). The Taxpayer Relief Registry (TRR) is the mainframe system used to record and track TR requests. The TRR is being revised, and according to the TRSCD, the revised TRR is scheduled for implementation on April 6, 2009. Penalty and interest amounts will not be captured within the TRR, but will be accessible externally through a reporting system called ReportNet.
+An analysis of the mainframe compilation and validation process revealed that neither TRSCD nor the program branches were accountable for checking or comparing the information in STARS. This gap in accountabilities increases the risk that amounts reported to the Public Accounts are not accurate. However, according to the TRSCD, once the revised TRR is implemented in April 2009, the functions currently performed by STARS will be replaced by ReportNet. Since the Appeals Branch “owns” ReportNet, this should allow TRSCD to take a more active role in assessing the accuracy of the data transferred from the host mainframe systems and thus facilitate improved reporting capabilities.
+The risk of reporting inaccuracies increases when amounts need to be calculated manually. For TR, automated waivers for the “T5 family” of Information Returns must be manually computed due to system limitations. As previously mentioned, approximately $303 million, or 65% of the total amounts cancelled and waived consisted of automated waivers. The
+Summary Report – Amounts Forgiven under the Taxpayer Relief Provisions For the Period April 1, 2006 to March 31, 2007
+indicates that amounts forgiven due to automated waivers for the “T5 family” of Information Returns accounted for $54 million
+[Footnote 6]
+, or 18% of all automated waiver amounts.
+Audit examinations on the procedures used to compile these amounts found that there were no reasonability tests, validation processes, or other compensating controls to check the manually estimated amounts. The TRSCD advised that their strategy is to promote an automated solution, as this would better mitigate the risk of reporting errors, but they were not functionally responsible for the accounting systems which would enable automated solutions. The TRSCD also stated that they were prepared to risk manage this issue in order to pursue higher priorities; however, there was no evidence that this risk had been formally quantified or documented.
+Due to the inherent risks associated with manual calculations, and the legislative requirement to report all forgiven amounts, a formal risk assessment process is necessary to provide assurance that all potential risks have been considered and are being managed appropriately.
+Recommendations
+The TRSCD should ensure that all appropriate controls are in place for all reported amounts. In cases where automated validation processes are not in place, a secondary validation process should be established.
+TRSCD should quantify and document the risks associated with manually compiled forgiven amounts, and consider appropriate actions based on the identified risks.
+Action Plans
+With the advent of the new reporting facility, ReportNet, and with the revised Taxpayer Relief Registry, both reporting and tracking of taxpayer relief requests will be enhanced.
+As we move forward with the re-engineering initiative, TRSCD will take on more responsibility for the validation of the accuracy of amounts reported under taxpayer relief provisions. TRSCD has established a working group of HQ contacts for each program where taxpayer relief is reported in order to assist in the validation process when any discrepancies are noted.
+Components of annual reports are based mainly on information from STARS and the Platinum Report Facility (PRF) which are considered reliable operational information systems with a “good quality data” rating. The systems are reviewed regularly; they undergo a quality review and the values are subjected to a well documented trail of steps and calculations. Manual amounts, while minimal, will be documented and quantified.
+One of the corporate risks that has been identified in the Appeals Branch Corporate Risk Inventory 2008-09 is the reporting of forgiven amounts of interest and penalties. TRSCD also undertakes to work with Finance and Administration and the program branches in quantifying and documenting the risks associated with manually compiled forgiven amounts.
+Target completion date – The revised Taxpayer Relief Registry and the new reporting facility will be available in the spring of 2009.
+Conclusion
+The CRA has control structures in place to ensure that TR requests are resolved with due care and consideration. Despite these controls, the audit found that processing inconsistencies existed, between offices and between different work areas within offices. Although some of the processing inconsistencies could be resolved through regular updates and improvements to the TRSCD website, or further enhancements to the monitoring and reporting processes, there is a clear need to simplify and strengthen the existing governance structure.
+The extent of decentralization that currently exists for TR administration presents challenges in maintaining control over key management activities, such as monitoring and reporting. The TRSCD has conducted studies on the existing governance structure and taken steps to clarify roles and responsibilities. Plans have also been initiated to improve monitoring and reporting processes to help detect and resolve issues with processing inconsistencies. However, the current governance structure has imposed limits on TRSCD’s ability to coordinate and implement these plans in a timely manner.
+The ongoing re-engineering initiative provides an opportunity to explore options for strengthening the TR governance structure. In conjunction with efforts to ensure that technical resource materials on the TRSCD website are kept up-to-date and further enhancements to the monitoring and reporting process, the overall administration of TR activities should improve.
+Footonotes
+Footonotes
+Footnote _ftn1
+Subsection 220(3.1) of the ITA, subsections 88(1), 281.1(1) and 281.1(2) of the ETA, section 173 of the EA 2001, sections 30 and 55 of the ATSCA and section 37(1) of the Softwood Lumber Products Export Charge Act.
+Return to footnote
+_ftn1
+Referrer
+Footnote _ftn2
+Relief requests for registered charities are handled in Headquarters by the Charities Directorate, Legislative Policy and Regulatory Affairs Branch.
+Return to footnote
+_ftn2
+Referrer
+Footnote _ftn3
+The selected sample covered several program areas within twelve TSOs and five TCs.
+Return to footnote
+_ftn3
+Referrer
+Footnote _ftn4
+TRSCD was formerly known as the Fairness Provisions and Service Redress Directorate.
+Return to footnote
+_ftn4
+Referrer
+Footnote _ftn5
+According to CAS data, 46 offices charged time to one of the eight TR activity types.
+Return to footnote
+_ftn5
+Referrer
+Footnote _ftn6
+Source:
+Reporting Template – Automated Waivers 2006-2007
+provided by ABSB.
+Return to footnote
+_ftn6
+Referrer
+Page details
+Report a problem on this page
+Date modified:
+2009-01-08

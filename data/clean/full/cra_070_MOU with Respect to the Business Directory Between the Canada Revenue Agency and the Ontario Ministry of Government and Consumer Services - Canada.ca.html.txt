@@ -1,0 +1,103 @@
+MOU with Respect to the Business Directory Between the Canada Revenue Agency and the Ontario Ministry of Government and Consumer Services
+Final Report
+Audit, Evaluation, and Risk Branch
+August 2013
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+1.0 Compliance with Policies, Procedures, Laws, and Regulation
+2.0 Safeguarding of Information
+Conclusion
+Executive Summary
+Background
+The Canada Revenue Agency (CRA) enters into written collaborative arrangements
+,
+such as Memoranda of Understanding (MOUs), with federal, provincial and territorial departments and agencies to improve the efficiency and effectiveness of program delivery. Where there is an exchange of confidential information between these entities, the CRA ensures that the agreements contain the language necessary to make both parties aware of, and respect legal and policy requirements related to the use and security of this information.
+In order to ensure that these provisions are respected by both parties, the MOUs include a clause requiring that internal audits be conducted on the use and security of the information provided. In this MOU, it stipulates that Ontario and CRA agree to conduct separate internal audits of their use and security of the information within their respective organizations. Each party is obliged to conduct its first internal audit within two years of the date the Business Directory is implemented and thereafter every five years.
+This audit focused on protected information received by the CRA under the MOU between the Ontario Ministry of Government and Consumer Services, now the Ministry of Government Services, and the CRA.
+The purpose of the MOU is to establish the administrative framework that governs the relationship between the CRA and Ontario with respect to Ontario's adoption of the existing CRA Business Number (BN) as its unique identifier for businesses. To integrate Ontario's system of business identifiers with the federal numbering system, Ontario requests that the CRA assign BNs to businesses for the purpose of their participation in Ontario government programs.
+The Client Relations Directorate within the Strategy and Integration Branch (SIB) directs and coordinates internal and external client relations by providing support to the branches and regions for all agreements signed with the CRA’s partners. The Assessment and Benefit Services Branch (ABSB) is responsible for functional direction of the BN registration process. The operational activities in relation to this MOU are conducted in the Sudbury Tax Centre (TC) within the Ontario Region. The Security and Internal Affairs Directorate (SIAD) of the Finance and Administration Branch (FAB) is responsible for enforcing and ensuring compliance with security-related policies and in supporting the CRA in meeting its security-related legal obligations.
+Objective
+The objective of this audit was to provide assurance that the use and security of the information received by the CRA complies with the terms and conditions set out in the MOU.
+Examination work was performed between April and June 2013 and included a visit to the Sudbury TC.
+The audit was conducted in accordance with the International Standards for the Professional Practice of Internal Auditing.
+Conclusion
+Overall, the CRA is in compliance with the terms and conditions governing the use, communication and security of information as provided in the MOU. However, there is an opportunity to improve controls over the handling of information in terms of proper marking of the security classification on printed exception documents.
+Action Plan
+The SIAD within FAB contacted the functional owner in July 2013 to verify the feasibility of having the automated system updated to add the marking functionality. The Sudbury TC indicated that it had begun manually stamping “Protected B” on the documents within a few days of being informed of the recommendation. If feasible, the ABSB will modify the automated system to ensure that “Protected B” is printed in the proper manner on the documents. Until the automated system is changed, the Sudbury TC will continue to ensure “Protected B” is manually stamped on the documents.
+Introduction
+The Canada Revenue Agency (CRA) enters into written collaborative arrangements (WCAs), such as Memoranda of Understanding (MOUs), with federal, provincial and territorial departments and agencies to improve the efficiency and effectiveness of program delivery.
+In June 2008, a MOU between the CRA and the Ontario Ministry of Government and Consumer Services, now the Ministry of Government Services, was signed. The purpose of this MOU is to establish the administrative framework that governs the relationship between the CRA and Ontario with respect to Ontario's adoption of the existing CRA Business Number (BN) as its unique identifier for businesses.
+The CRA has established processes and systems to manage BNs, which serve as unique identifiers for businesses in the various programs administered by the CRA. To integrate Ontario's system of business identifiers with the federal numbering system, Ontario requests that the CRA assign BNs to businesses for the purpose of their participation in Ontario government programs. The CRA retains a registry of all BNs and related provincial program identifiers. The province maintains its own repository for BNs known as the Ontario Business Directory. The province of Ontario submits business registration data electronically so that it automatically updates the CRA’s BN database. Business registration data that cannot be processed automatically are forwarded to the Sudbury Tax Centre (TC) for resolution and manual entry into the BN database.
+The Client Relations Directorate within the Strategy and Integration Branch (SIB) is responsible for managing all the WCAs and maintains a repository to assist CRA staff in the communication and exchange of information and service arrangements. The Assessment and Benefit Services Branch (ABSB) is responsible for functional direction of the BN registration process. The operational activities in relation to this MOU are conducted in the Sudbury TC within the Ontario Region. The Security and Internal Affairs Directorate (SIAD) of the Finance and Administration Branch (FAB) is responsible for enforcing and ensuring compliance with security-related policies and in supporting the CRA in meeting its security-related legal obligations.
+Focus of the Audit
+The objective of this audit was to provide assurance that the use and security of the information received by the CRA complies with the terms and conditions set out in the MOU.
+The methodology for this audit consisted of interviews, observation, and document review. It did not involve testing of general computer controls or the security of automated systems.
+Examination work was performed between April and June 2013 and included a visit to the Sudbury TC.
+The audit was conducted in accordance with the International Standards for the Professional Practice of Internal Auditing.
+Findings, Recommendations and Action Plans
+1.0 Compliance with Policies, Procedures, Laws, and Regulations
+1.1 Use of Ontario Business Registration Information
+According to the MOU, the business registration information received from Ontario Government Ministries is to be used by the CRA solely for the administration and enforcement of the
+Income Tax Act
+(ITA), the
+Excise Tax Act
+(ETA), the
+Canadian Pension Plan
+(CPP) and the
+Employment Insurance Act
+(EIA). Employees should be aware of the intended use of this information and understand their responsibility to keep the data secured.
+Based on interviews and a demonstration of the process for handling information received under this MOU, the information was used to update the CRA BN database which is secured by the CRA general computer controls. The information from that database was then used in administering and enforcing the legislation cited above.
+The automated system that receives the information under this MOU is designed to automatically update the BN database except for registration transactions which cannot be automatically processed because of data that does not conform to system validation requirements. The system then generates exception documents that can be accessed by authorized employees at the Sudbury TC. These employees review the exception documents and correct the information provided or obtains the missing information and then updates the BN database.
+During interviews and a demonstration of the process for handling information received under this MOU, the audit team noted that the authorized employees are aware of their responsibilities with respect to use of the information. This information is not shared beyond the personnel authorized to deal with this exceptions workload. This limited circulation reduces the opportunity for unauthorized use of the information by other personnel.
+Interviews with employees and managers responsible for the MOU information revealed that they were aware of their obligations with respect to the Code of Ethics and Conduct. Our testing confirmed that these personnel had formally indicated that they had read and understood the Code. There was no indication during the interviews or the demonstration that the information was used for any other purposes than those specified in the MOU.
+1.2  Access to Ontario Business Registration Information
+Access to the Ontario Business Registration information must be in accordance with the CRA security requirements and provided on a “need-to-know” basis. Interviews with managers and staff revealed that approximately five to ten employees are granted access to the information at any point in time. Their access to the required automated processes under this MOU is administered through the general access control regime that secures the CRA computing environment.
+These roles are monitored through semi-annual reviews known as Employee System Access Review (ESAR), which are supported by a national tracking system which is not accessible to Sudbury personnel. The ESAR tool is designed to allow managers to control the roles and the consequent authorization to access the automated processes required for process exceptions. The audit team’s testing revealed that the ESAR report associated with the most recent review in December 2012 had been used by managers to confirm that only authorized employees in the unit had access to the information.
+1.3  Disclosure of Ontario Business Registration Information
+Based on interviews with managers and staff, the Ontario Business Registration information received under this MOU is not shared within or outside of the CRA before it is used to update the BN database. The audit team did not observe and were not made aware of any instances in which the information was disclosed to personnel other than those authorized within the processing unit.
+2.0 Safeguarding of Information
+Information received from the Ontario government must be handled, stored and disposed of in accordance with the requirements of the MOU and CRA policies and guidelines.
+According to interviewees, security training related to the handling, storage and disposal of documents is provided as part of the initiation activities when employees start working at the CRA. The authorized employees responsible for this workload in the Sudbury TC attended the most recent annual security awareness refresher training sessions. A control list for employee attendance at the most recent annual awareness sessions in March 2013 was obtained and reviewed by the Internal Audit team to confirm attendance.
+2.1  Handling of the Information
+Based on interviews and the documentation describing the automated system, the information is received electronically and processed automatically. The CRA automated system controls are designed to thoroughly screen for viruses or related threats to any files entering the CRA computing environment.
+The employees handling the information provided under this MOU have the correct security classifications according to a review of the Manager Self-Service
+Footnote
+1
+records of those classifications.
+Based on interviews and observation, physical access to information at workstations is controlled in accordance with the CRA security guidelines through local TC security guards. Use of the workstation computers is controlled through the general access controls that cover the entire CRA Information Technology environment.
+Swipe cards and security keypads requiring access codes restrict entry into the room in which servers are housed. These swipe cards and access codes are provided only to authorized personnel. This was based on interviews with Information Technology and local Security personnel and on testing which included observation of those attempting to enter the secure server rooms.
+Managers and staff indicated that they were aware of the security incident procedures and were able to appropriately describe the protocol if such an incident were to occur.
+2.2  Storage and Disposal of the Information
+Based on interviews and a demonstration of the process, hardcopy exception documents are destroyed immediately after they are used, generally in less than a day after they are printed. They are placed in classified waste bins and destroyed as part of the bulk waste disposal procedure which is applied to all classified waste within the TC. The updates to the BN database are recorded in the diary entries associated with each BN and are retained for BN processing.
+2.3  Security Marking on Documents
+The business registration data received under this MOU are processed automatically. For those registrations for which the data is complete and the corresponding data in the BN database can be found, the BN records can be updated or created and no manual intervention of CRA personnel is required. As mentioned above, for those registrations which do not satisfy these automated processing requirements, "exception" documents are printed which indicate why the registration could not be processed automatically.
+These printed exception documents were observed to be deficient in one particular aspect that was not in accordance with CRA security policies and guidelines. Specifically, these documents are not marked with the level of required protection that guides employees regarding how these documents should be treated.
+During a demonstration of the process for handling information received under this MOU, the audit team observed that the printed "exception" documents were not marked with the required protection classification, in this case "Protected B"
+Footnote
+2
+. Without this marking, there is potential for the documents to be treated with less than the required level of care in terms of security.
+Recommendation
+Printed exception documents should be marked
+“Protected B”.
+Action Plan
+The SIAD within FAB contacted the functional owner in July 2013 to verify the feasibility of having the automated system updated to add the marking functionality. The Sudbury TC indicated that it had begun manually stamping “Protected B” on the documents within a few days of being informed of the recommendation. If feasible, the ABSB will modify the automated system to ensure that “Protected B” is printed in the proper manner on the documents. Until the automated system is changed, the Sudbury TC will continue to ensure “Protected B” is manually stamped on the documents.
+Conclusion
+Overall, the CRA is in compliance with the terms and conditions governing the use, communication and security of information as provided in the MOU. However, there is an opportunity to improve controls over the handling of information in terms of proper marking of the protection level on printed exception documents.
+Footnotes
+Footnote 1
+The Manager Self-Service (MSS) is a computer application linked to the CRA Corporate Administration System (CAS), which supports all of the Agency’s financial, materiel, administration, human resources and payroll functions.
+Return to footnote
+1
+Referrer
+Footnote 2
+There are three categories of Protected Information. The category is determined and marked based on the degree of potential injury if the information is compromised ("Protected A" – low; "Protected B" - medium; "Protected C" - high.)  The CRA Guidelines for Performing a Risk Assessment to Identify the Category and Level of the Information specifies as an example “information obtained from other governments or departments/agencies in confidence” as requiring protection at the “Protected B” level.
+Return to footnote
+2
+Referrer
+Page details
+Report a problem on this page
+Date modified:
+2013-10-18

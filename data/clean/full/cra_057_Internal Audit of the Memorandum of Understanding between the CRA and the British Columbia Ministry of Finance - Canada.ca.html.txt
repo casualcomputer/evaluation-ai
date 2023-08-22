@@ -1,0 +1,82 @@
+Internal Audit of the Memorandum of Understanding between the CRA and the British Columbia Ministry of Finance
+Final report
+June 2015
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+1.0 Compliance with Policies, Procedures, Laws and Regulations
+2.0 Safeguarding of Information
+Conclusion
+Acknowledgement
+Executive Summary
+Background:
+The Canada Revenue Agency (CRA) enters into memoranda of understanding (MOUs) and other agreements with federal, provincial, and territorial departments and agencies to improve the efficiency and effectiveness of program delivery. The current MOU between the CRA and the British Columbia Ministry of Finance (BCMoF) became effective on March 29, 2010, replacing the 1998 version.
+The purpose of the MOU is to establish an administrative framework for information exchanged between the CRA and the BCMoF, and to set out the terms and conditions that apply to the release of information. The MOU supports the development of joint initiatives which promote cooperation and mutual assistance to maintain and improve the efficiency of tax administration.
+Objective:
+The objective of this audit was to provide reasonable assurance that information (relating but not limited to liquor tax, property tax, sales tax, etc.) received by the CRA from the BCMoF is:
+used, disclosed, retained, and disposed of in compliance with the terms and conditions set out in the MOU and the federal and provincial laws providing for its use, disclosure, retention, and disposition; and
+protected in accordance with the security processes and procedures outlined in paragraph 5.1 of the MOU.
+Conclusion:
+In the course of this audit we found information was used in accordance with the requirements of the MOU and CRA policies and guidelines. CRA was in compliance with the terms and conditions set out in the MOU, with the exception of the second finding. Opportunities exist for improvement through better tracking of requested and received information, providing guidelines on timeframes for retention and destruction of information, and updating MOU requirements to reflect current Government of Canada data erasure standards.
+Action Plan:
+The Strategy and Integration Branch (SIB), Client Relations, Pacific Region, currently has a process for tracking information using separate files in a shared drive. Client Relations, Pacific Region, has recently developed a process to consolidate a listing of requested and received information. (
+SIB has indicated that this action item has been completed.)
+The SIB will provide advice and guidance as to the retention and disposition of BCMoF information, based on Records Disposition Authorities. (To be completed by March 31, 2016.)
+The SIB will work with the BCMoF to ensure that the MOU reflects current Government of Canada standards for the deletion of information on backup tapes. (To be completed by March 31, 2016.)
+Introduction
+The Canada Revenue Agency (CRA) enters into memoranda of understanding (MOUs) and other agreements with federal, provincial, and territorial departments and agencies to improve the efficiency and effectiveness of program delivery.
+The Strategy and Integration Branch (SIB) in the CRA has primary responsibility for MOUs. It ensures that the CRA and other parties to the MOUs satisfy their mutual obligations under the agreements, such as using information exchanged only for the purposes intended and for safeguarding the exchanged information.
+The current MOU between the CRA and the British Columbia Ministry of Finance (BCMoF) became effective on March 29, 2010, replacing the 1998 version. The exchange of information is authorized under a number of legislative authorities, including Section 61 of the
+Canada Revenue Agency Act
+, which authorizes the CRA to enter into contracts, agreements or other arrangements with governments, and Paragraph 65(2)(a) of the
+Income Tax Act
+(British Columbia), which authorizes the BCMoF to enter into an information sharing agreement with the CRA.
+The purpose of the MOU is to establish an administrative framework for information exchanged between the CRA and the BCMoF, and to set out the terms and conditions that apply to the exchange of information. The MOU supports the development of joint initiatives which promote cooperation and mutual assistance to maintain and improve the efficiency of tax administration.
+The MOU between the CRA and the BCMoF contains a reciprocal internal audit clause requiring both parties to conduct periodic internal audits on the protection of information exchanged.
+The MOU liaison between the CRA and the BCMoF is the Account Executive, Pacific Region, Provincial and Territorial Affairs Division, Information and Relationship Management Directorate, SIB and the Intergovernmental Relations Advisor who works with the Account Executive.
+Information received from the BCMoF includes data on sales taxes, liquor taxes and property taxes that the province collects under provincial legislation. CRA also requests information from the BCMoF on an ad-hoc basis. A list of these requests is kept by the Account Executive.
+Information from the BCMoF is received by way of encrypted emails or password protected CDs. The Account Executive or the Intergovernmental Relations Advisor forwards the information by encrypted email to the appropriate areas. The Business Intelligence and Quality Assurance Division (BIQA) of the Compliance Programs Branch (CPB) in the Pacific Region is the recipient of the information. BIQA stores the information on a restricted access shared drive which is accessed on a need-to-know basis.
+BIQA uses the information to develop workload for prospective income tax and goods and services tax audits for the Small and Medium Enterprises Directorate of the CPB.
+Focus of the Audit
+The objective of the audit was to provide reasonable assurance that information received by the CRA from the BCMoF is:
+used, disclosed, retained, and disposed of in compliance with the terms and conditions set out in the MOU and the federal and provincial laws providing for its use, disclosure, retention, and disposition; and
+protected in accordance with the security processes and procedures outlined in paragraph 5.1 of the MOU.
+The audit was conducted from May 2014 to October 2014 in the Pacific Regional Office and in the BIQA Division of CPB in the Pacific Region.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Findings, Recommendations and Action Plans
+1.0 Compliance with Policies, Procedures, Laws and Regulations
+The MOU specifies that information received from the BCMoF is to be used solely for the administration and enforcement of the
+Income Tax Act
+(Canada), the
+Income Tax Act
+(British Columbia), various other tax legislations, and for the purposes stated in the MOU.
+Evidence indicated that the information received from the BCMoF was used solely for the purposes stated in the MOU. The information was managed through a central liaison. Access to this information was restricted on a need-to-know basis and it was used in BIQA by analysts for workload development purposes. User access was managed and kept current. Internal Audit found no instance of unauthorized disclosure or use of BCMoF information.
+There is no requirement in the MOU to centrally track all information received from the BCMoF. For this audit, a list of incoming information was compiled by the central liaison from a restricted access shared drive. The central liaison also had a list of requested information. These records were not always complete. Since conducting internal audits is a requirement of the MOU, keeping a complete centralized list of information received, its use and its distribution provides an audit trail and would be considered a best practice. A centralized list would also provide tracking continuity in the event of staff turnover.
+Recommendation:
+Though there is no specific requirement in the MOU to keep a centralized list of information received from the BCMoF, as a best practice and for easy tracking, the SIB Client Relations, Pacific Region, should keep a list of information requested and received by the CRA from the BCMoF.
+Action Plan:
+The SIB, Client Relations, Pacific Region, currently has a process for tracking information using separate files in a shared drive. Client Relations, Pacific Region, has recently developed a process to consolidate a listing of requested and received information. (SIB has indicated that this action item has been completed.)
+2.0 Safeguarding of Information
+Information was received, handled, protected, and stored in accordance with CRA security procedures and requirements. Some inconsistencies between erasure procedures noted in the MOU and Government of Canada security procedures and requirements were noted.
+Information was transmitted by encrypted email or password protected CD. Employees were aware of the requirements on how to handle confidential information. All employees had the required security clearance. Information was kept on shared drives and access was restricted to analysts involved in the workload development projects.
+The MOU specifies that information that is no longer required needs to be either returned or destroyed in a secure manner, and CRA has information management policies and procedures in place to address this requirement. Internal Audit found no instances where information received had been mishandled or retained beyond required disposition periods. There were some instances where we noted a lack of awareness among certain users of BCMoF information on the retention and disposition period for the information stored on shared drives and Outlook.
+The responsibilities for maintenance of backup tapes were moved to Shared Services Canada (SSC) in August 2011. The MOU stipulates portable media (such as tapes) be erased using triple overwrite (a method used to reduce the risk that overwritten data be recovered by overwriting media three times). Based on information from CRA ITB, SSC erases data backup tapes by using a single overwrite method, a practice that is acceptable based on the Government of Canada Standards.
+Recommendations:
+The SIB should communicate policies and procedures to the users of BCMoF information in regards to the requirements of data retention and destruction of BCMoF information.
+The SIB should consult with FAB to ensure the methods of erasure of electronically stored information stipulated in the MOU reflect current practices and policies, and modify the MOU if necessary.
+Action Plan:
+The SIB will provide advice and guidance as to the retention and disposition of BCMoF information, based on Records Disposition Authorities. (To be completed by March 31, 2016.)
+The SIB will work with the BCMoF to ensure that the MOU reflects current Government of Canada standards for the deletion of information on backup tapes. (To be completed by March 31, 2016.)
+Conclusion
+In the course of this audit we found information was used in accordance with the requirements of the MOU and CRA policies and guidelines. CRA was in compliance with the terms and conditions set out in the MOU, with the exception of the second finding. Opportunities exist for improvement through better tracking of requested and received information, providing guidelines on timeframes for retention and destruction of information, and updating MOU requirements to reflect current Government of Canada data erasure standards.
+Acknowledgement
+In closing, we would like to acknowledge, recognize and thank SIB and the BIQA Division of CPB
+for the time dedicated and the information provided during the course of this engagement.
+Page details
+Report a problem on this page
+Date modified:
+2015-06-25

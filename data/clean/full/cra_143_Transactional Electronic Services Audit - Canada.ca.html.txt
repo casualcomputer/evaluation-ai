@@ -1,0 +1,236 @@
+Transactional Electronic Services Audit
+Final Report
+Corporate Audit and Evaluation Branch
+October 2008
+Table of Contents
+Executive Summary
+Introduction
+Objective and Scope of Audit
+Findings, Recommendations and Action Plans
+1.0 Governance and Management Controls
+1.1   Electronic Services Strategy
+1.2   Business Cases
+1.3   Roles and Responsibilities
+1.4   Threats and Risk Assessments (TRAs) and Privacy Impact Assessments (PIAs)
+2.0 Managing for Efficiency and Effectiveness
+2.1   Marketing Strategy and Plans
+2.2   User Consultation and Research Tools
+2.3   Cost Management
+2.4   Performance Indicators (Take-up Rates)
+3.0 Technical Performance Measurement and Reporting
+3.1   IT Performance Standards and Monitoring
+Conclusion
+Executive Summary
+Background:
+Since 1993, the Canada Revenue Agency (CRA) has been offering transactional electronic services for both individuals and businesses. Individuals may file income tax returns over the Internet or by telephone; obtain information about their income tax account online, and download application forms for the Canada Child Tax Benefit / Universal Child Care Benefit. Businesses may obtain a business number, file corporation income tax returns and GST/HST returns, and submit T4 and other information returns using online facilities. A 2005 report by A
+ccenture
+[Footnote 1]
+ranked Canada first in the world in terms of government services offered on the Internet. The CRA’s efforts have consistently been recognized nationally at the Government Technology Exhibition. The CRA has received many awards over the last five years, including 11 for Government Online (GOL) work.
+The Assessment and Benefits Services Branch (ABSB) is the primary business owner and is responsible for maintaining taxpayer information and processing tax returns for individuals and businesses. Other branches of the CRA have responsibilities as well such as the Public Affairs Branch (PAB) in regard to the appearance and contents of the CRA website and in regard to the review of marketing plans for transactional electronic services.
+Audit issues frequently identified in the management of electronic services in other jurisdictions such as Australia, the United Kingdom and the United States, include incomplete cost information, lack of performance measures, no quantification of the likely demand and no target take-up rates. These risks can also compromise the attainment of the CRA objectives
+[Footnote 2]
+“to offer more efficient and effective delivery of government programs” and to “provide better service to Canadians.”
+Objective and Scope:
+The objective of the audit was to determine whether the governance framework and existing management controls were adequate to ensure that electronic services are delivered in an effective and efficient manner.
+The scope of the audit included 11 transactional services. Internal audit criteria were applied to all of the 11 services to assess whether the controls were in place. A case study approach was adopted for three electronic services (T1 NETFILE, GST/HST NETFILE and GST/HST TELEFILE) to assess the effectiveness of controls.
+The examination phase of the audit was conducted from July 2007 to April 2008. Compliance issues and IT risks were not included in the scope of this audit as compliance was recently covered by an OAG audit and IT risk is covered by the  2007-2010 Corporate Audit and Evaluation Branch (CAEB) Business Plan.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Conclusion:
+The CRA is an acknowledged leader in the development of electronic services which millions of taxpayers now use each year. As with other jurisdictions, the current challenge is tighter management of a growing suite of services.
+While the audit found that management controls were in place, there are opportunities for improvement with regard to the strategy and marketing, cost management, and performance indicators (take-up rates).
+A number of electronic services are experiencing lower than expected taxpayer participation or experiencing little growth. A documented strategy for electronic services is required to better guide the selection and evaluation of new electronic services projects and changes to existing offerings. In order to promote the use of existing and new services, marketing strategies and marketing plans should be in place. Marketing considerations need to be addressed during the development phase of electronic services, rather than after systems are designed and constructed. Performance indicators (e.g. target take up rates) should be established taking into consideration demographic factors and cost of services.
+One of the often-stated goals for the development and enhancement of electronic services is to achieve more efficient delivery of government programs. There are currently no appropriate controls to determine whether the expected savings from transactional electronic services implementation have materialized. It is recommended that an appropriate costing reporting framework capturing direct and indirect costs from all stakeholders be developed for transactional electronic services.
+Action Plans:
+ABSB commits to improve the management controls, specifically the creation of a CRA Electronic Services Strategy, improved marketing strategies and quantifiable performance indicators that include demographic and cost factors, where available, to achieve more efficient delivery of government programs.
+PAB will undertake audience-focused research prior to launching marketing activities, will translate research into marketing strategies that have realistic and measurable objectives, measure results and adjust marketing activities as required.
+ITB will establish a Service Level Agreement (SLA) template for transactional electronic services and review all SLAs by the end of the fiscal year 2008-2009.
+Introduction
+The Canada Revenue Agency (CRA) offers a variety of electronic services for both individuals and businesses. Individuals may file income tax returns over the Internet or by telephone; obtain information about their income tax account online; and download application forms for the Canada Child Tax Benefit / Universal Child Care Benefit. Businesses may obtain a business number, file corporation income tax returns and GST returns, and submit T4 and other information returns using online facilities. A 2005 report by Accenture
+[Footnote 3]
+ranked Canada first in the world in terms of government services offered on the Internet. The CRA’s efforts have consistently been recognized nationally at the Government Technology Exhibition. The CRA has received many awards over the last five years, including 11 for Government Online (GOL) work.
+Many of the electronic services that are offered by the CRA were launched within the context and with the support of the GOL initiative. The GOL started in 1999 and was sunset in 2006. From 2000 to 2006, the GOL initiative allocated over $57M to the CRA to fund online service delivery projects.
+In 2007, Canadians and their representatives filed approximately 11 million individual tax returns electronically. The T1 electronic filing participation rate was approximately 53% nationally. Options included NETFILE (filing over the Internet with NETFILE-certified tax preparation software or Web application), TELEFILE (filing over the telephone), and EFILE (filing through a tax preparer).
+A key building block in the CRA's electronic offering is My Account, which was introduced in 2003. My Account is a secure online service that allows Canadians to view and manage specific information related to their income tax returns, installment payments, direct deposit, CCTB payments, GST/HST credit payments, and more. The CRA continues to add more services to My Account each year.
+Introduced in 2006, My Business Account provides secure and convenient online access to personalized business account information and services for GST/HST, Corporation Income Tax, Payroll Deductions, Excise Tax/Duty, and Other Levies accounts. As of October 22, 2007, business owners can authorize their representatives (including their own employees) to access their business account information online.
+The Assessment and Benefits Services Branch (ABSB) is the primary business owner and is responsible for maintaining taxpayer information and processing tax returns for individuals and businesses. Other branches also have responsibilities related to the CRA website and delivery of electronic services: The Taxpayer Services and Debt Management Branch (TSDMB) is responsible for key content on the CRA website, the Public Affairs Branch (PAB) is responsible for reviewing marketing plans and activities and has overall responsibility for the appearance of the content on the website, the Information Technology Branch (ITB) manages the information technology infrastructure, architecture, and operations; ensures system availability and capacity to conduct business over the Internet, and implements measures to mitigate Internet security risks.
+O
+bjective and Scope of Audit
+The objective of the audit was to determine whether the governance framework and existing management controls were adequate to ensure that electronic services are provided in an effective and efficient manner. Lines of enquiry were Governance, Managing for Efficiency and Effectiveness, and Performance Measurement and Reporting.
+The scope of the audit included the following transactional services: EFILE, TELEFILE, NETFILE, Business Registration Online (BRO), My Account, GST/HST NETFILE, GST/HST TELEFILE, T4 Internet Filing, Corporation Internet Filing (T2 NETFILE), My Business Account and Represent A Client. Internal audit criteria based on the lines of enquiry were applied to all of the listed services to assess whether controls were in place. The effectiveness of controls was assessed through a case study approach for T1 NETFILE, GST/HST NETFILE and GST/HST TELEFILE.
+Compliance issues and IT risks were not included in the scope of this audit. At the time of the audit, compliance was being addressed through responding to an OAG report
+[Footnote 4]
+while IT risks were being addressed by the CRA’s Corporate Audit and Evaluation Branch (CAEB) Business Plan.
+The examination phase of the audit was conducted from July 2007 to April 2008. The audit was conducted in ABSB, TSDMB, ITB, PAB and F&A.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Findings
+, Recommendations and Action Plans
+1.0 Governance and Management Controls
+In order to assess governance related to electronic services in the CRA, four aspects were considered:
+Electronic Services Strategy;
+Business Cases;
+Roles and Responsibilities of Internal Stakeholders; and
+Threat and Risk Assessments (TRAs) and Privacy Impact Assessments (PIAs).
+1.1 Electronic Services Strategy
+An electronic services strategy supports strategic decision-making by helping to ensure that investments in electronic services are aligned with the strategic objectives of the CRA. The lack of such a document can lead to misallocation of resources and duplication of efforts. The strategy should outline the vision for electronic service delivery; establish objectives for electronic services and clear criteria for the approval of investments in electronic service delivery.
+A draft of a CRA electronic services strategy was developed in 1999 in consultation with all key agency stakeholders and was announced as “launched” in the Agency’s 1999-2000 Performance Report to Parliament. The document articulated a vision, strategic targets and a multi-year action plan. However, the strategy was never formally adopted by the CRA. Internal audit found no evidence that this strategy was being used to guide the development of electronic services or that elements of a new strategy were being created.
+As of July 2008, a draft CRA Service Strategy supporting an integrated approach to service delivery was being reviewed by senior management of the CRA. If adopted, it would provide a common direction and philosophy that would guide CRA branches, programs, functions and regions as they cooperatively design and implement products and services. By itself, this document would not provide sufficient details or guidance for the development of electronic services but could form a basis for the developing of an electronic service strategy.
+Recommendations
+ABSB should coordinate the development of an overall CRA electronic service strategy that leverages horizontal integration and supports the CRA Service Strategy.
+ABSB should ensure that a strategy is in place to guide the development and delivery of its individual transactional electronic services.
+Action Plans
+ABSB will coordinate the development of an overall CRA electronic service strategy that leverages horizontal integration, supports the CRA Service Strategy and the AMC-Strategic Initiatives (Enhanced Services through Web Technologies and aggressively develop My Account/My Business Account).
+The strategy will focus on the Agency’s secure, transactional electronic services for individuals, businesses, and their representatives. It will look at the current state of transactional electronic services and barriers to expansion and create an action plan to address these. The intent of this strategy will be to guide the development and delivery of future transactional electronic services. The intention is to have this strategy fully developed by December 2009.  In addition, ABSB will ensure that all branch and directorate program strategies include electronic services as an important element that will contribute to the success of program delivery.
+1.2    Business Cases
+Business cases document the information necessary to make a decision about whether a project should proceed and help management develop and implement the service. During the audit, business cases or equivalent documents of the 11 transactional services were reviewed to determine if they had been prepared and submitted for approval according to policy.
+[Footnote 5]
+The audit found that 10 electronic services had developed business cases or equivalent (project charters, concept reports) and had submitted these documents for approval at an appropriate level. However, based on procedures performed, the
+Briefing Book
+provided for BRO (Business Returns Online) had significant deficiencies including no information on costs, no implementation plan, no information on roles and responsibilities and no information on performance measurement.
+In the case of GST/HSTTELEFILE, project costs were estimated to be less than $1 million. As a result, submission of a business case to the Resource and Investment Management Committee (RIMC) was not required. ABSB did provide a concept report in place of a business case; however, it did not include complete cost information, description of alternative options or information on how the project is aligned with CRA’s strategic direction.
+Business cases for the other two case studies (T1 NETFILE and GST/HST NETFILE) included objectives that supported the CRA’s business plans, a phased-in approach, project deliverables, a timeframe, and a forecast of costs that formed the baseline for monitoring progress of the projects and measuring performance. However, they did not provide a complete description of the current process, required resource allocations and projected maintenance costs to establish a basis for the investment decision. Alternative options were not provided nor were they evaluated through cost-benefit analysis.
+Recommendation
+ABSB should ensure that viable alternative options are developed and documented as part of the business case development process to help make informed investment decisions and ensure electronic services optimize CRA goals and objectives.
+Action Plan
+ABSB will present options for electronic services, where viable, at the Preliminary Project Approval stage and will develop and document more detailed proposals for all options funded by RIMC.
+1.3 Roles and Responsibilities
+Based on documentation review and interviews, roles and responsibilities of internal stakeholders were established, communicated and understood by the parties involved.
+1.4
+Threats and Risk Assessments (TRAs) and Privacy Impact Assessments (PIAs)
+TRAs and PIAs document risks of conducting transactions over the internet and privacy issues. Based on documentation review, a TRA was found to be completed for each electronic service. Each TRA was signed by a representative of the responsible security division; and were found to be up to date given the degree of changes in the respective services.
+Based on documentation review, PIAs were also completed and approved where required.
+2.0 Managing for Efficiency and Effectiveness
+The CRA’s Corporate Business Plan 2007-2010 includes an objective “to offer more efficient and effective delivery of government programs” as well as “provide better service to Canadians.”
+In order to assess whether adequate controls were in place to ensure that electronic services are delivered in an effective and efficient manner, four areas were examined:
+Marketing Strategy and Plans;
+User Consultation and Research Tools;
+Cost Management; and
+Performance Indicators (Take-up Rates)
+2.1 Marketing Strategy and Plans
+A marketing strategy is an overall document that includes quantifiable objectives in line with corporate strategy, a definition of the service offering and a profile of target users and clients. It guides the development of marketing plans and governs funding allocation. Currently, there is no overall marketing strategy for services at the CRA.
+CRA’s achievements with respect to electronic services have been accomplished without the support and guidance of an overall marketing strategy. The existence of a strategy would help ensure that marketing activities are aligned with corporate objectives, communication approaches and messages are coherent and funding is channelled to appropriate electronic services.
+The CRA has started to develop integrated marketing strategies for defined target groups such as businesses, individuals, benefit recipients and intermediaries (tax preparers). This should help prioritize efforts and resources where they are needed the most.
+Marketing plans should be developed based on the marketing strategy and used to promote a service whenever there is a significant gap between the current and the target take-up rate. The development of marketing plans requires PAB’s involvement and should be an integral part of business case development.
+Eleven marketing plans or equivalent, covering 8 of the 11 electronic services, were assessed for completeness. Of the 11 marketing plans or equivalent reviewed, six (55%) had no quantifiable objectives and six (55%) had no information on how the effectiveness of marketing activities would be assessed. None of the plans had an adequate cost/benefit analysis; five (45%) had no information on the costs of marketing activities. Overall, there was no consistency in the format or contents of marketing plans which may be due in part to the lack of a corporate marketing strategy.
+Marketing considerations were not always addressed during the conception and development of electronic services. PAB’s Branding and Marketing Division was sometimes involved only once a service was ready to be launched. The development of a marketing plan was often dependent on the availability of funds for marketing (My Account, BRO). Sometimes, a marketing plan was delayed due to logistical reasons (My Business Account) resulting in a launch without a marketing plan. Five of the 11 services (45%) were launched without formal marketing plans, often through the use of a soft launch (little or no marketing activities).
+Apart from the formal marketing plans reviewed, numerous marketing activities are taking place in regard to electronic services such as outreach, distribution of software, online tours and promotion of electronic services within CRA’s publications and Web site. An Inter-Branch Electronic Services Marketing Committee meets on a regular basis and a compendium of marketing activities for ABSB and TSDMB has been created to document these activities and share information about marketing activities across divisions. The document describes target markets, identifies responsibilities for marketing, messages to be conveyed and basic timelines. However, it contains no quantifiable objectives, no information on costs and no information on how marketing efforts will be assessed.
+Recommendations
+The approach to marketing can be improved by implementing the following measures:
+PAB should leverage horizontal integration through developing an integrated marketing strategy that takes into account research on clients’ needs.
+ABSB should ensure that future business cases address marketing considerations, contain quantifiable marketing objectives and cost-benefit analysis. PAB should be involved in the development of these plans.
+Funding for marketing activities should be determined based on a horizontal approach in consultation with PAB. Allocation of marketing and advertising resources should be
+justified based on a cost/benefit analysis taking into account market research and demographically-determined quantifiable objectives.
+Action Plans
+ABSB
+ABSB agrees with Recommendation #2 and #3 where it impacts ABSB. Recommendations #1 and #3 require PAB action. As individual program areas in ABSB do not have the knowledge or capacity to develop full marketing and advertising plans, ABSB would need PAB involvement as a stakeholder in all projects from the onset. ABSB will ensure that a marketing component, which includes projected costs, is added to all future business cases to ensure this important aspect of promoting electronic services is not overlooked. ABSB will coordinate the analysis and prioritization of marketing and advertising funding through Directorate Management Teams, with annual discussion at the branch level.
+PAB
+PAB agrees with these recommendations as being good business practice. Since PAB has expertise in marketing and communications, it has the ability to work with developers of e-services from project inception through the development and implementation of marketing plans.
+PAB can leverage horizontal integration developed from their ongoing work on Agency horizontal activities as it develops integrated marketing strategies that:
+recommend and implement appropriate audience-focused research related to market sizing, understanding potential barriers to implementing new services, etc. prior to launching marketing activities;
+synthesize research results into marketing strategies that have realistic and measurable objectives; and
+measure results and adjust marketing activities as required.
+PAB should be involved in discussions with ABSB, from project inception, to develop the marketing components of future business cases – the marketing considerations would contain quantifiable marketing objectives and cost-benefit analysis. Once funding for marketing activities is approved, PAB should lead the marketing activities, consulting with ABSB and relevant horizontal teams.
+2.2 User Consultation and Research Tools
+User feedback in the form of user surveys, usability testing and focus groups can be used, as appropriate, to improve the efficiency and effectiveness of services. In the vast majority of cases (91%), consultation had taken place prior to the development of the electronic service. Similarly, 91% of electronic services had collected user feedback information as needed to improve the effectiveness of the service. External usability testing took place for three electronic services, user surveys for seven electronic services and focus groups for two electronic services.
+Research was also conducted to identify why clients do not use electronic services. Examples of reasons provided by clients are the wish to provide receipts and information slips with the return to avoid future contact (T1 electronic returns), perceived value of the service (
+My Business Account
+) and concerns over the security of transactions over the internet.
+[Footnote 6]
+The CRA is considering a number of initiatives to target non-users. For example, the E-documents initiative would allow taxpayers to file electronic version of their receipts together with their income tax return.
+2.3 Cost Management
+In making decisions regarding the approval, development, implementation and ongoing maintenance of electronic services, it is important that decision-makers have reliable cost information.
+There are two distinct phases to cost management for electronic services, the project phase and the maintenance phase. During the project phase, the RIMC provides oversight and there is a formalized process for cost reporting. Once the project is in maintenance phase, it falls under CRA’s Costing Policy
+[Footnote 7]
+which applies a fair, consistent and comprehensive approach to the costing of CRA activities. CRA’s current Costing Policy defines full costs as direct program costs (salary costs and benefits, furniture, IT equipment, office supplies, travel, training), corporate support costs (PAB, F&A, Human Resources, IT), IT development levies (to cover development of new applications or enhancements to existing systems) and costs for services provided by the Department of Justice.
+Costing information for 11 electronic services was reviewed to determine if appropriate methods had been used to capture costs. Costing reports for My Business Account were found to contain information about all costs incurred and therefore, did reflect the full cost of providing the electronic service (My Business Account was still in project phase at the time of the examination).
+With the exception of My Business Account, full costs were not fully tracked for the services reviewed. Costing documents were found to be incomplete in terms of category of costs and missing periods throughout the lifecycle of the electronic service. Much of the documentation reviewed contained information on estimated development costs but little information on actual costs during the project or maintenance phase of electronic services.
+For the three case studies, the following was noted:
+for T1 NETFILE, cost documentation was not provided for all years;
+for T1 NETFILE, information presented in cost documents represented combined costs the Individual Returns and Payments Processing Directorate (IRPPD) had incurred for T1 NETFILE, T1 TELEFILE and T1 EFILE and did not include other stakeholder costs such as ITB, Helpdesk, PAB, etc; and
+for GST/HST NETFILE and GST/HST TELEFILE, costing reports presented one ITB cost and one TSDMB HelpDesk activity cost for GST/HST NETFILE, GST/HST TELEFILE and Electronic Data Interchange (EDI).
+For these services, any savings resulting from service implementation had only been estimated and were not based on detailed analysis, objective data or scope to include a reasonable breadth of material indirect costs. There has been no tracking or analysis of costs to determine whether savings (e.g. as documented in the T1 NETFILE business case) have actually materialized.
+Recommendation
+ABSB needs to consider the development of a cost reporting framework for electronic services. This framework should reproduce the key elements that are included in the My Business Account Cost Reporting Framework.
+Action Plan
+ABSB agrees with this recommendation and will consider developing a cost reporting framework that captures key elements, as in the My Business Account Cost Reporting Framework, to better track and analyze costs to determine whether savings/benefits have materialized.
+2.4    Performance Indicators (Take-up Rates)
+The main performance indicator of an electronic service is the take-up rate, which is a measure of the number of users of a service in proportion to the total number of eligible users. A target take-up rate is different from an expected take-up rate. The target take-up is the take-up that will optimize financial savings taking into account corporate objectives. The expected take-up is the take-up expected for a certain period of time. The latter figure may be based on yearly demographic changes and/or marketing efforts. Documentation review and interviews indicates some confusion between these two concepts.
+According to the CRA Corporate Business Plan 2007-2008 to 2009-2010, take-up rates are the measure of success for electronic services, which means target take-up rates should have been established for all 11 electronic services reviewed. However, at the time of the audit, some electronic services did not have a quantifiable target for take-up (My Account, My Business Account, BRO, Represent a Client). In the case of electronic individual and business returns (T1 NETFILE, EFILE, T1 TELEFILE, T2 NETFILE, T4 NETFILE, GST/HST NETFILE, GST/HST TELEFILE), quantifiable targets have been replaced with “upward trend” in corporate reporting.
+A review of business cases revealed that expected take-up rates but not target take-up rates were established as part of the business cases for all electronic services. Except in the case of My Business Account, expected take-up rates were not based on an assessment of demand.
+Initial expected take-up rates tended to be conservative as no marketing activities were being planned (soft launch) for the initial phase. Actual take-up rates for some services have been below expectations (My Account, My Business Account), experience little growth (T1 NETFILE, EFILE) or are declining (T1 TELEFILE, GST/HST TELEFILE). Without a target take-up rate established based on service costs and demographic information, it is difficult to determine whether any of these electronic services are underperforming.
+Recommendation
+ABSB should ensure that short-term and long-term quantifiable targets for transactional electronic services take into account demographic analysis, projected full costs for the service and support CRA’s service strategy.
+Action Plan
+ABSB will ensure that short and long-term quantifiable targets are developed for transactional electronic services where the technology exists to do so and the demographics data and projected costs exist.
+3.0 Technical Performance Measurement and Reporting
+The audit reviewed the monitoring in place for technical IT and system performance. In order to assess the monitoring controls in place to report on technical performance, the following areas were examined:
+IT Performance Standards; and
+IT Performance Monitoring.
+3.1 IT Performance Standards and Monitoring
+Electronic service disruption incidents attract a high level of public attention. Clear IT performance standards should be established and monitored to proactively detect performance issues and resolve them in a timely manner. Remedial actions and steps taken to prevent recurrence must also be documented and communicated to the client.
+Service and support levels are usually documented in Service Level Agreements (SLAs).  Corporate documents, reports and SLAs were reviewed for all 11 electronic services in regard to the presence and monitoring of performance indicators covering service availability, reliability and responsiveness.
+SLAs were established for 9 of the 11 services examined. There were no SLAs established for T1 TELEFILE and T2 NETFILE. For T1 TELEFILE, some performance standards had been established in a project charter, however this document was more than 10 years old and needs updating, possibly in the form of an SLA. All electronic services had a performance measure established for service availability except T2 NETFILE, although ITB has established a service availability standard applicable for all internet applications which would cover T2 NETFILE.
+A review of SLAs revealed that most have changed little since the inception of their respective electronic services and do not necessarily reflect current monitoring and reporting practices. For example, the Mean Time to Repair Statistic (MTTR) that is being used to monitor service reliability (T1 NETFILE, EFILE, My Account and My Business Account), has never been in use or reported upon. SLAs often outline reporting requirements that were followed at first, but were relaxed afterwards and replaced with informal reporting or reporting on an ad hoc basis (T1 NETFILE, T4 NETFILE). Good communications between ITB and the function and the stability of systems have allowed more relaxed monitoring to take place, with ITB often monitoring and reporting informally to the function as needed, on an exception basis.
+In general, electronic service monitoring information is available on websites and servers but not always reported through the means of regular, formal reports from ITB to the client. This affects the quality of the monitoring since issues may not be identified in a timely manner and corrective and preventive actions that could prevent service disruptions may not be documented.
+Recommendations
+1. ABSB, in conjunction with ITB, should ensure SLAs are reviewed and updated to reflect best practices in service level management. It should be ensured that SLAs are updated and streamlined and that performance reporting requirements are adequate taking into account system stability, performance optimization and practicality.
+2. ITB, in conjunction with ABSB, should establish an electronic service performance monitoring framework outlining the reporting requirements necessary for performance optimization. Service level reports prepared by ITB should highlight service disruptions, the causes for the disruption and what was done to prevent recurrence.
+Action Plans
+For Recommendation #1, ABSB will work with ITB to ensure all SLAs are reviewed and, where necessary, updated and streamlined.
+Although Recommendation #2 is the primary responsibility of ITB, the reports currently received by ABSB are daily and more often if necessary and allow for immediate response to ensure continued provision of service to clients. It is unclear at this time what a “formal” reporting process would bring in addition to what is achieved now.
+Revenue and Accounting Systems Directorate (RASD),ITB, will be addressing SLAs on a number of fronts. A Director has been identified who will be responsible for establishing with clients (i.e. ABSB) a more generic SLA that will apply to all transactional electronic services. SLAs with unique requirements for a particular transaction will be created as required to complement the generic SLA. It is intended to have this completed by the end of the fiscal year 2008-2009.
+C
+onclusion
+The CRA is an acknowledged leader in the development of electronic services which millions of taxpayers now use each year. As with other jurisdictions, the current challenge is tighter management of a growing suite of services.
+While the audit found that management controls were in place, there are opportunities for improvement with regard to the strategy and marketing, cost management, and performance indicators (take-up rates).
+A number of electronic services are experiencing lower than expected taxpayers’ participation or experiencing little growth. A documented strategy for electronic services is required to better guide the selection and evaluation of new electronic services projects and changes to existing offerings. In order to promote the use of existing and new services, marketing strategies and marketing plans should be in place. Marketing considerations need to be addressed during the development phase of electronic services, rather than after systems are designed and constructed. Performance indicators (e.g. target take-up rates) should be established taking into consideration demographic factors and cost of services.
+One of the often-stated goals for the development and enhancement of electronic services is to achieve more efficient delivery of government programs. There are currently no appropriate controls to determine whether the expected savings from transactional electronic services implementation have materialized. It is recommended that an appropriate costing reporting framework capturing direct and indirect costs from all stakeholders be developed for transactional electronic services.
+Finally, Service Level Agreements (SLAs) between ITB and its clients covering electronic services should be updated and streamlined to make them more effective.
+Footnotes
+Footnotes
+Footnote _ftn1
+Cole, Martin and Vivienne Jupp. Leadership in Customer Service: New Expectations, New Experiences. The Government Executive Series. Accenture, April 2005, p 60. A
+ccenture
+is a global management consulting, technology services and outsourcing company.
+Return to footnote
+_ftn1
+Referrer
+Footnote _ftn2
+CRA Corporate Business Plan 2007-2010
+Return to footnote
+_ftn2
+Referrer
+Footnote _ftn3
+Cole, Martin and Vivienne Jupp. Leadership in Customer Service: New Expectations, New Experiences. The Government Executive Series. Accenture, April 2005, p 60. A
+ccenture
+is a global management consulting, technology services and outsourcing company
+Return to footnote
+_ftn3
+Referrer
+Footnote _ftn4
+2005 OAG Report – CRA Verifying Income Tax Returns of Individuals and Trusts.
+Return to footnote
+_ftn4
+Referrer
+Footnote _ftn5
+F&A Project Management Policy and RIMC’s Guidelines and Procedures.
+Return to footnote
+_ftn5
+Referrer
+Footnote _ftn6
+Strategy to have 70% of tax returns filed electronically by 2010 (2005), Qualitative Evaluation of Concept and Prototype for My Business Account on CRA Website (2005).
+Return to footnote
+_ftn6
+Referrer
+Footnote _ftn7
+F&A Manual, Resource Management Volume, Section 2: Costing Policy
+Return to footnote
+_ftn7
+Referrer
+Page details
+Report a problem on this page
+Date modified:
+2009-01-08

@@ -1,0 +1,1309 @@
+Evaluation of the Employment Insurance Maternity and Parental Benefits
+On this page
+Summary of key findings and recommendations
+Introduction
+Program description
+Evaluation approach
+Key findings
+Conclusion and recommendations
+Management Response / Action Plan
+Annexes
+Alternate formats
+Evaluation of the Employment Insurance Maternity and Parental Benefits
+[
+PDF
+- 1.1
+MB
+]
+Large print, braille,
+MP3
+(audio), e-text and
+DAISY
+formats are available on demand by
+ordering online
+or calling 1 800 O-Canada (1-800-622-6232). If you use a teletypewriter (
+TTY
+), call 1-800-926-9105.
+List of figures
+Figure 1: Coverage rates for female and male parents, 2006 to 2019
+Figure 2: Number of new claims with parental benefits by gender, 2007 to 2019
+Figure 3: Scatter plot of the average weekly number of new claims for parental benefits by men, February 2017 to September 2018, option between standard or extended parental benefits became available.
+Figure 4: Proportion of parental benefit claimants by age groups, 2007 to 2019
+Figure 5: Average duration of standard and extended parental benefit weeks, 2007 to 2019
+Figure 6: Proportion of claimants from two-parent families who shared parental benefits, 2007 to 2019
+Figure 7: Average duration of parental benefit weeks for claimants from two-parent families, 2007 to 2019
+Figure 8: Share of maternity claimants taking sickness benefits as the first benefit, 2007 to 2019
+Figure 9: Average number of weeks prior to birth of the child for claims that start with Maternity Benefits, 2007 to 2019
+Figure 10: Prevalence rate of all female parents and partners working for the same employer— 2006 to 2017
+List of tables
+Table 1: Comparison of the EI program and QPIP in 2019 for paid employees
+Table 2: Average prior year employment income for maternity and parental claimants, 2019
+Table 3: Proportion of females and males taking the full parental benefit duration entitlement, 2007 to 2019
+Table 4: Average duration of benefit weeks for female claimants, 2007 to 2019
+Table 5: Average duration of benefit weeks for male claimants, 2007 to 2019
+List of acronyms and abbreviations
+CEIC
+Canada Employment Insurance Commission
+EI
+Employment Insurance
+EICS
+Employment Insurance Coverage Survey
+ESDC
+Employment and Social Development Canada
+MAR
+Monitoring and Assessment Report
+QPIP
+Quebec Parental Insurance Plan
+UI
+Unemployment Insurance
+WWC
+Working while on Claim
+Summary of key findings and recommendations
+This evaluation assesses the Employment Insurance (EI) maternity and parental benefits for employed workers in terms of access, usage, effects, and program delivery from January 2006 to December 2019. As a result, specific measures associated with the COVID-19 pandemic are out of scope for this evaluation. The evaluation also focuses on providing early results associated with the changes introduced in Budget 2017 and Budget 2018, namely:
+allowing maternity benefits to begin as early as 12 weeks before the expected week of childbirth instead of 8 weeks (December 2017)
+allowing parents to opt between standard or extended parental benefits (December 2017)
+extending the Working While on Claim rules to maternity benefits instead of reducing benefits dollar-for-dollar when earning income while on claim (August 2018)
+providing additional weeks of benefits to parents who share parental benefits (March 2019)
+The evaluation provides results on female and male parents of newborn or newly adopted children within Canada (excluding Quebec). Since 2006, pursuant to the Canada-Québec Final Agreement on the Québec Parental Insurance Plan (QPIP), new parents in Québec have been receiving benefits under QPIP instead of EI. QPIP can be accessed at lower insurable earnings and offers more generous benefits, but at a cost of higher premiums. Evidence on QPIP is presented, where publicly available, to provide additional context around benefits available to new parents across Canada.
+The evaluation findings and recommendations are based on the analysis of multiple lines of quantitative and qualitative evidence.
+Key findings
+There are 8 key findings from the evaluation:
+Finding 1: From 2006 to 2019, close to 72% of female parents and 81% of male parents were covered by the EI program. Of them, about 90% were eligible for maternity and parental benefits. These rates were lower than those observed under the Québec Parental Insurance Plan, which has a lower entrance requirement
+Finding 2: The participation rate of male parents was relatively low over the study period (below 13%). However, early results indicate that the recent changes to parental benefits significantly increased the rate. The rate increased from 13.6% in 2016 to 18.1% in 2019. This rate was significantly lower than the 1 observed for male parents under the Quebec Parental Insurance Plan, which has more generous benefits
+Finding 3: The vast majority (85%) of new parental benefit claimants opted for standard parental benefits. Those who opted for extended parental benefits were more likely to be high-income earners, have higher family income, in couples, working in large organizations, and receiving a top-up
+Finding 4: Following recent policy changes to parental benefits, the sharing of parental benefits increased from 14.5% in 2017 to 19.9% in 2019. However, key informants still believe that employers’ perceptions on parental leave tend to differ by gender. This is due to a cultural stigma within the workplace attached to men taking leave
+Finding 5: More female claimants than male claimants served the waiting period in 2019 (159,000 and 25,000 respectively). This is because female claimants typically access maternity benefits first. As a result, a greater number of female than male claimants (14,100 compared to 1,800) had their first few weeks of benefits clawed back. This was due to earnings during the waiting period
+Finding 6: Claimants who have lost their job before the birth/adoption of their child were less likely to access their full parental benefit entitlements. This is due to the 50-week maximum rule when regular and special benefits are combined. On average, each year of the studied period, 3,300 female claimants were impacted by the 50-week rule. This was compared to less than 500 male claimants. This is due to the combination of regular, maternity and/or parental benefits
+Finding 7: Longer maternity and parental benefits duration increased the likelihood for female claimants to work for the same employer after their parental leave, while the likelihood decreased for their partners. However, for all claimants, the likelihood of having higher future employment income decreased the longer they claimed benefits
+Finding 8: Overall, the delivery (application process) of EI maternity and parental benefits was deemed effective. There was limited awareness of potential impacts on businesses of the recent changes
+Recommendations
+Based on these findings, provides the following 2 recommendations to the Department:
+Explore approaches to improve eligibility and access for parents to maternity and parental benefits, in particular spouses and partners
+Explore approaches to enhance flexibility for claimants who need to combine maternity and parental benefits with regular benefits
+Introduction
+The Employment Insurance (EI) program currently provides 6 types of special benefits designed to support workers experiencing a job separation for:
+pregnancy (maternity)
+caring for a newborn or newly adopted child or children (parental)
+illness or injury (sickness)
+caring for a critically ill family member (family caregiver for children and for adults)
+caring for a family member at the end of their life (compassionate care)
+This evaluation report specifically focuses on the EI maternity and parental benefits.
+History
+Maternity benefits were introduced to the
+Unemployment Insurance
+(UI)
+Act
+in 1971. At this point, biological mothers were eligible to receive 15 weeks of benefits at a replacement rate of 67% of their average weekly earnings. In 1980, the replacement rate, which was the same for all other UI benefits, was lowered to 60% and then lowered again to 57% in 1993 and then to 55% in 1995. Furthermore, in 1984, amendments to the UI Actintroduced benefits for adoptive parents. In 1990, 10 weeks of parental benefits for biological and adoptive parents were introduced and replaced the benefits for adoptive parents.
+Footnote
+1
+As of December 31, 2000, 4 major changes were introduced to EI maternity and parental benefits, which were:
+the number of hours of insurable employment to be eligible for maternity and parental benefits was reduced from 700 hours to 600 hours
+the number of weeks of parental benefits was increased from 10 weeks to 35 weeks
+the waiting period for the second parent was waived, and
+working while on a parental benefits claim was allowed
+Footnote
+2
+Effective March 3, 2002, the maximum number of combined weeks of special benefits increased from 50 to 65 weeks and the benefit period was extended accordingly, under certain circumstances.
+Since January 2006, Quebec is responsible for providing maternity, paternity, parental and adoption benefits to residents of Quebec through the Quebec Parental Insurance Plan (QPIP –for more details see the section on Comparison with QPIP).
+Since 2010, self-employed workers can access EI special benefits (including maternity and parental benefits) on a voluntary basis by opting into the program.
+Additional changes have been implemented to the EI program between 2005 and 2017 that had consequential effects to EI maternity and/or parental benefits such as:
+Several pilot projects (No. 8, 12, 17, 18, 19, and 20) have modified the working while on claim rules, which were available to parental claimants (but not to maternity claimants)
+The EI waiting period has been reduced from 2 weeks to 1 week as of January 1, 2017.
+Program description
+Budget 2017 and Budget 2018: Major changes to the benefits
+Earlier access to maternity benefits (implemented as of December 2017)
+Increase flexibility to allow pregnant workers to consider their personal, health, and workplace circumstances when choosing when to begin their claim by:
+allowing pregnant workers to receive maternity benefits as early as 12 weeks before the expected week of childbirth instead of 8 weeks
+More choice for parents (implemented as of December 2017)
+Help working parents, including adoptive parents, manage work and family responsibilities by allowing them to choose the option of EI parental benefits that best meets their family’s needs. Following the birth or placement for the purpose of adoption:
+the EI standard parental benefits provide up to 35 weeks of benefits at 55% of average weekly insurable earnings, up to a maximum, paid over 12 months
+the EI extended parental benefits provide up to 61 weeks of benefits at 33% of average weekly insurable earnings up to a maximum, paid over 18 months
+Working while on claim–maternity (implemented as of August 2018)
+Facilitate continued attachment to the workforce and provide greater flexibility to persons receiving maternity benefits to manage their return to work and keep more EI benefits by:
+extending the Working While on Claim rules to maternity benefits (and sickness) so that claimants do not have their benefits reduced dollar-for-dollar when earning income while on claim
+Parental sharing benefits (implemented as of March 2019)
+Foster greater gender equality in the home and in the workplace by encouraging parents to share the joy and responsibility of raising their children more equally by:
+providing 5 additional weeks of standard parental benefits (8 weeks of extended parental benefits) to eligible parents who are sharing the benefit, including adoptive and same-sex couples
+Following changes introduced in Budget 2017, provincial labour legislation was amended to ensure job protection for extended parental leave. These amendments came into effect in:
+Ontario: December 3, 2017
+Alberta: December 6, 2017
+Newfoundland: March 12, 2018
+New Brunswick: March 16, 2018
+British Columbia: May 17, 2018
+Manitoba: June 4, 2018
+PEI: December 29, 2018
+Nova Scotia: January 1, 2019
+Yukon: May 8, 2019
+Saskatchewan: May 15, 2019
+Northwest Territories: January 1, 2020
+Nunavut: Not implemented yet
+Maternity and parental benefits in 2019
+Footnote
+3
+To qualify, workers need to have accumulated at least 600 hours of insurable employment during the 52-week period before the start date of their claim or since their last EI claim, whichever is shorter (qualifying period).
+Maternity benefits
+In 2019, EI maternity benefits were payable for a maximum of 15 weeks at a 55% of average insurable weekly earnings (up to $562). Maternity benefits could be paid as early as 12 weeks prior to the expected date of birth and as late as 17 weeks after the child’s actual birth date. In fiscal year 2018 to 2019, 170,010 new claims for EI maternity benefits were established in Canada resulting in over $1.2 billion paid in benefits (EI MAR, 2019).
+Parental benefits
+In 2019, parental benefits were provided to eligible parents, including adoptive and same-sex parents, to care for their newborn or newly adopted child. Parents can opt for:
+up to 40 weeks of standard parental benefits paid at 55% of average insurable weekly earnings (up to $562), over a 12-month period following childbirth or placement for the purpose of adoption. No parent can receive more than 35 weeks of benefits
+up to 69 weeks of extended parental benefits paid at 33% of average insurable weekly earnings (up to $337), over an 18-month period following childbirth or placement for the purpose of adoption. No parent can receive more than 61 weeks of benefits
+Parents can share and use benefits at the same time or different times. While parents can change how they share the weeks of benefits at any point during their claim, the decision on which parental benefits option they want (standard or extended) must be made when they apply for benefits. Once parental benefits have been paid out to any eligible parent, they cannot change their option. The choice of the first parent who completes the application is binding on the other parent. When parental benefits are shared by parents, only the first parent to claim benefits will need to serve the waiting period.
+In fiscal year 2018 to 2019, there were over 168,000 claims made for standard benefits and 32,000 claims for extended benefits, for a total payment of $2.7 billion in parental benefits (EI MAR, 2019).
+Combining benefits
+EI claimants may combine maternity and parental benefits with other types of EI benefits as part of a single claim provided they meet the qualifying and entitlement conditions for each type. In 2019, the maximum number of weeks payable within the claim was 50 weeks if EI regular benefits were paid during the claim. When only special benefits are combined, a claimant may receive up 104 weeks under defined conditions.
+Comparison with QPIP
+Since January 1 2006, QPIP provides parents residing in Quebec with maternity, parental, paternity, or adoption benefits. Both employees and self-employed individuals are eligible to QPIP benefits. These benefits replace maternity and parental benefits provided by the EI program and, as such, EI premiums in Quebec are lower to reflect the savings to the EI Operating Account. QPIP premiums are set by the Quebec Parental Insurance Plan’s
+Conseil de gestion de l’assurance parentale
+. Furthermore, provisions to the EI regulations that allow for premium reduction require, among other things, that:
+at a minimum, the provincial plans cover substantially the same persons as those who are insured persons under the EI program, and
+the global amount of benefits payable to a person must be substantially equivalent to or greater than the global amount of benefits payable to a claimant under the EI program
+Table 1 below shows that QPIP meets these 2 criteria, as the entrance requirement is lower and the level of benefits are more generous. However, workers in Quebec pay higher premiums. Under QPIP, a recipient has to opt for the base plan (1st row in the QPIP column in Table 1) or the special plan (2nd row in the QPIP column in Table 1).
+Table 1: Comparison of the EI program and QPIP in 2019 for paid employees
+Provision
+EI Program
+Quebec Parental Insurance Plan (QPIP)
+Waiting period (no benefit)
+1 week
+None
+Eligibility
+600 insurable hours (on average roughly $15,438*)
+$2,000 in insurable earnings
+Maximum insurable earnings
+$53,100
+$76,500
+Maternity benefits (maximum weekly benefits)
+15 weeks at 55% ($562)
+18 weeks at 70% ($1,030) or
+15 weeks at 75% ($1,104 – special plan)
+Parental benefits (maximum weekly benefits)**
+35 weeks at 55% ($562) or
+61 weeks at 33% ($337)
+7 weeks at 70% ($1,030) + 25 weeks at 55% ($809) or
+25 weeks at 75% ($1,104 – special plan)
+Extra weeks for sharing parental benefits (maximum weekly benefits)
+5 weeks at 55% ($562) or
+8 weeks at 33% ($337)
+Not available
+Paternity benefits (maximum weekly benefits)
+Not available
+5 weeks at 70% ($1,030) or
+3 weeks at 75% ($1,104 – special plan)
+Maximum total benefits paid to mothers
+$28,100 over 50 weeks or
+$28,987 over 76 weeks
+$45,975 over 50 weeks or
+$44,160 over 40 weeks (special plan)
+Maximum total benefits paid to spouses/partners
+$19,670 over 35 weeks or
+$20,557 over 61 weeks
+$32,585 over 37 weeks or
+$30,910 over 28 weeks (special plan)
+Premiums on insurable earnings for maternity and parental benefits
+Not available
+(-$0.370) for every $100 up to $53,100 for EI, but
++$0.526 for every $100 up to $76,500 for QPIP
+Notes: * Based on the average hourly earnings for employees paid by the hour in Canada in 2019 ($25.73), from Table: 14-10-0206-01 (formerly CANSIM 281-0030) derived from Survey of Employment, Payrolls and Hours (Industrial aggregate excluding unclassified businesses).
+** Under the EI program, parental benefits were available for the purpose of adoption. Under the QPIP, a series of benefits were available to adoptive parents. For further information, please see
+Benefits when a child arrives for adoption on or after January 1, 2021
+.
+Evaluation approach
+This evaluation is conducted with the intent to assess EI maternity and parental benefits and inform on the preliminary effects of the Budget 2017 and Budget 2018 changes.
+The evaluation covers the period from January 2006 to December 2019. For the purpose of the analysis, the period is divided into 3 segments:
+January 2006 to November 2017
+December 2017 to March 16, 2019, and
+March 17, 2019 to December 2019
+This evaluation report is based on the findings from 3 technical studies using administrative data, an analysis of the Employment Insurance Coverage Survey (EICS) conducted by Statistics Canada for ESDC, and key informants interviews.
+Concurrent with the evaluation, EI consultations on future longer-term EI improvements are taking place. While the consultation and the evaluation are separate processes, the results and findings will be complementary, and both will help inform policy work on EI modernization.
+Refer to
+Annex C
+for a full list of the data sources.
+Evaluation questions
+For the purpose of this evaluation report, 5 evaluation questions were identified.
+Access
+To what extent did workers have access to maternity and parental benefits since 2006?
+Usage
+What is the labour and socio-economic profile of maternity and parental claimants? What is the maternity and parental benefits usage pattern?
+Effects
+What are the initial and/or on-going effects of the recent changes to maternity and parental benefits on businesses (such as SMEs, other private and public organizations)?
+What are the effects of maternity and parental leave and benefits on employment outcomes (such as return to work, job characteristics, annual earnings)?
+Program delivery
+Do workers and employers understand the most recent changes and their implications?
+To the extent possible, given the data and methodological limitations, the evaluation leverages information from the lines of evidence to incorporate a gender-based analysis plus lens.
+Limitations
+As the evaluation covers the period from January 2006 to December 2019, specific measures associated with the COVID-19 pandemic are out of scope for this evaluation.
+The evaluation focuses on employees and thereby excludes self-employed individuals who registered to and received maternity and/or parental benefits.
+Generally, parents residing in Quebec receive maternity and parental benefits through QPIP. However, there are a small number of Quebec residents who received maternity and parental benefits through the EI program. These individuals are excluded from the evaluation.
+Key findings
+Finding #1
+Finding: From 2006 to 2019, close to 72% of female parents and 81% of male parents were covered by the EI program. Of them, about 90% were eligible for maternity and parental benefits. These rates were lower than those observed under the Québec Parental Insurance Plan, which has a lower entrance requirement.
+From 2006 to 2019, there was an average of about 290,000 newborns and about 485,000 parents per year residing in Canada (outside Québec).
+Over this period, the share of new parents who paid EI premiums (those covered) remained stable (Figure 1) for both female and male parents, 81.0% for male parents and 71.6% for female parents on average.
+Among new female parents, the coverage rate was the lowest (about 60%) for those aged 24 and younger and the highest (close to 76%) for those aged 30 to 34. Unlike female parents, the coverage rate of male parents decreased with age, those under 30 years of age had a higher rate (around 85%) compared to those aged 40 and older (about 73%)
+The coverage rate for female and male parents significantly decreased with the number of children, from 83% for women with 1 child to close to 39% for women with 4 or more children. This compared to about 85% and 66% respectively for male parents
+The coverage rate was higher in the Atlantic provinces and the Territories, and lower in Ontario, the Prairies (Manitoba, Saskatchewan, and Alberta), and British Columbia
+Compared to coverage under the EI program, the coverage of female parents under QPIP was 15 percentage points higher based on the 2019 EICS, similar to previous years (2016 to 2018). To note, EICS does not examine coverage for male parents.
+Their coverage rate was particularly lower under the EI program than under QPIP for those with an education level of high school or less, those earning less than $40,000, and those with a job tenure of less than a year
+Under both programs, female parents who were immigrants had a lower coverage rate than parents who were born in Canada by approximately 15 percentage points
+Statistical analysis of the EICS confirms that the coverage rate under QPIP was significantly higher than under the EI program, mostly due to mandatory participation of self-employed
+Figure 1: Coverage rates for female and male parents, 2006 to 2019
+Text description of Figure 1
+Year
+Share of Female parents with EI Premiums
+Share of Male parents with EI Premiums
+2006
+72.0%
+81.8%
+2007
+72.5%
+81.6%
+2008
+72.7%
+81.6%
+2009
+72.2%
+81.0%
+2010
+70.8%
+80.2%
+2011
+70.7%
+80.7%
+2012
+70.9%
+80.9%
+2013
+71.0%
+81.1%
+2014
+71.0%
+81.2%
+2015
+71.3%
+81.4%
+2016
+71.3%
+81.1%
+2017
+71.3%
+80.4%
+2018
+71.8%
+80.7%
+2019
+72.5%
+80.8%
+Source: EI Administrative Data and CRA Tax Files.
+Eligibility rate
+Over the study period, close to 94% of female parents who paid EI premiums had a job separation during the reference period
+Footnote
+1
+compared to only 53% for male parents.
+Many possible reasons may explain why a female or male parent does not take any leave following the birth of their child, such as family's preference, stigma, not enough hours to qualify, financial reasons, or usage of other types of leave (such as vacation leave)
+The eligibility rate is defined as the share of parents who have accumulated enough insurable hours to qualify for EI maternity and/or parental benefits (at least 600 hours) out of all parents who are covered by the EI program (those who paid EI premiums).
+On average, from 2006 to 2019, of those who had a job separation and paid EI premiums, about 92% of female parents and 86% of male parents had accumulated at least 600 hours in their qualifying period.
+The eligibility rate was lower for female parents with 3 children or more (-7.2 percentage points) compared to those with 1 child
+The eligibility rates of male and female parents were lower in EI regions with an unemployment rate above 8.0% (such as mostly northern EI economic regions). In particular, the eligibility rates were among the lowest in the EI economic regions of Iqaluit (78%), the Northwest Territories (73%), and Nunavut (59%)
+Eligibility rates for both female and male parents were about 4 percentage points higher for those who worked in large firms of 500 employees or more relative those who worked in small firms of less than 10 employees
+Similarly, the EICS analysis reveals that the eligibility rate of female parents under EI (around 87%) was lower by almost 10 percentage points than under QPIP.
+The eligibility rates were particularly higher under QPIP for female parents with low income and those working on a part-time basis, likely due to the requirement of 600 hours under the EI program compared to $2,000 in earnings under QPIP
+The eligibility rates were also higher for those aged 24 and younger and single female parents under QPIP
+EI Administrative Data Compared to Statistics Canada EI Coverage Survey (EICS)
+When comparing eligibility rates using EI administrative data and EICS, the EICS eligibility rate is lower by around 5 percentage points. The difference can be explained by various factors. The eligibility rate determined by the administrative data used Records of Employment, which are sometimes missing in the database as an ESDC (2018) study showed.
+On the other hand, the EICS eligibility rate is based on a sample of around 1,000 observations per year (4 years were combined for the analysis). Overall, both sources complement each other and provide results within the same range.
+Entrance Requirements
+Parents working in EI economic regions with the highest unemployment rate would benefit the most from a reduction in the entrance requirement.
+The number of insurable hours required to qualify for EI maternity or parental benefits is flat at 600 insurable hours across all the EI economic regions. This contrasts with the EI regular benefits variable entrance requirement varying between 420 and 700 insurable hours depending on the unemployment rate in the EI economic region where they reside.
+As a result, any EI regions with an unemployment rate above 8.0% (such as Northern regions) require workers to accumulate more insurable hours (600 hours) to qualify for maternity and parental benefits than to qualify for regular benefits (less than 595 hours)
+On the other hand, any EI regions with an unemployment rate of 8.0% or lower (like major cities) require workers to accumulate less insurable hours to qualify for maternity and/or parental benefits than to qualify for regular benefits (between 630 hours and 700 hours)
+Over the study period, lowering the entrance requirement to 420 hours, for example, for maternity and parental benefits (instead of 600 hours) would increase, on average, the eligibility rate of female parents by 1.8 percentage point and by 4.0 percentage points for male parents. Overall, any change to reduce the entrance requirement for maternity and parental benefits would mostly benefit workers in EI regions with the highest unemployment rate (for example, Northern regions).
+For instance, there would be an increase in the eligibility rate among the northern EI regions, such as Northern Ontario, Northern Saskatchewan, Northern British Columbia and in most of the EI regions in the Territories (with the exception of Whitehorse and Yellowknife)
+Many experts and representatives of parents and workers associations identified the reduction of the number of hours required to qualify, among other aspects that would need to be reviewed, to ensure greater access and eligibility. Some of them also mentioned that maternity and parental benefits should not be subject to any qualifying requirements and thereby be recognized as a basic right.
+A few key informants observed that, while maternity and parental benefits under the EI program are much better than what exists in the United States, it is not as good as QPIP or programs in northern European countries. In some northern European countries, governments frame such benefits as rights (a child’s right to good parental care and parents’ rights to care for their children)
+A few representatives of employers associations drew attention to how the cost to employers of funding EI has increased because of its evolution from a temporary income replacement program into a social policy tool. Given that, government should consider whether to carve out the social policy objectives from the EI program or assist in the funding of the EI program through general tax revenues
+Finding #2
+Finding: The participation rate of male parents was relatively low over the study period (below 13%). However, early results indicate that the recent changes to parental benefits significantly increased the rate. The rate increased from 13.6% in 2016 to 18.1% in 2019. This rate was significantly lower than the 1 observed for male parents under the Quebec Parental Insurance Plan, which has more generous benefits.
+Participation rate
+Over the study period, the participation rate (those who received at least $1 of benefits out of those covered) of female parents receiving EI maternity and/or parental benefits, was 83.7%, on average (around 171,000 claimants) and only 12.8% for male parents (29,100 claimants).
+Figure 2 shows that the number of new claims from females remained relatively stable while the number of new claims from males steadily increased from 2007 to 2018, before significantly increasing in 2019 (34.1% increase) when an additional 5 weeks of parental benefits (standard) or 8 weeks of parents benefits (extended) became available to parents sharing benefits. Similarly, based on the EI Monitoring and Assessment report, the increase in male participation was 41.0% in 2019-2020
+Figure 2: Number of new claims with parental benefits by gender, 2007 to 2019.
+For accessibility reasons, the figure has been simplified. Consult the PDF version for the full figure.
+Figure 2 a): Number of new claims with parental benefits by gender, 2007 to 2019 - Panel A: Female Claimants
+Text description of Figure 2 a)
+Year
+Panel A: Female Claimants
+2006
+165,323
+2007
+173,823
+2008
+172,139
+2009
+167,449
+2010
+167,581
+2011
+167,684
+2012
+169,692
+2013
+174,497
+2014
+170,554
+2015
+172,190
+2016
+173,634
+2017
+171,592
+2018
+170,712
+2019
+165,323
+Source: EI Administrative Data and CRA Tax Files.
+Figure 2 b): Number of new claims with parental benefits by gender, 2007 to 2019 – Panel B: Male Claimants
+Text description of Figure 2 b)
+Year
+Panel B: Male Claimants
+2006
+24,896
+2007
+26,411
+2008
+26,593
+2009
+26,936
+2010
+27,185
+2011
+27,452
+2012
+26,601
+2013
+27,561
+2014
+27,712
+2015
+29,148
+2016
+30,981
+2017
+33,089
+2018
+44,364
+2019
+24,896
+Source: EI Administrative Data and CRA Tax Files.
+Based on the 2019 EICS, the share of spouses who received or intended to receive parental benefits was 20.5% under the EI program compared to 85.6% under the QPIP program. When asked reasons for why spouses were not claiming parental benefits, 16.7% of female claimants whose spouse had not claimed EI parental benefits said that it was more financially advantageous for them to collect all of the parental weeks than if their spouse did (this compares to 11.0% for those under QPIP).
+Potential explanations for this difference are: the presence of the paternity benefits under QPIP as noted in the 2019 EI MAR report, which is exclusively for spouses (the additional weeks of benefits under EI were introduced in 2019); and a higher maximum weekly benefit (the maximum weekly benefit under QPIP is almost double that of the EI program). Many key informants, experts and representatives of parents and workers associations, suggested an increase of the benefit rate
+A study in Quebec shows that the introduction of QPIP in 2006 increased the participation of fathers by more than 30 percentage points to 65 percentage points, increasing by income levels compared to before the introduction of QPIP (when they accessed parental benefits under EI)
+A few key informants identified the low replacement rate and the inability for some workers to accumulate enough hours as a deterrent to participation, particularly with the growth in precarious work and the expansion of the ‘gig’ economy.
+Regression discontinuity design
+A regression discontinuity design (RDD) model was conducted to test the hypothesis that there was a statistically significant increase in the volume of claims of parental benefits by men during the week of December 3, 2017 when the choice between standard or extended parental benefits became available. Examining the claims around this cut-off shows that there was no statistically significant change in men’s take-up rate of parental benefits around this time.
+Since the effects of the change are not observed immediately after its implementation, a scatter plot (Figure 3) presents the average weekly take-up rate over two 20-week periods. A 20-week period before and a 20-week period after the policy change took effect.
+Using this method, the average take-up rate of parental benefits increased for men from 547 to 666 new claims per week (21.6% increase), while the take-up rate for females increased from 3,224 to 3,272 (1.5% increase). This shows that this policy change likely had a more significant gradual effect on the take-up rate of parental benefits for males than females
+Figure 3: Scatter plot of the average weekly number of new claims for parental benefits by men, February 2017 to September 2018, option between standard or extended parental benefits became available
+Text description of Figure 3
+Number of weeks before and after option of extended benefits
+Number of new claims for parental
+-40
+424
+-39
+480
+-38
+509
+-37
+522
+-36
+513
+-35
+466
+-34
+605
+-33
+558
+-32
+525
+-31
+486
+-30
+652
+-29
+591
+-28
+500
+-27
+465
+-26
+530
+-25
+608
+-24
+579
+-23
+521
+-22
+618
+-21
+794
+-20
+785
+-19
+676
+-18
+604
+-17
+663
+-16
+652
+-15
+621
+-14
+549
+-13
+576
+-12
+750
+-11
+700
+-10
+662
+-9
+570
+-8
+618
+-7
+587
+-6
+543
+-5
+650
+-4
+610
+-3
+702
+-2
+637
+-1
+591
+0 – Option of extended benefits
+544
+1
+604
+2
+554
+3
+523
+4
+515
+5
+591
+6
+811
+7
+733
+8
+577
+9
+536
+10
+642
+11
+610
+12
+519
+13
+532
+14
+588
+15
+570
+16
+553
+17
+463
+18
+547
+19
+613
+20
+572
+21
+553
+22
+621
+23
+660
+24
+554
+25
+543
+26
+604
+27
+721
+28
+742
+29
+608
+30
+667
+31
+838
+32
+871
+33
+702
+34
+666
+35
+644
+36
+635
+37
+700
+38
+643
+39
+614
+40
+725
+The same method was used to assess the change in the volume of parental claims observed following the policy change of providing parents with additional weeks of benefits when they share benefits that came into effect on March 17, 2019. An RDD model tested the hypothesis that there was a statistically significant increase in take-up of parental benefits by males immediately after providing additional weeks of benefits to parents sharing the parental benefits. While there was no significant change in take-up at the policy change, the new policy was found to have had a gradual effect on men’s take-up rate of parental benefits.
+The number of parental benefit claims by males increased from 684 new claims a week to 963 new claims a week (40.7% increase), on average, when comparing 20-week periods before and after the change
+In contrast, the average weekly number of new claims per week for females increased by only 3.7% over the same period
+Finding #3
+Finding: The vast majority (85%) of new parental benefit claimants opted for standard parental benefits. Those who opted for extended parental benefits were more likely to be high-income earners, have higher family income, in couples, working in large organizations, and receiving a top-up.
+Extended benefits
+Over the study period, an average of about 199,700 new parental benefit claims were established per year. On average, around 0.8% of female parental claims were from adoptive female claimants and 1.5% of male parental claims were from adoptive male claimants.
+Figure 4 presents the share of parental benefit claimants broken down by 3 age groups. Unlike females, males aged 35 and overrepresented the largest share of parental claimants, with an average share of 43.6% over the study period. Among male parents, the proportion of young parents under 30 years of age declined steadily over the study period. A similar decline is also observed in the proportion of young female parents under 30 years of age.
+Figure 4: Proportion of parental benefit claimants by age groups, 2007 to 2019. For accessibility reasons, the figure has been simplified. Consult the PDF version for the full figure.
+Figure 4 a): Proportion of parental benefit claimants by age groups, 2007 to 2019 - Panel A: Female Claimants
+Text description of Figure 4 a)
+Year
+Panel A: Female claimants under 30
+Panel A: Female claimants 30 to 34
+Panel A: Female claimants 35 and over
+2007
+45.4%
+34.9%
+19.7%
+2008
+45.7%
+34.5%
+19.8%
+2009
+45.1%
+34.8%
+20.1%
+2010
+43.6%
+35.7%
+20.6%
+2011
+42.9%
+36.2%
+20.9%
+2012
+41.9%
+36.8%
+21.2%
+2013
+40.3%
+38.0%
+21.7%
+2014
+39.6%
+38.7%
+21.7%
+2015
+38.7%
+39.2%
+22.1%
+2016
+37.4%
+39.6%
+23.0%
+2017
+36.4%
+40.0%
+23.7%
+2018
+35.5%
+40.0%
+24.5%
+2019
+34.4%
+40.2%
+25.4%
+Source: EI Administrative Data and CRA Tax Files.
+Figure 4 b): Proportion of parental benefit claimants by age groups, 2007 to 2019 - Panel B: Male Claimants
+Text description of Figure 4 b)
+Year
+Panel B: Male claimants under 30
+Panel B: Male claimants 30 to 34
+Panel B: Male claimants 35 and over
+2007
+24.9%
+33.6%
+41.5%
+2008
+24.5%
+33.2%
+42.3%
+2009
+25.1%
+33.1%
+41.8%
+2010
+24.4%
+33.2%
+42.4%
+2011
+24.4%
+33.0%
+42.6%
+2012
+22.5%
+33.8%
+43.6%
+2013
+21.8%
+34.4%
+43.9%
+2014
+21.3%
+35.0%
+43.8%
+2015
+20.7%
+35.0%
+44.3%
+2016
+20.6%
+35.2%
+44.3%
+2017
+20.2%
+34.7%
+45.1%
+2018
+19.4%
+35.2%
+45.3%
+2019
+18.8%
+36.4%
+44.9%
+Standard versus extended parental benefits
+From 2018 to 2019, an average of 30,500 new claims a year were for extended parental benefits (14.5%) while an average of 179,300 were for standard benefits (85.5%). Most representatives of employer and industry associations interviewed for this evaluation viewed this change as positive because it provides employees with choice and flexibility, while providing employers with some predictability regarding staffing requirements.
+Analysis found that parents working for large firms were more like to opt for extended parental benefits compared to parents working in small or medium firms. Examining education level revealed that female claimants with a high school diploma or less were more likely to opt for extended benefits relative to females with higher levels of educational attainment, when controlling for various characteristics. However, male claimants who have completed university, college or an apprenticeship were more likely to opt for extended benefits.
+Married parents were also more likely to choose extended benefits than divorced, separated, widowed, or single parents. This may point to challenges for single earner families to opt for lower benefits (33% replacement rate instead of 55%) in the absence of supplementary benefit plans or a partners’ income.
+As Table 2 shows, female claimants opting for extended parental benefits had a similar employment income as those opting for standard parental benefits. However, the spousal income ($67,858) of those who opted for the extended benefits was close to 12% higher than those opting for standard benefits ($60,849). As a result, family income in 2 earner households was also higher for those opting for extended benefits.
+Similarly, for male claimants, their employment and their spousal income were higher for those taking extended benefits than those opting for standard benefits.
+There was a widespread impression among experts and representatives of parents and workers associations that the extended parental option was only an option ‘in principle’, because many claimants, particularly those with low and modest income, cannot afford to take extended leave at 33% replacement rate.
+Table 2: Average prior year employment income for maternity and parental claimants, 2019. For accessibility reasons, the table has been simplified. Consult the PDF version for the full table
+Table 2 a): Average prior year employment income for maternity and parental claimants, 2019 – Maternity claimants
+Claimants
+Females
+Males
+Total
+Maternity claimants
+$46,061
+N/A
+$46,061
+Source: EI Administrative Data and CRA Tax Files.
+Table 2 b): Average prior year employment income for maternity and parental claimants, 2019 - Biological parental claimants
+Claimants
+Females
+Males
+Total
+Biological Parental Claimants - Standard option
+$45,950
+$65,881
+$50,099
+Biological Parental Claimants - Extended option
+$45,401
+$78,246
+$51,468
+Source: EI Administrative Data and CRA Tax Files.
+Table 2 c): Average prior year employment income for maternity and parental claimants, 2019 - Adoptive parental claimants
+Claimants
+Females
+Males
+Total
+Adoptive Parental Claimants - Standard option
+$57,275
+$68,556
+$60,680
+Adoptive Parental Claimants - Extended option
+$61,175
+$76,935
+$66,292
+Source: EI Administrative Data and CRA Tax Files.
+Table 2 d): Average prior year employment income for maternity and parental claimants, 2019 - Claimant’s spousal income
+Claimants spousal income
+Females
+Males
+Total
+Claimants spousal income - Standard option
+$60,849
+$29,588
+$53,713
+Claimants spousal income - Extended option
+$67,858
+$43,466
+$62,915
+Source: EI Administrative Data and CRA Tax Files.
+Table 2 e): Average prior year employment income for maternity and parental claimants, 2019 - Family income - 2 earner household
+Family income - 2 earner household
+Females
+Males
+Total
+Family income - 2 earner household - Standard option
+$118,201
+$104,787
+$115,345
+Family income - 2 earner household -Extended option
+$124,353
+$126,271
+$124,753
+Source: EI Administrative Data and CRA Tax Files.
+Employers can offer supplemental payments to top-up maternity and parental benefits received by their employees. The top-up amounts are not considered as earnings and are not deducted from EI benefits and therefore increase the income of claimants while receiving maternity and parental benefits. The plans vary across employers in terms of their duration and top-up amount.
+The share of claimants who had a top-up plan decreased from close to 16% in 2007 to about 10% in 2019, with most of the decrease occurring between 2007 and 2009. Approximately 10.6% of female claimants and 9.4% of male claimants worked for an employer offering a supplemental plan.
+Regression results show that claimants with a top-up plan were more likely to be older, to work in a large firm, and to have earned higher employment income in the year before their claim relative to claimants who did not have access to a plan.
+Claimants with a top-up plan, particularly female claimants, were more likely to choose extended benefits rather than standard benefits
+Benefit duration
+There was little variation in the benefit duration over the studied period until the recent changes.
+Over the study period, about 92.1% of female claimants used the full 15 weeks of maternity benefits. On average, female claimants received 14.7 weeks.
+For the remaining 7.9% of female claimants who did not fully use their maternity benefits, they claimed on average 10.6 weeks of maternity benefits. Out of those, 15.4% were related to cases where a maternity claimant opened 2 claims for the same child, and took some maternity weeks in each claim
+The average duration of standard parental claims established by females was stable between 2007 and 2019 (just over 30 weeks), while the average duration of extended parental benefits was around 55 weeks since their introduction in December 2017. In comparison, the average duration of standard parental claims established by males was also relatively stable between 2007 and 2018 at around 16.5 weeks, followed by a decline of more than 2 weeks following the introduction of extra weeks for those sharing benefits in 2019. The average duration of extended benefits claimed by males declined from 29 weeks in December 2017 to 18 weeks in 2019.
+Figure 5: Average duration of standard and extended parental benefit weeks, 2007 to 2019
+Text description of Figure 5
+Year
+Females standard
+Females extended
+Males standard
+Males extended
+2007
+31.9
+N/A
+17.0
+N/A
+2008
+32.1
+N/A
+17.2
+N/A
+2009
+32.1
+N/A
+17.3
+N/A
+2010
+32.1
+N/A
+16.9
+N/A
+2011
+32.2
+N/A
+17.2
+N/A
+2012
+32.4
+N/A
+17.3
+N/A
+2013
+32.4
+N/A
+16.3
+N/A
+2014
+32.5
+N/A
+16.4
+N/A
+2015
+32.5
+N/A
+16.6
+N/A
+2016
+32.5
+N/A
+16.4
+N/A
+2017
+32.6
+58.7
+16.5
+29.4
+2018
+32.5
+55.7
+15.9
+22.8
+2019
+32.6
+56.1
+14.0
+18.4
+The decline in the average number of weeks received by males between 2018 and 2019 was in part due to the increase in number of men claiming parental benefits for a short period. For instance, 25.0% of males received 5 or fewer weeks of standard benefits in 2018 compared to 37.8% in 2019 (37.5% of males received 8 weeks or fewer of extended benefits in 2018 compared to 43.2% in 2019).
+The decline in duration for males was also due to a smaller proportion of male claimants receiving the full benefit entitlement in 2019 (14.5% and 6.6%) compared to those in 2018 (16.8% and 13.8%) as Table 3 shows
+Table 3: Proportion of females and males taking the full parental benefit duration entitlement, 2007 to 2019
+Year
+Females - Standard
+Females - Extended
+Males - Standard
+Males - Extended
+2007 to 2017
+72.3%
+N/A
+17.4%
+N/A
+2018
+76.4%
+65.2%
+16.8%
+13.8%
+2019
+78.4%
+67.6%
+14.5%
+6.6%
+Finding #4
+Finding: Following recent policy changes to parental benefits, the sharing of parental benefits increased from 14.5% in 2017 to 19.9% in 2019. However, key informants still believe that employers’ perceptions on parental leave tend to differ by gender. This is due to a cultural stigma within the workplace attached to men taking leave.
+Over the study period, up to 83% of claimants were in families who could have opted for sharing their parental benefits (claimants neither single nor widowed). For the purposes of this evaluation, claimants who were married or in a common law relationship were used to estimate the number parents who could opt for sharing their parental benefits. As Figure 6 shows, the proportion of claimants from two-parent families sharing parental benefits increased significantly from 2007 to 2017 (before the policy change) by about 30%. Following both policy changes in 2017 and 2019, sharing increased by about 37%.
+Statistical analyses confirmed that both policy changes increased the likelihood of sharing benefits among parents
+Figure 6: Proportion of claimants from 2 parent families who shared parental benefits, 2007 to 2019
+Text description of Figure 6
+Year
+Proportion of claimants from two-parent families who shared parental benefits
+2007
+11.0%
+2008
+12.6%
+2009
+12.6%
+2010
+13.5%
+2011
+13.8%
+2012
+13.7%
+2013
+13.6%
+2014
+13.7%
+2015
+13.9%
+2016
+14.2%
+2017
+14.5%
+2018
+16.1%
+2019
+19.9%
+Claimants who were younger, had less children, had a university level of education, higher employment income, and higher spousal income were more likely to share parental benefits. In addition, claimants who opted for the extended benefits were more likely to share than those who opted for the standard benefits. Claimants with top-up plans were slightly less likely to share parental benefits, particularly since the implementation of both policy changes.
+There was unanimous support among key informants for providing additional weeks of parental benefits to eligible parents who are sharing the benefit. However, it was noted that uptake has been low and that there are insufficient financial incentives to taking the additional weeks.
+It was noted that it promotes gender equality, encourages male parents to take leave, and injects some flexibility to parental benefits
+Sharing Benefits
+The overall increase in the duration of parental benefits after the introduction of extended benefits, at the family level, was driven by female claimants receiving more weeks.
+As illustrated in Figure 7, families with parents who shared benefits received slightly more weeks than those who did not. From a claimant’s perspective, female and male claimants who shared benefits received a lesser number of weeks than male and female claimants who did not. This suggests that by sharing caring responsibilities, each parent can take less time away from work.
+Figure 7: Average duration of parental benefit weeks for claimants from 2 parent families, 2007 to 2019
+Text description of Figure 7
+Sharing/Not sharing
+Females
+Males
+Family
+Not sharing – Standard
+33.3
+19.8
+32.0
+Sharing – Standard
+24.2
+11.3
+34.2
+Not sharing – Extended
+57.7
+29.9
+55.8
+Sharing – Extended
+47.0
+14.3
+60.6
+Regression results show that when controlling for various factors, the average number of weeks received by female claimants and the family as a whole has significantly increased following the introduction of extended benefits. However, the average duration of parental benefit weeks by males who shared parental benefits did not significantly change.
+This means that the overall increase in the duration of parental benefits after the introduction of extended benefits, at the family level, was driven by female claimants taking more weeks
+Evidence from key informants interviews supports data analyses as most representatives of employees and workers’ associations interviewed reported, based on what they have heard from their members, that employers’ perceptions of parental leave do tend to differ by gender. Specifically, it was noted that there still tends to be a cultural stigma attached to men taking leave/extended leave. That said, it was also observed that many men may wish to take extended leave but feel unable to do so because they cannot risk the loss of income. They often have the higher wage and therefore the family income is more adversely affected if they take leave.
+A few key informants suggested that there needs to be a social campaign to increase uptake and change workplace culture around this issue
+Some key informants suggested that reactions to taking longer leave may vary by sector and depend on the level of support of firms and/or managers. Examples shared by key informants included firms with policies that de-incentivize taking longer leave (such as stock-based compensation that gets prorated, and sectors like construction in which parental responsibilities may be incompatible with work requirements).
+Finding #5
+Finding: More female claimants than male claimants served the waiting period in 2019 (159,000 and 25,000 respectively). This is because female claimants typically access maternity benefits first. As a result, a greater number of female than male claimants (14,100 compared to 1,800) had their first few weeks of benefits clawed back. This was due to earnings during the waiting period.
+The waiting period is a period during which no EI benefits are paid. As of January 1, 2017, the waiting period has been reduced for all EI benefits from 2 weeks to 1 week.
+The “Digest of Benefit Entitlement Principles”, which contains the principles applied by the EI Commission, indicates that the waiting period “can be likened to the deductible that applies in fire and automobile insurance policies, under which the insured person is expected to share a part of the damages or loss”
+Similarly, as noted in the 2006 Summative Evaluation of EI Part 1, “the waiting period is intended to act as a form of deductible… Like other insurance deductibles, the two-week waiting period is intended to discourage moral hazard and to avoid the costs of administrating claims for very small amounts (for example, unemployment spells of less than 2 weeks)”
+Some key informants wondered about the rationale behind the waiting period before maternity benefits kick in. As Table 1 showed, this period without benefit does not exist under QPIP
+When parental benefits are shared by parents, only 1 parent needs to serve a waiting period. Typically, when parental benefits are shared by both parents, only the first parent claiming the EI benefits serves it. Therefore, since the maternity claim is taken before the parental claim, female claimants usually serve the waiting period more often than males.
+Between 2007 and 2019, 92.7% of women claiming maternity benefits served the waiting period (for an average of 159,000 women per year, which remained steady over the years)
+The number of males claiming parental benefits that served the waiting period increased between 2007 and 2019 (from 14,508 to 25,382), but the proportion of males serving it declined from 61.3% in 2007 to 57.2% in 2019
+As such, 39.4% of men claiming parental benefits had their waiting period deferred as the waiting period was already served by their spouse (females) claiming maternity benefits
+As a result of being considerably more likely to serve the waiting period, female claimants are negatively impacted in 2 ways. The first, is that female claimants faced an income gap (a period with no employment income or EI benefits) in a much larger number and in proportion than male claimants.
+Second, female claimants who report earnings during their waiting period are more likely to have their benefits clawed back in the first weeks of benefit payments relative to male claimants.
+Earnings during the waiting period are clawed back dollar-for-dollar in weeks two, 3 and 4 of the benefit period unlike claimants who work while on claim (see further details in the section on Working While on Claim)
+Claimants that received partial benefit payments due to earnings during the waiting period had their benefits reduced by about 50% between 2007 and 2019
+In any given year over the evaluation period, approximately 14,100 female claimants (8.0% of maternity female claimants) received partial benefit payments due to earnings during the waiting period compared to only 1,800 male claimants per year (6.3% of parental male claimants)
+Single female claimants had a greater prevalence (10.2%) to have reduced benefits due to earnings during the waiting period compared to those who were married (7.2%)
+Female and male claimants with lower employment income (less than $20,000) were the most likely to have reduced benefits due to earnings during the waiting period (10% and 11.6% respectively) compared to groups with higher employment income
+Claimants who received a top-up from an employer plan were less likely to have reduced benefits due to earnings in the waiting period than those without a top-up by 1.4 percentage points
+Overall, since they are more likely to serve the waiting period, female claimants received less EI benefits early on in their claim when compared to men
+Working while on Claim (WWC)
+While maternity benefits were clawed back dollar-for-dollar up to August 11, 2018, parental claimants were allowed to earn up to $50 or 25% of their weekly benefit rate without reduction of their benefits before August 7, 2016.
+Between August 7, 2016 and August 11, 2018, parental claimants had the option to:
+keep 50 cents of EI benefits for every dollar earned in income, up to a maximum of 90% of previous average weekly earnings, or
+keep $75 or 40% of the benefit rate, whichever is greater, without any deduction from benefits. Above these thresholds, earnings were deducted dollar-for-dollar from the parental benefits
+Since August 12, 2018, maternity and parental claimants are able to keep 50 cents of EI benefits for every dollar earned, up to 90% of weekly insurable earnings.
+On average, from 2007 to 2019, 5.7% of maternity claimants, 7.2% of female parental claimants, and 16.9% of male parental claimants worked while on claim (including those working during the waiting period). The share of female parental claimants who worked while on claim decreased over the study period from 8.8% in 2007 to 4.4% in 2019, while the share of males who worked declined from 17.5% in 2007 to 11.8% in 2019. Furthermore, the share of maternity claimants working while on claim dropped by almost 50% between the end of 2016 and the beginning of 2017, when the waiting period was reduced from 2 weeks to 1 week.
+Finding #6
+Finding: Claimants who have lost their job before the birth/adoption of their child were less likely to access their full parental benefit entitlements. This is due to the 50-week maximum rule when regular and special benefits are combined. On average, each year of the studied period, 3,300 female claimants were impacted by the 50-week rule. This was compared to less than 500 male claimants. This is due to the combination of regular, maternity and/or parental benefits.
+The EI program allows for claimants to receive different benefit types within 1 claim so long as they meet the qualifying and entitlement conditions of each benefit. For example, they can combine benefits such as sickness and maternity benefits.
+The most common combination of benefits over the study period for female parents was maternity and parental benefits (79.3%), followed by the combination of maternity and/or parental benefits with sickness benefits (14.1%), and the combination of maternity and/or parental benefits with regular benefits (3.0%)
+In the case of male parents who claimed parental benefits, 86.7% of them only claimed parental benefits (biological) and 1.3% claimed only parental benefits for adoption. The most common combination of benefits for men was parental benefits with regular benefits (10.1%)
+Female workers may choose to apply for sickness benefits before maternity benefits if they are unable to work for medical reasons associated with pregnancy. Although pregnancy and childbirth are not considered illnesses, complications with respect to either may be. When no regular benefits are paid, different special benefits can be combined up to a maximum of 102 weeks, including 15 weeks of sickness benefits.
+Among female claimants who started with sickness benefits, 99.6% subsequently transitioned to maternity benefits as their second benefit type (about 25,000 claimants each year)
+Females who combined sickness benefits with maternity and parental benefits claimed 57 weeks of benefits, on average, when choosing standard parental benefits and 81 weeks when choosing extended parental benefits
+Maternity and/or parental benefit claimants who combine their claim with regular benefits (and are laid off from their job before the birth or after) are allowed to receive a maximum of 50 weeks of combined benefits paid at 55% within their claim (extended parental benefits are converted into standard weeks).
+Among female claimants who started their claim with EI regular benefits and combined with maternity and/or parental benefits (3.6% of female claimants who claimed maternity or parental benefits), 77.9% transitioned to maternity benefits, 16.6% to sickness benefits, and 5.5% to parental benefits as their second benefit type
+In comparison, of male claimants who started their claim with EI regular benefits and combined with parental benefits, 95.2% transitioned to parental benefits and only 4.8% to sickness as their second benefit type
+Combining with sickness
+Following the 2017 change, female parents can access maternity benefits earlier.
+Prior to December 3, 2017, the earliest the maternity claimant could start benefits was 8 weeks prior to the expected due date and as late as 17 weeks after the date of birth or due date (whichever one is later). Since then, maternity benefits can be taken as early as 12 weeks before the claimants’ expected due date. The objective of that change was to increase flexibility to allow pregnant workers to consider their health when choosing when to begin their claim.
+Analysis shows that the share of maternity claimants who also took sickness benefits gradually increased from 13.6% in 2007 to 16.9% in 2017, but slightly decreased to 16.5% in 2019 (Figure 8). Regression results show that the decline after 2017 was not significant when controlling for other characteristics of the claimant. The model also found that the likelihood of combining maternity with sickness benefits decreased with age, but increased with the number of children, and was the highest in the construction industry. It was also particularly high in Newfoundland and Labrador (39.9%)
+On average, claimants that combined sickness and maternity benefits claimed 8.7 weeks of sickness benefits over the study period. Regression analyses also show that there was no significant decrease or increase in the average number of sickness weeks taken by maternity claimants after the policy change
+The majority of maternity claimants between 2007 and 2019 started their claim either before the date of birth or the week of the birth (69.9%). On average, claimants who started with maternity benefits received their first week of benefits 3.5 weeks before the birth of their child.
+In terms of distribution, 31.4% of maternity claimants started their maternity claim after their due date, 55.6% started between their due date and 4 weeks prior, 10.2% started between 5 weeks and 8 weeks prior, and 2.8% started between 9 weeks and 12 weeks prior to the due date
+Figure 9 shows that the average number of weeks taken before the birth has increased by 0.38 week since the December 2017 policy change. Statistical analyses confirmed the impact
+Figure 8: Share of maternity claimants taking sickness benefits as the first benefit, 2007 to 2019
+Text description of Figure 8
+Year
+Share
+2007
+13.6%
+2008
+13.9%
+2009
+13.9%
+2010
+14.6%
+2011
+14.9%
+2012
+14.7%
+2013
+14.9%
+2014
+15.0%
+2015
+15.1%
+2016
+15.7%
+2017
+16.9%
+2018
+16.4%
+2019
+16.5%
+Source: ESDC (2021). Technical Report 2
+Figure 9: Average number of weeks prior to birth of the child for claims that start with Maternity Benefits, 2007 to 2019
+Text description of Figure 9
+Year
+Average number of weeks
+2007
+3.6
+2008
+3.6
+2009
+3.5
+2010
+3.4
+2011
+3.4
+2012
+3.4
+2013
+3.4
+2014
+3.3
+2015
+3.3
+2016
+3.3
+2017
+3.3
+2018
+3.7
+2019
+3.5
+Source: ESDC (2021). Technical Report 2
+Combining regular with maternity and/or parental benefits
+Overall, around 4.6% of claimants combined maternity and/or parental benefits with EI regular benefits – 67.3% were women and 32.7% were men. Over the study period, there was a decline in the share of men and women combining maternity and/or parental benefits with EI regular benefits. While women experienced a slow and steady decline, men experienced more fluctuation, with observed increases in 2008, 2015, and 2019, likely reflecting the general volatility in the employment market (like financial crisis, commodity crisis).
+Compared to those who did not combine maternity and/or parental benefits with EI regular benefits, female claimants who did it were more likely to be single (twice as likely – 33% compared to 17% for those who did not combine), have low employment income (under $20,000 – 42.9% compared to 25.8%), be younger (under 30 years of age – 51.5% compared to 39.9%) and have a lower level of education (high school or less – 30% compared to 23%).
+Male claimants who combined with regular benefits were more likely to be younger (29.5% compared to 21%), work for a small firm (17% compared to 8.1%) and be employed in the construction industry (22.4% compared to 5.1%) compared to those who did not combine
+Because female claimants are significantly more likely than male claimants to take longer duration of maternity and parental benefits (see Figure 5), female claimants who did combine regular benefits with maternity and parental benefits are more likely to reach the 50-week maximum when they combined the 3 benefits.
+Over the study period, all female claimants who started with regular benefits (about 6,300 annually) claimed, on average, 15.3 weeks of regular benefits, followed by 13.6 weeks, on average, of maternity benefits (Table 4).
+As a result, female claimants who combined their claim with regular benefits were, on average, only eligible to receive up to 21.1 weeks of parental benefits at 55% (50 weeks minus 15.3 weeks minus 14.7 weeks) compared to 35 weeks for those who did not combine
+In fact, those who combined their maternity and parental benefits with regular benefits received on average 17.2 (out of 21.1 weeks) standard parental weeks compared to 32.9 weeks (out of 35 weeks) for those who did not combine. In addition, 51.7% of those who combined with regular benefits used the full 50 weeks. These results clearly show that the 50-week rule prevented those who combined with regular benefits to claim the 35 weeks of parental standard benefits, though their spouses could use the 17.8 unclaimed parental benefit weeks (35 weeks minus 17.2 weeks)
+Table 4: Average duration of benefit weeks for female claimants, 2007 to 2019
+Combined or not combined with EI regular benefits
+EI Regular weeks
+Maternity weeks
+Standard Parental weeks
+Total weeks claimed -Standard*
+% reaching 50 weeks
+Did not combine with EI regular
+0
+14.7
+32.9
+58.9
+71.9%
+Combined with EI regular
+15.3
+13.6
+17.2
+46.1
+51.7%
+* Include any other benefits with the claim.
+Of the female claimants who combined maternity and parental benefits with regular benefits and claimed the full 50 weeks, 82.1% had an employment income below $40,000 in the year prior to the claim and 99.4% did not have access to a top-up plan. This shows that most female claimants that were prevented to fully claim the parental weeks were part of the workers from the lowest and modest income groups. Similar results were observed for male claimants who combined parental benefits with regular benefits and claimed the full 50 weeks.
+Furthermore, of female claimants who combined with regular benefits and used the full 50 weeks, and had also unclaimed parental benefit weeks due to the 50-week rule:
+37.1% were single which means they were not able to share their unused standard parental weeks (on average 16.7 weeks and 16.8 weeks respectively) with a partner or a spouse
+Of those who were married or in common law relationships (57.6%), 24.3% had a spouse or partner that was not covered by or eligible to the EI program
+As a result, less than 44% of these female claimants had a spouse or partner that could have claimed the unused parental weeks. However, less than 6% had a spouse who actually claimed the unused parental weeks
+Females who only claimed maternity and standard parental benefits and were laid off during their maternity or parental leave would have been, on average, entitled to 1.1 weeks of regular benefits to reach the 50-week limit (50 weeks minus 48.9 weeks) at the end of their maternity and parental claims, preventing them from having income support while looking for a job.
+Footnote
+5
+Male claimants who started with regular benefits claimed, on average, 14.5 weeks of regular benefits (Table 5). These male claimants combined, on average, 17.0 weeks of standard parental benefits, a number of standard parental weeks slightly higher to the number of weeks for those who did not combine (16.3 weeks). As a result, most male claimants who combined benefits were not limited by the 50-week limit rule. In fact, only 14.4% of male claimants who combined with regular benefits received 50 weeks of benefits (compared to 51.7% for female claimants as noted previously).
+Of these 14.4% of male claimants, less than 20% of them had a spouse or partner that could have claimed their unused parental weeks and less than 8% had a spouse or partner who did so.
+Table 5: Average duration of benefit weeks for male claimants, 2007 to 2019
+Combined or not combined with EI regular benefits
+EI Regular weeks
+Maternity weeks
+Standard Parental weeks
+Total weeks claimed -Standard*
+% reaching 50 weeks
+Did not combine with EI regular
+0
+N/A
+16.3
+16.4
+17.5%**
+Combined with EI regular
+14.5
+N/A
+17.0
+31.9
+14.4%
+* Include any other benefits with the claim.
+** A maximum 35 weeks for males that did not combine with regular benefits.
+Finding # 7
+Finding: Longer maternity and parental benefits duration increased the likelihood for female claimants to work for the same employer after their parental leave, while the likelihood decreased for their partners. However, for all claimants, the likelihood of having higher future employment income decreased the longer they claimed benefits.
+Overall, 2 years after the birth of a child, 79.7% of female parents and 93.2% of partners were working.
+Compared to female parents who worked, female parents who did not work 2 years after the birth of a child had lower employment income in the year prior to the birth (64.5% had an employment income under $20,000 compared to 21.0% for those who worked), were more likely to be single parents (25.2% compared to 16.2%), and were less likely to have claimed EI maternity benefits for their child (57.2% compared to 87.2%)
+Compared to partners who worked 2 years after a newborn, partners who did not work were younger (29.9% under 30 years of age compared to 21.9%), more likely to have 3 or more children (10.9% compared to 6.9%), and were more likely to work for small firms (17.7% compared to 8.7%)
+Looking at female and male parents who worked prior to and after the birth (Figure 10), the prevalence of working for the same employer declined with the number of years following the birth of the child, whether they claimed EI benefits or not.
+Figure 10: Prevalence rate of all female parents and partners working for the same employer— 2006 to 2017. For accessibility reasons, the figure has been simplified. Consult the PDF version for the full figure.
+Figure 10 a): Prevalence rate of all female parents and partners working for the same employer— 2006 to 2017 – Female parents
+Text description of Figure 10 a)
+Year
+Female parents -Who did not claim
+Female Parents - Who claimed
+t+1
+86.1%
+92.2%
+t+2
+74.7%
+82.8%
+t+3
+66.3%
+75.7%
+t+4
+60.0%
+70.0%
+Figure 10 b): Prevalence rate of all female parents and partners working for the same employer— 2006 to 2017 – Partners
+Text description of Figure 10 b)
+Year
+Partners - Who did not claim
+Partners - Who claimed
+t+1
+89.6%
+92.5%
+t+2
+76.8%
+82.1%
+t+3
+68.2%
+75.2%
+t+4
+61.7%
+70.2%
+Methodology
+The sample of claimants and non-claimants had significantly different employment incomes. In order to obtain comparable groups of claimants and non-claimants and therefore properly measure the effects of maternity and parental leave and benefits on employment outcomes, the sample of both groups was limited to those with a minimum level of employment income, high enough to limit the sample, to the extent possible, to those who worked full-time.
+The minimum employment income was established at 25% below the average annual industrial earnings across Canada adjusted for inflation (for example, $36,670 per year in 2017 constant dollars). Using the average hourly industrial earnings paid to employees ($24.26 per hour), it was estimated to be roughly equivalent on average to 30 hours per week over a year.
+Employment outcomes
+As shown in Figure 10, there were no large differences found in the prevalence rate of returning to the same employer between parents who claimed maternity and parental benefits and the comparable group of non-claiming parents.
+Female parents who claimed maternity benefits had a slightly lower likelihood of working for the same employer after the birth than non-claimant female parents – about 2.4 percentage points lower 2 years after the birth and around 4.1 percentage points lower 4 years after
+Similarly, their partners who claimed at least 1 week of parental benefits had a slightly lower likelihood of working for the same employer than non-claimants, but by only 1 percentage point 2 years and 4 years after the birth of their child
+The analysis further reveals that longer duration of maternity and parental benefits for female parents resulted in a greater likelihood of working for the same employer (up to 6.3 percentage points for those who took 50 weeks), compared to those who used fewer weeks of benefits (between 1 and 15 weeks).
+The model for partners who claimed parental benefits shows that those who used all of their parental benefits (35 weeks) resulted in a lower likelihood of working for the same employer by 5.8 percentage points compared to those with a shorter duration (used less than 5 weeks)
+The likelihood of working for the same employer 2 years after the birth varied across industries and employer size:
+Female parents who worked in primary and construction sectors were less likely to work for the same employer 2 years after the birth (-5.7 and -8.0 percentage points respectively), while those working for the government sector were more likely (+6.6 percentage points). Further, those working for small sized firms were less likely to work for the same employer than those working for medium sized firms (3.3 percentage points) and large sized firms (12.6 percentage points)
+The likelihood dropped by 13.2 percentage points for male parents working in the construction sector and 7.5 percentage points for those in the primary sector compared to those in the manufacturing sector, while those working in the government sector were more likely to work for the same employer by 7.3 percentage points
+Future income
+Using the same sample (refer to methodology box), over the study period, the likelihood of an increase in employment income 4 years after the birth of a child for female parents and their partners compared to employment income prior to the birth of the child increased by up to 15 and 20 percentage points potentially reflecting salary progression of parents as well as the economic growth in Canada.
+Over the period, non-claimants had a greater likelihood of an increase in employment income 4 years after the birth of a child compared to claimants
+The statistical model shows that female claimants were slightly less likely by 1 to 3 percentage points to have an increase in employment income 4 years after the birth of their child than comparable groups of non-claimants.
+The effect on male parents was greater. Male parents who claimed parental benefits were less likely by 8 to 10 percentage points to have an increase in employment income 4 years after the birth of the child than a comparable group of non-claimants.
+Female parents and partners who remained with the same employer were more likely by more than 10 percentage points to have an increase in employment income than those who changed employers
+While female parents with 1 child were less likely to have an increase in their employment income 4 years after the birth of their child, male parents with 1 child were more likely to have an increase compared to those with more than 2 children
+Female and male parents working for large firms were more likely to experience an increase in their employment income while those working for small firm were less likely
+Male parents working in the government sector were the most likely to experience an increase in their employment income 4 years after the birth, while female parents working in the government sector were just as likely as those working in the primary, construction or services sectors
+Female Claimants
+Female parents who claimed maternity and parental benefits for the full 50 weeks were less likely to have an increase in their employment income 4 years after the birth of a child by 16.8 percentage points than those who claimed these benefits for less than 16 weeks (duration of the maternity benefits).
+Male Claimants
+Male parents who claimed parental benefits for the full 35 weeks were less likely to have an increase in their employment income 4 years after the birth of a child by 20.3 percentage points than those who claimed these benefits for 8 weeks and less.
+Finding # 8
+Finding: Overall, the delivery (application process) of EI maternity and parental benefits was deemed effective. There was limited awareness of potential impacts on businesses of the recent changes.
+Representatives of employers and industry associations frequently viewed the EI maternity and parental benefits as important because they help support the well-being of employees on leave, and in so-doing help maintain their attachment to the firm (contributing to employee retention). A few also suggested that the benefits support spending power of consumers. On the other hand they identified maintaining work/business continuity and costs as the challenges associated with such benefits.
+Over half the representatives of employees and parent/worker associations said they were unaware of perceptions or reactions of employers with respect to their members requesting longer leave, but most refer again to the cultural stigma in the workplace attached to men taking leave/extended leave
+In terms of challenges, representatives of employer and industry associations focussed on 2 things:
+1) maintaining work/business continuity (such as hiring a new person, re-apportioning work to other employees), and
+2) costs. They also noted that the longer employees are away, the greater the likelihood that they would need to be retrained, which could represent a challenge for smaller companies
+Most representatives of employer and industry associations either could not answer knowledgeably or felt that there was little (if any) effect of allowing a choice between standard and extended parental benefits.
+Reasons for suggesting that the impact/effect is limited were based on the impression that the take-up rate for extended parental benefits was very low, and because what matters most for employers is predictability (knowing in advance which option employees are taking)
+Some key informants suggested that employers tend to prefer extended leave because it is easier to find replacement workers for 18 months rather than for 12 months
+Regarding the effect of providing additional weeks of parental benefits to be shared among parents, many representatives of employer associations either could not answer or suggested that this probably resulted in more male parents taking leave and increased marginal costs to businesses.
+A few representatives of employer and industry associations commented on the extent to which their members already provide flexible working arrangements to their employees/parents of a newborn or newly adopted child
+For their part, experts could not comment knowledgeably on this beyond suggesting that the effect likely varies by circumstances and that small firms probably have more difficulty replacing workers for an extended period.
+Representatives of employer and industry associations said they could not comment knowledgeably on the extent to which allowing early access to maternity benefits has had an effect on business operations in their sector. Neither could experts comment on this issue.
+Awareness
+When asked about the extent to which their members are familiar with the recent changes to EI maternity and parental benefits, many representatives of parents and workers associations and representatives of employer and industry associations prefaced their responses by noting that they could not answer with any degree of certainty because they did not have access to members’ views, or because of the size and diversity of their membership.
+It was suggested by a few representatives of employee and workers associations that awareness of the recent changes probably varies widely, depending on individual circumstances, meaning that members may not be aware of the changes in detail until and unless their circumstances motivate them to investigate EI maternity and/or parental benefits
+For their part, a few representatives of employer and industry associations observed that their members may not necessarily follow every change to EI maternity and/or parental benefits, and that for the last couple of years their attention is more likely to have been focussed on the pandemic
+It was also suggested that awareness of these changes probably varies by size of business, with larger firms more likely to be aware because of having a greater proportion of employees at any given time eligible for such benefits
+The awareness of Budget 2017 and 2018 changes varied.
+Earlier access to maternity benefits: Perceived awareness range from low to moderate
+Extending working while on claim rules to maternity benefits: Perceived awareness ranging from low to high
+Choice between standard and extended parental benefits: Perceived awareness tended to be high, but key informants were almost equally divided between those who said they believed that it was well known that claimants can not change options, those who said that it was not well known, and those that could not say for sure.
+Additional weeks to be shared: Perceived awareness ranging from low to high
+Most key informants considered the EI program as effective in terms of ease of access, in particular the application process. They noted that it is easy and straightforward, and information is easily accessible. In addition, the application process has been easier since the advent of online application and digitalization.
+When asked about proposed changes to facilitate the application process and delivery, there was limited critical feedback such as improve process time to minimise gaps in income payment and simplify language in communications.
+Conclusion and recommendations
+The EI program provides income support to parents to support recovery from pregnancy and childbirth and care for a newborn or newly adopted child or children, with close to 200,000 claimants accessing benefits each year.
+Overall, the evaluation provides early evidence that recent changes do appear to have increased participation and usage of EI parental benefits and that parents are taking advantage of recently introduced flexibilities. Still, access and participation to EI maternity and parental benefits are lower than under the Quebec Parental Insurance Plan, which is more generous than the EI program (in terms of access and level of benefits) but at a cost of higher premiums. In addition, the evaluation finds that program rules such as serving the waiting period and the capping of benefits to 50 weeks when a layoff occurs impact a greater number and a greater proportion of female maternity and parental claimants than male parental claimants.
+Although the evaluation found that EI maternity and parental benefits played an important role for new parents, evidence points to opportunities for improvement to enhance eligibility and access. Based on these findings, the Evaluation Directorate identifies 2 recommendations for the Department:
+Recommendation #1: Explore approaches to improve eligibility and access for parents to maternity and parental benefits, in particular spouses and partners
+Recommendation #2: Explore approaches to enhance flexibility for claimants who need to combine maternity and parental benefits with regular benefits
+Management response / Action plan
+The Department would like to thank the Evaluation Directorate for its work on the program evaluation of the Employment Insurance (EI) maternity and parental benefits, which included extensive quantitative analysis complemented by interviews with representatives of employers and workers’ associations as well as academics. Preliminary analysis shared over the evaluation process helped inform policy analysis and EI modernization work.
+Recommendation #1
+Recommendation: Explore approaches to improve eligibility and access for parents to maternity and parental benefits, in particular spouses and partners.
+Management agrees with Recommendation 1.
+EI maternity and parental benefits are key supports to parents welcoming a new child into their home, providing temporary income support to eligible workers who are away from work because they are pregnant, have recently given birth, or are caring for their newborn or newly adopted child.
+Since the inception of EI maternity and parental benefits, the needs of parents and families, as well as consideration for employers and the overall economy, has guided changes to EI benefits. In response to the 2016 consultations on inclusive and flexible EI maternity, parental, and caregiving benefits, changes were made to allow parents and expecting parents to better take into account their personal, family, and workplace circumstances.
+Among these changes were earlier access to maternity benefits and a choice of a standard or extended parental benefit option. Since March 2019, additional weeks of parental benefits are available to eligible parents who share the benefits. The measure is intended to promote greater gender equality in the home and the workplace and to encourage all parents, especially fathers, to take leave when welcoming a new child. These early evaluation results have shown that these measures are already having a positive impact on the use of parental benefits by men. Additional years of data will show the full impact of these measures.
+Academics and stakeholders have called on the government to make EI maternity and parental benefits easier to access and more generous. In 2021, a review of EI program by the House of Commons Standing Committee on Human Resources, Skills, and Social Development and the Status of Persons with Disabilities (HUMA) included a number of recommendations, including measures that would improve EI access, generosity, and the combining of benefits. Feedback from the 2021-2022 national consultations on the modernization of the EI program, including written submissions and stakeholder roundtables on life events in the first phase of these consultations, echoed the HUMA recommendations.
+The Department will take into account the findings of this evaluation, as well as input received through the consultations on the modernization of the EI program and the HUMA recommendations, as it explores how eligibility and access to maternity and parental benefits can be improved. As qualifying requirements are the same for all special benefits, analysis would take other special benefits (e.g. caregiving) into consideration.
+Actions planned
+1.1 Analyze more broadly access and eligibility for all special benefits. Leverage this information, along with input received during the consultations on the modernization of the EI program, to inform the plan to build a stronger and more inclusive and accessible EI program.
+Anticipated completion date: Summer 2023
+Recommendation #2
+Recommendation: Explore approaches to enhance flexibility for claimants who need to combine maternity and parental benefits with regular benefits.
+Management agrees with recommendation 2.
+The EI Program provides Canadians workers with economic safety through regular benefits when they lose their job for reasons outside their control and they are available for and actively seeking employment. Workers who need to take time away from work due to sickness, maternity, caring for a newborn or newly adopted child, or providing care or support to a critically ill or gravely ill family member can also receive temporary income support to help them balance their work and family responsibilities.
+Claimants can combine different types of benefits within a claim if they qualify for each, but different rules apply depending on whether they combine different types of special benefits or regular and special benefits. The rules may lead to some claimants being unable to access some or all weeks of benefits if they experience different events in close succession.
+The Department will take into account the findings of this evaluation, as well as input received through the consultations on the modernization of the EI program in 2021-2022, as it explores approaches to enhance flexibility for claimants who need to combine maternity, parental, or any other special benefits with regular benefits
+.
+Actions planned
+2.1 Extend the analysis of trends on the combination of EI regular benefits and maternity and parental benefits to all special benefits. Leverage this information along with input received during the consultations on the modernization of the EI program to inform the plan to build a stronger and more inclusive EI program.
+Anticipated completion date: Summer 2023
+Annexes
+Annex A: Bibliography
+Internal sources (not published, available upon request)
+Canada Employment Insurance Commission. (2019). “2019/2020 Employment Insurance Monitoring and Assessment Report”
+Employment and Social Development Canada. (2018). “Record of Employment and Interruptions of Earnings: Firms”, Supplemental Study
+Employment and Social Development Canada. (2022). “Access to Employment Insurance Maternity and Parental Benefits”
+Employment and Social Development Canada. (2022). “Trends in Participation and Usage of Maternity and Parental Benefits”
+Employment and Social Development Canada. (2022). “Employment Outcomes”
+Employment and Social Development Canada. (2022). “Digest of Benefit Entitlement Principles”
+Human Resources and Skills Development Canada. (2005) “Evaluation of EI parental benefits : final report”
+Human Resources and Skills Development Canada. (2006) “Summative Evaluation of EI Part 1: A summary of Evaluation Knowledge to Date”
+External sources
+Conseil de gestion de l’assurance parentale, “Retombées économiques et sociales du regime Québécois d’assurance parentale: Bilan de dix années d’existence”, 2016
+Lin, Zhengxi. (1998). “Employment Insurance in Canada: Recent Trends and Policy Changes”, Statistics Canada, Business and Labour Market Analysis
+Meehan, Kathryn (2004), “Falling Through the Cracks: The Law Governing Pregnancy and Parental Leave”, Ottawa Law Review, Vol. 35, No. 2
+Phoenix Strategic Perspectives Inc. (2022). “Key Informant Interviews for the Evaluation of Employment Insurance Maternity and Parental Benefits”
+Robson, Jennifer (2017). “Parental Benefits in Canada: Which Way Forward?”, IRPP Study, March, No. 63
+Annex B: Summary of the 2005 Summative Evaluation of EI Parental Benefits
+A comprehensive evaluation of the Parental Benefits was published in 2005:
+Summative Evaluation of EI Parental Benefits
+and showed that:
+The evaluation assessed the legislation changes to the provisions of the
+EI Act
+regarding Parental Benefits that came into effect on December 31, 2000, which 1) reduced the insurable hours to be eligible for maternity and parental benefits from 700 hours to 600 hours; 2) increased the duration of parental benefits from 10 weeks to 35 weeks; 3) waived the waiting period for the second parent; and 4) allowed working while on a parental benefits claim.
+This evaluation found that:
+The changes increased eligibility, participation rates, and parents’ overall satisfaction with their leave
+The proportion of dual-earner couples who shared benefits more than doubled after the changes
+The enhanced benefits did not significantly affect the average amount of weekly benefits received or its contribution to families’ income
+The probability of combining with sickness benefits was significantly lower under the modified benefits
+On average, the changes had no significant effect on whether participants returned to their previous employer
+Most of the surveyed employers felt that the program changes had no impact on their profitability, growth, ability to attract new workers, and ability to retain employees
+The 2 main strengths were that the program allowed for more time to be with the child/children and improved the parent/child relationship. Maternal stress levels were also considered lower under the modified benefits
+Although Canada ranks fairly high in terms of the length of paid leave available in a comparison with Nordic countries, the comparison suggested that it could be useful to consider ways to further increase flexibility
+Annex C: Sources
+The Status Vector (SV) File
+The SV file is derived from the main file used by Service Canada to deliver and administer the program. It contains information on the timing, duration and types of benefits paid during a claim. The SV file is used to identify parents of newborns who received at least $1 of EI maternity and/or parental benefits prior to or following the birth of the child.
+Record of Employment (ROE)
+The ROE file contains all reported interruptions of earnings/work. The file includes information related to the first and last day worked, hours of insurable employment, insurable earnings, and industry of employment. The file is used to identify the timing of the last job separation of parents of newborns as well as the number of hours. The insurable hours from the ROEs are used to establish the eligibility of parents who had a job separation around the birth of their child.
+Canada Child Benefit File
+The CCB is a tax-free monthly payment made to 1 eligible parent who has children in their care under the age of 18 years. The CCB file contains information on the month and year of birth of the child for each CCB recipient. This file is used to identify parent(s) of newborns between January 2006 and December 2018. The file also contains information related to parents who received the Universal Canada Child Benefit and the Canada Child Tax Benefit.
+CRA T1 Records
+T1 records are filed by Canadian taxpayers every year. T1 records contain information on an individual’s incomes and deductions, as well as their gender, age, and marital status. For the evaluation, T1 records are used to identify parents’ characteristics and incomes in the year prior to the birth of the child and during the year of birth.
+CRA T4 Records
+Employers annually provide T4 records to employees for tax purposes. T4s contain information on the employer an individual has worked for and the amount of employment income they earned during the tax year. For the purpose of this evaluation, the number of T4 records of a firm is used to calculate the number of employees working for that firm.
+Employment Insurance Coverage Survey (EICS)
+The EICS provides an overview of who does or does not have access to EI regular benefits as well as to maternity and parental benefits. The survey is annually administered across all provinces using a sub-sample of respondents of the Labour Force Survey (LFS).
+Key Informant Interviews
+A total of 24 key informant interviews were conducted with representatives of the following groups: academic experts; employees and parent/worker associations; and employers and employer/industry associations. The interviews were conducted between October 2021 and January 2022.
+Footnotes
+Footnote 1
+Source: Meehan, "Falling Through the Cracks: The Law Governing Pregnancy and Parental Leave", Ottawa Law Review, Vol. 35, No. 2, 2004.
+Return to footnote
+1
+referrer
+Footnote 2
+See
+Annex B
+for a summary of key findings of the evaluation of enhancement of the Maternity and Parental benefits completed in 2005.
+Return to footnote
+2
+referrer
+Footnote 3
+The evaluation covers the period from January 2006 to December 2019. For more details, see Evaluation Scope on page 11.
+Return to footnote
+3
+referrer
+Footnote 4
+The reference period for a job separation is from 8 weeks (or 12 weeks after December 2017) prior to the expected due date/date of birth up to 17 weeks after the birth of the child for maternity benefits, and within 52 weeks after the birth in case of standard parental benefits or 78 weeks after the birth in case of parental extended benefits.
+Return to footnote
+4
+referrer
+Footnote 5
+Due to data limitations, it was not possible to precisely assess to what extent females who only claimed maternity and standard parental benefits and were laid off during their maternity or parental leave were impacted by the 50-week limit rule.
+Return to
+first
+footnote
+5
+referrer
+Page details
+Report a problem on this page
+Date modified:
+2023-04-26

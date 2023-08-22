@@ -1,0 +1,138 @@
+Audit of Supplier Contracts
+Final Report
+Audit, Evaluation, and Risk Branch
+February 2013
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+1.0 Supplier Compliance With Terms and Conditions of Contract
+2.0 CRA Monitoring of Supplier Contracts Examined
+Conclusion
+Executive Summary
+The
+Canada Revenue Agency (CRA) Act
+provides the Commissioner with full procurement authority for goods and services. Functionally, the Administration Directorate (AD) of the Finance and Administration (F&A) Branch has the authority for procurement and contracting activities.
+The
+Financial Administration Act (FAA)
+is the cornerstone of the legal framework for financial management and accountability in the Government of Canada. A key element to procurement is the Section 34 – Certification Authority (Account Verification), which requires individuals to certify that work was performed, goods and/or services were rendered as contracted and amount(s) charged agree with the price stipulated in the contract.
+Audit provisions are included in most CRA contracts providing the CRA with the ability to conduct reviews, inspections, and audits of supplier books and records. Specifically, these provisions allow the CRA to review the records of suppliers to validate contract payment(s) and confirm supplier compliance to contract terms and conditions. Exercising these provisions could assist in the following: detection of control weaknesses both on the part of the supplier and the CRA, deterrence of suppliers from initiating unacceptable practices, and establishment of an adequate level of audit presence.
+In order to provide assurance that the CRA meets its procurement requirements, a
+Cyclical Audit Plan for Procurement
+was approved at the October 2010 Management Audit and Evaluation Committee meeting. This audit is part of the cyclical audit plan.
+Objective:
+The objectives of the audit were to determine whether service suppliers were abiding by the terms and conditions of their contracts with the CRA as well as to determine whether controls were in place within the CRA to monitor supplier compliance. The audit focused on validating contract payments and assessing whether the terms and conditions of sampled contracts were met.
+Background:
+In 2009-2010, the Office of the Procurement Ombudsman (OPO) performed a procurement practices review
+Footnote 1
+. The departments and agencies under review informed
+the OPO that while they found the audit provisions useful to support ad hoc requests for additional documentation, they had not invoked these provisions to conduct audits of supplier records for the period under review. The OPO observed that there was potential for further application of the audit provisions in departments and agencies. The CRA F&A Branch requested that Internal Audit assist them in exercising the audit provision for selected service suppliers of CRA.
+As this was the first time that CRA exercised the audit provision with the external suppliers, it was agreed upon to restrict the sample of service suppliers to six and not select a statistically valid sample. The review was to include both suppliers’ internal controls over timekeeping, as well as the monitoring mechanisms within CRA to mitigate possible errors in the suppliers’ invoices.
+During the review of internal controls over timekeeping, it was established that two out of the first three suppliers interviewed relied on CRA monitoring, in addition to their own, to detect errors in suppliers’ invoices. Given the above and the extensive internal audit resource requirements for examination of external organizations, it was decided to not continue with the interviews and walkthroughs for the three remaining suppliers. The monitoring mechanisms in place within the CRA were examined for all six suppliers. The examination phase of the audit was conducted between November 2011 and July 2012.
+Conclusion:
+Overall, the three suppliers selected for exercising of the audit provision complied with the terms and conditions of their contracts with the CRA. Each had control mechanisms in place to ensure that time was properly recorded and tracked. Amounts charged were compliant with the payment terms and conditions of the contract and were accurate overall with only minor discrepancies noted. For all six suppliers examined the CRA had monitoring mechanisms in place to mitigate the risk of errors with suppliers’ invoices. One key mechanism was the application of Section 34 of the FAA.
+Opportunities for improvement have been identified and include the following:
+The definition of supporting documentation found within CRA contracts should be strengthened to ensure suppliers provide appropriate and sufficient documentation to the CRA to support their charges.
+The Section 34 holders’ roles and responsibilities should be actively communicated and the provision of guidance/support to Section 34 holders should be enhanced in relation to contract administration.
+Action Plans
+F&A has agreed with the internal audit recommendations and has provided action plans to address the audit findings.
+Introduction
+The
+Canada Revenue Agency (CRA) Act
+provides the Commissioner with full procurement authority for goods and services. Within the CRA, procurement authority for goods and services (excluding legal and construction services)
+Footnote 2
+is delegated, subject to certain conditions and limitations, to a number of positions. The Administration Directorate (AD) of the Finance and Administration (F&A) Branch has the functional authority for procurement and contracting activities within the CRA.
+To fulfill various procurement needs, the Agency uses several procurement vehicles such as: Standing Offers, Supply Arrangements, Contracts/Purchase Orders and E-procurement. For information technology services, the CRA has established the Professional Services Supply Chain
+Footnote 3
+(PSSC), which allows the CRA to supplement its own in-house information technology resources with external information technology professional services on an as-and-when requested basis.
+Breakdown of Transactions by Procurement Method (2011-2012)
+Method
+$ Value
+% Value
+$ Volume
+% Volume
+Contracting
+$414.1M
+89%
+6,476
+3%
+E-Procurement
+$48.8M
+11%
+181,250
+97%
+Total
+$462.9M
+187,726
+The
+Financial Administration Act (FAA)
+is the cornerstone of the legal framework for financial management and accountability in the Government of Canada. The FAA sets out a series of fundamental principles on the manner in which government spending may be approved and expenditures can be made. Key to procurement is Section 34 – Certification Authority (Account Verification) of the FAA, which states that before a payment is made, managers exercising their financial authorities must ensure that work specified in contracts has actually been performed, that goods have been received and that the amount(s) charged agree with the price stipulated in the contract.
+The inclusion of audit provisions in contracts provides the CRA with the ability to conduct reviews, inspections, and audits of supplier books and records. Specifically, these provisions allow the CRA to validate contract payment(s) and confirm supplier compliance to contract terms and conditions. Exercising these provisions could assist in the following: detection of control weaknesses both on the part of the supplier and the CRA, deterrence of suppliers from initiating unacceptable practices, and establishment of an adequate level of audit presence.
+In order to provide assurance that the CRA meets its procurement requirements, a
+Cyclical Audit Plan for Procurement
+was approved at the October 2010 Management Audit and Evaluation Committee meeting. This audit is part of the cyclical audit plan.
+Procurement activities in the CRA have been reviewed in previous internal audits that have highlighted areas of improvement required by the Agency with respect to contracting and e-procurement.
+Footnote 4
+However, the audit provisions that allow the CRA to review the books and records of suppliers to validate contract payment(s) and ensure supplier compliance with the terms and conditions of the contract were not examined in these previous audits.
+Focus of the Audit
+The objectives of the audit were to determine whether service suppliers were abiding by the terms and conditions of their contracts with the CRA as well as to determine whether controls were in place within the CRA to monitor supplier compliance.
+The audit focus included a review of the monitoring mechanisms that existed both within the suppliers and the CRA to validate contract payments, and assess whether the terms and conditions of sampled service contracts were met. The examination phase of the audit was conducted between November 2011 and July 2012.
+Background
+In 2009-2010, the Office of the Procurement Ombudsman (OPO) performed a procurement practices review.
+Footnote 5
+The departments and agencies under review informed the OPO that while they found the audit provisions useful to support ad hoc requests for additional documentation they had not invoked these provisions to conduct audits of supplier records for the period under review. The OPO observed that there was potential for further application of the audit provisions in departments and agencies. F&A requested that Internal Audit assist them in exercising the audit provision for selected service suppliers of CRA.
+As this was the first time that CRA exercised the audit provision with the external suppliers, it was agreed upon to restrict the sample of service suppliers to six and not select a statistically valid sample. The review was to include both suppliers’ internal controls over timekeeping, as well as review of the monitoring mechanisms within CRA to mitigate possible errors in the suppliers’ invoices. During the review of internal controls over timekeeping, it was established that two out of the first three suppliers interviewed relied on CRA monitoring, in addition to their own, to detect errors in suppliers’ invoices. Given the above and the extensive internal audit resource requirements for examination of external organizations, it was decided to not continue with the interviews and walkthroughs for the three remaining suppliers. The monitoring mechanisms in place within the CRA were examined for all six suppliers.
+Findings, Recommendations and Action Plans
+1.0 Supplier Compliance With Terms and Conditions of Contract
+The three suppliers selected for exercising of the audit provision had control mechanisms in place within their timekeeping system to ensure time was properly recorded and tracked with their respective CRA contract. Overall, the amounts charged on the contracts examined were in accordance with the payment terms and conditions of the contract. While one contract was noted as having discrepancies in the amounts charged, the impact of these discrepancies on the total contract value was negligible.
+The definition of supporting documentation contained within the three contracts for the selected suppliers was not always clear and well-defined. Appropriate and sufficient supporting documentation is the key control mechanism for tracking and verifying the accuracy of suppliers’ charges. It should contain adequate information to support the Section 34 holders with their verification process of the amounts charged.
+Based on results from audit testing of the supporting documentation from the three selected contracts examined, only one supplier had appropriate and sufficient documentation to substantiate the amounts charged to the CRA. For the remaining two, the first supplier could not provide detailed timesheets on a consistent basis to attest to the accuracy of the amounts charged for the invoices examined (timesheets were available for 7 of 24 invoices examined). The second supplier was able to provide supporting documentation but the contract requirement that these timesheets be properly authorized through the use of signatures was not adhered to in 32 of the 67 timesheets examined. Although the lack of properly authorized supporting documentation did not have an impact on the accuracy of the amounts charged on the five invoices examined, there is a risk that inaccurate amounts could be charged to the CRA.
+Results from the analysis of the supporting documentation provided by each of the three suppliers indicate that a lack of clarity in the meaning of supporting documentation led to various interpretations by suppliers. Opportunities exist to improve the definition of the supporting documentation in CRA contracts. There is a risk that the Section 34 holders will be restricted in their ability to validate the accuracy of suppliers’ charges if suppliers do not fulfill CRA’s requirement and expectations for appropriate and sufficient supporting documentation. Comments from interviews with these two suppliers indicate that, in addition to their own control mechanisms in place, they also relied on the CRA to monitor the accuracy of the amounts charged and to inform them of any discrepancies found. Consequently, it is essential that CRA Section 34 holders perform their account verification in a rigorous manner to detect and resolve potential discrepancies with supplier charges.
+Recommendation
+The Administration Directorate (AD) should ensure that the supporting documentation is appropriately and adequately defined in each contract according to the needs of the contract; and, in co-operation with Financial Reporting and Accounting Division (FRAD), ensure that the supporting documentation is suitable to allow Section 34 holders to apply Section 34 of the
+Financial Administration Act
+.
+Action Plan
+In December 2012, the Contracting Template Committee (CTC) of the AD reviewed the current contractual templates and ensured that any and all clauses relating to invoicing instructions were clearly written and that they contained clear instructions to officers advising them to update the list of supporting documentation required under a given contract to ensure that it is suitable and sufficient to allow Section 34 holders to verify an invoice. The action plan for this recommendation has been completed.
+2.0 CRA Monitoring of Supplier Contracts Examined
+The application of Section 34 is one of the key monitoring mechanisms within CRA to mitigate the risk of errors with suppliers’ invoices. According to the FAA Section 34 Account Verification Responsibilities, financial signing authorities are required to review various items before approving invoices for payment including the following:
+Contract or agreement terms and conditions have been satisfied including price, quantity and quality.
+Supplier or payee information is accurate and complete.
+Amount claimed has not been previously paid.
+The invoice or claim total has been calculated correctly.
+The supporting documentation is complete (i.e. original documents that support a payment, for example, the contract, original invoice, details of the purchase order, the amount, packing slip, etc.).
+Ensuring that there is auditable evidence of verification; that is, ensuring that the process identifies individuals who performed the account verification or ensures there is an electronic audit trail.
+To support Section 34 holders, the Financial Administration Directorate provides a full range of financial services, analysis and advice and functional direction. In addition, the Administration Directorate provides functional advice, guidance and support to assist CRA employees in carrying out their delegated procurement authority.
+Responses from interviews with Section 34 individuals and their staff responsible for the contracts examined indicate that monitoring mechanisms were in place to mitigate the risk of errors with suppliers’ invoices. In addition, the accuracy of the information contained within a sample of suppliers’ invoices was tested, including a review of the basis for the time charged, the per diem/rate and evidence of the application of the Section 34 certification authority. Results from the analysis of the invoices examined indicate that supplier claimed charges were approved by managers exercising their financial signing authorities. However, discrepancies found on invoices for one contract examined indicate that not all the items listed under the Section 34 Account Verification were reviewed in detail.
+An examination of 24 invoices from one supplier identified four invoices that made reference to incorrect contract numbers. Additionally, minor discrepancies were found with the amounts charged in three invoices. Although the errors were minor in nature and occurred for only one of the six suppliers examined, invoices were still certified for payment.
+For the second supplier, based on interviews, the suppliers’ claimed charges were reviewed, and subsequently approved by the Section 34 holders. The amounts charged for the five sample invoices were accurate. For the third supplier, there was evidence that supplier claimed charges were approved by the Section 34 holder. The amounts charged were accurate for the eight invoices reviewed.
+Three suppliers within the PSSC were examined. Based on interviews, a walkthrough, and a review of 12 sample invoices, the Section 34 verification process was in place. There was evidence that the suppliers’ invoices were reviewed for accuracy and validity before the Section 34 holders exercised their financial signing authority. There were no discrepancies found with the accuracy of the invoices reviewed.
+Recommendation
+The FRAD with assistance and support from the AD should actively communicate the Section 34 holders’ roles and responsibilities in relation to contract administration; as well as provide guidance and support to them.
+Action Plan
+The FRAD and AD will communicate the Section 34 holders’ roles and responsibilities in relation to contract administration; as well as provide guidance and support to them. In addition, FRAD will review the training material relating to the delegation of financial authority to emphasize the responsibilities in relation to contract administration.
+Implementation date:
+Communication: March 31, 2013
+Review of training: September 30, 2013.
+Conclusion
+Overall, the three suppliers selected for exercising of the audit provision complied with the terms and conditions of their contracts with the CRA. Each had control mechanisms in place to ensure that time was properly recorded and tracked. Amounts charged were compliant with the payment terms and conditions of the contract and were accurate overall with only minor discrepancies noted. For all six suppliers examined, the CRA had monitoring mechanisms in place to mitigate the risk of errors with suppliers’ invoices. One key mechanism was the application of Section 34 of the FAA.
+Opportunities for improvement have been identified and include the following:
+The definition of supporting documentation found within CRA contracts should be strengthened to ensure suppliers provide appropriate and sufficient documentation to the CRA to support their claimed or invoiced charges.
+The Section 34 holders’ roles and responsibilities should be actively communicated and the provision of guidance/support to Section 34 holders should be enhanced in relation to contract administration.
+Footnote 1
+Procurement Practice Reviews – 2009-2010 Reports- Chapter 2: Departmental Verification of Suppliers’ Records to Validate Contract Payments.
+Footnote 2
+Contracts for legal services may only be entered into by or with the approval of the Minister of Justice. Procurement authority for construction requirements has not yet been delegated by the Commissioner to any positions with the CRA. Construction and other related work requirements that may have any impact on or touch any of the base building components will be handled by Public Works and Government Services Canada.
+Footnote 3
+Formerly known as the IT Professional Services Supply Chain (ITPSSC), as of April 1, 2011 it is now referred to as the Professional Services Supply Chain (PSSC).
+Footnote 4
+National Audit of Contracting Processes, June 2004
+Follow-up Audit of Contracting Process, November 2006
+Audit of E-Procurement Activities, June 2008
+Footnote 5
+Procurement Practice Reviews  2009-2010 Reports - Chapter 2: Departmental Verification of Suppliers Records to Validate Contract Payments.
+Page details
+Report a problem on this page
+Date modified:
+2013-04-26

@@ -1,0 +1,434 @@
+Abbreviations, Acronyms and Glossary
+Electricity Wattages
+Glossary of Terms
+Acknowledgements
+The Evaluation Project Team would like to thank NRCan’s Renewable Energy Deployment sub-program, and the Renewable and Electrical Energy Division (REED) of the Electricity Resources Branch, for their collaboration during the evaluation. We would also like to acknowledge the contribution of all those individuals who provided insights and comments crucial to this evaluation.
+The Evaluation Project Team was under the direction of Jennifer Hollington, Head of Evaluation, as well as Gavin Lemieux, the Director of Evaluation. The evaluation was managed by Jamie Riddell, with the support of Michelle Brazil. Evaluation services were provided by TDV Global Inc.
+Executive Summary
+Introduction:
+Natural Resources Canada's (NRCan) Sub-Program 2.1.1 Renewable Energy Deployment (RED) is based on a need to assist in the development of a sustainable market in Canada for reliable and cost-effective renewable energy systems through the stimulation of demand and the creation of enabling framework for marine renewable energy. Renewable energy deployment comes with benefits such as reduced greenhouse gas (GHG) emissions. The RED sub-program comprises three program components, the Wind Power Production Incentive (WPPI), ecoENERGY for Renewable Power (ecoERP), and the Marine Renewable Energy Enabling Measures (MREEM).
+The purpose of the evaluation was to assess the relevance and performance of NRCan’s RED sub-program, as required by the Treasury Board of Canada’s Policy on Evaluation (2009). This report presents the findings, conclusions and recommendations of the evaluation of the RED sub-program covering the period 2010-11 to 2014-15.
+Methodology:
+Data collection was conducted from March to May 2015, and consisted of document review, international comparison of the United States (US) and Germany, an online survey of project proponents, and 28 in-depth interviews with program managers and staff as well as program stakeholders from industry, project proponents, other government departments and provinces/territories.
+The primary challenge for the evaluation of the WPPI and ecoERP programs was to identify stakeholders whose knowledge of the program was sufficiently current. The programs were initiated in 2002 and 2007 during which time there was significant interaction with stakeholders. The final project was commissioned in March 2011. Since that time, program activities centred on ensuring that recipients met requirements of the contribution agreements and that payments continued to be issued in accordance with the terms and conditions of contribution agreements (CAs). The primary challenge for the evaluation was mitigated by expanding the list of potential interviewees which allowed for a greater range of stakeholder experiences and views. A total of 28 interviews were conducted.
+Relevance Findings:
+For the WPPI and ecoERP program components, there is evidence from several sources indicating a need for the overall policy objective, outlined in the Clean Air Agenda (CAA), of increasing renewable energy capacity to contribute to greenhouse gas emission reductions (GHG). Both the RED program components WPPI and ecoERP have entered into long-term CAs with independent energy producers for the production of renewable energy (wind, solar, biomass, small hydro). Some of these agreements will remain in effect until 2021.
+The sub-program is aligned to both NRCan’s Strategic Objective: Natural Resource Sectors and Consumers are Environmentally Responsible and Government of Canada priorities as outlined in the Clean Air Agenda (CAA). The government has the policy authority for the program under the Energy Efficiency Act, and the department has the mandate for the program under the Department of Natural Resources Act.
+The principal purpose of the MREEM program component is to develop policy framework options and recommendations, for Cabinet’s consideration, regarding the administration of marine renewable energy projects in the federal offshore. A background paper outlining issues and considerations for informing the development of a policy framework was completed during the evaluation period to establish a common understanding of the existing policy and regulatory environment among federal departments and agencies with offshore responsibilities. At the time of the evaluation, the MREEM component was preparing for consultations with stakeholders in other jurisdictions as well as within industry to clarify the policy and regulatory environment.
+The federal government has had a history of implementing policies and programs aimed at increasing the proportion of renewable energy in Canada’s electricity supply mix. At the time of program initiation, production incentives were considered the appropriate policy instrument to increase overall clean renewable energy capacity. Going forward, a range of policy instruments could be considered to achieve this objective. Effective policy instrument choice depends on the needs of stakeholders and differs across jurisdictions reflecting a number of factors (e.g., natural elements, renewable energy technology under consideration, etc.) and the role of provincial governments.
+Effectiveness Findings:
+WPPI and ecoERP produced all expected and required outputs to process project applications (i.e., application procedures), assess project applications (i.e., due diligence processes, environmental assessments, technical reviews), develop contribution agreements, administer contribution agreements (i.e., amendments, novation agreements), and conduct ongoing monitoring of agreements (i.e., reporting procedures, audits, project files, databases).
+WPPI and ecoERP have realized their expected results. These program components have incorporated lessons learned and generated best practices for the department in management of a production incentive and administration of contribution agreements which include provisions for only paying for what is produced, limiting the maximum value of the agreements, and performance clauses that allow for adjustment of agreements due to low production. The 126 funded projects have produced at approximately 90% of the forecasted production and represent 5,382 MW of installed capacity with an annual expected production of more than 16 TWh, which represents approximately 7.0 to 7.7 megatonnes (Mt) of carbon dioxide (CO2) reduction per year.
+Overall, provincial and private utilities and industry have greater experience with renewable power generation and capacity as a result of the sub-program. Of the 126 projects supported by RED, 89 were wind projects (71%), 25 were low-impact hydro (20%), 8 were solar (6%) and 4 were biomass (3%). Figure 1 presents the distribution of 126 funded projects by province.
+Figure 1: Summary of WPPI and ecoERP Projects by Province
+Source: NRCan Presentation: Programs Presentation, REED Division Meeting, April 24, 2013, slide 3
+Text version
+Figure 1:  Summary of WPPI and ecoERP Projects by Province
+Figure 1 shows a bar graph of the WPPI and ecoERP projects by province. The graph has two scales: capacity in megawatts ranging from 0 to 2000 megawatts is shown on the left side in intervals of 200, funding in millions of dollars over 10 years is shown on the right, ranging from 0 to 600 in intervals of $100 million.  Funding amounts are depicted by a black diamond. There are 10 vertical bars, one for each province, showing the capacity produced in megawatts. The bars are arranged west to east beginning with BC and ending with NL. Each bar is sectioned and stacked by colour to depict different sources of energy. Yellow depicts solar, green shows biomass, blue shows hydro. Wind under ecoERP is shown as orange, and Wind WPPI is as light orange.  Capacity is shown relative to other sources of energy, other provinces, and to the interval in years.
+The bars illustrate a correlation between capacity generated and amount of funding. Ontario received the most funding at $525 million and also had the highest capacity generated at slightly over 1800 megawatts. Newfoundland received the least amount of funding at $17 million and also generated the least amount of energy at approximately 50 megawatts. From left to right, the funding and approximate capacity by province are as follows:
+
+BC: $305 million, approximately 900 MW
+AB: $283 million, slightly over 800 MW
+MB: $73 million, slightly over 200 MW
+SK: $58 million, approximately 175 MW
+ON: $525 million, slightly over 1800 MW
+QC: $236 million, approximately 725 MW
+NB: $87 million, approximately 300 MW
+PE: $42 million, approximately 150 MW
+NS: $79 million, approximately 225 MW
+NL: $17 million, approximately 50 MW.
+
+Overall, Ontario generated the highest capacity, followed by BC, AB, QC, NB, NS, MB, SK, PE and lastly NL. BC generated capacity from hydro and wind, AB from wind and biomass, ON from solar, biomass, hydro and wind, QC from wind and hydro. The remaining six provinces (MB, SK, NB, PE, NS, and NL) generated capacity from wind only. Wind energy generated the most capacity in all provinces except in BC where hydro generated more megawatts. Wind projects in BC, NB, PE and NL were funded by ecoERP only while Saskatchewan wind projects were funded only by WPPI. Wind projects in AB, MB, ON, QC and NS received both WPPI and ecoERP funding.
+Figure 2 below provides information on installed wind power capacity. Of interest is the continued growth in the sector since 2011, the last year that new projects were supported by ecoERP. The data in this graph demonstrates that growth has continued. CanWEA expected production to exceed 10,000 MW of capacity by 2015, and RED staff confirmed this capacity was reached in 2015.
+Figure 2: Wind Capacity Installed in Canada
+Source: ecoERP Retreat 2013, slide 13 as updated by program staff, September 2015.
+Text version
+Figure 2: Wind Capacity Installed in Canada
+Figure 2 shows the impact of federal funding on cumulative wind capacity installed in Canada between 1993 and 2015. Wind capacity installed in Canada is depicted by two line graphs, one showing total cumulative capacity as a pink graph line, the other showing showing federally funded cumulative capacity as a blue line. The scale on the vertical axis is MW, with a range of 0 to 10,000 in intervals of 1000. The horizontal axis shows each year between 1993 and 2015.
+The curve of each line is flat at 0 MW from 1993 until 1998. Cumulative capacity started to rise in 1998, but federal funding was flat until 2002 when WPPI started. At that point, cumulative capacity rose from approximately 200 MW in 2002 to almost 2000 MW in 2007. In 2007, ecoERP started and the slope of both lines increased sharply in parallel until 2010. After 2011, total cumulative capacity continues to increase until it reached 10,000 MW in 2015 while federal funding cumulative capacity remained flat as ecoERP stopped accepting new projects.
+The MREEM program appears to be on schedule to achieve its expected results. Given the current development of expected program outputs (i.e., legal opinions, an international overview study and a background paper), all indications are that MREEM will produce a policy framework.
+Efficiency and Economy Findings:
+Various factors have contributed to the efficient delivery of Renewable Energy Deployment (RED). The WPPI and ecoERP components have been managed in a cost-effective manner due to strong program design, management and effective performance monitoring.
+Several features in the design of the ecoERP program increased its efficiency:
+The program anticipated changes in activities over its life, which enabled it to implement a planned downscaling of program staff following the completion of the signing of contribution agreements at the end of 2010-11. As a result, O&M expenditures have declined significantly over the life of the program.
+Three unique features of the contribution agreements (CAs) were also found to have increased the efficiency of the program and helped achieve the objective of maximizing energy production.
+	
+There was a maximum dollar value associated with each CA. This was done to limit over-estimates of production at the outset of the program and to increase the overall number of potential energy producers using the program.
+Fluctuations in energy production (capacity factor) were built into the design of the CAs. Given that renewable energy production can vary for a variety of reasons (e.g., low wind), the program established a mechanism to pay based on the actual energy produced in a given period, instead of estimates of future production. As of March 2013, the program had expended $21.3 million less than original estimates as a direct result of paying only for actual energy production.
+A performance clause was included in the CA that required that under-performance (less than 90% of projected performance) triggers a re-adjustment of the value of the agreement. As of April 2013, the performance clause had been triggered in 45 of 104 ecoERP projects. At that date, 7 of the projects were readjusted, further reducing expenditures by $20 million.
+Results were also achieved efficiently due to leveraging. For ecoERP, a Government of Canada investment of approximately $1.4 billion resulted in achievements expected to cost almost $15.4 billion. This reflects a private sector investment of approximately $14 billion, or a 1:10 leveraging of federal funding.
+In MREEM, there was a savings of approximately $1 million on legal costs due to an unexpected in-kind contribution by the Department of Justice (DJ).
+The evaluation identified no major areas of improvement for WPPI, ecoERP or MREEM. The programs were well managed and used resources in a cost effective manner to produce expected outputs. The WPPI and ecoERP components have achieved expected outcomes, and MREEM is on track to achieve its expected results.
+Management Response and Action Plan (MRAP)
+1.0 Introduction
+1.1 Overview
+Natural Resources Canada's (NRCan) Sub-Program 2.1.1 Renewable Energy Deployment (RED) is based on a need to assist in the development of a sustainable market in Canada for reliable and cost-effective renewable energy systems through the stimulation of demand, and enabling frameworks. Renewable energy deployment has the potential to come with other benefits such as reduced greenhouse gas emissions (GHGs).
+The purpose of the evaluation was to assess the relevance and performance of NRCan’s RED sub-program, as required by the Treasury Board of Canada’s Policy on Evaluation (2009). This report presents the findings, conclusions and recommendations of the evaluation of the RED sub-program covering the period 2010-11 to 2014-15.
+1.2 Program Description
+The RED sub-program is comprised of three program components, the Wind Power Production Incentive (WPPI), ecoEnergy for Renewable Power (ecoERP), and the Marine Renewable Energy Enabling Measures (MREEM). Each program component had its own results framework per their respective Logic Models. In order to conduct an evaluation of the RED sub-program, it was necessary to consolidate the program component logic models into one RED sub-program Logic Model. That was accomplished by a logic model validation session held with program management and the evaluation team. The following are brief descriptions of the three program components. Please see Annex A for the RED Logic Model.
+Wind Power Production Incentive (WPPI)
+The WPPI program began in 2002 and was followed by the ecoENERGY for Renewable Power component in 2007. The WPPI initiative was intended to provide incentives to support the generation of 1,000 megawatts (MW) of new wind power capacity and 2.6 terawatt-hours (TWh) of electricity over a 15-year period. NRCan paid approximately half the excess cost of producing electricity from wind, compared to conventional sources, for the first 10 years of a project. WPPI provided a direct subsidy per kilowatt hour of wind energy produced, from 1.2 cents (1.2¢) down to 1.0 cent (1.0¢) depending on the start date of a project. A total of 22 wind projects, resulting in 924 megawatts of power were approved under WPPI by March 31, 2007.
+The original WPPI in 2002 received $260-million in funding. In 2005, the Federal Government provided WPPI additional funding of $69.9 million, which brought the program’s budget to $329.9 million over 15 years.
+ecoENERGY for Renewable Power (ecoERP)
+The production incentive approach of WPPI for wind projects was replicated under ecoENERGY for Renewable Power to include: biomass, low-impact hydro, geothermal, solar photovoltaic (PV) and ocean (tidal) energy. The ecoERP was launched in April 2007. All contribution agreements were signed by March 31, 2011, and the supported projects received a one cent (1.0¢) per kilowatt-hour (kWh) incentive for eligible production during their first ten years of operation. A total of 104 projects qualified for funding under the program representing investments of about $1.4 billion over 14 years and almost 4500 megawatts of renewable power capacity.
+Marine Renewable Energy Enabling Measures (MREEM)
+Marine Renewable Energy Enabling Measures is designed to develop a set of federal policy options and recommendations for administering marine renewable energy in the federal offshore. Authorization of marine renewable development in the federal offshore is a federal responsibility; however, federal legislation to deal with marine renewable energy development in the federal offshore does not exist.
+The MREEM program component was designed in two phases. The first phase involved research and analysis of Canada’s policy instruments, including relevant legislation and regulations, consultations with federal stakeholders and the examination of other countries’ marine renewable energy management regimes. These activities culminated in the development of a background paper. It incorporated knowledge gained from these activities and highlighted issues and considerations to be addressed in order to develop an efficient and effective policy framework for the administration of marine renewable energy development in the federal offshore.
+The second phase of the program component involves consultations with stakeholders on the issues and considerations identified in the background paper, followed by the development of a policy framework for administering marine renewable energy in the federal offshore.
+Program Logic Model
+The theory of change for the Renewable Energy Deployment (RED) sub-program is based on a need to assist in the development of a sustainable market in Canada for reliable and cost-effective renewable energy systems through the stimulation of demand, and enabling frameworks. Renewable energy deployment has the potential to come with other benefits such as reduced greenhouse gas emissions (GHGs), and cost savings from consumers and businesses.
+The creation of market awareness through the partnership projects of each program will in turn stimulate greater demand for renewable energy systems moving forward. By supporting the renewable energy industry through production incentives, and in the case of MREEM clarifying regulatory barriers, RED will lead to a commercially reliable and cost-effective market for renewable energy systems. This will ultimately assist Canada in reaching its climate change mitigation goals through the reduction of direct emissions as use of renewable power increases.
+The RED sub-program has the following objectives. Please see Annex A for the sub-program's Logic Model.
+The ultimate expected outcome of the RED sub-program is:
+Greater experience in Canada with low-impact renewable power generation and capacity.
+The intermediate outcomes are:
+Increased capacity and generation of low-impact renewable energy in Canada contributing to reduced greenhouse gas (GHG) emissions (ecoERP, WPPI);
+Canada has a framework for the administration of marine renewable energy (MRE) in the federal offshore (MREEM); and
+Increased production of marine renewable energy.
+The immediate outcomes are:
+Increased renewable energy capacity and generation by utilities and independent power producers (ecoERP, WPPI); and
+Increased knowledge of policy framework issues and options by federal, provincial, industry stakeholders, and by Cabinet (MREEM).
+1.2.1 Governance, Roles and Responsibilities
+The Assistant Deputy Minister (ADM), Energy Sector (ES) is responsible for RED. It is administered by the Director of the Renewable and Electrical Energy Division (REED), under the supervision of the Director General of the Electricity Resources Branch.
+1.2.2 Resources
+Resources for the RED sub-program are allocated through C-based funding including Grants and Contributions (Gs&Cs). RED will have expended approximately $155 million a year from 2010-11 to 2014-15 for a total of $734.4 million (See Table 1) during the evaluation period.
+Table 1: Expenditure Profile for RED Sub-program ($ CDN)
+Source: Program financial documents
+The ecoERP component consists of contribution agreements with 104 partners and represents approximately $1.4 billion dollars in planned commitments to the end of 2020-21. Yearly expenditure levels fluctuate as contribution agreements end and as variances occur in electricity production. The level of staffing has fluctuated from the beginning of the program to current levels. As an example, ecoERP has gone from a high of 14 full-time equivalents (FTEs) at the beginning of the program to the current level of four FTEs.
+The same applied to WPPI, which began in 2002 with a $260 million dollar investment to be spent over a 15-year period. In 2005, the government provided an additional $69.9 million in funding to WPPI, increasing the program’s budget to $329.9 million to be paid out until the end of 2016-17. WPPI had a high of four FTEs and was reduced to two FTEs.
+MREEM received $4 million over five years as part of the Clean Energy Fund. It was under budget partially owing to savings on legal counsel due to an in-kind contribution introduced by the Department of Justice (DJ).
+2.0 Evaluation Objectives and Methodology
+2.1 Evaluation Scope and Objectives
+The objective of the evaluation is to assess the relevance and performance (efficiency, economy, effectiveness) of NRCan's Sub-Program 2.1.1 Renewable Energy Deployment, according to the Government of Canada’s (GC) Policy on Evaluation (2009). The evaluation covers the period 2010-11 to 2014-15 and NRCan expenditures of approximately $155 million per year. The evaluation covered the activities and expenditures of RED over the four-year period 2010-11 to 2013-14, and considered the following five evaluation issues:
+Relevance
+Is there a continued need for the RED sub-program?
+	
+Assessment of the extent to which the sub-program continues to address a demonstrable need and is responsive to the needs of Canadians.
+
+
+Is the RED sub-program aligned with Government of Canada priorities?
+	
+Assessment of the linkages between sub-program objectives and Federal Government priorities and departmental strategic outcomes.
+
+
+Is the RED sub-program aligned with federal roles and responsibilities?
+	
+Assessment of the role and responsibilities for the federal government in delivering RED.
+Performance: Effectiveness
+To what extent has the RED sub-program achieved the expected outcomes?
+	
+Assessment of progress towards immediate, intermediate and ultimate outcomes.
+Performance: Efficiency
+To what extent has the RED sub-program managed resources efficiently and economically?
+	
+Assessment of resource utilization in relation to the production of outputs and progress toward expected outcomes.
+Sections 3, 4, and 5 in this report outline the findings for each of these defined evaluation issues and questions. Findings are presented by evaluation question and sub-question for the RED sub-program. Please see Annex B for the Evaluation Matrix.
+For each evaluation question, a rating is provided based on a judgment of the evaluation findings. The rating statements and their significance are outlined below in Table 2.
+Table 2: Definitions of Standard Rating Statements
+2.2 Evaluation Methodologies and Limitations
+2.2.1 Methodologies
+For this evaluation, data collection consisted of gathering information from the following sources:
+document, file and literature review;
+interviews;
+online survey of WPPI and ecoERP project proponents; and
+international comparison.
+Summary technical reports were developed for each line of evidence.
+Document Review
+Over 2,000 documents were identified, sourced and provided by NRCan, the vast majority of which pertained to seven project files. The evaluation team reviewed approximately 120 documents. Together, these documents provided a comprehensive record of the sub-program including policy documents, program planning documents, grey literature from websites and stakeholders, selected project files and other relevant documents.
+Interviews
+A total of 28 interviews were conducted with NRCan staff and program stakeholders. Five interview guides were used for the evaluation. Table 3 outlines the categories of interview groupings that were used for analysis:
+Table 3: Interview Groupings
+Online Survey
+The purpose of the survey was to reach WPPI and ecoERP project proponents to assess the relevance of the program to their needs and priorities, as well as its effectiveness in addressing those needs. The 13 survey questions were developed by the evaluation team with input from the Evaluation Advisory Committee (EAC). The survey consisted of a rating scale and/or Likert questions with open-ended questions to collect more detailed responses.
+A list of potential survey respondents and their contact information was compiled by the program staff. The survey link was sent to 96 individuals including WPPI and ecoERP project proponents, invoice and signatory contacts. There was a 62.5% response rate (n=60), but many of the survey responses were incomplete with only 37.5% (n=36) completed surveys. The reason for such a high level of incomplete surveys is unknown.
+International Comparison
+The objective of international comparison was to identify findings for the evaluation questions for Germany and the United States (US). The international comparison consisted of a desk study of a document and literature review of academic and non-academic sources (e.g., academic journals, industry reports, conference presentations, economic outlook information, grey literature, etc.)
+2.2.2 Limitations and Mitigation Strategies
+There were some limitations in the design and methods for this evaluation. Mitigation strategies were established to ensure that the evaluation findings and recommendations could be used to guide planning and decision making.
+The primary challenge for the evaluation of the WPPI and ecoERP programs was to identify stakeholders whose knowledge of the program was sufficiently current. The programs were initiated in 2002 and 2007 during which time there was significant interaction with stakeholders. The final project was commissioned in March 2011. Since that time, program activities centred on ensuring that recipients meet requirements of the contribution agreements and that payments continued to be issued in accordance with the terms and conditions of contribution agreements. The primary challenge for the evaluation was mitigated by expanding the list of potential interviewees. A total of 60 persons were contacted to conduct 28 interviews.
+The rate of completion for the surveys was low (36 of 60). This could reasonably be attributed to the passage of time and staff turnover. Given that the main activity of the program occurred prior to March 2011, this might have resulted in the current project contact person having limited program knowledge, which would impact on his/her ability to respond to survey questions. The low ratio of completed surveys was mitigated by the fact that most of the respondents had multiple projects. For example, eight of the proponents that responded covered 45 of the 126 projects supported by the program.
+At the time of the evaluation, MREEM has had very limited interaction with stakeholders with the exception of other federal government departments (OGDs) and agencies as the component has not yet formally launched external stakeholder consultations. The evaluation team has maintained close contact with the lead policy advisor of MREEM who has been the principal person gathering relevant external stakeholder information.
+3.0 Findings on RED Sub-Program Relevance
+3.1 Evaluation Issue 1: Continuing Need
+Summary: 
+Both the RED program components WPPI and ecoERP have entered into long-term contribution agreements (CAs) with independent energy producers for the production of renewable energy (wind, solar, biomass, small hydro). Some of these agreements will remain in effect until 2021.
+The federal government has had a history of implementing policies and programs aimed at increasing the proportion of renewable energy in Canada’s electricity supply mix. At the time of program initiation, production incentives were considered the appropriate policy instrument to increase overall clean renewable energy capacity. Going forward, a range of policy instruments could be considered to achieve this objective. Effective policy instrument choice depends on the needs of stakeholders and differs across jurisdictions reflecting a number of factors (e.g., natural elements, legacy systems, renewable energy technology under consideration, etc.). In addition, energy is largely a provincial jurisdiction and therefore policy and program coordination and alignment will be an ongoing consideration.
+The MREEM component is on schedule to develop policy framework options and recommendations, for Cabinet’s consideration, by March 31, 2016. It is expected that there will be a need to continue this program in order to operationalize the proposed policy recommendations or options.
+The international comparison study demonstrated that in other countries, federal governments were also overseeing the electricity sector, including renewable energy, and provided incentives (e.g., tax credits, feed-in tariffs, etc.).
+Analysis:
+3.1.1 Who are the stakeholders and what needs of theirs were addressed by the RED sub-program?
+Industry interviewee: It allowed the renewable energy industry to re-establish a balance in terms of energy costs. Renewable energy is still in the development phase so it needs this support. This incentive helps renewable energy producers provide a cost that is closer to what traditional energy producers charge.
+All three components are designed to ultimately have an impact on greenhouse gas emissions (GHGs), and by co-relation, climate change. It is possible to conclude that the range of stakeholders at such a high level of impact is all-encompassing, but that scope is not of practical use for the purposes of this evaluation. Stakeholders have been limited to those with more direct experience with the program components.
+The key stakeholders of the WPPI and ecoERP program components are industry (Independent Power Producers (IPP), energy associations), and provinces and territories (including public and private utilities). For WPPI and ecoERP:
+	
+IPPs: the need was for an incentive to improve economic viability and competitiveness for RE deployment (closing price gap, improving investment rate of return, securing long-term revenue stream);
+Utilities: there was a need for more experience integrating RE to the grid, and increasing RE in provincial energy portfolios to meet GHG emission targets; and
+Federal: assisted in meeting federal policy objectives in the Clean Air Agenda (CAA) regarding GHG emission reduction targets (Copenhagen Accord).
+
+
+MREEM stakeholders are very similar to those of the ecoERP and WPPI components, although legal and policy clarity on renewable energy in the federal offshore may also have broad benefits for other government departments (OGDs) and coastal communities. At this stage in the policy development process, the stakeholders in MREEM are:
+	
+Federal Government: clarifying its regulatory roles and responsibilities with respect to the federal offshore;
+Provinces/Territories: clarifying authority and regulatory roles with respect to marine renewable energy (MRE). Although not yet consulted at the time of this evaluation, provinces and territories are key stakeholders and consultations are scheduled for 2015-16; and
+Industry: need for a clear regulatory framework to deploy marine renewable energy. Although not yet consulted at the time of this evaluation, industry is a key stakeholder and consultations are scheduled for 2015-16.
+3.1.2 To what extent were the identified needs met?
+Interviews and documents reviewed demonstrated that the WPPI and ecoERP program components provided support to renewable energy projects that resulted in 5,382 MW of renewable energy capacity being deployed.
+Survey: All respondents indicated that the program had at least "somewhat" addressed their needs, with 47% indicating it had completely addressed their needs. The vast majority of respondents indicated that the program had addressed the economic feasibility of projects in some way. The most often mentioned comments in this regard were improved viability of the project, improved competitiveness when bidding on RFPs, and improved return on investment (ROI).
+Data collected from interviews, document review and the online survey indicated that the WPPI and ecoERP program components addressed the need of the renewable energy industry by reducing the price gap between renewable energy and traditional energy sources at the time, making the projects more economically feasible. This also allowed utilities to become more familiar with integrating renewable energy into the electricity grid, and addressed the needs of energy purchases (provincial and private utilities) that required more renewable energy in their portfolio to meet GHG emission reduction targets.
+	
+IPPs: the production incentive made projects more economically viable and competitive by reducing the price gap between RE costs and purchase prices.
+Utilities: utilities have been able to introduce more RE into their grid (5,382 MW of capacity), and have more experience integrating RE (126 projects).
+Federal: federal policy objectives are mirrored by provincial and private utility emission targets.
+OGD Interviewee: This initiative [MREEM] is extremely important, and we welcome it. We are hoping for a regulatory regime which will clarify things. There is a need for the federal government to bring order to a messy situation [in the federal offshore].
+According to interviews, at this stage, MREEM has addressed the knowledge gap of other federal departments and agencies (OGDs) regarding the regulation of the federal offshore. As MREEM continues to develop, other stakeholders and their needs will be engaged and addressed.
+	
+Federal: At this stage of the process, knowledge gaps have been addressed within government departments that have authority in the federal offshore activities.
+Provinces and territories: to be consulted.
+Industry: to be consulted.
+3.1.3 Are the needs continuing?
+According to the interviews, document review and online survey, from a federal and provincial perspective, the need was defined as increasing the amount of renewable energy, and a need for new, cost competitive renewable energy projects and GHG emission reductions continues.
+WPPI was established in 2002, ecoERP in 2007 and MREEM in 2011. According to interviews, document review and online survey, each was developed within a slightly different context due to a rapidly evolving environment. Changes in the environment included innovation in renewable energy technology; changes in federal and provincial policies in regard to renewable energy; and increasing experience with renewable energy. Currently, there is a continued need for the overall policy objective of increasing renewable energy capacity, but the choice of policy instrument is not limited to production incentives which were an appropriate response at the time. Renewable energy can be promoted using a variety of incentives such as Feed-in Tariff (FIT), tax credits or by research and development into challenges such as innovation in renewable energy technology, and integration into the grid (e.g., electricity storage, etc.).
+According to interviews and document review, the changing context is clearly the case for the wind power industry in Canada. It has significantly closed the price gap in many jurisdictions.
+According to interviews and document review, the energy market is dynamic, and solutions to identified needs are geographically dependent and technology driven. For example, the need of a wind power project in Saskatchewan is not the same as the need for a wind power project in Alberta, nor a small hydro project in Ontario.
+For MREEM, there were no changes in the operating environment that would impact the need to develop a policy framework for the marine renewables in the federal offshore. The need for MREEM continues as it has not yet completed its planned activities that are required to address the needs and achieve expected results.
+3.2 Evaluation Issue 2: Alignment with Government Priorities
+Summary: 
+The RED program is aligned to the government's priority as outlined in the Clean Air Agenda (CAA). It is aligned to the NRCan Strategic Objective 2: Natural resource sectors and consumers are environmentally responsible.
+Analysis:
+3.2.1 To what Federal Government priorities is the RED sub-program linked?
+The legislative authority for ecoERP is the Energy Efficiency Act (EAA), and it aligns to the Clean Air Agenda (CAA).
+MREEM aligns with the CAA and to the government's commitment to reduce GHG emissions. The Federal Sustainable Development Strategy (FSDS) provides the vehicle for reporting on the CAA. MREEM information relevant to the CAA is captured by Environment Canada's (EC’s) reporting on horizontal initiatives.
+3.2.2 To what departmental strategic outcomes and priorities is the program linked?
+In the NRCan Program Alignment Architecture (PAA) 2014-15, the Renewable Energy Deployment (RED) program is sub-program 2.1.1, under Program 2.1 Energy-Efficient Practices and Lower-Carbon Energy Sources, under Strategic Objective 2: Natural Resource Sectors and Consumers are Environmentally Responsible.
+3.3 Evaluation Issue 3: Alignment with Federal Roles and Responsibilities
+Summary: 
+According to document review and interviews, there is a role for the Federal Government in the promotion of renewable energy as outlined in the Energy Efficiency Act (EAA). The RED sub-program is supporting government priorities as outlined in the government’s Clear Air Agenda (CAA). NRCan has a clear mandate to deliver the program under the Department of Natural Resources Act.
+Analysis:
+3.3.1 Should the Government of Canada be involved in providing production incentives for increasing generation and capacity for electricity from renewable energy sources?
+The Federal Government has the authority, as outlined in the Energy Efficiency Act (EAA), to promote alternative energy and therefore, the ability to identify the appropriate policy instrument to achieve policy objectives. Production incentives are one such policy instrument. At the time of the ecoERP and WPPI design, production incentives were an appropriate response and contributed to the specified policy objectives.
+The Energy Efficiency Act, S.C. 1992, c.36 pertains to energy efficiency of energy-using products and the use of alternative energy sources. Part 2 of the Act concerns the promotion of alternative energy sources. Section 21 states:
+	
+The Minister may, for the purpose of promoting the efficient use of energy and the use of alternative energy sources,
+(a) conduct, or cooperate with persons conducting, research, development, tests, demonstrations and studies;
+(b) publish information, research or test results;
+(c) assist, cooperate with, consult and enter into agreements with any person, including any department or agency of the Government of Canada or of any province;
+(d) make grants and contributions; and
+(e) undertake such other projects, programs and activities as in the Minister’s opinion advance that purpose.
+
+
+According to interviews, since that time, many provinces such as Saskatchewan, Ontario and Quebec have introduced their own incentive programs which may reduce the federal role.
+The international comparison study demonstrated that in other countries, federal governments were also overseeing the electricity sector, including renewable energy, and provided incentives (e.g., tax credits, feed-in tariffs, etc.).
+For MREEM, according to the BNA Act the Government of Canada (GC) has exclusive legislative jurisdiction and ownership of lands and natural resources in offshore areas outside provincial boundaries.
+3.3.2 Is NRCan’s role appropriate in the context of the role of others?
+NRCan’s mandate, derived mainly from the Department of Natural Resources Act of 1994, includes promoting the sustainable development and responsible use of Canada’s mineral, energy and forestry resources.
+According to interviews and document review, NRCan’s role was appropriate. Production incentives were one option to pursue the promotion of renewable energy.
+4.0 Findings on the RED sub-program Program Effectiveness
+4.1 Evaluation Issue 4: Achievement of Expected Outcomes
+Summary: 
+According to interviews, document review and the online survey, the RED sub-program program components have produced expected outputs as planned. The WPPI and ecoERP program components have achieved their immediate and intermediate outcomes, and can be said to have contributed to their ultimate outcome. The MREEM program component is still producing outputs, and at the time of this report has partially achieved its immediate outcome.
+Analysis:
+4.1.1 What are the factors (both internal and external) that have facilitated or hindered the achievement of expected results?
+There were two key external factors that facilitated the achievement of results. First, the program was introduced at an opportune time with increasing demand for RE through supportive policies being introduced at the provincial/territorial level, resulting in an increased demand for renewable energy (as evidenced by renewable energy RFPs being issued by provincial utilities). Second, industry was developing innovation led to improvements in the technology which in turn led to improved cost competitiveness of some RE technologies, particularly wind turbines.
+The key internal factor identified most often by interviewees was that the program was well-designed and well-managed. This was in part due to the ecoERP program integrating best practices and lessons learned from WPPI into its own program design, in particular the need to limit the maximum value (cap) of the contribution agreements (CAs) and include performance clauses. This is further explained in the lessons learned section of this report.
+The document review outlined many other factors, both internal and external, that could impact on the achievement of results. Some of the key factors included:
+Table 4: Factors influencing results
+4.1.2 To what extent have sub-program outputs been delivered?
+Demonstrated: WPPI and ecoERP produced all expected and required outputs to process project applications (i.e., application procedures), assess project applications (i.e., due diligence processes, environmental assessments, technical reviews), develop contribution agreements, administer contribution agreements (i.e., amendments, novation agreements), and conduct ongoing monitoring of agreements (i.e., reporting procedures, audits, project files, databases). MREEM outputs at this stage of the program consisted of legal opinions, an international overview study and a background paper.
+The WPPI and ecoERP program components produced outputs as expected, and generally on time. As of March 31, 2011, there were 126 funded projects, representing 5,382 MW of capacity on a target of 5,000 MW.
+MREEM produced expected outputs as planned, namely the international overview and the background paper. Approximately 26 legal opinions were provided for this program component.
+Although not strictly limited to the evaluation period, a presentation provided by the sub-program in 2013 clearly indicated the volume of outputs produced from the beginning of ecoERP in 2007 to 2013:
+	
+350 project applications received;
+235 projects registered;
+139 Technical Project Information (TPI) reviewed;
+119 Contribution Agreements signed for 4,778 MW;
+104 active CAs for 4,458 MW;
+110 Environmental Assessments reviewed and screened;
+29 projects novated and/or amended; and
+1,349 invoices processed.
+
+
+Other outputs figures identified during the document review included:
+	
+34 project audits completed as of March 2014; and
+73 technical site visits and 63 environmental site visits were completed between 2008 and March 2015.
+4.1.3 To what extent are target groups satisfied with program delivery?
+There was generally a high level of satisfaction among program stakeholders with the delivery of the RED sub-program.
+All interviewees indicated that all components of the RED program were very well-managed and delivered. All stakeholder groups interviewed were satisfied.
+All survey respondents were at least "mostly" satisfied with WPPI and ecoERP, with 47% very satisfied, and 39% completely satisfied.
+4.1.4 Immediate Outcome: To what extent has there been an increased renewable energy capacity and generation by utilities and independent power producers?
+Demonstrated: Overall there has been increased renewable energy capacity for ecoERP and WPPI amounting to 5,382 MW on a target of 5000 MW. Actual power generation fluctuates year to year. As of March 31, 2013, the actual capacity factor (CF) of the projects was slightly lower than originally forecasted. The projects on average have produced at approximately 90% of the forecasted production.
+There are 126 projects supported by WPPI and ecoERP. Figure 3 presents the distribution of projects across the country:
+Figure 3: Summary of WPPI and ecoERP Projects by Provinces
+Source: NRCan Presentation: Programs Presentation, REED Division Meeting, April 24, 2013, slide 3
+Text version
+Figure 3:  Summary of WPPI and ecoERP Projects by Province
+Figure 3 shows a bar graph of the WPPI and ecoERP projects by province. The graph has two scales: capacity in megawatts ranging from 0 to 2000 megawatts is shown on the left side in intervals of 200, funding in millions of dollars over 10 years is shown on the right, ranging from 0 to 600 in intervals of $100 million.  Funding amounts are depicted by a black diamond. There are 10 vertical bars, one for each province, showing the capacity produced in megawatts. The bars are arranged west to east beginning with BC and ending with NL. Each bar is sectioned and stacked by colour to depict different sources of energy. Yellow depicts solar, green shows biomass, blue shows hydro. Wind under ecoERP is shown as orange, and Wind WPPI is as light orange.  Capacity is shown relative to other sources of energy, other provinces, and to the interval in years.
+The bars illustrate a correlation between capacity generated and amount of funding. Ontario received the most funding at $525 million and also had the highest capacity generated at slightly over 1800 megawatts. Newfoundland received the least amount of funding at $17 million and also generated the least amount of energy at approximately 50 megawatts. From left to right, the funding and approximate capacity by province are as follows:
+
+BC: $305 million, approximately 900 MW
+AB: $283 million, slightly over 800 MW
+MB: $73 million, slightly over 200 MW
+SK: $58 million, approximately 175 MW
+ON: $525 million, slightly over 1800 MW
+QC: $236 million, approximately 725 MW
+NB: $87 million, approximately 300 MW
+PE: $42 million, approximately 150 MW
+NS: $79 million, approximately 225 MW
+NL: $17 million, approximately 50 MW.
+
+Overall, Ontario generated the highest capacity, followed by BC, AB, QC, NB, NS, MB, SK, PE and lastly NL. BC generated capacity from hydro and wind, AB from wind and biomass, ON from solar, biomass, hydro and wind, QC from wind and hydro. The remaining six provinces (MB, SK, NB, PE, NS, and NL) generated capacity from wind only. Wind energy generated the most capacity in all provinces except in BC where hydro generated more megawatts. Wind projects in BC, NB, PE and NL were funded by ecoERP only while Saskatchewan wind projects were funded only by WPPI. Wind projects in AB, MB, ON, QC and NS received both WPPI and ecoERP funding.
+According to interviews, the large concentration of projects in Ontario can be partially explained by the province implementing an aggressive plan during the evaluation period to replace its coal-fired power plants, and the WPPI and ecoERP program components providing an opportunity to support the introduction of renewable energy sources.
+Interviewee: Absolutely. I can clearly say that Canada would not be where it is today, 7 in world [in wind power capacity], if not for the catalytic initiatives that these programs represent. It is more challenging to do this in Canada. In other countries, federal governments have much more authority/responsibility for energy. So to design something to engage the entire country is challenging.
+According to interviews and document review, renewable energy capacity added by WPPI and ecoERP projects is fixed at 5,382 MW, but the actual electricity generation varies widely each year mainly due to fluctuating wind patterns. This underscores some of the longer-term challenges facing renewable energy, namely the integration of intermittent sources of energy into the electricity grid. The sub-program made adjustments, and lowered the expected capacity factor for ecoERP projects to 36% from the WPPI expected CF of 38%.
+According to interviews and document review, despite lower than expected CF and the fact that overall electricity generation fluctuates, targets (of 15.1 TWh/yr.) were still met. This can be explained by the fact that the actual installed capacity of 5,382 MW was approximately 7.5% above target.
+4.1.5 To what extent has there been increased knowledge of policy framework issues and options by federal, provincial, industry stakeholders and cabinet?
+Interviewee: The plan was good; it was a sequential layering of information. We went through legislation that could apply to marine renewable energy and looked for what was missing (i.e., energy transmission from offshore to Canada), looking abroad in Europe and filling in the gaps for MREEM about other departments. Then we developed a background paper that helped stakeholders’ understanding of the issues.
+Partially demonstrated: As planned to March 2015, only policy framework issues had been tabled with other government departments (OGDs) that had been engaged in consultation. In 2015-16, further stakeholder consultations will be undertaken in terms of identifying policy options, specifically with provinces/territories and industry. Those departments engaged to date acknowledge that MREEM outputs have filled knowledge gaps on federal offshore regulation.
+All interviewees stated that MREEM had increased the knowledge of policy framework issues.
+4.1.6 To what extent is there increased capacity and generation of low-impact renewable energy in Canada that is contributing to reduced GHG emissions?
+Demonstrated. The program has both replaced and displaced emitting sources of energy, and therefore has contributed to GHG emission reductions. Estimated GHG emission reductions as a result of projects are 7.0 Mt CO2/year.
+According to interviews and document review, RED can only estimate the emission reductions or avoidance that will come from displacement of fossil-fuel electricity generation. The program has estimated that it will reduce or avoid GHG emissions by seven megatonnes (Mt) of CO2/year. Canada's electricity sector as a whole has reduced its overall GHG emissions in the period 2009-13 from 121 Mt to 86 Mt, which is largely contributed to the displacement of Ontario's coal-fired plants. ecoERP and WPPI committed over $500 million in funding for clean energy projects in Ontario.
+The vast majority of interviewees indicated there had been a reduction in GHG emissions, but some quantified that response with factors that might place the total figure calculated by the program in question. The program figure of between 7 and 7.7 Mt of CO2/year, assumed that the new renewable energy project (non-emitting) was replacing what would have been an emitting energy source. That was certainly true in most jurisdictions, but not in all. For example, B.C. and Quebec had high levels of hydro power (non-emitting). Installing more renewable energy projects in B.C. and Quebec was not necessarily replacing emitting sources. All survey respondents indicated that there was at least "some contribution" by the program to reduced greenhouse gas emissions (GHGs), with 39% indicating a significant contribution.
+4.1.7 To what extent is there greater experience in Canada with low-impact renewable power generation and capacity?
+Demonstrated, as a result of many factors, with some contribution by the sub-program in terms of accelerating deployment of renewable energy.
+According to interviews, document review and the online survey, provincial and private utilities and industry have greater experience with renewable power generation and capacity as a result of the program. The projects assisted utilities in gaining more experience with integrating new technologies into the grid, at a time when they did not have a lot of experience or knowledge of renewable energy.
+According to interviews and document review, there has been significant growth in wind power capacity and generation in Canada since the start of WPPI in 2002. Since the end of new project funding in 2011, wind capacity installation in Canada has continued to grow at significant levels. In 2011 (the last year for new project funding) there was approximately 5,250 MW of installed wind capacity. In 2014 that capacity was 9,694 MW.
+Interviewee: I would say yes, the projects made it more mainstream and acceptable for utilities. They had a better understanding of what was involved and it increased awareness of RE as a viable source of energy. The challenge of integration into the grid because RE are intermittent sources has been addressed and has exceeded expectations.
+All interviewees across all interviewee categories indicated the programs contributed to the growth in renewable power generation and capacity beyond the project they directly supported. The projects assisted utilities in gaining more experience integrating the technologies into the grid at a time when they did not have a lot of experience or knowledge of renewable energy.
+Figure 4 below provides information on installed wind power capacity. Of interest is the continued growth in the sector since 2011 which was the last year that new projects were supported by ecoERP. CanWEA expected growth to exceed 10,000 MW of capacity in 2015 and information from the RED program staff confirmed this had occurred.
+Figure 4: Wind Capacity Installed in Canada
+Source: ecoERP Retreat 2013, slide 13 as updated by program staff, September 2015.
+Text version
+Figure 4: Wind Capacity Installed in Canada
+Figure 4 shows the impact of federal funding on cumulative wind capacity installed in Canada between 1993 and 2015. Wind capacity installed in Canada is depicted by two line graphs, one showing total cumulative capacity as a pink graph line, the other showing showing federally funded cumulative capacity as a blue line. The scale on the vertical axis is MW, with a range of 0 to 10,000 in intervals of 1000. The horizontal axis shows each year between 1993 and 2015.
+The curve of each line is flat at 0 MW from 1993 until 1998. Cumulative capacity started to rise in 1998, but federal funding was flat until 2002 when WPPI started. At that point, cumulative capacity rose from approximately 200 MW in 2002 to almost 2000 MW in 2007. In 2007, ecoERP started and the slope of both lines increased sharply in parallel until 2010. After 2011, total cumulative capacity continues to increase until it reached 10,000 MW in 2015 while federal funding cumulative capacity remained flat as ecoERP stopped accepting new projects.
+Interviewee: These were the first Canadian projects that we did. Now our company has 12 wind projects, 2 small solar, and continued interest in Canada. We have placed a development team in Toronto.
+It is difficult to directly attribute this growth in the industry to the RED sub-program, but there is evidence to suggest it played a role, particularly in the wind power industry. All interviewees and survey respondents stated that the RED program components played at least some role in increasing the experience of renewable energy in Canada. The degree might be different across the different technologies. Of the 126 projects supported by RED, 89 were wind projects (71%), 25 were low-impact hydro (20%), 8 were solar (6%) and 4 were biomass (3%).
+Most of the survey respondents (79%) indicated that there had been growth in the sector, but comments received indicated that this was not generalized across the country. Some respondents indicated that incentives still played a strong role in a company's decision to invest.
+Besides WPPI and ecoERP, many other factors (see Table 4) have played a role in the growth of renewable energy in Canada. The major factors that influence the renewable energy sector include provincial policies, natural elements in the jurisdiction, legacy systems, and technological developments.
+4.1.8 To what extent has a framework for administration of marine renewable energy in the federal offshore been developed?
+Too early to measure: The MREEM program was launched in Budget 2011 under the Clean Air Agenda (CAA). It is a two-phased approach. The first phase, 2011-16 which is the period under review, planned for research and analysis activities. As of May 2015, a background paper and international overview had been produced, and consultations were ongoing.
+MREEM produced legal opinions, an international overview and background paper. The international overview and background paper were distributed to other government departments (OGDs), and consultations with OGDs were held.
+All interviewees stated that considerable progress in the development of a policy framework was made, but work still remained. As of the writing of this report (May-June 2015), there were ongoing consultations with provinces/territories and industry associations. The deadline for a framework was set for March 2016.
+4.1.9 Have there been any unintended (positive or negative) outcomes?
+There were no unexpected outcomes, although some interviewees referred to the positive impact on job creation, both during the construction phase and ongoing operations. It could be argued that it was not unexpected, given that program funding was going to new renewable energy projects that would involve construction and maintenance. Job creation was not an objective of the sub-program, and no data had been collected that could quantify the impact of the sub-program on job creation.
+Interviewees indicated that there were no unintended negative outcomes.
+In regard to unintended positive outcomes, it was not clear for document review or interviews if the program activities resulted in provinces introducing policies that were supportive of renewable energy, or if other factors resulted in this policy change. However, the introduction of supportive provincial policies was identified in interviews as a positive unexpected outcome. The vast majority (80%) of survey respondents indicated there were no unintended outcomes. Of the comments received, none referred to an unexpected outcome, with some comments referring to specific operational issues only.
+5.0 Findings on the RED sub-program's Efficiency and Economy
+5.1 Evaluation Issue 5: Efficiency and Economy
+Summary: 
+WPPI and ecoERP are cost efficient due to good program design, good management and effective, ongoing, and comprehensive monitoring of projects. The sub-program is a source of best practices, particularly with respect to the Terms and Conditions for its Grants and Contributions (Gs&Cs) and its overall performance monitoring. Both have been recognized positively within NRCan and can potentially benefit other NRCan programs. For ecoERP only, the achievement of results is expected to cost, over a 20-year cycle, almost $15.4 billion, of which the federal investment is approximately $1.4 billion. For ecoERP only, this reflects a private sector investment of approximately $14 billion, or a 1:10 leveraging of federal funding.
+Analysis:
+5.1.1 What measures were taken to achieve efficiencies and/or cost savings?
+The program has been administered at a very reasonable cost (actual and estimated) of $8.9 million from 2011-12 to 2015-16. This is 1.3% of overall actual and estimated expenditures. There was a planned, staged reduction of staff as the program work flow changed with time, starting in 2011-12, after the end of the application period.
+Three unique features of the contribution agreements (CAs) were also found to have increased the efficiency of the program and helped achieve the objective of maximizing energy production.
+	
+There was a maximum dollar value associated with each CA. This was done to limit over-estimates of production at the outset of the program and to increase the overall number of potential energy producers using the program.
+Fluctuations in energy production (capacity factor) were built into the design of the CAs. Given that renewable energy production can vary for a variety of reasons (e.g., low wind), the program established a mechanism to pay based on the actual energy produced in a given period, instead of estimates of future production. As of March 2013, the program had expended $21.3 million less than original estimates as a direct result of paying only for actual energy production.
+A performance clause was included in the CA that required that under-performance (less than 90% of projected performance) triggers a re-adjustment of the value of the agreement. As of April 2013, the performance clause had been triggered in 45 of 104 ecoERP projects. At that date, 7 of the projects were readjusted, further reducing expenditures by $20 million.
+
+
+The ecoERP Terms and Conditions also contained a "repayable contribution clause" as a means of managing risk to the program in terms of overpayment. This clause however, has not been triggered by the program to date. In order to avoid providing a subsidy that would result in undue profits, the repayable contribution clause would be applied if the project received substantially higher energy revenues for its production in excess of a standardized price at some point with the 10-year payment period. For most of the projects, the standardized threshold price was 12 cents/kWh. To calculate if a repayment was required, a value was determined, the Current Unit Value Received (CUVR) which was compared against the standard threshold price. If the excess of the CUVR over the standard threshold price exceeded the incentive (1 cent/kWh), there would be an obligation to repay on the part of the proponent. Standardized threshold prices were set in the Terms and Conditions:
+	
+For low impact biomass, hydro and wind: projects smaller than or equal to 10 MW of capacity: 13 cents kWh or $130/MWh; project larger than 10 MW of capacity: 12 cents/kWh or $120/MWh.
+For solar projects, recognizing that they were currently not cost competitive with conventional energy sources: 43 cents/kWh or $430/MWh.
+5.1.2 Cost and approach of RED compared to similar programs in other jurisdictions
+The evaluation undertook a high-level international comparison that included looking at renewable energy programs in the US and Germany. The programs in these countries included tax credits and a feed-in tariff (FIT). It was not possible to draw clear findings from the cost comparison given the different approaches in each country.
+In terms of cost, the RED production incentive costs approximately $155 million a year, including management. The US Production Tax Credit (PTC) costs approximately $1.54 billion per year. In each country, the costs represent approximately the same ratio of costs to GDP.
+The approach in Germany is rate-payer based and broader in scope, and costs significantly more at approximately $5.5 billion per year for an economy about twice the size of Canada.
+5.1.3 Has there been leveraging of program resources?
+There has been leveraging of program resources. Information on leveraging of resources has only been collected for the 104 ecoERP projects. Information collected from ecoERP project proponents indicates there will be a total estimated investment of $15.3 billion on the deployed projects over a 20-year project cycle, with the Crown contributing a total of approximately $1.4 billion. Actual total investment may be higher if information from the 22 WPPI projects were included in the calculation.
+The ecoERP program component captures this information in an internal database. A report produced from the database provided the following information:
+	
+Total Initial Development Cost: $385 million;
+Total Component Cost: $6 billion;
+Construction and Labour costs: $3.4 billion;
+Annual operating and maintenance costs: $275 million per year.
+
+
+Drawing on previous evaluation questions (see 1.1. and 1.2), the production incentive improved the economic feasibility of some of the projects which in turn might have contributed to their securing other financing.
+5.1.4 What, if anything, could have been done better?
+No areas for improvement were identified. The RED sub-program was well-designed and well-managed. There were some international lessons learned that might apply to future programming, if that were pursued. The RED sub-program itself was recognized by NRCan for Excellence, and there were best practices that could be taken from this program and potentially applied in other NRCan programs.
+For the evaluation period, WPPI and ecoERP have been largely transactional in activity. The major lessons learned with respect to the production incentive, were incorporated during the transition from WPPI to ecoERP in 2007.
+The Renewable Energy Evaluation in 2010 did not identify any significant areas for improvement. A program audit in 2012 identified two minor areas for improvement, both of which the program subsequently addressed. These were succession planning and verification of information NRCan's proactive disclosure website.
+International lessons learned draw attention to the need for long-term consistency and predictability to programs in order to strengthen the renewable energy industry.
+For MREEM, no areas of improvement were identified. International lessons learned indicate that when doing a regulatory impact analysis, special attention needs to be paid to the financial aspect of offshore projects including revenue certainty, debt capacity of proponents and integration into the grid.
+Program best practices that could potentially be applied in other areas are largely concerned with program design and management:
+	
+staged staffing profile commensurate with workflow and volume,
+Grant and Contribution Terms and Conditions - manage risk, ensure predictability of expenditures and commitments, and maximize cost savings by i) provision of maximum values, ii) development of appropriate performance clauses and penalties, and iii) a contribution repayment clause that manages the risk of duplicating other incentives leading to undue profits by industry.
+Comprehensive, automated and timely performance monitoring of projects for decision-making, in this case as evidenced by the program's database.
+5.1.5 Is performance data being collected and used on an ongoing basis?
+The WPPI and ecoERP components of the RED sub-program use performance and financial information on an ongoing basis to administer the activities of the program. All project information is contained in the RED databases.
+The WPPI and ecoERP components of the RED sub-program use performance information on an ongoing basis to administer the activities of the program. Core performance information is focused on energy production. Verification is done through risk-based auditing. Performance information is used to adjust agreements and expenditure profiles as necessary.
+Technical site visits and environmental site visits are also conducted to assess performance and compliance with agreements. Please see Section 4.1.2 of this report for more details on the audits and site visits performed.
+According to a NRCan presentation in 2012, on an ongoing basis there are:
+	
+126 annual reports every FY;
+repayability checks;
+performance reviews;
+EcoLogo status and air emission reports for biomass projects;
+site visit reports (both EA and technical site reports);
+GHG emission reductions; and
+recipient audits (34 as of 2014).
+5.1.6 To what extent can the impacts and effects noted, if any, be attributed to RED?
+If WPPI and ecoERP had not been initiated, it is likely that current RE capacity would have taken longer to attain.
+The majority of interviewees stated that renewable energy deployment would have happened regardless of the RED sub-program, but perhaps it would have taken longer to achieve the levels of capacity that exist today.
+Most of the respondents (70%) indicated that change in the development of renewable energy could be attributed to the program and the projects WPPI and ecoERP had supported. Some comments by respondents indicated this was overwhelmingly with regard to the role of the production incentive in improving the economic viability of projects at the time. Some respondents suggested that their projects would not have proceeded without the production incentive in place.
+6.0 Conclusions
+Relevance
+For the WPPI and ecoERP program components, there is strong evidence indicating that there continues to be a need for the overall policy objective, outlined in the Clean Air Agenda (CAA) of increasing renewable energy capacity to contribute to greenhouse gas emission reductions (GHG). Both the RED program components WPPI and ecoERP have entered into long-term contribution agreements (CAs) with independent energy producers for the production of renewable energy (wind, solar, biomass, small hydro). Some of these agreements will remain in effect until 2021.
+The sub-program is aligned to both NRCan’s Strategic Objective: Natural Resource Sectors and Consumers are Environmentally Responsible and Government of Canada (GC) priorities as outlined in the Clean Air Agenda (CAA). The government has the policy authority for the program under the Energy Efficiency Act, and the department has the mandate for the program under the Department of Natural Resources Act.
+The purpose of the MREEM is to develop policy framework options and recommendations regarding the administration of marine renewable energy projects in the federal offshore by March 31, 2016. The program is on schedule to deliver policy framework options and recommendations by said date. There is a continued need for development of a policy framework for the marine renewable energy in the federal offshore because the current policy and regulatory environment is unclear.
+The federal government has had a history of implementing policies and programs aimed at increasing the proportion of renewable energy in Canada’s electricity supply mix. At the time of program initiation, production incentives were considered the appropriate policy instrument to increase overall clean renewable energy capacity. Going forward, a range of policy instruments could be used to achieve this objective. Effective policy instrument choice depends on the needs of stakeholders and differs across jurisdictions reflecting a number of factors (e.g., natural elements, ?legacy systems?, renewable energy technology under consideration, etc.). In addition, energy is largely a provincial jurisdiction and therefore policy and program coordination and alignment will be an ongoing consideration.
+Effectiveness
+WPPI and ecoERP produced all expected and required outputs to process project applications (i.e., application procedures), assess project applications (i.e., due diligence processes, environmental assessments, technical reviews), develop contribution agreements, administer contribution agreements (i.e., amendments, novation agreements), and conduct ongoing monitoring of agreements (i.e., reporting procedures, audits, project files, databases).
+WPPI and EcoERP have realized their expected results. These program components have incorporated lessons learned and generated best practices for the department in management of a production incentive and administration of contribution agreements. The 126 funded projects have produced at approximately 90% of the forecasted production and represent 5,382 MW of installed capacity with an annual expected production of over 16 TWh, which represents approximately 7.0 to 7.7 mega tonnes of carbon dioxide (CO2) reduction per year. Overall, provincial and private utilities and industry have greater experience with renewable power generation and capacity as a result of the sub-program.
+The MREEM program appears to be on schedule to achieve its expected results. Given the current development of expected program outputs (i.e., legal opinions, an international overview study and a background paper), all indications are that MREEM will produce a policy framework.
+Efficiency and Economy
+Various factors have contributed to the efficient delivery of Renewable Energy Deployment (RED). The WPPI and ecoERP components have been managed in a cost-effective manner due to good program design, management and effective performance monitoring. Several features in the design of the ecoERP program increased its efficiency:
+The program anticipated changes in activities over its life, which enabled it to implement a planned downscaling of program staff following the completion of the signing of contribution agreements at the end of 2010-11. As a result, O&M expenditures have declined significantly over the life of the program.
+Three unique features of the contribution agreements (CAs) were also found to have increased the efficiency of the program and helped achieve the objective of maximizing energy production.
+	
+There was a maximum dollar value associated with each CA. This was done to limit over-estimates of production at the outset of the program and to increase the overall number of potential energy producers using the program.
+Fluctuations in energy production (capacity factor) were built into the design of the CAs. Given that renewable energy production can vary for a variety of reasons (e.g., low wind), the program established a mechanism to pay based on the actual energy produced in a given period, instead of estimates of future production. As of March 2013, the program had expended $21.3 million less than original estimates as a direct result of paying only for actual energy production.
+A performance clause was included in the CA that required that under-performance (less than 90% of projected performance) triggers a re-adjustment of the value of the agreement. As of April 2013, the performance clause had been triggered in 45 of 104 ecoERP projects. At that date, 7 of the projects were readjusted, further reducing expenditures by $20 million.
+Results were also achieved efficiently due to leveraging. For ecoERP, a Government of Canada investment of approximately $1.4 billion resulted in achievements expected to cost almost $15.4 billion. This reflects a private sector investment of approximately $14 billion, or a 1:10 leveraging of federal funding.
+In MREEM, there was savings of approximately $1 million on legal costs due to an unexpected in-kind contribution by the Department of Justice (DJ).
+The evaluation identified no major areas of improvement for WPPI, ecoERP or MREEM. The programs were well managed and used resources in a cost-effective manner to produce expected outputs. The WPPI and ecoERP components have achieved expected outcomes, and MREEM is on track to achieve its expected results.
+Recommendations
+The WPPI and ecoERP programs’ best practices should be shared within NRCan so that other programs can capitalize on lessons learned with respect to a large industry-focused grant and contribution program such as RED.
+The MREEM program should complete planned provincial and industry consultations on the issues and considerations identified in the background paper and then develop a policy framework for administering marine renewable energy in the federal offshore in order to inform a policy framework. Further considerations should be given to how a policy framework will be implemented.
+Management Response and Action Plan (MRAP)
+Annex A: RED Logic Model
+Text Version
+The RED Logic Model presents the program logic for the three components as a results chain of five linked levels. The levels are Activities, Outputs, Immediate Outcomes, Intermediate Outcomes and Ultimate Outcomes. Vertical arrows link each level in the direction of Activities to Ultimate Outcome. The components are: ecoENERGY for Renewable Power (ecoERP), Wind Power Production Incentive (WPPI), and Marine Energy Enabling Measures (MREEM).
+The activities for ecoERP and WPPI are: 
+
+Evaluate and assess project proposals for eligibility
+Provision of financial incentives  for production of electricity from eligible low-impact renewable energy (ecoERP) or wind (WPPI)
+Monitoring of program performance and report results 
+
+The activities for MREEM are:
+
+Conduct legal research and analysis
+Conduct policy research and analysis of  international approaches
+Consult with stakeholders
+
+The activities of ecoERP and WPPI lead to the following outputs:
+
+Contribution agreements, amendments and novation agreements
+Audits, environmental assessments, performance reviews, technical reviews, annual reports
+
+The MREEM activities lead to the following outputs:
+
+Legal opinions
+International comparison study
+Stakeholders consultation meetings
+Background paper
+
+The immediate outcome for ecoERP and WPPI is increased renewable energy capacity and generation by utilities and independent power producers. The immediate outcome for MREEM is Increased knowledge of policy framework issues and options by  federal, provincial and industry stakeholders, and by Cabinet.
+The intermediate outcome for ecoERP and WPPI is increased capacity and generation of low-impact renewable energy in Canada contributing to reduced greenhouse gas (GHG) emissions. For MREEM, the two intermediate outcomes are 1) Canada has a framework for the administration of marine renewable energy in the federal offshore, and 2) Increased production of marine renewable energy.
+The ultimate outcome for all three components is greater experience in Canada with low-impact renewable power generation and capacity.
+Annex B: Evaluation Matrix

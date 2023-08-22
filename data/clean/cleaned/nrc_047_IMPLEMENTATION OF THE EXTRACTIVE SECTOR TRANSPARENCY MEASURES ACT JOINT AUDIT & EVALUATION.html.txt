@@ -1,0 +1,80 @@
+IMPLEMENTATION OF THE EXTRACTIVE SECTOR TRANSPARENCY MEASURES ACT JOINT AUDIT & EVALUATION
+About the Program
+The
+Extractive Sector Transparency Measures Act
+(the Act) came into force on June 1, 2015 and is intended to support Canada’s international commitment from the 2013 G8 Leaders Summit to deter global corruption in the extractive sector through the promotion of greater transparency and accountability.
+The Act requires certain businesses (referred to as “entities”) to publicly disclose payments made to government payees, both national and international, in relation to the commercial development of oil, gas and minerals.
+The Minister of Natural Resources Canada (NRCan) is responsible for the administration and enforcement of the Act, and the program to implement the Act is delivered by NRCan’s Business Management Services and Data Branch (BMSDB) in the Lands and Minerals Sector (LMS). LMS has allocated existing A-base funding to support a program team consisting of four FTEs.
+What the Joint Audit and Evaluation Found
+This engagement is among the first joint audit and evaluation projects undertaken by NRCan’s Audit and Evaluation Branch and therefore includes both audit and evaluation findings. Engagement findings are presented thematically.
+Relevance
+The program exists to support the Minister of NRCan in administering and enforcing the Act. The program fulfills Canada’s 2013 G8 commitment and Canada’s Enhanced Corporate Social Responsibility Strategy to Strengthen Canada’s Extractive Sector Abroad. The program is aligned with Canada’s National Action Plan on Open Government and contributes to NRCan’s Core Responsibility of supporting “Globally Competitive Natural Resource Sectors.”
+Program Design, Planning, and Implementation
+The program developed an approach for the administration and enforcement of the Act, but it has not been reviewed and updated since 2017. The program has also established financial planning processes and defined resourcing requirements. To date, the program has not received additional funding to support its activities, and has yet to begin enforcement of the Act. The engagement found that, given existing resources, the program operated efficiently and economically in the implementation of compliance promotion and capacity building activities. However, the program adapts its activity levels and intended level of assurance to reflect existing program resources; which was identified as a challenge that could hinder the full implementation of compliance monitoring and enforcement activities.
+The program has employed and maintained a sustainable information technology solution that supports program operations, and is in compliance with departmental and governmental policies. There is a need for a security plan to address the implementation of the security controls and to address vulnerabilities or areas of risk identified in the Security Assessment and Authorization Report.
+Implementation of the Compliance Framework
+As part of capacity building and compliance promotion in the early stages of administering the Act, the program established and implemented processes and procedures to identify stakeholders and engage in outreach activities. The engagement found that these activities raised industry’s awareness of their obligations under the Act, and that industry accesses and uses the tools and guidance the program has created. The program continues to engage with stakeholders for the development and refinement of tools and guidance to facilitate entities’ reporting, and industry seeks additional guidance from the program when needed.
+Due to the hidden nature of corruption and difficulties in identifying the full reporting population, it is difficult for the program to know the full extent of industry compliance with the Act. Further, it has not undertaken formalized compliance monitoring and enforcement activities, making it difficult to assess the effect of enforcement actions on the degree of industry compliance. Although the program publishes links to entities’ reports under the Act, there is a risk that these reports may not be fully accessible to the public if links are broken.
+Program Outcomes and Performance Monitoring
+The program has ensured that Canada met its international commitments to transparency in the extractive sector. By increasing the transparency of payments to governments through publishing entities’ reports and ensuring industry compliance with the Act, the program is expected to contribute to deterring corruption in the global extractive sector.
+The program performance measurement activities are not formalized, which could lead to gaps in effective program planning as the program moves towards enforcement.
+About the Joint Audit & Evaluation
+The engagement focused primarily on the period from when the Act came into force on June 1, 2015, to the end of June 2019. The objective of the engagement was to assess the effectiveness of the management controls supporting NRCan’s role in the implementation and administration of the Act. The engagement also examined the effectiveness and efficiency of NRCan’s processes to manage and oversee the requirements placed on extractive entities that are subject to the Act. Specifically, the engagement assessed:
+Whether resource planning and management oversight mechanisms are in place to effectively administer the Act;
+Whether effective processes are in place to identify and engage with stakeholders on an ongoing basis;
+Whether the program has a formalized framework and business processes in place to support legislative requirements;
+Whether the program has employed and maintained a sustainable information technology solution that supports program operations, and is in compliance with departmental and governmental policies;
+The extent to which the program has achieved its expected outcomes and identify any unexpected outcomes; and,
+The extent to which the program’s design, delivery and performance have contributed to the efficient use of resources.
+The approach and methodology is consistent with the Government of Canada requirements for internal audits and program evaluations stipulated in relevant Treasury Board Policies. Details on the joint engagement approach and methodology are found in the full report.
+Recommendations
+It is recommended that the Assistant Deputy Minister, LMS, in conjunction with CIOSB, implement the required IT security controls and address the two technical vulnerabilities identified in the Security Assessment and Authorization Report for the IT solution.
+Management Response and Action Plan
+Management agrees with Recommendation #1
+Since completion of the Joint Audit and Evaluation, LMS has undertaken an updated Technical Vulnerability Assessment and Security Assessment and Authorization Report (SAAR),and, in conjunction with CIOSB, will implement the required IT security controls and address the two technical vulnerabilities identified in the SAAR for the ESTMA IT solution.
+Position Responsible:
+DG, BMSDB, in conjunction with the NRCan Chief Information Officer
+Timing:
+LMS will work with CIOSB to address the outstanding IT security controls to be included in the next scheduled release of the ESTMA Admin system prior to
+December 2020
+.
+LMS will work with CIOSB and Shared Services Canada to address the first vulnerability by
+March 2020
+.
+The second vulnerability will be included in the next scheduled release of the ESTMA Admin system prior to
+December 2020
+.
+It is recommended that the Assistant Deputy Minister, LMS, update and formalize the Compliance Framework to support the effective administration and enforcement of the Act, through:
+effective resource planning;
+the identification of program risks;
+the development of detailed processes for compliance monitoring and enforcement activities; and
+improved information management practices.
+Management agrees with Recommendation #2
+Since completion of the Joint Audit and Evaluation, LMS has launched a contract with a consultant to support development of detailed processes and procedures for compliance monitoring and enforcement. In parallel, LMS is updating and formalizing the Compliance Framework.
+Since completion of the Joint Audit and Evaluation, LMS has also undertaken a risk assessment workshop, and is in the process of finalizing a comprehensive program risk assessment to effectively administer and enforce the Act.
+Since completion of the Joint Audit and Evaluation, LMS has examined leading practices, and has developed a robust Information Management strategy to improve the program’s information management practices, which is expected to be finalized soon.
+Position Responsible:
+DG, BMSDB
+Timing:
+The Compliance Framework, as well as processes and procedures, are expected to be completed by
+April 2020
+.
+Development of a comprehensive program risk assessment is expected to be completed by
+January 2020
+.
+IM strategy will be developed and implemented by
+January 2020
+.
+It is recommended that the Assistant Deputy Minister, LMS, develop performance measurement indicators to track the program’s progress towards its intended outcomes, and explore options for increasing public access to entities’ reports and program performance information.
+Management agrees with Recommendation #3
+Since completion of the Joint Audit and Evaluation, LMS has developed draft performance measurement indicators to track the program’s progress towards its intended outcomes, which will be formalized following consultation with subject matter experts.
+Since completion of the Joint Audit and Evaluation, LMS has been exploring options for increasing public access to ESTMA reports that are published by businesses subject to the Act and assessing the options based on several criteria, including, cost, technical feasibility, compliance with Government of Canada web accessibility requirements, etc.
+Position Responsible:
+DG, BMSDB
+Timing:
+Performance indicators and existing Program Information Profile will be updated by
+January 2020
+.
+Options and proposed strategies for increasing public access to ESTMA will be developed by
+January 2020
+.

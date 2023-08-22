@@ -1,0 +1,179 @@
+Information Received Under the Memorandum of Understanding With Service Nova Scotia and Municipal Relations
+Final Report
+Corporate Audit and Evaluation Branch
+January 2010
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, recommendations and action plans
+Use of RMV System
+Log of Access
+Use of Information
+Communication of Information to Third Parties
+Security
+Management of User Access Privileges
+Systems Access Accountability
+Storage of Protected and Classified Information and Assets
+Security Awareness
+Code of Ethics and Conduct
+Retention and Disposal
+Conclusion
+Executive Summary
+Background:
+This audit deals with information received by the Canada Revenue Agency (CRA) under the Memorandum of Understanding (MOU) with Service Nova Scotia and Municipal Relations (SNSMR) signed on, and with an effective date of, August 19, 2007. The purpose of the MOU is to outline the conditions and procedures relating to CRA employee on-line access to information from the Registry of Motor Vehicles (RMV) system of SNSMR.
+Objective:
+The objective of the audit was to determine whether the CRA is in compliance with the terms and conditions governing the use, communication to third parties, security, retention and disposal of information provided by SNSMR as set out in the MOU. The audit was conducted at the Nova Scotia Tax Services Office (NSTSO - Halifax and Sydney sites). The planning phase of the audit was conducted from February to April 2009. The examination phase was conducted from May to July 2009.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Conclusion:
+There was no evidence that the information received from SNSMR was used for purposes other than for the administration and enforcement of the
+Income Tax Act and Excise Tax Act
+. There was also no evidence of communication of information to any third party outside of the terms of the MOU. However, during the audit it was determined that one particular use of the information was not within the parameters established in the MOU.
+CRA management has taken steps to promote awareness of employee responsibilities related to the protection of taxpayer information. However, the audit found that there were instances of non-compliance with CRA policies related to the management of user access privileges, systems access accountability, and the storage of protected and classified information and assets. These areas require increased attention in order to bring more rigour to the use and security of RMV information.
+Action Plan:
+The NSTSO and the Corporate Strategies and Business Development Branch (Client Relations Directorate) have provided action plans to address the audit findings. The NSTSO will no longer use the RMV system for the purpose of identifying individuals and businesses from license plate information; a semi-annual review of systems access privileges will include a review of RMV access; employees will be reminded on a regular basis of their obligations related to the use of their logon accounts; and, the NSTSO is undertaking an initiative to strengthen security in its buildings.
+Introduction
+The Canada Revenue Agency (CRA) enters into Memoranda of Understanding (MOU) and other written arrangements with federal, provincial and territorial departments and agencies to improve efficiency and effectiveness in program delivery. Where an MOU includes the exchange of protected or classified information, the CRA negotiates MOUs so that both parties are aware of and respect legal and policy requirements related to the use and the security of information. Where warranted, MOUs that include an exchange of information contain a provision for an internal audit of the use and security of the information received.
+This audit deals with information received by the CRA under the MOU with Service Nova Scotia and Municipal Relations (SNSMR) signed on, and with an effective date of, August 19, 2007.
+[Footnote 1]
+The purpose of the MOU is to outline the conditions and procedures relating to CRA employee on-line access to information from the Registry of Motor Vehicles (RMV) system of SNSMR. The nature of the information that the CRA may obtain under the MOU includes the vehicle description; name, address and date of birth of the owner; previous owner(s); and financial information related to the purchase of the vehicle. In certain situations (e.g. for the execution of search warrants) designated staff in the Enforcement Division of the Nova Scotia Tax Services Office (NSTSO) may also request and obtain photographs of vehicle owners from SNSMR.
+Designated CRA employees may access the RMV system on a case-by-case basis using standalone computers at various locations within the Office
+[Footnote 2]
+(NSTSO) and the Saint John Tax Services Office (SJTSO).
+[Footnote 3]
+These computers are shared among CRA employees providing access to the RMV system via a virtual private network between the CRA and the Province of Nova Scotia. The computers are not connected to CRA networks. SNSMR facilitates on-line access by providing UserIDs and passwords to CRA employees in the audit, enforcement, and debt management programs. For the fiscal year 2008-2009, CRA employees made approximately 5,500
+[Footnote 4]
+queries in the RMV system.
+Focus of the
+Audit
+The objective of the audit was to determine whether the CRA is in compliance with the terms and conditions governing the use, communication to third parties, security, retention and disposal of information provided by SNSMR as set out in the MOU.
+The audit was conducted at the NSTSO.
+[Footnote 5]
+The planning phase of the audit was conducted from February to April 2009. The examination phase was conducted from May to July 2009.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings
+, recommendations and action plans
+Use of RMV System
+Log of Access
+The MOU requires that each access to the RMV system be recorded in a log, itemizing the date, name queried and the use made of the information. Two of the three operational units at the NSTSO have maintained manual logs of access to the RMV system. However, these logs are not consistent in the information that is recorded. For example, one particular log contains the date of the query, client name, and the name of the auditor or collector who requested the information. In another log the recorded information includes the client's social insurance number, the name of the requestor's team leader, and the use made of the information.
+The HST Prepayment unit of the NSTSO does not maintain a log of access. Based on interviews conducted in the HST Prepayment section it is estimated that approximately 2500 queries were made by that unit in the RMV system during 2008-2009. The maintenance of a log of access can facilitate the monitoring of the use of the system by team leaders. The MOU states that the manager responsible for the program area will review these logs regularly. The team leaders that were interviewed during the audit indicated they did not review the logs that are maintained in their areas of responsibility.
+A complete record of accesses to the RMV system by CRA employees would be an electronic audit trail maintained within that system. The internal audit team requested a record of accesses made by CRA employees during 2008-2009. The audit trail would have been used to perform audit tests related to the use of that system for the purposes outlined in the MOU.  As SNSMR was not able to provide an electronic audit trail of accesses, this limits the level of assurance that can be provided related to the use of the RMV system. Additionally, the lack of both automated and manual logs of access indicates that there is not an effective mechanism in place to monitor CRA employee access to the RMV system.
+Recommendations
+The NSTSO should ensure that:
+logs of access are maintained in all operational units according to the requirements of the MOU. Logs should contain at least the date, name queried and the use that is made of the information, and
+team leaders regularly review access logs.
+CSBDB (Client Relations Directorate) should consult with SNSMR in order to determine the feasibility of developing a mechanism to monitor access to the RMV system.
+Action Plan
+Logs are now maintained in all user sections in accordance with the requirements of the MOU.
+There will be a random check of these logs to confirm the business need to access the system
+Documentation of these checks will be maintained by the team leader
+Discrepancies will be brought to the attention of the division manager
+The Client Relations Directorate, working through its Account Executive for the Atlantic Region, will meet with SNSMR to discuss whether it is feasible to develop a mechanism to monitor CRA access to the RMV system.
+Use of Information
+The MOU with SNSMR outlines the specific administrative and enforcement purposes for which the CRA may use RMV information. The information is used primarily by the CRA to support the collection of accounts receivable, the development of potential audits, and the processing of HST credit returns at the NSTSO. The information may also be used at the SJTSO to support the Informant Leads Program which is regionalized at that TSO. Information from the RMV system is used to further develop informant leads that pertain to residents of Nova Scotia.
+Internal audit performed a cursory review of the logs of access that are maintained in various divisions of the NSTSO. Nothing unusual was noted in four of five logs examined. However, in the log of access maintained in the Audit Division (Workload Development section) it was noted that on four occasions during 2008-2009 significant numbers
+[Footnote 6]
+of license plate identifiers were queried in the RMV system. These queries were related to compliance activities. It was not clear from reading the MOU document whether that specific use of the RMV system is within the parameters of the MOU. Therefore, the internal audit team recommended during the conduct of this audit that Corporate Strategies and Business Development Branch (CSBDB) consult with SNSMR to clarify the issue. Following consultation, SNSMR confirmed that the specific use was not covered under the MOU.
+Recommendation
+The NSTSO should cease using the RMV system for the purpose of identifying individuals and businesses from license plate information, unless specifically provided for in the MOU.
+Action Plan
+The information that was used to identify individuals or businesses was used solely for the administration and enforcement of the Income Tax and Excise Tax Act to support the activities of the Underground Economy initiative.
+This use was discontinued as soon as CRA received clarification from SNSMR.
+Planned information sessions will incorporate the circumstances under which this information can be used and where to seek guidance when it is unclear.
+Communication of Information to Third Parties
+According to the MOU, any information received by the CRA is protected from further disclosure to any other party. Furthermore, if the information becomes subject to a request under the
+Access to Information Act
+, the CRA will consult with SNSMR as to the appropriate course of action.
+The users of the RMV system and their team leaders indicated during interviews that they were not aware of any disclosure of information outside the CRA. The internal audit team also consulted with the Access to Information and Privacy (ATIP) Directorate of the Public Affairs Branch to determine the procedure to be followed in a case where information requested under ATIP included RMV information. They indicated that if a request was received for an audit file, the ATIP Directorate would release the vehicle information only if it pertains to the requestor and only after consultation with the Information Access and Privacy Administrator for Nova Scotia.
+Internal audit also consulted with the Security, Risk Management, and Internal Affairs Directorate (SRMIAD) of the Finance and Administration Branch to determine whether there has been any security incidents related to RMV information. SRMIAD indicated that there have been no reported security incidents.
+Security
+Appendix C of the MOU with the SNSMR outlines the security requirements for the handling, storage, and disposal of information. Based on these requirements and an assessment of risks related to information received from SNSMR, the following security controls were examined:
+management of user access privileges
+systems access accountability
+storage of protected and classified information and assets
+security awareness
+Code of Ethics and Conduct
+Management of User Access Privileges
+It is CRA policy that supervisors/managers ensure that user access privileges to IT systems are kept current. The local IT and/or security administrator is to be advised when the access requirements change or are no longer required. In addition, a review of user access privileges must be done at least semi-annually to ensure that the accesses to systems and information are in accordance with assigned work-related activities.
+SNSMR provided internal audit with a list of CRA authorized users of the RMV system. The list contained the names of 27 CRA employees. The internal audit team determined that nearly 50% of these employees were not using the system for a variety of reasons. For example, three of these employees had retired or were no longer employed in the Agency since June 2008; and four had been transferred to other positions where access was not required.  The computer application that provides access to motor vehicle information database resides on only seven standalone computers; therefore the risk is low that the employees who are no longer working for the Agency could access the RMV system. The risk increases that the RMV system will be used for a purpose other than intended under the MOU, when user access privileges are not removed as required.
+Recommendation
+The NSTSO should ensure that access privileges to the RMV system are reviewed on at least a semi-annual basis in accordance with CRA policy, and that SNSMR is notified of any changes. In a case where an employee no longer requires access to the system, SNSMR should be notified immediately.
+Action Plan
+Team leaders and managers will include a review of the Registry of Motor Vehicle access as part of their semi-annual review of system access privileges.
+When an employee no longer requires access SNSMR will be notified immediately.
+CRA will request SNSMR to provide us with a list of registered users from their records on a semi-annual basis to confirm our internal review.
+Systems Access Accountability
+It is CRA policy that users are to be aware that they are accountable for their accesses to IT systems. In addition, their UserIDs and passwords are never to be shared or provided to any other individual. CRA employees who use the RMV system were provided with a unique UserID and password by SNSMR.
+During interviews conducted with 12 users of the RMV system, and observation of their use of the system, the internal audit team confirmed two situations where individuals had shared their UserIDs and passwords with other members of their operational unit who performed similar duties. In one situation a UserID and password were saved to a logon screen such that any employee having access to that particular standalone computer had automatic access to the RMV system. In the other situation an employee would sign into the RMV system and allow another employee to use the system. The sharing of logon accounts occurred on a regular basis over a period of at least six months. Those interviewed indicated that the sharing of logon accounts occurred while employees were awaiting approval of access to the RMV system by SNSMR. They also reported that it typically took from four to six months to receive authorization from SNSMR to access the RMV system.
+Recommendations
+The NSTSO should ensure that:
+UserIDs and passwords are not saved on the logon screens of the RMV system and,
+employees who have access to the RMV system are reminded on a regular basis of their obligations related to the use of their logon accounts.
+Action Plan
+User IDs and passwords are no longer saved on the logon screen
+Security Requirements have been communicated to users and periodic reminders are in place
+A CRA team leader has obtained access to the RMV system to alleviate lack of access during a staff absence or change of staff.
+Storage of Protected and Classified Information and Assets
+CRA security policy states that Protected and Classified information and assets must be securely stored when not in use or when they are left unattended. Taxpayer information, for example
+,
+must be stored in a key-locked drawer or container.  Laptop computers must be stored in a locked drawer or container to reduce the risk of theft. Physical security controls in place at the NSTSO (Ralston Building) include electronic card access at both the main entrance and to each floor of the building. Similar controls are also in place at the Sydney site. Internal audit tested these controls and found that they were working.
+In order to test compliance with policies related to the storage of information assets, internal audit conducted security sweeps
+[Footnote 7]
+, after normal business hours, of selected areas of the two sites of the NSTSO where RMV information is used. The security sweeps were performed to generally assess the level of compliance with CRA policies related to the protection of taxpayer information. The audit test was not done specifically to detect security violations with respect to RMV information. This would have been impractical given that the information that is printed from the RMV system is typically attached to a debt management, HST prepayment or audit file once a query results in the positive identification of a vehicle owner. For the fiscal year 2008-2009, approximately 5,500 queries were made in the RMV system by CRA employees.
+During the conduct of security sweeps, the internal audit team noted that the audit division at the Sydney site follows a good practice of assigning responsibility on a daily basis to one individual to ensure CRA information & assets contained in filing cabinets, for example, are locked. As a result, there was a very high rate of compliance with security requirements in that division.
+The following table is a summary of the results of the security sweeps conducted.
+Security violations detected during security sweeps included: files left on desks; laptop computers not secured; drawers containing files not locked; and taxpayer information left on printers. When information assets are not secured according to CRA security policies the risk increases that taxpayer information may be lost or disclosed without authorization.
+Recommendation
+The NSTSO should take measures to strengthen compliance with CRA security policy requirements.
+Action Plan
+Access to the NSTSO is restricted at the lobby to employees who display a swipe pass that includes their picture. The lobby is staffed with commissionaires at all times
+Access to each floor is restricted to security cleared employees and further restricted in areas such as the Enforcement Division
+All divisions are reviewing their storage capacity for cabinets with locks.
+Managers have been requested to ensure all team members are reminded of the end of day lock up procedures relating to files, computer and sensitive information.
+A TSO wide initiative led by the Director of the TSO is underway. In collaboration with the regional security advisor, the TSO will further strengthen its security throughout the building.
+Security Awareness
+Security awareness initiatives are in place in the CRA and are delivered nationally and locally. These initiatives promote awareness of policies and procedures related to the protection of CRA personnel, information, and physical assets. The CRA held its annual Security Awareness Week from February 9-13, 2009. The objective of that week was to promote good security practices and to make employees aware of their security-related responsibilities. The NSTSO also offered security awareness sessions to its employees during 2008-2009.
+The internal audit team conducted a review of the communication via e-mail to employees at the NSTSO. During the fiscal year 2008-2009 employees received at least 18 emails dealing with the subject of security and the protection of taxpayer information. These communications were from various sources including the NSTSO senior management team, the Atlantic Region Assistant Commissioner, the Finance and Administration Branch, and the CRA Commissioner. Communication was enhanced during Security Awareness week. Users of the RMV system were also sent an email communication dealing with their specific obligations related to the use the RMV system.
+Code of Ethics and Conduct
+The MOU with SNSMR requires that information provided under the MOU shall be controlled and limited to employees who have been briefed on the provisions of sections 239 and 241 of the
+Income Tax Act
+and sections 295 and 328 of the
+Excise Tax Act
+. The provisions of those sections of the acts refer to CRA employee responsibilities related to the disclosure of, access to, and safeguarding of taxpayer information. These requirements are also contained in the CRA Code of Ethics and Conduct. CRA employees are reminded on an annual basis of the requirement to review their various obligations under the code. Employees at the NSTSO received the annual reminder from the senior management team during 2008-2009.
+The internal audit team requested the signed
+Confirmation of Receipt Form
+for the twelve users of the RMV system that were interviewed during the audit. By signing the form the employees acknowledge that they have received a copy of the Code of Ethics and Conduct for the CRA and have read the code and agree to abide by the standards contained in it. One of the standards in the code refers to the confidentiality of and disclosure of information. A signed copy of the confirmation of receipt form was received for all the employees who use the RMV system.
+Retention and Disposal
+According to the MOU information received from SNSMR will be retained for two years. Thereafter, it must be immediately destroyed or returned to SNSMR. Interviews conducted with users and team leaders indicated that classified waste bins are available and used at the NSTSO to dispose of information that is no longer required. However, RMV information that becomes part of a debt management, HST prepayment, or audit file is subject to file retention periods established for that particular program. These periods typically exceed two years. For example, documents in an audit file may not be destroyed until legislated appeal periods have expired.
+Recommendation
+CSBDB (Client Relations Directorate) should consider whether, in developing information exchange MOUs, it is practical to include retention periods that vary with established retention periods for various CRA programs.
+Action Plan
+The Client Relations Directorate will examine whether varied retention periods can be addressed
+through the standard wording for information exchange MOUs and, if practical, will include such wording in future MOUs.
+Conclusion
+There was no evidence that the information received from SNSMR was used for purposes other than for the administration and enforcement of the
+Income Tax Act
+and
+Excise Tax Act
+. There was also no evidence of communication of information to any third party outside of the terms of the MOU. However, during the audit it was determined that one particular use of the information was not within the parameters established in the MOU.
+CRA management has taken steps to promote awareness of employee responsibilities related to the protection of taxpayer information. However, the audit found that there were instances of non-compliance with CRA policies related to the management of user access privileges, systems access accountability, and the storage of protected and classified information and assets. These areas require increased attention in order to bring more rigour to the use and security of RMV information.
+Footnotes
+[Footnote 1]
+This MOU replaces the previous MOU for the exchange of information with the Nova Scotia Department of Transportation and Communication dated January 7, 1994.
+[Footnote 2]
+The Nova Scotia Tax Services Office has two sites – Halifax and Sydney
+[Footnote 3]
+The SJTSO has one standalone computer for this purpose. The SJTSO uses the RMV system to support the Informant Leads Program as it pertains to Nova Scotia residents.
+[Footnote 4]
+This number was estimated by internal audit as a log of access is not maintained in one operational unit of the NSTSO
+[Footnote 5]
+Internal audit did not conduct audit tests at the SJTSO as it was determined that the two authorized users in that office had not used the system prior to June 2009.
+[Footnote 6]
+The number of queries ranged from 50 to 100 for a total of 320 queries.
+[Footnote 7]
+As defined in the CRA Finance and Administration Manual, Security Volume, Chapter 6
+Page details
+Report a problem on this page
+Date modified:
+2010-03-15

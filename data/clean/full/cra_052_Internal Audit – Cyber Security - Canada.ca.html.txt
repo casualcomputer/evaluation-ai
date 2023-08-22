@@ -1,0 +1,164 @@
+Internal Audit – Cyber Security
+Notice to the reader:
+Please note that in the spirit of the
+Access to Information Act
+, some information within this document cannot be disclosed for reasons related to the security of our infrastructure and to the operations of Government.
+Final report
+Audit, Evaluation, and Risk Branch
+November 2015
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations, and Action Plans
+Line of Enquiry
+1.0 Compliance with policies, standards, procedures, and processes
+2.0 Monitoring and Reporting
+Conclusion
+Appendix A -
+PROTECTED
+Appendix B - Methodology
+Executive Summary
+Background
+As one of the largest information holdings in the Government of Canada and a crucial player in Canada's economy, the Canada Revenue Agency's (CRA) operations touch the lives of all Canadians. The CRA contributes to the well-being of Canadians and the efficiency of government by delivering world-class tax and benefit administration that is responsive, effective, and trusted.
+The CRA relies heavily on information technology to fulfill its mandate and the Internet is the primary driver that will transform the way Canadians interact with the CRA.
+Beginning November 15, 2011, Shared Services Canada (SSC) assumed responsibility for email, data centres, and networks services for the CRA (the IT infrastructure). The preservation of the CRA's IT infrastructure security posture now falls under the responsibility of SSC, and cyber security became a shared responsibility between the CRA and SSC.
+Objective
+Understanding the substantial role now played by SSC in cyber security, the objectives of this audit were to provide assurance that internal controls within the responsibility of the CRA are in place to prevent or adequately mitigate the risks of cyber attacks by:
+assessing the extent of compliance with policies, procedures, and processes for documenting, communicating, and addressing security incidents; and
+assessing the monitoring and reporting mechanisms in place for key activities of cyber security.
+The focus of the audit was on end user devices such as desktops and laptops, CRA software, and CRA developed applications that were outward facing and accessible by taxpayers.
+The examination phase of the audit took place from December 2014 to April 2015 and was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Conclusion
+The CRA continuously meets and exceeds the security standards set by the Government of Canada for protecting computerized systems including the information technology security protocols related to cyber security.
+Internal controls, including policies and standards within the CRA's control, are in place and working to support cyber security. Certain opportunities exist for the Agency to further strengthen its cyber security posture:
+PROTECTED
+PROTECTED
+Action Plan
+In response to the conclusions presented, Information Technology Branch (ITB) and Finance and Administration Branch (FAB) have agreed with the internal audit recommendations and developed an action plan to address outstanding issues outlined in the audit findings and further strengthen the Agency's cyber security posture. These controls include:
+PROTECTED
+PROTECTED
+PROTECTED
+PROTECTED
+PROTECTED
+Introduction
+The Canada Revenue Agency's information technology (IT) systems are critical to its ability to administer taxes, benefits, and related programs and to ensure compliance with federal, provincial, and territorial tax laws. Its systems are also the main vehicle the Agency has for improving the efficiency and cost-effectiveness of its tax administration activities, and for improving client and taxpayer services
+1
+.
+The Canada Revenue Agency (CRA) is increasing its Internet presence by offering Canadians online access to their information through e-services such as My Account, My Business Account, Represent a Client, and Quick Access. It is crucial that the large amounts of confidential taxpayer data being accessed online through these e-services are protected and handled in a secure and responsible manner to maintain the public's trust. The CRA collects and maintains data on over 31 million taxpayers, of which 2.2 million are corporations.
+This Internet presence is done through cyberspace which is the electronic world created by interconnected networks of information technology and the information on those networks. It is a global commons where more than 1.7 billion people are linked together to exchange ideas, services and friendship
+2
+.
+Cyber threats refer to the risk of an electronic attack through the Internet which could result in the unauthorized use, interruption, or destruction of electronic information or of the electronic and physical infrastructure used to process, communicate, or store that information. These threats can originate from within the organization by trusted users or from remote locations by unknown persons using the Internet.
+Examples of such threats include infected e-mails, malicious code (e-mails attachments or suspicious internet sites), known vulnerability exploits, system or data compromise, and distributed denial-of-service (DDoS) attacks. The possible origins of the cyber threats are numerous and could originate from hostile governments, terrorist groups, disgruntled employees, malicious intruders, or other sources.
+The Government of Canada's response to cyber threats is Canada's Cyber Security Strategy which is outlined in the document titled: The
+Action Plan 2010-2015 for Canada's Cyber Security Strategy.
+One of its pillars is securing government systems, including those of the CRA. Therefore, this Action Plan commits management to establishing the necessary structures, tools, and personnel to meet its obligations for cyber security.
+While the CRA's security posture continuously evolves, its IT Security Strategy is in place so that data, information assets, and IT infrastructure continue to be protected from increasingly complex cyber threats. Partnerships with other levels of government and with critical infrastructure owners and operators help to protect Canada's critical infrastructure and communicate threats to critical infrastructure owners and operators.
+The Government of Canada created Shared Services Canada (SSC) on August 4, 2011, to fundamentally transform how the Government manages its information technology (IT) infrastructure. The creation of SSC brought together people, technology resources and assets from 43 federal departments and agencies to improve the efficiency, reliability and security of the Government's IT infrastructure.
+The creation of SSC has created a large dependency for the CRA. SSC decisions made in consultation with CRA, sound relationship management practices and clear insight into SSC's contributions to IT security are now critical to managing the CRA's future IT security posture. The preservation of the CRA's IT infrastructure security posture now falls under the responsibility of SSC.
+PROTECTED
+In April 2014, CRA systems were subject to a vulnerability, "Heartbleed Bug", a software widely used to secure Internet-based communications, including external facing CRA web services.
+PROTECTED
+.
+Despite being impacted by this vulnerability in 2014, in 2015, Canadians continue to use and trust the CRA and increase their use of the agency's on-line services:
+Over 19.8 million individuals  filed online (out of 23 million returns -  a decrease in paper filing to 14.7%, compared to 20.5% in 2014);
+Online mail for individuals - more than 2 million filers have now signed up to get their e-notice of assessment in a fast and secure way;
+MyCRA mobile application, which has had almost 120,000 visits to its main page in the 2014-2015 tax season;
+Two-tiered authentication for My Account, which has generated more than 1.1 million new registrations; and
+Tax data delivery, which was used over half a million times to securely and efficiently deliver tax information to tax preparers.
+Focus of the Audit
+The objectives of the Cyber Security Audit were to provide assurance that internal controls, within the responsibility of the CRA, are in place to prevent or adequately mitigate the risks of cyber attacks by:
+assessing the extent of compliance with policies, standards, procedures, and processes for documenting, communicating, and addressing security incidents; and
+assessing the monitoring and reporting mechanisms in place for key activities of cyber security.
+The focus of the audit was on end user devices, CRA software, and CRA developed applications that were outward facing and accessible by taxpayers.
+The examination phase of the audit took place from December 2014 to April 2015 and was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Findings, Recommendations, and Action Plans
+Line of Enquiry
+1.0 Compliance with policies, standards, procedures, and processes
+The objective of the first line of enquiry was to determine whether key stakeholders are compliant with CRA policies, standards, procedures, and processes related to cyber security.
+Findings
+1.1 Policy Alignment
+The CRA continuously meets and exceeds the security standards set by the Government of Canada for protecting computerized systems including the information technology security protocols related to cyber security.
+1.2 Roles and Responsibilities
+The roles and responsibilities are clearly documented and communicated in terms of cyber security within CRA.
+CRA employees are expected to report security incidents and be aware of their security responsibilities.  Furthermore, Information Technology Branch (ITB) and Finance and Administration Branch (FAB) each have specific responsibilities to protect against threats to cyber security.
+Within ITB, the Information Technology Security and Continuity (ITSC) Division works closely with service delivery managers and IT personnel to protect the availability, integrity and confidentiality of CRA's electronic information systems against compromises. It takes preventive measures, invokes responses, publishes standards and maintains best practices in IT security.
+At FAB, Security and Internal Affairs Directorate (SIAD) drafts policy instruments, monitors adherence to policy instruments, promotes awareness, and reports incidents to Treasury Board Secretariat (TBS).
+1.3 Security Awareness and Training
+The CRA provides mandatory security training and continually promotes awareness to educate its employees. The more than 40,000 employees represent the first line of defence in safeguarding the CRA's information assets and they are vigilant for abnormal activities in their work environment.
+One form of targeted cyber threats is email phishing which is a malicious attempt to get information such as usernames and passwords and to distribute malware by masquerading as a trustworthy entity in an electronic communication. Successful phishing scams could result in the unauthorized disclosure of information and even the denial of network services.
+In January, February, and March 2015, the Security and Internal Affairs Directorate conducted an email phishing simulation on 16,000 CRA employees from all branches and regions.
+Other federal departments have conducted phishing simulations as a method to raise awareness. The CRA hired a private Canadian company that specializes in phishing simulations to conduct a similar awareness exercise at the CRA.
+Overall, the number of CRA employees who received a simulated phishing email for the first time and reacted as desired by not clicking on the link, exceeds the average number of other government departments employees who reacted as desired when subjected to a similar exercise. This demonstrates that CRA employees have a better than average awareness of phishing attacks. Furthermore, in the course of our audit we did not see any instance where a phishing e-mail caused a breach. This is most likely due to the multilayer security barriers established between the Government of Canada, SSC, and the CRA. The majority of phishing e-mails are first identified and prevented by the SSC anti-spam appliances.
+The CRA also launched a mandatory security awareness on-line training course which was completed by 90% of employees (more than 37,500 employees). Regular e-mail reminders are sent as part of security awareness campaigns in addition to the yearly weeklong security awareness initiative.
+1.4 Threat and Risk Assessments
+Security evaluations must be conducted for all CRA systems and components in order to assess the level of risk to CRA systems and information and to provide recommendations to mitigate risks to an acceptable level. The security evaluations are part of the Threat and Risk Assessment (TRA) process which assists in determining if the risks associated with a specific system have been determined to be at an acceptable level within the current operational context.
+PROTECTED
+1.5 IT Security Incident Response
+The response to IT security incidents is consistent and timely whenever an attack is detected.
+PROTECTED
+Recommendations
+PROTECTED
+2.0 Monitoring and Reporting
+The objective of the second line of enquiry was to determine if monitoring and reporting mechanisms are established for activities related to cyber security.
+Findings
+2.1 Monitoring of Cyber Threats
+The CRA continually monitors security alerts from the lead security agencies and IT vendors. These threats must be assessed and potential mitigating strategies evaluated. Senior management is informed through Cyber Threat Assessment (formerly called Executive Risk Assessment) reports. Cyber Threat Assessments (CTA) are sent to the Chief Information Officer, the Deputy Assistant Commissioners of the Information Technology Branch and other executives within security departments of CRA, SSC, and CBSA, who have a need to know.
+There is sufficient information for senior management to decide on the proper course of action when it is required.
+2.2 Monitoring of Software Updates
+The Communication Security Establishment identifies timely patching of all devices as one of the top 10 mitigation measures
+3
+in terms of preventing successful cyber attacks. The CRA manages over 90,000 end user devices, such as desktops and laptops, of which 24,000 are managed on behalf of the Canada Border Services Agency.
+PROTECTED
+2.3 Reporting of Cyber Security Incidents
+The security incident reports provided by the Agency Security Officer to senior management are presently geared towards physical security incidents (loss or theft of an information asset - computer or paper file, or physical threat). IT security incidents (devices infected with malware from successful phishing attacks) are not considered security incidents unless they result in a data loss. However, IT Security incidents, including IT security threats resulting in data loss, follow the established IT Service Management (ITSM) incident management process within ITB. When a major compromise of an IT system is detected, an End of Day status report is also created and gets updated every day until the incident has been resolved. Only a few End of Day reports have been produced over the past few years. The EOD report follows a similar distribution list as the CTAs.
+In addition to sending Cyber Threat Assessments as described above, year over year summary metrics are also provided which present trends. Also, ITB is currently developing a new quarterly dashboard on IT security which was made available in August 2015.
+Recommendation
+PROTECTED
+PROTECTED
+PROTECTED
+PROTECTED
+PROTECTED
+Conclusion
+Internal controls, including policies and standards, are in place and working to adequately mitigate the risks related to the aspects of cyber security within CRA's areas of responsibility. However, certain opportunities exist for the Agency to further strengthen its cyber security posture:
+PROTECTED
+PROTECTED
+Appendix A -
+PROTECTED
+PROTECTED
+Appendix B - Methodology
+The objectives of the Cyber Security Audit were to provide assurance that internal controls are in place to prevent or adequately mitigate the risks of cyber attacks; assess the extent of compliance with policies, procedures, and processes for documenting, communicating, and addressing security incidents; and assess the monitoring and reporting mechanisms in place for key activities of cyber security.
+The list below identifies the various information collection methods used for this audit:
+reviewed and analyzed CRA policy instruments and other documentation related to the management and administration of cyber security
+reviewed all 29 IT security incidents including the "Heartbleed Bug" vulnerability for fiscal years 2013-2014 and 2014-2015 to assess completeness, accuracy, and adherence to established procedures
+reviewed and performed data analysis of CRA devices for patch management using delinquent device reports from April 2013 to March 2015 (20 monthly reports)
+reviewed and performed data analysis of CRA devices for asset management using the Service Desk device information of March 2015
+reviewed and analyzed monitoring and performance reports for completeness, timeliness, accuracy, and usefulness to management and oversight bodies
+conducted 23 interviews with select management and employees in the Ontario region and Headquarters (ITB and FAB)
+reviewed security evaluation and TRA documentation and metadata for all 35 public facing CRA applications and Standalone Environment Questionnaires
+Footnotes
+Footnote 1
+Office of the Auditor General, Chapter 5-Managing Information Technology Investments-Canada Revenue Agency (2008)
+Return to footnote
+1
+Referrer
+Footnote 2
+Public Safety Canada ,
+Canada's Cyber Security Strategy
+Return to footnote
+2
+Referrer
+Footnote 3
+Communications Security Establishment  -  Top 10 IT Security Actions to Protect Government of Canada Internet-Connected Networks and Information (IT Security Bulletin for the Government of Canada, ITSB-89 Version 3)
+Return to footnote
+3
+Referrer
+Page details
+Report a problem on this page
+Date modified:
+2016-01-15

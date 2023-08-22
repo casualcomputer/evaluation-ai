@@ -1,0 +1,137 @@
+Non-Resident Tax and Excise / Other Levies Transaction Flow-Through Audits
+Final Report
+Corporate Audit and Evaluation Branch
+October 2009
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Methodology
+Findings, recommendations and action plans
+1.0 Effectiveness of source systems as they relate to the accuracy and appropriateness of data input and processing
+1.1 Non-Resident Tax
+1.2 Excise and Other Levies
+2.0 Effectiveness of the RL system processes as they relate to the accuracy and appropriateness of the data posted in the RL
+2.1 Non-Resident Tax
+2.2 Excise and Other Levies
+Conclusion
+Appendix A
+Appendix B
+Executive Summary
+The Canada Revenue Agency (CRA) is responsible for assessing and collecting a broad range of taxes on behalf of the federal, provincial and territorial governments. Within CRA, the Assessment and Benefit Services (A&BS) Branch is functionally responsible for administering the assessment and revenue payment processes, while the Finance and Administration (F&A) Branch is responsible for ensuring that these revenues are appropriately accounted for and reported.
+In 2004-2005, at the request of F&A, the Internal Audit Division (IAD) of the Corporate Audit and Evaluation Branch (CAEB) developed a cyclical audit plan to support CRA in meeting its responsibilities with respect to the accounting and reporting of revenues. The plan set out a systematic approach to provide F&A with assurance, over time, of the accuracy and completeness of CRA financial data on tax revenues and the adequacy of controls for preventing and detecting errors.
+The focus of the audit work carried out under the cyclical plan has been substantive testing, mostly in the form of transaction data flow-through audits of revenue streams. The flow-through audits were first carried out in 2005-2006 and to date have covered revenues from T1 (individual income tax), T2 (corporation income tax), T3 (trust income tax) and T4 (source deductions). The findings of the T1, T2, and T4 audits were reported in 2006. The findings of the T2 Phase 2 (which provided additional coverage of the federal, provincial, and territorial revenues for T2) and the T3 audits were reported in 2008. Results from the most recently completed flow-through audits of the non-resident tax and excise / other levies transactions are summarized in this report.
+Objective:
+The objective of the non-resident tax and excise / other levies transaction flow-through audits was to provide assurance with respect to the accuracy and appropriateness of the automated flow of revenue data, from their respective source documents to the relevant CRA processing systems through to CRA’s corporate accounting system, the Revenue Ledger (RL).
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Conclusion:
+Results of the non-resident and excise / other levies audits showed that transaction data for both these revenue streams flowed accurately and appropriately through CRA’s automated systems, from the source documentation of the selected returns through to the respective RL accounts.
+Although not directly related to the flow of data through the automated systems, one inconsistency of note was found in the manner in which non-resident tax revenue is presented in the annual CRA financial statements. It is presented as a separate line item in the financial statement for Administered Activities and is based on the amounts reported on the non-resident information summary returns. These are used only for reporting withholding tax and management agreed that the line title in the financial statement for 2008-2009 Administered Activities would change to “Non-Resident Withholding Taxes” in order to better reflect what is in actual fact included.
+Introduction
+The Canada Revenue Agency (CRA) is responsible for assessing and collecting a broad range of taxes on behalf of the federal, provincial, and territorial governments. Within CRA, the Assessment and Benefit Services (A&BS) Branch is functionally responsible for administering the assessment and revenue payment processes, while the Finance and Administration (F&A) Branch is responsible for ensuring that these revenues are appropriately accounted for and reported.
+In 2004-2005, at the request of F&A, the Internal Audit Division (IAD) of the Corporate Audit and Evaluation Branch (CAEB) developed a cyclical audit plan to support CRA in meeting its responsibilities with respect to the accounting and reporting of revenues. The plan set out a systematic approach to provide F&A with assurance, over time, of the accuracy and completeness of CRA financial data on tax revenues and the adequacy of controls for preventing and detecting errors.
+The focus of the audit work carried out under the cyclical plan has been substantive testing, mostly in the form of transaction data flow-through audits of revenue streams. These audits involve verifying the accuracy of data throughout CRA’s assessment and accounting systems, by tracing information reported on tax returns and schedules through the relevant processing system(s) and on to the general ledger accounts in the Revenue Ledger (RL).
+The flow-through audits were first carried out in 2005-2006 and to date have covered revenues from T1 (personal income tax), T2 (corporation income tax), T3 (trust income tax) and T4 (source deductions). The findings of the T1, T2, and T4 audits were reported in 2006; and the findings of the T2 Phase 2 (which provided additional coverage of the federal, provincial, and territorial revenues for T2) and the T3 audits were reported in 2008.
+Two more audits were initiated in 2008-2009 for the non-resident tax and the excise and other levies revenue streams. Total revenues reported for non-resident withholding tax revenue in the
+2007-2008 CRA Annual Report to Parliament
+was approximately $5.7B and for excise and other levies it was $9B. The findings for the two audits are summarized and formally presented in this report.
+Focus of the
+Audit
+The objective of the non-resident tax and excise / other levies transaction flow-through audits was to provide assurance with respect to the accuracy and appropriateness of the automated flow of revenue data, from their respective source documents to the relevant CRA processing systems to CRA’s corporate accounting system, the RL.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Methodology
+Audit planning and testing for the non-resident tax and excise / other levies transaction flow-through audits was carried out separately between October 2008 and January 2009. Work on both audits included the development of a suitable sampling plan and the random selection of information returns for analysis and tracing of the flow of reported amounts. The sample sizes were designed to be sufficient for verifying the accuracy and completeness of the flow of the data through automated systems where each item is subject to the same system logic and predefined business rules during processing.
+The transaction data reviewed was the most recent available at the time of the audits based on filing period end dates. Non-resident audit transactions were taken primarily from the 2007 calendar year database while the data for the excise and other levies audit was selected from the period July 2007 to June 2008.
+The lines of enquiry used for both audits were the same as in the previous flow-through audits. An initial review of the samples was carried out to assess the accuracy of the input of transaction data from the source documents and the processing of this data through the relevant assessment and accounting systems. The same information was then traced further to verify amounts that were appropriately posted to taxpayer accounts and the revenue accounts in the RL. Any inconsistencies identified during the conduct of the respective audits were communicated to and addressed by F&A and the appropriate program area at the time they became known. The validity of returns’ assessments and the effectiveness of systems access controls were not assessed as part of this audit.
+More detailed information about the sample selection, testing and results of the audits are provided in Appendix A and Appendix B respectively.
+Findings
+, Recommendations and Action Plans
+1.0 Effectiveness of source systems as they relate to the accuracy and appropriateness of data input and processing
+1.1  Non-Resident
+Tax
+Source documentation against which non-resident tax withholding amounts were traced and verified were the
+NR4
+and
+T4A-NR Summary
+returns and remittance slips. The automated source systems through which information provided on these documents were traced included the Information Declaration System (INFODEC), Payroll Deductions, Accounting and Collections System (PAYDAC); Non-Resident Source Deductions System (NRSD); and Financial Input Processing (FIP) System.
+A random sampling approach was used in identifying non-resident information returns for review. The tax withheld amounts that had been reported on the resulting 308 sample returns selected were then compared to the assessment and accounting data available in the INFODEC, PAYDAC and NRSD systems.
+Overall, no errors were identified in the samples reviewed with respect to the accuracy of the flow of data through the source systems. Amounts reported on the NR4 and T4A-NR summary returns were appropriately processed in INFODEC and posted to the client accounts in the PAYDAC and NRSD systems. Program areas responsible for these systems provided appropriate responses and clarifications to queries related to any differences that were noted during the analysis, e.g., incorrect mapping of an account, posting of negative amounts due to adjustments or reassessments.
+During the audit, it was noted that some procedures connected but not directly related to the flow of transaction data were being applied inconsistently which could potentially have an impact on the accuracy of CRA’s reporting of non-resident tax revenue. These procedures were related to INFODEC and included notable delays in the input of the paper returns in the sample and the use of a system default date when returns were filed before they were due rather than the actual date received. The Information Returns Processing Section (IRPS), in the A&BS Branch responsible for INFODEC was advised and has since updated field procedures in both these areas.
+A random sample of 52 remittance vouchers for non-resident revenue payments were also selected to review the information processed in FIP. No errors were found in the data in FIP related to these vouchers. Payment information received from FIP was correctly posted to PAYDAC and NRSD.
+1.2  Excise and Other Levies
+Source documentation used in the reporting and payment of excise and other levy amounts were traced and verified to the assessed data in the applicable CRA systems including the Other Levies Assessing System (OLAS), Excise Refunds and Rebates System (ERRS), Financial Input Processing (FIP), and Standardized Accounting System (SA).
+A sample of 179 returns was randomly selected to proportionally cover the programs under review including Excise Duty, Excise Tax, Air Travellers’ Security Charges, Insurance Charges and Softwood Lumber. The sample size was calculated on the basis of the number of transactions per program in the period under review and adjusted if necessary in order to include a minimum of 30 samples from each program.
+An additional 72 Excise Rebates and Refunds claim samples were randomly selected to review claims processed from the Excise rebates and refunds program and 50 remittance vouchers (10 each from above programs) were selected to review the information processed in FIP.
+Results of the review indicated that once the data had been input, there were no notable differences found with the completeness and accuracy of data as it flowed through the source systems for the returns, rebate and refund claims and remittance vouchers. The postings to SA were consistent with assessments in OLAS for excise and other levies amounts and were allocated to the appropriate client account for all samples tested. The excise and other levies program areas provided appropriate responses and clarifications to queries related to any differences that were noted during the analysis. The transactions in question were checked again in OLAS and SA to confirm the validity of clarifications received from the program areas.
+2.0
+Effectiveness of the RL system processes as they relate to the accuracy and appropriateness of the data posted in the RL
+2.1 Non-Resident
+Tax
+The review of the data captured in RL for the 308 sample non-resident withholding tax information returns found that it accurately reflected the data recorded in the INFODEC, PAYDAC and NRSD systems.
+The non-resident account numbers from sample returns were searched to identify relevant non-resident revenue posted in RL accounts. The amounts recorded in the RL accounts for the sample transactions were then traced to the assessed data in INFODEC. The results indicated that the flow of non-resident withholding tax data to the RL was accurate and complete.
+An inconsistency was found in the manner in which the non-resident information in RL was subsequently used in the preparation of the annual CRA financial statements. Non-resident tax revenue is a separate line item in the CRA financial statements for Administered Activities and it is currently based on the total amount reported on the NR4 and T4A-NR summary returns. These returns however, are only used to account for non-resident withholding tax and do not include non-resident assessments and refunds which are processed using T1, T2 and T3 returns.
+Recommendation
+For a fair presentation in the financial statements, disclosure of non-resident tax income should include data from all reporting sources and not only withholding tax. Alternatively, consideration could be given to amending the line item in the CRA Financial Statements for Administered Activities from “Non-Resident Tax Revenue” to “Non-Resident Tax Withholding Revenue”.
+Action Plan
+Revenue Accounting, Reporting and Analysis Division
+(RARAD) of F&A branch agreed that a change should be made in the reporting of non-resident revenue and indicated that for the 2008-2009 Statement of Administered Revenues the line titled Non-Resident Tax will be amended to read "Non-Resident Withholding Taxes"
+[Note 1]
+. This will better describe the amounts reported as being Non-Resident withholding taxes only, and not revenues collected from non-resident taxpayers as a result of them filing individual, corporate or trust tax returns in Canada.
+2.2 Excise and Other Levies
+Overall, no differences were detected in the excise and other levies amounts posted to the RL from the OLAS and ERRS systems for the sample returns. For all samples tested, assessment data sent to the RL from the source systems were accurately posted to the appropriate accounts.
+Conclusion
+Results of the non-resident and excise / other Levies transaction flow-through audits showed that the transaction data for both these revenue streams flowed accurately and appropriately through CRA’s automated systems; from the source documentation of the selected returns through to the respective RL accounts.
+Although not directly related to the flow of data though the automated systems, one inconsistency of note was found in how non-resident tax revenue is reported in the annual CRA financial statements. It is currently presented as a separate line item in the financial statement for Administered Activities and is based just on the amounts reported on the NR4 and T4A-NR summary returns. These returns are used only for reporting withholding tax and management agreed that the line title in the financial statement for 2008-2009 Administered Activities should be changed to “Non-Resident Withholding Taxes” in order to better reflect what is in actual fact included.
+Appendix
+A
+Revenue Stream: Non-Resident Tax
+Source Documents:
+NR4 and T4A-NR Summary returns; and
+Non-Res. Remittance slips.
+The NR4 information return is filed by Canadian residents, agents (such as a bank, trust company, or credit union), or any other payer who is responsible for withholding and remitting non-resident Part XIII withholding tax. These amounts include pensions, annuities, investment income, and interest, dividends, rents, royalties, and estate or trust income. The NR4 information return includes NR4 Summary and all related NR4 slips.
+The T4A-NR information return is filed in respect of payments made for Fees, Commissions, or Other Amounts Paid to Non-Residents for Services Rendered in Canada. A T4A-NR information return consists of T4A-NR slips and the related T4A-NR Summary.
+Processing Systems:
+Information Declaration System (INFODEC) - supports capture, amendment and storage of 28 different third party information returns provided to CRA by employers (T4), financial institutions (T5), Trust companies (T3) and government agencies.
+Financial Input Processing (FIP) - records, validates, combines and balances revenue payments received from taxpayers.
+Revenue Ledger (RL) – consolidated general ledger system with summary accounts organized for tracking, controlling and reporting revenue information fed from operational ledgers.
+Rapid Information for District Offices System (RAPID) - national mainframe menu system used as a means of accessing NR4 and T4A-NR summary returns.
+Payroll Deductions, Accounting and Collections System (PAYDAC) - revenue accounting system, where T4A-NR information gets posted to client accounts.
+Non-Resident Source Deductions System (NRSD) - is responsible for the administration of Part XIII source deductions (NR4).
+Audit Methodology:
+NR4 and T4A-NR tax withholding summaries were randomly selected for tracing from the total summaries processed in the calendar year 2007. INFODEC (Information Declaration) processing data, as of October 2008, was used as the source of information in the sample selection.
+NR4 and T4A-NR summaries were sampled separately to review the accuracy of the flow of data in the individual streams. A total of 155 NR4 summary returns and 153 T4A-NR summary returns were selected.
+Amounts reported on the summary returns were compared to the total of the amounts recorded on the individual slips covered by the summary to verify accuracy.
+A separate sample of 52 remittance vouchers (26 each for NR4 and T4A-NR) was randomly selected to review payment information processed through FIP.
+Copies of 15 NR4 summaries and 15 T4A-NR summaries that had not yet been entered into the systems were also randomly selected from the mail received bins at the Ottawa Technology Centre, to verify the accuracy and timeliness of the data inputting.
+Audit Testing and Results – Data Accuracy Summary
+Additional Observations – Timeliness and financial reporting
+Appendix
+B
+Revenue Stream: Excise and Other Levies
+Source Documents
+:
+Excise and other levies information returns;
+Excise Rebates and Refund claims; and
+Excise and other levies remittance slips.
+Processing Systems:
+Other Levies Endorsing System (OLES) and Other Levies Assessing System (OLAS) are components of the automated application delivering the Excise and Other Levies program.
+Excise Refunds and Rebates System (ERRS) is used to process refund/rebate claims for Excise Tax, Excise Duty and Air Travellers Security Charge. ERRS interfaces with RL. ERRS is not integrated with OLAS.
+Financial Input Processing (FIP) - records, validates, combines and balances revenue payments received from taxpayers.
+Revenue Ledger (RL) – consolidated general ledger system with summary accounts organized for tracking, controlling and reporting revenue information fed from operational ledgers.
+Standardized Accounting System (SA) - integrated business (operational) accounting application for CRA programs including excise and other levies.
+Audit Methodology:
+July 2007 to June 2008 processing data (based on period end date) was used to randomly select 179 excise and other levies returns for verification of the accuracy of the information processed. These samples were selected from following programs: Excise Duty, Excise Tax, Air travellers’ Security Charges, Insurance Charges and Softwood Lumber Charges.
+A proportional sample size was calculated using the percentage count of transactions processed based on program IDs. The sample size was adjusted as necessary in order to include a minimum of 30 samples under each program.
+A total of 50 remittance vouchers (10 each from above programs) were randomly selected to review the information processed from FIP system.
+A total of 72 Excise refund or rebate claims from 2007 were randomly selected to review the information processed in the ERRS system. Samples included all claim types.
+Audit Testing and Results – Data Accuracy Summary
+Footnotes
+[Footnote 1]
+IAD has confirmed that the change in the title has been made in the 2008-2009 Administered Revenues Statement.
+Page details
+Report a problem on this page
+Date modified:
+2010-01-18

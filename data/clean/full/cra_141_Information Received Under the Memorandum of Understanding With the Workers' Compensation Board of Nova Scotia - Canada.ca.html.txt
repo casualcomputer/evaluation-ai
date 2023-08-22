@@ -1,0 +1,119 @@
+Information Received Under the Memorandum of Understanding With the Workers' Compensation Board of Nova Scotia
+Final Report
+Corporate Audit and Evaluation Branch
+October 2008
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+1.0 Use and disclosure of Information
+2.0 Security and safeguarding of information
+2.1 Management of User Access Privileges
+2.2 Protection of Stored Information
+2.3 Encryption of Transmitted Information
+2.4 Retention and Erasure of Information
+2.5 Security Awareness
+Conclusion
+EXECUTIVE SUMMARY
+Background:
+The Canada Revenue Agency (CRA) enters into Memoranda of Understanding (MOU) and other written arrangements with federal, provincial and territorial departments and agencies to improve efficiency and effectiveness in program delivery. Where it exchanges confidential information with these entities, the CRA negotiates MOUs so that both parties have a heightened awareness of legal and policy requirements related to the use and the security of information. The inclusion of reciprocal internal audit clauses in MOUs was part of an initiative of the Corporate Strategies and Business Development Branch (CSBDB) to ensure these provisions are respected by both parties.
+This audit dealt with information received by the CRA under the MOU with the Workers’ Compensation Board of Nova Scotia (WCB of NS) signed on, and with an effective date of October 21, 2004. The purpose of the MOU is to share data to identify employers who are not compliant with WCB administration or CRA legislation. The CRA and the WCB of NS exchange the following information:
+payroll reporting information on their mutual clients;
+employer and registration information for identifying underground economy activities; and
+registration information on employers and registrants for identifying registration gaps.
+Objective:
+The objective of the audit was to provide assurance that the CRA is in compliance with the terms and conditions governing the use, communication, security, retention and disposition of information provided by the WCB of NS as set out in the MOU.
+The audit was conducted in accordance with the
+International Standards for the Practice of Internal Auditing
+.
+Conclusion:
+Based on the audit work performed, the CRA is generally in compliance with the terms and conditions governing the use, communication, security, retention and disposition of information provided by the WCB of NS as set out in the MOU. Internal Audit is recommending four enhancements to the approach to help ensure ongoing compliance with the MOU.
+There was no evidence that the WCB information was used for purposes other than those for which it was intended, or disclosed to any third party outside of the terms of the MOU.
+The audit revealed that access to the WCB of NS information in the Registration Identification Program (RIP) in the Summerside Tax Centre was not always removed in a timely manner. The audit also found that the WCB information was kept on the Information Technology Branch (ITB) Payroll Deductions, Accounting and Collections System’s (PAYDAC) shared drive that was accessible to some employees within that area who did not participate in the WCB project. In addition, information to supplement established CRA procedures regarding the retention periods of the data and the proper data erasure methods was not provided to the field offices. Furthermore, the erasure method specified by the MOU is not practical for deleting individual files or folders from the hard disk or server.
+Action Plan:
+Management fully agreed with the findings and plans to address them as follows:
+Management of User Access
+Effective July 15, 2008, the Summerside Tax Centre will ensure that when a user leaves the Agency, the user's account will be suspended and access to the MOU information will be revoked. When a user leaves the section dealing with the MOU information to move to another work section, access to the MOU information will be revoked.
+Information Stored on Shared Drives
+The Partnership Opportunities Section (POS) has developed a Reference Guide for the program areas using the WCB data, which includes a section on the MOU. The Reference Guide will be made available for training of all staff for each project and will be shared with all users of the WCB data. POS will complete distribution of the appropriate section of the Reference Guide no later than December 31, 2008. POS will distribute copies of the Reference Guide to all entitled stakeholders of existing, new, and potential partners.
+Retention Period
+POS will outline the retention period information in a memo to all internal stakeholders by September 30, 2008. The information contained in this memo will be incorporated into the Reference Guide currently being enhanced by POS.
+Data Erasure Methods
+POS has discussed the current acceptable methods of erasure of electronically stored information with the Security, Risk Management & Internal Affairs Directorate in the Finance and Administration Branch, and with the Information Technology Branch (ITB). POS will include in their Reference Guide a checklist of important information regarding security of data. This section of the Reference Guide will be available to all entitled stakeholders by December 31, 2008.
+For future MOUs, by September 30, 2008, the Provincial and Territorial Affairs Division will discuss the file erasure methods with Security, Risk Management and Internal Affairs Directorate and recommend an amendment to the security requirements chart.
+INTRODUCTION
+The Canada Revenue Agency (CRA) enters into Memoranda of Understanding (MOU) and other written arrangements with federal, provincial and territorial departments and agencies to improve efficiency and effectiveness in program delivery. Where it exchanges confidential information with these entities, the CRA negotiates MOUs so that both parties are aware of and respect legal and policy requirements related to the use and the security of information. The inclusion of reciprocal internal audit clauses in MOUs was part of an initiative of the Corporate Strategies and Business Development Branch (CSBDB) to ensure these provisions are respected by both parties.
+This audit dealt with information received by the CRA under the MOU with the Workers’ Compensation Board of Nova Scotia (WCB of NS) signed on, and with an effective date of October 21, 2004. The purpose of the MOU is to share data to identify employers who are non compliant with WCB administration or CRA legislation. The CRA and the WCB of NS exchange the following information:
+payroll reporting information on their mutual clients;
+employer and registration information for identifying underground economy activities; and
+registration information on employers and registrants for identifying registration gaps.
+There has been one exchange of information between the CRA and the WCB of NS pursuant to the current MOU that took place in the fall of 2006.
+A Regional Internal Audit of the Partnership with the Nova Scotia Workers’ Compensation Board took place in 2003-2004. Its objective was to provide assurance on the effectiveness of the partnership under the previous MOU. This audit found that the exchanges enhanced program effectiveness.
+Under the current MOU, the CRA undertakes a registration gap analysis and compliance activities. The original compact discs (CDs) are received by the Partnership Opportunities Section (POS) in the Taxpayer Services and Debt Management Branch (TSDMB). The POS transfers the CDs to the Information Technology Branch (ITB) for processing. The ITB generates two exception reports, which are returned to the POS. One exception report is for the WCB of NS and is provided to the partner in accordance with the terms of the MOU. The data in the CRA report is subsequently delivered to Summerside Tax Centre (Summerside TC) where staff conduct comparative analyses and contact potential registrants.
+Results of the comparative analysis are posted in the Registration Identification Program (RIP), a computer application used to record results of the follow up activities completed on accounts identified in the gap analysis. The ITB accesses the results in the RIP, prepares statistical reports of results and delivers them back to the POS. The POS conducts additional analysis, in collaboration with the Trust Account Programs Division and forwards some accounts to the areas responsible for Trust Examinations in the Atlantic Region.
+FOCUS OF THE AUDIT
+The objective of the audit was to provide assurance that the CRA is in compliance with the MOU terms and conditions governing the use, communication, security, retention and disposition of information provided by the WCB of NS.
+The scope of the audit included the Partnership Opportunities Section (POS) of TSDMB, Provincial and Territorial Affairs Division (PTAD) of CSBDB, Payroll Deductions, Accounting and Collections System (PAYDAC) section of ITB, Security, Risk Management and Internal Affairs Directorate of the Finance and Administration Branch, and Summerside TC. The audit was conducted from January 2008 to June 2008.
+Assurance related to CRA information technology (IT) controls and other general controls was partially based on audit work conducted in the recent related audits, including the IT Security Follow Up started in 2007, and the 2006 audit of Information Received under the MOU with the Workplace Health, Safety & Compensation Commission of the Province of Newfoundland and Labrador.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+FINDINGS, RECOMMENDATIONS AND ACTION PLANS
+1.0 Use and Disclosure of Information
+According to the MOU, the WCB of NS information is to be used by the CRA solely for the administration and enforcement of the
+Income Tax Act
+and the
+Excise Tax Act;
+and information is only to be disclosed to others under the terms and conditions set out in the MOU.
+There was no evidence that this information was used for purposes other than the purpose for which it was intended. Interviews with staff at Summerside TC reported that the information received from the WCB of NS was used solely for the purpose of identifying and registering NS employers not registered for CRA programs. This was also confirmed by the Data Mining and Risk Management and Workload Identification Section in TSDMB.
+The interviewed staff also indicated that they were not aware of any security incidents relating to the inappropriate use and communication of information received from the WCB of NS. The Security, Risk Management and Internal Affairs Directorate in the Finance and Administration Branch confirmed that there have been no reported security incidents with respect to information received under the MOU. The POS stated that no data was released to any third party.
+2.0 Security and Safeguarding of Information
+The MOU with the WCB of NS (Appendix H) outlines the security requirements for handling, storage, and disposition of information. Based on these requirements, results of the prior related audits and an assessment of risks related to information received from the WCB of NS, we conducted examinations on the following security controls:
+management of user access privileges;
+protection of stored information;
+encryption of transmitted information;
+retention and erasure of information; and
+security awareness.
+2.1 Management of User Access Privileges
+The security of confidential client information is enhanced when access to information systems is granted to employees only when the information is needed to perform work-related activities. The CRA security standards and management control system of user access rights require that a record of all computer system access privileges is to be created and maintained for each person. These standards also state that user access privileges are to be kept current and immediately revoked or suspended when access to perform the assigned functions is no longer required.
+The review of 28 IT profiles in Summerside that allow access to the RIP revealed that 8 (29%) should have been removed in March 2008 since these employees no longer worked for the RIP section at that time. However, these profiles were still active as of April 28, 2008.
+Recommendation
+The Summerside TC should ensure that employees’ accesses to the WCB information are revoked in a timely manner when they no longer need such accesses.
+Action Plan
+Effective July 16, 2008, when a user leaves the Agency, the RIP Team Leader will complete an Employee Clearance Form to have the user's account suspended. In addition, the RIP Team Leader will open a Service Desk Ticket requesting that all RIP accesses be revoked. When a user leaves the RIP section to move to another work section, the RIP Team Leader will open a Service Desk Ticket requesting that all RIP accesses be revoked.
+2.2 Protection of Stored Information
+CRA security standards require that removable media such as CDs, diskettes, hard disks or tapes containing the information are to be stored in locked cabinets when not being used. The information is not to be stored on the users' computer systems. Finally, access to stored information is to be provided on a “need-to-know” basis.
+The first two standards have been met in the POS and the Summerside TC. During the audit, it was observed that, in the POS, the CDs containing information received from the WCB of NS were stored in a locked cabinet. In addition, the electronic file containing the MOU data in the Summerside TC was stored on a server and not on the hard drives of users’ computers.
+However, based on interviews in the ITB PAYDAC section, the WCB information saved on their shared drive was accessible to the employees that were not involved in this project.
+Recommendation
+POS of TSDMB should ensure that all program areas working with the WCB of NS data are aware of the MOU requirements related to the stored information and restrict access to the WCB of NS information stored on shared drives only to employees who are involved in the project.
+Action Plan
+POS has developed a Reference Guide for the program areas working with WCB data, which includes a section on the MOU. This section outlines the purpose of the joint compliance initiative and the roles and responsibilities of all stakeholders with access to the WCB data. The Reference Guide will be made available for training of all staff for each project and will be shared with all users of the WCB data. POS will complete distribution of this section of the Reference Guide no later than December 31 2008. POS will distribute copies of the Reference Guide to all entitled stakeholders of existing, new and potential partners.
+ITB has informed POS that as July 2008, a new procedure had been implemented so that the file containing WCB data no longer resided on the shared drive.  Under this new procedure, only the person preparing the CD containing WCB data will have access to the pertinent file.
+2.3 Encryption of Transmitted Information
+According to CRA security policies for the storage and electronic transmission of taxpayer information, information transmitted electronically and via removable media such as CDs, containing databases of confidential client information, should be encrypted using CRA approved methods. In addition, under the terms of the MOU, client information transmitted electronically via e-mail and/or via a removable media must be encrypted.
+The audit showed that the WCB information transmitted via email and CDs was encrypted and password-protected. The interviews in the POS and Summerside TC indicated that passwords were provided separate of the data, over the phone, and never left as a voicemail.
+2.4 Retention and Erasure of Information
+In accordance with the CRA Finance and Administration Manual – Security Volume, classified and designated "Protected" information that is no longer required must be promptly discarded in a manner that will completely destroy the information. The MOU with the WCB of NS also states that information is to be destroyed when no longer required. However, the MOU does not prescribe a specific retention period for information.
+The POS has recently received an opinion regarding retention of information from the Client Services Section, Information Policy and Governance Division, Statistics and Information Management Directorate. The opinion stated that the information should be destroyed when no longer needed but did not specify what the retention period should be. The POS has decided to set the retention period for WCB information at two years. However, the Summerside TC and HQ ITB PAYDAC section containing electronic WCB information or statistical data on the information did not receive any guidance relating to the retention period for the data.
+Furthermore, the MOU requires that “non-removable hard disks should be overwritten three times (e.g. RCMP-DSX, Norton’s WIPEDISK) or be magnetically erased using an approved degausser.” The interviews showed that in practice, using the “delete” button on the computer was perceived to be an adequate method of information erasure. This practice does not erase files permanently and does not comply with the MOU’s requirements. However, the method described in the MOU is not practical as it would erase all the data contained on the hard disk, not just the MOU data.
+Recommendations
+POS should communicate the established retention period for the WCB information to other internal stakeholders.
+POS should consult with the Security, Risk Management and Internal Affairs Directorate, Finance and Administration Branch and with the Information Technology Branch to identify acceptable methods of erasure of electronically stored information and communicate them to other internal stakeholders.
+The Provincial and Territorial Affairs Division, CSBDB, in consultation with the Security, Risk Management and Internal Affairs Directorate of the Finance and Administration Branch, should ensure that appropriate methods of information erasure are included in the current MOU and similar MOUs.
+Action Plan
+POS will outline the retention period information in a memo to all internal stakeholders by September 30, 2008.
+POS has discussed the current acceptable methods of erasure of electronically stored information with  the Security, Risk Management & Internal Affairs Directorate in the Finance and Administration Branch, and with the Information Technology Branch (ITB).  Based on these discussions, POS has developed a checklist of important information regarding security of data and included it in its Reference Guide.  POS will make copies of the appropriate section of the Reference Guide available to all entitled stakeholders by December 31, 2008.
+For future MOUs, by September 30, 2008, the Provincial and Territorial Affairs Division will discuss the file erasure methods with Security, Risk Management and Internal Affairs Directorate and recommend an amendment to the security requirements chart.
+2.5 Security Awareness
+The audit found that CRA employees working with the WCB of NS information were aware of the CRA standards related to security of this information. Security awareness initiatives are in place in the CRA and are delivered nationally and locally. These initiatives promote awareness of policies and procedures related to the protection of CRA personnel, information, and physical assets. All selected interviewees at the Summerside TC reported that they had received security awareness training when they first joined the Agency and periodically thereafter. Employees regularly receive national security reminders via e-mail.
+CONCLUSION
+Based on the audit work performed, the CRA is generally in compliance with the terms and conditions
+governing the use, communication to others and security of information received from the
+WCB of NS, except as follows. The audit revealed that access to the WCB of NS information in the RIP in the Summerside TC was not always removed in a timely manner. The audit also found that the WCB information was kept on the ITB PAYDAC shared drive, and was accessible to some employees within that area who did not participate in the WCB project. In addition, no guidance was provided to the field offices regarding the retention period of the data and the proper data erasure methods. Furthermore, the erasure method specified by the MOU is not practical for deleting individual files/folders from the hard disk/server.
+There was no evidence that information was used for purposes other than that for which it was intended, or disclosed to any third parties outside of the terms of the MOU.
+Page details
+Report a problem on this page
+Date modified:
+2009-01-08

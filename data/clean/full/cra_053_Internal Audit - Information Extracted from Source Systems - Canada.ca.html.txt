@@ -1,0 +1,305 @@
+Internal Audit - Information Extracted from Source Systems
+Notice to the reader:
+Please note that in the spirit of the
+Access to Information Act
+, some information within this document cannot be disclosed for reasons related to the security of our infrastructure and to the operations of Government.
+Final Report
+Audit, Evaluation, and Risk Branch
+November 2015
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations, and Action Plans
+1.0 Compliance with policies, standards, procedures, and processes
+2.0
+PROTECTED
+Conclusion
+Appendix A: Assessed Databases and Applications
+Appendix B: Audit Methodology
+Executive Summary
+Background
+As one of the largest information holdings in the Government of Canada and a crucial player in Canada's economy, the Canada Revenue Agency's (CRA) operations touch the lives of Canadians. The CRA contributes to the well-being of Canadians and the efficiency of government by delivering world-class tax and benefit administration that is responsive, effective, and trusted. As the guardian of information related to the national interest and the interests of taxpayers
+1
+, the CRA must ensure the security of the information that it holds. Its duty to protect information is codified in legislation, such as the
+Income Tax Act
+, the
+Excise Tax Act
+, and the
+Privacy Act
+, and is embedded in its operations through its guiding principles of integrity, professionalism, respect, and co-operation.
+Taxpayer information is extracted from the CRA's source systems and used for a variety of purposes, including business intelligence, statistical analysis, and decision support. Information is then stored in the Agency Data Warehouse (ADW), data marts, or electronic documents, such as spreadsheets. From the time that information is extracted until it is appropriately disposed of, there are security controls established to safeguard taxpayer information.
+1
+Objective
+To determine whether internal controls were in place and were working as intended to protect taxpayers' information extracted from source systems. The examination phase of the audit took place from October 2014 to May 2015 within Headquarters and all five regions of the CRA. The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Conclusion
+Internal controls were in place to protect taxpayer information; the employees interviewed were aware of the policies, standards, procedures, and processes concerning the protection of information that were communicated to them. Moreover, each employee understood the importance of his or her role and responded in a fashion consistent with the CRA's corporate policy instruments. Furthermore, no inappropriate use or disclosure of taxpayer information was discovered during the audit. However, there are opportunities to strengthen internal controls to further ensure that the CRA continues to protect taxpayer information in an effective and standardized manner:
+PROTECTED
+PROTECTED
+PROTECTED
+PROTECTED
+Action Plan
+Finance and Administration Branch (FAB), Strategy and Integration Branch (SIB), and Information Technology Branch (ITB) agree with the findings and recommendations, which represent a point in time perspective of when the audit was conducted. Progress on improving the controls has been made since that point in time and plans are in place to respond to all of the recommendations.
+The CRA recognizes that ensuring taxpayer confidentiality is a fundamental and critical factor in maintaining the public's trust and confidence in the tax system. Therefore, significant emphasis has been placed on fostering a culture of security among our workforce and strengthening our security control measures to safeguard taxpayer and other protected information.
+PROTECTED
+Additionally, automated tools were developed and implemented to enable supervisors to comply with the monitoring of employee electronic access to taxpayer information. Continual enhancements are made to streamline processes while allowing monitoring of activities to ensure compliance.
+PROTECTED
+Introduction
+The Canada Revenue Agency (CRA) plays an essential role in Canada's economy by administering taxes, benefits, and related programs on behalf of the Government of Canada as well as provincial and territorial governments. In carrying out its mandate, the CRA collects information from Canadian individuals and corporations. As a result, the CRA manages 35 million taxpayer records, and has the legal obligation to protect taxpayer information as codified in legislation, such as the
+Income Tax Act
+, the
+Excise Tax Act
+, and the
+Privacy Act
+.
+For the purposes of the audit:
+a
+taxpayer
+is any individual person, corporation, trust, tax registrant, or benefit recipient that is subject to the
+Income Tax Act
+; and
+information
+consists of any "data, facts, or knowledge that is recorded, regardless of form, recording media, or technology used"
+2
+and was obtained or created by or on behalf of the Minister of National Revenue under the various acts that the CRA administers.
+A taxpayer could be identified when certain pieces of personal information appear together (for example, the name and social insurance number (SIN) of an individual, the name of an individual with personal financial information, etc.). In these situations, this personal information is considered PROTECTED B.
+3
+Taxpayer information arrives at the CRA through information systems that receive information directly from individuals and corporations. These information systems are referred to as source systems. Taxpayer information can then be extracted from the source systems for various operational and functional reasons including business intelligence, statistical analysis, and decision support. Extracted information is stored in the Agency Data Warehouse (ADW), data marts, and electronic documents (for example spreadsheets). Data marts complement the ADW. Another method of extracting information from source systems is by way of a mainframe macro application (MMA).
+The
+ADW
+is a data repository that stores CRA data from over 50 CRA source systems in a manner suitable for use in business intelligence analysis, research, and reporting.
+A
+data mart
+is purpose-built database that provides views of information tailored to support the analytical and reporting requirements of specific organizational units or program functions. While some data marts obtain protected information from the ADW, others store protected information extracted directly from source systems.
+An
+MMA
+is a computer application that uses a programming language to work with the CRA's standard mainframe emulator to access mainframe data.
+The MMAs examined during the audit were designed to navigate through mainframe screens, extract taxpayer information, and save that information into separate electronic documents.
+Figure 1 graphically depicts the relationship of source systems, the ADW, data marts, and electronic documents. The top figure of the diagram represents the CRA's information holdings in its source systems. The curved arrows at the left side of the diagram represent the process of extracting information from the source systems using MMAs into electronic documents, and then storing that information on the shared drive (for example, G drive), the personal drive (H drive), or the local drive (C drive). The centre downward-pointing arrow represents the process of extracting information directly from the source systems into data marts. The curved arrow at the right side of the diagram represents the process of extracting information from source systems into the ADW. The downward-pointing arrows drawn beneath the ADW depict the process of extracting information from the ADW to the various data marts.
+As depicted in Figure 1, the information flows in one direction, from the source systems to the ADW and data marts. Changes in the ADW and data marts, if any, will not reach the source systems and thus taxpayer information cannot be manipulated or altered due to changes in the ADW or data marts.
+Figure 1: The Relationship among Source Systems and the ADW, data marts, and MMAs
+The ADW and some data marts enable certain authorized CRA employees to access large quantities of taxpayer information on a need-to-know basis. The risk exposure to the CRA increases when a data mart or an electronic document contains large quantities of taxpayer information. Therefore, the controls governing certain authorized CRA employees who access large quantities of taxpayer information are of particular interest.
+Within the CRA, the Security and Internal Affairs Directorate (SIAD) of Finance and Administration Branch (FAB), the Information Technology Security and Continuity Division (ITSC) of Information Technology Branch (ITB), and the Information Management Division (IMD) of the Strategy and Integration Branch (SIB) are the three key organizational areas that help ensure extracted information remains secure and protected.
+SIAD is responsible for directing, guiding, and leading the security program that supports CRA programs, services, and priorities. As such, it drafts the CRA's security policy instruments, provides security training and awareness, and monitors compliance throughout the CRA.
+ITSC develops and maintains the information technology (IT) security program as part of a coordinated agency security program.  It works closely with service delivery managers and IT personnel to protect the availability, integrity, and confidentiality of the CRA's electronic information systems against compromises.   It takes preventive measures, invokes responses, publishes standards, and maintains best practices in IT security.
+IMD develops and maintains the Information Management Program to help all employees manage the CRA's information resources as a strategic asset to support operations. IMD promotes and fosters an environment in which all information resources are managed in accordance with legislative and policy requirements.
+This report is organized into four sections with two appendices. Following the "Introduction" section, the "Focus of the Audit" section defines the scope, the objective, and the timeframes of the engagement. The "Findings, Recommendations, and Action Plans" section presents the key findings of the audit arranged by line of enquiry along with the corresponding recommendation and the response from the auditee to the recommendation. The "Conclusion" section presents an overall assessment of the engagement. Additional information is appended to the report. The number of assessed data marts and MMAs appear in
+Appendix A
+of the report. Finally, a summary of the audit methodology appears in
+Appendix B
+.
+Focus of the Audit
+The objective of the audit was to determine whether internal controls were in place and were working as intended to protect taxpayers' information extracted from the source systems.
+The audit work concentrated on the controls governing certain authorized CRA employees who accessed large quantities of taxpayer information.  The audit methodology focused on:
+reviewing corporate policy instruments;
+interviewing employees who used data marts, MMAs, and the ADW;
+observing interfaces of data marts, MMAs, and the ADW;
+interviewing supervisors of the aforementioned employees; and
+conducting tests on the interview responses and the interface observations.
+4
+The scope of the audit work excluded source system controls, local-solutions governance
+5
+, and source systems user access management. These topics have already been assessed by previous audit engagements, and where required, action plans have been developed by management.
+A recommendation from the User Access Management (UAM) Audit states that the standardized tool for semi-annual access review should provide complete information to supervisors and managers for their review. Subsequent follow-up responses to the UAM recommendation identified employee system access review (ESAR) as the standardized tool for semi-annual access review.
+The audit was conducted within all five regions and Headquarters of the CRA. The examination phase of the audit took place from October 2014 to May 2015.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Findings, Recommendations, and Action Plans
+The findings, presented below, are organized by line of enquiry, and were based on interviews and document reviews. The recommendations follow each finding and flow from the root cause of the finding. Action plans are management's response to the recommendations and state what corrective actions will be taken, who is responsible to implement the corrective actions, and when the corrective actions will be completed.
+Line of Enquiry
+1.0 Compliance with policies, standards, procedures, and processes
+The objective of the first line of enquiry was to determine whether:
+processes and procedures to protect information extracted from source systems are compliant with CRA and Treasury Board Secretariat policies and are documented, communicated, and followed by users;
+roles and responsibilities of users are clearly defined, documented, and communicated; and
+information extracted by users is stored, used, and disposed of in compliance with CRA's security policies.
+Internal controls were in place to protect taxpayer information; the employees interviewed throughout the course of this audit were aware of the policies, standards, procedures, and processes concerning the protection of information that were communicated to them. Moreover, each employee understood the importance of his or her role and responded in a fashion consistent with the CRA's corporate policy instruments. Employees received frequent reinforcement from management regarding their duties with respect to handling of protected information and received guidance through on-the-job training, team meetings, CRA emails, and through the mandatory security training course, TD1805,
+Security - it's Everyone's Business!
+Furthermore, no inappropriate use or disclosure of taxpayer information was discovered during the audit.
+Findings
+1.1
+PROTECTED
+1.2
+PROTECTED
+1.3
+PROTECTED
+2.0
+PROTECTED
+Findings
+2.1
+PROTECTED
+2.2
+PROTECTED
+Conclusion
+Internal controls were in place to protect taxpayer information. The employees interviewed were aware of the policies, standards, procedures, and processes that were communicated to them. Furthermore, no inappropriate use or disclosure of taxpayer information was discovered during the audit. However, there are opportunities to strengthen internal controls to further ensure that the CRA continues to protect taxpayer information extracted from source systems. These specific opportunities are:
+PROTECTED
+PROTECTED
+PROTECTED
+PROTECTED
+Appendix A
+: Assessed Databases and Applications
+A sample of data marts and MMAs was assessed during the examination phase of the audit by using judgemental sampling that selected data marts and MMAs that contained or accessed information for one or more identifiable taxpayers. In addition, lists of users for specific data marts and MMAs were required to arrange and conduct interviews. Therefore, the assessed data marts and MMAs met both conditions of containing taxpayer information categorized as PROTECTED B and having user lists available.
+The number of databases and applications available and assessed appear in Table A.1, below.
+Table A.
+1
+: Quantity of Databases and Applications Assessed
+Database or Application
+Qualifier
+Quantity
+Quantity Assessed
+ADW
+PROTECTED
+PROTECTED
+PROTECTED
+Data marts
+PROTECTED
+PROTECTED
+PROTECTED
+Data marts
+PROTECTED
+PROTECTED
+MMAs
+PROTECTED
+PROTECTED
+PROTECTED
+MMAs
+PROTECTED
+PROTECTED
+MMAs
+PROTECTED
+PROTECTED
+Total
+PROTECTED
+PROTECTED
+PROTECTED
+6
+As reported by SIB
+Appendix B
+: Audit Methodology
+Of the greater than 40,000 CRA employees, at least 5,190 employees have authorized access to taxpayer information that is extracted from source systems and then stored in the ADW and data marts or extracted by MMAs. The lists of users of the ADW and selected data marts and MMAs were obtained from the branches. From these lists, samples of users and supervisors were selected for interviews. Interviews were conducted at Headquarters and within all CRA regions as described in Table B.1 below.
+Table B.1: Distribution of Interviews
+Region
+Office
+ADW Users
+Data Mart Users
+MMA Users
+Supervisors
+Total
+HQ
+3
+6
+-
+22
+7
+31
+AT
+Charlottetown TSO
+-
+3
+3
+2
+8
+QC
+Montréal TSO
+-
+3
+2
+2
+7
+ON
+Toronto Centre TSO
+-
+-
+2
+4
+6
+ON
+Toronto North TSO
+-
+-
+2
+3
+5
+ON
+London-Windsor TSO
+(Windsor)
+-
+-
+4
+4
+8
+PR
+Saskatchewan TSO
+(Regina)
+-
+2
+3
+3
+8
+PA
+Vancouver TSO
+-
+2
+2
+2
+6
+PA
+Surrey TC
+-
+3
+2
+3
+8
+3
+19
+20
+45
+87
+7
+Includes planning phase and examination phase interviews of 8 supervisors, 10 business process owners, and 4 IT implementers.
+Each user interview was conducted in two parts. During the first part of each interview, interviewees responded to questions about the awareness of procedures and about the actions taken when handling protected information. During the second part of each interview, interviewees demonstrated the use of the ADW, a data mart, or an MMA.
+The supervisors of some interviewees were also interviewed. Supervisors not only responded to questions about the awareness of procedures and about the actions taken when handling protected information but also responded to questions about monitoring of their employee's access and activities with respect to information extracted from source systems.
+In addition to interviews, document reviews of corporate policy instruments, of local procedures, and of monitoring procedures took place.
+Footnotes
+Footnote 1
+See the Introduction section of the report for definitions of "taxpayer," "taxpayer information," "ADW," "data mart," and "MMA."
+Return to footnote
+1
+Referrer
+Footnote 2
+The CRA. Glossary of Security Terminology. In: Finance and Administration Manual (FAM): Security Volume [online]. Ottawa: Her Majesty the Queen in Right of Canada, © 1995. Updated 2014-07-15 [viewed 2015-07-31; 09:51 EDT]. Available from: Infozone.
+Return to footnote
+2
+Referrer
+Footnote 3
+The CRA. Identification and Marking of Protected and Classified Information and Assets Procedures. In: Finance and Administration Manual (FAM): Security Volume [online]. Ottawa: Her Majesty the Queen in Right of Canada, © 1995. Updated 2015-07-02 [viewed 2015-07-31; 10:27 EDT]. Available from: Infozone.
+Return to footnote
+3
+Referrer
+Footnote 4
+See
+for more details concerning the audit methodology.
+Return to footnote
+4
+Referrer
+Footnote 5
+Local-solutions governance describes the set of policy instruments that are established to support and coordinate the development of certain software applications. These applications must have specific characteristics in order to be defined as a local solution.
+Return to footnote
+5
+Referrer
+Footnote 6
+Table A.1
+Return to footnote
+6
+Referrer
+Footnote 7
+Table B.1
+Return to footnote
+7
+Referrer
+Page details
+Report a problem on this page
+Date modified:
+2016-01-15

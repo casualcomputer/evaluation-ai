@@ -1,0 +1,353 @@
+Internal Audit – Information Technology Branch Project Time Estimation and Reporting
+Final Report
+Audit, Evaluation, and Risk Branch
+June 2019
+Table of contents
+Executive summary
+1. Introduction
+2. Focus of the audit
+3. Findings, recommendations, and action plans
+4. Conclusion
+5. Acknowledgements
+6. Appendices
+Appendix A: Project descriptions
+Appendix B: Audit criteria and methodology
+Appendix C: Glossary
+Executive summary
+Complete, accurate, and consistent preparation of time estimates for projects enable effective budget management in the Information Technology Branch (ITB) and project sponsor branches as well as contributes to the fulfillment of business requirements and corporate objectives. Effective monitoring of actual time worked on the branch's projects improves the quality of financial information used for investment decision-making and the accuracy of subsequent time estimates. Better project estimates result in better investment decisions.
+The objective of this internal audit was to provide assurance that the Information Technology Branch:
+has an effective process and tools for time estimation
+has monitoring of time estimation for major projects that is in place and working as intended
+has monitoring of time reporting for major projects that is in place and working as intended
+The audit team determined that the Canada Revenue Agency's (CRA's) policies, directives, and tools pertaining to project time estimation are aligned with the Treasury Board of Canada Secretariat's policy instruments. In addition, policies, procedures, and guidelines used by stakeholders clearly define and document their roles and responsibilities for information-technology (IT) project estimation and reporting. The team also found that processes, procedures, activities, and tools for estimating major projects are documented, consistently used, and implemented within the Information Technology Branch.
+However, the audit team noted opportunities for improvement with respect to monitoring estimate accuracy and reporting estimates.
+During the audit, none of the evidence that the audit team collected suggested fraud or wrongdoing. In addition, based on the projects reviewed, the audit team concluded that the appropriate processes, guidelines, and regulations were followed.
+Summary of recommendations
+The Information Technology Branch should:
+update its procedures to reflect the current monitoring process for the accuracy of the estimates over the project lifecycle and should incorporate a feedback mechanism to enable continuous improvement of the estimation process
+The Finance and Administration Branch should:
+track the initial estimates for Major Project Investments as well as any subsequent changes to facilitate a comparison of these estimates to the final costs
+1. Introduction
+The Canada Revenue Agency (CRA) administers tax, benefits, and related programs as well as ensures taxpayer compliance on behalf of governments across Canada. In doing so, it contributes to the ongoing economic and social wellbeing of Canadians. In the 2017 to 2018 fiscal year, the CRA processed $526 billion of deposits and issued $33.8 billion in benefit and credit
+payments
+Footnote
+1
+by using over 420 active applications developed internally. Each of these applications started as a project with a specific purpose that solved unique challenges using limited resources over a specific time period.
+The CRA has been managing information-technology (IT) enabled projects and has been developing in-house applications since 1960. Technology and application development methodologies have evolved and project management and project estimation disciplines have matured. The Office of the Auditor General has given generally positive assessments concerning the CRA's management and delivery of large IT projects
+Footnote
+2
+.
+The 2011 internal audit of the Information Technology Branch Work Order Process reported that the overall effectiveness of the cost estimating activities was not monitored, which might lead to decisions being based on inaccurate information or opportunities for improvement being missed. Furthermore in conducting the Internal Audit of the Major Projects Investment Oversight Process in 2016 and the Review of Business Analyst Capacity in 2017, the Internal Audit Division identified a weakness in business analyst capacity. The weakness contributes to client branches having difficulty providing comprehensive business requirements to the IT teams, resulting in project delays and cost-overruns.
+The Information Technology Branch is responsible for delivering the technical portion of the projects according to the requirements specified by client branches. The IT Work Request System (E502 system) captures these requirements and then the Work Order Management Centre appoints a primary point of contact within the Information Technology Branch to collect the time and materiel estimates for related portions of the work to be undertaken by other groups within the branch. These requirements are used to generate estimates via different techniques (including analogy, bottom-up estimating, expert judgment, historical data analysis, or a combination of these) that indicate the anticipated amount of time and materiel required to build the application.
+Time estimates prepared by the Information Technology Branch are then converted into salary or consultant costs and added to the equipment costs in order to obtain a total project estimate for the Information Technology Branch's activities. The total estimate is then communicated to the client branch and added to the estimates of the other project activities for a total project cost estimate.
+Total project cost estimates are communicated to the Resource Management Committee. The committee is responsible for the oversight and progress of major project
+Footnote
+3
+investments within the CRA's strategic investment portfolio as well as for the control and allocation of the financial resources held in the Strategic Investment Reserve to fund the majority of these investments.
+Every year, the CRA assesses the composition of the portfolio to ensure that it continues to contribute to the achievement of corporate priorities and strategic direction. This assessment also helps to strike the appropriate balance of investing in the future while maintaining current operations. The result is the CRA's "Strategic Investment Plan," which identifies investments in major projects over a 10-year horizon and outlines investment decisions made by the CRA's executives and the Board of Management. Better investment decisions flow from better project estimates.
+Once a project is invited through the Strategic Investment Plan to the Major Project Investment and Oversight Process, analysts establish the financial structure to track the time (which is translated into salary dollars) and other costs (such as consultants and materiel) charged to a project. They also keep track of design and development activities since these costs will be capitalized once the application goes into production in order to distribute the cost of the project over the useful life of the application through amortization in the CRA's financial statements.
+The project estimates might evolve as more information becomes available during the project or if the client branch changes its requirements. These refined estimates are communicated to the Resource Management Committee at specific times during the lifecycle of a major project via the gating process to inform of any significant change to the estimate, the scope, or the timelines.
+The accuracy of the project cost estimates is not only reflected in the "Strategic Investment Plan," but is also reported to Parliament and Canadians through the Supplementary Information Tables in the Departmental Results Report. The capitalized portion of the application design and development costs appears in the financial statements through capital asset values and the accumulated depreciation.
+The Information Technology Branch has made several changes to improve estimating activities in recent years. These changes include:
+implementing a process in 2012 to monitor and report on the overall client satisfaction of the branch's estimating activities
+drafting procedures in 2012 to support monitoring and reporting as part of the Cost Estimating Model project
+establishing an intranet course in 2014 for cost estimating for information-technology products
+This audit assessed the estimates that the Information Technology Branch provided for the 6 major projects that started after January 1, 2015 and ended by June 30, 2018. See
+Appendix A
+for more information on the 6 projects.
+2. Focus of the audit
+This internal audit is included in the approved Risk-Based Audit and Evaluation Plan 2017 to 2020. The Assignment Planning Memorandum was approved by the Management Audit and Evaluation Committee on March 13, 2018.
+2.1. Objective
+The objective of this internal audit was to provide assurance that the Information Technology Branch:
+has an effective process and tools for time estimation
+has monitoring of time estimation for major projects that is in place and working as intended
+has monitoring of time reporting for major projects that is in place and working as intended
+2.2. Scope
+The scope of the audit included time estimation and time reporting processes and activities within the Information Technology Branch for the 6 major projects that were overseen by the Resource Management Committee and that had a time estimate prepared after January 1, 2015 (the date that the current time estimating processes came into effect) and ended by June 30, 2018.
+2.3. Audit criteria and methodology
+See
+Appendix B
+for a description of the audit criteria and methodology.
+The examination phase of the audit was from April 2018 to October 2018.
+The audit was conducted in accordance with the International Standards for the Professional Practice of Internal Auditing, as supported by the results of the quality assurance and improvement program.
+3. Findings, recommendations, and action plans
+The Finance and Administration Branch and the Information Technology Branch agree with the recommendations in this report and have developed related action plans. The Audit, Evaluation, and Risk Branch has determined that these action plans appear reasonable to address the recommendations.
+3.1. Compliance
+The objectives of the first line of enquiry were to determine whether time estimates are prepared according to processes and procedures that are consistent with CRA and Government of Canada policies and guidance and that stakeholder roles and responsibilities are defined, documented, and communicated.
+3.1.1 The CRA's policy instruments related to information-technology project estimation are consistent with Government of Canada policies and guidance.
+The CRA has developed, documented, and implemented policy instruments that are aligned with Treasury Board policies, directives, and guidelines on costing, cost estimation, capital acquisitions, accounting for capital assets, and proper documentation.
+The CRA's policy instruments outline specific objectives, expected outcomes, and requirements that are relevant to oversight activities and that direct the important elements of information-technology project estimation and reporting.
+3.1.2 Stakeholders' roles and responsibilities are defined, documented, and communicated.
+The CRA's policy instruments clearly define the roles and responsibilities for each information-techonology project's key stakeholders, specifically the Office of Primary Interest; the Office of Collateral Interest; the Financial Management Advisory Services Directorate; and other financial analysts in the Finance and Administration Branch, such as those from the Resource Management Directorate, the Financial Reporting and Accounting Division, and the Strategic Investment Planning and Oversight Division.
+The roles and responsibilities of stakeholders are defined, documented, and communicated as follows:
+Information Technology Branch estimators are required to complete the "TD2052-000 Cost Estimating for IT Projects" training course
+key stakeholders use tools, methods, and processes in accordance with the policy instruments and guidelines when carrying out information-technology project estimations
+the Office of Collateral Interest and the Office of Primary Interest of the information-technology projects produce cost estimates that are validated by financial analysts in the Financial and Adminsistration Branch during the review and challenge process
+With respect to the Information Technology Branch's policy instruments, the audit team noted that:
+the "ITB Directive on Cost Estimation" contains additional specific roles and responsibilities that are mandatory when preparing information-technology project cost estimates
+Information Technology Branch estimators are subject to mandatory compliance with respect to the "ITB Directive on Cost Estimation"
+the Information Technology Branch has guidelines for carrying out responsibilities for information-technology project estimation, such as requirement gathering, solution estimation concepts, solution estimation methods, and solution estimation historical data
+3.2 Monitoring and reporting
+The objectives of this line of enquiry were to assess whether processes, procedures, activities, and tools for preparing time estimates, recording time, and comparing the actual time to the estimates for the Information Technology Branch's major projects are documented, implemented, consistent, and working as intended.
+3.2.1 Processes, procedures, activities, and tools for preparing time estimates for the Information Technology Branch's major projects are documented, consistent, and implemented.
+The internal audit team found that the processes, procedures, activities, and tools for preparing the Information Technology Branch's project time estimates exist, are documented, and are consistently used. Guidance documents for preparing estimates are also available and adhered to. These documents include:
+"TD2052-000 Cost Estimation for IT Projects" intranet training course
+"ITB Directive for Cost Estimation"
+"Directive on Cost Recovery and Charging"
+"ITB Requirements Gathering Guideline"
+"Information Technology Branch (ITB) - Internal order processing user guide"
+"ITB Integrated Cost Estimate Report Template (ICERT) Process"
+The tools to document Information Technology Branch project time estimates were also consistently used for the 6 projects reviewed. These included:
+IT Work Request System (E502 system)
+Work Breakdown Structure
+Financial Breakdown Structure
+Integrated Cost Estimate Report Template (ICERT)
+Corporate Administrative Systems (CAS)
+Project System Module
+Financial Management Module
+Human Resources Module
+The Corporate Administrative Systems ensure that employee time charged to project elements is authorized by the activity owner. Other project costs (consultants, Shared Services Canada, hardware, and software) will also make up defined project elements.
+There is a semi-annual analysis done on the accuracy of the activity price used for the hourly rate charged per employee category, which is compared to aggregate hour totals and costs. Adjustments are made to the activity price when required to reflect the actual cost of the resources.
+The Finance and Administration Branch has also created a "Lessons Learned" database that is available to all employees and that enables project managers to share their experiences and knowledge with other project managers and estimators. 5 of the 6 projects contributed to this database, and all 6 have included elements in the Resource Management Committee "Close-out Report."
+3.2.2 Monitoring the evolution of time estimates does not follow established procedures.
+The Work Order Management Centre receives client requests through the IT Work Request System (E502 system). The Work Order Management Centre then creates tracking numbers within the Corporate Administrative Systems to let the Office of Primary Interest and the Office of Collateral Interest enter their estimates, which are then aggregated to be included in the Integrated Cost Estimate Report Template and linked to the original request. The Integrated Cost Estimate Report Template is used to communicate the Information Technology Branch's estimate to the project client. This applies for the initial estimate and any subsequent updates.
+Once the client approves the estimate, the structure to track the time and costs that will be charged to the project is set up in the Corporate Administrative Systems.
+The Office of Primary Interest within the Information Technology Branch communicates any subsequent changes made to the project to the client branch and the financial analyst through internal communications. Updates are entered into the Corporate Administrative Systems without the need to generate an updated Integrated Cost Estimate Report Template. Consequently, the Work Order Management Centre does not have the latest estimate on file.
+The "ITB Directive on Cost Estimation" mandates the Office of Primary Interest to use the Integrated Cost Estimate Report Template to communicate estimates to the client branch, but it does not explicitly require subsequent updates to be communicated to the Work Order Management Centre.
+All of the examined projects submitted an Integrated Cost Estimate Report Template, but 2 of the projects had incomplete estimate information on file. Even without the latest Integrated Cost Estimate Report Template on file, the project client communicates significant updates to the budget, scope, or timeline of a project to the Resource Management Committee via the project change request.
+The Work Order Management Centre's roles are to maintain data integrity of work order characteristics in the Corporate Administrative Systems and to facilitate financial reporting and client billing via the Integrated Cost Estimate Report Template process. Without the most recent project Integrated Cost Estimate Report Template on file, the Work Order Management Centre cannot properly monitor the accuracy of the estimates over the lifespan of the project nor can it continually improve the process.
+The adoption of the Agile methodology for software development will be a challenge for future costing activities since the requirements are fully determined during the execution phase, which occurs after the project has been invited through the Strategic Investment Plan to the Major Project Investment and Oversight Process based on high-level estimates.
+Therefore, there is a risk that:
+the project estimates on file are out of date
+there is insufficient information available to improve the estimation process
+Recommendation 1
+The Information Technology Branch should update its procedures to reflect the current monitoring process for the accuracy of the estimates over the project lifecycle and should incorporate a feedback mechanism to enable continuous improvement of the estimation process.
+Action Plan 1
+Information Technology Branch will work with Finance and Administration Branch to ensure that the "Standards for ITB Cost Estimation" includes language for monitoring the accuracy of estimates and a feedback mechanism. This standard is a new policy instrument which is currently under development.
+Completion date: December 2019
+3.2.3 There are no mechanisms in place to validate the level of certainty of time estimates.
+The Protocol for the Resource Management Committee requires that major project submissions for the "Detailed Planning Report" should include cost estimates for project-related activities that are within a ±15% level of certainty. The overall level of certainty of the projects was not assessed in the close-out reports.
+The "CRA Directive on Costing" states that for cost estimates to adequately support decision-making, they must be:
+reasonable, based on historical performance to the extent possible, supported by sound assumptions and professional judgment
+reliable, based on existing standards and experience
+relevant, produced on a timely basis and incorporating the latest information available
+transparent, indicating the level of confidence or class of estimate where applicable, and identifying contingency costs where included
+comprehensive, including:
+all known costs from Office of Primary Interest, Offices of Collateral Interest, and other stakeholders
+direct time: for the purposes of this directive, these are employee hours required to directly perform an activity, accomplish a task, or produce an output
+indirect time: for the purposes of this directive, these are employee hours related to training, or non-productive time, such as vacation leave, sick leave, and family-related leave
+Figure 1 compares the earliest Information Technology Branch salary estimates provided to the actual salaries for the 6 major projects assessed. 4 of the 6 projects are not within the desired level of certainty of ±15% for the Information Technology Branch time estimates. However, the Information Technology Branch's salary estimate variances can be explained for each of the projects.
+Figure 1 - Information Technology Branch Salaries
+RMC Project
+Agency-wide Service Feedback Model - Phase 1
+External Administrative Correspondence - Phase 1
+Identity and Access Management (IAM) - Phase IV
+Mobile Apps Phase 2
+Session Sharing Software (SSS)
+Submit Documents
+RMC Estimate ITB Salaries
+$419,000
+$2,844,000
+$5,455,000
+$1,286,000
+$1,101,000
+$1,703,000
+RMC Close-out Report - ITB Salaries
+$421,000
+$1,195,000
+$6,509,000
+$902,000
+$319,000
+$1,447,000
+RMC Close-out as % of RMC Estimate
+100.48%
+42.02%
+119.32%
+70.14%
+28.97%
+84.97%
+The scheduling of activities also has an impact of the yearly project budget. The Departmental Results Reports provide yearly project spending information in the "Details on project spending" section of the Supplementary Information Tables. This spending information summarizes all project costs, including the Information Technology Branch's project time portion.
+Although this information provides a snapshot of the planned and actual activities for a project during a fiscal year, it does not necessarily reflect changes that might have occurred in the timing of the execution of those activities. Nonetheless, it provides a way to communicate the progress of projects on a yearly basis.
+Figure 2 shows that the portion of planned spending that was not actually spent has been increasing since the 2015 to 2016 fiscal year and that the portion of the projects having achieved the desired estimation class of ±15% has also diminished (from 58% to 38%).
+Figure 2 - Departmental Results Report - Details on project spending - 2013 to 2018
+2013-2014
+2014-2015
+2015-2016
+2016-2017
+2017-2018
+Number of projects
+34
+32
+33
+42
+37
+Number of projects where the estimate is within ±15%
+19
+15
+19
+16
+14
+Percentage of projects within ±15%
+56%
+47%
+58%
+38%
+38%
+Planned spending
+$122,770,000
+$129,191,000
+$147,160,000
+$174,667,000
+$192,884,000
+Actual spending
+$83,940,000
+$110,562,556
+$132,423,906
+$146,283,627
+$158,305,389
+Unspent
+$38,830,000
+$18,628,444
+$14,736,094
+$28,383,373
+$34,578,611
+Percentage unspent of planned
+31.63%
+14.42%
+10.01%
+16.25%
+17.93%
+Minimum
+-1.73%
+0.01%
+-557.61%
+-2.40%
+0.00%
+Average
+21.65%
+22.56%
+-2.72%
+21.34%
+22.08%
+Median
+8.61%
+16.38%
+12.12%
+18.46%
+22.49%
+Maximum
+89.44%
+82.44%
+66.23%
+82.43%
+72.44%
+The possible causes for the greater estimates than actual costs include the following:
+The discipline of project management aims to deliver projects that are on time, on budget, and that are delivered as expected. Project estimates have a built-in contingency reserve to manage unexpected situations.
+Incomplete or inadequate recommendations affect the level of accuracy of an estimate. Previous Internal Audits and reviews observed that receiving comprehensive business requirements would benefit preparing accurate projections and timelines.
+Large-scope multi-year projects complicate the preparation of estimates.
+Additional requirements and improved monitoring throughout the project's lifecycle is required for measuring, recording, validating, reporting, and using the level of accuracy of the cost estimates prepared at the deliverable and project levels.
+Without validating the accuracy of the cost estimates throughout the project's lifecycle, there are missed opportunities to improve the estimation process. For example, where business analysts were in place, this would help branches to provide ITB with comprehensive business requirements that would benefit ITB in providing estimates within the prescribed level of confidence.
+Recommendation 2
+The Finance Administration Branch should track the initial estimates for Major Project Investments as well as any subsequent changes to facilitate a comparison of these estimates to the final costs.
+Action Plan 2
+The Finance and Administration Branch agrees with the recommendation. In fact, every year and since 2014 a table has been included in the Strategic Investment Plan to report the variances between project estimates at the Options Analysis and Detailed Planning stage and actual costs for all closed projects.
+In addition, Finance and Administration Branch has, in recent years, made the following important improvements in support of improved costing and tracking of changes in cost estimates:
+Created an indicator on the Portfolio A that identifies the number re-baselines for scope, schedule, and cost
+Incorporated Agile into the Major Project Investment Oversight Process including how to estimate costs for each stage
+Delivered information sessions on cost estimating and challenge function to close to 50 Headquarters and Regional employees
+Updated Agency costing directive
+By March 31, 2020 Finance and Administration Branch will also:
+Improve the Briefing Note template to capture the actual cost by stage, to compare estimates to actuals, including an explanation of variances greater than the thresholds established through the Major Project Investment and Oversight Process
+Add a table in the close-out report that compares the cost variance and re-baselines over the project lifecycle, highlighting the approved changes throughout the project
+Include a new "cost estimating" category in the lessons learned
+Increase emphasis on cost estimating with the PM community of practice
+4. Conclusion
+The Canada Revenue Agency's policies, directives, and tools pertaining to project time estimation are aligned with the Treasury Board of Canada's policy instruments. Policies, procedures, and guidelines used by stakeholders clearly define and document their roles and responsibilities for information-technology project estimation and reporting. Processes, procedures, activities, and tools within the Information Technology Branch for estimating major projects are documented, implemented, and consistently used.
+The adoption of the Agile methodology for software development will be a challenge for future costing activities since the requirements are fully determined during the execution phase, which occurs after the project has been approved based on high-level estimates.
+The audit team identified opportunities for improvement regarding the monitoring of estimate accuracy and the reporting of estimates.
+During the audit, none of the evidence that the audit team collected suggested fraud or wrongdoing. Based on the projects reviewed, the audit team concluded that the appropriate processes, guidelines, and regulations were followed.
+5. Acknowledgements
+In closing, the Audit, Evaluation, and Risk Branch recognizes and thanks the Information Technology Branch and the Finance and Administration Branch for the time they have dedicated and the information they have provided during the course of this engagement.
+6. Appendices
+Appendix A: Project descriptions
+Project
+Description
+Agency-wide Service Feedback Model
+The Agency-wide Service Feedback Model addressed the Office of the Taxpayers’ Ombudsman’s urgent application sustainability issue. The office’s case-management solution, Case Tracker System (CTS), had been unsupported by its original application developers (the Government of British Columbia) since 2014.
+External Administrative Correspondence – Phase 1
+Phase 1 of the External Administrative Correspondence project was set out to redesign the CRA’s highest volume pieces of correspondence, which represents approximately 75% of the total external correspondence generated by the CRA.
+Identity and Access Management (IAM) – Ph
+ase IV
+Phase 4 of the Identity and Access Management project will automate identity management, request management, and access reviews across all CRA computing platforms. It will centralize and standardize all access-related requests and enhance the tools used by managers to allow them to review both employee and non-employee access permissions to Canada Revenue Agency and Canada Border Services Agency (CBSA) systems, including generic and other non-standard accounts. It will also improve on-boarding and off-boarding processes of employee and non-employee system accounts by automating the creation of basic accounts and the deletion of all accounts once employment has been terminated.
+Mobile Apps Phase 2
+Enhancements for phase 2 of Mobile Apps included improvements to the MyCRA mobile app to add the ability to start or update direct deposits, update address and phone number information, register for and update online mail notifications, and view Home Buyers’ Plan and Lifelong Learning Plan balances. The existing services were upgraded to provide a more client-centric view to clients who wish to securely view key portions of their tax information through their mobile device, such as notices of assessment, tax return status, registered retirement savings plan deduction limit, and tax‐free savings account contribution room.
+Session Sharing Software
+The Session Sharing Software project was undertaken to support the CRA’s Digital Service Modernization efforts. The project was originally scoped to include the My Business Account portal only; however, the project team decided to broaden the scope to include both the My Account and Represent a Client portals since the vast majority of the yearly transactions are generated by individuals or representatives, at no extra cost.
+Submit Documents
+This project’s goal was to deliver an online service that is available from each of the 3 CRA secure online portals: My Account, My Business Account, and Represent a Client. The “Submit Documents” function was created with foundational pieces that provide a user-friendly experience for submitting an electronic document, whether users are doing it as an individual, business, or a third-party representative. The service was designed in a manner that allows multiple lines of business across the CRA to adopt it.
+Appendix B: Audit criteria and methodology
+Based on an Audit, Evaluation, and Risk Branch's risk assessment, the following lines of enquiry were identified:
+Line of enquiry
+Criteria
+Compliance
+Time estimates are prepared according to processes and procedures that are consistent with CRA and Government of Canada policies and guidance.
+Stakeholder roles and responsibilities are defined, documented, and communicated
+Monitoring and Reporting
+Processes, procedures, activities, and tools for preparing time estimates for the Information Technology Branch’s major projects are documented, implemented, working as intended, and consistent at each stage of the time estimation process.
+Processes, procedures, activities, and tools for recording time spent on the Information Technology Branch’s major projects are documented, implemented, working as intended, and consistent at each stage of the time reporting process.
+Processes, procedures, activities, and tools that compare time estimates to actual hours worked on the Information Technology Branch’s major projects are documented, implemented, working as intended, and consistent at each stage of the time estimation and reporting process.
+Methodology
+The methods for examination included the following:
+reviewing and analyzing policy instruments and other select documentation
+reviewing and analyzing established monitoring mechanisms, including a control self-assessment
+interviewing select employees who report or monitor time charged to select Information Technology Branch major projects
+reviewing, analyzing, and comparing data on hours charged to select Information Technology Branch major projects
+Appendix C: Glossary
+Terms and definitions
+Term
+Definition
+Activity price
+The activity price is calculated by dividing the total forecasted cost center salary dollars for the upcoming fiscal year by the estimated total direct employee hours planned (for the cost center) for the same period.
+Agile
+The Agile method is an approach to project management. It uses incremental, iterative work sequences that are commonly known as sprints.
+Corporate Administrative Systems (CAS)
+The Corporate Administrative Systems support all of the CRA’s financial, material, administration, human resources, and payroll functions.
+E502 IT Work Request System (E502 System)
+The E502 IT Work Request System is an automated work management tool. It initiates the creation of an internal order number, which is used to track an initiative or a task or project its work-in-progress status and finances.
+Financial Breakdown Structure (FBS)
+The Financial Breakdown Structure is a Work Breakdown Structure (WBS) modified to facilitate the financial reporting of actual expenditures against the approved budget of a major investment project reporting to the Resource Management Committee.
+Gating process
+The gating process identifies points during the life of a project when executive management carefully considers the project status and grants approval to proceed to the next decision point or "gate."
+Integrated Cost Estimate Report Template (ICERT)
+The Integrated Cost Estimate Report Template (ICERT) is used as the main output of cost estimation provided to the client. It is used to communicate and report the IT project estimate to other stakeholders regardless of the source of funds. Once the ICERT is approved, it is logged and updated throughout the project’s lifecycle until the work is completed.
+Major project investments (MPIs)
+Major Project Investment projects are those that have Resource Management Committee oversight, have planned spending in excess of $1 million in any fiscal year (regardless of the source of funding), or represent a significant strategic, business, or operational risk to the CRA.
+Major Project Investment Oversight process (MPIOP)
+The Resource Management Committee Secretariat supports, guides, and reviews the documentation prepared for presentation to the RMC. Throughout this process, the goal is to assist the projects in providing the Committee with the best possible information for making decisions. This includes ensuring that, from the beginning, major projects have clearly defined expected results which are supported by sound management, reporting, and accountability.
+PGA Framework
+The Project Gating Assessment (PGA) framework is the Treasury Board standard for project management and is used at the CRA. It determines key decision points within projects that assess the status and future direction of a project.
+Resource Management Committee (RMC)
+The Resource Management Committee (RMC) is responsible for the oversight and progress of major project investments within the CRA's strategic investment portfolio, as well as the control and allocation of the financial resources held in the Strategic Investment Reserve to fund the majority of these investments. The RMC has decision-making authority on projects with a total cost of up to (but not including) $20M. The RMC may also be consulted, as required, for the purpose of advising the Agency Management Committee (AMC) on any finance and administration matters, such as the Strategic Investment Plan.
+Work Order Management Centre (WOMC)
+The Work Order Management Centre administers a comprehensive process for Information Technology Branch work order requests in collaboration with Branch Business Management Division (BBMD), Financial Management Advisory Services-ITB (FMAS-ITB) and the Finance & Administration Branch.
+Footnote 1
+2017-2018 Departmental Results Report (Page 12)
+Return to footnote
+1
+Referrer
+Footnote 2
+2006 November Chapter 3—Large Information Technology Projects
+and
+2011 June Chapter 2—Large Information Technology Projects
+Return to footnote
+2
+Referrer
+Footnote 3
+Major Project Investment projects are those that have planned spending in excess of $1 million in any 1 fiscal year, regardless of the source of funding, and have Resource Management Committee oversight.
+Return to footnote
+3
+Referrer
+Page details
+Report a problem on this page
+Date modified:
+2019-07-19

@@ -1,0 +1,180 @@
+Executive summary
+Ensuring the protection and the security of information is crucial to the Canada Revenue Agency’s (CRA) business. It is essential to maintaining Canadians’ trust in the CRA and to ensuring compliance with the security legislation and policies. Information technology (IT) assets and information must remain protected and secure not only during their useful life, but also during the disposal phase.
+The objective of this audit was to determine whether internal controls are in place and working as intended to ensure that the CRA appropriately protects information during the disposal phase of the IT asset management life cycle.
+Overall, the internal audit team found that the CRA has internal controls in place to ensure the protection of information during the disposal phase of the IT asset management life cycle. Specifically, the audit revealed that the CRA had an existing policy framework, defined roles and responsibilities, and appropriate internal controls in place. For the selected areas examined, the audit team noted opportunities to strengthen internal controls regarding compliance and monitoring to ensure that the CRA continues to protect taxpayer information in an effective and standardized manner.
+Finally, the audit team discovered no case of integrity lapses related to the disclosure of sensitive information.
+Summary of recommendations
+The Finance and Administration Branch, the Information Technology Branch, and the International, Large Business and Investigations Branch should strengthen controls in order to do the following:
+review the CRA’s policy instruments for consistency and communicate with stakeholders
+improve CRA’s compliance with policies for security, including the identification of the sensitivity level of the assets’ information as well as the sanitization and destruction processes
+establish additional monitoring activities related to the sanitization and destruction of IT media
+Management response
+The Finance and Administration Branch; the Information Technology Branch; and the International, Large Business and Investigations Branch agree with the recommendations in this report and have developed related action plans. The Audit, Evaluation, and Risk Branch has determined that these action plans appear reasonable to address the recommendations.
+1. Introduction
+As an agency that safeguards one of the largest information holdings in the Government of Canada, the Canada Revenue Agency (CRA) touches the lives of all Canadians. The CRA contributes to the well-being of Canadians and to the efficiency of the government by delivering a world-class tax and benefit administration that is responsive, effective, and trusted.
+To deliver on its mandate, the CRA has employees that access, update, and process information. They extract some of this information from source systems and store it on CRA information technology (IT) assets. Employees then process, analyze, or send it to partner organizations, in accordance with written agreements.
+IT assets include electronic devices with the capacity to store CRA information on non-removable media (internal hard drives and permanent storage devices) and portable data storage devices (USB memory sticks, external hard drives, optical media, and magnetic tape).
+Helping to ensure the protection of Government of Canada electronic information, the Communications Security Establishment is mandated to provide advice, guidance, and services. One such piece of guidance is the Information Technology Security Guidance on IT Media Sanitization, which was developed for IT security managers and IT security practitioners responsible for the life cycle of media that store information in Government of Canada organizations.
+The CRA is responsible for managing security activities and ensuring that safeguards are in place to preserve the confidentiality of taxpayer, registrant, and other sensitive data throughout the lifecycle of the IT asset. These controls must also be used when IT assets enter the disposal process (when they have reached the end of their useful life and can’t be reallocated internally). The level of safeguards for IT assets corresponds to the categorization of the information, which might represent injury to non-national (protected) or national (classified) interests.
+IT assets can be disposed of through various means. Regardless of the method used, CRA information must be removed from IT assets prior to disposal. In cases where removal isn’t possible, the medium on which the information is stored must be physically destroyed.
+Deleting a file doesn’t remove it from the IT asset; the contents of the file remain intact and recoverable. In order to make the file non-recoverable, storage media must undergo a process known as “sanitization.” When a file is sanitized, it follows a method to make the data unrecoverable, such as being repeatedly overwritten using a specialized software product. This process leaves storage media in a re-usable condition.
+Although most IT assets are encrypted, they must be properly sanitized or physically destroyed at the end of their useful life to prevent unauthorized parties from retrieving sensitive information.
+Controls relating to the sanitization or destruction of IT assets are essential for ensuring the protection of information during the disposal phase of the IT asset management life cycle.
+2. Focus of the audit
+This internal audit was first included in the Board of Management approved Risk-Based Audit and Evaluation Plan 2015-2018. The Assignment Planning Memorandum was approved by the Management Audit and Evaluation Committee on November 2, 2017.
+2.1 Objective
+The objective of this audit was to determine whether internal controls are in place and working as intended to ensure the protection of information during the disposal phase of the IT asset management life cycle.
+2.2 Scope
+The scope of the audit work included CRA IT assets that could store protected or classified information. Because IT infrastructure assets (such as mainframes, servers, and network infrastructure) are managed by Shared Services Canada, they were outside the scope of this audit.
+2.3 Audit criteria and methodology
+See Appendix A for a description of the audit criteria and methodology.
+The examination phase of the audit took place from November 2017 to April 2018.
+The audit was conducted in accordance with the International Standards for the Professional Practice of Internal Auditing, as supported by the results of the quality assurance and improvement program.
+3. Findings, recommendations, and action plans
+The recommendations presented in this report address issues of high significance or mandatory requirements.
+The Finance and Administration Branch; the Information Technology Branch; and the International, Large Business and Investigations Branch agree with the recommendations in this report and have developed related action plans. The Audit, Evaluation, and Risk Branch has determined that these action plans appear reasonable to address the recommendations.
+3.1 Compliance
+The objectives of the first line of enquiry were to determine whether:
+processes and procedures to safeguard IT assets are consistent with CRA and Government of Canada policy and guidance
+roles and responsibilities of stakeholders are defined, documented, and communicated
+IT assets slated for disposal are processed in compliance with CRA security policies and procedures
+3.1.1 CRA policy instruments and procedures related to the security and disposal of IT assets were documented, communicated, accessible, and consistent with Government of Canada policy. In addition, there is room for improvement.
+The Finance and Administration Branch reviewed and updated security corporate policy instruments in the CRA Finance and Administration Manual to establish standards consistent with Government of Canada policy by the Treasury Board of Canada Secretariat. The corporate policy instruments provide information on security requirements to securely destroy and dispose of protected and classified information and assets. However, opportunities for improvement are available to address the following issues:
+internal guidance and various security requirements weren’t always consistent with CRA policies
+policies don’t incorporate a requirement to specify when portable data storage devices are sanitized or destroyed
+CRA policies and procedures weren’t always consistent with Communications Security Establishment guidance for IT Media Sanitization
+Improvements to the consistency and communication of corporate policy instruments will reduce the potential risk of disclosure of protected and classified information.
+Recommendation 1
+The Finance and Administration Branch should clarify and update CRA policy instruments and communicate with stakeholders in order to ensure consistency among CRA policy instruments and guidance on current IT media sanitization processes.
+The Finance and Administration Branch should establish the timeframe required for the timely physical destruction of portable data storage devices after they have reached their end of life.
+Action Plan 1
+The Finance and Administration Branch agrees with the recommendation. It should be noted that the Information and Technology Branch updates and communicates to stakeholders the CRA policy instruments containing specific information on IT media sanitization.
+Therefore, the Finance and Administration Branch will conduct a review of its InfoZone guidance on the current IT media sanitization process and ensure its consistency between the relevant CRA policy instruments.
+The Finance and Administration Branch will assess the alignment between the Government of Canada guidance and Finance Administration Branch owned policy instruments on IT media sanitization and report the results to the Agency Security Officer.
+The Finance and Administration Branch will establish the timeframe required for the timely sanitization of portable data storage devices after they are no longer re-usable or required and update Finance and Administration Branch owned corporate policy instruments accordingly.
+Completion date: April 30, 2019
+3.1.2 The roles and responsibilities regarding information security within the CRA were clearly defined, documented, and communicated.
+The roles and responsibilities regarding information security within the CRA were clearly defined, documented, and communicated. All CRA employees are expected to be aware of their security responsibilities, including safeguarding information and assets under their control, by applying the proper security requirements.
+According to security corporate policy instruments in the CRA Finance and Administration Manual, the responsibilities of the Finance and Administration Branch are to foster an effective control environment by directing the development of relevant corporate policy instruments, communication products, and tools used to protect CRA information and assets, such as guidance for the sanitization and destruction of electronic media.
+The Finance and Administration Branch ensures security compliance by reinforcing CRA employees’ and managers’ understanding of their security responsibilities; this is achieved through the development of the management framework for the security awareness program, which includes relevant internal intranet communications, training, and the CRA Security Awareness Week.
+3.1.3 IT assets slated for disposal were processed securely; opportunities for improvement are available to ensure compliance with CRA security policies.
+CRA security policies and procedures are a control to ensure that IT assets slated for disposal are processed in a secure manner. Media sanitization should be a secure and auditable process used to ensure the continuing confidentiality of residual data on the media.
+The internal audit team determined that, at selected sites, employees maintained an awareness of security requirements and responsibilities to ensure that their actions didn’t compromise CRA or Government of Canada security policies. In general, employees ensured that they addressed security requirements as part of their processes and practices; however, opportunities for improving internal controls and alignment with policies are available for providing assurance that protected and classified information has been sanitized and disposed of in a secure manner.
+3.1.4 IT assets that are no longer deployed can’t be identified.
+The internal audit team found that the CRA has procedures in place to identify and remove most IT assets from the appropriate asset inventory system. However, the audit revealed that procedures and local inventory systems related to specific IT assets (such as portable data storage devices and specialized IT assets) need improvement to ensure that IT assets are identified when no longer deployed.
+Currently, CRA supervisors manually assess and validate portable data storage devices on a semi-annual basis to ensure an accurate inventory. However, the Finance and Administration Branch needs to review existing procedures and tools to assist with accurately identifying all devices that reach their end of life and to maintain a chain of custody of the destruction. The Information Technology Branch is planning to address some risks as part of the Data Security Initiative, which will focus on improving the protection of sensitive data from unintended access or loss. The Data Security Initiative will establish system controls for authorized USB portable data storage devices with hardware-based encryption and will migrate the responsibilities to the Information Technology Branch.
+The internal audit also found that specialized IT assets managed for the Criminal Investigations Directorate of the International, Large Business and Investigations Branch as well as the Charities Directorate of the Legislative Policy and Regulatory Affairs Branch weren’t accurately updated in the asset inventory. The International, Large Business and Investigations Branch and the Information Technology Branch were updating local tools and administrative procedures to maintain an accurate inventory and strengthen administrative procedures throughout IT assets’ life cycles. This will ensure that employees will use secure practices for protecting information that represents the greatest risk to the CRA.
+Recommendation 2
+The Finance and Administration Branch; the Information Technology Branch; and the International, Large Business and Investigations Branch should update procedures and tools to inventory IT assets and portable data storage devices that are no longer deployed and that contain protected or classified information.
+Action Plan 2A
+The Finance and Administration Branch agrees with the recommendation.
+Given that the manual Portable Data Storage Device inventory is an interim tool that is in place only until the implementation of the Information Technology Branch’s Data Security Initiative, the Finance and Administration Branch will distribute to senior managers that own portable data storage devices an awareness communication that will help to ensure that:
+the branches properly use the portable data storage devices inventory transfer function
+certificates of portable data storage devices destructions are retained for an appropriate period (in accordance with the CRA Information Management requirements)
+Completion date: April 30, 2019
+Action Plan 2B
+The Information Technology Branch will ensure that an appropriate process is put in place for the disposal of data-sensitive IT assets in the Legislative Policy and Regulatory Affairs Branch.
+The process will include:
+tracking the IT assets identified for disposal in a protected and auditable protected format
+establishing a standard operating procedure that clearly defines:
+the timing for sanitizing IT assets and disposing of them
+labels for identifying the status of IT assets slated for disposal (not sanitized, sanitized, or inventoried)
+the chain of custody
+the standards for shredding and destroying IT assets
+roles and responsibilities
+The Information Technology Branch is working with Shared Services Canada to identify and define both the standard operating procedures and roles and responsibilities.
+Completion date: January 31, 2019
+Action Plan 2C
+The International, Large Business and Investigations Branch, Criminal Investigations Directorate deployed a new asset management tool in August 2018 that will better track existing and new assets. The application will retain historical information on assets that have been disposed of. The International, Large Business and Investigations Branch will follow the Information Technology Branch’s guidelines when disposing of IT assets, including sanitizing storage media.
+Completion date: August 31, 2018
+3.1.4 Non-removable hard disks aren’t marked according to the security categorization level of the information that they contain.
+The Identification and Marking of Protected and Classified Information and Assets Directive aims to protect the privacy and confidentiality of taxpayer information and the reputation of the CRA and its employees by requiring that information and assets be identified and marked appropriately. The marking of assets indicates the security measures that must be followed based on the sensitivity of the information contained on the asset.
+The internal audit team found that employees complied with information classification policies for portable data storage devices. Also, employees removed IT asset labels before disposal, as necessitated by security requirements. However, the Information Technology Branch’s procedures don’t specify the marking of non-removable hard disks from workstations and laptops. Consequently, the internal audit team noted that some employees didn’t label non-removable hard disks as is required by the CRA’s policy.
+Appropriate labelling helps safeguard the CRA's protected and classified information and assets throughout their life cycle.
+Recommendation 3
+The Information Technology Branch should align its procedures with the CRA’s policy requirements concerning the labelling of non-removable hard disks according to the security categorization level of information the device contains.
+Action Plan 3
+In consultation with the Finance and Administration Branch, the Information Technology Branch will update and communicate the National Standard Operating Procedures for hardware disposal to align with the most current policies as identified in Action Plan 1.
+Completion date: April 30, 2019
+3.1.5 The sanitization and destruction process of IT assets doesn’t always follow the approved products or methods that are outlined in CRA policies.
+When an IT asset can’t be sanitized, it must be destroyed. The Storage, Disposal, Transmittal and Transport of Protected and Classified Information and Assets Directive specifies that only CRA-approved facilities and equipment may be used to dispose of and, when necessary, destroy protected and classified information and IT assets.
+The internal audit team determined that employees were aware of security concerns and requirements and that they generally followed steps to ensure sanitization and destruction. However, there are opportunities for improvement to ensure processes fully comply with security requirements.
+The Finance and Administration Branch established standards for IT asset sanitization using an approved overwrite product. Yet, the secure overwrite products used in smaller, specialized areas and for servers weren’t specifically approved in CRA standards. The overwrite product produces an electronic certificate of sanitization upon the successful sanitization of a device. These certificates are centrally retained by the Information Technology Branch. However, they can’t be readily associated to the physical IT asset from which they originated. Although, the CRA can’t confirm that all of the IT assets sent for disposal were appropriately sanitized, the audit team discovered no case of unintended disclosure of sensitive information.
+The audit team found that the physical destruction process of IT assets wasn’t clearly documented. Employees send portable data storage devices, non-removable media, and defective devices for physical destruction. However, employees don’t always follow the approved process:
+Third-party secure destruction companies and on-site optical media shredders were used for physical destruction, but these weren’t specifically approved in the CRA’s policies.
+CRA standards for protected and classified information specify sending devices to Shared Services Canada for destruction; however, Shared Services Canada procedures are cleared for up to only Protected B information.
+Removal and destruction of hard drives from leased CRA photocopiers wasn’t monitored to ensure that supporting documentation was retained.
+Further improvements to maintaining supporting documentation for transferred portable data storage devices and non-removable hard drives are required to ensure that IT assets have been appropriately destroyed.
+The consistent use of CRA-approved facilities and equipment for sanitization and physical destruction contributes to the safeguarding of the CRA’s protected and classified information and assets.
+Recommendation 4
+The Information Technology Branch, in consultation with the Finance and Administration Branch, should update tools and procedures to ensure that:
+CRA-approved overwrite products for sanitization have been specified in standards
+all IT assets have been appropriately sanitized and verified or destroyed
+IT assets, including photocopier hard drives, containing protected and classified information are appropriately and promptly physically destroyed
+supporting documentation is retained
+Action Plan 4A
+The Information Technology Branch will update and communicate National Standard Operating Procedures for hardware disposal to encompass all IT assets (including servers and photocopiers).
+In consultation with the Finance and Administration Branch, the Information Technology Branch will specify the tools used for sanitization and maintain the National Standard Operating Procedures as required.
+Completion date: October 31, 2018
+Action Plan 4B
+The Information Technology Branch will:
+communicate to the directors of the deskside support divisions, a list of IT assets that have exceeded the Service Level Agreement for disposal
+monitor progress on disposal of IT assets
+track the physical destruction of IT assets and report the results to Information Technology Branch management on a regular basis
+This action plan will require the development of new reports and processes.
+Completion date: November 30, 2018
+Recommendation 5
+The Finance and Administration Branch should clarify and update CRA policy instruments and communicate them with stakeholders in order to establish the appropriate and timely physical destruction of IT assets containing protected and classified information.
+Action Plan 5
+The Finance and Administration Branch agrees with the recommendation. It should be noted, however, that the Finance and Administration Branch current corporate policy instrument already clearly outlines the process for physical destruction of portable data storage devices up to Protected B level.
+The Finance and Administration Branch will develop an awareness product stressing importance of following the corporate policy instruments related to physical destruction of portable data storage devices.
+The Finance and Administration Branch will establish a process for destruction of portable data storage devices containing Protected C and classified information and communicate it in the corresponding corporate policy instrument.
+Completion date: April 30, 2019
+3.2 Monitoring
+The objectives of this line of enquiry were to determine whether:
+monitoring mechanisms are in place for activities related to the safeguarding and sanitization of IT assets during the disposal phase
+roles and responsibilities for monitoring and reporting the safeguarding and sanitization of IT assets during disposal are clearly documented and communicated
+results from monitoring the activities related to the safeguarding and sanitization of IT assets during disposal are documented and communicated to address identified deficiencies
+3.2.1 Monitoring mechanisms and roles and responsibilities have been established for IT assets; however, there was no monitoring in place related to the sanitization and destruction of IT assets.
+The internal audit team found that roles and responsibilities for monitoring were clearly documented and communicated in security corporate policy instruments in the CRA Finance and Administration Manual. For monitoring responsibilities, the team noted that managers and security practitioners support the Finance and Administration Branch for monitoring compliance with security requirements and reporting on the effectiveness of established security controls to ensure that control objectives are achieved.
+The audit team found that monitoring mechanisms were established for various IT assets; however, no monitoring activities related to the sanitization and destruction of all IT assets slated for disposal are in place within the Finance and Administration Branch and the Information Technology Branch.
+The Finance and Administration Branch has established semi-annual monitoring on the portable data storage device inventory; however, the inventory tool lacks reporting capability, which inhibits monitoring whether or not portable data storage devices have been destroyed.
+The audit team observed that the Information Technology Branch has established several monitoring activities, including a quality assurance review on procedures completed in 2012 and on-going monitoring for the replacement of specific IT assets. However, the current monitoring process doesn’t encompass the timely and secure sanitization and disposal of all IT assets. Some assets that had reached their end of life weren’t processed for over 2 years.
+Evaluating the implementation and effectiveness of security controls by security practitioners and reporting to the Agency Security Officer helps safeguard the CRA's protected and classified information and assets throughout their life cycle.
+Recommendation 6
+The Finance and Administration Branch should increase awareness and establish procedures to enable delegated managers to effectively monitor the sanitization and destruction of portable data storage devices, including higher-risk information assets.
+Action Plan 6
+The Finance and Administration Branch agrees with the recommendation. The Finance and Administration Branch will update the relevant corporate policy instrument requiring that portable data storage devices certificates of destruction received by the manager of the cost centre requesting the destruction and retained for an appropriate period (in accordance with the CRA information management requirements).
+Completion date: April 30, 2019
+Recommendation 7
+The Information Technology Branch, in consultation with the Finance and Administration Branch, should establish additional monitoring mechanisms related to the sanitization and destruction of all IT asset records.
+Action Plan 7
+The Information Technology Branch will:
+communicate to the directors of the deskside support divisions, a list of IT assets that have exceeded the Service Level Agreement for disposal
+monitor progress on disposal
+track the physical destruction of IT assets and report the results to Information Technology Branch management on a regular basis
+This action plan will require the development of new reports and processes.
+Completion date: November 30, 2018.
+4. Conclusion
+The objective of this audit was to determine whether internal controls are in place and working as intended to ensure that the CRA protects information during the disposal phase of the IT asset management life cycle. Controls related to the safeguarding and proper disposal of IT assets are essential to ensuring that IT assets are disposed of in a timely and secure manner.
+Overall, the audit team found that the CRA has internal controls in place to ensure the protection of information during the disposal phase of the IT asset management life cycle.
+The audit team noted opportunities to strengthen internal controls regarding compliance and monitoring.
+Clear and consistent policy instruments and procedures could increase the level of compliance with respect to safeguarding the CRA's protected and classified information and assets during the disposal phase of the IT asset management life cycle. In addition, establishing monitoring mechanisms for the safeguarding and sanitization of all IT assets can help ensure the timely sanitization and destruction of IT assets during disposal.
+The audit team discovered no case of integrity lapses related to the disclosure of sensitive information.
+5. Acknowledgements
+In closing, the Audit, Evaluation, and Risk Branch recognizes and thanks the Finance and Administration Branch and the Information Technology Branch for the time they have dedicated and the information they have provided during the course of this engagement. Additionally, we would like to thank the International, Large Business and Investigations Branch; the Assessment, Benefit, and Service Branch; the Domestic Compliance Programs Branch; and the regions for their assistance and cooperation, which contributed to the successful completion of this internal audit.
+6. Appendices
+Appendix A: Audit criteria and methodology
+Based on the Audit, Evaluation, and Risk Branch’s risk assessment, the following lines of enquiry, criteria, and methodology were identified in the Assignment Planning Memorandum and approved by the Management Audit and Evaluation Committee:
+Appendix B: Glossary
+Page details
+Report a problem on this page
+
+
+
+
+
+
+
+Date modified:
+2019-02-15

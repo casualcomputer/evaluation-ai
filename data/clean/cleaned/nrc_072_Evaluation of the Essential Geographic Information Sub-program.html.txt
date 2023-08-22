@@ -1,0 +1,796 @@
+Executive summary
+Introduction
+This report presents the findings, conclusions, and recommendations of the evaluation of Natural Resources Canada’s (NRCan’s) Essential Geographic Information (EGI) sub-program. The sub-program is administered by NRCan’s Canada Centre for Mapping and Earth Observation (CCMEO), Strategic Policy and Results Sector (SPRS) and the Canadian Geodetic Survey (CGS), Surveyor General Branch (SGB), Lands and Minerals Sector (LMS).
+Total expenditures for this sub-program were $171 million for the years 2010-11 to 2014-15. Of this $171 million, CCMEO sub-program expenditures were $147 million and CGS expenditures were $24 million. The sub-program also received $41.6 million in C-based funds for the renewal of satellite ground infrastructure as well as external funding in the amount of $15 million.
+The evaluation employed a multiple lines of evidence approach, which included: document and literature reviews; 95 interviews with federal, provincial, territorial, international, academic, and industry stakeholders; five online surveys with users of geodetic services and geospatial information and with Canada Council of Geomatics (CCOG) committee members; and three case studies.
+Sub-program Overview
+The sub-program delivers foundation geospatial information and products, remote sensing research, satellite imagery, satellite ground infrastructure, and a standardized system of geodetic coordinates (latitude, longitude, height).
+The GeoBase Initiative delivers fundamental or framework Federal-Provincial-Territorial (FPT) authoritative geospatial data (e.g., National Hydro and National Road Networks, Indigenous Lands of Canada, Administrative Boundaries, elevation data), as well as other geospatial products such as the Atlas of Canada. A key premise of GeoBase is the capacity to integrate other geospatial data layers with core data layers to enhance its usefulness for a multitude of applications and sectors. Geospatial information, including GeoBase data, is made accessible through the GeoGratis website portal and more recently through the Government of Canada Open Government Portal and the Federal Geospatial Platform. Another key principle of the GeoBase Initiative is to collect geospatial data once and use many times to enhance efficiency. It is intended to minimize duplication and to ensure the efficient provision of, and access to consistent and up-to-date base of geospatial information covering the entire Canadian landmass.
+The sub-program also delivers remote sensing science that aims to ensure optimal value from remote sensing data in support of government, particularly federal government programs, operations and decision-making. Remote sensing science includes the development of earth observation technologies and applications and the creation of value-added products such as Long-term Satellite Data Records, primarily used for environmental monitoring, and enhanced satellite imagery for emergency geomatics services. The sub-program provides ground infrastructure for satellite information at three locations in Canada, and includes the recent renewal of this infrastructure. Satellite ground infrastructure is the responsibility of the Canadian Geospatial Data Infrastructure Division (CDGI), CCMEO.
+Canada’s Spatial Reference System is the foundation for Canada’s positioning coordinates (longitude, latitude, height). It delivers these standardized geodetic coordinates through a network of continuous satellite tracking stations, ground monuments and data products and services enabling accurate positioning for geoscience, mapping, surveying and navigation. The maintenance of the reference system is the responsibility of the Canadian Geodetic Survey (CGS), Surveyor General Branch (SGB).
+CCMEO engages federal stakeholders through the Federal Committee of Geomatics and Earth Observation (FCGEO) and provincial/territorial and federal coordination through the Canadian Council of Geomatics (CCOG). CCMEO has international responsibilities that include Canada’s head of delegation at the United Nations Global Geographic Information Management Forum; and is responsible for negotiating international treaties and agreements to promote investments in Canada relating to ground satellite infrastructures, data management, and research and development (R&D). The Canadian Geodetic Survey primarily engages provincial and territorial stakeholders through the Canadian Geodetic Reference System Committee (CGRSC) and GNSS federal stakeholders through the Federal GNSS Coordination Board (FGCB). CGS contributes data and expertise to international geodetic services and organizations primarily in support of the Global Spatial Reference System.
+The creation of CCMEO was the result of merging of three branches (Mapping Information Branch, Canada Centre for Remote Sensing, and Data Management and Dissemination Branch) into one. The CGS transitioned from Canada Centre for Remote Sensing to the Surveyor General Branch in 2013. The impacts of CCMEO organizational changes and modernization activities, considered to be significant, are not expected to be fully realized for a number of years. As such, the evaluation could not assess the impacts of these changes as they are only nearing completion now. These organizational shifts were implemented by the sectors’ senior leadership cadre with the aim to improve effectiveness and efficiencies.
+Evaluation Findings: Relevance
+National geodetic and core geospatial data and remote sensing imagery are critical for a wide array and growing number of program, policy, operations, and research applications. Core, foundation or framework data are authoritative location-based information that underpins or adds significant value to other information. Interviews, documents, and survey evidence indicate the importance of location-based information for understanding, decision-making, and management of various issues, particularly those that support federal government priorities such as climate change, exploration and use of natural resources; hazards, public safety, sovereignty; economic competitiveness, and sustainability of lands at regional to global scales.
+Canadian and international studies indicate that accessible geospatial information is an important economic driver: it is important for increasing productivity, making strategic decisions, and reducing the costs of doing business. Various jurisdictions, including Canada, have also documented that open access to geospatial and geodetic data facilitates innovation by reducing costs and information barriers. Many national governments have open government and data policies such as the United Kingdom and the United States. The Government of Canada has adopted an Open Data Policy to increase transparency and accountability and to encourage innovation and economic growth.
+There is a continued important role for the federal government nationally and internationally for ensuring consistency, accuracy of, and access to, geospatial information, geodetic coordinates and services, and earth observation science and assets in Canada. NRCan and the federal government are adequately positioned to consider the requirements for geodesy and geospatial information for Canada as a whole and in consultation and collaboration with key stakeholders.
+Although there has been an increase in geospatial data providers, particularly among the private sector and local governments, evaluation evidence indicates that the federal role in providing data continues to be appropriate in the following circumstances: to ensure adequate national coverage (particularly in the Northern and remote regions of Canada where the private sector is less likely to be involved) and to ensure there is adequate geospatial information to address national priorities and cross jurisdictional issues.
+The federal role in providing access to remote sensing imagery is viewed by stakeholders as appropriate given the importance of remote sensing imagery for assessing, and managing issues relevant to national priorities. External stakeholders generally view the archiving of this imagery as an important role for the federal government because it is a critical source of research data and a role unlikely to be assumed by others.
+The provision of geodetic programs is considered by stakeholders to be appropriate because it ensures access to consistent and accurate coordinate data, underpins other geospatial technologies and positioning and navigation systems, ensures national coverage, and serves to verify other spatial coordinate data and technologies.
+The federal government should continue to provide critical and trusted national datasets, such as GeoBase framework data, although the precise nature of this role requires further clarification. Regarding GeoBase, NRCan has increasingly shifted towards a more collaborative role, which is generally viewed by stakeholders as appropriate. However, among interviewees and as reflected in the literature, there is debate as to how the federal government role should evolve. Some stakeholders indicated that the federal government must further shift towards a data verifier role with more geospatial information derived from a combination of private and public sector sources.
+Evaluation Findings: Performance (Effectiveness)
+The evaluation found that geospatial and geodetic information and services are consistently accessed and used, and yield benefits with respect to more informed decision-making, and enhanced programs and research. Federal and provincial government representatives noted that geospatial information has improved operational and programming decisions, and research in areas such as environmental monitoring and management, assessment of climate change impacts, emergency planning and response, hazards assessment and prediction, northern development, transportation, natural resource exploration, and sustainable use of resources.
+According to international interviewees and case study evidence, the sub-program has made important contributions to international initiatives, although some decline in sub-program capacity was reported. International representatives noted that remote sensing science and mapping expertise have contributed to improved assessment of various environmental issues, such as water quality, watershed analysis, and transboundary habitat, although they indicated some decline in Canadian remote sensing and mapping capacity over the past decade. CGS provides expertise and data to support the maintenance of the Global Spatial Reference System. However, international stakeholders noted that there were some gaps in Canada’s geodetic observing infrastructure that are expected to have negative longer term implications for the accuracy of the North American and Global Reference Systems; accuracy which is needed for various science applications.
+Insufficient currency of GeoBase data, accessibility issues with respect to the GeoGratis website and the imagery archiving catalogue suggest that GeoBase information and archived imagery are underutilized and therefore not achieving their full effectiveness. While the evaluation found good examples of technology transfer, NRCan and federal interviewees indicate that federal uptake of remote sensing science is constrained by insufficient federal government receptor and CCRS human resource capacities. Geospatial data products have migrated from the GeoGratis website to the Open Government Portal and the Federal Geospatial Platform. These platforms were designed to enhance efficiency.
+Survey, interview and document evidence, which includes CCMEO’s Economic Value Study and Environmental Scan of the geospatial sector, suggests that there is a plausible link between Essential Geographic Information sub-program and broader economic benefits. Moreover, users of geospatial information and geodetic services most frequently reported operational efficiencies and other productivity benefits. Other international economic studies have also provided support for the contribution of open geospatial information and geodetic services to broader economic benefits.
+Evaluation Findings: Performance (Efficiency and Economy)
+The sub-program uses credible information for their planning and priority-setting processes. CCMEO engaged in broad consultation processes which resulted in the National Mapping Strategy and a six-point action plan focussed on collaborative governance. However, document and interview evidence indicate that there are some gaps in information for GeoBase and remote sensing science programs regarding user needs and federal horizontal priorities. CGS has used environmental scans and needs assessment information in their planning processes, but requires more formal links to academia, a key user group for their services. CCOG was noted to be an effective FPT working group, but was viewed by NRCan interviewees as providing insufficient provincial/territorial strategic input into the sub-program’s planning processes.
+CCMEO and the CGS have both had budget reductions during this evaluation period (50% and 25% respectively). This reduction is also reflected in the number of Full Time Equivalents engaged, a 45% reduction in CCMEO from 360 in 2010-11 to 199 in 2014-15, and a 20% reduction in CGS from 45 in 2010 to 36 in 2014-15. However, available performance and financial information are not sufficient to quantitatively assess the impact of these budget reductions on program delivery and efficiency or the extent to which products or services may have declined in terms of quality or quantity. Nevertheless most provincial, federal and international interviewees point to a decline in sub-program capacity. A common theme reflected in interviews and document evidence is a lack of awareness among key government decision-makers as to the importance of geodesy and geospatial information resulting in the perceived under resourcing of these programs.
+Most federal and provincial interviewees indicated that there were insufficient resources to adequately update GeoBase. However, GeoBase sustainability issues were also attributed to delivery issues such as governance; competing federal, provincial, territorial priorities; insufficient provincial capacity to provide data in the required format; slow government adoption of advanced technologies for efficient data management and storage; the need for enhanced alignment of outputs to strategic priorities and user needs; and possible program design issues related to the precise role of the federal government in providing data, and the identification of appropriate target groups for geospatial products.
+Questions around the sustainability of GeoBase indicate that while inadequate resources have been identified as an issue among key stakeholders and partners, there is a need to explore viable delivery and partnership approaches through broad consultation and a review of best practices in other jurisdictions. Through a related CCMEO program, GeoConnections, various studies and some promising pilot projects have been undertaken with a view to improving the viability of its data infrastructure, which includes GeoBase framework data. Whether these pilot projects have further potential or whether new studies are required may warrant additional examination. As well, the Federal Geospatial Platform (FGP), delivered by CCMEO, aims to manage federal geospatial information in a more efficient and coordinated way by using a common platform of technical infrastructure, polices, standards and governance which aims to improve access, reusability and reduce duplication.
+Strategic planning and coordination with respect to satellite infrastructure, remote sensing science and GeoBase were noted by internal and external interviewees to be constrained by the absence of updated legislation and a horizontal policy framework relating to geomatics. Document and interview evidence also noted challenges in long-term planning and sustaining remote sensing science efforts to efficiently generate products given its reliance on unstable external funding. Document and interview evidence also suggest the need for stronger ongoing connections between the sub-program and its user base to ensure adequate understanding of user needs and emerging geomatics practices and trends. Several interviewees suggested the establishment of an Industry or User Advisory Committee linked to key coordinating bodies such as FCGEO, CCOG and FGCB. While a multi-stakeholder group, GeoAlliance, exists, interviewees expressed concern about the current capacity of this group.
+Performance information is inconsistently tracked across the sub- program components. CCMEO lacks an overall performance measurement strategy for its programs and services and various outputs and outcomes are inconsistently reported across CCMEO programs. CGS has an existing performance measurement strategy, but needs to better track and report on its outcomes (e.g. impact of use on organizations).
+Based on the findings and conclusions of the evaluation, the following recommendations are made to the Assistant Deputy Ministers of the Strategic Policy and Results Sector (SPRS) and of the Lands and Minerals Sector:
+Recommendation 1: CCMEO should update its business analysis in order to
+  
+clarify the current needs of user groups and stakeholders and future directions of geospatial information (e.g. GeoBase) and remote sensing science;
+strengthen governance; and
+establish more viable approaches to sustain and update core geospatial data (GeoBase) and to sustain remote sensing science.
+
+
+Recommendation 2: CCMEO and CGS should strengthen linkages with appropriate stakeholder and user groups in order to stay abreast of user needs and emerging trends. For the CCMEO Branch this means stronger and sustained linkages with the private sector (with respect to geospatial programming) academia, and possibly emerging user groups. For the CGS this means strengthened linkages with academia, and more sustained linkages to users (e.g. through the Federal GNSS Coordination Board).
+Recommendation 3: CGS should develop a plan with other federal government partners to analyze gaps and identify options to mitigate infrastructure deficiencies in Canada’s geodetic observing infrastructure that are impacting negatively on Canada’s international commitments.
+Recommendation 4: CCMEO and CGS should improve accessibility and user support for geodetic and geospatial services and tools. CCMEO, in consultation with Shared Services Canada, should ensure that the new system to archive remote sensing imagery is adequately accessible. For CGS, SGB this means enhancements to user support materials particularly the Canadian Spatial Reference System Precise Point Positioning Service.
+Recommendation 5: CCMEO and CGS should improve performance measurement and reporting to ensure adequate information is available to assess efficiency and effectiveness. For CCMEO this means the development and implementation of a performance measurement strategy and regular program reporting of key outputs and outcomes (in addition to Departmental Performance Reporting). For CGS, this means an enhancement of their existing strategy to ensure better monitoring and reporting of outcomes related to the impacts of use of geodetic services.
+Recommendation 6: CCMEO and CGS should develop and implement a strategy to communicate the value and benefits of geodetic services and geospatial information to stakeholders and key decision-makers.
+The recommendations and management responses are contained in Section 4 of this report.
+1.0 Introduction and Background
+1.1 Introduction
+The evaluation assesses the issues of relevance and performance (effectiveness, efficiency and economy) of Natural Resources Canada’s (NRCan’s) Essential Geographic Information Sub-Program (3.2.1). The evaluation questions and methods (including the associated level of effort) were informed using a risk-based approach.
+The evaluation covers the five year period from 2010-11 to 2014-15 and approximately $171 million in NRCan’s expenditures. The Essential Geographic Information Sub-program is delivered by two branches within the Earth Sciences Sector: The Canada Centre for Mapping and Earth Observation (CCMEO) and the Surveyor General Branch (SGB). The sub-program includes four Divisions:
+GeoBase Division, CCMEO
+Canada Centre for Remote Sensing (CCRS), CCMEO
+Canadian Geospatial Data Infrastructure (CGDI), CCMEO
+Canadian Geodetic Survey (CGS), SGB
+1.2 Sub-Program Activities and Key Outputs
+The Sub-program delivers foundational data and services including authoritative mapping, satellite imagery, remote sensing science technologies, an accurate and consistent system of geographic coordinates (longitude, latitude, height and gravity) and tools to access this data. It supports the development of technologies, methods and tools to improve geospatial and geodetic data access and quality. It is also responsible for managing satellite ground infrastructure (i.e. antennas) and geodetic observing infrastructure (e.g. GPS satellite receiver stations) to support the production of information. The sub-program provides leadership and coordination support to various national and international committees and activities relating to geodesy, and other earth observation and geospatial activities such as the Federal Committee on Geomatics and Earth Observation, the Canadian Council on Geomatics, the United Nations Committee of Experts on Global Geospatial Information management, the United States Geological Survey and the International GNSS Service.
+The following describes the programs, services, tools, and data that are part of this sub-program:
+GeoBase provides national geospatial information and data. Geospatial information identifies and describes the geographic location of features and boundaries. Geospatial products and services are available online through the GeoGratis platform which contains numerous data products such as interactive maps, Canadian Geographic Names database, Atlas of Canada, Canada Lands Index Maps, and satellite imagery. In addition to geospatial data, the GeoGratis platform includes web services which enable developers to build value-added data products. GeoGratis is also a key online access point for GeoBase Federal-Provincial-Territorial (FPT) framework data that consists of 26 data layers such as the national road, and hydro networks, Indigenous lands, administrative boundaries, elevation information, and land cover. It should be noted that products discoverable through the GeoGratis web site have been migrated to the Government of Canada’s Open Government Portal to comply with the Directive on Open Government (Section 6.2) effective April 2017. The GeoBase Division also provides mapping and geospatial expertise and information for federal government programs and international initiatives, treaties and agreements (e.g. cross boundary initiatives, North American energy infrastructure mapping).
+Framework data are supplied by federal and provincial mapping agencies, municipalities and commercial data suppliers in Canada. While GeoBase framework data were previously accessible through a separate web portal, the portal was closed in January 2015 and GeoBase framework data were moved to the GeoGratis web platform. As of 2017 this data has migrated to the Government of Canada’s Open Data Portal and the Federal Geospatial Platform. The renewed GeoBase 2 Strategy is intended to harmonize the FPT GeoBase Initiative with the FGP initiative.
+
+Remote sensing science primarily involves in-house research and development (R&D) activities focused on development and improvement of earth observation technology, applications and data to facilitate use by government researchers and decision-makers. These technologies are related to various remote sensing techniques such as radar, optical, and Unmanned Aerial Vehicles (AUV). Activities for CCRS during the evaluation period included preparing federal government stakeholders for use of new remote sensing data from existing and new satellite missions such as the upcoming RADARSAT Constellation Mission (RCM); developing targeted remote sensing operational applications for the RCM and for key natural resources (oil sands, the North). Long-term Satellite Data Records (LTSDRs), produced by CCRS, are combined satellite images generated from four optical sensors/satellites to create national scale images of Canada that span decades. The CCRS also provides emergency geomatics services which provides enhanced satellite imagery and expertise, mostly in response to flooding events for federal, provincial and international governments. Remote sensing science and expertise is delivered by the Canada Centre for Remote Sensing (CCRS), CCMEO.
+Operation and revitalization of satellite ground infrastructure are key activities within this sub-program. Satellite ground Infrastructure monitors and controls satellites, and receives, processes and distributes satellite data. NRCan has satellite ground stations at: Prince Albert, Saskatchewan (established in 1972); Gatineau, Quebec (established in 1986); and Inuvik, Northwest Territories (established in 2010). The Inuvik ground station has one antennae owned by the Canadian government and as of 2016 it was hosting three other satellite antennas (owned respectively by the German Aerospace Centre, the Swedish Space Corporation and one partly owned by the French Centre - national d’études spatiales). Between 2012-13 and 2014-15, a project was undertaken to revitalize the aging ground infrastructure and included the replacement of antennas, and the installation of an additional antenna at the Inuvik Satellite Station Facility. The Canadian Geospatial Data Infrastructure Division is responsible for managing Canada’s satellite ground infrastructure.
+Remote sensing imagery products are acquired, managed and archived through the National Earth Observation Data Framework (NEODF) Catalogue. This system is being replaced with the Earth Observation Data Management System (EODMS), to be operated by Shared Services Canada. The NEODF catalogue archives and provides access to satellite data and consists of RADARSAT 1 and -2 satellite data from other satellites obtained through the National Master Standing Offer (NMSO). The catalogue houses about 112,000 images and long term satellite data records (LTSDRs). Although the catalogue is an open access system, RADARSAT-2 images can only be shared without costs amongst Government of Canada users and cannot be accessed by the public free of charge.
+The Canadian Spatial Reference System (CSRS) serves as a national standard for spatial positioning in Canada and provides the coordinates for Canada’s positioning (longitude, latitude, height, gravity). It is the basis for all mapping, navigation, boundary demarcation, and measuring changes to the earth’s crust. Given continuous earth movements and shifts, ongoing geodesy work is needed to ensure continued accuracy of spatial coordinates. The CGS maintains the reference system and provides various geodetic services, tools, data and infrastructure to ensure efficient access to standardized position coordinates, including:
+    
+Canadian Active Controls System (CACS) is a network of navigation satellite tracking stations that provides GNSS coordinates- Canada does not have its own navigational satellites and primarily tracks the American Global Positioning System (GPS) satellites through this system.
+Canadian Spatial Reference System - Precise Point Positioning (CSRS-PPP) service is a positioning technique that results in a high level of position accuracy with no base station required. This service allows users (primarily surveyors, engineers and researchers), to obtain corrected, more accurate GNSS coordinates in a national standardized format.
+Canadian Base Network (CBN) is a network of ground-based pillar monuments, maintained by CGS, that are tied directly to the CACS stations and supporting the Canadian Spatial Reference System. It also provides anchor points for the integration of denser, provincial networks of monuments. These provincial networks are relied upon by provinces for position coordinates, particularly in urban areas. The aim is to eventually phase out the provincial system of monuments for space-based technology.
+Canadian Gravity Standardization Network, consistent with international gravity standards, of which CGS maintains the national primary gravity reference network (consisting of approximately 70 stations) to provide accurate gravity values.
+Other Interdependent CCMEO Programs
+While these programs are not within the scope of this evaluation, they are highly interdependent with other CCMEO programs within the Essential Geographic Information sub-program and so are worth mentioning. The GeoConnections program is a national initiative, led by CCMEO, designed to facilitate open access to and use of authoritative geospatial information in Canada through coordination and leadership and support for the advancement of framework data, policies, standards, and technologies (Canadian Geospatial Data Infrastructure, CGDI) needed to make geospatial information more accessible and compatible with other information. Through GeoConnections, CCMEO plays a leadership role in the long-term sustainability of the CGDI. This program is also intended to support technology and data integration innovation.
+The Federal Geospatial Platform (FGP) is an initiative of the Federal Committee on Geomatics and Earth Observations and was designed to manage federal geospatial information in a more efficient and coordinated way by using a common platform of technical infrastructure, polices, standards and governance to improve access, reusability and to reduce duplication. Responsibility for the development and delivery of the FGP rests with CCMEO. The Branch also provides broad horizontal leadership and coordination support for this initiative. The FGP products and services can be accessed through the Open Government Portal or through an internal government network. The GeoBase 2.0 Strategy is intended to harmonize GeoBase with the FGP initiative by linking more widely available federal geospatial data with geospatial data from provinces and territories. Once the FGP initiative is completed, management of the platform will be assumed by the GeoBase Division.
+1.3 Context
+Geographically, Canada is the second largest country in the world and has the world's longest coastline with the majority of its land mass scarcely populated and difficult to access. This means that with scarce resources it is challenging to adequately map, monitor and provide precise location services, particularly in the rural, remote and northern regions of Canada.
+Rapid technological changes have substantially changed the earth observation and mapping playing field. This rapid pace is ongoing and has quickened to the point where the geospatial innovation cycle results in new products and service lines approximately every two years. The move to space-based technologies (satellites) and Geographic Information Systems (GIS), a method of managing, analyzing and displaying geographic information and tools, have allowed geospatial activities to become mainstream. The integration of space-based navigation technology into portable devices such as smartphones means that geospatial technology and information is ubiquitous. The role of the private sector and local governments in collecting and providing geographic information and services has increased significantly. For example, Google has become a large provider of spatial information to citizens and initiatives such as Open Street Map, a community mapping effort, are becoming increasingly popular. Within the federal government there has also been a significant diversification of earth observation data and the departments and agencies that produce the data.
+Another trend that has implications for the management of space and satellite infrastructure programs is the growing number of small satellites, which shorten the development time of the satellites, reduce the costs of satellites and facilitate the accessibility of earth observation data. This means that government funding and procurement practices may have to align with the style of proposal and system development best suited for small satellite missions.
+Decentralization and the proliferation of stakeholders involved in the production of geospatial data has resulted in changing business models for service delivery within the private and public sectors. Globally, and in Canada, collaborative forms of governance have evolved in an effort to pool data assets and to enhance efficiencies. It is predicted that, increasingly, geospatial information, resources and applications will be built collaboratively, using open, rapid deployment strategies and open standards.
+There has also been an increase of national and regional government open data policies in Canada and internationally. Canada’s Action Plan on Open Government and the Directive on Open Government, which support the Policy on Information Management, came into effect in 2014, and aims to optimize the release of government information and data of business value to support transparency and accountability. Most information has a geospatial component and therefore this policy has important implications for the accessibility of geospatial information. The Government of Canada has an open data portal, much of which contains geospatial data from Natural Resources Canada.
+1.4 Expected Results
+As outlined in NRCan’s Performance Measurement Framework (PMF) the expected result for the Essential Geographic Information is as follows:
+Public, private sector and academia access authoritative, reliable and accurate geodetic, geographic and geospatial information for the management of natural resources and lands.
+In the absence of a logic model for the sub-program and in consultation with the Evaluation Advisory Committee, the Evaluation team developed a results chain to identify expected results. The Sub-program’s effectiveness is assessed against these results which relate to access and use of the information, services, infrastructure, technologies and products:
+Enhanced access and use of sub-program information, technologies, infrastructure and services;
+Benefits of use (improved decisions, enhanced programs, policies, research; increased operational efficiency and productivity); and
+Net benefits to Canadians (e.g. economy, environment).
+1.5 Resources
+NRCan expended approximately $171M in operations and maintenance (O&M) funds, salary and Employee Benefits Plan (EBP) from 2010-11 to 2014-15. External sources of funds (from other government departments and provincial/territorial governments) totalled approximately $15M. In addition, $41.6 million of C-based funds were utilized for the revitalization of ground satellite infrastructure from 2012-13 to 2014-15. It should also be noted that for GGDI sources of funds for ground segment operations, archives and access also include cost recovery through the Geomatics Canada Revolving Fund (GCRF). On average, from 2010-11 to 2014-15 earth observation programming has received approximately $2M (in O&M and salaries) annually from the GCRF. Table 1 shows the planned and actual expenditures for the sub-program from 2010-11 to 2014-15.
+Table 1: 3.2.1 Sub-Program Estimated Planned and Actual Expenditures by Branch Level ($000s)
+
+Source: Expenditure information provided by CCMEO and CGS program representatives
+
+
+Text version: Table 1
+Table 1 provides planned and actual expenditures for the Canadian Centre of Mapping and Earth Observation (CCMEO) and the Canadian Geodetic Survey (CGS) from fiscal years 2010-11 to 2014-15. Total actual expenditures for the sub-program were $186,074,000. Total actual expenditures (2010-11 to 2014-15) for CCMEO were $170,987,000 and for CGS were $15,087,000.
+1.6 Governance
+The CCMEO is responsible for remote sensing, mapping, and geospatial data management and infrastructure functions previously held in three separate branches of the previous Earth Science Sector: Canada Centre for Remote Sensing; the Mapping Services Branch; and the Data Management and Dissemination Branch).
+The Canadian Geodetic Survey (CGS), Surveyor General Branch has a mandate to establish and maintain a geodetic reference or coordinate system as a national standard for spatial positioning throughout Canada that is consistent with international standards. The CGS transitioned from Canada Centre for Remote Sensing to the Surveyor General Branch in 2013. The sub-program operates within a collaborative environment and plays a key role in various national and international committees and collaborative activities to support accurate and consistent data and information.
+CCMEO has moved towards a more cooperative approach to facilitate the management of geospatial information in Canada and delivers core horizontal, national policy frameworks. The GeoBase Initiative is a Federal-Provincial-Territorial (FPT) undertaking that is overseen by the Canadian Council on Geomatics (CCOG) and supported through cost-shared and data-sharing agreements between CCOG members. CCMEO has key delivery accountability for GeoBase production and stewardship of core FPT data. The GeoBase Steering Committee, comprised of FPT representatives, makes recommendations to the CCOG who in turn makes recommendations to the GeoBase division (CCMEO). The CCOG is the main decision-making body for the GeoBase Initiative. GeoBase 2.0 represents a commitment towards a new collaborative model and is intended to support the evolution from data producer to data integrator.
+The creation of GeoBase began in 2001 following the release of a report that identified that basic geographic information in Canada was in danger of becoming irrelevant unless significant investment was made at all levels of government. GeoBase was formed as a joint initiative with the intent of having federal, provincial and territorial governments work cooperatively to ensure the provision of, and access to, a common up-to-date and well-maintained base of quality geospatial information covering the entire Canadian landmass.
+Table 2 depicts many of the key coordinating bodies that are relevant to each Division. Typically multiple governance bodies guide the work of each division.
+The CCOG constitutes the major FPT governance body for geospatial information. NRCan is the lead federal representative at CCOG and houses the CCOG Secretariat. The CCOG aims to provide a forum for exchanging information on programs, consider common operational issues, discuss proposed legislation relevant to geomatics (particularly land surveying), and develop and promote national geomatics standards. A number of working groups and committees report to the CCOG such as the GeoBase Steering Committee; the Canadian Geodetic Reference System Committee (CGRSC) and the Imagery Working Group.
+While the CGRSC reports to CCOG, geodetic expertise resides with the CGRSC. The CGRSC is responsible for planning and coordinating inter-agency work to maintain and improve the Geodetic Reference System in Canada as a standard for positioning of geographically referenced information related to the Canadian landmass and territorial waters. NRCan’s Geodetic Survey Division takes a leadership role in this committee, providing the Chairperson and the Secretary.
+The Federal Committee on Geomatics and Earth Observations (FCGEO) was created in January 2012. It has 21 federal department and agency members that produce or use geospatial information, or have an interest in related issues. The FCGEO’s ADM-level steering committee is supported by a Director General-level shadow committee, Director-level working groups, and is co-chaired by Agriculture and Agri-Food Canada (AAFC) and NRCan. The FCGEO is intended to enhance federal geomatics and earth observation infrastructure and improve access, sharing and integration of geospatial data at all government levels. Key activities related to geospatial information include: providing whole-of-government leadership in establishing priorities for geomatics and earth observation; preparing coordinated federal positions, serving as the collective federal voice, developing standards, and guidelines, strengthening federal capacity, and seeking efficiencies across federal government departments and agencies.
+The Geographic Names Board of Canada (GNBC) is Canada’s national coordinating body responsible for standards and policies on place names. It comprises FPT government representatives with specific authority and responsibility for their respective jurisdictions. GNBC members coordinate efforts to ensure that geographical names are consistently managed. NRCan chairs this Board and provides the Secretariat (situated within CGDI) as mandated by an Order-in-Council.
+The key federal coordination body for the CGS is the Federal Global Navigation Satellite Systems Coordination Board (FGCB): This Board advises and coordinates federal government departments and agencies in matters related to global navigation satellite infrastructure development, implementation and use. The Director General of the SGB chairs the FGCB.
+The Canadian Space Advisory Board and other Canada Space Agency (CSA) space program committees, boards and working groups: these entities, led by CSA and made up of a number of participants, including NRCan, provide strategic advice on space, coordinate federal government priorities in space to ensure effective resource use, and provide advice on policy and user needs and priorities. The CCRS participates in a number of CSA working groups. Both CCRS and CGDI have MOUs with CSA relating to ground satellite infrastructure, remote sensing science (pertaining primarily to radar satellite applications and missions), and archiving and cataloguing of satellite imagery. Under agreements pertaining to remote sensing science, CCRS conducted research that was partly supported by CSA’s Government Related Initiatives Program (GRIP) funding and other NRCan program sources such as Geo-Mapping for Energy and Minerals.
+2.0 Evaluation Approach and Methodology
+2.1 Approach – Contribution Analysis
+The evaluation used a contribution analysis approach which assesses the contribution made by a policy or program to the observed results in the context of other influencing factors. This is consistent with Treasury Board Secretariat guidance for evaluating complex programs such as Essential Geographic Information. Given the governance and delivery complexity of this sub-program this approach was deemed a suitable analytic method.
+Contribution analysis does not attempt to prove that one factor – a policy or program – ‘caused’ the desired outcome. Instead, this approach explores the contribution made by a policy or program to the observed results. To do this, a results chain was developed, based on input from CCMEO and SGB staff that articulated the ‘theory of change’ showing the links between program activities, outcomes and contexts. Evidence was collected to test the validity of the results chain and support the construction of a credible performance story to demonstrate the extent to which the program was an important influencing factor in driving the observed change.
+2.2 Methodology
+The Evaluation of the Essential Geographic Sub-Program employed a multiple lines of evidence approach which consisted of:
+Document and literature review: An overall review of key program and performance, planning and reporting documents was conducted. In addition, a review of governance, organizational structures and delivery mechanisms in other jurisdictions was conducted (United Kingdom, European Union, United States, and Australia).
+Interviews: A total of 95 individuals were interviewed from May to September 2016. This does not include the 15 additional interviews that were conducted as part of the case studies. Interviewees were distributed among the following groups:
+    
+Essential Geographic Information senior and program managers and employees: n=16
+Federal partners and end-users: n=34
+Provincial and territorial stakeholders and end-users: n=13
+Private Sector: n=17
+International: n=10
+Academia: n=3
+Municipal government: n=2
+
+
+
+Case studies (3): The following three program areas were explored through case studies:
+
+long term satellite data records;
+revitalization of satellite ground infrastructure project, and
+Canada’s contribution to the Global Geodetic Reference Frame.
+
+Document reviews and a total of 15 additional interviews were conducted, primarily consisting of external stakeholders and end-users. The case studies were selected based on various criteria such as inclusion of activities occurring in high priority areas. Interviews for the case studies were conducted from May to August 2016.
+
+
+Online Surveys (5) of end-users and CCOG committee members:
+Four online user surveys and one online survey of CCOG members were conducted from August to October 2016:
+
+Two online user surveys of two geodetic services/products: CSRS -Precise Point Positioning (57 respondents contacted via email and web intercept) and GPS-Height tool (13 respondents contacted via web intercept);
+Two online user surveys that included -GeoGratis and GeoBase information (552 respondents contacted via web intercept, of which 177 were categorized as professional users and the focus of the evaluation’s analysis)); and an online user survey related to the GeoGratis application programming interface (66 respondents contacted via web intercept and email);
+One online census survey of members of the CCCOG and three of its committees: the GeoBase Steering Committee; National Imagery Working Group; and Canadian Geodetic Reference System Committee. In total, 20 out of 35 invited committee members responded to the survey.
+For each evaluation issue, a rating and summary of the supporting evidence are provided. The rating statements outlined in Table 3 assisted in ensuring consistency in reporting and facilitating the interpretation of qualitative data. Please note that these ratings are applied to the sub-program rather than individual programs.
+2.3 Evaluation Limitations
+Four key evaluation limitations and mitigation strategies are discussed below:
+Program complexity and attribution: Attribution is challenging given the myriad of influencing factors on results. It is difficult to isolate the impact of various activities conducted by NRCan that were not within the scope of this evaluation. For example, it is difficult to isolate the impacts of the sub-program from other interconnected programs such as GeoConnections and the Federal Geospatial Platform. While the evaluation design cannot fully resolve this issue, it was mitigated through the use of the contribution analysis approach, which assessed how internal factors (those within the control of NRCan) and external factors have influenced outcomes along a results chain.
+Challenges reaching all end-user groups: Certain stakeholder groups proved harder to reach than others, particularly academic representatives. A larger sample of academic representatives was collected and contacted, but the response rate for this group remained low. The document review was broadened to review academic perspectives pertaining to earth observation, geomatics, remote sensing and geodesy to mitigate this limitation.
+Representativeness of survey samples: The samples for the user surveys cannot be assumed to be representative of each respective user population. To mitigate this limitation, survey information has been analyzed in conjunction with other lines of evidence.
+Measuring the efficiency of public sector program using quantitative measures: Public sector outputs are difficult to define and value making it difficult to develop valid efficiency measures. The literature on public sector efficiency metrics also highlights contradictions as to how efficiency and productivity should be defined. As well, there is insufficient expenditure information related to specific outputs as well as specific inputs associated with an activity or output. Even if this quantitative data existed, sole reliance on this data such as cost per output masks the complexity of efficiency and can create perverse incentives, such as a reduction in quality in order to reduce costs. The evaluation analyzed efficiency primarily through an assessment of key delivery issues related to planning, governance, implementation, data quality, and performance measurement.
+3.0 Evaluation Findings: Relevance – Demonstrated
+Summary:
+There is an ongoing need for the sub-program because location-based information is critical for assessing, understanding and managing issues relevant to national priorities such as climate change, natural and human-made hazards, natural resources, public safety and security; and sustainability of lands at regional to global scales. Precise and reliable geodetic coordinates are needed for navigation, land surveying, engineering, and geoscience. Open access to geospatial information is recognized by Canadian and international governments as an important driver for innovation and the economy.
+There continues to be a role for the federal government and NRCan for providing leadership and coordination support; and for ensuring data quality and accessibility and national coverage of mapping, earth observation assets, geospatial and geodetic services and information. The federal government should continue to provide critical and trusted national datasets, such as GeoBase framework data, although the precise nature of this role requires further clarification.
+3.1 Ongoing Need - Demonstrated
+There is an ongoing need for reliable and accurate national geospatial and geodetic information to better assess, understand and manage issues relevant to national priorities
+According to interview and document evidence, there is an increasing demand for national geospatial information and precise spatial coordinate data for a broad range of applications. This information is considered by NRCan and external interviewees as critical for informing issues relevant to national priorities. With technological advances that enhance data quality and accessibility, national geospatial datasets, remote sensing imagery and applications, and geodetic coordinate data have become increasingly valuable for assessing, understanding and managing important national issues such as those related to the environment, natural and human-made hazards; public safety, sovereignty, natural resources, transportation, economic competitiveness and sustainable development. As well, there are emerging uses for geospatial information such as the ‘Blue Economy’ (i.e. ocean) and green energy.
+Of particular note is the value of geospatial and earth observation information and technology for research. Interviews with researchers and various reports highlight the importance of geospatial data and technologies for research in various areas such as biodiversity, forestry, watershed analysis, and the assessment of climate change impacts. Geospatial information can be used to examine environmental changes at both global and national scales. In addition, remote sensing data can provide observations of land cover consistently over time to monitor earth’s changes, including the impact of climate change on the earth’s surface.
+As well, accurate position coordinates, earth observation data and associated satellite ground infrastructure can play an important role in northern development by permitting safer navigation through the northern sea and air routes and support delivery of services to northern communities.
+Canada’s geodetic reference system (or coordinate system) is the foundation for other geospatial information and a multitude of activities that require highly accurate positioning. Precise and reliable location coordinates, are needed for specific applications such as land surveying, engineering, monitoring earthquakes, charting flood plains, glaciology, and accurate guidance for remotely operated machinery (such as those currently used in the agricultural sector). Geodesy is considered a fundamental element of work by provincial/territorial stakeholders (e.g. land title registry). The CSRS- Precise Point Positioning service, offered by CGS, was considered by external stakeholders and users consulted to be useful for obtaining accurate position information in Northern or remote regions of Canada where users are some distance away from GNSS or other location services.
+Various national and international organizations cite the need to have a current, accurate, complete national base data by several sectors of the economy to build other data layers upon (the key premise of GeoBase). Federal and provincial stakeholders consulted consider location-based information to be a vital component of effective decision-making. Various reports have estimated that a large portion of business and government decisions has a geospatial component. Linking spatial information to socioeconomic or environmental information, leads to a comprehensive understanding of these issues.
+Numerous studies, including the Canadian Geomatics Environmental Scan and Value Study, indicate that accessible geospatial and geodetic information is an important economic driver. This information is reported to be important for increasing productivity, making strategic decisions, and reducing the costs of doing business. Moreover, direct financial gains are possible from the sales of new products and services in which geospatial and geodetic information is a component. Various jurisdictions, including Canada, have documented that accessible geospatial/geodetic data facilitates innovation by reducing cost and information barriers.
+3.2 Role of Federal Government and Natural Resources Canada - Demonstrated
+The role of the federal government is legitimate and viewed as appropriate for ensuring national coverage, consistency, accuracy of and access to geodetic coordinates and geospatial information
+Both the Natural Resources Act and the Resources and Technical Surveys Act provide NRCan with a broad mandate with respect to mapping, remote sensing and technical surveying. In the area of emergency response, NRCan has mandated responsibilities for geomatics. The Canadian Geomatics Accord, originally signed in 2002 and renewed recently in 2014, is the framework that allows federal, provincial and territorial government agencies to collaborate and provide support for geomatics initiatives. However, there is no legislative framework for geomatics, spatial data infrastructure and related geospatial networks, coordinating bodies, and committees.
+The CGS has a specific mandate which responds to the 1909 Order-in-Council responsible for its creation “to determine with the highest attainable accuracy the position of points throughout the country…” It does this by delivering the Canadian Spatial Reference System and contributing to the global reference system.
+The federal role in supporting geospatial and geodetic programs is viewed by federal, provincial and international interviewees as critical for planning and management of cross jurisdictional issues such as pandemics, economic issues, watershed analysis, demarcation of jurisdictional boundaries, and monitoring climate change.
+According to NRCan and external stakeholders consulted, there continues to be an important role for the federal government and NRCan in the following areas:
+national and international leadership and coordination support role to ensure harmonization and consistency, and to increase efficiency, information sharing and the capacity to address cross jurisdictional issues;
+ensuring consistency, accuracy of and access to geodetic services and geospatial information; and
+ensuring national coverage of mapping and earth observation assets, geodetic services and data particularly in the North and remote areas, where private sector is less likely to be involved.
+Globally, and in Canada, there is a recognized need for national governments to organize and coordinate the collection and management of geospatial data given the increase in data production. It is recognized that “collecting data multiple times for the same purpose is wasteful and inefficient… Alternatively geospatial data could be collected once to meet the requirements of several users.” Federal and international stakeholders consulted view cooperation and collaboration as critical for ensuring consistency and harmonization of mapping, geospatial information and geodetic coordinates across jurisdictions.
+Stakeholders consulted viewed the role of the federal government as important for providing geodetic, earth observation and geospatial services and data where there are gaps in coverage as is the case in the North and other remote areas. Interviewees noted in some cases that there was insufficient provincial or territorial capacity to provide adequate geospatial and geodetic services. Territorial representatives indicated that given capacity issues, national geospatial information and geodetic services is critical to their work. Private sector interviewees generally indicated that there is less likely to be a sufficient business case for providing data or services in more remote areas of Canada.
+While other stakeholders provide GNSS coordinate data and services, provincial, federal and international interviewees agreed that CGS has a clear and appropriate role in providing authoritative and precise coordinate data within a standardized format for the following reasons:
+it is critical spatial data that supports national interests such as sovereignty;
+it enables consistent GNSS coverage throughout Canada;
+external stakeholders views the federal geodetic services as important for verifying GNSS technology and spatial coordinates; and
+it ensures standardized spatial coordinates across jurisdictions.
+Federal and external stakeholder interviewees agreed that federal support for critical national data layers, such as GeoBase framework data, was appropriate, although the precise nature of this role was a subject of debate among interviewees and in the literature. Some external interviewees suggested that NRCan should transition from role of data provider to one of data verifier. A few external stakeholders questioned the federal government’s role in providing national data layers such as those relating to road networks given numerous mass market tools that currently provide road data. Other NRCan and external interviewees viewed the federal data provider role as appropriate for the following reasons: it provides assurance that data is authoritative; national core datasets are viewed by many as critical infrastructure; and, the federal government, and NRCan specifically is well positioned to collect and integrate provincial, territorial and other sources of geospatial data.
+Archiving of geospatial information is generally viewed as an appropriate role for the federal government because it is a critical source of information for research and archiving would likely not be done by others
+Federal researchers and academic interviewees noted that the federal government has a critical role to play with respect to the archiving of national geospatial information. Federal and external interviewees frequently cited the importance of the federal role in preserving digital data, including geospatial data, and to ensure it is accessible. External stakeholders indicated that this role would not likely be taken up by regional governments or the private sector.
+Remote sensing research conducted by CCRS provides continuity of expertise and is considered appropriate for supporting national priorities and technology transfer to federal government stakeholders
+Federal interviewees considered that the advantage of CCRS remote sensing research, as compared to academic research, was the continuity of expertise which helped to support government policy and program decision-making with respect to federal priorities. Government remote sensing research was considered less appropriate by federal and other stakeholders in areas where private sector involvement is more likely (e.g. mineral exploration, oil sands).
+Federal support for satellite ground infrastructure is viewed as appropriate to protect critical infrastructure and to provide government with secure, consistent access to satellite data
+Federal funding for satellite ground infrastructure was considered necessary by interviewees for providing government with secure, consistent access to satellite data used to support national priorities. A review of global practices indicates that national government funding for satellite infrastructure is a common practice  and is necessary to protect critical satellite infrastructure. In 2008, a United States (U.S.)-based company arranged to buy MacDonald Dettwiler and Associates (MDA). At that time the federal government blocked the proposed sale under the Investment Canada Act, on the basis that it was not of “net benefit” to the country and cited RADARSAT-2’s importance to Canada’s security and sovereignty.
+NRCan has longstanding expertise in remote sensing and geodesy making it adequately positioned to deliver the Essential Geographic Information Sub-program
+Among most external stakeholders consulted, there is the expectation that NRCan should be the centre of expertise for geospatial information, remote sensing and geodesy given its broad mandate and long-standing experience and expertise. Some NRCan interviewees noted that the sub-program benefits from its placement because it provides good linkages to relevant science conducted at NRCan. Many NRCan and federal interviewees also noted that geospatial information continues to have important applications for natural resource exploration and use, and sustainable resource development.
+However, some NRCan and federal representatives consulted viewed geodesy, geospatial information, remote sensing and earth observations to be misplaced at NRCan for two primary reasons: Geomatics has broad applications beyond natural resources; and it requires a stronger connection to innovation.
+3.3 Alignment of sub-program with Federal and NRCan Priorities -Demonstrated
+The sub-program is aligned with federal and NRCan priorities
+Various NRCan Reports on Plans and Priorities indicate alignment of the fundamental geodetic reference system, earth observation and mapping information to Strategic Outcome 3 – Canadians have information to manage their lands and natural resources. Fundamental geographic information helps to achieve this by providing support to the Canadian public and stakeholders to make informed decisions thereby facilitating the effective management of Canada’s natural resources and lands.
+However, as many interviewees noted, remote sensing, geospatial information and geodetic services apply to a broad range of sectors in addition to natural resources. According to interviewees the sub-program has strong alignment with many national interests relating to the environment, innovation and public safety and security.
+GeoBase programming is also aligned with Canada’s Action Plan on Open Government, a whole-of-Government initiative to ensure Canadians have easy access to the right information, in the right format, and in a timely manner, through reusable open data and applications.
+Alignment of remote sensing science with NRCan priorities has been challenging due to their reliance on other federal funding. Interview and document evidence also indicated the need for better alignment with innovation, priority policy issues, and science-policy gaps.
+4.0 Evaluation Findings: Effectiveness – Partially Demonstrated – Action Required
+The evaluation focussed on access and use of information and services in its assessment of effectiveness. The use of geospatial and geodetic information and services in terms of the following:
+Enhanced access and use by target groups
+Benefits of use
+    
+Improved decisions, policies, programs, research
+Increased operational efficiency, productivity
+
+
+Broader economic and environmental impacts
+It should be noted that geospatial information can contribute both directly and indirectly to various outcomes. For example, in those cases where fundamental geospatial information is used to develop a value-added product or service, the impact of this information is less direct and more difficult to assess.
+Summary:
+Overall, evaluation evidence indicates that the sub-program is achieving its intended outcomes particularly with respect to improved government policies, programs and research in a variety of areas but most notably with respect to environmental monitoring and management, natural resource exploration and use. The evaluation evidence also suggests that geospatial information contributes to improved operational efficiencies and productivity benefits, but the magnitude of this impact is less clear.
+However, full achievement of outcomes is limited by a number of factors both internal and external to NRCan including insufficient currency of GeoBase data, accessibility issues with respect to the GeoGratis website and the satellite imagery archiving catalogue; limited federal government receptor capacity for remote sensing applications; Inuvik satellite ground infrastructure uptake issues; inadequate FPT capacity to update GeoBase data; and insufficient CCRS technology transfer capacity.
+4.1 Access and Use by Target Groups- Partially Demonstrated – Action Required
+Overall the evaluation found, where adequate performance information was available, that geospatial information and products are being consistently accessed and used. This sub-section presents findings by key outputs given their distinct nature:
+GeoGratis data products and services;
+Remote sensing science;
+Satellite ground infrastructure; and
+Geodetic data and services.
+Evidence suggests that GeoGratis data products and services have been consistently accessed by a broad range of stakeholders, but that inadequate GeoBase data quality and GeoGratis accessibility issues impeded full achievement of this outcome
+GeoGratis data products (including GeoBase) are intended for a broad range of users including the general public, private sector, government and academia. They are also intended for federal government decision-makers and policy advisors to facilitate better decisions and advice regarding horizontal priorities. CCMEO sponsored user surveys and studies and the evaluation online survey suggest that a variety of stakeholder groups are accessing GeoGratis and GeoBase data products. According to survey evidence, GeoGratis data products are most commonly used for mapping, making decisions, supporting research and providing advice. Almost one-third of private sector respondents reported use of GeoGratis data products for infrastructure planning, engineering, and construction. Survey respondents indicated that GeoGratis data products are most frequently used for environmental monitoring and management, natural resources, water management and transportation. Federal interviewees ranked the Geographical Names Database as important to their work because it provides names to any authoritative map in Canada, such as fire maps produced by the Canadian Forestry Service.
+The number of downloads of GeoBase data products has been fairly consistent from 2010-11 to 2015-16, averaging about 2.5 million downloads per year. The most frequently downloaded products were Canadian Digital Elevation data, the National Hydro Network and Medium Resolution Satellite Imagery.
+It is difficult to assess the extent to which GeoGratis products are being used given that the potential user population (i.e. size, profile) is unknown. Interview and document evidence indicates that insufficient currency of GeoBase data significantly impedes its use for various applications such as emergency response. It was noted that some of the base data is decades out of date.
+Documentation and the evaluation user survey (including professional user groups) indicate that there are significant access issues with the GeoGratis website. User suggestions for improvement most commonly focussed on improved usability and search function, and ease of accessing data. With respect to GeoGratis web services interviewees suggests that the interface needs to be expanded to a larger portion of GeoBase data, to facilitate the efficient identification of data updates. It should be noted that many of the geospatial products have migrated to the Open Government Portal and the Federal Geospatial Platform. The FGP is intended to have efficient search capabilities (“search once and find everything”).
+GeoGratis data products and services are being used to develop value-added products, applications or services
+About one quarter of GeoGratis user respondents (n=177) reported that they developed value-added products, applications or services using GeoGratis data products. With respect to GeoGratis web services, respondents (n=66) indicated that the services enabled development of a number of products such as customized maps (30%); interactive mapping applications (28%); or innovative services (16%).
+An example of a value-added product that incorporates GeoBase data (and other federal and municipal data) is Esri’s Community Map of Canada. Users can freely access the Map to develop geospatial information system software applications and can contribute their geographic information. Information from the Map is also incorporated into the World Topographic Map which has millions of page views per month. Esri cites numerous benefits for participants of the Community Map such as reduction of costs associated with making data widely available.
+Satellite imagery is being used by federal government stakeholders for decision-making, programs and research
+Performance information was insufficient to determine the extent to which RADARSAT 2 data are accessed through the NEODF-Catalogue (archived data). Program documentation from 2010 estimated that approximately 30% of NEODF holdings had been re-used. A case study examining Long-term Satellite Data Records (LTSDRs), a large component of the NEODF, indicated that various government departments, universities, private industry, as well as a number of international organizations use these records. The number of satellite frames processed by CCRS for Emergency Geomatics Services increases in line with flooding events.
+Several federal interviewees noted the substantial growth in the federal use of RADARSAT-2 imagery over the past five years, which has resulted in some challenges accessing imagery, particularly for operational needs such as those related to monitoring weather or ice conditions. Provincial, territorial and international interviewees noted that RADARSAT 2 imagery was valuable to their work, but costs were an impediment to access.
+There were numerous accessibility issues reported with respect to NEODF such as slow downloading times, particularly for very large datasets such as LTSDRs. It was noted that NEODF accessibility is hampered by its inadequate search function as well as users’ lack of awareness as to what data is available on NEODF. Some federal stakeholders noted that they would like better access to foreign satellite data, particularly Sentinel data.
+CCRS research is highly cited and there are examples of technology uptake by federal government, but limited remote sensing HR capacity and federal receptor capacity were noted impediments
+In regards to remote sensing science, a bibliometric study indicated that CCRS produced about 6 percent of NRCan’s overall peer-reviewed journal articles and conference proceedings and less than 1 percent of the world’s publications from 2006 to 2014. The average number of citations of remote sensing publications is higher than average relative to the average number of citations received by world papers. In addition remote sensing publications are more often within top cited journals than the world average.
+The evaluation found examples of uptake of CCRS technologies to federal government departments with respect to new remote sensing applications (e.g. compact polarimetry and interferometry) and sensor design changes. However, some NRCan and federal interviewees indicated that they did not have sufficient capacity to adopt remote sensing applications or technologies, resulting in lack of uptake for some innovations. Additionally, NRCan interviewees stated that they do not have adequate HR capacity to support technology transfer activities.
+An example of a CCRS technology that was successfully transferred to industry is CCRS’s software development which led to the commercialization of the Touzi decomposition software in 2010 by the firm PCI Geomatics. The software was developed by a scientist (Dr. Ridha Touzi) at CCRS and has been licensed to PCI Geomatics for enhanced use of polarimetric radar satellite data. Other CCRS scientists have also licensed software to PCI.
+Some federal interviewees noted that CCRS capacity appears to have diminished over the last few years as CCRS was more focused on other remote sensing science applications (e.g. oil sands) which were not relevant to them. CCRS project documentation, reported that realignment to new NRCan priorities via new projects required transition of staff and budgets and created concerns regarding support to existing clients.
+There were some noted challenges in attracting third party organizations to lease space or use additional antennae capacity at the Inuvik Ground Station Facility (ISSF)
+During the evaluation timeframe there has been little uptake by third party organizations to lease space or build additional antennas at the ISSF. However, one stakeholder noted that additional antennas would be built in the near future. External stakeholders knowledgeable about ISSF noted that its capacity to attract various organizations to enter into a lease is constrained by a number of factors, including: complicated and time-consuming contracting process; challenges and delays in the licensing process by other deferral departments; and high energy and construction costs required to operate the Northern facility.
+In addition, another satellite ground station has been built in Inuvik: Kongsberg Satellite Services (KSAT), a Norwegian crown corporation. This ground station, is expected to provide similar services as ISSF, although the Norwegian station is reportedly designed to cater to companies operating smaller satellites. According to some external interviewees the existence of two stations in Inuvik poses marketing challenges given the potential for confusion among prospective customers between the two stations.
+Available evidence suggests that geodesy data, products and services are accessed to a good extent by their target audiences most commonly for land surveying, infrastructure planning and engineering, research and mapping
+Survey, document and interview evidence suggests that geodetic services and data are being accessed and used by their target groups (land surveyors, engineers, geoscientists, and international stakeholders) on a consistent basis. The services are accessed and used primarily for land surveying, mapping, infrastructure planning, engineering and construction, navigation and research most commonly in areas of natural resources, boundary demarcation/land negotiations; and environmental monitoring and management. CGS performance information, surveys and studies, provide evidence of good levels of access and use by target groups. CGS has approximately 6,000 active clients, mainly with GNSS tracking data and the CSRS-PPP. No significant access issues were identified, although users of geodetic services such as the CSRS-PPP service indicate the need for better user support materials.
+The Canadian Spatial Reference Frame maintained by CGS has been widely adopted by provinces and territories and the private sector; although adoption to updated standards is slowed by insufficient provincial/territorial capacity
+All provinces, with the exception of Nova Scotia are conducting land survey work using the CSRS standards. Nova Scotia is currently in the process of updating data to be aligned with CSRS standards. CGS research relating to velocity models is helping the province migrate its coordinate data to the updated standard. In a CGS commissioned survey, the majority of provincial respondents reported that land surveyors were using spatial coordinates consistent with the Canadian Reference System. Regarding new height standards developed by CGS, most provincial and territorial interviewees indicated they were phasing in adoption of this new standard over the next few years. Insufficient provincial / territorial capacity was noted by provincial and territorial interviewees to slow adoption to updated reference standards.
+Real-Time Kinematic (RTK) stations, mostly operated by the private sector in Canada, collect satellite signals from many reference stations (some of which are GNSS signal stations operated by CGS) and send these more precise spatial coordinates to their customers. The Canadian Geodetic Survey (CGS) has entered into compliance agreements with three of the six private RTK network operators to integrate the coordinates of these RTK stations into the CSRS national standard. However as noted by CGS, all RTK providers are using standardized CSRS coordinates whether or not they are part of a compliance agreement. According to interview and document evidence an important benefit of being part of the compliance agreements was the confirmation of the legitimacy of the RTK providers’ services by confirming the validity /accuracy of their data.
+CGS infrastructure, services, and expertise have supported provincial transition from traditional ground-based navigation systems to GNSS systems
+Provinces are continuing to transition to active control systems (i.e. GNSS) although ground monuments are still used in more densely populated areas. Provincial/territorial interviewees indicated CGS support for this shift through its spatial referencing infrastructure and expertise. Nova Scotia, in response to a decline in provinces’ ground-based coordinate referencing infrastructure and budgetary resources implemented a strategy to modernize the Nova Scotia Coordinate Control System in 2012. The CGS provided some of the key operational support needed to implement the modernized referencing system. Additionally, the Greater Vancouver Regional District relies on the Province of British Columbia and CGS to maintain the reference frames and the geoid model to which their coordinates are integrated.
+4.2 Improved Decision-Making, Policies, Programs and Research – Partially Demonstrated
+Evaluation evidence indicates that geospatial and geodetic products and services are used to inform decisions, and enhance research, and federal and provincial programs
+Documents, survey and interview evidence suggest that geospatial and geodetic services and information, and remote sensing science, are positively influencing decision-making, programs and research at national and international levels. GeoGratis survey respondents most frequently cited improved decision-making as a benefit of using GeoGratis data products. About one-quarter of government survey respondents indicated that the data had improved policies or programs. Geodetic coordinate data, expertise and services are considered important contributors to research in areas such as earthquake prediction. However, as noted previously, issues with respect to data quality of some GeoBase data layers, insufficient federal receptor and CCRS capacity and accessibility issues constrain full achievement of this outcome.
+With respect to Emergency Geomatics Services, federal users indicated that the mapping imagery (processed by CCRS) improved situational awareness which facilitated operational decision-making. In addition, CCRS improvements in near real-time flood mapping methodologies has resulted in more sensors, which provides a more comprehensive spatial and temporal coverage of a flooding event.
+RADARDSAT-2 satellite imagery was reported by federal interviewees to be an important input to programs and to research, although several noted that they used a combination of imagery types (e.g. optical imagery) to facilitate decision-making. The imagery supports decision-making and analysis in a variety of areas such as crop marketing, ice conditions, soil moisture, price, insurance, transportation requirements, and hazards.
+CCRS research applications are being deployed into the eventual operationalization of the RADARSAT Constellation Mission (RCM) and in the calculation of new satellite orbits. According to CCRS program documentation and supported through interviews with federal representatives, CCRS contributed to enhanced radar satellite applications through its research work (e.g. sensor design changes) and through its influence and work via working groups and science teams. CCSR efforts were noted by federal interviewees to be influential for implementing Compact Polarimetry mode to RCM, which was not included in the initial RCM design.
+According to document and interview evidence, CCRS has contributed to a number of federal and other government initiatives such as Canadian High-Arctic Research Station; Government of Northwest Territories’ Cumulative Impacts Monitoring Program; and Geo-Mapping for Energy and Minerals 2 (GEM-2). Notably, remote sensing science has contributed to the Fire Monitoring Accounting and Reporting System over a period of at least 12 years through a transfer of data, research, and training to the Canadian Forest Service enabling them to operate that system. Working collaboratively, CCRS and Parks Canada developed a novel methodology for monitoring biodiversity which was implemented across 42 national parks in Canada. According to interviewees, CCRS extended and validated the use of an established radar technique which played an important role in assessing permafrost conditions and highway stability in the North. The LTSDR case study illustrates how these records contributed to improvements of government monitoring and research programs such as Environment and Climate Change Canada’s initiative, “A Federal Sustainable Development Strategy for Canada”.
+Examples of the use of geodetic data and services include research projects such as the Estevan carbon capture and storage project, GNSS space weather monitoring, and West Coast crustal dynamics analysis. Augmented GNSS data has been applied to the study of earthquakes. NRCan’s work on West Coast crustal dynamics studied crustal deformation uses a number of geodetic techniques. The data from this network provided key information on seismic activity and has contributed to knowledge on earthquake prediction.
+4.2.1 International Contributions to Programs and Research – Partially Demonstrated – Action Required
+Remote sensing science and geospatial information have contributed to more integrated remote sensing applications and more harmonized mapping between the U.S. and Canada.
+According to international interviewees CCRS has made contributions to international projects such as improved models for wetland mapping and water quality, and land-use planning. For example, CCRS development of a four dimensional map of the wetlands and RADARSAT-2 satellite imagery contributed to the development of Great Lakes wetland applications and assessments. According to external stakeholders, GeoBase program representatives played an important role in developing harmonized mapping with Canada, the U.S. and Mexico. End-users indicated these harmonized data sets facilitate analysis of transboundary habitat and watershed analysis, and the refinement of carbon budget models.
+International stakeholders reported a decline in Canada’s remote sensing and mapping international contributions over the past decade although they noted that this is generally within the context of a general global decline in these areas. It was also noted that Canada’s previous lead regarding radar satellite data will continue to diminish as more countries (e.g. China) launch radar satellites. A key challenge cited by external stakeholders for North American collaboration with respect to remote sensing and mapping activities on shared environmental or other issues is the absence of a long-term program or structure with dedicated funding, and the subsequent reliance on ad hoc joint projects. The previous Great Lakes Commission which existed in the 1990s was cited as a good example of a sustained structure for collaboration which facilitated outcome achievement.
+CGS contributes expertise and data to the Global Spatial Reference System, but there are some noted gaps in Canada’s geodetic observing infrastructure
+At the international level, the CGS collaborates with the U.S. National Geodetic Survey in the realization of the new North American geodetic reference frame. As well, the CGS provides GPS calculations to the International GNSS Service (IGS) which support the Global Spatial Reference System. CGS has also provided expertise and assistance which has helped to facilitate the development of more cost-effective geodetic observing infrastructure and technology. CGS continues to provide global geodetic observing infrastructure but due to budget cuts and an aging Very Long Baseline Interferometry (VLBI), a type of geodetic observing infrastructure, Canada closed its VLBI program in 2006. As noted in technical literature and studies, a combination of four types of space-geodetic techniques including VLBI, are needed to maintain accuracy and reliability of global spatial coordinates. The international community has stated there is a need to enhance the accuracy of the global reference frame to improve its scientific application in areas such as climate change assessment.
+International representatives provided clear and consistent messages that Canada’s contribution, in terms of geodetic observing infrastructure was deficient and below average even within the global context of declining contributions. Recent major investments in VLBI and other types of observing techniques have been made in various countries. While the Global Reference Frame is not considered to be in immediate danger without an increase in Canada’s contribution, it is unlikely to achieve the expected level of precision over time that would be required for research applications such as the assessment of water levels and climate change impacts.
+4.3 Improved operational efficiency and productivity - Demonstrated
+Users of geospatial products frequently reported a number of productivity benefits
+In terms of productivity benefits, GeoGratis survey respondents most frequently reported an increased ability to meet customer needs and improved operational efficiency. Smaller numbers reported reduced costs of equipment and labour and increased market share.
+Those respondents developing value-added products based on GeoGratis reported proportionally even greater productivity benefits from these products. For example, 43% of GeoGratis survey respondents reported improved operational efficiency (as compared to 33% overall); and 26% reported reduced cost of labour (as compared to 14% overall). A small number (n=8) of these survey respondents reported direct financial benefits derived from the value-added product. Interestingly, some private sector interviewees noted that they gained direct financial benefits from the lack of currency of GeoBase data by selling updated and integrated datasets to their customers. Figure 1 shows the reported benefits of using GeoGratis data products.
+Figure 1: Reported Benefits of Using GeoGratis Data Products
+
+Source: GeoGratis User Survey conducted for Evaluation of Essential Geographic Information Sub-Program. Base: n=177; professional users
+
+
+Text version: Figure 1
+Figure 1 is a bar chart that shows the percentage of end-user survey respondents reporting various benefits of using GeoGratis data products. From most to least frequently reported, the survey results are as follows: 50% of survey respondents reported improved decision-making as a key benefit of using GeoGratis data products; 37% reported increased ability to meet customer needs; 33% reported improved operational efficiency; 15% reported reduced cost of equipment; 14% reported reduced cost of labour; 9% reported improved policy or program; and 3% reported increased market share.
+Survey evidence suggests that there is an incremental impact with respect to GeoGratis data products. In terms of finding alternative data products, just over 60% of GeoGratis survey respondents indicated that finding replacement information would be difficult. While many indicated that they could find a replacement product elsewhere, over half of the respondents indicated it would not be of the same quality or that there would be a fee associated with the product.
+Users of geodetic data and services benefited in terms of improved operational efficiency and reduced cost of labour
+The primary benefits of using the CSRS-PPP service reported by survey respondents are improved operational efficiency, reduced cost of labour; increased ability to meet customer needs, and reduced cost of equipment as indicated in Table 4 below. These survey findings are consistent with interview evidence in which users noted that the use of the CSRS-PPP service has significantly reduced the time required to obtain accurate position coordinates as compared to traditional land surveying methods. Some provincial and municipal interviewees noted improved operational efficiencies resulting from transitioning to satellite-based navigation systems; a transition which CGS supports through its spatial referencing infrastructure and expertise.
+Source: Online / email Survey of CSRS-PPP users for Evaluation of Essential Geographic Information, 2016.
+In terms of finding a similar service, less than one-quarter of survey respondents reported that they could find a similar service of the same quality. In addition, interview evidence indicates the importance of this service in northern and remote regions of Canada, and as verification tool. Together these lines of evidence suggest an incremental impact for the CSRS-PPP service.
+4.4 Economic and Environment Impacts – Partially Demonstrated
+Interview, survey and literature evidence indicate that the open access to geospatial information contributes to the economy
+While it is challenging to systematically measure the economic and environmental impact of the use of geospatial data, research has been conducted in Canada and various countries to develop and implement measurement of the benefits of geospatial information. Various economic studies have indicated positive benefits of geospatial data for a wide range of areas such as resource extraction, agriculture, environmental hazards, and forest fire management. NRCan sponsored the Canadian Geomatics Environmental Scan and Value Study that modelled the economic benefits of the use of geospatial outputs in decision-making across 60 sectors of the Canadian economy. Based on the model, the report estimates that the use of geospatial outputs across Canada in 2013 contributed $20.7 billion to Canada’s GDP, representing 1.1% of the total Canadian GDP for that year. It was also estimated that $650 million is added to Canada's GDP as a result of the use of open geospatial data. The report estimated that two-thirds of the contribution to GDP attributable to the use of geospatial outputs was related to more effective use of labour and capital. The greatest impact has been on the resource, transportation, utilities and agriculture sectors. The value-added study did not assess the impact that is directly attributable to NRCan programs. NRCan also sponsored studies demonstrating a positive return on investment resulting from using geospatial information and technologies for decision-making.
+One of the cited challenges to enhancing the Canadian geomatics sector is its lack of cohesiveness. The sector is noted to lack a clear identity with no established geomatics industry clusters in Canada. It is made up of core companies that identify themselves as part of the geomatics industry as well as many other firms that while they produce or use geospatial information, they do not conceive of themselves as part of this industry.
+Another study (2004) estimated that the Canadian Spatial Reference System annually contributed from $60 to $90 billion in Gross Value Added (GVA) to the Canadian economy, out of a total GVA of about $1 trillion. Regarding GNSS augmented services, of which CGS contributes to and directly provides some of these services, it was estimated that the economic benefits of these services to the land survey community would be about $45M, and estimated to grow as much as $150M by 2020.
+While the results of these studies are encouraging, an audit conducted of the U.S. spatial data infrastructure identified the understatement of the cost of geospatial data acquisition as an issue that if also found to be the case in Canada, would overstate return on investment.
+There is a plausible link between the sub-program and economic and environmental impacts
+While the evaluation could not show the magnitude of the sub-program’s impact on the economy and the environment, evaluation evidence provides support for a plausible linkage between geospatial / geodetic information and increased economic and environmental benefits. As previously mentioned, users of geodetic and geospatial information frequently reported operational efficiency and productivity benefits providing some support for this link. However, interview and survey evidence indicates that there are several factors which constrain full achievement of this outcome. These include GeoBase data quality issues, federal and provincial capacity issues, and accessibility challenges which may have constrained, at least partially, the full reach of the GeoBase program.
+In addition to estimating the economic benefits of geospatial data use for decision-making, the Canadian Geomatics Environmental Scan and Value Study identified less-tangible benefits of using geospatial sector outputs, including environmental, health, social and knowledge benefits. The extent to which this foundation data has contributed to improved environmental management and practices, however, is unknown, but a link is plausible given the following:
+Survey and interview evidence suggests that geodetic and geospatial products and services are used to enhance decision-making, research, policies and programming with respect to environmental monitoring, management and assessment of climate change impacts.
+Studies and interview evidence strongly supports Canada’s participation in important global initiatives and were seen as critical to understanding climate change, global geodynamics, earthquake prediction, weather, and so forth.
+4.4.1 Unintended Outcomes
+Similar to other developed nations, the use of GNSS in Canada’s critical infrastructure sectors is pervasive. However, reliance on space-based navigational systems can leave countries vulnerable should significant disruptions of GNSS occur. The FCGB is aware of this issue and have a number of working groups developing an approach for GNSS interference monitoring, and recommendations for preventing and mitigating risks and vulnerabilities.
+Another unanticipated result of the growing popularity and increasing demand for geomatics and geodetic expertise is a shortage of trained people in the field. Some federal and provincial interviewees mentioned the challenges of attracting suitable candidates for specialized jobs in this field. Challenges include an inadequate number of specialized university courses; and, in some cases a lack of competitive government salaries in comparison to the private sector.
+5.0 Efficiency and Economy – Partially Demonstrated – Action Required
+This evaluation’s assessment of efficiency and economy involves an analysis of program design and delivery (e.g. planning, program implementation, coordination, governance, and performance measurement).
+Summary:
+The sub-program uses credible information for their planning and priority-setting processes. However, document and interview evidence indicate that there are gaps in information for GeoBase and remote sensing science programs regarding user needs and federal horizontal priorities. CGS uses comprehensive needs assessment information in their planning processes, but requires more formal links to academia, a key user group for their services. CCOG was noted to provide insufficient provincial/territorial strategic input into the sub-program’s planning processes. Strategic planning and coordination were noted to be constrained by the absence of updated legislation and a horizontal policy framework relating to geomatics.
+The most significant delivery issue relates to managing and updating GeoBase framework data and sustaining remote sensing science efforts to efficiently generate products. GeoBase sustainability issues were attributed to insufficient funding and to other issues such as governance; competing federal, provincial, territorial priorities; and insufficient provincial capacity to provide data in the required format. CCRS long-term planning and program delivery is negatively influenced by reliance on unstable external funding.
+5.1 Planning and Priority Setting – Partially Demonstrated – Action Required
+Information and analysis used for planning and priority-setting
+GeoBase and remote sensing programs have used credible information for planning and priority-setting but require stronger and more sustained connections to their user base and key stakeholders
+CCMEO has used credible information and analysis to plan and set priorities, although there were some noted gaps and challenges. For the National Mapping Strategy established in 2010, a cross-country consultation process with about 700 stakeholders was conducted. Using the Mapping Strategy as a starting point, CCOG developed a six-point action plan to spur action with a focus on collaborative governance. FPT interviewees also indicated that CCOG identified two FPT priorities: national imagery and elevation data – priorities that are reported to be guiding GeoBase planning (e.g. the recent establishment of a National Imagery Group). CCMEO also regularly consults and coordinates with federal stakeholders through the FCGEO and at the provincial/territorial level through CCOG. NRCan interviewees noted that while there have been some recent improvements, CCMEO planning had tended to occur in Division level silos, hindering a more integrated planning focus.
+With respect to GeoGratis and GeoBase, CCMEO has obtained feedback through end-user surveys and studies and through website feedback mechanisms. These surveys are integrated into the GeoBase Division’s operational planning process. However, some NRCan interviewees noted that there is a need to better align geospatial products and services with user needs and strategic priorities. It was also indicated that more in-depth information from a broader range of stakeholders is required for a more comprehensive understanding of user and stakeholder needs. Several interviewees suggested the establishment of an Industry or User Advisory Committee linked to key coordinating bodies such as FCGEO and CCOG for more sustained engagement with stakeholders. A multi-stakeholder group, GeoAlliance, was recently established (2015)Interviewees expressed concern about the current capacity of the group and noted challenges obtaining resources and buy-in for an organization where the federal government is not a visible lead.
+CCRS obtains informal stakeholder input through its work with federal clients on remote sensing applications and projects and through engagement in several federal government committees and workgroups. Emergency Geomatics Services user needs are assessed annually through a user survey. CCRS also obtains user information from CSA with respect to radar satellite imagery, although this was considered to be insufficient for CCRS information needs. There were noted deficiencies in user information needs, particularly with respect to the provincial and territorial governments, and users of sensors other than radar such as optical sensors.
+For both GeoBase and remote sensing science, an increased understanding of how emerging and potential user needs could benefit from innovative applications of earth observation and geospatial information (e.g. electricity, smart cities) would be useful for planning purposes.
+There are significant challenges in establishing federal horizontal priorities and clear future directions for remote sensing and GeoBase
+The need for clarity of vision was a common theme reflected in interviews and in documents with respect to geospatial programs and remote sensing science. Challenges in developing a clear future direction was reported to be limited by the lack of a general strategy across federal departments regarding geospatial data. The Federal Geospatial Platform and the Federal Earth Observation Strategy, under development, (initiatives within FCGEO) are expected to provide a more strategic and integrated focus for federal geomatics programs. In addition a strategic plan for the use of remote sensing imagery is being developed through the National Imagery Working Group. Interviewee and document evidence indicated that competing priorities across federal departments pose challenges in defining what the Earth Observation Strategy should achieve. Several NRCan and federal interviewees attributed challenges in reaching a consensus to the lack of a horizontal geomatics policy framework.
+CGS geodetic services use consultations, environmental scans and needs assessments to inform planning, but require more formal connections to academia
+The Canadian Geodetic Survey formally engages provincial/territorial stakeholders through the Canadian Geodetic Reference System Committee and informally through regional office liaison. Engagement with federal partners occurs primarily through the Federal GNSS Coordination Board. These engagement processes supported the development of the Surveyor General Branch integrated business plan. Moreover, in the development of its services and tools, CGS has consulted with stakeholders through user surveys, needs assessments and environmental scans. For the most part NRCan and external interviewees indicated that CGS services and data were adequately aligned with their user base. However, CGS interviewees indicated that academics are a key stakeholder group and that while there are good informal linkages, more formal mechanisms for engagement are needed. Regarding the Federal GNSS Coordination Board of which CGS plays an important role, it was reported that there is a need to have a user or national advisory committee to facilitate understanding of future requirements for augmented GNSS.
+CCOG is an effective mechanism for FPT information exchange and coordination, but viewed as insufficient for obtaining FPT strategic direction
+CCOG and its sub-groups were described by FPT interviewees as good vehicles for operational planning and information exchange. However, CGS and CCMEO representatives noted that the CCOG (in the case of CCMEO) and the Canadian Geodetic Reference System Committee (in the case of CGS), were insufficient mechanisms for obtaining provincial / territorial strategic direction.
+5.2 Program Implementation and Delivery – Partially Demonstrated – Action Required
+Timeliness and extent to which planned outputs have been implemented
+Geodetic services and products, and new satellite ground infrastructure were implemented as planned
+CGS sets targets relating to timeliness and availability of its geodetic services and products. Corporate, SGB and GSC reports indicate overall that these targets have been met or exceeded. During the evaluation period, the launch of the Canadian Vertical Datum of 2013 occurred which is a new height reference system compatible with GNSS such as GPS. Updates to the CSRS-PPP service were also completed resulting in faster processing times.
+With respect to the Revitalization of Satellite Infrastructure Project, as of the official end of the project work in March 2015, the antennas had been successfully procured and installed at Canada’s three ground stations. A case study of the revitalization project shows that the project was well managed as indicated by an assessment of various options for acquiring satellite imagery during the planning stages, tracking of tasks and milestones, clear project governance structure, and sequential implementation of the antenna systems. However, the EODMS, a component of this project, which was intended to be completed in 2014 has not been completed (as of December, 2016) due to challenges encountered by Shared Services Canada in the establishment of a data centre for hosting of the EODMS, and a need to resolve issues related to high data storage costs.
+There were noted challenges updating or producing geospatial (GeoBase data) and remote sensing science products
+CCRS documents and interviews also indicate a challenging history of sustaining efforts to generate baseline products. This is attributed to lack of reliable funding for core science capacity. CCRS has a high reliance on other less predictable sources of funding for their R&D projects. This has led to difficulty hiring experienced staff and an inability to hire them permanently relying instead on short-term staffing contracts to meet demands. As a result, there is a heavy and constant investment of time allocated to staffing and training of new arrivals. For some projects, staff with the right expertise were not available to work on specific projects due to over commitment elsewhere, preventing the timely delivery of planned milestones. In addition, slow HR hiring and lack of ongoing capacity has also resulted in program delivery delays. Inadequate capacity was also noted to divert HR from key program areas such as development of flood mapping methodologies. In some cases, improvements to these methodologies have occurred in reaction to the pressures of emergency response. As well, due to resource issues, CCRS sometimes undertakes externally funded projects that are not well aligned with NRCan priorities.
+Performance reporting regarding GeoGratis and GeoBase products and services, is inconsistent making it difficult to accurately assess timeliness and the extent to which data layers have been updated. Performance information does indicate that GeoBase information was regularly updated during the evaluation period. GeoBase relies on provision of updated geospatial data from the provinces and territories. Documentation indicated that provinces and territories had difficulties providing contributions to GeoBase outputs in the required standards and data models. Viability issues have been examined through the GeoConnections program and FPT interviewees note that some enhancements are being made, but that progress is slow.
+Other factors contributing to challenges in updating GeoBase most frequently mentioned by federal and provincial interviewees: competing priorities across federal departments and provincial/territorial governments; slow government adoption of advanced technologies for efficient data management; provincial capacity challenges in providing the updated data in the required format; and a voluntary and fragmented governance structure. Securing publishing rights (copyright) from the respective provincial owners of these data also caused delays.
+Various NRCan and external stakeholders made suggestions to improve the efficiency and sustainability of GeoBase:
+Adoption of more sustainable funding models for GeoBase. A proposal was made by CCOG to explore leveraging funding from programs that use geospatial data (e.g. flood plain maps, national infrastructure). Progress was made in this regard as CCMEO has recently entered into a partnership with Public Safety Canada for floodplain mapping.
+Increased alignment and streamlining of geospatial and remote sensing programs in accordance with user needs and federal priorities. Some NRCan interviewees indicate that there is a need to better prioritize which data products are made available on the federal website.
+Identification of appropriate target audiences for GeoGratis and GeoBase data products. Interviewees expressed mixed views as to the appropriate target audience for geospatial products. Some NRCan interviewees noted that there should be a better alignment of the program with professional audiences to facilitate greater impact and efficiencies. A user analysis report commissioned by NRCan suggested that: “professional audiences are more clearly aligned with the achievement of strategic objectives. This should be considered when allocating resources for marketing and product development.”
+A further shift in NRCan role as data verifier to ensure that geospatial information is current and accurate. It was suggested that a central or national web portal could be replaced by a combination of resources from a broad range of data providers. The federal government would verify the accuracy and completeness of the data.
+Possible transition to enabling services that facilitate access and integration of geospatial information with other datasets. GeoGratis web mapping services were noted by interviewees and survey respondents to facilitate data access and the integration of different data layers or images.
+Other jurisdictions are experiencing sustainability issues with respect to national framework data. A review of the literature indicates that there are no easy answer to these issues. The U.S. Federal Geographic Data Committee responsible for coordinating national and state efforts to develop the National Spatial Data Infrastructure (NSDI) has not made the expected progress in creating a viable national data infrastructure. This was attributed to an inadequate governance structure wherein the U.S. federal committee has coordinating responsibility, but not the power to make or enforce rules. It was also noted that the U.S. spatial data infrastructure focused on federal needs, which are different from the needs of State governments resulting in insufficient motivation for other stakeholders to contribute. Whether this is the case in Canada or not is unclear, although some provincial interviewees indicated that GeoBase national datasets are not a priority for their jurisdiction because they can access more current provincial and municipal datasets.
+Australia and the United Kingdom have used cost-recovery models regarding the creation of national geographic databases. Cost-recovery models potentially could facilitate better data coverage and quality. However, criticisms have also been directed at commercially led policies as hampering informed governance, and the further development of value-added services in the private sector. Public-private collaborations may add value to geospatial data but open access may be impeded by licensing of proprietary software and services.
+Expertise, CCOG cited as facilitating effective coordination and other efficiencies
+According to interviewees and document evidence key positive factors influencing effective coordination and program delivery have been geodetic, mapping and remote sensing science expertise; good working level collaborations with other federal government departments, and the CCOG. Both survey and interview evidence reflect that CCOG and its working groups are effective vehicles for information exchange and coordination.
+The merging of three branches into CCMEO (Mapping and Information Branch and Canada Centre for Remote Sensing in 2014, and Data Management and Dissemination Branch in 2008) was noted by NRCan interviewees as a means to enhancing efficiency by combining processes relating to multiple business, administrative, accountability and quality assurance. This streamlining was accompanied by other activities and programs, such as the Federal Geospatial Platform, that were, along with the restructuring, set out in the Strategic Review exercise of 2009 and the subsequent 2012 Deficit Reduction Action Plan exercise, and were undertaken to improve the performance of the sub-program. It was reported that the CGS move to SGB has allowed both these organizations to exploit the synergy between their complementary activities. However, given that these organizational changes occurred near the end of the evaluation period, the evaluation could not assess possible impacts of these changes because their impacts would not have been fully realized.
+The merging of three websites into one -GeoGratis portal was cited by NRCan interviewees as more efficient because it reduced administration requirements to manage website services. In addition, the National Master Standing Offer (NMSO) for remote sensing imagery was noted to provide more efficient access and sharing of commercial satellite imagery across federal departments. The previous Evaluation of Basic Infrastructure (2008-09) recommended that the CCRS review its business model to improve the efficiency to acquire, archive and access earth observation data. Since that time the program has established NMSO across Federal Departments and agencies. Before the NMSO, it was common practice to purchase the same data multiple times due to single user or department licenses with differing terms and conditions making efficient sharing of data problematic.
+Quality of Products and Services
+Geodetic and remote sensing products were noted to be of good quality
+The majority of survey respondents (77%) indicated overall satisfaction with GeoGratis data products and web services. As previously noted, the most significant data quality issue was insufficient currency of GeoBase data. Another data quality issue mentioned by several federal and territorial respondents was inadequate resolution and scale of geospatial products representing Canada’s northern and remote areas. Long-term Satellite Data Records (LTSDRs) a key product processed by CCRS, according to case study evidence, are considered to be good quality and consistent with user requirements.
+A key service offered by CGS the CSRS- PPP service, was reported by survey respondents and interviewees to be of good quality. Eighty-seven percent (87%) of users surveyed (n=57) reported overall satisfaction with this service and moderate levels of satisfaction were reported regarding the quality of the information. According to an independent assessment of CSRS-PPP service, it is capable of providing centimetre-level of accuracy of position coordinates. CGS also maintains certification for the International Standard Organization (ISO) quality management system and according to an audit report of this system, CGS effort to address customer needs and satisfaction is exceptional.
+Governance
+GeoBase and remote sensing programming were reported to operate within a broad and outdated legislative framework
+Canada does not possess a specific legislative framework governing geomatics, and as a result, no specific legal instruments regulate geomatics activities, such as those undertaken by the GeoBase Division. In addition to legislation relating to remote sensing, mapping and surveying, there exists the Treasury Board of Canada Standard on Geospatial Data (2009) and the Geomatics Accord (for FPT collaboration and information sharing), but there is no overall policy related to the management and dissemination of geospatial data within the Government of Canada.
+Legislation and policy is considered by many NRCan and federal interviewees to be outdated and does not reflect the current environment in terms of technological changes and the proliferation of stakeholders involved in geospatial and earth observation programs. The lack of specific geomatics legislation and policy was cited by many internal and external stakeholders as a key impediment to taking a consistent and coordinated approach to geomatics. In addition, several NRCan and federal interviewees noted that the absence of a comprehensive space policy has resulted in fragmented planning and insufficient coordination. The relationship between CSA and NRCan is complex and guided by a myriad of MOUs with respect to remote sensing applications, archiving and cataloguing of satellite imagery, and satellite ground infrastructure. Some federal interviewees cite coordination issues between CSA and NRCan with respect to satellite ground infrastructure, archiving and processing of satellite data, and management of private sector and stakeholder relationships.
+In an assessment report for Canadian Geospatial Data Infrastructure (which includes many if not all of the same committees as those for GeoBase) it was concluded that governance is unclear and fragmented in Canada. While there are a number of committees, their linkages and authorities are not always clearly specified. The report indicated that CCOG had the clearest role in terms of overall authority for sharing information. The report’s findings were corroborated by several FPT interviewees.
+A review of minutes of meetings and records of decisions for CCOG and FCGEO suggests that limited information is provided to CCOG regarding the activities of FCGEO. Along similar lines, the GeoConnections Evaluation suggested that there could be better information sharing from CCOG to those outside the committee. Provincial interviewees noted that there was insufficient clarity as to the roles and responsibilities of various federal departments and agencies and which department/agency was speaking on behalf of the federal government regarding matters related to geomatics and earth observation.
+CGS has a specific mandate to provide spatial coordinate data
+CGS has a specific mandate to provide accurate spatial coordinate data which according to federal stakeholders consulted continues to be clear and appropriate. National coordination activities for CGS primarily occur through the Federal GNSS Coordination Board and through the Canadian Geodetic Reference System Committee (for FPT coordination). Both committees were reported by FPT interviewees to be effective mechanisms for coordination with clear roles and responsibilities. However, while the CGRSC committee, a sub-group of CCOG, is considered to be an effective FPT working group for geodesy, some NRCan interviewees have stated that it functions separately from the CCOG.
+Reduction of Resources
+There have been significant budget and FTE reductions over the evaluation time period
+CCMEO and the CGS have both had budget reductions over the reporting period (50% and 25% respectively). The drop in internal funding is mirrored by a drop in external funding that is secured by CCMEO (largely from CSA GRIP) along a similar value of 50% from 2010-11 to 2014-15. This reduction is also reflected in the number of FTEs engaged, a 45% reduction in CCMEO from 360 in 2010-11 to 199 in 2014-15, and a 20% reduction in Geodetic Survey from 45 in 2010 to 36 in 2014-15 as indicated in Table 5 below. Several NRCan interviewees also reported an increase in collaboration and in-kind leveraging as a result of budget reductions, but the extent of in-kind leveraging is not tracked.
+Attrition has also been noted to be an issue to varying degrees within the GeoBase Division, CCRS and CGS, reflecting the situation across NRCan as a whole, where the expectation is that 50% of employees will be lost to attrition by 2020. To address this issue, CCMEO has a succession plan and there is a draft sector-level succession plan within the LMS to which CGS contributes.
+It is not clear if the significant reduction in budgets have resulted in corresponding decreases in outputs (either in terms of quality or quantity) or increases in efficiency. Outputs have not been sufficiently tracked with respect to GeoBase and remote sensing science programming to quantitatively assess the impact of budget and HR decreases. However, the majority of NRCan and external interviewees indicate a decline in level of effort and reduced quality of outputs which they attribute, at least in part, to budget reductions.
+According to some NRCan and provincial/territorial interviewees further resource pressures are caused by increased demands for national and international coordination and the continuing increase in geospatial data to be managed and stored.
+FPT interviewees noted that Canadian geospatial and geodetic programs tend to be under resourced despite the fact that they are well-aligned with a number of federal priorities related to the environment, public safety, and economic competitiveness. NRCan and external stakeholders consulted noted that these programming activities are not given sufficient priority due to their lack of visibility and lack of awareness of their value. This lack of awareness is cited as a key challenge in various assessments and studies and is reported to result in a undervaluing and under resourcing of geodetic and geospatial efforts.
+Performance Measurement
+Output and outcome performance information was inconsistent across programs and inadequate to assess sub-program efficiency and effectiveness
+The evaluation team reviewed performance reports provided by each of the divisions as well as any branch-level reports provided. On the whole, there is inconsistent tracking of output information across the different programs. Reporting of outcome information was limited, although the GeoBase Division provided some information on use of its products through regular user surveys. CGS reported on some outcome information such as extent of use.
+During the evaluation period there was no overall performance measurement strategy for CCMEO to guide reporting of outputs and outcomes. For CCMEO, there are inconsistent details on planned versus actual activities and outputs, making it impossible to adequately assess efficiency. Noted exceptions to this were performance reporting for the Geographic Names Board Secretariat; and the Revitalization of NRCan satellite infrastructure project.
+CGS consistently tracks output information and sets targets for each indicator. As of 2013-14 they reported consistently against outputs and outcomes as identified in the CGS logic model. Some outcome information was tracked (such as extent of use) but not longer-term outcomes (such as impacts of use on clients). The Surveyor General Branch has an annual report that provides a summary of performance for the geodetic service primarily in terms of outputs and activities.
+6.0 Conclusions and Recommendations
+There is a continued important role for the federal government to ensure consistency, accuracy and completeness of mapping, geospatial information, geodetic coordinates, and earth observation assets in Canada. The role of the federal government in contributing and collaborating on the international stage is critical for the continued assurance of consistent and accurate geodetic coordinates and harmonized mapping and earth observation across national jurisdictions. The federal government should continue to provide critical and trusted GeoBase datasets, although the precise nature of this role is evolving and unclear.
+NRCan and the federal government are well positioned to consider the requirements for geodesy and geospatial information for Canada as a whole in consultation and collaboration with key stakeholders. While there is an ongoing need, the technology and needs of targeted audiences continue to evolve requiring constant monitoring and consultation. Moreover, an improved governance structure would facilitate improved strategic planning and coordination of earth observation and GeoBase programming.
+Geodetic and geospatial programs have supported informed decision making, and enhanced programs, policies and research in natural resources, environment, and hazards assessment, and emergency response. In addition, they have yielded efficiency and productivity benefits for user groups. The evaluation evidence indicates that geodetic services are reaching their target groups and are achieving their intended outcomes. However, reported deficits in Canada’s observing infrastructure are expected to constrain international efforts to enhance the accuracy of the Global Spatial Reference System. GeoBase and remote sensing programs are achieving intended outcomes to some extent, but these programs are likely underutilized. Further clarification of user needs and future directions is required to facilitate the identification and development of viable solutions for program capacity, design and delivery issues.
+Recommendations and Management Response
+Recommendation 1
+CCMEO should undertake a business analysis in order to:
+
+clarify current needs of user groups and stakeholders and future directions of geospatial information (e.g. GeoBase) and remote sensing science;
+identify and implement strategies to update and strengthen governance (geomatics legislation and policy, links between appropriate committees, strategic input from provinces/ territories) in consultation with stakeholders and partners; and
+identify and establish viable approaches to sustain and update core geospatial data (GeoBase) and to sustain remote sensing science.
+
+
+
+SPRS Response
+
+
+1a) SPRS Management concurs with this recommendation.
+CCMEO will refresh its vision with regards to the provision of essential geographic information by clarifying user and stakeholder needs and future directions. In order to do so, CCMEO will:
+
+consult internally with NRCan Sectors and externally with other governments (OGDs, P/Ts); and,
+CCMEO’s “Products, Services, Clients, and Delivery” task team will clarify user groups and stakeholders external to government through a user study and analysis of its product offering.
+
+
+
+
+
+
+
+Responsible Official/ Sector
+ADM SPRS
+
+
+
+
+
+
+Target Date
+December 2018
+
+
+
+
+
+
+
+
+1b) SPRS Management concurs with this recommendation.
+
+CCMEO, through consultation with its partners and clients, will develop and implement a strategy to strengthen governance of geospatial data.
+The strategy will outline recommendations for reframing the roles and responsibilities of governance mechanisms (i.e.: Federal Committee on Geomatics and Earth Observation, Canadian Council on Geomatics, etc.).
+
+
+
+
+
+
+
+Responsible Official/ Sector
+ADM SPRS
+
+
+
+
+
+
+Target Date
+March 2019
+
+
+
+
+
+
+
+
+1c ) SPRS Management concurs with this recommendation
+CCMEO will identify and establish viable approaches for core geospatial data and remote sensing science by:
+
+Exploring more cost-efficient and effective ways of acquiring data through collaborations with OGDs and other collaborators in order to improve data quality and access.
+Adjusting/streamlining priorities and activities to align with its refreshed vision and user needs.
+Developing and implementing a remote sensing science strategy with more focussed priorities.
+
+
+
+
+
+
+
+Responsible Official/ Sector
+ADM SPRS
+
+
+
+
+
+
+Target Date
+March 2019
+Recommendation 2
+CCMEO and CGS should strengthen linkages with appropriate stakeholder and user groups in order to stay abreast of user needs and emerging trends.
+
+For the CCMEO Branch this means stronger and sustained linkages with the private sector (with respect to geospatial programming) academia, and possibly emerging user groups.
+For the CGS this means strengthened linkages with academia, and more sustained linkages to users (e.g. through the Federal GNSS Coordination Board) to facilitate understanding of future requirements for augmented GNSS. It also means a review of possible options for improved strategic planning in conjunction with provinces and territories
+
+
+
+SPRS Response
+
+
+2a) SPRS Management concurs with this recommendation.
+CCMEO will strengthen and sustain its linkages with the private sector, academia and emerging user groups by:
+
+Undertaking a business analysis and develop a strategy to identify appropriate solutions for strengthening ongoing linkages with multi-stakeholder groups; and,
+Developing innovative solutions to current challenges of the geomatics sector through engagement of various stakeholder groups (i.e.: through call outs to the private sector and academia) to determine their needs and trends in the sector.
+
+
+
+
+
+
+
+Responsible Official/ Sector
+ADM SPRS
+
+
+
+
+
+
+Target Date
+March 2019
+
+
+
+
+
+
+LMS Response
+2b) LMS Management concurs with this recommendation.
+The Surveyor General Branch will address these recommendation as follows:
+
+
+
+To strengthen the increasingly important Federal-Academia linkages, SGB will consult with academic stakeholders and provide a report on potential engagement options to senior management by January 2019.
+
+
+
+
+
+
+
+Responsible Official/ Sector
+Director General, SGB
+
+
+
+
+
+
+Target Date
+January 2019
+
+
+
+
+
+
+
+
+
+To sustain linkages to users and facilitate understanding of future requirements for augmented GNSS, SGB consulted with stakeholders and these leading efforts helped develop a revised model of the Federal GNSS Coordination Board. The new model, which will serve to provide more sustained linkages with users, formalized by a Memorandum of Understanding between Federal partners was signed October 2017.
+
+
+
+
+
+
+
+Responsible Official/ Sector
+Director General, SGB
+
+
+
+
+
+
+Target Date
+October 2017
+
+
+
+
+
+
+ 
+
+
+
+To review possible options for improved strategic planning in conjunction with provinces and territories, SGB will examine the current national geodetic governance model and propose opportunities for improvement to senior management by March 2019.
+
+
+
+
+
+
+
+Responsible Official/ Sector
+Director General, SGB
+
+
+
+
+
+
+Target Date
+March 2019
+Recommendation 3
+CGS should develop a plan with other federal government partners to analyze gaps and identify options to mitigate infrastructure deficiencies in Canada’s geodetic observing infrastructure that are impacting negatively on Canada’s international commitments.
+
+
+LMS Response
+
+
+3. LMS Management concurs with this recommendation.
+
+To mitigate infrastructure deficiencies in Canada’s geodetic observing infrastructure that are impacting negatively on Canada’s international commitments, SGB is collaborating with other federal government partners to analyze gaps and identify options. SGB will report investment options to senior management. This report would be suitable as a contribution to a National Positioning, Navigation and Timing plan.
+
+
+
+
+
+
+
+Responsible Official/ Sector
+Director General, SGB
+
+
+
+
+
+
+Target Date
+October 2018
+Recommendation 4
+The CCMEO and CGS should improve accessibility and user support for geodetic and geospatial services and tools.
+
+The CCMEO should, in consultation with Shared Services Canada, ensure that the new system to archive remote sensing imagery is adequately accessible.
+For CGS this means enhancements to user support materials, particularly the CSRS PPP Service.
+
+
+
+SPRS Response
+
+
+4a) SPRS Management concurs with this recommendation.
+CCMEO will improve accessibility and user support for geospatial services and tools by:
+
+Continuing to work closely with Shared Service Canada to ensure availability of the Earth Observation Data Management System; and,
+Engaging and updating NRCan’s Business Transformation Committee (BTC) on progress periodically.
+
+
+
+
+
+
+
+Responsible Official/ Sector
+Director General, CCMEO
+
+
+
+
+
+
+Target Date
+March 2019
+
+
+
+
+
+
+LMS
+
+
+4b) LMS Management concurs with this recommendation.
+
+The Surveyor General Branch will address this recommendation by providing improved user information for the CSRS PPP service on the Internet by September 2018.
+
+
+
+
+
+
+
+Responsible Official/ Sector
+Director General, SGB
+
+
+
+
+
+
+Target Date
+September 2018
+Recommendation 5
+The CCMEO and CGS should improve performance measurement and reporting to ensure adequate information is available to assess program efficiency and effectiveness.
+
+For CCMEO this means the development and implementation of a performance measurement strategy and regular program reporting of key outputs and outcomes (in addition to Departmental Performance Reporting).
+For CGS this means an enhancement of their existing strategy to ensure better monitoring and reporting of outcomes related to the impacts of use of geodetic services.
+
+
+
+SPRS
+
+
+5a) SPRS Management concurs with this recommendation.
+
+CCMEO is developing and implementing a revised performance and results measurement strategy. This strategy will include regular program reporting of key outputs and outcomes in addition to the Departmental Performance Reporting requirements related to CCMEO’s Core Geospatial Information and Geospatial Innovation programs as defined under NRCan’s new Departmental Results Framework (DRF).
+
+
+
+
+
+
+
+Responsible Official/ Sector
+Director, BPIO, CCMEO
+
+
+
+
+
+
+Target Date
+December 2018
+
+
+
+
+
+
+LMS
+5b) LMS Management concurs with this recommendation.
+
+
+
+To provide better reporting of outcomes related to the use of GNSS, SGB completed a study on the usage and economic value of its primary geodetic CSRS-PPP service and published the findings in Geomatica, an external geomatics journal November 2017.
+
+
+
+
+
+
+
+Responsible Official/ Sector
+Director General, SGB
+
+
+
+
+
+
+Target Date
+November 2017
+
+
+
+
+
+
+
+
+
+SGB will develop and put into effect a plan to better monitor and report on outcomes related to the impacts of use of geodetic services by December 2018.
+
+
+
+
+
+
+
+Responsible Official/ Sector
+Director General SGB
+
+
+
+
+
+
+Target Date
+December 2018
+Recommendation 6
+The CCMEO and CGS should develop and implement a strategy to communicate the value and benefits of geodetic services and geospatial information to stakeholders and key decision-makers.
+
+
+SPRS Response
+
+
+6.SPRS Management concurs with this recommendation.
+
+In 2018-19, CCMEO will update its communications strategy to reflect CCMEO’s refreshed vision and business goals. This work will focus on increasing efforts to communicate CCMEO’s vision, strategic business directions, values, and benefits.
+
+
+
+
+
+
+
+Responsible Official/ Sector
+Director, BPIO, CCMEO
+
+
+
+
+
+
+Target Date
+December 2018
+
+
+
+
+
+
+LMS Response
+
+
+6. LMS Management concurs with this recommendation.
+
+SGB will work with Federal partners to establish a Positioning, Navigation and Timing Board (PNT Board) by September 2018. Annual PNT Board reports to one or more ADM-level committees will communicate the value and benefits of geodetic services (initiated by December 2018).
+SGB will work with FPT geodetic partners to develop internet content on the value and benefits of Geodesy and will take the necessary steps to make this information available to the public by December 2018.
+
+
+
+
+
+
+
+Responsible Official/ Sector
+Director General, SGB
+
+
+
+
+
+
+Target Date
+December 2018

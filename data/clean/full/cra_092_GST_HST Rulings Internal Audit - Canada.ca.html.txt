@@ -1,0 +1,214 @@
+GST/HST Rulings Internal Audit
+Final Report
+Corporate Audit and Evaluation Branch
+January 2011
+Table of Contents
+Executive Summary
+Introduction
+Findings, Recommendations and Action Plans
+1.0 Operational Planning and Program Management
+1.1 Functional Support and Stakeholder Relationships
+1.2 Technical and Bilingual Capacities
+1.3 Workloads: Planning, forecasting and allocation of resources
+1.4 External Service Standards
+1.5 Outreach
+2.0 Monitoring
+2.1 Quality of responses to written and telephone enquiries
+2.2 Quality of Technical Publications
+Conclusion
+Executive Summary
+Background:
+In the Canada Revenue Agency (CRA), the Excise and GST/HST Rulings Directorate (the Directorate) is part of the Legislative Policy and Regulatory Affairs Branch (LPRAB).
+The Directorate’s main responsibility is to interpret legislation in relation to excise duties and taxes and the Goods and Services Tax/Harmonized Sales Tax (GST/HST). Since an internal audit on the Excise Duty Program was completed in 2007, the focus of this internal audit is the GST/HST Rulings Program (the Program), which is responsible for the interpretation of Part IX of the
+Excise Tax Act
+and related regulations, policies and administrative procedures.
+Program employees issue precedent-setting and complex GST/HST rulings and interpretations, create and publish technical information related to the GST/HST, and develop and disseminate the official CRA position on key GST/HST technical issues. They also provide technical advice and support to internal and external stakeholders, including the Department of Finance and other departments and governments.
+The Program is both centralized in Headquarters and decentralized in four of the five CRA regions. In Quebec, the province administers the GST on behalf of the federal government. In the regions, there are 10 GST/HST Rulings Centres delivering the majority of rulings and interpretations that the CRA issues across Canada.
+For the fiscal year ending March 31, 2010, the GST/HST Rulings Program had 141 full-time employees (FTEs) in the regions and 133 FTEs at headquarters. There were 1,275 rulings and 1,604 technical interpretations issued by officers in the regions, and 98 rulings and 701 technical interpretations issued by officers in Headquarters. The GST/HST Rulings Program has a dedicated 1-800 telephone service and they answered 97,735 enquires. Total expenditures for the program were approximately $19.1 million.
+[Footnote1]
+Objective:
+The objective of the audit was to determine whether appropriate controls are in place to support the responsibilities and activities of the GST/HST Rulings Program. The examination phase of the audit was conducted from November 2009 to February 2010.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Conclusion
+: The controls currently in place support the responsibilities and activities of the GST/HST Rulings Program, which include the processing of accurate and consistent rulings and interpretations. However, some controls should be enhanced to improve the delivery of the Program.
+Functional support to field offices is strong, and working relationships with internal and external stakeholders are well-established and effective. Technical capacity as a risk is being addressed at the branch level. Technical capacity risk assessments have been completed for the Excise and GST/HST and Income Tax Rulings Directorates, and staffing plans have been created and are updated on an ongoing basis.
+Controls relating to planning, forecasting and allocation of resources should be strengthened. Changes to the Program’s workload forecasting model would improve the effectiveness and results of the annual planning process. An examination of the structural allocation of Headquarters versus regional workloads is also recommended, in order that the Program can achieve the most efficient use of available resources.
+Changes to the external service standard are needed to include all rulings and interpretations processed by the Program, and to measure performance from the date requests are received in the CRA, in order to improve transparency and provide a more meaningful measure of accountability for clients. Improvements in the oversight and coordination of GST/HST Rulings outreach activities would help ensure that target audiences are effectively reached, and CRA goals of increased client awareness and compliance are achieved.
+Monitoring of some workflows, including rulings and interpretations issued at Headquarters and regional telephone enquiries, should be improved. In addition, more effective monitoring of existing technical publications is needed to ensure that they remain up-to-date and reflect the most current legislation and policy.
+Action Plans:
+GST/HST Rulings Program management has committed in their action plans to addressing the issues identified in the audit, including:
+The establishment of three working groups to examine and recommend appropriate changes regarding issues related to workload management, quality monitoring, and Outreach;
+Consultation with the Corporate Strategies and Business Development Branch (CSBDB) to ensure consistency of GST/HST Rulings external service standards with other CRA programs and corporate practices; and
+The implementation of a formal process for the maintenance of existing GST/HST technical publications to ensure they remain accurate and up to date.
+Introduction
+In the Canada Revenue Agency (CRA), the Excise and GST/HST Rulings Directorate (the Directorate) is part of the Legislative Policy and Regulatory Affairs Branch (LPRAB).
+The Directorate’s main responsibility is to interpret legislation in relation to excise duties and taxes and the Goods and Services Tax/Harmonized Sales Tax (GST/HST). Since an internal audit on the Excise Duty Program was completed in 2007, the focus of this internal audit is the GST/HST Rulings Program (the Program), which is responsible for the interpretation of Part IX of the
+Excise Tax Act
+and related regulations, policies and administrative procedures.
+The Program issues precedent-setting and complex GST/HST rulings and interpretations, creates and publishes technical information related to the GST/HST, and develops and disseminates the official CRA position on key GST/HST technical issues. It also provides technical advice and support to internal and external stakeholders, including the Department of Finance and other departments and governments.
+The Program is both centralized in Headquarters and decentralized in four of the five CRA regions. In Quebec, the province administers the GST on behalf of the federal government. In the regions, there are 10 GST/HST Rulings Centres delivering the majority of rulings and interpretations that the CRA issues across Canada:
+Region
+GST/HST Rulings Centres
+Atlantic
+Halifax
+Ontario
+Ottawa, Hamilton, Toronto Centre, and London
+Prairie
+Winnipeg, Saskatoon, Calgary and Edmonton
+Pacific
+Vancouver
+In Headquarters, there are three divisions that provide technical services and expertise related to GST/HST rulings and interpretations. A fourth division provides corporate support to the Directorate, functional guidance and direction for regional program delivery, and electronic information services for the Program and the Branch.
+For the fiscal year ending March 31, 2010, the GST/HST Rulings Program had 141 full-time employees (FTEs) in the regions and 133 FTEs at headquarters. There were 1,275 rulings and 1,604 technical interpretations issued by the field, and 98 rulings and 701 technical interpretations issued by headquarters. The GST/HST Rulings Program has a dedicated 1-800 telephone service and they answered 97,735 enquires. Total expenditures for the program were approximately $19.1 million.
+Focus of the Audit
+The objective of the audit was to determine whether appropriate controls are in place to support the responsibilities and activities of the GST/HST Rulings Program. The examination phase of the audit was conducted from November 2009 to February 2010.
+Interviews relating to GST/HST Rulings program activities were conducted in LPRAB and Appeals, Legal Services, Assessment and Benefit Services (ABSB), and Compliance Program (CPB) branches, the Department of Finance, and in selected Tax Services Offices and Tax Centres in the Ontario, Prairie and Atlantic regions.
+A statistically valid random sample, representative of all regions, of 1120 GST/HST rulings and interpretations files completed during the 2008-2009 fiscal year was also examined to verify the integrity of program data and adherence to established procedures.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings
+, Recommendations and Action Plans
+1.0 Operational Planning and Program Management
+1.1 Functional Support and Stakeholder Relationships
+The functional support that Headquarters provides to the regions is strong.
+Regional employees are satisfied with the quality and quantity of technical information, procedures and directives, databases and various tools that are available to them. Information is communicated quickly and effectively to the regions. The regions are also satisfied with the quality of technical advice provided to them by Headquarters.
+Internal and external stakeholder areas (Appeals, Legal Services, ABSB, CPB, and Department of Finance) indicated they have very strong relationships with the GST/HST Rulings Program, including effective channels of communication with Headquarters.
+The Program’s Rulings and Interpretation Tracking System (RITS) is designed to record and monitor requests for rulings and interpretations, and to assist in the management of policy statement cases as well as general correspondence. RITS was found to be an effective tool for managing inventories and researching technical issues. It also has strong built-in reporting functionalities.
+1.2 Technical and Bilingual Capacities
+Integrated Workforce Planning / Technical Capacity has been identified by CRA senior management as a key risk at the Agency level. The LPRAB has developed a technical capacity model and diagnostic methodology to identify areas of strength and weakness in technical tax knowledge and expertise.
+Technical capacity risk assessments have been completed for the Excise and GST/HST and Income Tax Rulings Directorates. Staffing plans have been created and are updated on an ongoing basis in response to hiring needs identified. The LPRAB is also working collaboratively with other branches to share its methodology and approach. Bilingual capacity for the GST/HST Rulings Program is present throughout the regions and in Headquarters. The program respects the requirements of the
+Official Languages Act
+(OLA) regarding the availability of services to the public and language of work requirements.
+1.3 Workloads: Planning, forecasting and allocation of resources
+The GST/HST Rulings Program has an annual planning process in place that forecasts national workloads for the upcoming fiscal year based on historical data. It is a traditional, top-down approach to program planning, in that the forecasting and the preparation of work plans is done at Headquarters and then disseminated to the regions.
+Headquarters current forecasting model relies on five-year rolling averages of historical workflow intake data. However, statistics from the past four fiscal years shows a clear downward trend in actual volumes of GST/HST rulings and interpretations workload, which has not been fully reflected in their forecasting and work plans.
+Interviews with regional management revealed that reduced volumes of written requests for rulings and interpretations present them with operational challenges. As written requests decline, management directs any excess capacity towards other workloads, such as telephone enquiries and outreach. It was noted that there is already regional participation in some Headquarters workloads, including the development of training and learning products, and a number of regional employees have had opportunities and assignments with Headquarters. All regions visited, however, indicated they could accommodate the transfer of additional workloads from Headquarters, in order to make the best use of a highly-experienced workforce with strong technical capacities. As an example, one region identified the municipal determinations Headquarters workload as one that could be effectively allocated to them.
+Two regions visited also indicated that some of the core rulings and interpretations casework at Headquarters may actually be regional work that should be transferred for their action. A snapshot of inventories taken in April 2010 by the audit team showed that of 161 cases currently assigned to Headquarters, 25 (or approximately 16%) held the regional classification of “general”. There is no up-front process in place, however, to divert regional casework that is received in Headquarters to the appropriate region. When client rulings and interpretations requests are received in Headquarters, they are screened to the relevant technical unit based on subject-matter, and are generally kept and worked there regardless of the level of complexity assigned.
+In contrast with the decreasing levels of work evident in the regions, at Headquarters management identified increasing levels of their workloads within the current resource envelope as a key risk to the Program. Ongoing legislative and policy changes, combined with large-scale government initiatives such as the provincial sales tax administration reform (PSTAR), present challenges to the allocation of technical and financial resources amongst the various Headquarters workloads.
+Recommendations
+The GST/HST Rulings Program should:
+Evaluate the complexity of incoming Headquarters casework during the initial screening process and ensure that any that can be classified as regional work are transferred;
+Transfer additional Headquarters workloads to the regions to make best use of available technical capacities, with appropriate tracking and monitoring controls;
+Adjust its forecasting model to account for observed trends and government and Agency initiatives; and
+Review the structural allocation of workloads and resources between Headquarters and the regions, to ensure they are effective, appropriate and sustainable.
+Action Plan
+The issue of allocating casework between Headquarters (HQ) and the regions, and between the regions themselves, was discussed at an HQ – Regional planning session in May 2010. As a result, we have set up a collaborative working group focused on the possibility of a National (or regional) Intake centre. The intake centre concept will require and include the development of a methodology to screen and classify HQ and regional workloads and ensure appropriate transfers. The working group will present recommendations by the end of fiscal 2010-2011, with the implementation of changes to follow during 2011-2012.
+In June 2010, we made changes to our telephone enquiries lines to ensure that enquiries from other government departments situated in Quebec, which have been handled in Headquarters, can be routed directly into our 1-800 system and answered in the regions. The transfer of additional Headquarters workloads to the regions will be examined by the working group.
+The forecasting model that we have been using was shared and discussed with the regional Assistant Directors and regional Program Advisors at our planning session in May 2010. We will be modifying the model to incorporate their suggestions and to account for observed trends and government and Agency initiatives (such as workload increases/decreases and the Ontario and British Columbia tax harmonization initiatives). This will be accomplished by the end of fiscal 2010-2011.
+An examination of the structural allocation of workloads and resources between HQ and regions will also be addressed by the working group. Recommendations by the working group will be made by the end of fiscal 2010-2011. A pilot of the recommended model and business rules will commence in April 2011 with full implementation expected by December 2011.
+1.4 External Service Standards
+CRA external service standards, by their nature and design, focus on the aspects of service that are important to clients. By publicly stating the level of performance that clients can reasonably expect under normal circumstances, service standards support the CRA's commitment to Canadians for transparency, management accountability and client-focused service.
+During the course of the audit, it was noted that there was no external service standard in place for the GST/HST Rulings telephone enquiries workload. However, as of April 1, 2010, the Program has established and published a standard to answer a call within 2 minutes of entering the queue, with an accessibility target of 80%.
+The external service standard for responding to GST/HST rulings and interpretations written enquiries is “within 45 working days” with a target rate of 80%.
+[Footnote 2]
+In the CRA Annual Report to Parliament 2008-2009, the Agency reported that the GST/HST Rulings program exceeded the target with an observed rate of 93%.
+For measurement purposes, the calculation of the number of days to process a file starts with the day the request is received by GST/HST Rulings, and ends with the day the written response is sent to the client.
+[Footnote 3]
+These dates are entered in the Received Date and Mail Date fields in RITS, which are then used in the generation of performance reports.
+The Program calculates the achievement of the standard based on rulings and interpretations completed in the regions. A file review
+[Footnote 4]
+completed by the audit team showed that the processing standard of 45 days for regional rulings and interpretations was met 90% of the time. However, if Headquarters rulings and interpretations were included in the calculation, the standard would have been met only 78% of the time.
+Further, if performance was measured using the date received by CRA
+[Footnote 5]
+instead of the Received Date as entered in RITS, the standard would have been met only 83% of the time for regional files, or 74% of the time for all files, including those completed at Headquarters.
+For transparency, external service standards must be clear and understandable for persons who are not necessarily familiar with the internal workings of the program. Clients who look at the standard for GST/HST written enquiries would likely assume that it applies to all requests received, regardless of where they are processed, and that it is measured from the time that it is received by the Agency. In this regard, the standard may not be meeting client expectations, as it is based on control points used to manage operations, and focuses on internal rather than external accountability.
+Recommendations
+The GST/HST Rulings Program should:
+Revise their external service standard for written rulings and interpretations to include rulings and interpretations completed at Headquarters; and
+Revise the calculation of their external service standard for written rulings and interpretations to measure from the day the request is received by the CRA.
+Action Plan
+Rulings and interpretations completed by the field offices are general in nature and based on available technical information and reference material. Those issued by Headquarters are highly technical and precedent or policy-setting, and at times present legislative anomalies which may require a significant amount of time to resolve, including consultations with Departments of Justice and Finance.
+To increase transparency and understanding for clients, we will add a footnote to the standard to indicate that it excludes highly technical and precedent or policy-setting rulings. This will be done by April 1, 2011.
+With respect to the rulings and interpretations issued by Headquarters, the GST/HST Rulings Directorate will develop an internal measure and mechanism to ensure timeliness and regular monitoring of these workloads by December 2011.
+In relation to the second recommendation, as of January 1, 2011 the Program will recommence using "date received by the CRA" in calculating the standard.
+1.5
+Outreach
+The CRA views outreach as a dynamic and strategic interaction with target audiences to:
+Increase awareness and encourage voluntary compliance;
+Educate, inform, and promote CRA programs and services; and
+Promote CRA as a leading-edge organization.
+Strengthening outreach has been identified as a priority in the 2009-2010 to 2011-2012 CRA Corporate Business Plan.
+Outreach is an important part of the GST/HST Rulings Program, with 6% of its national budget allocated to the performance of outreach-related activities in the regions. Outreach activities are non-case specific interactions with external clients such as tax professionals, provincial associations, businesses, professional associations, municipal and provincial governments and public service bodies. These activities may include consultations, meetings, seminars, trade shows and round table discussions and are designed to address the particular needs of the audience.
+In the GST/HST Rulings program, the identification of target outreach audiences, preparation of presentation materials, and delivery to clients are done primarily in the regions. Headquarters establishes guidelines and procedures, reviews regional presentations for accuracy and consistency, maintains a national presentations databank, and monitors time and activity reporting related to the workflow.
+In the oversight and coordination of GST/HST Rulings outreach activities, there is no formal outreach strategy in place at the national level. Little direction is given by Headquarters as to how the regions identify appropriate target audiences. There are no clear performance expectations in place, there are no success measurement criteria other than the number of engagements performed, and there is no formal reporting or analysis of outreach results. Accordingly, there is currently no way to determine whether the Program is getting full value for resources allocated, or effectively reaching the right audiences to achieve the Agency’s goals and objectives for outreach.
+Recommendations
+The GST/HST Rulings Program should:
+Develop a strategy and planning process, linked to Agency goals and objectives, to coordinate and provide direction for GST/HST Rulings outreach activities performed in the regions;
+Provide guidance and expertise to the regions with respect to the identification of target outreach audiences; and
+Establish clear performance expectations, and appropriate measurement and reporting criteria.
+Action Plan
+Another of the outcomes from the planning session hosted by HQ GST/HST Rulings in May 2010 with the regional Assistant Directors and Program Advisors was the establishment of a collaborative working group for our Outreach program, championed by an Assistant Director in a region with HQ and regional participants. This group will address all of the above recommendations and the resulting changes will be implemented by the end of fiscal 2010-2011.
+2.0 Monitoring
+2.1
+Quality of responses to written and telephone enquiries
+Quality is a key objective of the GST/HST Rulings Program, given the Directorate’s overall program goal of 100% accuracy. The Program has a number of processes and controls in place in order to ensure the quality of its products and outputs is maintained.
+In the regions, quality processes include peer and team-leader reviews, and team leader final sign-off before written rulings and interpretations are issued to clients. The audit team found that these processes are used consistently throughout the regions. For Headquarters files, quality controls include peer and manager reviews, final sign-off at the manager or director level, and review of certain files and issues by the Director-General and the branch’s Technical Discussion Group (TDG).
+In addition, Headquarters has established a robust Quality Assurance (QA) process, with appropriate guidelines and tools, to review a monthly sample of completed rulings and interpretations issued by the regions. The QA sample size and selection methodology was examined by the audit team, and found to be appropriate and statistically meaningful.
+The QA process looks at whether the response is technically accurate and complete, consistency and uniformity is maintained, and procedures are followed. A Case Review Checklist has been developed to assist officers in identifying review elements covered during the QA process. QA results and feedback are delivered to the regions via QA Status Reports.
+Rulings and interpretations files completed at Headquarters, however, are not subject to the QA process. Although there are strong controls in place with respect to the accuracy of decisions issued by Headquarters, the file review completed by the audit team indicated deficiencies with other aspects of quality, including completeness and procedural adherence. These included:
+Acknowledgement letters are not being sent, or not being recorded on RITS;
+Incoming correspondence was not uploaded to RITS for 8% of rulings and 84% of interpretations;
+Incoming correspondence did not contain a GST/HST Rulings date stamp for 51% of rulings and 65% of interpretations;
+Opening and closing notes, to inform auditors and other CRA employees of the status of a rulings or interpretations request, were often not entered on the GST mainframe system, or were incomplete.
+File documentation is important for Headquarters files, as the regions use these rulings and interpretations decisions for research and reference purposes. When source documents or other key information are not consistently present on RITS, it can result in additional work and research for officers.
+Recommendation
+The GST/HST Rulings Program should expand its Quality Assurance process or implement additional quality controls to ensure thoroughness of documentation for the Headquarters rulings and interpretations workflows.
+Action Plan
+The Electronic Information Services unit (CAU) in Headquarters will ensure that all of the documents they scan and upload are date stamped. Emails will not require a date stamp as they already include a date. The unit will also ensure that opening and closing notes are entered into the GST mainframe for rulings and interpretations files that are directly associated with a business number (BN).
+The CAU prepares, signs and sends acknowledgement letters for all transferred cases, however these are not currently uploaded to RITS. We have revised our procedures to ensure that all acknowledgement letters issued are either uploaded into RITS, or depending on electronic storage limitations, the appropriate data field is populated.
+The recommendation to expand the Quality Assurance process and the controls to ensure thoroughness of documentation will also be addressed in the context of the working group formed to explore the concept of a National Intake Centre. The working group will present recommendations by the end of fiscal 2010-2011. A pilot of the recommended model and business rules will commence in April 2011 with full implementation by December 2011.
+There are currently no quality reviews or QA monitoring processes in place for the GST/HST Rulings telephone enquiries regional workload. Lack of monitoring of quality and accuracy of phone calls, with a call volume of approximately 100,000 per year, poses a risk for the Program of incorrect or incomplete information being given to clients, which could impact compliance with GST/HST legislation.
+For comparison purposes, the audit team reviewed the quality monitoring processes in place for telephone enquiries elsewhere in the CRA, and in the United Kingdom (UK) and United States (US). The CRA Telephone Enquiries Program, administered by the Taxpayer Services and Debt Management Branch (TSDMB), monitors quality through an External Accuracy Survey and the National Quality and Accuracy Learning Program (NQALP). NQALP monitoring has two components: remote and side-by-side listening. Remote listening is voluntary, with approximately 10% of agents participating. Side-by-side listening is mandatory, with agents monitored at least 6 times per quarter. Similarly, the UK and US have various quality monitoring processes in place for their telephone enquiries workloads.
+Recommendations
+The GST/HST Rulings Program should:
+Define the various aspects of a quality call, and establish qualitative performance measures for telephone enquiries linked to strategic program objectives; and
+Implement a quality assurance monitoring process for their regional telephone enquiries workload.
+Action Plan
+Up until 2004, the GST/HST Rulings and interpretations program in HQ had conducted an external telephone accuracy survey like the one administered by TSDMB, however this was discontinued due to budgetary constraints.
+The Program Development unit in the Technical Publications and Programs Division will conduct research into defining the aspects of a quality call and establishing qualitative performance measures. As well, a third collaborative working group (HQ and regions) was established at the May 2010 meeting with the regions to focus on Quality Monitoring. It will explore best practices in place in TSDMB and possibly other programs, and the feasibility of implementing a similar process to monitor the quality of responses to telephone enquiries for our program. Recommendations will be made and an appropriate monitoring process will be implemented by the end of fiscal 2010-2011.
+2.2
+Quality of Technical Publications
+Within the Program, the Technical Publications Unit creates and publishes a wide variety of technical information related to the GST/HST. Their products, including GST/HST Memoranda, Information Sheets, Notices, Policy Statements and the Excise and GST/HST News, are published on the CRA Web site and are used by businesses of all sizes, tax professionals, public service bodies, the general public, as well as CRA employees.
+The Program has an effective publications process in place, with comprehensive review and sign-off elements to ensure the accuracy and consistency of technical documents at the time they are published. New documents and major revisions to publications are communicated effectively and in a timely manner.
+The ongoing maintenance and updating of existing publications, however, is an informal process, conducted by the manager in collaboration with the relevant technical units. Scheduling of reviews and updates is ad hoc, and delays in revising documents can occur when priority is given to new publications and major initiatives. In interviews with regional employees, concerns were noted regarding various existing publications, some of which may be out of date or lacking current focus. As such, clients may sometimes be relying on documents that do not reflect the most recent technical changes, current interpretation and policies.
+Recommendation
+The GST/HST Rulings Program should formalize its processes for the maintenance of existing publications to ensure they are all periodically reviewed and updated.
+Action Plan
+The Technical Publications unit in HQ will formalize its processes for the maintenance of existing publications and work with the HQ technical divisions to ensure that they are periodically reviewed and updated. A formalized process will be in place by the end of March 2011.
+Conclusion
+The controls currently in place support the responsibilities and activities of the GST/HST Rulings Program, which include the processing of accurate and consistent rulings and interpretations. However, some controls should be strengthened to improve the overall efficiency of the Program.
+Functional support to field offices is strong, and working relationships with internal and external stakeholders are well-established and effective. Technical capacity as a risk is being addressed at the branch level. Technical capacity risk assessments have been completed for the Excise and GST/HST and Income Tax Rulings Directorates, and staffing plans have been created and are updated on an ongoing basis.
+Controls relating to planning, forecasting and allocation of resources should be strengthened. Changes to the Program’s workload forecasting model would improve the effectiveness and results of the annual planning process. An examination of the structural allocation of Headquarters versus regional workloads is also recommended, in order that the Program can achieve the most efficient use of available resources.
+Changes to the external service standard are needed to include all rulings and interpretations processed by the Program, and to measure performance from the date requests are received in the CRA, in order to improve transparency and provide a more meaningful measure of accountability for clients. Improvements in the oversight and coordination of GST/HST Rulings outreach activities would help ensure that target audiences are effectively reached, and CRA goals of increased client awareness and compliance are achieved.
+Monitoring of some workflows, including rulings and interpretations issued at Headquarters and regional telephone enquiries, should be improved. In addition, more effective monitoring of existing technical publications is needed to ensure that they remain up-to-date and reflect the most current legislation and policy.
+Footnotes
+Footnotes
+Footnote _ftn1
+Source: GST/HST Rulings Program.
+Return to footnote
+_ftn1
+Referrer
+Footnote _ftn2
+CRA “Current Year Service Standards 2009 – 2010”
+Return to footnote
+_ftn2
+Referrer
+Footnote _ftn3
+This was changed by the Program in November 2008. Prior to that time, the calculation started with the day the request was received by the CRA.
+Return to footnote
+_ftn3
+Referrer
+Footnote _ftn4
+The file review consisted of a sample of 1120 rulings and interpretations files completed in the regions and Headquarters during the 2008-2009 fiscal year, with a confidence rate of 95%, expected deviation rate of 5% and tolerable deviation rate of 7%.
+Return to footnote
+_ftn4
+Referrer
+Footnote _ftn5
+The “date received by CRA” was taken from the actual CRA date stamp, or if not available, the fax or email date of the correspondence. If none of these dates were available, the “date received by CRA” was assumed to be the date entered in the Incoming Document Date data field on RITS
+Return to footnote
+_ftn5
+Referrer
+Page details
+Report a problem on this page
+Date modified:
+2011-05-06

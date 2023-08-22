@@ -1,0 +1,490 @@
+List of acronyms
+EI 
+Employment Insurance
+ESDC
+Employment and Social Development Canada
+FAA
+Financial Administration Act
+GBA Plus
+Gender-Based Analysis Plus
+LMDA
+Labour Market Development Agreement
+OAS
+Old Age Security
+OECD
+Organization for Economic Co-operation and Development
+PMEC
+Performance Measurement and Evaluation Committee
+TBS
+Treasury Board of Canada Secretariat
+Deputy Head Departmental Evaluation Plan confirmation note
+I approve the Departmental Evaluation Plan of Employment  and Social Development Canada for 2023 to 2028. I submit it to the Treasury  Board of Canada Secretariat as required by the Policy on Results.
+I confirm that this 5-year rolling Departmental Evaluation  Plan:
+plans for evaluation  of all ongoing programs of grants and contributions with 5-year average actual  expenditures of $5 million or greater per year at least once every 5 years, in  fulfillment of the requirements of subsection 42.1 of the Financial Administration Act
+meets the requirements  of the Mandatory Procedures for Evaluation
+supports the  requirements of the expenditure management system including, as applicable,  Memoranda to Cabinet, Treasury Board Submissions, and resource alignment reviews
+I will ensure that this Plan is updated annually. I will  provide information about its implementation to the Treasury Board of Canada  Secretariat, as required.
+Jean-François Tremblay
+Deputy Minister of Employment and Social Development
+Executive summary
+As per the  Treasury Board of Canada Secretariat (TBS) Policy  on Results, Employment and Social Development Canada (ESDC) must develop  and publish an annual 5-year departmental evaluation plan. Informed by an annual consultative  planning exercise and building on last year’s accomplishments, this plan  targets the evaluation coverage of ESDC’s program spending for fiscal years 2023  to 2024 until 2027 to 2028, with a focus on departmental needs, risks, and  priorities.
+In fiscal year 2022 to 2023, ESDC evaluations  continued to play an important role in the results agenda by examining the  relevance and performance of departmental programs, policies, and services. The Department also  continued to develop innovative approaches, including those that support the  Government of Canada’s commitment to Gender-based Analysis (GBA) Plus and  reconciliation with Indigenous peoples in both quantitative and qualitative  evaluation design.
+Key accomplishments in fiscal year 2022 to 2023
+Supporting evidence-based  decisions through evaluation products and services: 
+
+9 evaluation reports and 73 technical reports were completed to support programs  and the Employment Insurance (EI) Commissioners for Employers and Workers at the Canada Employment Insurance Commission 
+collaboration  with provinces and territories produced 5 evaluation reports, and 20 technical reports on Labour  Market Development Agreements (LMDAs)
+33 Treasury Board Submissions and 24 Memoranda to Cabinet were reviewed and  completed
+in collaboration with the Organization for Economic Co-operation and Development  (OECD), the system that Canada has put in place for impact assessment of its active labour market policies was evaluated 
+
+Advancing innovative evaluation approaches  and gender-based analysis plus:
+
+introduced causal machine  learning methods to better capture program impacts across various  socio-economic sub-groups in support of GBA Plus 
+an internal web survey  platform, the Interactive Fact-Finding System, was used to produce customized  surveys on four evaluations
+opportunities to integrate  administrative and survey data were explored and implemented
+
+Going forward
+The Department tentatively plans to complete 12 evaluations in fiscal year 2023 to 2024. In the years ahead, the evaluation function will  continue to:
+
+rely on a collaborative approach with policy and program  officials to provide timely evidence  to inform decisions
+support the Head of Performance Measurement towards  improving performance measurement information and providing advice to internal  stakeholders 
+incorporate innovative methods to inform the impact of programs on specific sub-groups in  support of the Department’s implementation of GBA Plus 
+engage experts to stay  abreast and adopt best practices from other jurisdictions, departments, and  disciplines 
+collaborate with evaluation practitioners to strengthen the evaluation function across government
+engage with Indigenous organizations and communities to co-develop evaluations of Indigenous programs in support  of reconciliation
+
+Introduction
+Purpose of the Plan
+This rolling 5-year Plan, required under the TBS Policy  on Results, describes all planned evaluations to be undertaken by  ESDC from April 2023 to March 2028. In addition to addressing the requirements  of the Policy on Results, the Plan is  designed to assist the Deputy Head by ensuring the availability of factual,  neutral, and timely information on the ongoing relevance and performance of the  Department’s programs and services. The information obtained  through evaluations supports evidence-based decision-making and helps inform Canadians  of departmental results. The Plan also helps ensure transparency in the  decision-making process for the evaluation function, highlighting priorities  and coverage decisions.
+The Plan is informed by an annual planning exercise that  identifies the timing of individual evaluations based on the requirements of  the Policy on Results, departmental  needs, risks, and priorities. The development and implementation of the Departmental  Evaluation Plan includes: 
+
+reviewing various  sources of information to identify all mandatory evaluations and assess  coverage of the programs 
+consulting with  program officials, key internal committees, and the TBS
+assessing risk when  determining the timing and order of future evaluations, prioritizing mandatory  evaluations and evaluations that are most likely to inform major policy and  program decisions
+validating  prioritization and securing final approval from the Deputy Head
+monitoring and  adapting to the changing departmental context and environment
+
+Annex 1 provides more information about the  Evaluation Planning Process. 
+Departmental context
+The mandate of  ESDC is to build a stronger and more inclusive Canada, to support Canadians in  helping them live productive and rewarding lives and improving Canadians’  quality of life.
+ To that end,  the Department delivers a range of over 50 programs and services that affect  Canadians throughout their lives and across the country. Programs include transfer  payments to provinces and territories and to organizations via grants and  contributions, transfer payments to individuals via statutory programs, and the  administration and enforcement of workplace legislation as well as service  delivery. 
+The Department’s  portfolio includes: (1) ESDC, (2) the Labour Program, and (3) Service Canada:
+
+ESDC delivers a range  of programs and services that assist Canadians. For instance, it provides  seniors with basic income security, supports unemployed workers while helping  them return to employment, helps students to finance their post-secondary  education and to transition to the labour market, and assists parents who are  raising young children. The Department also assists persons with disabilities  and their families
+The Labour Program fosters safe, healthy, fair,  and inclusive work environments and cooperative workplace relations in the  federal jurisdiction
+Service Canada serves  as a single point of access for some of the Government’s largest and most well-known  programs and services. This includes EI, Old Age Security (OAS), Canada Pension  Plan (CPP), the Social Insurance Number, and the Passport Program
+
+ESDC expenditures on programs and services  totalled $193 billion in fiscal year 2021 to 2022. More than 92% of the  departmental spending directly benefited  Canadians through EI, CPP, OAS, the Canada Recovery Benefits, and other statutory  payments in support of students, apprentices, and persons with disabilities.  The Department also delivered various measures to support early learning and  childcare, youth and helped Canadians to gain the foundational skills needed to  succeed in today’s economy.
+Evaluation Directorate mandate
+The Evaluation Directorate is mandated to evaluate the  relevance and performance of departmental programs, policies, initiatives, and  services. The Directorate influences policy and program design and service  delivery through rigorous analysis and evidence presented in evaluation  reports, as well as via technical reports, syntheses, and supplemental studies.  In that context, the Directorate works with program officials and senior  management on the evaluation process through an inclusive approach to  governance (Annex 2).
+The ESDC Head of Evaluation is  responsible for leading the evaluation function within the Department. Pursuant  to the 2016 Policy on Results, the ESDC Head of Evaluation has direct  and unimpeded access to the ESDC Deputy Head, when required, for the  performance of his/her responsibilities.
+The Evaluation  Directorate supports program officials at  all stages of the program and policy lifecycle: 
+
+at the initial stage, officials use  evaluations to help inform the development of new programs and policies,  including their delivery and approach to service
+during implementation, officials use  evaluation findings and recommendations to guide adjustments or program renewal 
+as a program or policy matures or winds down, officials can  use evaluations to inform lessons learned for future programs or policies
+
+Lastly, the  Directorate reports on the implementation of management response action plans.  This approach promotes a system of continuous improvement throughout the  program and policy cycle.
+Accomplishments in fiscal year 2022 to 2023
+From April 2022 to March 2023, the ESDC Performance  Measurement and Evaluation Committee (PMEC) reviewed and approved various  products, including evaluation reports. Evaluation products and services addressed  information needs in the Department and contributed to the improvement of  programs and services.
+Supporting evidence-based decisions
+Evaluation products and services influenced and  supported evidence-based decision-making. These include: 
+
+9 evaluation reports that cover diverse program and policy areas, in  addition to 4 evaluation reports on the impact and effectiveness of the LMDAs  in British Columbia, Nova Scotia, Ontario, and Saskatchewan
+73 technical reports covering 16 different programs to support  program officials
+20 technical reports on LMDAs developed in  collaboration with provinces and territories
+the review of 33 Treasury Board Submissions and 24 Memoranda to Cabinet to inform  policies and programs
+innovative approaches  and state-of-the-art techniques (for example, machine learning) in impact evaluation and cost-benefit analysis  methodologies to address policy-relevant questions 
+peer reviews for select  evaluation results and evaluation methodologies 
+
+Sharing knowledge through dissemination and  engagement
+In fiscal year 2022  to 2023, the Department continued to disseminate evaluation findings and engage  with partners inside and outside of the federal government. These activities  included sharing evaluation-related knowledge through publications, presentations,  and engagement activities, through several presentations at eight different  national and international conferences and events, including:
+
+4 presentations at the Canadian Economic Association conference and 2 presentations at  the annual congress of la Société  canadienne de science économique focusing on the innovative use of causal  machine learning to capture heterogeneity in the impact of labour market  programs and a new cost-benefit analysis method to estimate and incorporate the  change in public spending on health care due to labour market participation
+8 presentations at the Canadian Evaluation Society conference,  covering various topics, including machine learning, accessibility,  co-development approaches for Indigenous program evaluations, cost-benefit  analysis, and evaluation methodologies employed by ESDC in the last year
+a presentation to the Canadian Labour Economics Forum webinar on the innovative use of  causal machine learning to capture heterogeneous causal impacts of labour  market programs 
+a panel presentation at the 25th Metropolis Canada Conference on assessing the  Impacts of Canada’s Temporary Foreign Worker Program on the Canadian Labour  Market 
+a panel presentation organized by the Canada  School of Public Service on analyzing program and policy results using  linked data 
+
+The Department also:
+
+collaborated with the  OECD as part of their assessment of Canada's system of impact evaluation of  active labour market policies. The report was released during an OECD event in June 2022
+supported reconciliation by working with  Indigenous communities to evaluate through a co-developed model, Indigenous  programs 
+carried out evaluation activities in partnership with other federal departments and  provincial/territorial governments 
+strengthened and  broadened its network with the academic  community to explore new avenues of knowledge dissemination and collaboration 
+engaged in Federal/Provincial/Territorial discussions on the results of various studies and best practices to design and deliver  programs (for example, Labour Market Partnerships, Research, and Innovation) 
+
+The TBS is  currently reviewing the Policy on Results, which has been in  effect since 2016. The Department is supporting this review and provided  insight into it.
+Continued efforts to support the  implementation of gender-based analysis plus
+In fiscal year  2022 to 2023, the Department pursued innovative evaluation practices to better  estimate the impact of programs and disseminate results to inform decisions.  Many of these practices strengthen the use of GBA Plus. The incorporation of  GBA Plus into evaluations can help identify barriers faced by under-served and  disadvantaged populations to access programs and services, as well as data  gaps. 
+For example, a  GBA Plus exploratory evaluation study was recently completed on prominent  labour market programs using an innovative causal machine learning method to  better understand the distribution of program impacts on participants and what  works for whom. This method provides insight into how program impacts vary according  to intersecting identity factors. The study confirmed that in the presence of  high-quality data, novel machine learning methods are an effective form of  advanced causal analysis, whereby impacts can be attributed to specific  interventions for specific subgroups of participants. Going forward, the use of  machine learning and complementary qualitative methods in evaluations will be  explored to support the Department’s commitment towards GBA Plus.
+ Furthermore,  departmental efforts, led by the Chief Data Office, in close collaboration with  Statistics Canada, are paving the way for the integration of administrative  data and complementary survey data from Statistics Canada. The integration of  administrative and survey data is an important development in terms of enabling  the usage of more valuable and relevant policy analysis, research, and  evaluation activities from a GBA Plus perspective. For example, the Evaluation  of Canada Pension Plan Disability – Reassessment Element involved the integration  of data from multiple sources including program administration data, the  Canadian Survey on Disability, Canada Revenue Agency tax data, and census data.  This data integration served as the basis for the conduct of regression  analysis to inform key identify factors affecting the capacity of Canada  Pension Plan Disability beneficiaries to return to work.
+Relatedly,  data collection strategies to inform evaluations also included conducting virtual expert panels for the Evaluation  of the Enabling Accessibility Fund based on a  utilization and equity-focused approach. Three expert panels were held, each of  which focused on a theme relating to accessibility for a specific age group,  including youth, adults, and seniors. 
+In the area of  survey design, evaluations made use of an Interactive Fact-Finding System to  support at least 4 web-based survey questionnaires and data analyses carried  out in fiscal year 2022 to 2023. The Interactive Fact-Finding System enables  internal web survey platforms to be fully customizable, meet departmental web  accessibility standards, and are fully bilingual. The Department expects to  continue leveraging this internal survey platform over the coming years to  inform evaluation data collection activities.
+Evaluation coverage in fiscal year 2022 to 2023
+The Department  uses a consultative process to inform decisions on priorities, evidentiary  needs, and timing of future evaluations. This approach prioritizes mandatory  evaluations and evaluations that are most likely to inform major policy and  program decisions.
+In fiscal year  2022 to 2023, 9 planned evaluations were completed (see Table 1), including those required under the Financial Administration Act as well as  the Policy on Results.
+In addition, a  3-year summary report was prepared by the Federal Secretariat on Early Learning  and Child Care with the support of the Evaluation Directorate to outline the  results achieved under the Early Learning Child and Care Bilateral Agreements  from fiscal years 2017 to 2018 until 2019 to 2020. This report fulfills the  reporting and evaluation requirements of the 2017 Treasury Board submission. 
+In  collaboration with program officials, 6 evaluability assessments were developed  in fiscal year 2022 to 2023. These documents outline options for evaluating a  given program or service and contain information on the scope, methodology and  timing of an evaluation project. The Performance  Measurement and Evaluation Committee is responsible for reviewing and approving  these documents.
+
+Evaluation  products continued to support the Commissioners  for Employers and Workers at the Canada Employment Insurance Commission by  examining labour market issues and supporting the work of the Monitoring Report  and Advisory Committee. In collaboration with ESDC’s EI Policy Directorate, the  Evaluation Directorate carried out supplemental  studies to inform the annual EI  Monitoring and Assessment Report. 
+Consultations
+The annual consultation process for this Plan was  carried-out in November 2022 to identify key evaluation priorities, evidentiary  needs, and timing of future evaluations. Consultation participants included  program officials and stakeholders with specialized expertise (for example, the  Head of Performance Measurement, departmental research divisions, the Chief  Data Office, and Internal Audit Services).
+The 2022 consultations re-emphasized the need to:
+
+take into  consideration the capacity constraints of programs and reduce the burden of the evaluation process 
+ensure the complementarity of oversight activities
+carefully review the timing and scope of proposed  evaluations to optimize their (for example, audits) usefulness and value
+identify lessons learned from recently  introduced measures to inform future policy/program design
+leverage linkages between evaluation and  research activities to inform evaluation projects, particularly in the area of  the service delivery 
+
+Using information obtained through the consultations, the Evaluation  Directorate determined the priorities, evidentiary needs, and timing of future  evaluations.
+In addition, the consultation sessions facilitated  collaboration among different groups within the Department who are involved  with data management to increase the availability and integration of data  within the Department. The evaluation planning process also included  consultations with Treasury Board Secretariat officials. 
+Risk assessment
+Once mandatory evaluations have been scheduled, the Department  considers additional discretionary evaluations using an analysis of risk, needs  and priorities. The analysis was informed by examining: 
+
+program risks (for  example, size of the population affected or targeted by the program, knowledge  gaps with respect to the program) 
+departmental risks  identified in the Departmental Risk Profile
+internal capacity  constraints, such as the availability of staff 
+
+This multi-factor and multi-level approach ensures that  evaluators consider the perspectives of key partners and stakeholders and  internal risks. The Department considers key departmental risks, including the  Risk-Based Audit Plan. In situations where audit and evaluation schedules  overlap for the same program, the Evaluation Directorate collaborates with  Internal Audit Services to ensure the complementarity of internal  audit/evaluation activities. This provides a means of efficiently examining  performance and outcomes. 
+Evaluation operating environment
+The Plan includes an analysis of the environment in which  the Evaluation Directorate is operating. This includes the quality and  availability of program data and the impact of the operating context. 
+The importance of data management to evaluation
+Evaluations rely on performance measurement information and  other data to determine the relevance of programs and services, and whether  they deliver value for money. This also includes having access to  administrative data to improve GBA Plus for certain programs. 
+The ESDC Data Strategy, including the advancement of a  joint ESDC-Statistics Canada Data Strategy, supports the implementation of the  Departmental Evaluation Plan. The Evaluation Directorate works closely with  ESDC’s Chief Data Office to ensure alignment with the strategy and  collaboration on opportunities to maximize the ability to leverage data and  analytics for evaluation purposes.
+The Department  Head of Evaluation supports the Department Head of Performance Measurement in  the development of performance measurement  and data collection practices across the Department. In particular, ESDC evaluators  advise PMEC, the Head of Performance Measurement and program officials on the  quality of performance information in Performance  Information Profiles and its utility in supporting evaluations. The  Profiles outline the performance measurement approach for each of ESDC’s  programs. 
+There is a  need to improve access to external data sources and continuously improve data  collection and management strategies, in keeping with the principles of Open Data. Effective data management  enables improvements in policies,  programs, and service delivery. 
+Evaluation resources
+Resource allocation 
+To support  the evaluation function in fiscal year 2022 to 2023, the Department allocated  the equivalent to 66 full-time staff for a total salary cost of about $6.3  million. Note that these figures are limited to ESDC Evaluation Directorate and  do not account for resources allocated by other branches in the Department  associated with the conduct of evaluations. To meet short-term capacity  demands, the Department uses flexible staffing approaches, including hiring  students, casual employees, and external experts to fill specific capacity  gaps.
+In fiscal  year 2023 to 2024, the total Evaluation budget is forecasted to be lower compared  with fiscal year 2022 to 2023. The forecasted amount for salary expenditures  for fiscal year 2023 to 2024 is $6.1 million, and forecasted operations and  maintenance is $0.37 million. The Department will  continue to plan evaluations with a focus on new and modified programs and  services in addition to undertaking previously planned evaluations  (with priority given to evaluations having a Financial Administration Act (FAA) requirement). 
+
+Figure 1. Annual Evaluation Directorate spending in millions ($)
+
+
+Figure 1 – Text version
+
+
+
+*Fiscal years 2022 to 2023 and 2023 to 2024 amounts are projected estimates
+Going forward
+The Department tentatively plans to complete  12 evaluations in fiscal year 2023 to 2024. In the years ahead, evaluations  will continue to:
+
+rely on a collaborative approach with policy and program  officials to provide timely evidence  to inform decision-makers
+support the Head of Performance Measurement towards  improving performance measurement information and provide advice to internal  stakeholders
+incorporate innovative methods to inform the impact of programs on specific sub-groups in  support of the Department’s implementation of GBA Plus 
+engage experts to stay  abreast and adopt best practices from other jurisdictions, departments, and  disciplines 
+collaborate with evaluation practitioners to strengthen the evaluation function across government
+engage with Indigenous organizations and communities to co-develop evaluations of Indigenous programs in support  of reconciliation
+
+Furthermore,  the scope of several upcoming evaluations will examine temporary changes to  programs brought forward considering COVID-19. This includes planned  evaluations led by ESDC of the Work-Sharing Program and the Youth Employment  and Skills Strategy that are scheduled for completion by fiscal years 2023 to  2024 and 2024 to 2025, respectively. 
+This document provides a planned evaluation coverage table  in Annex 3. The table demonstrates that the Department will meet  coverage requirements mandated by the TBS, the Policy on Results, and the Financial Administration Act. This is in addition to completing  discretionary evaluations designated as a priority by the Department. Given  the scale and unique objectives of each EI benefit, the EI program will be  subject to more than one evaluation from fiscal years 2023 to 2024 until 2027  to 2028. 
+Planned  evaluation coverage from fiscal year 2023 to 2024 to fiscal year 2027 to 2028  might be subject to change, given the announcement of a cross-government  program effectiveness review to examine skills training and youth programming.  This review will determine whether improvements can be made to help more  Canadians develop the skills and receive the work experience they need to have  successful careers.
+Programs of grants and contributions that do not have a 5-year  average actual expenditure of $5 million or greater per year are not required  to be evaluated every 5 years. These programs include: 
+
+Canadian Benefit for  Parents of Young Victims of Crime
+Sustainable  Development Goals Funding Program
+Skilled Trades and  Apprenticeship Program (Red Seal Program)
+Accessible Canada  Initiative
+Strategic Engagement  and Research Program
+
+Programs that are temporary are not required to be evaluated  but may be subject to other reviews. These programs include:
+
+Canada Emergency  Response Benefit (CERB)
+Canada Recovery  Benefits
+Community Workforce  Development Program
+Apprenticeship Service
+
+As per the Directive on Transfer Payments, the Black-led  Philanthropic Endowment Fund is required to conduct an independent evaluation. 
+Neutral Assessment
+The 2016 Policy on  Results requires Deputy Heads to be responsible for ensuring that a neutral  assessment of the evaluation function is conducted at least once every 5 years.
+ The last neutral assessment of the ESDC evaluation function  was conducted in April 2018. It found overall conformance of ESDC’s evaluation  function with the Policy on Results.  The 2023 neutral assessment for the Department’s Evaluation function is  underway by an external contractor. The assessment has three areas of focus: 1)  assessing the governance function; 2) evaluating professional practices; and 3)  monitoring and performance reporting of the evaluation function.
+Annex 1 – Evaluation planning process 
+Overview of ESDC Evaluation Planning Cycle
+The ESDC evaluation planning cycle is an  inclusive approach to planning and governance that is compliant with Treasury  Board of Canada Secretariat (TBS) requirements.
+The ESDC Evaluation Directorate constantly  collects and analyzes facts informing the Departmental Evaluation Plan while  collaborating and sharing knowledge with key internal/external partners to  reflect the continuous planning cycle. This cycle composes of 5 areas, which  are outlined below.
+1. Gather information to  understand the evaluation environment
+Factors include:
+
+Departmental mandate, programs       spending, and priorities
+Mandate Letters
+Most recent Budget
+Departmental Results Framework
+Departmental Risk Profile
+Financial Administration       Act and TBS submission       requirements
+Available evaluation resources
+Challenges and opportunities       (for example, data availability/quality, Audit Services Plan)
+
+2. Consult/engage to understand  partner needs and concerns
+Key partners include:
+
+Department’s senior management
+Program management staff
+Central Agencies
+ESDC Internal Audit Services
+Chief Data Officer
+Head of Performance Measurement
+Department's Research Divisions
+Other departments/agencies
+Working/oversight committees
+
+3. Analyze to balance the needs,  resources and mandatory requirements
+Prioritization of evaluation projects that  keep in mind:
+
+Mandatory requirements       according to the Financial Administration Act and       the Policy on Results
+made in Submissions to the TBS,       Memoranda to Cabinet and other legislative requirements
+Departmental risks, priorities,       needs and concerns
+Program-specific risks
+Audit Services projects (and       other oversight functions)
+Balance of efforts and       available resources
+
+4. Get approval* to validate  prioritization
+Key partners include:
+
+Departmental senior management
+ESDC Internal Audit Services
+Chief Data Officer
+Head of Performance Measurement
+Department’s research functions
+Performance Measurement and       Evaluation Committee
+
+*The Deputy Head provides final approval
+5. Communicate, implement and  monitor to ensure transparency
+Necessary actions to communicate and adapt to  the changing environment include:
+
+Share the plan with TBS
+Make the plan publicly       available
+Monitor progress and adjust       priorities, scope, and timing, if necessary
+Administer a questionnaire to       program officials following evaluations to measure the performance of the       Evaluation Directorate
+Report on completed evaluations       in the subsequent plan
+Annex 2 – Evaluation governance
+Performance Measurement and Evaluation Committee
+Composed of  senior-level ESDC partners, including the Head of Evaluation.
+
+Approves the  Departmental Evaluation Plan
+Reviews evaluation  reports, including management responses
+Approves Evaluability  Assessments and Evaluation Strategies
+Discusses follow-up on  action plans
+
+Evaluation Advisory Committee
+Composed of stakeholders  from across ESDC and/or other departments and agencies such as TBS Program Sector  and Finance Canada (Director-General level and below).
+
+Identifies options for  evaluation scope
+Discusses preliminary  findings
+Provides input for the  final report
+
+Evaluation working group
+Composed of partners  from across ESDC (Director-level and below).
+
+Focuses on technical  aspects
+Performs data  collection and analysis
+Provides input for the  preliminary report
+Executive summary
+As per the  Treasury Board of Canada Secretariat (TBS) Policy  on Results, Employment and Social Development Canada (ESDC) must develop  and publish an annual 5-year departmental evaluation plan. Informed by an annual consultative  planning exercise and building on last year’s accomplishments, this plan  targets the evaluation coverage of ESDC’s program spending for fiscal years 2023  to 2024 until 2027 to 2028, with a focus on departmental needs, risks, and  priorities.
+In fiscal year 2022 to 2023, ESDC evaluations  continued to play an important role in the results agenda by examining the  relevance and performance of departmental programs, policies, and services. The Department also  continued to develop innovative approaches, including those that support the  Government of Canada’s commitment to Gender-based Analysis (GBA) Plus and  reconciliation with Indigenous peoples in both quantitative and qualitative  evaluation design.
+Key accomplishments in fiscal year 2022 to 2023
+Supporting evidence-based  decisions through evaluation products and services:
+9 evaluation reports and 73 technical reports were completed to support programs  and the Employment Insurance (EI) Commissioners for Employers and Workers at the Canada Employment Insurance Commission 
+collaboration  with provinces and territories produced 5 evaluation reports, and 20 technical reports on Labour  Market Development Agreements (LMDAs)
+33 Treasury Board Submissions and 24 Memoranda to Cabinet were reviewed and  completed
+in collaboration with the Organization for Economic Co-operation and Development  (OECD), the system that Canada has put in place for impact assessment of its active labour market policies was evaluated
+Advancing innovative evaluation approaches  and gender-based analysis plus:
+introduced causal machine  learning methods to better capture program impacts across various  socio-economic sub-groups in support of GBA Plus 
+an internal web survey  platform, the Interactive Fact-Finding System, was used to produce customized  surveys on four evaluations
+opportunities to integrate  administrative and survey data were explored and implemented
+Going forward
+The Department tentatively plans to complete 12 evaluations in fiscal year 2023 to 2024. In the years ahead, the evaluation function will  continue to:
+rely on a collaborative approach with policy and program  officials to provide timely evidence  to inform decisions
+support the Head of Performance Measurement towards  improving performance measurement information and providing advice to internal  stakeholders 
+incorporate innovative methods to inform the impact of programs on specific sub-groups in  support of the Department’s implementation of GBA Plus 
+engage experts to stay  abreast and adopt best practices from other jurisdictions, departments, and  disciplines 
+collaborate with evaluation practitioners to strengthen the evaluation function across government
+engage with Indigenous organizations and communities to co-develop evaluations of Indigenous programs in support  of reconciliation
+Introduction
+Purpose of the Plan
+This rolling 5-year Plan, required under the TBS Policy  on Results, describes all planned evaluations to be undertaken by  ESDC from April 2023 to March 2028. In addition to addressing the requirements  of the Policy on Results, the Plan is  designed to assist the Deputy Head by ensuring the availability of factual,  neutral, and timely information on the ongoing relevance and performance of the  Department’s programs and services. The information obtained  through evaluations supports evidence-based decision-making and helps inform Canadians  of departmental results. The Plan also helps ensure transparency in the  decision-making process for the evaluation function, highlighting priorities  and coverage decisions.
+The Plan is informed by an annual planning exercise that  identifies the timing of individual evaluations based on the requirements of  the Policy on Results, departmental  needs, risks, and priorities. The development and implementation of the Departmental  Evaluation Plan includes:
+reviewing various  sources of information to identify all mandatory evaluations and assess  coverage of the programs 
+consulting with  program officials, key internal committees, and the TBS
+assessing risk when  determining the timing and order of future evaluations, prioritizing mandatory  evaluations and evaluations that are most likely to inform major policy and  program decisions
+validating  prioritization and securing final approval from the Deputy Head
+monitoring and  adapting to the changing departmental context and environment
+Annex 1 provides more information about the  Evaluation Planning Process.
+Departmental context
+The mandate of  ESDC is to build a stronger and more inclusive Canada, to support Canadians in  helping them live productive and rewarding lives and improving Canadians’  quality of life.
+To that end,  the Department delivers a range of over 50 programs and services that affect  Canadians throughout their lives and across the country. Programs include transfer  payments to provinces and territories and to organizations via grants and  contributions, transfer payments to individuals via statutory programs, and the  administration and enforcement of workplace legislation as well as service  delivery.
+The Department’s  portfolio includes: (1) ESDC, (2) the Labour Program, and (3) Service Canada:
+ESDC delivers a range  of programs and services that assist Canadians. For instance, it provides  seniors with basic income security, supports unemployed workers while helping  them return to employment, helps students to finance their post-secondary  education and to transition to the labour market, and assists parents who are  raising young children. The Department also assists persons with disabilities  and their families
+The Labour Program fosters safe, healthy, fair,  and inclusive work environments and cooperative workplace relations in the  federal jurisdiction
+Service Canada serves  as a single point of access for some of the Government’s largest and most well-known  programs and services. This includes EI, Old Age Security (OAS), Canada Pension  Plan (CPP), the Social Insurance Number, and the Passport Program
+ESDC expenditures on programs and services  totalled $193 billion in fiscal year 2021 to 2022. More than 92% of the  departmental spending directly benefited  Canadians through EI, CPP, OAS, the Canada Recovery Benefits, and other statutory  payments in support of students, apprentices, and persons with disabilities.  The Department also delivered various measures to support early learning and  childcare, youth and helped Canadians to gain the foundational skills needed to  succeed in today’s economy.
+Evaluation Directorate mandate
+The Evaluation Directorate is mandated to evaluate the  relevance and performance of departmental programs, policies, initiatives, and  services. The Directorate influences policy and program design and service  delivery through rigorous analysis and evidence presented in evaluation  reports, as well as via technical reports, syntheses, and supplemental studies.  In that context, the Directorate works with program officials and senior  management on the evaluation process through an inclusive approach to  governance (Annex 2).
+The ESDC Head of Evaluation is  responsible for leading the evaluation function within the Department. Pursuant  to the 2016 Policy on Results, the ESDC Head of Evaluation has direct  and unimpeded access to the ESDC Deputy Head, when required, for the  performance of his/her responsibilities.
+The Evaluation  Directorate supports program officials at  all stages of the program and policy lifecycle:
+at the initial stage, officials use  evaluations to help inform the development of new programs and policies,  including their delivery and approach to service
+during implementation, officials use  evaluation findings and recommendations to guide adjustments or program renewal 
+as a program or policy matures or winds down, officials can  use evaluations to inform lessons learned for future programs or policies
+Lastly, the  Directorate reports on the implementation of management response action plans.  This approach promotes a system of continuous improvement throughout the  program and policy cycle.
+Accomplishments in fiscal year 2022 to 2023
+From April 2022 to March 2023, the ESDC Performance  Measurement and Evaluation Committee (PMEC) reviewed and approved various  products, including evaluation reports. Evaluation products and services addressed  information needs in the Department and contributed to the improvement of  programs and services.
+Supporting evidence-based decisions
+Evaluation products and services influenced and  supported evidence-based decision-making. These include:
+9 evaluation reports that cover diverse program and policy areas, in  addition to 4 evaluation reports on the impact and effectiveness of the LMDAs  in British Columbia, Nova Scotia, Ontario, and Saskatchewan
+73 technical reports covering 16 different programs to support  program officials
+20 technical reports on LMDAs developed in  collaboration with provinces and territories
+the review of 33 Treasury Board Submissions and 24 Memoranda to Cabinet to inform  policies and programs
+innovative approaches  and state-of-the-art techniques (for example, machine learning) in impact evaluation and cost-benefit analysis  methodologies to address policy-relevant questions 
+peer reviews for select  evaluation results and evaluation methodologies
+Sharing knowledge through dissemination and  engagement
+In fiscal year 2022  to 2023, the Department continued to disseminate evaluation findings and engage  with partners inside and outside of the federal government. These activities  included sharing evaluation-related knowledge through publications, presentations,  and engagement activities, through several presentations at eight different  national and international conferences and events, including:
+4 presentations at the Canadian Economic Association conference and 2 presentations at  the annual congress of la Société  canadienne de science économique focusing on the innovative use of causal  machine learning to capture heterogeneity in the impact of labour market  programs and a new cost-benefit analysis method to estimate and incorporate the  change in public spending on health care due to labour market participation
+8 presentations at the Canadian Evaluation Society conference,  covering various topics, including machine learning, accessibility,  co-development approaches for Indigenous program evaluations, cost-benefit  analysis, and evaluation methodologies employed by ESDC in the last year
+a presentation to the Canadian Labour Economics Forum webinar on the innovative use of  causal machine learning to capture heterogeneous causal impacts of labour  market programs 
+a panel presentation at the 25th Metropolis Canada Conference on assessing the  Impacts of Canada’s Temporary Foreign Worker Program on the Canadian Labour  Market 
+a panel presentation organized by the Canada  School of Public Service on analyzing program and policy results using  linked data
+The Department also:
+collaborated with the  OECD as part of their assessment of Canada's system of impact evaluation of  active labour market policies. The report was released during an OECD event in June 2022
+supported reconciliation by working with  Indigenous communities to evaluate through a co-developed model, Indigenous  programs 
+carried out evaluation activities in partnership with other federal departments and  provincial/territorial governments 
+strengthened and  broadened its network with the academic  community to explore new avenues of knowledge dissemination and collaboration 
+engaged in Federal/Provincial/Territorial discussions on the results of various studies and best practices to design and deliver  programs (for example, Labour Market Partnerships, Research, and Innovation)
+The TBS is  currently reviewing the Policy on Results, which has been in  effect since 2016. The Department is supporting this review and provided  insight into it.
+Continued efforts to support the  implementation of gender-based analysis plus
+In fiscal year  2022 to 2023, the Department pursued innovative evaluation practices to better  estimate the impact of programs and disseminate results to inform decisions.  Many of these practices strengthen the use of GBA Plus. The incorporation of  GBA Plus into evaluations can help identify barriers faced by under-served and  disadvantaged populations to access programs and services, as well as data  gaps.
+For example, a  GBA Plus exploratory evaluation study was recently completed on prominent  labour market programs using an innovative causal machine learning method to  better understand the distribution of program impacts on participants and what  works for whom. This method provides insight into how program impacts vary according  to intersecting identity factors. The study confirmed that in the presence of  high-quality data, novel machine learning methods are an effective form of  advanced causal analysis, whereby impacts can be attributed to specific  interventions for specific subgroups of participants. Going forward, the use of  machine learning and complementary qualitative methods in evaluations will be  explored to support the Department’s commitment towards GBA Plus.
+Furthermore,  departmental efforts, led by the Chief Data Office, in close collaboration with  Statistics Canada, are paving the way for the integration of administrative  data and complementary survey data from Statistics Canada. The integration of  administrative and survey data is an important development in terms of enabling  the usage of more valuable and relevant policy analysis, research, and  evaluation activities from a GBA Plus perspective. For example, the Evaluation  of Canada Pension Plan Disability – Reassessment Element involved the integration  of data from multiple sources including program administration data, the  Canadian Survey on Disability, Canada Revenue Agency tax data, and census data.  This data integration served as the basis for the conduct of regression  analysis to inform key identify factors affecting the capacity of Canada  Pension Plan Disability beneficiaries to return to work.
+Relatedly,  data collection strategies to inform evaluations also included conducting virtual expert panels for the Evaluation  of the Enabling Accessibility Fund based on a  utilization and equity-focused approach. Three expert panels were held, each of  which focused on a theme relating to accessibility for a specific age group,  including youth, adults, and seniors.
+In the area of  survey design, evaluations made use of an Interactive Fact-Finding System to  support at least 4 web-based survey questionnaires and data analyses carried  out in fiscal year 2022 to 2023. The Interactive Fact-Finding System enables  internal web survey platforms to be fully customizable, meet departmental web  accessibility standards, and are fully bilingual. The Department expects to  continue leveraging this internal survey platform over the coming years to  inform evaluation data collection activities.
+Evaluation coverage in fiscal year 2022 to 2023
+The Department  uses a consultative process to inform decisions on priorities, evidentiary  needs, and timing of future evaluations. This approach prioritizes mandatory  evaluations and evaluations that are most likely to inform major policy and  program decisions.
+In fiscal year  2022 to 2023, 9 planned evaluations were completed (see Table 1), including those required under the Financial Administration Act as well as  the Policy on Results.
+In addition, a  3-year summary report was prepared by the Federal Secretariat on Early Learning  and Child Care with the support of the Evaluation Directorate to outline the  results achieved under the Early Learning Child and Care Bilateral Agreements  from fiscal years 2017 to 2018 until 2019 to 2020. This report fulfills the  reporting and evaluation requirements of the 2017 Treasury Board submission.
+In  collaboration with program officials, 6 evaluability assessments were developed  in fiscal year 2022 to 2023. These documents outline options for evaluating a  given program or service and contain information on the scope, methodology and  timing of an evaluation project. The Performance  Measurement and Evaluation Committee is responsible for reviewing and approving  these documents.
+Evaluation  products continued to support the Commissioners  for Employers and Workers at the Canada Employment Insurance Commission by  examining labour market issues and supporting the work of the Monitoring Report  and Advisory Committee. In collaboration with ESDC’s EI Policy Directorate, the  Evaluation Directorate carried out supplemental  studies to inform the annual EI  Monitoring and Assessment Report.
+Consultations
+The annual consultation process for this Plan was  carried-out in November 2022 to identify key evaluation priorities, evidentiary  needs, and timing of future evaluations. Consultation participants included  program officials and stakeholders with specialized expertise (for example, the  Head of Performance Measurement, departmental research divisions, the Chief  Data Office, and Internal Audit Services).
+The 2022 consultations re-emphasized the need to:
+take into  consideration the capacity constraints of programs and reduce the burden of the evaluation process 
+ensure the complementarity of oversight activities
+carefully review the timing and scope of proposed  evaluations to optimize their (for example, audits) usefulness and value
+identify lessons learned from recently  introduced measures to inform future policy/program design
+leverage linkages between evaluation and  research activities to inform evaluation projects, particularly in the area of  the service delivery
+Using information obtained through the consultations, the Evaluation  Directorate determined the priorities, evidentiary needs, and timing of future  evaluations.
+In addition, the consultation sessions facilitated  collaboration among different groups within the Department who are involved  with data management to increase the availability and integration of data  within the Department. The evaluation planning process also included  consultations with Treasury Board Secretariat officials.
+Risk assessment
+Once mandatory evaluations have been scheduled, the Department  considers additional discretionary evaluations using an analysis of risk, needs  and priorities. The analysis was informed by examining:
+program risks (for  example, size of the population affected or targeted by the program, knowledge  gaps with respect to the program) 
+departmental risks  identified in the Departmental Risk Profile
+internal capacity  constraints, such as the availability of staff
+This multi-factor and multi-level approach ensures that  evaluators consider the perspectives of key partners and stakeholders and  internal risks. The Department considers key departmental risks, including the  Risk-Based Audit Plan. In situations where audit and evaluation schedules  overlap for the same program, the Evaluation Directorate collaborates with  Internal Audit Services to ensure the complementarity of internal  audit/evaluation activities. This provides a means of efficiently examining  performance and outcomes.
+Evaluation operating environment
+The Plan includes an analysis of the environment in which  the Evaluation Directorate is operating. This includes the quality and  availability of program data and the impact of the operating context.
+The importance of data management to evaluation
+Evaluations rely on performance measurement information and  other data to determine the relevance of programs and services, and whether  they deliver value for money. This also includes having access to  administrative data to improve GBA Plus for certain programs.
+The ESDC Data Strategy, including the advancement of a  joint ESDC-Statistics Canada Data Strategy, supports the implementation of the  Departmental Evaluation Plan. The Evaluation Directorate works closely with  ESDC’s Chief Data Office to ensure alignment with the strategy and  collaboration on opportunities to maximize the ability to leverage data and  analytics for evaluation purposes.
+The Department  Head of Evaluation supports the Department Head of Performance Measurement in  the development of performance measurement  and data collection practices across the Department. In particular, ESDC evaluators  advise PMEC, the Head of Performance Measurement and program officials on the  quality of performance information in Performance  Information Profiles and its utility in supporting evaluations. The  Profiles outline the performance measurement approach for each of ESDC’s  programs.
+There is a  need to improve access to external data sources and continuously improve data  collection and management strategies, in keeping with the principles of Open Data. Effective data management  enables improvements in policies,  programs, and service delivery.
+Evaluation resources
+Resource allocation
+To support  the evaluation function in fiscal year 2022 to 2023, the Department allocated  the equivalent to 66 full-time staff for a total salary cost of about $6.3  million. Note that these figures are limited to ESDC Evaluation Directorate and  do not account for resources allocated by other branches in the Department  associated with the conduct of evaluations. To meet short-term capacity  demands, the Department uses flexible staffing approaches, including hiring  students, casual employees, and external experts to fill specific capacity  gaps.
+In fiscal  year 2023 to 2024, the total Evaluation budget is forecasted to be lower compared  with fiscal year 2022 to 2023. The forecasted amount for salary expenditures  for fiscal year 2023 to 2024 is $6.1 million, and forecasted operations and  maintenance is $0.37 million. The Department will  continue to plan evaluations with a focus on new and modified programs and  services in addition to undertaking previously planned evaluations  (with priority given to evaluations having a Financial Administration Act (FAA) requirement).
+Figure 1. Annual Evaluation Directorate spending in millions ($)
+
+
+Figure 1 – Text version
+*Fiscal years 2022 to 2023 and 2023 to 2024 amounts are projected estimates
+Going forward
+The Department tentatively plans to complete  12 evaluations in fiscal year 2023 to 2024. In the years ahead, evaluations  will continue to:
+rely on a collaborative approach with policy and program  officials to provide timely evidence  to inform decision-makers
+support the Head of Performance Measurement towards  improving performance measurement information and provide advice to internal  stakeholders
+incorporate innovative methods to inform the impact of programs on specific sub-groups in  support of the Department’s implementation of GBA Plus 
+engage experts to stay  abreast and adopt best practices from other jurisdictions, departments, and  disciplines 
+collaborate with evaluation practitioners to strengthen the evaluation function across government
+engage with Indigenous organizations and communities to co-develop evaluations of Indigenous programs in support  of reconciliation
+Furthermore,  the scope of several upcoming evaluations will examine temporary changes to  programs brought forward considering COVID-19. This includes planned  evaluations led by ESDC of the Work-Sharing Program and the Youth Employment  and Skills Strategy that are scheduled for completion by fiscal years 2023 to  2024 and 2024 to 2025, respectively.
+This document provides a planned evaluation coverage table  in Annex 3. The table demonstrates that the Department will meet  coverage requirements mandated by the TBS, the Policy on Results, and the Financial Administration Act. This is in addition to completing  discretionary evaluations designated as a priority by the Department. Given  the scale and unique objectives of each EI benefit, the EI program will be  subject to more than one evaluation from fiscal years 2023 to 2024 until 2027  to 2028.
+Planned  evaluation coverage from fiscal year 2023 to 2024 to fiscal year 2027 to 2028  might be subject to change, given the announcement of a cross-government  program effectiveness review to examine skills training and youth programming.  This review will determine whether improvements can be made to help more  Canadians develop the skills and receive the work experience they need to have  successful careers.
+Programs of grants and contributions that do not have a 5-year  average actual expenditure of $5 million or greater per year are not required  to be evaluated every 5 years. These programs include:
+Canadian Benefit for  Parents of Young Victims of Crime
+Sustainable  Development Goals Funding Program
+Skilled Trades and  Apprenticeship Program (Red Seal Program)
+Accessible Canada  Initiative
+Strategic Engagement  and Research Program
+Programs that are temporary are not required to be evaluated  but may be subject to other reviews. These programs include:
+Canada Emergency  Response Benefit (CERB)
+Canada Recovery  Benefits
+Community Workforce  Development Program
+Apprenticeship Service
+As per the Directive on Transfer Payments, the Black-led  Philanthropic Endowment Fund is required to conduct an independent evaluation.
+Neutral Assessment
+The 2016 Policy on  Results requires Deputy Heads to be responsible for ensuring that a neutral  assessment of the evaluation function is conducted at least once every 5 years.
+The last neutral assessment of the ESDC evaluation function  was conducted in April 2018. It found overall conformance of ESDC’s evaluation  function with the Policy on Results.  The 2023 neutral assessment for the Department’s Evaluation function is  underway by an external contractor. The assessment has three areas of focus: 1)  assessing the governance function; 2) evaluating professional practices; and 3)  monitoring and performance reporting of the evaluation function.
+Annex 1 – Evaluation planning process
+Overview of ESDC Evaluation Planning Cycle
+The ESDC evaluation planning cycle is an  inclusive approach to planning and governance that is compliant with Treasury  Board of Canada Secretariat (TBS) requirements.
+The ESDC Evaluation Directorate constantly  collects and analyzes facts informing the Departmental Evaluation Plan while  collaborating and sharing knowledge with key internal/external partners to  reflect the continuous planning cycle. This cycle composes of 5 areas, which  are outlined below.
+1. Gather information to  understand the evaluation environment
+Factors include:
+Departmental mandate, programs       spending, and priorities
+Mandate Letters
+Most recent Budget
+Departmental Results Framework
+Departmental Risk Profile
+Financial Administration       Act and TBS submission       requirements
+Available evaluation resources
+Challenges and opportunities       (for example, data availability/quality, Audit Services Plan)
+2. Consult/engage to understand  partner needs and concerns
+Key partners include:
+Department’s senior management
+Program management staff
+Central Agencies
+ESDC Internal Audit Services
+Chief Data Officer
+Head of Performance Measurement
+Department's Research Divisions
+Other departments/agencies
+Working/oversight committees
+3. Analyze to balance the needs,  resources and mandatory requirements
+Prioritization of evaluation projects that  keep in mind:
+Mandatory requirements       according to the Financial Administration Act and       the Policy on Results
+made in Submissions to the TBS,       Memoranda to Cabinet and other legislative requirements
+Departmental risks, priorities,       needs and concerns
+Program-specific risks
+Audit Services projects (and       other oversight functions)
+Balance of efforts and       available resources
+4. Get approval* to validate  prioritization
+Key partners include:
+Departmental senior management
+ESDC Internal Audit Services
+Chief Data Officer
+Head of Performance Measurement
+Department’s research functions
+Performance Measurement and       Evaluation Committee
+*The Deputy Head provides final approval
+5. Communicate, implement and  monitor to ensure transparency
+Necessary actions to communicate and adapt to  the changing environment include:
+Share the plan with TBS
+Make the plan publicly       available
+Monitor progress and adjust       priorities, scope, and timing, if necessary
+Administer a questionnaire to       program officials following evaluations to measure the performance of the       Evaluation Directorate
+Report on completed evaluations       in the subsequent plan
+Annex 2 – Evaluation governance
+Performance Measurement and Evaluation Committee
+Composed of  senior-level ESDC partners, including the Head of Evaluation.
+Approves the  Departmental Evaluation Plan
+Reviews evaluation  reports, including management responses
+Approves Evaluability  Assessments and Evaluation Strategies
+Discusses follow-up on  action plans
+Evaluation Advisory Committee
+Composed of stakeholders  from across ESDC and/or other departments and agencies such as TBS Program Sector  and Finance Canada (Director-General level and below).
+Identifies options for  evaluation scope
+Discusses preliminary  findings
+Provides input for the  final report
+Evaluation working group
+Composed of partners  from across ESDC (Director-level and below).
+Focuses on technical  aspects
+Performs data  collection and analysis
+Provides input for the  preliminary report
+Annex 3 – Planned evaluation coverage from fiscal  years 2023 to 2024 until 2027 to 2028

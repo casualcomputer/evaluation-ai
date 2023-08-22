@@ -1,0 +1,109 @@
+Agreement Concerning the Exchange of Information Regarding Taxes and Other Duties with Revenu Québec
+Final Report
+Audit, Evaluation, and Risk Branch
+August 2013
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+Conclusion
+Executive Summary
+Background
+The Canada Revenue Agency (CRA) enters into written collaborative arrangements (WCAs), such as Memoranda of Understanding (MOUs), with various federal, provincial and territorial departments and agencies to improve efficiency and effectiveness in program delivery. Where there is an exchange of confidential information with these entities, the CRA ensures that the agreements contain the language necessary to make both parties aware of, and respect legal and policy requirements related to the use and security of this information.
+In order to ensure that these provisions are respected by both parties, the MOUs include a clause requiring that internal audits be conducted on the use and security of the information provided. In this specific MOU, it stipulates that each of the parties shall conduct, within two years of signing the MOU, audits on the protection of information obtained from the other party. Subsequent audits shall be conducted on the dates agreed to by those responsible for applying the MOU, based on the results of the previous audit.
+This audit focused on protected information received by the CRA under the Agreement Concerning the Exchange of Information Regarding Taxes and Other Duties between the CRA, the Minister of Revenu Québec and the Minister responsible for Canadian Intergovernmental Affairs and the Reform of Democratic Institutions (Agreement).
+The Client Relations Directorate within the Strategy and Integration Branch (SIB) directs and coordinates internal and external client relations by providing support to the branches and regions for all agreements signed with the CRA’s partners.
+The branches involved in the majority of information requests for this specific MOU are: Assessment and Benefit Services, Compliance Programs, and Taxpayer Services and Debt Management. In addition, the operational activities are conducted in the Tax Services Offices and Tax Centres within the Quebec Region.
+Objective
+The objective of the audit was to provide assurance that the CRA is in compliance with the conditions governing the use, communication, storage and destruction of information received from Revenu Québec.
+Conclusion
+Overall, CRA is in compliance with the conditions governing the use, disclosure, storage and disposal of information received from Revenu Québec. However, there are certain opportunities for improvement to better equip employees and management with the guidance and tools they require when exchanging information with Revenu Québec.
+The roles and responsibilities for employees and management involved in receiving information from Revenu Québec should be better defined. In addition, there is a need to develop procedures, update the training session and provide this training on a more frequent basis.
+Action Plan
+The SIB and the Director of Tax Programs in the Quebec Region have provided action plans to address the recommendations. These action plans include ensuring management’s roles and responsibilities are clearly defined and communicated as well as updating training material and providing training sessions to liaison officers.
+Introduction
+The Canada Revenue Agency (CRA) enters into written collaborative arrangements (WCAs), such as Memoranda of Understanding (MOUs), with various federal, provincial and territorial departments and agencies to improve efficiency and effectiveness in program delivery.
+In order to ensure that these provisions are respected by both parties, the MOUs include a clause requiring that internal audits be conducted on the use and security of the information provided. In this specific MOU, it stipulates that each of the parties shall conduct, within two years of signing the MOU, audits on the protection of information obtained from the other party. Subsequent audits shall be conducted on the dates agreed to by those responsible for applying the MOU, based on the results of the previous audit.
+On December 21, 2009, the Agreement Concerning the Exchange of Information Regarding Taxes and Other Duties between the CRA and the Minister of Revenu Québec and the Minister responsible for Canadian Intergovernmental Affairs and the Reform of Democratic Institutions, was signed.
+The purposes of this agreement are:
+to increase cooperation between the parties with regard to the application and enforcement of their respective tax laws through a concerted and efficient exchange of taxpayer information that is of mutual interest;
+to allow and to facilitate implementation of concerted processes for work planning and organization; and
+to set out the conditions and terms for the exchange of information and, in considering their confidential nature pursuant to the
+Income Tax Act
+(ITA) and the
+Act respecting the Ministère du Revenu
+(AMR), to state the applicable protection obligations.
+The Client Relations Directorate within the Strategy and Integration Branch (SIB) is responsible for managing all the WCAs and maintains a repository to assist CRA employees in the communication and exchange of information and service arrangements.
+The branches involved in the majority of information requests for this MOU are: Assessment and Benefit Services, Compliance Programs (CPB), and Taxpayer Services and Debt Management (TSDMB). In addition, the operational activities are conducted in the Tax Services Offices (TSO) and Tax Centres (TC) within the Quebec Region.
+Information from Revenu Québec can be received in paper format, electronically or by telephone and on a monthly, quarterly, or an ongoing basis. On some occasions, information is also exchanged upon request.
+Focus of the Audit
+The objective of the audit was to provide assurance that the CRA is in compliance with the conditions governing the use, communication, storage and destruction of information received from Revenu Québec.
+The examination phase of the audit was conducted from May 2012 to May 2013. Interviews and documentation review were conducted in TSDMB (Accounts Receivable Directorate), CPB (International and Large Business and Small and Medium Enterprises Directorates), as well as the Jonquiere TC and Montreal and Laval TSOs.
+This audit was conducted in accordance with the International Standards for the Professional Practice of Internal Auditing.
+Findings, recommendations and action plans
+1.0 Use and Communication of Information
+Governance
+In the Quebec Region, information is mainly provided by Revenu Québec in paper format or by telephone. At the branch level, information is mostly provided electronically for bulk data (For example: TP1 data, Corporation lists, Parental Insurance).
+Pursuant to section 6 of the MOU, managers in the Quebec Region are responsible for designating personnel (there are approximately 300 liaison officers) authorizing them to send and receive information from Revenu Québec. Appendix C of the MOU sets out the terms and conditions for this delegation. These appointed personnel, called liaison officers, are authorized to carry out transactions in order to send and receive information. A liaison officer can exchange information orally or in writing with the other party to clarify or complete information that has been provided to that party in accordance with the MOU.
+Most employees members interviewed indicated that when there is a need for information from Revenu Québec, they were familiar with the guidelines required to contact the applicable liaison officer. These liaison officers were aware of and utilized the list of authorized persons to exchange information prior to contacting their counterparts at Revenu Québec. Managers in the Quebec Region advised internal audit that they rely on their liaison officers to ensure that information is exchanged appropriately.
+One of the areas visited by internal audit was the Quebec Referrals Program. This program is mandated to make adjustments, as needed, following assessments issued by Revenu Québec. It was noted that they have procedures in place with respect to the adjustments workflow. Management is responsible, and have procedures in place, for controlling and monitoring these activities. They have established a reporting system to assist in the tracking of information received from Revenu Québec. Guidelines also exist for the archiving, disposal as well as retention periods for the information received.
+The role of management is to provide guidance and direction to the employees handling information received by Revenu Québec. However, with the exception of the Quebec Referrals Program, management’s role with respect to the exchange of information is not clearly defined. Internal audit found a lack of specific controls or procedures detailing management’s responsibilities.
+In addition, the MOU provides guidelines for the processing and use of the information received. Based on interviews and documentation review, internal audit found a lack of work procedures for the exchange of information in the areas visited, with the exception of the Quebec Referrals Program.
+Various appendices in the MOU relate to the communication of information. For example, Appendix A lists the types of documents and schedule (frequency) of information sent by CRA whereas Appendix B lists the types of documents and schedule (frequency) of information received from Revenu Québec. In addition to the frequency, Appendix B contains a line item for each branch, including the type of documents or files that can be received, and the work section responsible at Revenu Québec. However, the audit found that employees were not familiar with this Appendix or even the Agreement itself.
+In order to maintain performance in the work of liaison officers, internal audit was advised that a regional committee for federal and provincial exchanges was created in June 2012. This committee consists of one or two representatives (employees) from the various areas in TSOs and TCs within the Quebec Region in order to encourage horizontality and the sharing of best practices. The committee meets monthly by conference call and is led by the Quebec Affairs and Consumption Taxes Division within SIB in Headquarters.
+Although this committee is a communication tool for employees directly involved in the exchange of information, there is a lack of communication involving management within field offices and branches to monitor the exchange of information.
+Recommendation
+The SIB should review the roles and responsibilities of management for exchanges of information (paper/telephone/electronic).
+The SIB should consult the Quebec Region and Branches in order to define the level of involvement of CRA managers and to consider specific controls regarding the exchange of information.
+In accordance with the new guidelines for written collaborative arrangements, the SIB should recommend that the Quebec Region and CRA branches appoint employees responsible for carrying out the terms and conditions of the Agreement as well as its annexes and appendices.
+Action Plan
+The Director of Tax Programs in the Quebec Region, in collaboration with SIB, will clearly define management’s roles and responsibilities and communicate this to the regional management team, who will be invited to participate in MOU training sessions. The planned completion date for this action plan is December 2013.
+The Director of Tax Programs in the Quebec Region will establish a communication link between the liaison officers and the regional management team. From this communication, SIB will have an inventory of Revenu Québec information and will be able to identify who receives them. Any changes to the directives and controls will be communicated to the staff responsible for the exchange of information. The planned completion date for this action plan is June 2014.
+The regional committee on Information Exchange with Revenu Québec will publish questions and answers for the regional staff. SIB will identify the staff responsible in Headquarters for the receipt of information with respect to the MOU Revenu Québec. The planned completion date for this action plan is May 2014.
+Training
+A training session entitled “Memoranda of Understanding for the Exchange of Information with Revenu Québec 2009” was developed by representatives from the SIB in collaboration with regional advisors. However, there was no evidence that this training session has been offered in the last few years to the employees of CRA branches who are involved with the exchange of information.
+Interviews with regional employees and liaison officers indicated that they had not recently received training on the exchange of information. The last training session was held in 2009. Currently, training of new liaison officers is conducted by colleagues. From a management perspective, the focus has been on CRA security requirements, therefore, training has been offered regularly over the last few years on this area.
+It was noted that managers, employees and most liaison officers have little or no knowledge of the Agreement and appendices A, B and F (General Security Standards) contained in the MOU. Various appendices in the MOU relate to the communication of information. Some appendices are not available on the website, therefore, management must ensure they are distributed to employees dealing with the exchange of information. Although the training session referred above includes appendices A and F, it does not include a reference to appendix B.
+Recommendation
+The SIB should update the exchange of information training session for the Agreement with Revenu Québec; specifically the information received under Appendix B, and promoting awareness of appendices B and F.
+Action Plan
+SIB updated the training material in July 2013, including appendices A and B. SIB held training sessions for more than 60 liaison officers in July 2013.
+SIB will update the annual training session, including a section on the MOU appendices. The first update will occur by June 2014.
+Communication
+As previously indicated, the terms and conditions for the delegation of duties to the liaison officers are indicated in Appendix C. The list of authorized employees for the exchange of information is accessible on InfoZone and is updated on a monthly basis. Unlike in the Quebec region, in Headquarters branches, there are no liaison officers assigned to send and receive information.
+With the exception of the Quebec Referrals Program area, all interviews found that there was no delegation process in place and that the interviewees were not familiar with the content of Appendix C of the MOU.
+As for the actual exchange of information, during interviews and file review, internal audit found that the information received from Revenu Québec is consistent with what is listed per Appendix B.
+Recommendation
+The SIB should provide managers with parameters to define the requirements for the appointment of employees authorized to exchange information with Revenu Québec.
+The SIB, in conjunction with the Quebec Region, should include a reminder regarding Appendix C in the training material. This would increase awareness among managers and liaison officers that information must be exchanged by designated and authorized employees in their absence.
+The SIB should recommend that branches appoint liaison officers responsible for receiving documents.
+Action Plan
+The Director of Tax Programs in the Quebec Region will analyze and identify the number of liaison agents needed for the exchange of information in compliance with the MOU requirements. The Director of Tax Programs in the Quebec Region will clarify the process for the appointment of liaison officers to the regional management team and regional team of Assistant Director and discuss the criteria for such appointments. These action plans will be completed in collaboration with SIB. The planned completion date is May 2014.
+SIB will review the MOU and appendices by October 2013. The Director of Tax Programs in the Quebec Region will remind the regional management team of the requirements related to Revenu Québec information and its communication. The planned completion date for this action plan is 2014.
+SIB will conduct an analysis to determine if there is a need to appoint liaison officers for the receipt of bulk information. SIB is currently conducting an analysis, in collaboration with Revenu Québec, to identify all bulk information received by Revenu Québec. The planned completion date for this action plan is June 2014.
+2.0 Protection of Information
+Retention period
+Appendix G of the MOU lists the methods for final disposal of paper and electronic documents. For the disposal of documents, a retention period must be known and applied. However, employees interviewed did not make a distinction for the retention of documents received from Revenu Québec. Employees use the same standards for filing and storing documents that apply to CRA. Specific guidelines for the retention of this information have not been given. There is however one exception; in the Quebec Referrals Program, a five-year retention period has been established and is applied.
+Recommendation
+The SIB should define the retention period for information received from Revenu Québec, communicate it to all employees involved in the exchange of information and provide a reference document.
+Action Plan
+SIB will include a section in their training material with respect to the retention of information received by Revenu Quebec. The planned completion date for this action plan is June 2014.
+Records Management System
+In accordance with Appendix A “Roles and Responsibilities” of the Information Management Policy, CRA officials are accountable for the management of information in their branch or region.
+In the Quebec Region, paper documents received from Revenu Québec are recorded in a spreadsheet. Within the Quebec Referrals Program, documents received are saved in a database. File tracking forms are completed and sent to archives, and follow-ups for this program are also completed by Records Management.
+As a best practice, the Accounts Receivable Directorate, within TSDMB, enters a summary in the client’s account on the CRA mainframe for telephone exchanges between the CRA and Revenu Quebec. Currently, guidelines do not exist for the recording methods of verbal information received.
+Recommendation
+The SIB should ensure that the branches and the Quebec Region are advised of their obligation to adequately record information received verbally.
+Action Plan
+The Director of Tax Programs in the Quebec Region, in collaboration with SIB, will transmit a directive to the collection liaison officers that all information received verbally with a Revenu Québec liaison officer must be entered in the taxpayer’s file in order to maintain a record of this information. The planned completion date for this action plan is June 2014.
+Conclusion
+Overall, the CRA is in compliance with the conditions governing the use, disclosure, storage and disposal of information received from Revenu Québec.
+However, there are certain opportunities for improvement to better equip employees and management with the guidance and tools they require when exchanging information with Revenu Québec.
+The roles and responsibilities of employees and management involved in receiving information need to be better defined. In collaboration with managers, the SIB should make improvements regarding the promotion of the MOU and it appendices, the development of specific work procedures and the information recording methods. Once the roles and responsibilities have been defined, a communication process should be established.
+The existing training session on the exchange of information should include requirements for the information received pursuant to Appendix B of the Agreement and a reminder concerning Appendix F "General Security Standards".
+In accordance with Appendix C of the Agreement, parameters should be set to determine the requirements for appointing personnel designated to send and receive information, specifically at the branch level. The delegation process requirements for authorized personnel should also be included in the training session.
+Page details
+Report a problem on this page
+Date modified:
+2013-10-18

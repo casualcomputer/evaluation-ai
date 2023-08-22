@@ -1,0 +1,134 @@
+2005-2006 Selected Fiscal Year-End Procedures Audit
+Corporate Audit and Evaluation Branch
+November 2006
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+1.0 Automation of the Trial Balance in the Revenue Ledger (RL)
+2.0 Separation of the CRA and CBSA Accounts in the RL
+3.0 Allowance for Doubtful Accounts (ADA)
+4.0 Allocation of Cash Receipts
+Follow Up of 2004-2005 Fiscal Year-End Audit
+Conclusion
+Executive Summary
+Background:
+The Canada Revenue Agency (CRA) prepares annual Administered Activities Financial Statements for the reporting of tax revenues using full accrual accounting. As in prior years, the Finance and Administration Branch (F&A) requested Internal Audit Division's (IAD) assistance in providing assurance to management on the accuracy and completeness of selected financial information to be reported in these statements.
+The work was carried out in conjunction with the annual audit of the financial statements conducted by the Office of the Auditor General (OAG) who is responsible for issuing an audit opinion on their fair presentation. IAD efforts were focused on four areas that were considered at risk for the 2005-2006 fiscal year. The audit approach and methodology for the year-end work was discussed with F&A and the OAG and the IAD results have been used by the OAG in formulating its opinion on the CRA Administered Activities Financial Statements.
+Objective:
+The objective of the audit was to provide assurance to management on the completeness and accuracy of selected cash and Revenue Ledger (RL) procedures and account information and the adequacy of procedures used in estimating the allowance for doubtful accounts (ADA). The scope of the audit did not include the verification of amounts that would appear in the financial statements, but focused on risks that had direct implications on the:
+accuracy and completeness of the newly automated year-end trial balance procedures implemented in the Revenue Ledger (RL);
+accuracy and completeness of the separation of the CRA and Canada Border Services Agency (CBSA) accounts in the RL;
+adequacy of the procedures applied in determining the proportion of uncollectable accounts receivable (ADA rates); and
+accuracy of the allocation of cash to the proper fiscal year
+The audit took place between February and September 2006 and was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Conclusion:
+Overall, the financial reporting procedures and information relating to the areas examined by IAD were found to be accurate and complete in all material respects. However, further management action is needed with respect to completing the separation of the CRA and CBSA RL accounts and some procedural issues have to be addressed with regard to the review process used in estimating the allowance for doubtful accounts (ADA).
+Action Plans:
+CBSA is working towards creating its own RL by December 2007, which would allow for the complete separation of the RL accounts. A working group with representatives from F&A, Tax Services and Debt Management Branch (TSDMB), the Department of Finance and Treasury Board was also set up in September 2006 to discuss ways in which the ADA procedures can be streamlined for the 2006-2007 fiscal year-end processes.
+Introduction
+The Canada Revenue Agency (CRA) prepares annual Administered Activities Financial Statements for the reporting of tax revenue using full accrual accounting. The Office of the Auditor General (OAG) audits these statements and is responsible for issuing an opinion on their fair presentation each year.
+As in prior years, the Finance and Administration Branch (F&A) requested the assistance of the Internal Audit Division (IAD) of the Corporate Audit and Evaluation Branch (CAEB) in providing assurance to management on the accuracy and completeness of selected financial information to be reported in these statements. The audit work focused on areas that were considered at risk for the 2005-2006 fiscal year.
+The audit approach and methodology for the year-end work was discussed with F&A and the OAG and results of the IAD work have been used by the OAG in the formulation of its opinion on the CRA's Administered Activities Financial Statements.
+Focus of the Audit
+The objective of the audit was to provide assurance to management on the completeness and accuracy of selected cash and Revenue Ledger (RL) procedures and account information and adequacy of procedures used in estimating the allowance for doubtful accounts (ADA). The scope of the audit did not include the verification of amounts that would appear in the financial statements, but focused on risks that had direct implications on the:
+accuracy and completeness of the newly automated year-end trial balance procedures implemented in the Revenue Ledger (RL);
+accuracy and completeness of the separation of the CRA and Canada Border Services Agency (CBSA) accounts in the RL;
+adequacy of the procedures applied in determining the proportion of uncollectable accounts receivable (ADA rates); and
+accuracy of the allocation of cash to the proper fiscal year
+The audit took place between February and September 2006. Audit work included the review and analysis of sample transactions, examination of the CRA and CBSA account listings in RL, and the review of quality control procedures established to ensure the accuracy of the information used in determining the allowance for doubtful accounts (ADA).
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings, Recommendations and Action Plans
+1.0 Automation of the Trial Balance in the Revenue Ledger (RL)
+The trial balance used by F&A as the basis for the preparation of the administered financial statements has in the past been generated manually using a spreadsheet. Effective April 1, 2006, F&A introduced automated procedures for preparing this year-end trial balance within RL itself.
+IAD reviewed the new automated procedures used for posting the accrual and adjustment entries into RL and confirmed the accuracy of the postings. The automation did not extend to the actual determination of the entries and for that reason these manual processes did not fall within the scope of this audit.
+Further details are provided in Table 1 below regarding the key risks considered in reviewing the new RL automated procedures, audit testing carried out and the results.
+Table 1 – Automated Procedures
+Audit Risks
+Audit Procedures
+Results
+Postings in RL do not accurately reflect the entries generated by the accrual accounting engine and manual entries created by F&A.
+All accrual entries used in the testing environment and selected** transactions from the production environment were reviewed to verify that posting of entries was done correctly.** Includes all transactions posted up June 16
+th
+(end date of field audit work).
+No material errors were noted in the posting of accounting entries.
+Opening balances in RL did not correctly reflect closing balances from the 2004-2005 simulated trial balance.
+The logic of how account balances were to be determined in RL using the automated procedures was reviewed.The opening balance for the 2005-2006 trial balance in RL was verified against the 2004-2005 closing balances.
+No errors were noted.
+2.0 Separation of the CRA and CBSA Accounts in the RL
+CRA and the CBSA became separate organizations in 2004 but they have continued to share accounts for recording of revenues in the RL. Financial reporting for both organizations has become time-consuming and complex under this arrangement. Efforts were made in 2005-2006 to separate the shared accounts to the extent practical given the technical limitations of having to still share the Revenue Ledger system.
+At the time the audit began, F&A indicated that the separation had not been completed for 24 RL accounts as CRA and CBSA still share the same client Department Number (122) for reporting cash and interdepartmental settlements to Public Works and Government Services Canada (PWGSC).
+IAD confirmed that work on separating the CRA and CBSA accounts in RL had been undertaken. However, further work is still required to complete the process and manual entries were used to separate transactions in preparing the trial balances again this year. Complete separation will be dependent upon CBSA implementing its own accounting system.
+Further details are provided in Table 2 below regarding key risks considered in reviewing CRA and CBSA accounts in the RL, audit testing carried out and the results.
+Table 2 – CRA and CBSA Shared RL Accounts
+Audit Risks
+Audit Procedures
+Results
+Separation of CRA and CBSA accounts in RL is inaccurate or incomplete.
+F&A listings of CBSA and CRA RL accounts were compared to system generated reports to ensure accuracy and completeness.The Account Determination Rule (ADR) table in RL was reviewed using ACL software to ensure CRA and CBSA system interfaces post to their respective RL accounts and not shared revenue accounts.
+IAD review of all RL accounts (approximately 3000) confirmed that the 24 accounts identified by F&A with both CRA and CBSA system interfaces had been appropriately flagged as being shared.Two other accounts were identified with material balances that had both CRA and CBSA system interfaces. F&A, however, did separate transactions in these accounts in preparing the trial balance for year-end.Manual intervention by F&A was required to separate transactions in RL so that each Agency was able to prepare their respective trial balances.Ongoing use of CRA systems by CBSA for its revenue recording, cash receipts, disbursements and accounting is an ongoing impediment to achieving complete account separation. Until this occurs, manual intervention will continue to be needed to separate the transactions for financial reporting purposes.
+Transfer of balances between CRA and CBSA accounts in RL is inaccurate or incomplete.
+Journal entries in the separate accounts that were created by F&A were reviewed to ensure the appropriateness of the balance transfers between CBSA and CRA RL accounts.Balance transfers valued at greater than $1M were analyzed to assess the accuracy and appropriateness.
+Balance transfers were performed during the 2005-2006 year. F&A designated shared accounts as either belonging to CRA or CBSA and performed journal voucher entries in RL to clear the account of the other Agency's balances.IAD found that the balance transfers performed between CRA and CBSA were accurate and appropriate.
+The Financial Reporting Accounts (FRA) of PWGSC do not reflect RL account separation.
+FRA descriptions were reviewed to ensure they reflected the account separation that was done in RL.
+Items were found on the PWGSC FRA account listing that should only have been linked to CRA but were still described as being specific to both CRA and CBSA. PWGSC indicated that the listing is under revision.Although the listing is not up-to-date current procedure is for postings to be monitored and flagged by PWGSC if incorrect. The department concerned is made aware that an incorrect FRA was used and is responsible for making the necessary correction(s).
+Recommendation
+F & A should work with CBSA to develop a comprehensive plan to complete the remaining separation of shared RL accounts.
+Action Plan
+CBSA is working on a Business Case and Feasibility Analysis in an effort to establish their own Revenue Ledger (RL). A comprehensive plan is to be developed once CBSA senior management has reviewed the Business Case, and a decision is made as to the approach for the split. CBSA continues to work towards December 31, 2007 as the implementation date and CRA will continue to monitor the progress of this initiative.
+3.0 Allowance for Doubtful Accounts (ADA)
+The allowance for doubtful accounts is established to indicate management's best estimate of the collectability of amounts assessed but not yet paid. The ADA is calculated by CRA on the basis of an annual evaluation of the collectability of a sample of accounts receivable by experienced collections personnel (ADA analysts).
+The F&A Branch requested an increase in the sample size for this year to provide added precision in establishing ADA estimates within each revenue stream. Regional ADA analysts under the direction of the Tax Services and Debt Management Branch (TSDM) conducted the sample review at three CRA locations. Account review procedures and guidelines as well as an MS Access software program were developed for use by the field officers to ensure consistency in evaluating the collectability of the accounts receivable. The software program required officers to follow a prescribed approach in evaluating each account.
+After the initial evaluation of the accounts was completed, concerns were raised about a possible understatement of the ADA because of an unintentional bias in the results. For that reason a secondary review of the same sample of accounts was undertaken. This resulted in an increase in the ADA estimate and this final amount was subsequently accepted by the OAG. The decision to carry out additional work this year serves to underscore an inherent risk associated with the current methodology (using sampling) in terms of producing inconsistent results.
+Further details are provided in Table 3 below regarding the key risks considered in reviewing the ADA review process, the audit testing carried out and the results.
+Table 3 – Allowance for Doubtful Accounts (ADA)
+Audit Risk(s)
+Audit Procedures
+Results
+Data used in drawing the samples for the ADA review is incomplete.
+IAD reviewed the F&A reconciliation of the data extracts from which sample accounts to be assessed were selected. These extracts were drawn from five CRA client accounting systems: Personal Tax (T1), Corporate Tax (T2), Source Deductions (T4), Goods and Services Tax (GST), and Automated Sub-ledger (ASL).
+Prior to sample selection F&A reconciled data derived from the client accounting systems to the information recorded in RL to ensure completeness of the populations subject to sampling.A variance of $65 million was identified with the GST revenue system but F&A concluded that it was within the acceptable threshold for the purpose of the ADA sampling.IAD reviewed the F&A reconciliation and also concluded that the un-reconciled amount was immaterial and the population data used for the sampling was complete.
+Sample is not selected in accordance with statisticians' specifications.
+On a test basis, IAD re-performed the required steps to draw the sample. IAD also ensured that the sample size and strata were done according to the statistician's specifications.
+TSDM selected approximately 4,300 sample items for review in 2005-2006, up from approximately 3000 accounts in 2004-2005. This was based on a sampling plan designed by an F&A statistician in collaboration with the OAG.IAD found that the sample was drawn in accordance with the statistician's specifications.
+Sample evaluation is incomplete.
+IAD reviewed the sample database to ensure that all sample items were evaluated.
+All sample items were evaluated by field officers
+Inadequate procedures are used to determine the proportion of uncollectible accounts receivables.
+IAD carried out site visits to observe the account review process and the application of procedures and guidelines.IAD analyzed collection patterns of T1 accounts receivable for 2004-2005 to validate the assumptions used by F&A in computing the ADA rate for seasonal T1 receivables.
+TSDM provided extensive training to field officers prior to commencement of work.Field officers followed the screens of the MS Access program and the prescribed approach in evaluating each account.Some concerns were expressed by field officers about the evaluation process:
+The software tool had limited flexibility with respect to reviewers being able to apply their own expertise and knowledge in determining the collectability of the accounts.
+The software did not allow for timely reassignment of work if a person left the project.
+The sample size had been increased significantly without a change in allocated resources.
+F&A used the results of IAD work in computing the appropriate rate for seasonal T1 receivables.
+Recommendation
+TSDM and F&A should work together to review the approach and methodology used in establishing the ADA estimates and make adjustments as needed before the 2006-2007 ADA evaluation to minimize the risk of a bias in the results.
+Action Plan
+TSDM and F&A are now part of a working group with representatives from the Department of Finance and the Treasury Board set up in September 2006 to discuss ways in which the ADA process can be streamlined for 2006-2007 and beyond.
+Although the methodology currently used to determine the allowance for doubtful accounts is consistent with generally accepted accounting principles, it is CRA management's view that there may be other methodologies that are also consistent with these principles that would yield better results. It is their intention to explore any promising avenue for improvement of the determination of the allowance for the coming year-end and not limit themselves to preserving the current approach.
+4.0 Allocation of Cash Receipts
+The allocation of cash to the proper fiscal year is an important element in determining the amount of cash reported on the Administered Activities Financial Statements. Also considered for this is cash on hand, which represents cash receipts received in the old fiscal year but deposited in the new fiscal year.
+IAD concluded that the accuracy of the received date recorded in the client accounting systems and the methodology used by F&A to determine cash on hand were adequate for the purpose of allocating cash receipts to the proper fiscal year within the materiality threshold established for the audit.
+Further details are provided in Table 4 below regarding the key risks considered in reviewing the allocation of cash procedures, the audit testing carried out and the results.
+Table 4 – Allocation of Cash
+Audit Risk(s)
+Audit Procedures
+Results
+Inaccurate dates are used to allocate cash receipts to the proper fiscal year.
+A judgement sample of 338 payments received in March and April 2006 was selected for verification from various revenue streams processed at four field offices and the Ottawa Technology Centre (OTC).
+Allocation of cash to the proper fiscal year is done using the payment-received date recorded in the CRA client accounting systems. IAD found the date recorded in the system was not correct in 13 out of the 338 samples selected for review, or 3.8% of the sampled population. (There was a difference of between 1-3 days in the date recorded for 12 payments and for 1 it was 30 days.)Only 4 of the 13 errors identified affected the cash allocation to the incorrect fiscal year. IAD estimated that cash on hand was understated by approximately $32 million, which was below the materiality threshold used for this audit ($500 million).Of the remaining 9 errors, 7 were attributed to the CRA payment system (FIP) not functioning during the period of April 2- April 5, 2006.FI-remitted payments were identified as having a high error rate last year but only one of the errors found this year was this type of payment. This can largely be attributed to action taken by management to increase verification of date information at the OTC.
+Inadequate methodology is used to determine the year-end cash on hand.
+Methodology used by F&A was reviewed to ensure sources used and methods of calculation were sound, and that sufficient verification of cash on hand amount was done to ensure accuracy.
+No material errors were noted.
+Follow Up of 2004-2005 Fiscal Year-End Audit
+IAD followed up on findings in the previous fiscal year-end audit to determine the status of management actions plans. The two areas in which recommendations had been made included the allocation of cash receipts and the allowance for doubtful accounts and action taken to address the issues identified can be found in the sections of this report relating to these areas.
+Conclusion
+Overall, the financial reporting procedures and information relating to the areas examined by IAD were found to be accurate and complete in all material respects. However, further management action is needed with respect to completing the separation of the CRA and CBSA RL accounts and some procedural issues have to be addressed with regard to the review process used in estimating the allowance for doubtful accounts (ADA). CBSA is working towards creating its own RL by December 2007, which would allow for the complete separation of the RL accounts. A working group with representatives from F&A, Tax Services and Debt Management Branch (TSDMB), the Department of Finance and Treasury Board was also set up in September 2006 to discuss ways in which the ADA procedures can be streamlined for the 2006-2007 fiscal year-end processes.
+Page details
+Report a problem on this page
+Date modified:
+2007-01-04

@@ -1,0 +1,404 @@
+List of abbreviations
+BISB
+Benefits and Integrated Services Branch
+CSB
+Citizen Service Branch
+ESDC
+Employment and Social Development Canada
+GIS
+Guaranteed Income Supplement
+ID
+Identification
+ISSD
+Income Security and Social Development
+n
+Sample of participants
+OAS
+Old Age Security
+p
+Refers to the probability and is used to determine statistical significance
+PRA
+Prairie Research Associates
+List of figures
+Figure 1: Percentage of seniors not receiving Guaranteed Income Supplement, by selected demographic variables (non tax-filers only)
+Figure 2: Awareness of measures to promote the Guaranteed Income Supplement among potentially eligible non-tax filing seniors
+Figure 3: Awareness of the Guaranteed Income Supplement by demographics, non-tax filers by demographic variables
+Figure 4: Awareness of measures to promote the Guaranteed Income Supplement
+List of tables
+Table 1: January to March 2020 Guaranteed Income Supplement Rates
+Table 2: Self-Reported barriers to Guaranteed Income Supplement take-up by place of birth
+Table 3: Self-Reported barriers to Guaranteed Income Supplement take-up by Indigenous status
+Table 4: Guaranteed Income Supplement awareness activities that directly target seniors - Percentage of seniors aware of measures
+Table 5: Awareness of the Guaranteed Income Supplement
+Table E1: Eligibility for the Guaranteed Income Supplement
+Table E2: Barriers to receiving the Guaranteed Income Supplement, those eligible or receiving the Guaranteed Income Supplement (n=523)
+Table E3: Barriers to receiving the Guaranteed Income Supplement, non-recipients of the Guaranteed Income Supplement (n=306)
+Introduction
+The Evaluation of the Guaranteed Income Supplement – Phase 2 was designed to answer evaluation questions related to the take up of the benefit (consult Annex B). This evaluation builds on the previous evaluation phase by examining take-up issues for people who are eligible for the Guaranteed Income Supplement (GIS) but not receiving it (or not consistently receiving it) and are non-tax filers.
+Old Age Security (OAS) clients:
+non-tax filers (covered in phase 2 report):
+      
+GIS recipients
+GIS non-recipients
+
+
+tax-filers (covered by phase 2 report):
+      
+GIS recipients
+GIS non-recipients
+Seniors who do not file income taxes may still be eligible for the GIS.
+While filing income tax is not a requirement for applying for the GIS, analysis from phase 1 of the evaluation estimates that approximately 5% of eligible non-recipients are non-tax filers. Among all seniors, only an estimated 1.4% did not file income tax between 2006 and 2015. This is equivalent to an estimated 81,017 seniors in 2015, of which 21,388 (26.4%) were receiving the GIS.
+Key evaluation results summary
+Key findings from phase 2
+Among non-tax filers, barriers to take-up are experienced by individuals of all socioeconomic conditions. Vulnerable groups do not appear to be any more prone to take-up barriers than the general population.
+A comparison of barriers in 2010 and 2019 indicate that there are similar barriers that persist, such as having trouble finding information online. This is within the control of the department to help increase take-up.
+Based on a survey of 626 non tax-filing seniors receiving the OAS, awareness of the GIS among non-tax filers remains high (70%). However, only 15% of non-tax filers have applied for the GIS. Evidence suggests awareness is high but understanding of the program is weak.
+Despite there being a high level of awareness of the GIS, awareness of Employment and Social Development Canada and Service Canada measures to reach potentially eligible seniors remains low among non-tax filers, with a majority (68%) not being aware of any measures.
+This evaluation looked at 2 approaches for assessing GIS take-up. However, there are unique advantages of each method with regard to timeliness, ease of accessing and analyzing the data, and resource capacities. The department currently uses data from the Longitudinal Administrative Databank to calculate take-up.
+Recommendation
+The program should continue its efforts to better reach seniors and enhance take-up of the GIS.
+Note on phase 1: Phase 1 of the evaluation was published in June, 2019. Since then, the program has continued to move forward on activities that address the findings of the evaluation. These activities are reflected in the management response action plan. Consult Annex A  to know more about the key findings from phase 1.
+Program background
+The GIS is a component of the OAS program, which is the Government of Canada's largest statutory pension program, at $53.4 billion in fiscal year 2018 to 2019. The benefits under the OAS program include the OAS pension, the GIS, the Allowance, and the Allowance for the Survivor.
+Old Age Security includes:
+OAS
+GIS
+the Allowance
+the Allowance for the Survivor
+The OAS pension is provided to seniors aged 65 years and over who meet the legal status and residence requirements. The GIS, which became operative in January 1967 after an amendment to the Old Age Security Act, provides a monthly non-taxable benefit to OAS pension recipients who have a low level of income.
+In 2018 to 2019, an average of 2 million seniors received GIS payments (a total of $12.4 billion) in addition to their monthly OAS pension. The monthly GIS payment is based on the pensioner’s marital status and the individual income for singles, or joint income in the case of couples, reported by the pensioner in the previous calendar year.
+Two-thirds of non tax-filing respondents are likely to be eligible for the GIS but are not receiving it.
+Eligibility for the GIS was estimated based on a profile of the respondents’ reported income (and that of their spouse). Most respondents were either not receiving the supplement (51%) or unsure if they were receiving it (8%).
+Figure 1 shows the overall proportion of the sample who were not receiving the supplement but would likely be eligible for it as well as the demographic categories in which significant differences were observed.
+More seniors aged 65 to 69 are likely eligible to receive the supplement than those over 70 years
+More married or common-law and single seniors are likely eligible to receive the supplement compared to divorced and widowed seniors
+Figure 1: Percentage of seniors not receiving Guaranteed Income Supplement, by selected demographic variables (non tax-filers only)
+
+
+Figure 1 – Text version
+Percentage of non-tax-filing seniors not receiving GIS:
+
+overall: 66%
+65 to 69 years old: 81%
+70 to 74 years old: 71%
+75 to 79 years old: 70%
+80 to 89 years old: 60%
+90 and older: 37%
+married or common-law: 72%
+divorced: 62%
+single: 71%
+widowed: 53%
+Key findings
+Application and documentation issues continue to be the main barriers to GIS take-up.
+In the 2010 evaluation, barriers were identified for 3 groups:
+homeless or near-homeless seniors
+immigrant seniors
+Indigenous seniors
+The most common barriers were:
+lack of information or awareness
+not filing income tax
+literacy
+isolation
+lack of documentation
+mistrust of government
+not understanding the application process
+In 2019, the barriers were examined among non-tax filing seniors who may be eligible for the GIS (but are not receiving it). The top 5 barriers were:
+cannot easily find information online (47%)
+thought income was too high (39%)
+do not manage own finances (29%)
+do not have photo ID (26%)
+do not trust government (23%)
+The following barriers were noted in both evaluations in 2010 and 2019:
+difficulty finding information about the GIS
+misunderstanding application criteria
+lack of documentation
+mistrust of government
+This suggests that documentation and application issues continue to be barriers to take-up between 2010 and 2019.
+Barriers noted among GIS recipients and non-recipients who do not file income tax are similar, with the exception of those who thought their income was too high to be eligible for the benefit.
+The most common barrier is not being able to find information online easily, which is identified as a barrier by 47% of potentially eligible non-recipients and is common amongst all subgroups:
+age
+gender
+income, etc.
+In addition, thinking their income was too high and not managing their finances themselves are common across both non-recipients and those in receipt of the GIS.
+Significantly more seniors (39%) among those not receiving the GIS felt their income was too high, compared to those receiving the GIS (16%).
+Barriers for those eligible but not receiving and for those receiving GIS
+The most common barriers among those eligible for but not receiving the GIS:
+I cannot find information online easily: 47%
+I thought my income was too high to be eligible: 39% (significant difference between non-recipients and recipients of the GIS)
+I do not manage my finances myself: 29%
+I do not have an ID with my picture: 26%
+I do not trust the government: 23%
+The most common barriers among those receiving the GIS:
+I cannot find information online easily: 47%
+I thought my income was too high to be eligible: 16% (significant difference between non-recipients and recipients of the GIS)
+I do not manage my finances myself: 28%
+I do not have an ID with my picture: 26%
+I do not trust the government: 24%
+Vulnerable groups do not appear to be any more prone to take-up barriers than the general population.
+Those born outside of Canada did not report barriers significantly more than those born in Canada. However, Canadian born respondents were more likely than foreign born respondents to report that they considered the GIS to be a form of welfare. This finding is consistent with previous findings for a more general sample of GIS recipients.
+*represents a significant difference as measured by chi-square at a probability level of less than 5% (p<0.05). 
+    p level refers to the probability and is used to determine statistical significance. 
+    n= refers to the sample of participants.
+Respondents who self-identify as Indigenous are not more likely to identify these 6 specific barriers to GIS take-up than non-Indigenous. However, a slightly higher proportion of Indigenous than non-Indigenous seniors indicated that religious reasons prevented them from receiving the GIS. However, the strength of this relationship, as measured with a Cramer’s V test, was very low at 0.11. This indicates a larger cohort will be needed to draw policy conclusions.
+*represents a significant difference as measured by chi-square at a probability level of less than 5% (p<0.05). 
+    p level refers to the probability and is used to determine statistical significance. 
+    n= refers to the sample of participants.
+Awareness of the GIS is quite high among non-tax filing potentially eligible non-recipients (70%). However, just 15% of this group indicated that they had filled out an application for the GIS.
+Employment and Social Development Canada and Service Canada uses a number of communication methods to promote awareness of the GIS among seniors. The following are some of the activities that directly target seniors and do not include other promotion activities, such as television and social media advertisements:
+information in the mail (including pre-filled applications)
+presentations from the Government of Canada to people in your community
+information with an OAS tax slip
+letter regarding automatic enrollment in OAS or the GIS
+information within the Canada Revenue Agency Tax Guide
+n= refers to the sample of participants.
+To determine impact, respondents were asked about their awareness levels of the following:
+had heard of the GIS
+filled out an application
+knew the criteria to qualify for the GIS
+knew if they were eligible for the GIS
+Base: Those who have heard of Guaranteed Income Supplement or filled out an application (n=219). 
+    n= refers to the sample of participants.
+Awareness of the measures to promote the GIS to potentially eligible seniors was low among non tax-filing seniors.
+Awareness of the various measures to reach potential GIS applicants was low. 68% of potentially eligible non-recipients do not recall any of the measures used to communicate about the GIS . Among those who were aware, information from an OAS tax slip was the most commonly recalled source of information. Effectiveness of the different measures to reach potentially eligible recipients was measured by asking survey respondents whether or not they had heard of the various measures.
+Figure 2: Awareness of measures to promote the Guaranteed Income Supplement among potentially eligible non-tax filing seniors
+
+
+Figure 2 – Text version
+Awareness of measures to promote the Guaranteed Income Supplement among potentially eligible non-tax filing seniors:
+
+information with your OAS tax slip: 23%
+a letter to tell you about automatic enrollment in OAS or the GIS: 17%
+information in the mail that included a prefilled application form: 13%
+information with The Canada Revenue Agency Tax Guide: 13%
+presentations from the Government of Canada to people in your community: 5%
+unaware of any measures to promote the GIS: 68%
+
+Men and seniors between 65 and 69 were the most likely to be aware of the GIS. Singles and non-English speakers were more likely to have filled out an application.
+
+Slightly more men (69%) indicated that they had heard of the GIS than women (62%)
+Those aged 65 to 69 were most likely to have heard of the GIS (79%) while those 80 to 89 were least (49%) likely to have heard of GIS
+More single seniors (23%) had filled out an application than seniors with other marital statuses
+Fewer English speakers (11%) filled out an application than non-English speakers
+Figure 3: Awareness of the Guaranteed Income Supplement by demographics, non-tax filers by demographic variables
+
+Only statistically significantly differences (p<0.05) are shown. 
+      p level refers to the probability and is used to determine statistical significance.
+
+Figure 3 – Text version
+Awareness of the Guaranteed Income Supplement by demographics, non-tax filers by demographic variables.
+Heard of GIS:
+
+female: 62%
+male: 69%
+65 to 69 years: 79%
+70 to 74 years: 68%
+75 to 79 years: 72%
+80 to 89 years: 49%
+
+Filled out application:
+
+married or common-law: 13%
+divorced: 11%
+single: 23%
+widowed: 9%
+english: 11%
+french: 28%
+other: 26%
+
+Only statistically significantly differences (p<0.05) are shown. 
+        p level refers to the probability and is used to determine statistical significance.
+Among non-tax filing potentially-eligible non-recipients, respondents are most aware of information sent directly to people with their OAS tax slips.
+Among non-tax filing potentially-eligible non-recipients, respondents are most aware of information sent directly to people with their OAS tax slips (15% of eligible non-recipients) or a letter telling them about automatic enrollment (12% of eligible non-recipients). The corresponding numbers for those currently receiving the GIS were 42% and 29%.
+Figure 4: Awareness of measures to promote the Guaranteed Income Supplement
+
+Differences between recipients and non-recipients are statistically significant at p<0.05. 
+      p level refers to the probability and is used to determine statistical significance.
+
+Figure 4 – Text version
+Awareness of measures to promote the Guaranteed Income Supplement.
+Information with OAS tax slips:
+
+not receiving GIS: 15%
+currently receiving GIS: 42%
+
+Letter about auto-enrollment or GIS:
+
+not receiving GIS: 12%
+currently receiving GIS: 29%
+
+Prefilled application:
+
+not receiving GIS: 9%
+currently receiving GIS: 25%
+
+Information in CRA tax guide:
+
+not receiving GIS: 9%
+currently receiving GIS: 24%
+
+Presentations from Government of Canada:
+
+not receiving GIS: 2%
+currently receiving GIS: 12%
+
+Differences between recipients and non-recipients are statistically significant at p<0.05. 
+        p level refers to the probability and is used to determine statistical significance.
+Estimating program take-up
+This evaluation looked at 2 approaches for assessing GIS take-up.
+Model A - Longitudinal Administrative Databank Data
+Databank Data contents: 20% sample from Statistics Canada’s T1 Family File based on Canada Revenue Agency tax records
+Data ownership: Statistics Canada
+Advantages:
+      
+longitudinal data
+tax data for estimating income
+proxy available for Canadian residence requirement
+methodology developed by Statistics Canada
+provides a take-up rate
+
+
+Disadvantages:
+      
+can only estimate eligibility from tax-filer population
+Model B - OAS-GIS administrative data integrated with Canada Revenue Agency data
+Data contents: Employment and Social Development Canada records of OAS clients who receive the GIS integrated with Canada Revenue Agency T1 data
+Data ownership: Employment and Social Development Canada
+Advantages:
+      
+identifies specific OAS-GIS clients including non tax-filers
+useful for understanding the demographic characteristics of this group
+longitudinal data
+tax data for estimating income
+
+
+Disadvantages:
+      
+requires resources to regularly integrate the 2 databases and update as new data is released
+do not have income of eligible non-recipients who do not file taxes
+residence data is not available for seniors not already receiving OAS
+does not support the assessment of non tax-filing seniors’ eligibility or the calculation of a take-up rate
+Summary of advantages and disadvantages of GIS take-up calculation methods
+Model A is useful, although accessibility issues limit the efficacy of this method. Model B is also useful although it is less timely, and more departmental resources are needed to conduct the calculation internally.
+Category of usefulness
+For accessibility reasons, the table has been simplified. Consult the PDF version for the full table.
+Accuracy:
+model A: Longitudinal Administrative Databank (current method used by department): yes
+model B: OAS and Canada Revenue Agency integrated data: yes
+notes: OAS and Canada Revenue Agency method can estimate the number of non-tax filers who are not receiving the GIS
+Data can be accessed in a timely manner:
+model A: Longitudinal Administrative Databank(current method used by department): yes
+model B: OAS and Canada Revenue Agency integrated data: no
+notes:
+      
+Statistics Canada owns the Longitudinal Administrative Databank and has the recourses to use it on a continual basis
+calculations using OAS and Canada Revenue Agency data are currently only calculated for phase 1 of the evaluation. Use of this data on more than an ad hoc basis would require different resources and permissions
+Data can be easily accessed by Employment and Social Development Canada (ESDC):
+model A: Longitudinal Administrative Databank (current method used by department): requested from Statistics Canada
+model B: OAS and Canada Revenue Agency integrated data: Chief Data Office links administrative data files received from CRA and Income Security and Social Development with required departmental approvals
+notes:
+      
+Employment and Social Development Canada has a memorandum of understanding with the Canada Revenue Agency allowing it to use Canada Revenue Agency data for evaluation
+Longitudinal Administrative Databank belongs to Statistics Canada; use requires Research Data Centre access and must comply to its vetting rules
+Resource needs:
+model A: Longitudinal Administrative Databank (current method used by department): current resources that are in place is what is needed
+model B: OAS-Canada Revenue Agency integrated data: more internal resources would be needed to do the calculation since it would not be completed by Statistics Canada
+notes: Employment and Social Development Canada would require more resources (FTEs)
+Who does the take-up calculation:
+model A: Longitudinal Administrative Databank (current method used by department): Statistics Canada
+model B: OAS-Canada Revenue Agency integrated data: ESDC
+notes: Longitudinal Administrative Databank take-up calculation provided to Employment and Social Development Canada by Statistics Canada
+Conclusions and recommendations
+Conclusions
+Respondents born outside of Canada and Indigenous respondents did not report barriers more often than did Canadian-born or non-Indigenous respondents.
+Since vulnerable groups do not appear to be any more prone to take-up barriers than the general population, efforts to promote the GIS do not necessarily have to be concentrated in any particular subgroup.
+Difficulty finding information about the GIS, lack of personal identification and mistrust of government continue to be common barriers identified in both 2010 and 2019. This suggests that despite measures to increase take-up, there are some areas that continue to persist over the last decade.
+This evaluation looked at 2 approaches for assessing the GIS take-up. Both approaches present various advantages and disadvantages with regard to timeliness, ease of accessing and analyzing the data and resource capacities.
+The calculation that is done by Statistics Canada using the Longitudinal Administrative Databank allows for data to be analyzed in a timely manner and requires fewer analytical resources from within Employment and Social Development Canada
+The approach using OAS-Canada Revenue Agency data is also useful and can be more easily accessed by the department since it has a memorandum of understanding with the Canada Revenue Agency to use the data in-house
+Recommendation
+The program should continue its efforts to better reach seniors and enhance take-up of the GIS.
+Management response
+Recommendation
+The program should continue its efforts to better reach seniors and enhance take-up of GIS.
+Management response
+The department agrees with the recommendation and welcomes the new data provided by the evaluation, with regard to non-tax filing individuals who may be eligible for the GIS but are not receiving it.
+The department has already taken steps to increase the GIS take-up rate, which is currently estimated to be between 91% and 94%. In fall 2016, the department implemented an action plan to increase the take-up of the GIS.
+In October 2017, the department released the online interactive OAS-GIS Tool Kit. The Tool Kit is designed to inform near-seniors, stakeholders and organizations who represent seniors about the OAS program, the eligibility requirements, and how to apply.
+In January 2018, the department announced GIS automatic enrolment for new beneficiaries. The first payments to individuals who were automatically enrolled were issued at the end of January 2019. As a result, half of all new OAS beneficiaries are automatically enrolled for the GIS at age 65. The remaining seniors cannot be automatically enrolled for the GIS because the department does not have sufficient information to put them into pay.
+In August 2018, the department implemented the Integrated OAS and GIS Application. With this measure, individuals are able to apply for both benefits at the same time, on one form.
+Once individuals are either automatically enrolled or have applied for the GIS, they will never need to reapply. As long as they file a tax return or provide income information to the department every year, the department will automatically assess their eligibility.
+However, there are still some seniors who are potentially eligible for the GIS but are not receiving it. These individuals include seniors who were above the age of 65 when the department introduced GIS automatic enrolment and implemented the combined OAS and GIS application. The department reaches out to all of these individuals for whom there is sufficient information through the annual take-up mailing.
+Take-up mailings for GIS and the allowance benefits were sent to individuals who may be entitled to these benefits. As more individuals are enrolled for the GIS, the number of take-up letters sent to potentially entitled individuals each year is decreasing.
+99,000 applications were mailed in 2017
+The department received nearly 55,000 completed applications as a result of this mail-out.
+93,000 letters were sent out in 2018
+The department received approximately 49,000 completed applications as a result of this mail-out.
+77,000 letters were sent in 2019
+These letters included trial letters developed as part of a project with the ESDC Innovation Lab to increase the GIS take-up. By October 2019, the department had received approximately 46,000 completed applications as a result of this mail-out.
+Activities for the March 2020 GIS take-up mailing leveraging the findings from the 2019 trial letters were completed at the end of March 2020. The 2020 take-up mailing sent 80,131 applications to seniors potentially eligible for benefits.
+The department has also undertaken a fulsome review of the OAS program web pages. The website optimization work led by the Citizen Service Branch (CSB) Web Channel is designed to provide better readability and website navigation to enhance the general awareness of the GIS program. In particular this work begins to address the most common of the barriers identified in the 2019 evaluation – in other words cannot easily find information online. Currently, the revised pages are scheduled to be posted to the website by the end of July 2020.
+Identifying non-tax filers remains challenging. The department continues to examine ways of expanding the scope of automatic enrolment for the GIS to as many seniors as possible. For example, in 2019, the department undertook a project in conjunction with its Innovation Lab designed to better understand barriers and increase GIS take-up. Activities include letter trials with different messaging, as well as interviews with potential beneficiaries and stakeholders. The results of that project are currently being finalized and could help identify approaches to engage with non-tax filers.
+Actions planned: The department will continue to examine ways of expanding the scope of automatic enrolment for the GIS to as many seniors as possible.
+Anticipated completion date: March 2021
+Responsible: Co-leads: ISSD, Benefits and Integrated Services Branch (BISB)
+Actions planned: The department will explore avenues to reach seniors who may be eligible for the GIS but are not receiving it, including non-tax filing seniors.
+Anticipated completion date: March 2021
+Responsible: Co-leads: ISSD, CSB, BISB
+Annex A: Key finding from the Evaluation of the GIS – Phase 1
+Estimated take-up rates
+The estimated take-up rate of the GIS among tax-filers, using the OAS administrative data, varies between 90% and 89% from 2006 to 2009. Starting in 2010, the rate begins to drop to a low 88%, where it remains until 2014. By 2015, the rate returns to 90%. The official take-up rates, using the Longitudinal Administrative Databank, were generally higher, reaching a high of 91% in 2007 and a low of just under 88% in 2014. The rate was 91% in 2015.
+Characteristics of eligible non-recipients
+Since 2006, the characteristics of eligible non-recipients of the GIS have remained fairly constant. In 2015, most lived as a couple (54%), were between 65 and 69 years old, lived in Ontario (44%), had higher income and were receiving the OAS pension (81%). The most common reason for not applying for the GIS was lack of awareness, noted by 44% (sample of 503) of potentially eligible seniors.
+Gender and take-up
+Take-up is higher among women than among men. The difference in take-up between men and women has been steady at around 5 percentage points. For women, take-up varied from 92% in 2006 to 92% in 2015. For men, take-up was 88% in 2006 and declined to 84% in 2014 before reaching 87% in 2015.
+Barriers to take-up
+Barriers to take-up of the Supplement still exist for immigrants and those who live in rural areas, including language and difficulty understanding the application process.
+How to increase take-up
+According to interviews with front-line staff, actions seen as most useful for increasing take-up are either in place (tax clinics or assisted application sessions) or under development at the time of the evaluation, such as the integrated OAS-GIS application and GIS automatic enrolment for OAS pensioners. It should be noted that the optimized OAS-GIS website was published in July, 2020.
+Annex B: Survey details
+How eligibility for the GIS was assessed in the survey.
+To qualify for the survey, respondents were asked questions to assess if they appeared to be eligible to receive the GIS based on their or their spouse’s income or confirm if they were receiving it.
+Respondents were asked about their sources of income and that of their spouse, including the following:
+receipt of the OAS
+receipt of the GIS
+whether or not respondent or spouse is working for pay
+approximate earnings and total income before taxes
+Interview by telephone:
+sample: OAS clients between 2010 and 2015 who had not filed taxes during that period
+time of the survey: January 29 to May 31, 2019
+sample size: 626 completed surveys (out of a sampling frame of 3,426)
+error rate: 5.4% (19 times out of 20) for eligible non-recipients
+Annex C: Methodology
+The Evaluation of the GIS – Phase 2 builds on the findings of the Evaluation of the Guaranteed Income Supplement – Phase 1, and consists of 2 lines of evidence to answer 5 evaluation questions.
+Evaluation questions about non-tax filers:
+have the barriers to take-up among GIS eligible seniors changed since the previous GIS take-up evaluation
+which barriers are common to all and which barriers are specific to certain vulnerable populations (such as, immigrants, Indigenous people, those living in remote communities, etc.)
+how effective were actions taken to reach different sub-groups
+what was the impact of the different measures on take-up and awareness
+what calculation of the GIS take-up rate is recommended
+Lines of evidence:
+survey of non-recipients:
+      
+consisted of a probability sample of 3,426 non tax-filing seniors who received the OAS benefit and who were potentially eligible for the GIS
+respondents were either eligible for the GIS but not receiving it, or had received the GIS in the past but were not currently receiving it
+
+
+data analysis:
+      
+consisted of an analysis from phase 1 of the evaluation using the Longitudinal Administrative Databank as well as OAS and Canada Revenue Agency T1 data
+multivariate analysis of the survey data to assess relationships with key variables
+A statistically significant result indicates that the difference between the groups likely exists within the population. Cross-tabulations use the chi-square (χ2) test for determining statistical significance, with a probability of type 1 error of 5% (p<0.05).
+p level refers to the probability and is used to determine statistical significance.
+X2 Chi square is a statistical calculation that measures correlations.
+Annex D: Evaluation limitations
+It is difficult to estimate GIS eligibility for non tax-fillers using survey data given that the income data is self-reported. In particular, the evaluation was not able to assess income records of respondents, so only estimates by survey respondents were available in the research used to support this evaluation. In addition, it was difficult to gather information on seniors who neither paid taxes nor were OAS clients, given the limited sources of data for this group that could be accessed for this project.
+The impact of measures the Service Canada took to communicate and promote the GIS to eligible seniors was difficult to measure directly. Instead, awareness of these measures was used as a proxy measure.
+The survey was not a panel design, with measures taken of respondents at 2 points in time. Therefore, comparisons among sub-populations over time were limited. Given this limitation, a comparison of barriers from the previous evaluation and the current were used to respond to some of the evaluation questions.
+The census analysis was to be used to assess changes in take-up rates over time as well as changes in the characteristics of potentially eligible non-recipients, particularly among Indigenous seniors. Eligibility estimates using the census were hampered by challenges with combining income data for spouses. Eligibility is a complex calculation which requires the independent assessment of income (minus deductions) of individual spouses. Despite these limitations, the survey results provided adequate responses to the evaluation questions.
+Assessment of changes in the barriers faced by seniors was only possible to assess using comparative data from the 2010 evaluation. Since these measures were qualitative and the 2019 measures were quantitative, the degree of the changes could not be adequately assessed.
+Annex E: Additional charts
+n= refers to the sample of participants.
+*Base: Those who have heard of GIS (n=237). 
+    n= refers to the sample of participants.
+Base: Those who have heard of GIS (n=237). 
+    n= refers to the sample of participants.

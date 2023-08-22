@@ -1,0 +1,751 @@
+Executive summary
+Introduction
+Employment and Social Development Canada (ESDC) worked jointly with Northwest Territories (NWT) and 11 other provinces and territories (P/Ts) to undertake the 2012 to 2017  second cycle for the Labour Market Development Agreement (LMDA) evaluation. The first cycle of LMDA evaluation was carried out between 1998 and 2012 and involved the conduct of bilateral formative and summative evaluations in all P/Ts. Under the second cycle, the evaluation work consisted of conducting two to three studies per year on the Employment Benefits and Support Measures (EBSMs) similar programming delivered under these agreements. The studies generated evaluation evidence on the effectiveness, efficiency and design/delivery of EBSMs for Canada overall, for NWT, and for the 11 other P/Ts that opted for a joint evaluation process with Canada.
+Under LMDAs, Canada transfers $2.14B in Employment Insurance (EI) Part II funds to P/Ts for the design and delivery of programs and services to help unemployed individuals, mainly those eligible under EI, to find and maintain employment.
+Programs and services delivered by NWT have to correspond to the EBSM categories defined under the EI act. The following is a short description of the five categories of programs and services examined in the evaluation:
+Skills Development (Building Essential Skills) helps participants obtain employment skills by giving them financial assistance in order to attend classroom training. This program also includes apprenticeship training.
+Targeted Wage Subsidies (Training-on-the-Job) help participants obtain on-the-job work experience by providing employers with a wage subsidy.
+Self-Employment (Self Employment Option) provides financial assistance and business planning advice to participants to help them start their own business. 
+Employment Assistance Services such as counselling, job search skills, job placement services, provision of labour market information and case management.
+Four additional programs and services are available under the LMDAs: Job Creation Partnerships, Labour Market Partnerships, Research and Innovation and Targeted Earnings Supplements. They were not evaluated as part of this evaluation. The Job Creation Partnerships and Targeted Earnings Supplements programs are not used in NWT, and Labour Market Partnerships and Research and Innovation will be evaluated at a later stage.
+Table i provides an overview of the share of funding allocated to the five EBSMs examined under the second cycle for LMDA evaluation and the average cost per intervention.
+Sources: EI Monitoring and Assessment Reports 2002 to 2003 to 2014 to 2015.
+			 Note: Labour Market Partnerships and Research and Innovation represented about 6% of EBSM expenditures in 2014 to 2015.
+This report presents a summary of the findings from four studies produced on NWT LMDA interventions and participants. Results are presented for active and former EI claimants as well as for long-tenured workers, youth (under 30 years old) and older workers (55 years old and over) when the number of participants was sufficient to conduct quantitative analyses. Active EI claimants are classified as those who were receiving EI benefits at the time of their EBSM participation. Former EI claimants received EI up to three years before starting their EBSM participation.
+Key findings
+Overall, incremental impacts, cost-benefit analysis, and labour market outcomes provide some indications that LMDA-funded programs and services delivered in NWT are generally helping participants to improve their labour market attachment after participation.
+With some exceptions, the labour market outcomes demonstrate that participants in LMDA programs and services showed higher average earnings and lower average proportions on EI and social assistance during the five years after program participation when compared to five years prior. Incremental impacts demonstrate that active EI claimants who participated in Employment Assistance Services had gains in earnings and reductions in EI use compared to similar non-participants after program participation, and the social benefits of participation exceeded the cost of the intervention over time.
+Some participants do not appear to be benefiting from EBSM participation, as reflected in the general decrease in the proportion of participants employed between the pre- and post-participation periods. Additional explanations for this decrease may include retirement decisions and other reasons for leaving the labour force.
+Incremental impacts and cost-benefit analysis
+Employment Assistance Services are effective at improving earnings and reducing EI use among Active EI claimant participants
+In comparison to similar EI claimants who did not participate in the program, active EI claimants who participated exclusively in Employment Assistance Services had higher earnings from employment/self-employment over the five years post-program participation (cumulative of $12,767). As well, these participants reduced their use of EI by a cumulative of $2,282 or 7.5 weeks after program participation. Incremental impacts on the incidence of employment, the use of social assistance and the level of dependence on government income support were overall not statistically significant.  From the social perspective (that is the sum of participant and government costs or benefits), the benefits of participation in Employment Assistance Services exceeded the related costs in 3.3 years after participation.
+Labour Market outcomes
+Most program participants have higher average earnings after program participation
+As shown in Figure i, active and former EI claimants who participated in Building Essential Skills showed higher average employment earnings during the five years after their participation when compared to five years prior. As well, former claimants who participated in Training-on-the-Job and Employment Assistance Services also showed higher average employment earnings after program participation when compared to average earnings in the five years before participation. Active claimants who participated in Training-on-the-Job had lower average employment earnings during the five years after their participation. Considering the small number of participants in Training-on-the-Job, the figures should be interpreted with caution.
+Figure i. Change in average earnings of participants 5 years pre- and post-participation in LMDA programs and services
+
+
+Text description of Figure i
+
+
+
+Note: outcomes for participants in Training-on-the-Job should be interpreted with caution given the small number of participants (62 for active claimants and 64 for former claimants).
+The average proportion of  participants on Employment Insurance and social assistance is generally lower  after program participation
+As shown in Figures ii and iii, the average  proportion of participants who use EI is shown to be lower in the  post-participation period for active and former EI claimants who participated  in Building Essential Skills and Training-on-the-Job. As well, the average  proportion of former claimants who use EI is also shown to be lower in the five years after program participation for  those who participated in Employment Assistance Services (when compared to five  years prior). These decreases were accompanied by decreased proportions of  participants on social assistance for all active claimant participants and for former  claimants who participated in Training-on-the-Job.
+Figure  ii. Change in average proportion of active claimant participants on Employment Insurance  and Social Assistance 5 years pre- and post-participation in LMDA programs and  services
+
+
+Text description of Figure ii
+
+
+
+Note: outcomes for participants in Training-on-the-Job should be interpreted with caution given the small number of participants (62 for active claimants and 64 for former claimants).
+Figure iii. Change in average proportion of former claimant participants on Employment Insurance and Social Assistance 5 years pre- and post-participation in LMDA programs and services
+
+
+Text description of Figure iii
+
+
+Note: outcomes for participants in Training-on-the-Job should be interpreted with caution given the small number of participants (62 for active claimants and 64 for former claimants).
+The average proportion of participants employed is lower after program participation when compared to before program participation for all EBSMs
+Some participants do not appear to be benefiting from EBSM participation, as reflected in the general decrease in the proportion of participants employed between the pre- and post-participation periods (see Figure iv). This decrease can be partially explained by retirement decisions considering the proportion of participants aged 55 years and older, while others may have left the labour force for other reasons.
+Figure iv. Change in average proportion of participants employed 5 years pre- and post-participation in LMDA programs and services
+
+
+Text description of Figure iii
+
+
+Note: outcomes for participants in Training-on-the-Job should be interpreted with caution given the small number of participants (62 for active claimants and 64 for former claimants).
+Lessons learned about program design and delivery
+Key informants interviews with service providers and program managers, as well as the documents reviewed and the questionnaires filled by provincial and territorial representatives, revealed specific challenges and lessons learned about program design and delivery. Though NWT did not participate in these qualitative studies, the information that was produced at the national level is included in this report with the objective of sharing best practices and lessons learned.
+Skills Development (Building Essential Skills)
+Key informants confirmed that most P/Ts take steps to direct Skills Development funding towards training for occupations in demand in the labour market. In particular, as part of the application process, prospective participants have to justify their choice of training program by demonstrating that labour market demand exists.  Five provinces/territories may not approve applications for training leading to employment in low demand occupations.
+According to key informants, the main challenges related to Skills Development included:
+Lack of capacity to case manage and monitor individuals facing multiple barriers to employment.
+Access to the program is limited due to the EI eligibility criteria.
+Participant's ability to access and complete training is often limited by a lack of essential skills, learning disabilities, literacy issues and other factors such as living in remote locations and lack of transportation.
+Unemployed individuals lack awareness about the program and early engagement of EI claimants is difficult since Service Canada does not refer recent claimants to provincial/territorial offices.
+Skills development for apprentices (Building Essential Skills – Apprenticeship)
+Existing Canadian literature showed that there is a fairly high non-completion rate among apprentices (40-50%). Furthermore, subject matter literature revealed that despite the growth in apprenticeship registrations in Canada, there has not been a corresponding increase in completion rates. While it is not possible with available data to generate a reliable estimation of the completion rate of Skills Development-Apprentices participants, key informants involved in apprenticeship delivery confirmed the stagnation in completion rates.
+According to key informants, apprenticeship drop-out is due to factors such as low level of essential skills, financial difficulties (for example not being able to live on EI benefits while on training) and delays in getting EI benefits (for example EI eligibility is not confirmed until training is almost complete).
+Targeted Wage Subsidies (Training-on-the-job)
+Key informants confirmed that participation in Targeted Wage Subsidies can be driven by either unemployed individuals or employers looking to fill a new position. Key informants also confirmed that in most P/Ts covered by the evaluation, the subsidized employers are generally hiring those they would not have otherwise hired without the help of the program.
+While evaluation results have demonstrated the effectiveness of Targeted Wage Subsidies, its use has been falling in recent years. According to the EI Monitoring and Assessment Reports, the proportion of new Targeted Wage Subsidies interventions across Canada decreased from 3% to 1% of all new interventions between 2002 to 2003 and 2014 to 2015. Reasons identified by key informants to explain this decline included:
+The frequent and time consuming reporting requirements for the employers.
+Lack of awareness about the program among employers.
+Employers having a negative perception of the quality of the candidates.
+Difficulty in matching employers' needs to the skills of available candidates.
+Employment Assistance Services
+According to key informants, challenges with the design and delivery of Employment Assistance Services included:
+Lack of awareness about Employment Assistance Services among potential participants.
+Current budget allocation is not enough to support the delivery of Employment Assistance Services and has led some service providers to eliminate services.
+Service providers cannot provide all the services needed for participants facing multiple barriers to employment. They have to refer these individuals to other organizations.
+Recommendations
+A total of 10 recommendations emerge from the evaluation findings. They are as follows:
+The report presents challenges and lessons learned about the design and delivery of Building Essential Skills (including the apprenticeship program), Training-on-the-Job and Employment Assistance Services. These challenges and lessons learned were gathered from EBSM managers and case workers across eight to ten provinces and territories. NWT did not participate in those studies and qualitative information was not collected in NWT.
+Recommendation 1: Consideration should be given by NWT to examine to what extent challenges and lessons learned identified at the national level are applicable to the unique context in NWT.
+Recommendation 2: Taking into consideration the future labour market needs in the Territory and the existing skills gaps, consideration should be given by NWT to examine the extent to which the caps on the length of financial assistance under Building Essential Skills are appropriate.
+A study carried out across Canada regarding the timing of participation in Employment Assistance Services showed that receiving assistance early after starting an EI claim can lead to better labour market impacts.
+Recommendation 3: Consideration should be given by NWT to request timely access to data on new EI recipients for targeting purposes, especially if awareness about Employment Assistance Services is also an issue in the territory.
+As detailed in section 2.1 of this report, Aboriginal peoples represent 50% of the population in NWT and they are mainly located outside Yellowknife, the main urban centre. Labour market statistics demonstrate that Aboriginal peoples in NWT experience significantly higher unemployment rates and lower levels of education compared to non-Aboriginals. Furthermore, a report entitled Northwest Territories Labour Market Forecast and Needs Assessment completed in 2016 forecasted that there will be 28,500 to 36,700 job openings in the Territory over the next 15 years. The report estimated that approximately 98% of these job openings will be to replace workers who have retired or moved (mainly non-Aboriginals), and 78% of these jobs will typically require some form of postsecondary education and/or extensive work experience. The report also specified that high levels of education and occupational skills will be critical for meeting the future needs of the labour market. Finally, the profile of LMDA participants between 2001 and 2008 demonstrate that the number of self-identified Aboriginal participants is well below 50% for most interventions. It is not clear from the LMDA data whether Aboriginal persons are underrepresented in EBSMs and whether this is due to self-identification or missing data, or due to low EI eligibility among unemployed Aboriginal persons.
+Recommendation 4: It is recommended that the self-identification of Aboriginal participants be encouraged under the LMDA in order to properly account for the efforts dedicated by NWT to upskill Aboriginal participants and to assist them in returning to work.
+Recommendation 5: With only 22% of the Aboriginal population living in Yellowknife, consideration should be given to examine whether the level of service available across the 32 other communities is not a barrier to access and participation in LMDA programs and services.
+Recommendation 6: With the focus on assisting Aboriginal participants with lower levels of education, consideration should be given to providing additional measures to remove barriers to accessing and completing training such as literacy/essential skills training and learning disability assessments. These measures would help individuals with multiple barriers and those distant from the labour market in preparing for vocational training and eventually reintegrating the labour market. These measures should be reported separately from other Building Essential Skills interventions given their unique objectives.
+Recommendation 7: Consideration should be given to examine to what extent the level of funding (from EI or other sources) and the level of service available under the LMDA, the Canada Job Fund, the Aboriginal Skills and Employment Training Strategy and other territorial programs is coordinated and sufficient to meet the future labour market needs of NWT.
+Given the small number of program participants, labour market outcomes provided some indications that participation in Training-on-the-Job in the 2001 to 2007 period is not leading to favourable labour market outcomes for active claimants in terms of earnings and employment. Some participants were not able to maintain their subsidized jobs and/or to reintegrate into the labour market. At the national level, incremental impacts show that Targeted Wage Subsidies are improving the earnings and employment of participants.
+Recommendation 8: It is important to understand how the program is designed and delivered currently in NWT compared to the 2001 to 2007 period and to explore steps aiming to increase retention and use of the program given the future labour market needs in NWT.
+With the exception of producing incremental impacts for the participation in Employment Assistance Services, the LMDA evaluation was only able to produce labour market outcomes for participants in other EBSMs given the small number of participants. Labour market outcomes were produced over five years and for the entire population of participants using rich data on EI claimants, EBSM participation data and Canada Revenue Agency taxation files. Some data gaps were identified in order to support future evaluation activities. For example:
+Having access to data on whether participants are members of designated groups including Aboriginal peoples, persons with disabilities and recent immigrants would be useful to inform policy development and program design.
+Having access to data on the cost of programming per participant would also provide a refined assessment of how much participation costs for active claimants as compared to former claimants. 
+It is not currently possible to distinguish between different types of training funded under Building Essential Skills (for example literacy, essential skills, adult basic education and vocational training). These various types of training lead to very different labour market outcomes and can help explain the observed outcomes.
+Data assessment revealed the presence of high number of interventions that are classified under the categories of miscellaneous, ambiguous or undocumented.
+Little is also known about the various types of Employment Assistance Services provided under the LMDA in NWT. These services can be very different in nature and it is possible that some may be more effective than others at helping participants return to employment. For example, having access to a computer for researching jobs on its own may yield  different impacts than receiving counselling and assistance to develop a return-to-work action plan.
+Recommendation 9: Improvements in the data collection process are recommended to address key program and policy questions of interest to Canada and NWT. Specifically:
+Collect data on whether participants are members of designated groups including Aboriginal peoples, persons with disabilities and recent immigrants.
+Collect data on the type of training funded under Building Essential Skills and the type of assistance provided under Employment Assistance Services. NWT, ESDC and other provinces and territories should work together to define common categories for both EBSMs.
+Collect detailed data on the cost of EBSM interventions. 
+ESDC and NWT should carry out a data assessment regarding the integrity of data uploads and the standardization process of NWT data within ESDC.
+The evaluation was not able to produce with confidence labour market outcomes for the Self-Employment Option since the data used to assess impacts on earnings may not be the best source of information available to reflect the financial wellbeing of the participants. As well, little is known about the design and delivery of this program. Overall, it is not clear whether participant’s success in improving their labour market attachment through self-employment is more closely associated with their business idea and their entrepreneurship skills rather than the assistance provided under Self-Employment.
+Recommendation 10: Consideration should be given to examine in more detail the design and delivery of Self-Employment Option and whether the performance indicators for this program are appropriate.
+Management response
+Introduction
+Employment and Social Development Canada (ESDC) worked jointly with Northwest Territories (NWT) and 11 other provinces and territories to undertake the 2012 to 2017 second cycle for the Labour Market Development Agreement (LMDA) evaluation.
+Background
+The main objective of Employment Insurance (EI) Part II is to maintain a sustainable EI system by getting clients back to work quickly. Part II allows the federal government to sign agreements (that is  LMDAs) with provinces and territories to design, deliver and manage their own active employment programs for unemployed Canadians, particularly for those who are eligible for EI.
+The LMDAs transfer $2.14B annually ($1.95 billion in program funding and $190 million in administrative funding) to provinces and territories for the design and management of programs. The Northwest Territories’ annual allocation is approximately $4.6 million.
+Building on lessons learned and best practices from previous LMDA evaluations, the second cycle for LMDA evaluation produced high quality evaluation evidence on the effectiveness and efficiency of the Employment Benefits and Support Measures (EBSMs) designed and delivered by provinces and territories.
+Cycle II evaluation confirms that:
+With some exceptions, participants in most EBSMs experienced an increase in employment earnings and a reduction in the use of Employment Insurance and Social Assistance over the five years' post-program period.
+Overall, there are indications that LMDA-funded programs (EBSMs) and services delivered in the NWT are generally helping participants to improve their labour market experience after participation.  As such, evaluation evidence suggests that LMDA-funded programs are aligned with and can contribute to achieving the vision of Skills 4 Success 10-Year Strategic Framework by ensuring that "NWT residents have the skills, knowledge and attitudes for employment success".
+Response to ESDC recommendations
+The Labour Development and Standards division, Department of Education, Culture and Employment (ECE) identified the following actions in relation to the recommendations coming out of the evaluation:
+Recommendation 1: Consideration should be given by NWT to examine to what extent challenges and lessons learned identified at the national level are applicable to the unique context in NWT.
+Recommendation 2: Taking into consideration the future labour market needs in NWT and the existing skills gaps, consideration should be given by NWT to examine the extent to which the caps on the length of financial assistance under Building Essential Skills are appropriate.
+Context from NWT synthesis report:
+The report presents challenges and lessons learned about the design and delivery of Building Essential Skills (including the apprenticeship program), Training-on-the-Job and Employment Assistance Services. These challenges and lessons learned were gathered from EBSM managers and case workers across eight to ten provinces and territories. NWT did not participate in those studies and qualitative information was not collected in NWT.
+GNWT response:
+ECE is implementing the 4-year action plan of Skills 4 Success, which has been built on extensive consultation with labour market stakeholders. Within this context, ECE will examine the challenges and lessons learned identified at the national level to enhance the strategic actions applied. ECE will also examine the LMDA programs and consider whether extending the maximum duration of financial assistance under Skills Development is appropriate.
+Recommendation 3: Consideration should be given by NWT to request timely access to data on new EI recipients for targeting purposes, especially if awareness about Employment Assistance Services is also an issue in the territory.
+Context from NWT synthesis report:
+A study carried out across Canada regarding the timing of participation in Employment Assistance Services showed that receiving assistance early after starting an EI claim can lead to better labour market impacts.
+GNWT response:
+Finalizing the Information and Data Sharing Arrangement (Annex 5) is a priority for ECE, recognizing adequate data on EI recipients will provide evidence to guide ECE in providing more effective and coordinated levels of resources and supports, to populations experiencing multiple barriers to sustained labour market participation.
+Recommendation 4: It is recommended that the self-identification of Aboriginal participants be encouraged under the LMDA in order to properly account for the efforts dedicated by NWT to upskill Aboriginal participants and to assist them in returning to work.
+Recommendation 5: With only 22% of the Aboriginal population living in Yellowknife, considerations should be given to examine whether the level of service available across the 32 other communities is not a barrier to access and participation in LMDA programs and services.
+Recommendation 6: With the focus on assisting Aboriginal participants with lower levels of education, consideration should be given about providing additional measures to remove barriers to accessing and completing training such as literacy/essential skills training and learning disability assessments. These measures would help individuals with multiple barriers and those distant from the labour market in preparing for vocational training and eventually reintegrating the labour market. These measures should be reported separately from other Skills Development interventions given their unique objectives.
+Recommendation 7: Consideration should be given to examine to what extent the level of funding (from EI or other sources) and the level of service available under the LMDA, the Canada Job Fund, the Aboriginal Skills and Employment Training Strategy and other territorial programs is coordinated and sufficient to meet the future labour market needs of NWT.
+Context from NWT synthesis report:
+As detailed in section 2.1 of the report, Aboriginal peoples represent 50% of the population in NWT and they are mainly located outside Yellowknife, the main urban centre. Labour market statistics demonstrate that Aboriginal peoples in NWT experience significantly higher unemployment rates and lower levels of education compared to non-Aboriginals. Furthermore, a report entitled Northwest Territories Labour Market Forecast and Needs Assessment completed in 2016 forecasted that there will be 28,500 to 36,700 job openings in the Territory over the next 15 years. The report estimated that approximately 98% of these job openings will be to replace workers who have retired or moved (mainly non-Aboriginals), and 78% of these jobs will typically require some form of postsecondary education and/or extensive work experience. The report also specified that high levels of education and occupational skills will be critical for meeting the future needs of the labour market. Finally, the profile of LMDA participants between 2001 and 2008 demonstrate that the number of self-identified Aboriginal participants is well below 50% for most interventions. It is not clear from the LMDA data whether Aboriginal persons are underrepresented in EBSMs and whether this is due to self-identification or missing data, or due to low EI eligibility among unemployed Aboriginal persons, or a combination thereof.
+GNWT response:
+ECE will continue to encourage self-identification of Aboriginals clients to support assessment of labour market programs accessed, outcomes, and effectiveness.
+In order to improve the integrity and granularity of LMDA data, ECE will work with ESDC under renewed Labour Market Development Agreements to update the data exchange agreement, where possible, specifically in terms of relevant, effective and administratively supported data collection and data sharing between ECE and ESDC. To the extent possible, this administrative data could include client characteristics, as well as interventions and costs, as recommended in the evaluation report.
+ECE will consider expanding EBSMs, to increase focus on programs that support strategic removal of barriers such as literacy/essential skills and learning disabilities. ECE will examine the costs and benefits of gathering and reporting additional measures and will explore with ESDC the possibility of collecting more detailed intervention types under the Skills Development program.
+ECE will work with ESDC to provide more flexibility under the LMDA programs, to better target unemployed Canadians who need access to skills and training programs, given the commitment to modernize labour market transfer agreements.
+Recommendation 8:  It is important to understand how the Targeted Wage Subsidies/Training-on-the-Job program is designed and delivered currently in NWT compared to the 2001 to 2007 period and to explore steps aiming to increase retention and use of the program given the future labour market needs in NWT.
+Context from NWT synthesis report:
+Given the small number of program participants, labour market outcomes provided some indications that participation in Training-on-the-Job in the 2001 to 2007 period is not leading to favourable labour market outcomes for active claimants in terms of earnings and employment. Some participants were not able to maintain their subsidized jobs and/or to reintegrate the labour market. At the national level, incremental impacts show that Targeted Wage Subsidies are improving the earnings and employment of participants.
+GNWT response:
+The amount of data available limits the ability to assess influences on decreased usage of the programs. ECE will monitor program usage and consider conducting internal consultation to identify impacts, including EI eligibility and promotion of programming or potential barriers to employer participation.
+Recommendation 9: Improvements in the data collection process are recommended to address key program and policy questions of interest to Canada and NWT. Specifically:
+Collect data on whether participants are members of designated groups including Aboriginal peoples, persons with disabilities and recent immigrants.
+Collect data on the type of training funded under Building Essential Skills and the type of assistance provided under Employment Assistance Services. NWT, ESDC and other provinces and territories should work together to define common categories for both EBSMs.
+Collect detailed data on the cost of EBSM interventions.
+ESDC and NWT should carry out a data assessment regarding the integrity of data uploads and the standardization process of NWT data within ESDC.
+Context from NWT synthesis report:
+With the exception of producing incremental impacts for the participation in Employment Assistance Services, the LMDA evaluation was only able to produce labour market outcomes for participants in other EBSMs given the small number of participants. Labour market outcomes were produced over five years and for the entire population of participants using rich data on EI claimants, EBSM participation data and Canada Revenue Agency taxation files. Some data gaps were identified in order to support future evaluation activities. For example:
+Having access to data on whether participants are members of designated groups  including Aboriginal peoples, persons with disabilities and recent immigrants would be useful to inform policy development and program design.
+Having access to data on the cost of programming per participant would also provide a refined assessment of how much participation costs for active claimants as compared to former claimants.
+It is not currently possible to distinguish between different types of training funded under Building Essential Skills (for example literacy, essential skills, adult basic education and vocational training). These various types of training lead  to very different labour market outcomes and can help explain the observed outcomes. 
+Data assessment revealed the presence of a high number of interventions that are classified under the categories of miscellaneous, ambiguous or undocumented.
+Little is also known about the various types of Employment Assistance Services provided under the LMDA in NWT. These services can be very different in nature and it is possible that some may be more effective than others at helping participants return to employment. For example, having access to a computer for researching jobs on its own may yield different impacts than receiving counselling and assistance to develop a return-to-work action plan.
+GNWT response:
+In order to improve the integrity and granularity of LMDA data, ECE will work with ESDC under renewed Labour Market Development Agreements to update the data exchange agreement, where possible, specifically in terms of relevant, effective and administratively supported data collection and data sharing between ECE and ESDC. To the extent possible, this administrative data could include client characteristics, as well as interventions and costs, as recommended in the evaluation report.
+Recommendation 10: Consideration should be given to examine in more detail the design and delivery of Self-Employment Option and whether the performance indicators for this program are appropriate.
+Context from NWT synthesis report:
+The evaluation was not able to produce with confidence labour market outcomes for the Self-Employment Option since the data used to assess impacts on earnings may not be the best source of information available to reflect the financial wellbeing of the participants. As well, little is known about the design and delivery of this program. Overall, it is not clear whether participant’s success in improving their labour market attachment through self-employment is more closely associated with their business idea and their entrepreneurship skills rather than the assistance provided under Self-Employment.
+GNWT response:
+ECE will work with ESDC, provinces, and territories, through the Evaluation Steering Committee, to consider other available indicators and outcomes.
+1. Introduction
+Employment and Social Development Canada (ESDC) worked jointly with Northwest Territories (NWT) and 11 other Provinces and Territories (P/Ts) to undertake the 2012 to 2017  second cycle for the Labour Market Development Agreement (LMDA) evaluations. The first cycle of LMDA evaluation was carried out between 1998 and 2012 and involved the conduct of bilateral formative and summative evaluations in all P/Ts. Under the second cycle, the evaluation work consisted of conducting two to three studies per year on the Employment Benefits and Support Measures (EBSMs) similar programming delivered under these agreements. The studies generated evaluation evidence on the effectiveness, efficiency and design/delivery of LMDA programs and services for Canada overall, for NWT, and for the 11 other P/Ts that opted for a joint evaluation process with the Government of Canada.
+This report presents a summary of the findings from the studies conducted for NWT and it is organised as follows:
+Introduction with an overview of the studies summarized in this report including their scope and methodology, and contextual information on the LMDAs.
+Findings section with a discussion around the unique labour market context in NWT and a summary of evaluation evidence for the five EBSMs examined in the LMDA evaluation studies.
+Conclusions and lessons learned.
+Recommendations that emerge from the evaluation findings and areas for future investigation.
+1.1 Labour Market Development Agreement background
+LMDAs are bilateral agreements between Canada and each P/T and were established under Part II of the 1996 Employment Insurance (EI) Act. As part of these agreements, Canada transfers $2.14B annually to P/Ts (including $190M in administration funds) in order to design and deliver programs and services to help individuals prepare for, obtain and maintain employment.
+The Canada – NWT LMDA was signed on February 27, 1998. The agreement transferred responsibility to NWT for the design and delivery of programs and services. The NWT’s Department of Education, Culture, and Employment administers these programs, which are classified under two categories: 1) Employment Benefits and 2) Support Measures.
+Employment Benefits
+Employment Benefits funded under the LMDA are offered to unemployed individuals who 1) are actively on EI (active claimants); 2) ended their benefit period within three years before participating (former claimants); or 3) established a claim for maternity or parental benefits within the past five years and are returning to the labour force for the first time (former claimants). Employment Benefits include the following categories:
+Skills Development (Building Essential Skills) helps participants obtain employment skills by giving them financial assistance that enables them to select, arrange and pay for classroom training. This program also includes apprenticeship training. 
+Targeted Wage Subsidies (Training-on-the-Job) help participants obtain on-the-job work experience by providing employers with financial assistance to help with the wages of participants.
+Self-Employment (Self-Employment Option) provides financial assistance and business planning advice to EI-eligible participants to help them start their own business. This financial assistance is intended to cover personal living expenses and other expenses during the initial stages of the business.
+Job Creation Partnerships provide participants with opportunities to gain work experience that will lead to ongoing employment. Employment opportunities are provided by projects that contribute to developing the community and the local economy. This EBSM was not offered in NWT during the period observed.
+Targeted Earnings Supplements encourage unemployed persons to accept employment by offering them financial incentives. This EBSM was not offered in NWT during the period observed.
+Support measures
+Support Measures are available to all unemployed individuals including those not eligible to receive EI and include:
+Employment Assistance Services such as individual counselling, action planning, help with job search skills, job-finding clubs, job placement services, the provision of Labour Market Information, case management and follow-up.
+Labour Market Partnerships provide funding to help employers, employee and employer associations, and communities improve their capacity to deal with human resource requirements and implement labour force adjustments. These partnerships involve developing plans and strategies, and implementing labour force adjustment measures.
+Research and Innovation supports activities that identify better ways of helping people prepare for or keep employment and be productive participants in the labour force. Funds are provided to eligible recipients to enable them to carry out demonstration projects and research for this purpose.
+Job Creation Partnerships, Targeted Earnings Supplements, Labour Market Partnerships, and Research and Innovation were not covered under the second cycle of this LMDA evaluation.
+Table 1 provides an overview of the share of funding allocated to the five programs and services examined under the second cycle for LMDA evaluation and the average cost per intervention. It is noted that the average cost per intervention was calculated based on the 2002 to 2005 data from the EI Monitoring and Assessment Reports. The 2002 to 2005 period corresponds to the cohort of participants originally selected for incremental impacts and cost-benefit analysis in the LMDA evaluation (the cohort was widened to include 2001 to 2007 participants in the case of NWT to allow sufficient sample size for analysis).
+Sources: EI Monitoring and Assessment Reports 2002 to 2003 to 2014 to 2015.
+					Note: Labour Market Partnerships and Research and Innovation represented about 6% of EBSM expenditures in 2014 to 2015.
+1.2 Methodology
+This section presents key aspects of the quantitative analyses carried out as part of the LMDA studies, while a more detailed description of the methodology is provided in Appendix A.
+All quantitative analyses were based on EI Part I (EI claim data) and Part II (EBSM participation data) administrative data that was linked to T1 and T4 taxation files from the Canada Revenue Agency. Incremental impact analyses and the cost-benefit analyses were based on 100% of participants in the reference period selected.
+Incremental impacts analysis
+One study assessed program effectiveness by estimating incremental impacts from participation in Employment Assistance Services on participants' labour market experience (for example earnings from employment/self-employment, incidence of employment, use of EI and Social Assistance and dependence on income support) after participation. The role of the incremental impact analysis is to isolate the effects of participation from other factors such as the economic cycle. In order to achieve this, the incremental impact analyses compared the labour market experience of participants before and after their participation with that of non-participants (see the example of incremental impact calculation in Figure 1).
+The matching of participants and comparison group members used up to 75 socio-demographic and labour market variables observed over five years before participation. For active claimants, the incremental impacts were measured relative to a comparison group of active claimants who were eligible to, but did not, participate in EBSMs during the reference period.
+Figure 1. Example of incremental impact calculation
+
+
+Text description of Figure 1
+Figure 1 presents an example of the approach used to estimate the incremental impacts on earnings.
+Factors accounted for in the cost-benefit analysis
+Program efficiency was assessed through a cost-benefit analysis which compared the cost of participating in Employment Assistance Services for the participants and the cost of delivering the program for the government to the benefits generated by the program. Overall, this analysis provided insight on the extent to which participation exclusively in Employment Assistance Services interventions is efficient for society (that is, for both the participants and the government). The costs and benefits accounted for in the calculations were as follows (see detailed  definitions in Appendix A):
+Program cost: includes program and administration costs paid by the government. 
+Marginal social cost of public funds: represents the loss incurred by society when raising additional revenues such as taxes to fund government programs. 
+Employment earnings: consist of incremental impacts on participants' earnings during and after participation. The calculation accounts for the participant's forgone earnings during participation (that is, opportunity cost). Employment earnings were also increased by 15% to account for fringe benefits such as employer-paid health, life insurance and pensions contributions.
+Labour Market Outcomes
+The analysis of outcomes provides descriptive statistics on the labour market experience of participants before, during and after participation. For example, it shows the average annual earnings of active claimants before, during and after participation, and presents what changes were observed from before to after participation. Overall, the analyses were conducted over a period of 9 to 12 years (five years before participation, one or two years during participation, and three or five years after participation).
+The outcome analyses provide an assessment of how the labour market situation of participants evolved over time, but does not permit inference regarding the extent to which those changes were due to EBSM participation. For example, increases in employment earnings over the period examined could be partly due to inflation or normal wage increases.
+When the number of participants was sufficient, outcomes were examined for active and former EI claimants who were youth (under 30 years old), older workers (55 years old and over) and long-tenured workers. Long-tenured workers refer to individuals who had long-term attachment to the labour market but not necessarily a long tenure with the same employer.
+Strengths and limitations of the studies
+One of the key strengths of the studies is that all quantitative analyses were based on administrative data rather than survey responses. Compared to survey data, administrative data are not subject to recall errors or response bias.
+The propensity score models used to match Employment Assistance Services participants and non-participants for the incremental impact analysis are judged to be robust in part because they were based on five years of pre-participation data and on a vast array of variables including socio-demographic characteristics, location, skills level related to last occupation and indicators of labour market attachment. Sensitivity analysis and the use of alternative estimation methods have increased confidence in the incremental impact estimates. However, one limitation of the propensity score matching technique is that one cannot be fully certain that the impacts were not influenced by factors not captured in the data.
+The cost-benefit analysis accounted for all quantifiable costs and benefits that are directly attributable to Employment Assistance Services and could be estimated with the available administrative data. The analysis did not account for non-quantifiable benefits, such as improvements in the participant’s well-being or the multiplier effect of increased spending on the economy.
+In the case of NWT, we were only able to produce incremental impacts for active EI claimants who participated exclusively in Employment Assistance Services interventions and this is mainly due to the small number of participants in the Territory. Incremental impacts were produced for active claimants who participated in Building Essential Skills but balancing tests were not satisfied. As a consequence, the estimates were not considered to be robust enough to be presented in this report.
+The report presents the labour market outcomes for the participation in various programs and services over a twelve year period (that is, 5 years pre-program, 1 to 2 years in-program and 5 years post-program). Readers should be careful to note, when interpreting these outcomes, that changes may be due to external factors (for example inflation, youth maturation process, etc.) and not EBSM participation. In the case of youth, improvement in their labour market outcomes is in part due to the normal maturation process during the period under examination. When compared to individuals in other age groups, youth are often those with the lowest earnings and incidence of employment before participation and the highest levels after participation.
+Under the second cycle of LMDA evaluation, four studies of qualitative nature were carried out addressing issues and questions related to program design and delivery, challenges and lessons learned. The studies covered Employment Assistance Services, Skills Development, Skills Development - Apprentices and Targeted Wage Subsidies. NWT did not participate in these studies. This report, therefore, will summarize information that was produced at the national level with the objective of sharing lessons learned and best practices with NWT. When interpreting the qualitative findings from the national level evaluation, readers should keep in mind that those are based on the perception of key informants who are directly involved in the design or delivery of the program. Their perception may be representative of their own region or community but not necessarily of the entire country, and may not be generalizable in this way to NWT.
+1.3 Overview of the studies summarized in this report
+Findings presented in this report were drawn from four separate studies produced on NWT LMDA interventions and participants. These studies examined issues related to program effectiveness, efficiency, design/delivery and used a mix of qualitative and quantitative methods. Each study examined evaluation issues in relation to active and former EI claimants.
+Table F1 in Appendix F presents an overview of these studies, including the type of evidence  generated, the methods used, the reference period and the length of the post-program period over which program effects were observed.
+2. Evaluation findings
+2.1 Rationale and Labour Market context
+Labour market context
+NWT covers an area of approximately 1,346,106 km. The Territory had a total population of 44,088 as of July 2015, with almost half of individuals residing in Yellowknife (20,637) and only five (of 33) communities in total with populations in excess of 2,000 (Inuvik, Hay River, Fort Smith, Behchoko and Yellowknife).  The population is equally split between Aboriginal (22,050) and non-Aboriginal population (22,038). The majority (78%) of Aboriginal peoples live in the smaller communities and only 4,901 (22%) live in Yellowknife.
+As shown in Figure 2, Aboriginal peoples experience significantly high unemployment compared to the non-Aboriginal population. In 2015, 16.8% of the Aboriginal population was unemployed compared to 2.2% for non-Aboriginals. Data also demonstrate notable differences in the unemployment rate between urban (Yellowknife) and rural populations.
+Figure 2. Unemployment rate by region and by ethnicity between 2001 to 2015
+
+
+Text description of Figure 2
+Figure 2. Unemployment Rate by Region and by Ethnicity    between 2001 and 2015
+
+
+
+
+
+						Source: Statistics Canada Labour Force Survey as prepared by the NWT Bureau of Statistics.
+						Note: Unemployment data by ethnicity (Aboriginal and Non-Aboriginal) was not available prior to 2003.
+Similar  disparities can also be observed with respect to levels of education. Figure 3 illustrates the educational levels of working-age (over 15 years old) residents in NWT. Data show that 42.7% of working-age Aboriginals lack a High School diploma, compared to only 7.8% for non-Aboriginals. As well, only 4.7% of working-age Aboriginals have a university degree compared to 34.2% for non-Aboriginals.
+Figure 3. NWT population (Over 15 years old) by ethnic group and highest level of schooling in 2014
+
+
+Text description of Figure 3
+
+
+
+Source: NWT 2014 Community Survey as prepared by the NWT Bureau of Statistics.
+The NWT government partnered with the Conference Board of Canada to produce a report entitled Northwest Territories Labour Market Forecast and Needs Assessment in April 2016. The report forecasted that there will be 28,500 to 36,700 job openings in the Territory over the next 15 years. The report estimated that approximately 98% of these job openings will be to replace workers who have retired or moved, and 78% of these jobs will typically require some form of postsecondary education and/or extensive work experience.
+Data presented above from the 2014 Community Survey conducted by the NWT Bureau of Statistics shows that the lack of post-secondary education particularly among the Aboriginal population will impact the economy, as it is the non-Aboriginal population who are most likely to retire and move away. As such, high levels of education and occupational skills will be critical for meeting the future needs of the labour market.
+LMDA investments align with territorial government priorities
+Active labour market programs aim to help unemployed or underemployed individuals find and maintain employment. They are fairly similar across the Organization for Economic Co-operation and Development countries and consist of  skills training in a classroom setting, work experience with employers (often  subsidized) or in the public/non-profit sector, return-to-employment assistance  and self-employment assistance.
+In NWT, the Department of Education, Culture, and Employment administers a range of active labour market programming targeted at various groups of individuals. Programs and services offered to active and former EI claimants  are mainly funded under the LMDA.
+The Department of Education, Culture, and Employment developed the  Skills 4 Success 10-Year Strategic Framework with the vision that "NWT  residents have the skills, knowledge and attitudes for employment success". The  Framework identifies four fundamental goals with detailed priorities designed  to "develop NWT residents' skills through education and training, close  education and employment gaps through streamlined supports, address recruitment  and retention challenges, and provide reliable labour market data for informed  decision making".
+The NWT government outlined its priorities in its Mandate of the Government of the Northwest Territories 2016 to 2019. The document specified that "Economic  development must be supported by improved and intensified skills development  for the labour market, so that NWT residents can take advantage of current and future job opportunities". Detailed activities to pursue included:
+"We will get more 18 to 24 year olds into the labour market by using a better mix of improved educational attainment and skill development, while matching skills with employer needs through improved  career development supports.
+We will take steps to close the skills gap using the Skills 4 Success strategic framework, and by working with Aurora College  on a renewed strategic plan, refocusing support for post-secondary institutions  in NWT, improving outcomes from our Community Learning Centres, strengthening  the apprenticeship program, and improving our career development services."
+Investments under the LMDA in 2014 to 2015 were mainly targeted toward Employment Assistance Services and Building Essential Skills with 44% and 40% of total budget respectively. As well,  864 individuals participated in Employment Assistance Services, followed by 155  in Apprenticeship training, 44 in Building Essential Skills training and 64  participated in Training-on-the-Job.
+Overall, incremental impacts for Employment Assistance Services participants and gross outcomes reported in this report for Building Essential Skills, Training-on-the-Job and Self-Employment Option participants provide some indications that LMDA funded  programs and services delivered in NWT are generally helping participants improve their labour market experience after participation. Some participants do not appear to be benefiting from participation and remain unemployed following participation. As such, evaluation evidence suggests that LMDA funded programs are aligned with and can contribute to achieving the vision of Skills 4 Success  10-Year Strategic Framework by ensuring that "NWT residents have the skills, knowledge and attitudes for employment success".
+2.2 Building essential skills
+2.2.1 Program description
+Based on information submitted by the Department of Education, Culture, and Employment and supplemented with information from the Department's Internet site
+The Skills Development program in NWT is called Building Essential Skills. The program provides financial assistance to active and former EI claimants for training opportunities that will assist them in returning to work. Short-term financial assistance is provided with the objective of reducing participants’ dependency on EI and social/income assistance, and increasing employment or self-employment through a cost-shared approach to training.  Participants are provided with financial assistance to offset training expenses and are also expected to make a minimum financial contribution toward these costs depending on their needs.
+Eligible training activities can include (but are not limited to):
+Workplace essential skills.
+Employment readiness programs.
+Pre-employment training courses.
+Skill-specific training programs.
+Academic upgrading and life skills.
+The program will cover only one semester of academic upgrading and life skills training, which mustlead to further skills training. Eligible training activities must be for full-time  studies at an approved institution or training provider. While in training,  clients can still access EI benefits. Financial assistance is available for  training programs that run for 1 week to a maximum of 52 weeks, and may cover:
+Tuition/course costs.
+Books/materials and special equipment costs.
+Living expenses.
+Childcare and transportation costs.
+Special support for disability.
+2.2.2 Program delivery
+Based on information submitted by the Department of Education, Culture, and Employment
+The program is delivered through Service Centres in six regional hubs: Inuvik, Norman Wells, Fort Simpson, Hay River, Fort Smith, and Yellowknife. Career Development Officers meet with and counsel clients to determine the most suitable program or training for them.
+2.2.3 Profile of program participants
+Table B1 in Appendix B presents the socio-demographic characteristics for two cohorts of active and former EI claimants who started a Building Essential Skills intervention in 2001 to 2007 and 2006 to 2008.
+The majority of active claimants who started program participation in the 2001 to 2007 and 2006 to 2008 periods were male (65% and 72% respectively), and between 25 and 44 years old (62% and 63% respectively). Additionally, 34% of the 2001 to 2007 participants and 41% of the 2006 to 2008 participants self-identified as Aboriginal individuals. Participants in both cohorts most frequently held occupations requiring college or apprenticeship training in the last job they held prior to participation (38% and 46% respectively).
+Similarly, former claimants who started program participation in the 2001 to 2007 and 2006 to 2008 periods were predominantly male (61% and 84% respectively), and between the age of 25 and 44 years old (72% and 61% respectively). Additionally, 44% of 2001 to 2007 participants and 55% of 2006 to 2008 participants self-identified as Aboriginal individuals. While participants in the 2001 to 2007 cohort most frequently held occupations requiring secondary or occupational training (36%), former claimants in the 2006 to 2008 cohort held most frequently occupations requiring college or apprenticeship training (45%) in the last job they held prior to participation.
+2.2.4 Labour Market Outcomes
+Active claimants
+As shown in Table B2 in Appendix B, active EI claimants who started program participation between 2001 and 2007 earned, on average, $17,504 more annually in the five years after participation compared to the five years  before participation. Figure 4 depicts the growth in  average annual earnings for these participants from $16,417 in the 5th  pre-program year to $41,979 in the 5th post-program year. It is noted that  average earnings were not adjusted for inflation using the Consumer Price Index  given the fact that the program start year varied between 2001 and 2007.
+The average annual proportion of participants employed decreased from 89% to 86% from before to after participation. Possible explanations for this decrease include retirement decisions (with 4% of participants aged 55 and over), and the fact that some participants did not benefit from program participation while others simply left the labour force for various reasons.
+The average annual proportions of program participants claiming EI and social assistance benefits declined by 5 percentage points each between the pre-and-post program periods, from 35% to 30% and 10% to 5% respectively. This was reflected in a small decrease of 1 percentage point in the level of dependence on income support.
+Figure 4. Average earnings for active claimants in Building Essential Skills
+
+
+Text description of Figure 4
+
+
+
+Note: Average earnings include participants with zero earnings in a specific year. As well, earnings were not adjusted for inflation given the fact that the program start year varied between 2001 and 2007.
+Active claimants who started Building Essential Skills participation between 2006 and 2008 followed similar outcome trends compared to the 2001 to 2007 participants. They experienced increase in average annual earnings ($19,756), decrease in the proportion of participants employed (5 percentage points) and decrease in the average annual proportion of participants claiming EI (5 percentage points) between the pre- and post-program periods. Possible explanations for the decrease in the proportion of participants employed include retirement decisions (with 3% of participants aged 55 and over), and the fact that some participants did not benefit from program participation while others simply left the labour force for various reasons.
+There was, however, a slight increase of the average annual proportion of program participants on social assistance (2 percentage points). The average annual dependence on income support did not change between the pre-and-post program periods.
+Labour market outcomes for sub-groups of interest  were as follows:
+Youth (under 30 years old) who started program  participation between 2001 and 2007 experienced a large increase in the average  annual earnings ($28,709) from before to after participation. They also experienced slight increases in the proportion employed and claiming EI (1 percentage point each). Furthermore, the average annual proportion of youth claiming social assistance decreased  by 4 percentage points. This was reflected in a small decrease of 1 percentage point in the dependence  on income support. 
+Long-tenured workers who started program  participation between 2007 and 2009 had higher earnings on average ($12,188) in  the 3 years following participation compared to the 5 years prior. The average  annual proportion of participants claiming EI decreased by 6 percentage points,  but so did the proportion of participants employed (8 percentage points). As well, social assistance use and dependence on income support increased, on  average, from before to after participation (4 percentage points each). Possible  explanations for the decrease in the proportion of participants employed include  retirement decisions (with 7% of participants aged 55 and over), and the fact  that some participants did not benefit from program participation while others  simply left the labour force for various reasons. It is noted that Long-tenured workers were by  definition employed in the 5 years pre-program participation.
+Former claimants
+As shown in Table B3 in Appendix B and illustrated in Figure 5, average annual earnings for former EI claimants who started program participation in 2001 to 2007 did not follow a steady growth  path over the pre- and post-participation periods. Overall, average annual earnings of former claimants were $7,346 higher after participation compared to their annual average over the five years before participation.
+Figure 5. Average earnings for former claimants in Building Essential Skills
+
+
+Text description of Figure 5
+
+
+
+Note: Average earnings include participants with zero earnings in a specific year. As well, earnings were not adjusted for inflation given the fact that the program start year varied between 2001 and 2007.
+While the average proportion of former claimants who claimed EI decreased from 42% to 24% between the pre- and post-participation periods (18 percentage points decrease), the average annual proportion of participants employed decreased by 12 percentage points between the same periods. As well, the average annual proportion of participants who collected social assistance increased by 2 percentage points and the level of dependence on income support did not change. Possible explanations for the decrease in the proportion of participants employed include retirement decisions (with 7% of participants aged 55 and over), and the fact that some participants did not benefit from program participation while others simply left the labour force for various reasons.
+Former claimants who started program participation between 2006 and 2008 followed similar outcome trends compared to the 2001 to 2007 participants. Their average annual earnings were $14,768 higher after participation compared to their annual average earnings over the five years before participation. They also experienced decreases (6 percentage points) in the proportion of participants employed and in the average annual proportion of participants claiming EI (5 percentage points). The average annual proportion of former claimants who collected social assistance increased by 7 percentage points and the level of dependence on government income support increased by 3 percentage points. Possible explanations for the decrease in the proportion of participants employed include retirement decisions (with 10% of participants aged 55 and over), and the fact that some participants did not benefit from program participation while others simply left the labour force for various reasons.
+2.2.5 Challenges and Lessons Learned about Program Design and Delivery
+Based on a document review and 53 key informant interviews in 9 provinces and territories (P/Ts) completed in summer 2015
+Managers and caseworkers from 9 P/Ts involved in the delivery of Skills Development were interviewed during the summer of 2015. These interviews, in addition to document reviews, provided insight into the challenges and lessons learned related to program design and delivery. National-level qualitative findings are included in this report with the perspective of sharing lessons learned and best practices with NWT. Challenged related to program delivery included:
+Geographic locations and remoteness pose barriers to accessing training due to factors such as lack of training options in certain areas or lack of transportation (9 P/Ts).
+Caseworkers need extra time and resources to case manage participants with multiple barriers to employment (8 P/Ts). As well, they may not be fully equipped to assist participants who face significant challenges or mental health issues (3 P/Ts).
+The lack of essential skills (5 P/Ts), learning disabilities and literacy issues (3 P/Ts) are barriers to accessing and completing training. Individuals lacking the pre-requisite skills needed to succeed in  occupational-specific training may drop out of more advanced training.
+Some participants face financial constraints during the application process or the waiting period prior to the start of training and this may cause some to  drop out (4 P/Ts).
+There is a lack of awareness about the program (4 P/Ts) by potential participants.
+Key informants provided some best practices and lessons learned, including:
+Requesting prospective participants  to undertake labour market research and interviews with employers and training institutions helps them to take ownership of their return-to-work process and to make an informed decision about training (8 P/Ts)
+Regular coordination and communication among caseworkers, training providers and other stakeholders are important (7 P/Ts)
+Financial assistance to cover child care expenses (7 P/Ts), living allowance (4 P/Ts), transportation and tuition (3 P/Ts) can be increased to improve access/completion of training 
+Flexible/multi-stage training plans that consider life and essential skills along with occupational training is beneficial for those with multiple barriers to employment (6 P/Ts)
+Regular monitoring of participants during and after training is beneficial particularly for individuals with multiple barriers to employment. It allows for the identification of additional supports that can be offered if participants encounter challenges while in training (6 P/Ts)
+Conducting more learning disability and skills assessments at the outset of participation allows for the identification of supports needed by participants to succeed in training (4  P/Ts)
+Extending financial assistance beyond the training period would help participants while they undertake job search (4 P/Ts)
+2.3 Building essential skills - Apprenticeship
+2.3.1 Program description and delivery
+Based on information submitted by the Department of Education, Culture, and Employment and supplemented with information from the Department’s Internet site
+The Skills Development - Apprentices program in NWT is called Building Essential Skills – Apprenticeship. The program description and delivery approach are identical to those of the Building Essential Skills program presented in Section 2.2. Participants are provided with financial assistance to offset expenses related  to apprenticeship training and are also expected to make a minimum financial contribution toward these costs depending on their needs.
+As of March 31, 2016, data from the NWT Client Management and Administration System shows that there were 391 registered apprentices in NWT working for 80 employers. The EI Monitoring and Assessment Reports specified that there were 155 new apprenticeship interventions in 2014 to 2015, 181 in 2013 to 2014 and 122 in 2012 to 2013.
+Under the second cycle for LMDA evaluation, a study on Building Essential Skills – Apprenticeship included a component to produce a profile of participants in the 2003 to 2005 and the 2013 to 2014 periods as well as labour market outcomes for the 2003 to 2005 participants. In the 2003 to 2004 and 2004 to 2005, a total of  298 interventions were recorded in the LMDA database. Another 203 interventions were recorded in 2013 to 2014. However, after the creation of Action Plan Equivalents as the unit of analysis for apprentices, only 36 participants in the 2003 to 2005 period and 5 participants in 2013 to 2014 received a Building Essential Skills - Apprenticeship intervention as the main EBSM category. Data anomalies related to miscoding of interventions were identified and this contributed to reducing the number of Action Plan Equivalents for program participants.
+2.3.2 Challenges and lessons learned about program design and delivery
+Based on a document review and 53 key informant interviews in 10 P/Ts completed in summer 2015
+Existing literature has shown that there is a fairly high non-completion rate among apprentices in Canada (40 to 50%). Furthermore, subject matter literature revealed that despite the growth in apprenticeship registrations in Canada, there has not been a corresponding increase in completions. Key informants from 6 P/Ts confirmed this trend.
+Interviews across 10 P/Ts, in addition to document reviews, provided insight into the  challenges and lessons learned related to program design and delivery. National-level qualitative findings are included in this report with the perspective of sharing lessons learned and best practices with NWT.
+Key informants suggested some factors that could lead the apprentices to  drop out, including:
+Financial  difficulties (for example, not being able to live on EI benefits while on  training) (10 P/Ts).
+Apprentices  leaving the trade (7 P/Ts).
+Employers  were unwilling or unable to release their apprentices for training (7 P/Ts).
+Lack of  training opportunities in local communities (7 P/Ts).
+Labour  market fluctuations and/or low demand for certain trades (6 P/Ts).
+Lack of or  low level of essential skills (6 P/Ts).
+Delays in  getting EI benefits (for example, EI eligibility is not confirmed until  training is almost complete) (5 P/Ts).
+Key informants also highlighted lessons learned related to program design  and delivery or apprenticeship in general. These include:
+Providing  more financial supports for apprentices (6 P/Ts).
+Providing  essential skills training to individuals facing multiple barriers to employment  prior to the technical training sessions (6 P/Ts).
+Conducting  needs assessments to identify all potential barriers to training at the  beginning of the apprenticeship process (4 P/Ts).
+Providing apprentices  with training on how to create and maintain a budget (3 P/Ts).
+2.4 Training-on-the-Job
+2.4.1 Program description and delivery
+Based on information submitted by the Department of Education, Culture, and Employment and supplemented with information from the Department’s Internet site
+The Targeted Wage Subsidies program in NWT is called Training-on-the-Job. The program is designed to financially assist employers in training a northern workforce (particularly EI-eligible clients) to obtain the necessary skills to get and keep meaningful work.  This training is intended to result in permanent employment for the trainee within that organization.
+Employers must submit a detailed training plan and exhibit good standing and compliance with respect to territorial and federal employment standards and labour laws. They must provide training that meets the terms of the agreement and monitor, evaluate, and report on the trainee's progress. Employers must also provide a reasonable guarantee of employment at the end of training.
+Financial assistance is only available for full-time positions (minimum 30 hours per week) that pay at least minimum wage, and employers must contribute at least 20% of the trainee's wage. In addition to the wage subsidy, financial assistance may also include course costs (tuition, materials) and special equipment (tools, clothing). Financial assistance is available for up to 52 weeks.
+NWT has a specific wage subsidy program targeted to apprentices called Apprenticeship Training-on-the-Job.  The program is designed to offset employer costs specifically related to training apprentices in a designated trade.
+These programs are delivered through the Department of Education, Culture, and Employment Service Centres in six regional hubs: Inuvik, Norman Wells, Fort Simpson, Hay River, Fort Smith, and Yellowknife.  Career Development Officers meet with and counsel clients to determine if the program is suited for them.
+Data from EI Monitoring and Assessment Reports reveal that the number of  participants was 77 in 2013 to 2014 and 67 in 2014 to 2015.
+2.4.2 Profile of program participants
+Table C1 in Appendix C presents the socio-demographic characteristics of active and former EI claimants who started an intervention between 2001 and 2007.
+Active claimants who started program participation in 2001 to 2007 were mainly male (61%) and between 25 and 44 years old (64%). More than one-third (35%) of these participants self-identified as Aboriginal individuals, and just over half most frequently held occupations requiring college or apprenticeship training (52%) in the last job they held prior to participation. In the year preceding the start of their intervention, active claimants had average annual earnings of $34,941.
+Former claimants who started program participation in 2001 to 2007 were mainly female (58%) and between 25 and 44 years old (61%). A greater proportion of former claimant participants were under 25 years old (16% vs 8% of active claimants). As well, 45% of former claimants self-identified as Aboriginal individuals. These participants mainly held occupations requiring secondary or occupational training (44%) in the last job they held prior to participation. Former claimants had significantly lower average earnings in their year before participation ($15,284) compared to active claimants.
+The profile and outcomes of program participants in the 2006 to 2008 cohort could not be examined because the number of participants was too small to produce reliable statistics.
+2.4.3 Labour market outcomes
+Active claimants
+As shown in Table C2 in Appendix C and illustrated in Figure 6 below, active claimants who started an intervention between 2001 and 2007 earned $4,349 less annually (on average) in the five years after participation compared to the five years before participation. Earnings data also demonstrate that individuals who managed to find and keep an employment experienced $7,575 increase in annual average earnings in the five years after participation compared to the five years before participation.
+Figure 6. Average earnings for active claimants in Training-on-the-Job
+
+
+Text description of Figure 6
+
+
+
+Notes: Average earnings include participants with zero earnings in a specific year. As well, earnings were not adjusted for inflation given the fact that the program start year varied between 2001 and 2007.
+The decrease in earnings was accompanied by a 28 percentage-point decrease in the proportion of participants employed. At 62%, the average proportion of active claimants employed is substantially lower in the post-program period compared to the pre-program period (90%). With a total of 62 program participants in the 2001 to 2007 period, the 28 percentage-point decrease in the proportion of participants employed is equivalent to 18 participants. Compared to the five years before the program period, the average annual proportion of participants claiming EI benefits decreased from 32% to 18% while average social assistance benefit use decreased from 7% to 2% over the five years post-program. Correspondingly, active claimants also exhibited a reduced dependence on income support in the 5 years observed following their program participation (from 13% to 9%).
+Possible explanations for the decrease in the proportion of participants employed include retirement decisions (with 3% of participants aged 55 and over), and the fact that some participants did not benefit from program participation while others simply left the labour force for various reasons.
+Former claimants
+As shown in Table C3 in Appendix C and illustrated in Figure 7 below, former claimants who started an intervention between 2001 and 2007 earned $12,572 more annually (on average) in the five years after participation compared to the five years before participation.
+Figure 7. Average earnings for former claimants in Training-on-the-Job
+
+
+Text description of Figure 7
+
+
+
+Notes: Average earnings include participants with zero earnings in a specific year. As well, earnings were not adjusted for inflation given the fact that the program start year varied between 2001 and 2007.
+Similar to active claimants, there was 13 percentage points decrease in the proportion of participants employed. At 79%, the average proportion of former claimants employed is lower in the post-program period compared to the pre-program period (92%). Compared to the five years before program participation, the average annual proportion of participants claiming EI benefits decreased from 43% to 22% while average use of social assistance benefits decreased from 12% to 7% over the five years post-program. Correspondingly, former claimants exhibited a reduced dependence on income support in the 5 years following their program participation (from 17% to 12%).  Possible explanations for the decrease in the proportion of participants employed include retirement decisions (with 8% of participants aged 55 and over), and the fact that some participants did not benefit from program participation while others simply left the labour force for various reasons.
+2.4.4 Challenges and lessons learned about program design and delivery
+Based on document review and 44 key informant interviews in 8 P/Ts completed in summer 2015
+Managers and caseworkers from 8 P/Ts involved in the delivery of Targeted Wage Subsidies were interviewed during the summer of 2015. These interviews, in addition to document reviews, provided insight into the challenges and lessons learned related to program design and delivery. National-level qualitative findings are included in this report with the perspective of sharing lessons learned and best practices with NWT.
+In general, program participation improved the labour market attachment of participants. However, the use of the program has been falling in recent years. According to the EI Monitoring and Assessment Reports, the proportion of new interventions decreased from 3% to 1% of total EBSM interventions between 2002 to 2003 and 2014 to 2015. Key informants from 7 P/Ts confirmed the decline and identified some potential reasons for this trend:
+The reporting requirements for the employers make the subsidy less appealing (7 P/Ts). 
+Employers are unaware of the program due to the lack of marketing or outreach (5 P/Ts).
+The subsidy and the self-marketing letter given to participants to promote the program create a negative perception of the quality of program candidates among employers (5 P/Ts). 
+Mismatches between employers' needs and the skills of available candidates (4 P/Ts). 
+Some employers hesitate to work with the government due to negative experiences (3 P/Ts).
+Local economic conditions impact on the use of the program by employers (3 P/Ts).  
+The length of time to secure program approval is an issue for employers (2 P/Ts) who want the participant to start working immediately.
+Key informants identified the following lessons learned related to program design and delivery:
+Matching participants' skills with employer needs in order to enhance retention (5 P/Ts).
+There is a need to increase the awareness of the program. For example, there is a need to have job developers responsible for conducting outreach with employers and matching employers and more difficult-to-employ participants (3 P/Ts). 
+Have a simple, easy to use application process for employers and ensure timely approval. Using electronic systems can help reduce the processing time for employers when they have to submit monthly and quarterly updates (3 P/Ts).
+Have sufficient flexibility to adjust the program in order to meet the needs of persons with disabilities (for example level of subsidy and hours of work requirements) (3 P/Ts).
+Ongoing monitoring is important. For example, conducting regular monitoring and site visits helps to ensure that employers respect the training provisions established in the Targeted Wage Subsidies contract (3 P/Ts). As well, having ongoing contacts with employers and participants helps to resolve issues during the subsidy period (2 P/Ts).
+2.5 Self-Employment Option
+2.5.1 Program description and delivery
+Based on information submitted by the Department of Education, Culture, and Employment and supplemented with information from the Department’s Internet site
+The Self-Employment program is called Self-Employment Option in NWT. It is designed to provide EI eligible clients the opportunity to start a small business. The program requires a viable business idea, personal suitability and financial resources. Participants are expected to develop a detailed business plan with the help of a business expert assigned to them.
+The program assists participants in assessing their business idea, their personal suitability, family issues, financial risks, and the resources available or required to be successful. Financial assistance may include travel costs, tuition and/or course costs, childcare costs, special equipment costs and special supports costs in the case of persons with disabilities. Participants continue to receive EI benefits throughout the program and financial assistance is available up to 52 weeks.
+These programs are delivered through the Department of Education, Culture, and Employment Service Centres in six regional hubs: Inuvik, Norman Wells, Fort Simpson, Hay River, Fort Smith, and Yellowknife. Career Development Officers meet with and counsel clients to determine if the program is suited for them.
+Data from EI Monitoring and Assessment Reports reveal that the number of participants was 22 in 2013 to 2014 and 14 in 2014 to 2015.
+2.5.2  Profile of program participants
+Table D1 in Appendix D presents the socio-demographic characteristics of active claimants who started a Self-Employment Option intervention between 2001 and  2007. Active claimants were more often male (60%) and between 25 and 44 years  old (64%). Under one-fifth of these participants self-identified as Aboriginal individuals (19%).
+While participants more often held occupations requiring college or apprenticeship training (35%) in the last job they held prior to participation, they also exhibited the highest frequencies of Managerial (15%) and University (15%) skills-level occupations of all EBSM participants.
+The profile and outcomes of former claimants, who started program participation in 2001 to 2007, as well as all participants in the 2006-2008 period, could not be examined because the number of participants was too small to produce reliable statistics.
+2.5.3 Challenges in reporting on program outcomes
+Like other EBSMs, outcomes for active claimants who started Self-Employment Option participation in the 2001 to 2007 period were calculated and are reported in Table D2 in Appendix D. Results show some increase in employment/self-employment earnings and decrease in the proportion of participants employed. As well, participants decreased their use of EI and social assistance and reduced their dependence on government income support. Readers should note that the small increase in earnings may be partially explained by inflation.
+Readers should be cautioned that the calculated outcomes may not provide an accurate depiction of the financial well-being of self-employed participants in the post-program  period. Outcomes were calculated using individual earnings reported in the T1  and T4 taxation files from Canada Revenue Agency. According to a study from Statistics Canada, self-employed individuals in Canada have a lower average annual income than paid employees ($46,200 versus $52,400 in 2009), but the average net worth of their households is 2.7 times greater than that of the paid employee households, which indicates that some self-employed individuals may leave funds within their business for reinvestment purposes. Overall, this suggests  that looking at individual earnings alone, without taking the net worth into consideration, may not provide a fair assessment of how well program participants are doing financially after participation.
+Finally, readers should also be aware that little is currently known about the design and delivery of this program. In particular, there is a lack of understanding around the role played by this program in helping future  entrepreneurs to implement viable business plans and to develop their entrepreneurship skills. Overall, it is not clear whether participant's success in improving their labour market attachment through self-employment is more closely associated with their business idea and their entrepreneurship skills or the assistance provided under the program.
+2.6 Employment Assistance Services
+2.6.1 Program description and delivery
+Based on information submitted by the Department of Education, Culture, and Employment
+Employment Assistance Services interventions aim to assist individuals to prepare for, obtain and maintain employment. In NWT, these services are delivered by career development officers through the six Service Centres located in Inuvik, Norman Wells, Fort Simpson, Hay River, Fort Smith, and Yellowknife. Services can be extended to other geographic areas and may be delivered by third party organizations or employers. Employment Assistance Services are available to all unemployed individuals in need of assistance regardless of their EI eligibility.
+Data from EI Monitoring and Assessment Reports reveal that the number of participants was 973 in 2013 to 2014 and 864 in 2014 to 2015.
+2.6.2 Profile of program participants
+The socio-demographic  profile was produced for individuals who exclusively received Employment Assistance Services without participating in other Employment Benefits.
+As shown in Table E1 in Appendix E, active claimants who started an intervention between 2001 and 2007 were mainly male  (62%) and this proportion was lower among the 2006 to 2008 participants with 57%. Participants in both cohorts were relatively evenly distributed across the different adult age groups, with the highest concentration of participants aged 35 to 44 (34% for the 2001 to 2007 cohort and 35% for the 2006 to 2008 cohort). They also most frequently held jobs that required either secondary or occupational training (33% for the 2001 to 2007 cohort and 31% for 2006 to 2008 cohort) or college/apprenticeship training (32% for the 2001 to 2007 cohort and 34% for the  2006 to 2008 cohort) before program participation.
+Former claimants were more predominantly male (56%) for the 2001 to 2007 cohort compared to 48% for the 2006 to 2008 cohort. Both cohorts were also nearly-evenly split across adult age groups. Former claimants were slightly more concentrated in occupations that required secondary or occupational training (35% for the 2001 to 2007 cohort and 33% for the 2006 to 2008 cohort) skills in the last job they held before program participation.
+Labour market barriers faced by program participants in general
+Based on 81 key informant interviews completed in 10 P/Ts in summer 2013
+According to key informants, the main labour market  barriers faced by individuals who access Employment Assistance Services, with or without participating in Employment  Benefits, include:
+Lack of work experience or skills mismatches (9 P/Ts).
+Low essential and foundational skills (8 P/Ts).
+Access and affordability of transportation (8 P/Ts). 
+Access and affordability of childcare (8 P/Ts).
+Criminal records and addictions (8 P/Ts).
+Being a person with disability or having mental health issues (7 P/Ts).
+Working in temporary, seasonal or part-time employment (7 P/Ts).
+Lack of marketable skills (outdated skills, inability to network) (7 P/Ts).
+Employers' perception toward individuals in some groups (visible minorities, persons with disabilities, new immigrants, Aboriginal peoples, etc.) (7 P/Ts).
+Lack of employment opportunities, particularly in rural and remote areas (6 P/Ts).
+Language barriers (6 P/Ts).
+Low self-esteem, lack of motivation and negative attitude (6 P/Ts).
+Lack of job search/interview skills (5 P/Ts).
+Homelessness and lack of affordable housing (4 P/Ts).
+2.6.3 Incremental impacts for active claimants
+As shown in Table E2 in Appendix E, active claimants who started an intervention between  2001 and 2007 had incremental increases in employment earnings for a cumulative  amount of $12,767 over the five years post-program period. A reminder that incremental impacts are estimated using a comparison group of active claimants who did not  participate in EBSMs during the 2001 to 2007 period (see Figure 1). As well, active claimants reduced the use of EI in the post program period by a cumulative of $2,282 or 7.5 weeks. Incremental impacts on the incidence of employment, the use of social assistance and the level of dependence on government income support were overall not statistically significant.
+Employment Assistance Services interventions are relatively modest activities such as counselling, job search assistance and case management focused on assisting participants to return to  work. By themselves, they are not expected to lead to substantial incremental impacts on participants. In NWT, these interventions are leading to an increase  in employment earnings and a decline in EI use. While incremental impacts on  the incidence of employment are not statistically significant, labour market outcomes indicate a decrease of 6 percentage points in the proportion of employed participants in the post-program period. Possible explanations for the decrease in the proportion of participants employed include retirement decisions (with 10% of participants aged 55 and over), and the fact that some participants did not benefit from program participation while others simply left the labour force for various reasons.
+2.6.4 Cost-benefit analysis for active claimants
+Six years after participation, the benefits from Employment Assistance Services interventions from the society perspective exceeded the cost by $10,568 (as shown in Table E3 in Appendix E). It took 3.3 years after the end of participation to recover the costs.
+2.6.5 Labour market outcomes
+Labour market outcomes are different and not comparable to incremental impacts
+As explained in Section 1.2, labour market outcomes provide descriptive statistics on the labour market experience of participants before, during and after participation. For example, it shows the average annual earnings of participants before, during and after participation, and presents what changes were observed from before to after participation. For Employment Assistance Services, the analysis was conducted over a period of 9 to 12 years (five years before participation, one year during participation, and three or five years after participation depending on the reference period used).
+The outcome analysis provides an assessment of how the labour market situation of participants evolved over time, but does not permit inference regarding the extent to which those changes were due to program participation. For example, increases in employment earnings over the period examined could be partly due to inflation or normal wage increases.
+When the number of participants was sufficient, outcomes were examined for active and former EI claimants who were youth (under 30 years old), older workers (55 years old and over) and long-tenured workers. Long-tenured workers refer to individuals who had long-term attachment to the labour market but not necessarily a long tenure  with the same employer.
+Active claimants
+Table E4 in Appendix E presents the labour market outcomes for active claimants who started an intervention in the 2001 to 2007 and the 2006 to 2008 periods. Outcomes were also produced for youth (under 30 years old) and older workers (55 years old  and over) who participated in the program in the 2001 to 2007 period. As well, labour market outcomes were produced for long tenured workers who started an intervention in the 2007 to 2009 period. These outcomes are included in Appendix E but not discussed in the report given the availability of incremental impacts presented in Section 2.6.3.
+Former claimants
+As shown in Table E5 in Appendix E, and illustrated below in Figure 8 below, average annual earnings of former claimants who started an intervention in the 2001 to  2007 period did not increase steadily over time across the pre-and-post participation periods. However, earnings grew or held steady across the in-and-post program periods, from $14,593 in the program start year to $22,274 in the 5th year post-program. Overall, average annual employment earnings of former claimants were $2,745 higher after participation compared to the annual average five years before participation.
+While the average proportion of former claimants in receipt of EI benefits decreased by 17 percentage points (from 40% to 23%) between the pre-and-post participation periods, the average proportion of claimants employed also declined by 10  percentage points between the same periods. The proportion of former claimants on social assistance increased slightly (by 2 percentage points) and dependence on income support decreased slightly (by 1 percentage point), on average, over the five years after participation. Possible explanations for the decrease in the proportion of participants employed include retirement decisions (with 8% of participants aged 55 and over), and the fact that some participants did not benefit from program participation while others simply left the labour force for various reasons.
+Figure 8. Average earnings for former claimants in Employment Assistance Services
+
+
+Text description of Figure 8
+
+
+Notes: Average earnings include participants with zero earnings in a specific year. As well, earnings were not adjusted for inflation given the fact that the program start year varied between 2001 and 2007.
+Former claimants who started an intervention between 2006 and 2008 also experienced an increase in earnings ($5,665), and decreases in EI use (18 percentage points) and the proportion employed (4 percentage points) between the averaged pre-and-post program periods. However, they experienced a greater increase in social assistance use (15 percentage points) compared to the 2001 to 2007 participants, as well as an increase in their dependence on government income support by 5 percentage points. Possible explanations for the decrease in the proportion of participants employed include retirement decisions (with 9% of participants aged 55 and over), and the fact that some participants did not benefit from program participation while others simply left the labour force for various reasons.
+Labour market outcomes for sub-groups of interest were as follows:
+Youth who started an intervention between 2001 and 2007 experienced an increase in their average annual earnings ($7,908) and  a decrease in the proportion employed (4 percentage points) from before to after participation. The average proportion on EI also decreased by 7 percentage points, while the proportion on social assistance and dependence on income support showed negligible change.
+Older workers who started an intervention between 2001 and 2007 experienced a decrease in their average annual earnings ($7,843), as well as large decreases in EI use (35 percentage points) and in the proportion employed (31 percentage points from before to after participation). The average annual proportions of older workers on social assistance benefits increased by 3 percentage points, while dependence on income support decreased by 4 percentage points. 
+Long-tenured workers who started an intervention in the 2007 to 2009 period experienced a decrease in  their average annual earnings ($1,427) and a decrease in the proportion employed (6 percentage points) from before to after participation. The average  proportion on EI also decreased by 17 percentage points. Social assistance use  and dependence on income support increased, on average, from before to after participation (16 percentage points and 6 percentage points respectively). These outcomes should be interpreted with caution given the small number of long-tenured workers participants (47).
+2.6.6 Challenges and lessons learned about program design and delivery
+Based on a document review and 81 key informant interviews in 10 P/Ts completed in summer 2013
+Managers and caseworkers from 10 P/Ts involved in the delivery of Employment Assistance Services were interviewed during the summer of 2013. These interviews, in addition to document reviews, provided insight into the challenges and lessons learned related to program design and delivery. National-level qualitative findings are included in this report with the perspective of sharing lessons learned and best practices with NWT.
+Key informants identified the following challenges related to program design and delivery:
+Participants in some regions face issues with limited access to services, mobility and  transportation (7 P/Ts).
+There is a lack of awareness about Employment Assistance Services among potential participants (6 P/Ts).
+The current budget allocation is not enough to support the delivery of Employment Assistance  Services. This led some service providers to eliminate services and reduce the  number of participants served (5 P/Ts).
+Service providers cannot necessarily provide all the services required by participants facing multiple  barriers to employment. They have to refer these individuals to other  organizations and sometimes, one individual can be referred to more than one  organization. This may lead some participants to give up on their  return-to-work process (5 P/Ts).
+The current performance measurement strategy does not capture the various outcomes achieved over time  when assisting people with multiple barriers to employment (3 P/Ts).
+Service providers have difficulties in hiring skilled and knowledgeable staff (2 P/Ts). As well, some  service providers have a high turn-over of staff and staff training is very  costly (2 P/Ts).
+Service providers lack capacity to follow up with each participant in order to provide job maintenance  support (2 P/Ts).
+Key informants also provided examples of best practices and lessons leared with respect to program design and delivery. These include:
+It is important to case manage participants and to  provide a client-centered holistic approach through counselling, motivation,  building self-esteem and assisting them in choosing a career path (9 P/Ts).
+It is important for service providers to be engaged  in their community and well connected to other service providers (for  information sharing and referral purposes), particularly for those dealing with  persons with disabilities and mental health issues. As well, partnerships and  ongoing communication with employers can facilitate the labour market  integration of participants through job placements and subsidy) (8 P/Ts).
+Since participants with multiple barriers to employment often require more intensive interventions, it  is important to conduct a strong needs assessment in order to make the best  training decision (7 P/Ts).
+Having a one-stop shop for services and streamlining services (co-location, no wrong-door approach,  offering a comprehensive suite of services from self-serve to workshops,  employability assessment, career orientation, need determination and ongoing  case management), as well as removing barriers to access and participation (7  P/Ts).
+It is important to keep a long-term perspective  when assisting participants facing multiple barriers to employment (6 P/Ts).
+Providing long-term follow-up with participants for employment retention  support is seen as a best practice (6 P/Ts).
+Giving service providers increased flexibility when  assisting participants with multiple barriers to employment, particularly in  terms of the length of services and the type of financial support that can be  made available to participants (6 P/Ts).
+It is important for service providers to have  dedicated workers, specialized teams to deal with participants facing multiple  barriers to employment, and job coaches/developers that are dedicated and  committed to support these participants (6 P/Ts).
+Service providers need to  make appropriate referrals, when available, to specialized community  organizations for program participants dealing with disabilities, mental health  issues, addictions and criminal records (5 P/Ts). 
+Providing participants with help to contact employers (for example assistance in handing out resumes) and  networking opportunities (5 P/Ts).
+Providing participants with an opportunity to try and test prospective jobs (5 P/Ts).
+It is important for provincial/territorial governments to have strong partnerships with third-party  service providers and employers in order to be able to mobilize the service  delivery network in cases of emerging labour market challenges (major lay-offs,  downturn, etc.) and to organize job fairs and joint group workshops (5 P/Ts).
+There is a need to enhance the promotion of programs and services (5 P/Ts).
+There is a need to provide services in an innovative way depending on local needs and reality (for example  online resources and training) (3 P/Ts).
+There is a need to change the way success is measured under the program. For example, the progress of a  participant with multiple barriers to employment should be measured through  small steps from securing adequate housing to dealing with addictions,  improving life skills and integrating into the labour market (3 P/Ts).
+Service providers need additional resources in order to maintain the level and quality  of services and to train staff, particularly those operating in rural areas (3  P/Ts).
+3. Comparison of key findings by program type
+This section provides an overview of the key findings from the incremental impact analysis, cost-benefit analysis, and labour market outcome analyses for Building  Essential Skills, Training-on-the-Job, and Employment Assistance Services for  active and former EI claimant participants who started participation in the 2001  to 2007 period.
+Overall, incremental impacts, cost-benefit analysis, and labour market outcomes provide some indications that LMDA-funded programs and services delivered in NWT are  generally helping participants to improve their labour market attachment after  participation.
+With some exceptions, the labour market outcomes demonstrate that participants in LMDA programs and  services showed higher average earnings and lower average proportions on EI and  social assistance during the five years after program participation when  compared to five years prior. Incremental impacts demonstrate that active EI  claimants who participated in Employment Assistance Services had gains in  earnings and reductions in EI use compared to similar non-participants after  program participation, and the social benefits of participation exceeded the  cost of the intervention over time.
+Some participants do not appear to be benefiting from EBSM participation, as reflected in the general decrease in the proportion of participants employed between the pre-  and post-participation periods. Additional explanations for this decrease may  include retirement decisions and other reasons for leaving the labour force.
+3.1 Incremental impacts and cost bets analysis
+Employment Assistance Services are effective at improving earnings and reducing EI use among active EI claimant participants
+In comparison to similar EI claimants who did not participate in the program, active EI claimants who participated exclusively in Employment Assistance Services had higher earnings from employment/self-employment over the five years post-program participation (cumulative of $12,767). As well, these participants reduced their use of EI by a cumulative of $2,282 or 7.5 weeks after program participation. Incremental impacts on the incidence of employment, the use of social assistance and the level of dependence on government income support were overall not statistically significant.  From the social perspective (that is  the sum of participant and government costs or benefits), the benefits of participation in Employment Assistance Services exceeded the related costs in 3.3 years after participation.
+3.2 Labour market outcomes
+Most program participants have higher average earnings after program participation
+As shown in Figure 9, active and former EI claimants who participated in Building Essential Skills showed higher average employment earnings during the five years after their participation when compared to five years prior. As well, former claimants who participated in Training-on-the-Job and Employment Assistance Services also showed higher average employment earnings after program participation when compared to average earnings in the five years before participation. Active claimants who participated in Training-on-the-Job had lower average employment earnings during the five years after their participation. Considering the small number of participants in Training-on-the-Job, the figures should be interpreted with caution.
+Figure 9. Change in average earnings of participants 5 years pre- and post-participation in LMDA programs and services
+
+
+Text description of Figure 9
+Note: outcomes for participants in Training-on-the-Job should be interpreted with caution given the small number of participants (62 for active claimants and 64 for former claimants).
+The average proportion of participants on Employment Insurance and social assistance is generally lower after program participation
+As shown in Figures 10 and 11, the average proportion of participants who use EI is shown to be lower in the post-participation period for active and former EI claimants who participated in Building Essential Skills and Training-on-the-Job. As well, the average proportion of former claimants who use EI is also shown to be lower in the five years after program participation for those who participated in Employment Assistance Services (when compared to five years prior). These decreases were accompanied by decreased proportions of participants on social assistance for all active claimant participants and for former claimants who participated in Training-on-the-Job.
+Figure 10. Change in average proportion of active claimant participants on Employment Insurance and Social Assistance 5 years pre- and post-participation in LMDA programs and services
+
+
+Text description of Figure 10
+
+
+
+Note: outcomes for participants in Training-on-the-Job should be interpreted with caution given the small number of participants (62 for active claimants and 64 for former claimants).
+Figure 11. Change in average proportion of former claimant participants on Employment Insurance and Social Assistance 5 years pre- and post-participation in LMDA programs and services
+
+
+Text description of Figure 11
+
+
+
+Note: outcomes for participants in Training-on-the-Job should be interpreted with caution given the small number of participants (62 for active claimants and 64 for former claimants).
+The average proportion of participants employed is lower after program participation when compared to before program participation for all EBSMs
+Some participants do not appear to be benefiting from EBSM participation, as reflected in the general decrease in the proportion of participants employed between the pre- and post-participation periods (see Figure 12). This decrease can be partially explained by retirement decisions considering the proportion of participants aged 55 years and older, while others may have left the labour force for other reasons.
+Figure 12. Change in average proportion of participants employed 5 years pre- and post-participation in LMDA programs and services
+
+
+Text description of Figure 12
+
+
+
+Note: outcomes for participants in Training-on-the-Job should be interpreted with caution given the small number of participants (62 for active claimants and 64 for former claimants).
+4. Conclusions
+Overall, incremental impacts, cost-benefit analysis, and labour market outcomes provide some indications that LMDA-funded programs and services delivered in NWT are generally helping participants to improve their labour market attachment after participation. As such, evaluation  evidence suggests that LMDA-funded programs are aligned with and can contribute  to achieving the vision of Skills 4 Success 10-Year Strategic Framework by  ensuring that "NWT residents have the skills, knowledge and attitudes for employment success"
+With some exceptions, the labour market outcomes demonstrate that participants in LMDA programs and services showed higher average earnings and lower average proportions on EI and social assistance during the five years after program participation when compared to five years prior. Incremental impacts demonstrate that active EI claimants who participated in Employment Assistance Services had gains in earnings and reductions in EI use compared to similar non-participants after program participation, and the social benefits of participation exceeded the cost of the intervention over time.
+Some participants do not appear to be benefiting from EBSM participation, as reflected in the general decrease in the proportion of participants employed between the pre- and post-participation periods. Additional explanations for this decrease may include retirement decisions and other reasons for leaving the labour force.
+Key informants interviews with service providers and program managers, as well as the documents reviewed and the questionnaires filled by P/T representatives, revealed specific challenges and lessons learned about program design and delivery at the national level. Though NWT did not participate in these  qualitative studies, the information that was produced at the national level is included in this report with the objective of sharing best practices and  lessons learned.
+Skills Development (Building Essential Skills)
+Key informants  confirmed that most P/Ts take steps to direct Skills Development funding towards  training for occupations in demand in the labour market. In particular, as  part of the application process, prospective participants have to justify their choice of training program by demonstrating that labour market demand  exists.  Five provinces/territories may  not approve applications for training leading to employment in low demand  occupations.
+According to key  informants, the main challenges related to Skills Development included:
+Lack of capacity to case manage and monitor individuals facing multiple barriers to employment.
+Access to the program is limited due to the EI eligibility criteria.
+Participant's ability to access and complete training is often limited by a lack of essential skills, learning disabilities, literacy issues and other factors such as living in remote locations and lack of transportation. 
+Unemployed individuals lack awareness about the program and early engagement of EI claimants is difficult since Service Canada does not refer recent claimants to P/T offices.
+Skills Development – Apprentices (Building Essential Skills – Apprenticeship)
+Existing Canadian literature showed that there is a fairly high non-completion rate among apprentices (40 to 50%). Furthermore, subject matter literature revealed that despite the growth in apprenticeship registrations in Canada, there has not been a corresponding increase in completion rates. While it is not possible with available data to generate a reliable estimation of the completion rate of Skills Development-Apprentices participants, key informants involved in apprenticeship delivery confirmed the stagnation in completion rates.
+According to key informants, apprenticeship drop-out is due to factors such as low level of essential skills, financial difficulties (for example not being able to live  on EI benefits while on training) and delays in getting EI benefits (for example EI eligibility is not confirmed until training is almost complete).
+Targeted Wage Subsidies (Training-on-the-Job)
+Key informants  confirmed that participation in Targeted Wage Subsidies can be driven by either unemployed individuals or employers looking to fill a new position. Key informants also confirmed that in most P/Ts covered by the evaluation, the subsidized employers are generally hiring those they would not have otherwise hired without the help of the program.
+While evaluation results have demonstrated the  effectiveness of Targeted Wage Subsidies, its use has been falling in recent years. According to the EI Monitoring and Assessment Reports, the proportion of new Targeted Wage Subsidies interventions across Canada decreased from 3% to 1% of all new interventions between 2002 to 2003 and 2014 to 2015. Reasons identified by key informants to explain this decline included:
+The frequent and time consuming reporting requirements for the employers.
+Lack of awareness about the program among employers.
+Employers having a negative perception of the quality of the candidates.
+Difficulty in matching employers' needs to the skills of available candidates.
+Employment Assistance Services
+According to key informants, challenges with the design and delivery of Employment Assistance Services included:
+Lack of awareness about Employment Assistance Services among potential participants.
+Current budget allocation is not enough to support the delivery of Employment Assistance Services and has led some service providers to eliminate services.
+Service providers cannot provide all the services needed for participants facing multiple barriers to employment. They have to refer these individuals to other organizations.
+5. Recommendations
+Recommendations that emerge from the evaluation findings presented in this report are as follows:
+The report presents challenges and lessons learned about the design and delivery of Building Essential Skills (including the apprenticeship program), Training-on-the-Job and Employment Assistance Services. These challenges and lessons learned were gathered from EBSM managers and case workers across eight to ten provinces and territories. NWT did not participate in those studies and qualitative information was not collected in NWT.
+Recommendation 1: Consideration should be given by NWT to examine to what extent challenges and lessons learned identified at the national level are applicable to the unique context in NWT.
+Recommendation 2: Taking into consideration the future labour market needs in NWT and the existing skills gaps, consideration should be given by NWT to examine the extent to which the caps on the length of financial assistance under Building Essential Skills are appropriate.
+A study carried out across Canada regarding the timing of participation in Employment Assistance Services showed that receiving assistance early after starting an EI claim can lead to better labour market impacts.
+Recommendation 3: Consideration should be given by NWT to request timely access to data on new EI recipients for targeting purposes, especially if awareness about Employment Assistance Services is also an issue in the territory.
+As detailed in section 2.1 of this report, Aboriginal peoples represent 50% of the population in NWT and they are mainly located outside Yellowknife, the main urban centre. Labour market statistics demonstrate that Aboriginal peoples in NWT experience significantly higher unemployment rates and lower levels of education compared to non-Aboriginals. Furthermore, a report entitled Northwest Territories Labour Market Forecast and Needs Assessment completed in 2016 forecasted that there will be 28,500 to 36,700 job openings in the Territory over the next 15 years. The report estimated that approximately 98% of these job openings will be to replace workers who have retired or moved (mainly non-Aboriginals), and 78% of these jobs will typically require some form of postsecondary education and/or extensive work experience. The report also specified that high levels of education and occupational skills will be critical for meeting the future needs of the labour market. Finally, the profile of LMDA participants between 2001 and 2008 demonstrate that the number of self-identified Aboriginal participants is well below 50% for most interventions. It is not clear from the LMDA data whether Aboriginal persons are underrepresented in EBSM and whether this is due to self-identification or missing data, or due to low EI eligibility among unemployed Aboriginal persons.
+Recommendation 4: It is recommended that the self-identification of Aboriginal participants be encouraged under the LMDA in order to properly account for the efforts dedicated by NWT to upskill Aboriginal participants and to assist them in returning to work.
+Recommendation 5: With only 22% of the Aboriginal population living in Yellowknife, consideration should be given to examine whether the level of service available across the 32 other communities is not a barrier to access and participation in LMDA programs and services.
+Recommendation 6: With the focus on assisting Aboriginal participants with lower levels of education, consideration should be given to providing additional measures to remove barriers to accessing and completing training such as literacy/essential skills training and learning disability assessments. These measures would help individuals with multiple barriers and those distant from the labour market preparing for vocational training and eventually reintegrating the labour market. These measures should be reported separately from other Skills Development interventions given their unique objectives.
+Recommendation 7: Consideration should be given to examine to what extent the level of funding (from EI or other sources) and the level of service available under the LMDA, the Canada Job Fund, the Aboriginal Skills and Employment Training Strategy and other territorial programs is coordinated and sufficient to meet the future labour market needs of NWT.
+Given the small number of program participants, labour market outcomes provided some indications that participation in Training-on-the-Job in the 2001 to 2007 period is not leading to favourable labour market outcomes for active claimants in terms of earnings and employment. Some participants were not able to maintain their subsidized jobs and/or to reintegrate into the labour market. At the national level, incremental impacts show that Targeted Wage Subsidies are improving the earnings and employment of participants.
+Recommendation 8: It is important to understand how the program is designed and delivered currently in NWT compared to the 2001 to 2007 period and to explore steps aiming to increase retention and use of the program given the future labour market needs in NWT.
+With the exception of producing incremental impacts for the participation in Employment Assistance Services, the LMDA evaluation was only able to produce labour market outcomes for participants in other EBSMs given the small number of participants.  Labour market outcomes were produced over five years and for the entire population of participants using rich data on EI claimants, EBSM participation data and Canada Revenue Agency taxation files. Some data gaps were identified in order to support future evaluation activities. For example:
+Having access to data on whether participants  are members of designated groups including Aboriginal peoples, persons with disabilities  and recent immigrants would be useful to inform policy development and program  design.
+Having access to data on the cost of  programming per participant would also provide a refined assessment of how much  participation cost for active claimants as compared to former claimants. 
+It is not currently possible to distinguish  between different types of training funded under Skills Development (for  example, literacy, essential skills, adult basic education and vocational  training). These various types of training lead to very different labour market  outcomes and can help explain the observed outcomes. 
+Data assessment revealed the presence of a high  number of interventions that are classified under the categories of  miscellaneous, ambiguous or undocumented.
+Little is also known  about the various types of Employment Assistance Services provided under the  LMDA in NWT. These services can be very different in nature and it is possible  that some may be more effective than others at helping participants return to  employment. For example, having access to a computer for researching jobs on  its own may yield different impacts than receiving counselling and assistance  to develop a return-to-work action plan.
+Recommendation 9: Improvements in the data collection process are recommended to address key program and policy questions of interest to Canada and NWT. Specifically:
+Collect data on whether participants are members of designated groups including Aboriginal peoples, persons with  disabilities and recent immigrants.
+Collect data on the type of training funded under Skills Development and the type of assistance provided under Employment Assistance Services. NWT, ESDC and other provinces and territories should work  together to define common categories for both EBSMs.
+Collect detailed data on the cost of EBSM interventions.
+ESDC and NWT should carry out a data assessment regarding the integrity of data uploads and the standardization process of NWT data within ESDC.
+The evaluation was not able to produce with confidence labour market outcomes for the Self-Employment Option since the data used to assess impacts on earnings may not be the best source of information available to reflect the financial wellbeing of the participants. As well, little is known about the design and delivery of this program. Overall, it is not clear whether participant’s success in improving their labour market attachment through self-employment is more closely associated with their business idea and their entrepreneurship skills rather than the assistance provided under Self-Employment.
+Recommendation 10: Consideration should be given to examine in more detail the design and delivery of Self-Employment Option and whether the performance indicators for this program are appropriate.
+References
+Canada Employment Insurance Commission. Employment Insurance Monitoring and Assessment Reports. 2003 to 2004 to 2013 to 2014.
+Coe, Patrick. "Apprenticeship programme requirements and apprenticeship  completion rates in Canada.” Journal of Vocational Education and Training.  2013. 65(4): 575 to 605.
+Government of Northwest Territories. Mandate of the Government of the  Northwest Territories,  2016 to 2019. Accessed November 4, 2016.
+Government of Northwest Territories. Skills 4 Success, 4-year Action Plan  2016 to 2020.  Department of Education, Culture and Employment, 2016. Accessed November 4,  2016.
+Employment and Social Development Canada. Analysis of Employment Benefits and Support Measures  Profile and Outcomes for the EI Claimant Category Long-Tenured Workers in Northwest  Territories: Technical Report. Evaluation Directorate. March 9, 2016.
+Employment and Social Development Canada. Analysis of Employment Benefits and Support Measures Profile  and Outcomes for 2006 to 2008 Participants in Northwest Territories: Technical  Report. Evaluation Directorate. March 3, 2015.
+Employment and Social Development Canada. Cost-Benefit Analysis of Employment Benefits and Support Measures in the Northwest Territories: Technical Report. Evaluation  Directorate. May 26, 2016.
+Employment and Social Development Canada. Profile, Outcomes and Net Impacts of Employment Benefits and Support Measures Participants in the Northwest Territories: Technical  Report. Evaluation Directorate. April 2014.
+LaRochelle-Côté, Sébastien  and Sharanjit Uppal, "The Financial Well-Being of the Self-Employed", Perspectives on Labour and Income, vol. 23, no. 4, Winter 2011
+Red Seal. Apprenticeship Completion, Certification and Outcomes. Ottawa:  Red Seal, 2014.
+The Conference Board of Canada. Northwest Territories Labour Market Forecast and Needs Assessment.  April 2016. Accessed November 5, 2016.
+Acronyms
+EBSM
+Employment Benefits and Support Measures
+EI
+Employment Insurance
+ESDC
+Employment and Social Development Canada
+LMDA
+Labour Market Development Agreements
+NWT
+Northwest Territories
+P/T
+Province/Territory
+Appendix A - Methodology
+Qualitative data
+Qualitative information regarding challenges and lessons learned for the participation in Building Essential Skills (BES), Building Essential Skills – Apprentices (BES-A), Training-on-the-Job (TOJ) and Employment Assistance Services (EAS) studies were collected from key informant interviews with managers and service providers across Canada and a document/ literature review. As well, questionnaires were completed by P/T representatives for the BES, BES-A and TOJ studies. Table A1 provides the number of key informants interviewed by province and territory.
+Key informant interviews for the EAS study were conducted in 2013 while those for the BES, BES-A and TOJ studies were conducted in 2015.
+Quantitative methods
+All quantitative analyses were conducted using linked administrative data from EI Part I (EI claim), EI Part II (EBSM participation data) and T1 and T4 taxation files on up to 100% of participants in NWT.
+The profiles, labour market outcomes, and incremental impacts for active and former claimants were examined separately for each EBSM:
+BES (excluding apprentices)
+TOJ
+Self-Employment Option
+EAS
+The Job Creation Partnerships program was not covered in any study and the program was not offered in the NWT during the period observed.
+Outcomes and incremental impacts were measured relative to the following indicators:
+Employment/self-employment  earnings: the total earnings an individual had from paid employment and/or self-employment. (This information is available by calendar year and is obtained from T1 and T4 tax return records.)
+Incidence of employment/self-employment: the incidence of  having earnings from employment and/or self-employment.
+Amount of EI benefits collected: the average amount  of EI benefits received.
+Weeks in receipt of EI benefits: the average  number of weeks during which EI benefits were received.
+Social Assistance benefits: the average amount of Social Assistance (SA) benefits  received. (This information is available by calendar year and is obtained from  T1 tax return records.)
+Dependence on income support: the ratio of participant’s income that came from EI and SA benefits (that is, EI benefits +  SA benefits / (EI benefits + SA benefits + earnings from  employment/self/employment)).
+The outcomes of participants also included an assessment of the proportion of participants in receipt of EI and SA benefits before, during and after participation.
+Outcomes and incremental impacts were analyzed for all active and former claimants, as well as the following sub-groups of participants, when the number of observations included more than 50 individuals for outcomes and 300 individuals for incremental impacts:
+Youth: individuals under 30 years old.
+Older Workers: individuals 55 years old and over.
+Long-tenured workers: individuals who have established an EI regular or fishing benefit claimants and who had paid at least 30% of the annual maximum employee EI premiums in seven of the ten years preceding their EI claim  and who had collected 35 or fewer weeks of EI regular or fishing benefits in the five years preceding their claim. This definition is similar to the EI claimant category long-tenured workers introduced under Connecting Canadians with Available Jobs.
+All analyses were conducted using a unit of analysis called the Action Plan Equivalent, which combines all EBSMs given to an individual within no more than six months of each other. Incremental impacts for EAS were calculated for Action Plan Equivalent that contained only EAS with no Employment Benefits.
+Incremental impacts
+The incremental impact analysis compared the labour market experience of participants before and after their participation with that of a comparison group. The goal was to determine the direct effect of program participation on key labour market indicators (see Figure 1).
+This report presents incremental impacts only for active claimants who participated exclusively in EAS. With the exception of active claimants in BES, the number of active claimants in other intervention types as well as the number of former claimants in all EBSMs was not large enough to allow an  examination of the incremental impacts (that is, there were less than 300  participants). Impacts were produced for active claimants in BES but balancing  tests were not satisfied. As a consequence, the estimates were not considered  to be robust enough to be presented in this report.
+The incremental impacts for active claimants in EAS-only were measured relative to a comparison group of active claimants who were eligible to  participate in EBSMs between April 1, 2001 and March 31, 2007 but who did not participate in any EBSM during this period. The comparison groups include individuals  who may have participated in EBSMs before or after the reference period as well  as individuals who never had participated in any EBSMs. Such selection criteria  were used to avoid conditioning the average treatment effect on future outcomes.  For former claimants, it  was not possible to produce a comparison group of non-participants using the  administrative data.
+Participants and non-participants were matched based on a wide array of variables including age, sex, location, skill level required by the last occupation held prior to participation, reason for separation from employment, industry in which they were previously employed as well as employment earnings and use of EI and SA  for each of the five years before participation. The participant and comparison groups excluded  individuals who had earnings higher than $75,000 in each of the five years  preceding the start of participation. These represent a small number of  individuals with high earnings compared to the average. Since the analysis  examines the average outcomes and impacts, the inclusion of these individuals  in the participant and comparison groups would have inflated the results.
+The incremental impact estimates were produced  using non-experimental methods - namely propensity score matching - using the  Kernel Matching method, along with Difference-in-Differences method to estimate program impacts. Alternative matching techniques (that is, Nearest Neighbour  and Inverse Propensity Weighting) were also used for validation purposes.
+Cost-benefit analysis
+The cost-benefit analysis compared how much it cost for individuals to participate in EAS services and how much it cost the government to deliver those programs with the benefits both the participants and the government drew from those programs. The analysis was carried out from the social perspective, which combines the costs and the benefits for both the participants and the government.
+Costs and benefits included in the calculations were as follows:
+Program costs included the administration cost and the direct cost of the EAS-only EBSMs. The cost was calculated at the Action Plan Equivalent level and was determined based on the average composition of the Action Plan Equivalent.
+The Marginal Social Cost of Public Funds represented the loss incurred by society when raising additional revenues such as taxes to fund government spending. The value was estimated as 20% of the program cost, sales taxes, income taxes, impacts on EI and impacts on SA paid or collected by the government.
+Employment earnings consisted of incremental impacts on participants’ earnings during and after participation. The calculation accounts for the participant’s forgone earnings during participation (that is, opportunity cost). These are based on incremental impacts for the 2001 to 2007 participants.
+Fringe benefits included benefits such as employer-paid health and life insurance as well as pension contributions. The rate used to calculate the fringe benefits was 15% of the incremental impact on earnings.
+The program effects on EI and SA use, and the sale and income tax revenues were not included in the calculations since these costs and benefits cancel each other out from the social perspective by definition. For example, while EI and SA are benefits received by participants, they represent a cost for the government. However, as indicated above, these effects are accounted for in the calculation of the Marginal Social Cost of Public Funds.
+When producing the results, to bring all costs and benefits to a common base and to account for inflation and interest on foregone government investment, the estimates for the second year of participation and up to the sixth year post-program were discounted by 5% per year.  As well, when the benefits were still lower than the costs six years after program end, the payback period was calculated by assuming that the average benefit or cost measured over the fifth and six year post-program would persist over time (discounted at a 5% annual rate).
+Strengths and limitations from the studies
+Overall, the number of key informants interviewed was relatively small in some P/Ts. The key informants’ responses were representative of their own experience and their own region but it is unclear if they were fully representative of the entire province and territory.
+The matching process led to the creation of comparison groups closely matched to the LMDA participants in terms of their background characteristics. Results obtained with Kernel Matching were validated with the use of two other techniques (that is, Inverse Propensity Weighting and Nearest Neighbour), increasing the level of confidence in the results. However, readers should be aware that incremental impacts may be affected by factors not captured by the matching process. For example, the motivation to seek employment was not directly measured except to the extent that it was captured in prior income and labour market attachment patterns.
+This definition of long-tenured workers differs from the definition used in the literature as it does not consider the number of years the worker remained employed with the same employer.
+The cost-benefit analysis was limited in the sense that it only took into account the quantifiable benefits and costs that were directly linked to EBSM delivery and participation and that could be estimated using available administrative data and the EI Monitoring and Assessment Report. The analysis did not capture “intangible”, non-pecuniary and indirect benefits. It did not consider the multiplier effect that improving participant’s income may have on the economy and did not account for the effect of EI Part II investment on sustaining a service delivery infrastructure and creating jobs among the governmental program service providers.  As well, this analysis did not consider the displacement effect where participants may take away jobs that would otherwise be filled by other unemployed individuals. Finally, this analysis did not consider the possible effect of EBSMs on increasing skill prices.
+Appendix B – Detailed results Building Essential Skills
+Proportions may not add up to 100% due to rounding or missing values
+Status self-reported by participants
+Skill level corresponds to the type and/or amount of training or education typically required to work in the last occupation participants had before opening the last EI claim prior to participating in EBSMs:
+-Managerial: Management occupations
+-University: Occupations usually requiring university education at the bachelor's, master's or doctorate level.
+-College or apprenticeship training: Occupations usually requiring college or vocational education or apprenticeship training such as 2 to 3 years of post-secondary education at a community college, institute of technology or CEGEP or 2 to 5 years of apprenticeship training or 3 to 4 years of secondary school and more than 2 years of on-the-job training, specialized training courses or specific work experience and/or occupations with supervisory responsibilities and occupations with significant health and safety responsibilities, such as firefighters, police officers and registered nursing assistants.
+- Secondary or occupational training: Occupations usually requiring secondary school and/or occupation-specific training such as one to four years of secondary school education or up to 2 years of on-the-job training specialized training courses or specific work experience.
+-On-the-job training: On-the-job training is usually provided for occupations (that is, short work demonstration or on-the-job training or no formal educational requirements).
+Average earnings for all participants, including those reporting zero earnings. Earnings for 2006 to 2008 participants have been adjusted by the Consumer Price Index published by Statistics Canada, using 2002 as the base year.
+Average annual outcome pre-: Represents the average annual outcomes over the pre-participation period
+Average annual outcome post-: Represents the average annual outcomes over the post-participation period
+Change between pre- and post-: Represents the difference between the average annual outcomes calculated over the pre-/post-participation periods.
+Earnings outcome for all individuals covered by the study.
+Earnings outcomes excluding individuals who reported no earnings in a given year.
+ = percentage points.
+Average annual outcome pre-: Represents the average annual outcomes over the pre-participation period
+Average annual outcome post-: Represents the average annual outcomes over the post-participation period
+Change between pre- and post-: Represents the difference between the average annual outcomes calculated over the pre-/post-participation periods
+Earnings outcome for all individuals covered by the study.
+Earnings outcomes excluding individuals who reported no earnings in a given year.
+ = percentage points.
+Appendix C – Detailed results Training-on-the-Job
+Proportions may not add up to 100% due to rounding or missing values
+Status self-reported by participants
+Skill level corresponds to the type and/or amount of training or education typically required to work in the last occupation participants had before opening the last EI claim they had before participating in EBSMs. For detailed definition, see Table B1.
+Average earnings for all participants including those who reported zero earnings during that year.
+Average annual outcome pre-: Represents the average annual outcomes over the pre-participation period
+Average annual outcome post-: Represents the average annual outcomes over the post-participation period
+Change between pre- and post-: Represents the difference between the average annual outcomes calculated over the pre-/post participation periods.
+Earnings outcome for all individuals covered by the study.
+Earnings outcomes excluding individuals who reported no earnings in a given year.
+ = percentage points.
+Average annual outcome pre-: Represents the average annual outcomes over the pre-participation period
+Average annual outcome post-: Represents the average annual outcomes over the post-participation period
+Change between pre- and post-: Represents the difference between the average annual outcomes calculated over the pre-/post-participation periods.
+Earnings outcome for all individuals covered by the study.
+Earnings outcomes excluding individuals who reported no earnings in a given year.
+ = percentage points.
+Appendix D – Detailed results Self-Employment Option
+Proportions may not add up to 100% due to rounding or missing values
+Status self-reported by participants
+Skill level corresponds to the type and/or amount of training or education typically required to work in the last occupation participants had before opening the last EI claim they had before participating in EBSMs. For detailed definition, see Table B1.
+Average earnings for all participants included in the study including those reported zero earnings during that year.
+Average annual outcome pre-: Represents the average annual outcomes over the pre-participation period
+Average annual outcome post-: Represents the average annual outcomes over the post-participation period
+Change between pre- and post-: Represents the difference between the average annual outcomes calculated over the pre-/post-participation periods.
+Earnings outcome for all individuals covered by the study.
+Earnings outcomes excluding individuals who reported no earnings in a given year.
+ = percentage points.
+Appendix E – Detailed results Employment Assistance Services
+Proportions may not add up to 100% due to rounding or missing values
+Status self-reported by participants
+Skill level corresponds to the type and/or amount of training or education typically required to work in the last occupation participants had before opening the last EI claim they had before participating in EBSMs. For detailed definition, see Table B1.
+Average earnings for all participants including those who reported zero earnings during that year. Earnings for 2006 to 2008 participants have been adjusted by the Consumer Price Index published by Statistics Canada, using 2002 as the base year.
+Significance level  1%;  5%;  10%
+Average annual outcome pre-: Represents the average annual outcomes over the pre-participation period
+Average annual outcome post-: Represents the average annual outcomes over the post-participation period
+Change between pre- and post-: Represents the difference between the average annual outcomes calculated over the pre-/post-participation periods.
+Earnings outcome for all individuals covered by the study.
+Earnings outcomes excluding individuals who reported no earnings in a given year.
+ = percentage points.
+Average annual outcome pre-: Represents the average annual outcomes over the pre-participation period
+Average annual outcome post-: Represents the average annual outcomes over the post-participation period
+Change between pre- and post-: Represents the difference between the average annual outcomes calculated over the pre-/post -participation periods.
+Earnings outcome for all individuals covered by the study.
+Earnings outcomes excluding individuals who reported no earnings in a given year.
+ = percentage points.
+Appendix F – List of four studies included in the synthesis report
+Page details
+Report a problem on this page
+
+
+
+
+
+
+
+Date modified:
+2022-04-27

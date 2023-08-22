@@ -1,0 +1,497 @@
+Evaluation – Canada Revenue Agency (CRA) Management of Small Business Nudge
+Final Report
+Audit, Evaluation, and Risk Branch
+June 2022
+On this page
+Executive summary
+1. Introduction
+2. Background
+3. Evaluation methodologies
+4. Findings, recommendations, and management response
+4.1 There is no standard definition of “small business” at the CRA, and none that takes a taxpayer-centric view. The evaluation team has developed the concept of a “closely-held” business to address this gap.
+4.2 A taxpayer-centric segmentation approach could enhance CRA nudge impacts on small businesses.
+4.3 Many of the concerns regarding CRA nudge experimentations can be traced to a culture and practice of vertical rather than horizontal integration.
+5. Conclusion
+6. Acknowledgement
+7. Appendices
+Appendix A: Evaluation issues and methodology
+Appendix B: List of reports for the thematic evaluation
+Appendix C: Glossary
+Executive summary
+This evaluation is the second in a series of evaluations on small business administration at the Canada Revenue Agency (CRA).
+The purpose of this engagement was to provide the Commissioner, CRA management, and the Board of Management with an assessment of the CRA’s nudge
+Footnote
+1
+efforts as it is applied
+Footnote
+2
+to encouraging tax compliance among the small business population.
+This report also examines the CRA’s multiple definitions of “small business” and the CRA’s own data user experiences in terms of using CRA data to conduct nudge activities.
+Nudge experimentation relies on understanding the small business taxpayer’s behaviours, attitudes, and operating context. As a result, nudge success depends on horizontal and governance related factors in the areas of research and data.
+When properly targeted and designed, a nudge intervention can be an innovative and cost-effective way to facilitate voluntary compliance with a desired outcome
+Footnote
+3
+. Nudges, such as letter and telephone reminders, are intended to encourage desired behaviours, such as helping taxpayers to comply with their tax obligations, while minimizing the burden on them. Traditional compliance strategies, such as audits, are labour-intensive and have limited reach, while nudges tend to be more cost-effective with their wider reach.
+According to the Organisation for Economic Co-operation and Development’s Forum on Tax Administration (2021), a data-driven understanding of human behaviour can improve taxpayer and customer services and optimize enforcement strategies, including nudges. In the context of nudges, there could be circumstances where segmenting large, diverse populations is worthwhile. The process of segmenting identifies distinctive sub-groups who tend to share certain demographics, behaviours, social values, and other attributes within a population
+Footnote
+4
+.
+Findings
+The evaluation found that:
+there is no standard definition of “small business” at the CRA, and none that takes a taxpayer-centric view; the evaluation team developed the concept of a “closely-held” business to address this gap
+a taxpayer-centric segmentation approach (for example, using a blend of behavioural, attitudinal, and context data to reach a more meaningful understanding of a taxpayer group) can enhance the CRA nudge impacts for small businesses
+many of the concerns regarding CRA small business nudge research can be traced to a culture and practice of vertical rather than horizontal integration
+Summary of recommendations
+The Service, Innovation and Integration Branch should develop Behavioral Economics research standards for the Agency outlining the required steps in establishing rigorous behaviour-centric segmentation, specific to the appropriate target groups (treatment groups) and desired outcomes.
+The Service, Innovation and Integration Branch, with the support of the program branches, should improve collaboration and sharing of small business nudge related research and projects across the Agency.
+The Service, Innovation and Integration Branch, with the support of the program branches, should improve small business nudge monitoring and reporting.
+Management response
+The Service, Innovation and Integration Branch (SIIB) agrees with the three recommendations in this report and has developed related action plans. The Audit, Evaluation, and Risk Branch (AERB) has determined that they appear reasonable to address the recommendations. After allowing adequate time for key action plan items to be completed, AERB will conduct a follow-up assurance engagement to determine whether any gaps continue to exist and what opportunities should be further explored.
+Regarding the first recommendation, SIIB recognizes that Behavioural Economics (BE) has increasingly been used to develop nudge techniques in an effort to increase voluntary compliance, service provision and internal operations. In order to design effective nudge interventions, the most suitable nudge intervention for a given project will capitalize on both the cause of the behavioural issue and specific characteristics of the target population. Both rest on the availability of data and its reliability.
+SIIB, in consultation with CRA stakeholders will:
+Establish a “BE Research Standard” that codifies the controls required in the course of BE research (Q4 2022-2023).
+Assess the viability of applying third party attitudinal survey data to CRA micro data (Q3 2022-2023).
+Establish and maintain a list of experts that can be consulted for BE Research (Q2 2022-2023).
+As for the second recommendation, SIIB recognizes the need for further collaboration and sharing of nudge research across the Agency. SIIB houses the Centre for Excellence in Behavioural Economics Research (CEBER), which promotes methodological rigour in Agency nudge activities.
+SIIB will improve functionality of the Agency Research Inventory that facilitates sharing and identification of BE research (Q4 2022-2023).
+SIIB, through the planned relaunch of the Research Network, will act as a hub for analysts across the Agency to share their work (Q3 2022-2023).
+Finally, in response to the third recommendation, it should be noted that behavioural economics research in the CRA is distributed across different program areas. To provide an enterprise-level view of nudge projects.
+SIIB will establish guidelines for data analysis of nudge and behavioural economics activities, including a “BE Research Standard” that codifies the controls required in the course of BE research (Q2 2023-2024).
+Develop a mechanism of annual reporting on nudges, including small businesses (Q4 2023-2024).
+1. Introduction
+A thematic evaluation of “small business administration” was first included in the Board of Management approved Risk-Based Audit and Evaluation Plan 2018 to 2021 and an overarching evaluation framework was approved by the Management Audit and Evaluation Committee on
+May 30, 2019
+.
+This thematic evaluation is divided into a series of reports. The first report, “Audit Yield,” was presented to the Management Audit and Evaluation Committee in November 2019.
+This report is the second in this series. This evaluation started by exploring the following areas:
+definitions of “small business” at the Canada Revenue Agency (CRA)
+T1 and T2 population compliance trends
+any data-related experiences that were encountered
+One of the commitments of the thematic evaluation approach is to provide the Management Audit and Evaluation Committee and the Audit Committee of the Board of Management (Board) with periodic progress reports. The interim report was presented to the Management Audit and Evaluation Committee in March 2021 and the Audit Committee of the Board in April 2021, respectively. During these meetings, the original wave two commitment evolved in terms of refining the examination of T1 and T2 trends by focusing on CRA nudge compliance efforts aimed at the small business community.
+Nudges as they relate to small business compliance became the focus of the evaluation for several reasons:
+using nudge techniques to influence desired behaviours and outcomes of a taxpayer is a low-cost method of potentially achieving greater compliance results for the CRA while minimizing the contact burden on the taxpayer
+using behavioural insights such as nudges is a widely accepted practice of improving tax administrations as evidenced by the recent guide
+Footnote
+5
+published by the Organization for Economic Co-operation and Development
+opportunities exist to advance segmentation and nudging by integrating third-party data (such as behavioural data) to develop a more meaningful understanding of a taxpayer (in other words, create a taxpayer-centric perspective)
+an extensive review of CRA literature and consultations with key stakeholders revealed there was no horizontal approach to applying nudge techniques as applied to small business across the CRA, thereby limiting measured progress in this field
+As a result, the evaluation team:
+identified a new sub-set of small businesses (in other words, 5.7M “closely-held” businesses – explained further in Section 4)
+developed a taxpayer-centric segmentation system using third-party data (such as attitudinal data) blended with CRA data, and tested the system against past small business nudge compliance campaigns to determine its value
+2. Background
+The purpose of this engagement was to provide the Commissioner, CRA management, and the Board of Management with an assessment of CRA nudge efforts through the lens of a more taxpayer-centric approach to segmenting the small business population. This report also examines the CRA’s multiple definitions of “small business,” and the CRA’s own data user experiences.
+Thaler and Sunstein (2008) described “nudge” as changing someone’s behaviour in predictable ways without having to remove any options or changing their economic incentives
+Footnote
+6
+. The nudge literature suggests that the more that can be known about a nudge recipient, the easier it could be to tailor messages that appeal to them, thereby improving the chances that the nudge will succeed.
+The CRA’s activities serve wide audiences within the small business population. Based on their information needs, the vast majority of these businesses are either T1 self-employed or T2 owner-operated filers. As a result, at the strategic level, the CRA has tended to communicate with small businesses as a single segment. “Serving you Better,” the small business consultation reporting on a bi-annual reporting cycle, is consistent with this approach
+Footnote
+7
+. From a compliance perspective, the CRA’s nudge efforts have tended to either be applied to an industrial sector, an entire population of non-compliance, such as T2 non-filers, or a specific aspect of reporting. Some nudges have been further broken down by tax line.
+Nudge techniques are used by many tax administrations and there is evidence to suggest that they can work. The Organisation for Economic Co-operation and Development (2021) report on behavioural insights
+Footnote
+8
+provides an overview of the use and impact of nudges by numerous tax administrations. For example, one tax administration was able to reduce the number of taxpayers owing taxes by 33%, while another tax administration increased filing among prior non-filers by as much as 15%, all through the implementation of targeted nudge letter campaigns.
+3. Evaluation methodologies
+The evaluation team used the following methodologies:
+data analysis of four years (2014-2017)
+Footnote
+9
+of:
+filing and payment compliance
+sources of household and business income
+the purchase of a temporary, three-month trial subscription with a third-party data provider, which provided access to a segmentation system and the social values, wealth profiles, and demographics of Canadians at the postal code level only
+nudge results from 2015, 2016, 2017, and 2020 pilot projects administered by the CRA
+document reviews, including 400 reports from both the Agency Research Inventory and the Business Intelligence Reference System, and benchmarking of best practices with Organisation for Economic Co-operation and Development countries
+internal interviews and focus groups with CRA employees
+external interviews with other Government of Canada employees
+survey of CRA employees who obtain, extract, and prepare data, also referred to as “data users”
+Limitations of this research
+When managing data, taxpayer privacy is paramount. Consistent with privacy laws, the third-party data (such as social values and behavioural data) purchased for this research is modelled at the postal code level. While modelled postal-code-level data increases the chances of getting the right message to the right person
+Footnote
+10
+, it is impossible to link modelled data to any individual within a postal code. Further, although it is improbable that postal-code-level generalizations apply to everyone residing in that postal code, such analysis provides valuable contact information that previous internal research using other factors such as region, sex, and industry code does not.
+4. Findings, recommendations, and management response
+The recommendations presented in this report address issues of high significance or mandatory requirements.
+The Service, Innovation and Integration Branch agree with the recommendations in this report and have developed related action plans. The Audit, Evaluation, and Risk Branch has determined that they appear reasonable to address the recommendations.
+4.1 There is no standard definition of “small business” at the CRA, and none that takes a taxpayer-centric view. The evaluation team has developed the concept of a “closely-held” business to address this gap.
+There is no standard definition of “small business” at the CRA. Most of the 17 definitions tend to be based on revenue or the number of employees, which can vary widely
+Footnote
+11
+. None of these definitions focus on either the individual T2 owner-operated corporation or the T1 self-employed sole proprietor.
+The evaluation team developed the concept of the “closely-held business” segment to address this gap. It focuses on the individuals behind smaller businesses and includes all T1 self-employed and T2 owner-operated corporations where there is either a single (or spousal) majority shareholder with a controlling interest (greater than 90% of the corporation’s shares). This distinction is important because in T2 corporations, ownership can be spread among multiple minority shareholders, requiring the use of other criteria (such as revenue or number of employees) to distinguish between small-, medium-, and large-sized businesses. Overall, as of 2017, there were approximately 5.7 million closely-held businesses in Canada, which includes 4.5 million T1 self-employed and 1.2 million T2 owner-operated corporations.
+Achieving a taxpayer-centric view is possible with the closely-held business definition because of its focus on the individual who operates the business. The idea behind a taxpayer-centric view is to try to better understand the attitudes, behaviours, situations, and other tendencies of these taxpayers in order to build relationships that improve both service and compliance, all while addressing unique needs. Developing a taxpayer-centric view of small businesses could be ideal because of:
+the multiple tax obligations they might have, including T1, T2, GST/HST, and payroll
+their large numbers (they represent approximately 85% of all businesses in Canada), coupled with their relatively low taxes payable
+These same population characteristics also justify the use of nudge techniques. The Small and Medium Enterprises Directorate of the Compliance Programs Branch developed a report titled “The right intervention for the risk.”
+Footnote
+12
+This report states that a more targeted approach to CRA interventions is preferred, where audits and enforcement action are aimed at serious non-compliance, while less serious compliance risks are treated using “softer,” less costly techniques and initiatives, such as enhanced information resources, liaison officer programs, and nudge campaigns.
+4.1.1 Although the CRA has developed two small-business owner personae
+Footnote
+13
+, which could be used as the basis for segmentation, these currently have limited use.
+Personae are fictional representations of segments, or groups, of individuals based on attributes that could reflect their characteristics, values, and behavioural tendencies. Their purpose is to increase an organization’s understanding of the different groups it serves. Their value lies in how clearly they reveal what drives the different types of individuals. Applying the taxpayer-centric view to small businesses lends itself to the creation of unique personae.
+The evaluation team’s quantitative analysis revealed that there is an opportunity to refine the CRA’s business-related personae to more accurately reflect the small business population. For example, the CRA’s current “Nate” persona resembles between 0 and 0.2% of small businesses, while the “Beatrice” persona resembles between 0 and 1.0%
+It should be noted that these personae are intended for web content developers and others within the Public Affairs Branch to help increase their sensitivity to unique small business needs. As a result, there was no evidence that these, or any other personae, were intended for or have been used as the basis for nudge messaging. Further, given their limited breadth, the personae could not be used to assess the efficacy of CRA nudge efforts.
+4.2 A taxpayer-centric segmentation approach could enhance CRA nudge impacts on small businesses.
+Mass marketing approaches to communications typically send one message to an entire population. By contrast, the idea behind segmentation is to identify distinctive sub-groups based on their respective tendencies within a population (such as closely-held businesses). This segmentation would be based on a combination of behavioural, demographic, social values, and other tendencies. Identifying segments this way provides the basis for achieving specific goals, such as increasing the possibility of getting the right message to the right person, which is a key consideration in small business nudge efforts.
+This section provides an overview of:
+the taxpayer-centric segmentation system developed by the evaluation team for the closely-held business population
+insights on how to optimize the results from four CRA small business nudge initiatives (2015, 2016, 2017, and 2020)
+4.2.1 Overview of the taxpayer-centric segmentation system developed by the evaluation team
+The evaluation team found that the optimal number of closely-held business segments is six, a result that is aligned with previous CRA public opinion research. Table 1 includes the following information about each segment:
+segment label and the percentage of the closely-held business population that it represents
+social value tendencies
+ranking of filing and payment compliance behaviours
+percentage of taxes unpaid when due
+ability to pay, an indication of their financial situation
+nudge response rank
+Table 1: Summary of the closely-held business taxpayer-centric segmentation system
+Segment label (% of overall population)
+They tend to value:
+Compliance rank
+% of unpaid taxes
+(%)
+Footnote
+14
+Ability to pay
+rank
+Footnote
+15
+Nudge response
+rank
+Footnote
+16
+Filing
+rank
+Footnote
+17
+Payment
+rank
+Footnote
+18
+Altruistic compliers (16%)
+Civil obedience, gov’t action, community
+1
+2
+42
+5
+4
+Deferent compliers (4%)
+Personal duty, civil disobedience, gov’t action, physical force
+2
+1
+41
+1
+1
+Pseudo compliers (41%)
+Respecting authority, private sector over gov’t
+3
+4
+44
+3
+5
+Situational non-compliers (8%)
+Risk taking, traditional values, private sector over gov’t, inequality as inevitable
+4
+6
+52
+2
+6
+Potential non-compliers (25%)
+Civil disobedience, individualism, work ethic, inequality as inevitable
+5
+3
+58
+6
+2
+Rebels (5%)
+Eliminating inequality, civil disobedience, individualism
+6
+5
+54
+4
+3
+As Table 1, above, illustrates, both similarities and differences between the segments emerge when comparing information by row. For example, while altruistic compliers and deferent compliers were consistently the most filing and payment compliant, the two segments tend to differ in their financial situations, social values, and response to CRA nudges. Pseudo compliers and Situational non-compliers are the only two segments to tend to value the private sector over government in dealing with societal issues. They are also both more likely to be in good financial health and less likely to respond to CRA nudges. However, not only do their remaining social values diverge, but situational non-compliers are more likely to be payment non-compliant and carry a larger portion of tax debt. Understanding the tendencies and situations of each segment can assist the CRA to determine the appropriate compliance actions for each segment of the closely-held business population. The next section describes how the proposed segmentation system can be applied within the CRA.
+4.2.2 Applying the segmentation systems
+The CRA has a stated objective of using the right intervention for the risk. Within the context of nudge, this means determining which segments of the population are most likely to respond to a compliance intervention, such as a nudge, and use these insights to improve non-compliance. This also means understanding which segments are not likely to respond to nudge techniques and using different compliance approaches for these segments. Table 1 highlights that different segments of the population had different response rates to CRA nudge experiments. Deferent compliers were the most responsive and situational non-compliers were the least likely to respond.
+The differences in response rates between the segments highlights the need for enhanced monitoring. The evaluation team created an indicator to monitor and optimize the use of nudge within specific segments of the closely-held business population. The indicator calculates the percentage of letters/contacts received by taxpayers compared with the percentage of responses that were subsequently received by the CRA. To optimize its impact, the CRA would nudge the segments that are most responsive and limit the letters sent to those who are the least responsive.
+The evaluation team tested its taxpayer-centric segmentation system using the data collected during the four CRA nudge experiments. A summary of the test results can be found in Table 2.
+Table 2: Frequency of nudge optimization by taxpayer-centric segment
+Impact
+Nudge
+conditions
+Footnote
+19
+applied to each segment
+Altruistic compliers
+Deferent compliers
+Pseudo compliers
+Situational non-compliers
+Potential non-compliers
+Rebels
+Overall averages
+Near-optimal
+9%
+64%
+100%
+64%
+45%
+82%
+61%
+Sub-optimal
+91%
+36%
+0%
+36%
+55%
+18%
+39%
+Overall, the test results were positive and suggest that the CRA optimized its return in a total of 61% of the segments/nudge conditions included in the analysis. Based on their response rates, “pseudo-complier” and the “rebel” segments tended to be optimally targeted and combined, these two segments represent approximately half of the closely-held business population.
+The tests also revealed some opportunities for improvement in the targeting approach for certain nudge experiments. In about 39% of the conditions CRA nudge achieved a sub-optimal impact because it either did not send enough nudges to highly responsive segments or it sent too many nudges to largely unresponsive segments. For example, the CRA could have attempted to reach more taxpayers in the “potential non-complier” segment but, by contrast, the CRA sent too many letters to altruistic compliers.
+The evaluation team also tested a third-party segmentation system using the data collected from the four CRA nudge experiments. Overall, the third-party segmentation system produced inconsistent results across the various nudge experiments. A few segments showed consistently above or below average response rates while most did not produce detectable differences. This led the evaluation team to conclude that a taxpayer-centric segmentation system has greater potential to optimize future small business nudge performance.
+4.2.3 Key takeaways from segmentation system testing
+The observations emerging from this evaluation should be considered tentative because they are only based on four previous nudge studies. Despite this, the taxpayer-centric segmentation system raises questions that warrant further exploration. For example, altruistic compliers were expected to be most responsive to a nudge based on their value systems. However, their filing and payment compliance rates, and their low proportion of late taxes owed, suggest that they are already among the most compliant segment of the closely-held business population despite their comparatively weak financial situations. It is possible that nudges are less effective with this segment because they are confident that they are already compliant, because their weaker financial situations impedes their ability to pay more, or both. Pseudo-compliers and situational non-compliers were also among the least responsive segments to a nudge. These segments share a skeptical view towards the role of government and are among the most payment non-compliant despite being the wealthiest. The differences between the segments suggest that the CRA could do more to target, optimize, and monitor its nudge efforts. Given the potential using and applying behavioral data to nudging, alternative strategies to addressing these segments should be explored.
+Implications for CRA nudge experimentation structures, mechanisms, and processes are discussed in section 4.3.1.
+Recommendation 1
+SIIB should develop BE research standards for the Agency outlining the required steps in establishing rigorous behaviour-centric segmentation, specific to the appropriate target groups (treatment groups) and desired outcomes.
+Management response
+The Service, Innovation and Integration Branch agrees with this recommendation.
+Behavioural Economics has increasingly been used to develop nudge techniques in an effort to increase voluntary compliance, service provision and internal operations. In order to design effective nudge interventions, the most suitable nudge intervention for a given project will capitalize on both the cause of the behavioural issue and specific characteristics of the target population. Both rest on the availability of data and its reliability.
+SIIB, in consultation with CRA stakeholders will:
+Establish a “BE Research Standard” that codifies the controls required in the course of BE research (Q4 2022-2023).
+Assess the viability of applying third party attitudinal survey data to CRA micro data (Q3 2022-2023).
+Establish and maintain a list of experts that can be consulted for BE Research (Q2 2022-2023).
+4.3 Many of the concerns regarding CRA nudge experimentations can be traced to a culture and practice of vertical rather than horizontal integration.
+The CRA’s functional model reinforces vertical integration, as different branches specialize in processes, tax lines, and compliance activities. Within this structure, quantitative behavioural research teams are mandated to serve the nudge experimentation needs of their own branches, rather than embrace the Chief Service Officer’s mandate to employ a “client-centric lens in its development of service strategies.”
+Footnote
+20
+CRA nudge efforts have evolved within this operating framework, yet they are different because, unlike other forms of research, they impact the taxpayer directly.
+The CRA has the resources to develop taxpayer-centric segments. It has highly skilled nudge research communities within several of its branches, its own public opinion research function, and one of the single largest data repositories of Canadians’ behaviour (for example, filing and payment behaviours).
+Despite these resources, the CRA has not been able to leverage these resources to create its own taxpayer-centric segmentation system for nudge purposes. As almost all surveys do not collect personal identifiable taxpayer information, it is not feasible to join this information with the behavioural and attitudinal data collected by the CRA at the individual level. Privacy and ethical practices also do not support joining personal identifiable taxpayer information to the attitudes and opinions of the individuals. This disconnect between these two types of information impacts their use in practice when CRA nudge experiments are developed and carried out.
+The following section reviews the structures, mechanisms, and processes that support current nudge efforts, and highlights some of the impacts associated with these findings. Overall, there appears to be numerous ways that the CRA could increase its cross-branch, or horizontal, collaboration, which could positively impact taxpayers, researchers, and management.
+4.3.1 The challenges nudge researchers face with CRA data are complex, leading them to spend a significant
+Elements of the Agency Digital Business Strategy
+Footnote
+21
+imply data quality is a priority, including references to “reducing the burden on Canadians by leveraging data and emerging technologies,” solutions that perform real-time analysis, and “agile and risk informed decision-making.”
+The evaluation team conducted a survey of 45 CRA data users
+Footnote
+22
+, and examined their experiences related to the locating, understanding, obtaining, and verifying of data quality on their current or most recently completed projects. The common element underlying many of their concerns (such as a lack of documentation or identifying an owner) was the need for confidence in their data prior to analyzing it. Overall, they spent 31% of their time ensuring data was of a high quality, while another 53% of their time was spent locating and understanding the data.
+Overall, the majority of CRA data users felt that the CRA had the potential to improve their data experience by facilitating their “understanding of data” or “locating of data.”
+In addition, nudge researchers revealed that they sometimes wait months to obtain data, which has led to delaying or redirecting their projects. Specifically, obtaining address data is a challenge for nudge researchers. Currently, the CRA requires a mailing address from T1 filers, not a home address. The evaluation team’s data analysis found that 19.5% of business owners who were nudged in early 2020 (for not filing their corporate return) did not report a valid residential address. Postal boxes are not where the taxpayer actually resides, limiting the value of postal-code-level insights.
+The evaluation team also identified concerns in the two-way communications with the data user community. The evaluation team ran a test that identified how transformations to original source data made some records appear differently in the Agency Data Warehouse
+Footnote
+23
+, a problem that the Information Technology Branch committed to address when notified. At the time of writing, users had not been informed of the data error in a systematic way, and user support documentation has not been updated. Additionally, apart from the evaluation team’s survey, only one other survey has been conducted with CRA data users over the past five years. We found that the previous survey did not provide a full picture of data user experiences, including concerns regarding their levels of trust in the quality of the data.
+The Service, Innovation and Integration Branch and the Information Technology Branch have recently launched numerous data quality initiatives such as the data quality framework, the data stewardship program, and the Agency Metadata Repository. While there were numerous references to improving data quality in the Service, Innovation and Integration Branch and the Information Technology Branch in senior management annual performance accords, the evaluation team could not find anyone explicitly accountable for monitoring and continuously improving the data user experience.
+4.3.2 There is a lack of minimum, common standards regarding nudge details.
+The CRA developed the CRA Nudge Development Guide to support nudge researchers, including those conducting experiments on the small business population. While this guidance document is comprehensive, there is no horizontal mechanism in place that monitors whether it is followed. As a result, the CRA appears to rely on researcher judgement at the branch level rather than ensuring there are minimum standards across branches regarding some methodological details. Subtle differences in approaches could make it a challenge for senior management to monitor success and strategically deploy CRA resources towards nudge campaigns.
+For example, contrary to the advice in the CRA Nudge Development Guide, two of the nudge studies used in this evaluation’s nudge analysis did not create a control group. A control group provides baseline information regarding how many people would undertake the desired behaviour without any intervention. In these two instances, post hoc control groups were developed based on taxpayer-requested adjustments during a comparable time period.
+Further, different combinations of success criteria were used across nudge studies, and the number of measures varied between one and eight. Some of these criteria were found to be statistically significant, while others were not. This made it challenging for the evaluation team to determine whether one nudge experiment was more successful than another.
+Part of the nudge planning process is to review previous research related to the targeted population, such as small businesses, in order to gain understanding of the population, the drivers of its compliance behaviour, and risk factors associated with different pockets of the population. We noted concerns regarding the documentation and usage of small business research that could potentially feed nudge research decisions. For example, in one analysis, the top 1% of the closely-held taxpayer population represented 37% of debt on initial assessment and 47% of the total debt 90 days after the assessment (in other words, a large proportion of the population). Such skewness is common, yet many reports that the evaluation team reviewed made no mention of outliers or extreme values in their reports.
+4.3.3 Impacts of this evaluation on key stakeholder groups
+The findings identified above impact different CRA stakeholders in different ways. Nudge researchers, field staff, management, and authors of the CRA Nudge Development Guide are considered below.
+Nudge researchers and field staff
+Nudge researchers indicated that not all of their research reports are available in the CRA’s central repository for research. Reasons cited include:
+a lack of storage space
+their reports are too complex and external readers would not understand them
+some of their reports are actually a measurement of the performance of taxpayer compliance
+they tend to require approval from their field clients or program areas, who might prefer that the results are not widely shared
+There was no evidence that any branch’s nudge research cited (much less attempted to replicate) the research of another branch, nor was there any evidence of cross-branch (inter-disciplinary) collaboration on published reports. Additionally, although nudge researchers review their work within their branch and with their functional clients, there was no evidence of cross-branch peer review either prior to launching the nudge (to ensure its approach meets minimum standards) or after the launch.
+In addition, there is no central repository through which to post, share, or access nudge results data or to know which taxpayers have been contacted and have responded to a nudge. Nudge responses are not evaluated across branches to recognize and act on patterns that could initiate the development of a taxpayer-centric segmentation system.
+Nudge field staff have a high demand for research, but there is a disconnect between published research and its usability in the field. When employees were asked how this information is used, different perspectives emerged. On the one hand, CRA nudge managers receive individual taxpayer data showing (possible) non-compliance, including personal contact information. On the other hand, CRA nudge managers can also access CRA research that has combined compliance or behavioural and attitudinal data, but they do not know who the individuals are or how to contact them. The two types of research exist in parallel, with no ability to integrate them.
+Some field staff revealed that they are building their own data analysis groups to meet their unique needs.
+Overall, the unavailability of self-serve options for accessing nudge data and detailed methodologies has made the re-using and learning from previous nudges impractical and time consuming.
+A more horizontally integrated research community can support nudge researchers by:
+facilitating the replication of research through the sharing of data and processes
+promoting cross-branch collaboration that takes a taxpayer-centric view
+providing an independent lens to challenge research findings prior to conducting field work and publication
+Management
+The current organizational design might not be optimizing the relationship between accountabilities and expertise, and this is relevant because unlike other research, nudge efforts directly impact targeted taxpayers.
+According to interviewees, there is a tendency for nudge activities to be prioritized, planned, and administered by Headquarters and field program staff. However, instead of being involved from the initial planning stage, this model tends to limit CRA research and communications expertise to mostly advisory roles in the nudge management process.
+On the research side, this practice represents a barrier to developing minimum methodological nudge standards, and as long as such standards are not adhered to, the CRA could be challenged in its sharing, aggregating, and monitoring of overall nudge results. This, in turn could impact the CRA’s ability to optimally implement its non-audit treatments/nudge activities. On the communications side, the CRA cannot easily know which taxpayer has received which message, whether the message was appropriate or optimal, and whether the same taxpayer has been targeted multiple times.
+Although each research team measures and documents its nudge results, there was no evidence of a CRA-wide nudge monitoring strategy. With the reliance on researcher judgement, no central repository to store and mine previous nudge results, and a wide variety of success criteria employed, it can be a challenge, at the CRA level, to know which nudges have been more or less effective and why, impacting the CRA’s ability to deploy nudge resources in a strategic fashion.
+Updates to the CRA Nudge Development Guide
+The evaluation team’s analysis suggests several claims from the CRA Nudge Development Guide could be re-visited based on the findings stated throughout this report.
+Recommendation 2
+The Service, Innovation and Integration Branch, with the support of the program branches, should improve collaboration and sharing of small business nudge related research and projects across the Agency.
+Management response
+The Service, Innovation and Integration Branch agrees with this recommendation.
+SIIB recognizes the need for further collaboration and sharing of nudge research across the Agency. SIIB houses the Centre for Excellence in Behavioural Economics Research (CEBER), which promotes methodological rigour in Agency nudge activities.
+SIIB will improve functionality of the Agency Research Inventory that facilitates sharing and identification of BE research (Q4 2022-2023).
+SIIB, through the planned relaunch of the Research Network, will act as a hub for analysts across the Agency to share their work (Q3 2022-2023).
+Recommendation 3
+The Service, Innovation and Integration Branch, with the support of the program branches, should improve small business nudge monitoring and reporting.
+Management response
+The Service, Innovation and Integration Branch agrees with this recommendation.
+Behavioural economics research in the CRA is distributed across different program areas. To provide an enterprise-level view of nudge projects, SIIB will develop a mechanism of annual reporting on nudges, including small businesses.
+SIIB will establish guidelines for data analysis of nudge and behavioural economics activities, including a “BE Research Standard” that codifies the controls required in the course of BE research (Q2 2023-2024).
+SIIB, in consultation with other CRA stakeholders, will develop a mechanism of annual reporting on nudges including small businesses (Q4 2023-2024).
+5. Conclusion
+Tax administrations around the world have started using behavioural insights to improve their relationships with taxpayers. Nudging has the potential to have a positive impact on taxpayer services and compliance, and it is consistent with CRA strategies of putting people first and customizing its service offering and its messaging to the different segments it serves.
+While the CRA has undertaken many initiatives in nudging taxpayers in the past, the advancements in the areas of behavioural insights, the CRA’s investments in data analytics tools and skills, and the CRA’s openness to a more iterative and lean approach of continuous improvement provide good conditions for making further advancements in the way the CRA facilitates voluntary compliance.
+The recommendations and action plans developed have the potential to help the CRA reach its objectives in serving the diversity of its small business client base. This said, AERB will conduct a follow-up assurance engagement after allowing adequate time for key action plan items to be completed to determine whether any gaps continue to exist and what opportunities should be further explored.
+6. Acknowledgement
+In closing, the evaluation team would like to acknowledge and thank the branches for the time dedicated and the information provided during the course of this engagement: the Assessment, Benefit, and Service Branch; the Collections and Verification Branch; the Compliance Programs Branch; the Information Technology Branch; the Public Affairs Branch; and the Service, Innovation, and Integration Branch.
+7. Appendices
+Appendix A: Evaluation issues and methodology
+Issue 1: What outcomes are being achieved in the small business ownership population?
+What are these businesses’ perceptions of and experiences with the CRA?
+What are the compliance trends of this population with multiple tax obligations?
+Issue 2: In what ways could a full taxpayer view impact the CRA’s administration of the small business population?
+In what ways could a full taxpayer view impact current monitoring and reporting approaches to this population?
+Can current operating assumptions regarding risk scoring, file selection, resource allocation, governance, coordination, technology, and legal frameworks be validated using a full taxpayer view?
+These two issues will be studied over a series of reports. The first report, “Audit Yield,” was presented in November 2019. The current report is the second in this series. This report examines the labels and definitions surrounding “business” at the CRA and elsewhere. It summarizes the similarities and differences between the overall T1 and T2 populations and highlights any data-related experiences encountered. Among other things, the analysis explores the nature of an individual’s dependence on their business income in order to support data-driven decision-making around definitions of “small business.”
+Methodology
+The methodologies for examination included the following:
+data analysis of four years (2014-2017) of:
+filing and payment compliance
+sources of household and business income
+the purchase of a temporary, three-month trial subscription, which provided access to a segmentation system and the social values, wealth profiles, and demographics of Canadians
+nudge results from 2015, 2016, 2017, and 2020 pilot projects administered by the CRA
+document reviews, including 400 reports from both the Agency Research Inventory and the Business Intelligence Reference System, and benchmarking of best practices with Organisation for Economic Co-operation and Development countries
+internal interviews and focus groups with CRA employees
+external interviews with other Government of Canada employees
+survey of CRA employees who obtain, extract, and prepare data, also referred to as “data users”
+A third-party segmentation system was purchased on a temporary licence in order to understand the attitudinal, lifestyle, and wealth profiles of the CRA’s nudged population. This segmentation system attributes, to each postal code, a specific segment based on the social, economic, and attitudinal attributes attached to each postal code.
+The evaluation team used two approaches: one that used the third-party segmentation system as is, and the other consisted of creating an in-house segmentation system using the aggregated statistics, and then combining the behavioural and administrative data to the segmentation data.
+The algorithm used in the development of the segmentation system has a small level of instability, where one in every five records can belong to a different segment when the algorithm is replicated. This instability is expected in social sciences, and does not impact the overall analysis and findings.
+Appendix B: List of reports for the thematic evaluation
+This multi-year thematic approach to business compliance will respond to the issues and research questions listed above by generating a series of reports whose content varies in depth and breadth. The evaluation team will periodically review the series and will provide updates to the Management Audit and Evaluation Committee to ensure continued relevance and feasibility. This approach enables the evaluation team to remain agile in responding to senior management’s needs, which could be shaped by findings in the reports.
+The CRA’s exploration of this theme began in 2018 with the framework for the Evaluation of CRA Information Resources for Small Businesses. That evaluation examines the extent to which a variety of CRA information resources facilitate small business compliance as well as how effective the CRA’s administration is in this area.
+Wave 1 reports
+Audit Yield
+– This report assessed how effectively the CRA successfully recovers amounts from most of its business-related income tax (and an update on GST/HST
+Footnote
+24
+) audits within a given timeframe. It examined integrated, population-level performance measures that take into account the results of activities across multiple branches or functions. It explored recent, multi-year tracking of CRA business audit efforts across the T2, T1, GST/HST, and payroll tax lines. Such a horizontal indicator would assess the CRA’s effectiveness in resolving audit re-assessments (for example, estimating how much extra in tax dollars are generated as a result of audit work that targets business).
+Current report: CRA Management of Small Business Nudge
+– This report assessed the aggregated comparability, stability, and practicality of segmenting and managing small business data. It examines the labels and definitions surrounding “small business” at the CRA and elsewhere. It summarizes the similarities and differences between the overall T1 and T2 populations and highlights any data-related experiences encountered. Among other things, the analysis explores the nature of an individual’s dependence on their business income in order to support data-driven decision-making around definitions of “small business.” In March 2021, the evaluation team advised the Management Audit and Evaluation Committee along with the Audit Committee of the Board of Management that this report would also evaluate the CRA’s nudging of businesses.
+Appendix C: Glossary
+Glossary
+Term
+Definition
+Agency Data Warehouse (ADW)
+The ADW is a data repository that stores corporate, sharable data from over 55 CRA business operational systems in a manner suitable for use in Business Intelligence (BI) analysis, research, and reporting.
+Inferential study
+Inferential studies focus on finding relationships and making predictions or generalizations about a larger dataset, based on a set of collected data.
+Nudge
+A nudge is an intervention technique that targets individuals’ economic decision-making process in order to facilitate behaviour change. The intervention typically adds, changes, or re-arranges information that individuals use to make specific economic decisions (for example, saving, spending, reporting income, and paying debts) in an effort to increase desired behaviour or decrease undesired behaviours. Nudge techniques are characterized by their subtle and encouraging nature. Sending educational letters to taxpayers who are at risk of under-reporting their income, to inform them on what income should be reported and to correct errors after the fact, is an example of a nudge.
+Persona
+CRA personae are fictional characters representing the key audience segments that use the CRA’s products and services. Although the individuals are not real, they are based on data and research about actual users. The five CRA personae are:
+Persona 1: Tax Service Provider – Wayne
+Persona 2: Business Owner – Beatrice
+Persona 3: Typical Tax-filer – Lara
+Persona 4: Vulnerable – Fatima
+Persona 5: Needs help with taxes – Nate
+Segmentation
+Segmentation analysis attempts to obtain and analyze an individual’s attitudes, behaviours, financial situations, demographics, and other tendencies. This data is used to group like-minded and similarly-situated individuals to determine the optimal way of communicating with them.
+Trend
+A trend is a pattern found in data; it is used to describe if the data is showing an upward or downward movement for part, or all of, the time.
+Footnotes
+Footnote 1
+A nudge is an intervention technique that targets individuals' economic decision-making processes in order to facilitate a behaviour change (CRA Nudge Guide). The CRA has been implementing nudges for approximately 10 years.
+Return to footnote
+1
+Footnote 2
+The CRA can use nudge techniques to encourage behaviours in a variety of ways beyond tax compliance (e.g. encouraging benefits uptake). This evaluation examines nudges as they specifically apply to encourage tax compliance among the small business population.
+Return to footnote
+2
+Footnote 3
+CRA’s Nudge Development Guide (accessible only on the Government of Canada network)
+Return to footnote
+3
+Footnote 4
+Behavioural Insights for Better Tax Administration: A Brief Guide
+Return to footnote
+4
+Footnote 5
+Forum on tax administration, Organisation for Economic Co-operation and Development, 2021; Behavioural Insights for Better Tax Administration
+Return to footnote
+5
+Footnote 6
+Thaler, R and Sunstein, C, 2008. Nudge: improving decisions about health, wealth, and happiness. New Haven: Yale University Press.
+Return to footnote
+6
+Footnote 7
+2018 Serving You Better consultations with small and medium businesses
+Return to footnote
+7
+Footnote 8
+Forum on tax administration, Organisation for Economic Co-operation and Development, 2021; Behavioural Insights for Better Tax Administration
+Return to footnote
+8
+Footnote 9
+This period of data was selected and extracted in 2020 given the relative stability of the taxpayers’ accounts (for example, appeals rights had been exhausted or late filers were captured)
+Return to footnote
+9
+Footnote 10
+Using the Nudge in Tax Compliance: Leveraging Behavioral Insights to Boost Tax Revenues. Deloitte Consulting LLP
+.
+Return to footnote
+10
+Footnote 11
+For example, small businesses generate between 11% and 58% of the net income of all businesses.
+Return to footnote
+11
+Footnote 12
+Small & Medium Enterprises Directorate, Strategic Business Plan, The right intervention for the risk, Fiscal Year 2015 to 2018. According to this report, “Implementing ‘the right intervention for the risk’ means that we seek to find the least intrusive and most economical way to promote compliance. A range of interventions will be deployed to reach the most taxpayers possible within the SME population. Soft interventions or nudge approaches will be used instead of after-the-fact audit interventions where these less intrusive methods are more effective in ensuring compliance. While still an important part of our mandate, audits and penalties are reserved for the most serious cases of non-compliance.”
+Return to footnote
+12
+Footnote 13
+CRA personas (accessible only on the Government of Canada network)
+Return to footnote
+13
+Footnote 14
+Ratio of the average taxpayer debt per segment after 90 days based on the average taxes owing per segment on initial assessment over a four-year period.
+Return to footnote
+14
+Footnote 15
+Average liquid assets per segment.
+Return to footnote
+15
+Footnote 16
+Overall ranking of response rates to all nudges studied.
+Return to footnote
+16
+Footnote 17
+Combined average of the T1/T2 filing non-compliance over a four-year period.
+Return to footnote
+17
+Footnote 18
+Ranked by aggregated averages per segment of paying in full on time over a four-year period.
+Return to footnote
+18
+Footnote 19
+Conditions refer to the 11 experimental groups used in previous CRA nudge campaigns.
+Return to footnote
+19
+Footnote 20
+Putting people first at the Canada Revenue Agency
+Return to footnote
+20
+Footnote 21
+Update: Digital Business Strategy 2020-2022 (accessible only on the Government of Canada network)
+Return to footnote
+21
+Footnote 22
+The survey was directed at CRA employees who obtain, extract, and prepare data (e.g. power BI users).
+Return to footnote
+22
+Footnote 23
+The Agency Data Warehouse holds taxpayer data from over 50 CRA databases.
+Return to footnote
+23
+Footnote 24
+Evaluation Study – Horizontal Compliance Management: GST/HST Audit Programs
+, 2018
+Return to footnote
+24
+Page details
+Report a problem on this page
+Date modified:
+2022-09-16

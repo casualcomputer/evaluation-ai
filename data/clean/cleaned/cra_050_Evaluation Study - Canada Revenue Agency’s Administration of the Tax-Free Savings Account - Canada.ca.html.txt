@@ -1,0 +1,232 @@
+Executive Summary
+The Tax-Free Savings Account (TFSA) was introduced by the Department of Finance Canada as part of Budget 2008 tabled on February 26, 2008 and was part of Bill C-50 that received royal assent on June 18, 2008. Canadians could begin contributing to a TFSA as of January 1, 2009 to allow them to earn tax-free investment income to more easily meet lifetime savings needs. The TFSA complements existing Canadian registered savings plans such as the registered retirement savings plan (RRSP). Unlike an RRSP where tax is deferred until such time as the money is withdrawn, TFSAs are not taxable upon withdrawal. Canadians were initially allowed to contribute $5,000 annually into their TFSA(s) and the contribution limit was increased to $5,500 in 2013 and $10,000 in 2015.
+In February 2015, the Management Audit and Evaluation Committee of the Canada Revenue Agency (CRA) approved the evaluation framework for the CRA’s Administration of the TFSA Evaluation Study. The Department of Finance Canada develops and evaluates federal tax policies and legislation, while the CRA is the agency responsible for the administration of tax laws, including the Income Tax Act  (ITA) of Canada. As such, the scope of this evaluation was limited to CRA’s administration of the provisions of the ITA related to TFSA. This evaluation study attempts to answer the question to what extent have the administrative aspects of the TFSA program been designed and implemented by the CRA to achieve expected outcomes as well as potential alternatives or modifications that could improve CRA’s administration of the TFSA.
+The CRA’s administration of TFSA cuts across multiple programs. The Assessment, Benefit and Service Branch (ABSB) was the office of primary interest for the design, development and implementation of the TFSA program with the collaboration of other headquarter branches including Legislative Policy and Regulatory Affairs (LPRAB), Compliance Programs, Collections and Verification, Appeals, Public Affairs (PAB), Information Technology and Strategy and Integration.
+The CRA took a new approach when designing and implementing TFSA as this was the first program that:
+required transmission of all data to be electronic;
+incorporated vigorous upfront validities;
+proactively identified non-compliance involving potential tax payable; and
+electronically issued pre-populated proposed returns.
+Ultimately the test of effective implementation of the TFSA program is the execution of activities in such a manner as to reasonably achieve expected outcomes. For the CRA this means that program activities are carried out in a manner to ensure compliance with TFSA legislation, rules and regulations. For financial institutions, they must understand and comply with the requirements for marketing qualified arrangements, educate their clients on TFSAs and file annual information returns and amendments. For Canadians, they must understand and comply with the rules, restrictions and filing requirements of the TFSA. On all fronts, and for the most part, this study revealed that these implementation objectives have been met.
+Our analysis determined that the TFSA program was well designed, planned and implemented. The CRA has a system in place to accept electronic TFSA transactions from financial institutions, processes are in place to review and approve TFSA arrangements for marketing by financial institutions and effective linkages were made with existing CRA compliance activities. External interviews with the financial institutions revealed that they have a good understanding of the TFSA legislation and regulations. They also acknowledged that the electronic filing process is relatively straightforward with the exception of reconciliation of records which they find, in some circumstances, to be an administrative burden. For Canadians, as of 2013 over 10.7 million individuals have one or more active TFSA and are contributing, for the most part, within annual TFSA limits.
+We also observed that the CRA and the financial institutions have worked collaboratively and demonstrated a high level of commitment to the design and implementation of CRA’s administration of the TFSA program. This has allowed Canadians to contribute and earn tax-free investment income to more easily meet their lifetime savings needs.
+Our analysis also identified opportunities to potentially increase the effectiveness of the TFSA program from the perspective of Canadians, financial institutions and the CRA. We recommended that:
+PAB, as part of the TFSA communication review, emphasize messaging related to the responsibility of financial institutions and Canadians to comply with TFSA legislation, rules and regulations.
+LPRAB share the TFSA design and implementation experience with the Department of Finance Canada to potentially allow for more advanced notice when proposed legislation requires new systems and processes for both the CRA and external stakeholders.
+LPRAB review the application of penalties to financial institutions to ensure fairness in the administration of the ITA.  
+ABSB explore and assess the feasibility of system and program enhancements related to filing timelines, reason codes for rejections and multi-year amendments to support TFSA compliance.
+ABSB refer repeat non-compliance with the filing of TFSA amendments to LPRAB for review as part of the TFSA audit program of financial institutions to ensure compliance with legislation, rules and regulations.
+ABSB explore and assess the feasibility to include enhanced data reporting requirements similar to TFSA, for other deferred income and savings plans, to support predictive analytics and business intelligence.
+Introduction
+In February 2015, the Management Audit and Evaluation Committee (MAEC) of the Canada Revenue Agency (CRA) approved the evaluation framework for the CRA’s Administration of the Tax-Free Savings Account (TFSA) Evaluation Study.
+The Department of Finance Canada develops and evaluates federal tax policies and legislation, while the CRA is the agency responsible for the administration of tax laws, including the Income Tax Act (ITA) of Canada. As such, the scope of this evaluation was limited to CRA’s administration of the provisions of the ITA related to TFSA. The evaluation framework identified the following two evaluation issues:
+Issue 1: To what extent have the administrative aspects of the TFSA program been designed and implemented by the CRA to achieve expected outcomes?
+Has the program design of the TFSA been implemented as planned?
+Has the system performed as expected?
+Has the TFSA program achieved expected outcomes?
+Issue 2: Are there alternatives or modifications to current system and program delivery that could improve CRA’s administration of the TFSA?
+Are there best practices or lessons learned from implementing the TFSA?
+What alternative approaches or modifications to system and program delivery could be adopted from strategies or best practices of other tax administrations with a similar program?
+This report summarizes the findings related to these issues and research questions. Findings are to provide CRA senior management with information on the design and implementation of the administrative aspects of the TFSA program to achieve expected outcomes as well as potential alternatives or modifications that could improve CRA’s administration of the TFSA.
+Background
+The TFSA was introduced by the Department of Finance Canada as part of Budget 2008 tabled on February 26, 2008 and was part of Bill C-50 that received royal assent on June 18, 2008. Canadians could begin contributing to a TFSA as of January 1, 2009 to allow them to earn tax-free investment income with the objective to more easily meet lifetime savings needs. For the tax years 2009 to 2013, CRA administered over 273.4 million TFSA transactions held by 10.7 million Canadians.
+The TFSA complements existing Canadian registered savings plans such as the registered retirement savings plan (RRSP). Canadians were initially allowed to contribute $5,000 annually into their TFSA(s). Unlike an RRSP where tax is deferred until such time as the money is withdrawn, TFSAs are not taxable upon withdrawal. In 2013 the annual TFSA contribution limit was increased to $5,500 and in 2015 it was increased to $10,000.
+The Assessment, Benefit and Service Branch (ABSB) was the office of primary interest for the design, development and implementation of the TFSA program with the collaboration of other headquarter branches including Legislative Policy and Regulatory Affairs (LPRAB), Compliance Programs (CPB), Collections and Verification (CVB), Appeals, Public Affairs (PAB), Information Technology (ITB) and Strategy and Integration (SIB). The logic model in Appendix A illustrates a holistic view of the main activities, outputs and outcomes related to CRA’s administration of the TFSA program and the inter-relationships with financial institutions (issuers) and Canadians (holders).
+Financial institutions must apply to the CRA and receive a TFSA identification number in order to market and administer qualified TFSA arrangements. Once approved, financial institutions are expected to educate and inform their clients of the rules, restrictions and filing requirements of the TFSA product. The CRA also provides information to financial institutions and Canadians through electronic and paper media.
+TFSA legislation and regulations require that financial institutions electronically file the transaction details for each TFSA holder to the CRA by the last day of February following the calendar year to which the information return applies. The transaction details include information such as the social insurance number, personal identification information, TFSA number, the closing fair market value of each account, details on each contribution and withdrawal made, and any change in status of the TFSA holder such as death or marital status.
+In general terms, when a TFSA annual information return is electronically filed to the CRA, a series of upfront system validation checks are performed to confirm that the data was submitted correctly and is for the correct TFSA holder. For those that meet the validation checks, the system will reconcile the contribution and withdrawal information received from the financial institution to calculate the TFSA room and whether there are excess contributions. If an excess situation exists, the TFSA holder will receive a proposed tax return to correct the over-contribution.
+For those that do not meet the validation checks, the CRA requires that the record be corrected and resubmitted by the financial institution for processing to ensure that the information reported is accurate. A downloadable file of rejected records is available to financial institutions in both “My Business Account” and “Represent a Client”.
+CRA uses the transaction details filed by financial institutions to calculate and advise Canadians of their TFSA contribution room or over-contributions. Complete contribution and withdrawal information is available on “My Account”.
+CRA is responsible to ensure that all TFSA transactions comply with the ITA by deterring, identifying and addressing non-compliant transactions and identifying emerging non-compliance trends. Accordingly, the CRA uses the annually-reported TFSA summary information to develop compliance audit plans and risk assessment strategies.
+Evaluation Methodologies and Approach
+For this evaluation study, we used the following methodologies and approach:
+A Working Committee was formed with representatives from ABSB, LPRAB, CPB, CVB, Appeals, SIB, ITB and PAB. This committee supported the gathering of branch specific information and the review of preliminary findings and recommendations.
+Internal interviews were conducted with 52 CRA managers and staff. Participants were selected from ABSB, LPRAB, CPB, CVB, Appeals, SIB, ITB and PAB and the TFSA Processing Unit in the Ontario Region.
+Examination and validation of our understanding of CRA policies, procedures, business rules and systems with responsible branches.
+External interviews were conducted with representatives from the Canadian Bankers Association, the Investment Industry Association of Canada and the Investment Fund Institute of Canada.
+A series of analyses on the outputs and outcomes of CRA’s administration of the TFSA, for the period 2009 to 2013 was undertaken. Analysis included a review of completed TFSA audits as they moved through the various program areas of the CRA. These taxpayer accounts were selected from the Platinum Reporting Facility (PRF) and reviewed against the Audit Information Management System (AIMS), Automated Collections and Source Deductions Enforcement System (ACSES), Random Access Personal Information Data (RAPID) and Case Appeals. This review occurred from December 17, 2014 to March 10, 2015.
+A review of the United States’ Roth-Individual Retirement Arrangements and the United Kingdom’s New Individual Savings Account was undertaken. The limited available administrative data, by program activity, did not support comparisons against the TFSA.
+The administrative aspects of the TFSA program have been designed and implemented as planned
+The TFSA implementation plan incorporated the necessary elements and linkages that were needed for an effective program; and was successfully operationalized as planned. This assessment is based on the evaluation findings as outlined in the following sections:
+Financial Resources
+Design and Implementation
+Communication
+Financial Resources
+CRA built a system for mandatory electronic reporting and to develop processes for program management, business intelligence, communication, and compliance activities. The logic model in Appendix A illustrates the main activities, outputs and outcomes related to CRA’s administration of the TFSA program.
+From 2008-2009 to 2012-2013 expenditures were $72.6 million which included $15.5 million for the annual program and maintenance costs. TFSA project costs are outlined in Table 1.
+TFSA system is performing as expected
+A review of TFSA system reports and interviews with financial institutions revealed that the system is performing as expected and there are no issues with capacity, reliability or accessibility.
+The TFSA system has administered over 273.4 million transactions that were electronically submitted by financial institutions to the CRA for tax years 2009 to 2013.  Of the 273.4 million transactions, 87% represent contributions made by the 10.7 million Canadians who held a TFSA as of December 31, 2013. The total contributions were $40.2 billion with a reported fair market value of over $118.3 billion. Table 4 provides an annual and cumulative summary of TFSA information by tax year.
+TFSA program is achieving expected compliance outcomes however opportunities to increase the effectiveness of the program have been identified
+Analysis of the TFSA program, for the purpose of determining the achievement of compliance outcomes, was based on the logic model (Appendix A). We focused on business intelligence and compliance activities as findings related to program management and communication were, for the most part, discussed above. We analyzed TFSA information related to:
+arrangements approved for marketing by financial institutions;
+reconciled records, summaries and amendments;
+audits completed and assessments issued;
+outstanding balances resolved; and
+decisions made on notices of objection and appeals to the Tax Court of Canada.
+TFSA arrangements approved for marketing by financial institutions
+The first step in our analysis related to the marketing of TFSAs in order to ensure, as with all CRA programs, that compliance with legislation remains as the cornerstone of the integrity of the tax system and ensures fairness to all Canadians.
+The compliance activities for financial institutions begin at the TFSA application stage. Financial institutions must apply  to the CRA, have their TFSA specimen plan approved and receive a TFSA identification number in order to market and administer qualified TFSA arrangements to Canadians. Upon receipt of an application from a financial institution, LPRAB will review to make sure it contains all relevant and prescribed information and is in compliance with the ITA. Those that are complete and meet requirements are approved and financial institutions can market them to their clients. Those that do not meet CRA requirements are returned to the financial institution with the reason for rejection.
+Review of LPRAB data revealed that the CRA had approved 732 TFSA specimen plans as of November 19, 2014. This has allowed 10.7 million Canadians to have a TFSA.
+External interviews with the financial institutions revealed no issues with the application process with the CRA for the marketing of TFSAs. Table 5 provides details of the breakdown of TFSA holders by province from 2009 to 2013.
+Conclusion
+Our analysis has revealed that the CRA has designed and implemented the administrative aspects of the TFSA program as intended to achieve the expected outcomes. Communication activities are currently underway by the CRA which may improve financial institutions and Canadians understanding of TFSA rules and restrictions and have the potential to improve overall compliance. Opportunities for improvement have been identified to potentially increase the effectiveness of the TFSA program from the perspective of Canadians, financial institutions and the CRA. We recommend that:
+Recommendation 1
+PAB, as part of the TFSA communication review, emphasize messaging related to the responsibility of financial institutions and individuals to comply with TFSA legislation, rules and regulations.
+Management Response
+We concur with this recommendation. PAB will continue to implement communications efforts to use plain language and cross promote TFSA messaging where appropriate. In addition, PAB will build on existing messaging related to the compliance of the TFSA legislation, rules, and regulations to individuals, and will support the program branches in their communication to financial institutions.
+PAB will review and update the existing TFSA communications strategy in the winter of 2016 in collaboration with the relevant program branches, and will take into consideration the external communications recommendations in this report as well as those specific to TFSA in Phase II of the External Administrative Correspondence review.  The revised communications strategy will roll-out in the spring of 2016, and will target both financial institutions and individuals.
+Recommendation 2
+LPRAB share the TFSA design and implementation experience with the Department of Finance Canada to potentially allow for more advanced notice when proposed legislation requires new systems and processes for both the CRA and external stakeholders.
+Management Response
+We concur with this recommendation.  We recognize that the short-time line to implement TFSA resulted in additional human and financial pressures for financial institutions.  LPRAB will share the TFSA design and implementation experience with the Department of Finance by the end of this fiscal to advise them that more advanced notice would support both external stakeholders and the CRA when proposed legislation requires new systems and processes.
+Recommendation 3
+LPRAB review the application of penalties to financial institutions to ensure fairness in the administration of the ITA.
+Management Response
+We concur with this recommendation. We agree that the application of penalties needs to be consistent and that penalties act as a deterrent to non-compliance. In 2016-2017, LPRAB will review and disseminate procedures for their staff with respect to applying penalties to financial institutions related to the late filing of TFSA annual information returns and failure to provide information on a TFSA return.
+Recommendation 4
+ABSB explore and assess the feasibility of system and program enhancements related to filing timelines, reason codes for rejections and multi-year amendments to support TFSA compliance.
+Management Response
+We concur with this recommendation.  We recognize that the TFSA program has matured and opportunities for potential system and program enhancements may exist to support TFSA compliance.  ABSB will explore and assess the feasibility of varied timelines, reason codes for rejection and multi-year amendments for the TFSA program. ABSB has already started a review of the reason codes for rejections and is currently working on a help document for financial institutions. Implementation to occur in Q3. As the program enhancements related to filing timelines and multi-year amendments will involve multiple stakeholders such as INFODEC, ITB and the financial institutions, ABSB will undertake a review in 2016/2017. Implementation in 2017-2018.
+Recommendation 5
+ABSB refer repeat non-compliance with the filing of TFSA amendments to LPRAB for review as part of the TFSA audit program of financial institutions to ensure compliance with legislation, rules and regulations.
+Management Response
+We concur with this recommendation.  We recognize the importance of ensuring that TFSA transactions details are reported correctly to the CRA as this information is used by Canadians to manage their TFSA. ABSB will review and refer repeat non-compliance with the filing of TFSA amendments to LPRAB for review as part of the TFSA audit program to ensure compliance with legislation, rules and regulations. ABSB will start referring repeat non-compliance with the filing of TFSA amendments to LPRAB. Implementation April 2016.
+Recommendation 6
+ABSB explore and assess the feasibility to include enhanced data reporting requirements similar to TFSA, for other deferred income and savings plans, to support predictive analytics and business intelligence.
+Management Response
+We concur with this recommendation. We recognize the importance of predictive analytics and business intelligence to support CRA tax compliance activities.  ABSB will explore and assess the feasibility to include the TFSA enhanced data report requirements for other deferred income and savings plans. This review will be undertaken in 2016/2017. Recommendations originating from the review are to be implemented in Q4.
+Acknowledgement
+We would like to acknowledge and thank all CRA stakeholders and the financial institutions interviewed for their support. We observed that the CRA and the financial institutions have worked collaboratively and demonstrated a high level of commitment to the design and implementation of CRA’s administration of the TFSA program. This has allowed Canadians to contribute and earn tax-free investment income to more easily meet their lifetime savings needs.
+Appendix A
+Tax Free Savings Account (TFSA) Logic Model
+
+The TFSA program is delivered to Canadians as holders:
+
+Understand the rules, restrictions and filing requirements of the TFSA
+Open a TFSA account with Financial Institutions
+Contribute to TFSA in accordance with the annual limit 
+Comply with all rules, restrictions and filing requirements of the TFSA
+
+ The Financial institutions are the issuers of the TFSA:
+
+Market and administer qualified TFSA arrangements approved by the CRA
+Educate and inform clients on the details and restrictions of the TFSA
+Electronically submit TFSA accounts for registration
+Electronically file TFSA annual information returns and amendments
+
+The logic model of the TFSA program is represented by three major actitivies that will lead to sub activities, outputs, immediate outcomes, intermediate outcomes and final outcomes.
+The first major activity is Program management and business intelligence. This major activity is linked to a list of sub activities:  
+
+Legislative review, policy and procedures development
+CRA stakeholder collaboration
+Resource and workload planning
+Functional direction, technical advice and training
+Performance monitoring and reporting
+System development and maintenance
+Risk assessment and strategy development
+
+These sub actitivities are now linked to outputs:
+
+Legislation, policy and procedures
+Resource and workload allocation
+Sharing of  information, advice and guidance with CRA stakeholders
+Guidance, manuals, training courses and tools
+System and performance monitoring reports
+System and program delivery changes
+
+These outputs are linked to immediate outcomes:
+
+Effective legislative tax framework
+Improved use of CRA business intelligence
+Knowledgeable and trained personnel
+Consistent application of policies and procedures
+Improved ability to identify risks and implement strategies to address non-compliance
+Improved system and program delivery
+
+These immediate outcomes are linked to intermediates outcomes:
+
+Improved effectiveness of the TFSA program to detect and address non-compliance
+Optimize resource utilization
+
+These intermediates outcomes are linked to final outcomes:
+
+Efficient and effective program management and delivery
+Financial institutions and Canadians comply with Canada’s tax legislation related to TFSA
+Canadians have a registered general purpose savings vehicle to earn tax-free investment income to more easily meet lifetime savings needs
+
+The second major activity is Communication. This major activity is linked to a list of sub activities: 
+
+Telephone and written enquiry services
+Forms and publication development
+Outreach
+Website development
+Ministerial and media enquiry services
+
+These sub actitivities are now linked to outputs:
+
+Information, advice and guidance provided to financial institutions and Canadians
+Electronic based information and publications
+Outreach presentations
+Responses to ministerial and media enquiries
+
+These outputs are linked to immediate outcomes:
+
+Increased level of understanding by financial institutions and Canadians on tax legislation governing TFSA
+Increased confidence in CRA’s ability to administer the TFSA program
+
+These immediate outcomes are linked to intermediates outcomes:
+
+Increased marketing of TFSA by financial institutions
+Increased confidence of Canadians to use TFSA
+
+These intermediates outcomes are linked to final outcomes:
+
+Efficient and effective program management and delivery
+Financial institutions and Canadians comply with Canada’s tax legislation related to TFSA
+Canadians have a registered general purpose savings vehicle to earn tax-free investment income to more easily meet lifetime savings needs
+
+From CRA, Compliance is a major activity. This major activity is linked to a list of sub activities: 
+
+Review TFSA arrangements for marketing by financial institutions
+Review TFSA records, summaries and amendments from financial institutions
+Administer the national audit program
+Review taxpayer objections and taxpayer relief requests
+Resolve outstanding balances
+
+These sub actitivities are now linked to outputs:
+
+Approved TFSA arrangements for marketing by financial institutions
+Reconciled TFSA records, summaries and amendments
+Audits completed and assessments issued
+Decisions made on notices of objection, appeals to the Tax Court and relief requests
+Outstanding balances resolved
+
+These outputs are linked to immediate outcomes:
+
+Acceptable TFSA arrangements available to Canadians
+Increased accuracy of TFSA records, summaries and amendments filed by financial institutions
+Increased compliance with TFSA contribution limits by Canadians
+Increased compliance with investment rules by financial institutions and Canadians
+Increased detection of other TFSA non-compliance
+
+These immediate outcomes are linked to intermediates outcomes:
+
+Improved compliance with TFSA rules, restrictions and filing requirements by financial institutions and Canadians
+
+These intermediates outcomes are linked to final outcomes:
+
+Efficient and effective program management and delivery
+Financial institutions and Canadians comply with Canada’s tax legislation related to TFSA
+Canadians have a registered general purpose savings vehicle to earn tax-free investment income to more easily meet lifetime savings needs
+Page details
+Report a problem on this page
+
+
+
+
+
+
+
+Date modified:
+2016-07-07

@@ -1,0 +1,962 @@
+Evaluation of the Wage Earner Protection Program
+From:
+Employment and Social Development Canada
+On this page
+List of figures
+Glossary
+Executive summary
+Management response and action plan
+Introduction
+Program background
+Key findings
+Recommendations
+Annex A: Evaluation questions
+Annex B: Methodology and lines of evidence
+Annex C: Evaluation limitations
+Annex D: Wage Earner Protection Program Logic Model
+Annex E: Bibliography
+Alternate formats
+Evaluation of the Wage Earner Protection Program
+[
+PDF
+-  1.9
+KB
+]
+Large print, braille,
+MP3
+(audio), e-text and
+DAISY
+formats are available on demand by
+ordering online
+or calling 1 800 O-Canada (1-800-622-6232). If you use a teletypewriter (
+TTY
+), call 1-800-926-9105.
+List of figures
+Figure 1: Timeline of Wage Earner Protection Program
+Figure 2: The Wage Earner Protection Plan process
+Figure 3: Number of Wage Earner Protection Program applicants by year
+Figure 4: Annual Wage Earner Protection Program Application Status
+Figure 5: Program applicants by gender
+Figure 6: Program applicants by age
+Figure 7: Program applicants by level of education
+Figure 8: Program applicants by employment industry
+Figure 9: Proportion of beneficiaries who received the maximum payment, by year
+Figure 10: Average payment and average amount of eligible wages owed to a Wage Earner Protection Program beneficiary from calendar years 2011 to 2019
+Figure 11: Rate of recovery of claims established by Wage Earner Protection Program
+Figure 12: Percentage of Wage Earner Protection Program application processed within service standard
+Figure 13:  Wage Earner Protection Program Logic Model
+Glossary
+Bankrupt/Bankruptcy:
+The legal status of a person who is unable to pay their debt and has declared bankruptcy. Bankruptcy is the formal process of signing over all lawful assets, except those exempt by law, to a Licensed Insolvency Trustee (Office of the Superintendent of Bankruptcy Canada, 2015).
+Beneficiary:
+A person who receives payment (Financial Consumer Agency of Canada, 2017). 
+Claim: A creditor’s statement that another person owes them money (Office of the Superintendent of Bankruptcy Canada, 2015).
+Insolvency:
+When a person is unable to pay off debt as it becomes due (Office of the Superintendent of Bankruptcy Canada, 2015).
+Primary industry:
+Industry that produce raw materials from nature by harvesting and extraction. This includes agriculture, oil and gas extraction, logging and forestry, mining, fishing, and trapping (Statistics Canada, 2006).
+Receiver/ Receivership:
+When a company fails to pay debts it owes to secured creditors. Those creditors appoint an administrative receiver to manage all or part of the company's assets. The receiver can sell assets, parts, or the whole company to recover the money owed (Office of the Superintendent of Bankruptcy Canada, 2015).
+Restructuring:
+To organize a company, business, or system in a new way to make it operate more effectively (Cambridge Dictionary, 2021).
+Severance:
+The money an employer pays an employee when they lose their job through no fault of their own (Financial Consumer of Canada, 2021).
+Subrogate:
+Substituting any employee's rights against an employer, to the extent of the amount paid. The party substituting, takes responsibility for beneficiaries in the bankruptcy or receivership proceedings (ESDC Wage Earner Protection Program for third party overview, 2020).
+Technical receivership:
+When an employer obtains a court-appointed receiver over a portion of the estate for the purpose of administering the Wage Earner Protection Program (Wage Earner Protection Program, 2021).
+Trustee:
+A person licensed to administer bankruptcies and proposals. This includes selling off assets to settle unpaid debts (Office of the Superintendent of Bankruptcy Canada, 2015).
+Executive summary
+The Wage Earner Protection Program is designed to reduce the economic insecurity of Canadian workers owed unpaid wages and vacation, termination and severance pay when their employer has filed for bankruptcy or has become subject to receivership
+Footnote
+1
+. The program is administered through the collaboration of several partners and stakeholders. These include the Labour Program, Service Canada, the Canada Revenue Agency, the Canada Industrial Relations Board and trustees and receivers. The estimated cost of the Wage Earner Protection Program is around $30 million per year, and it is funded from general revenues. In a year of a dramatic increase in bankruptcies, the cost of the program could reach $50 million.
+Footnote
+2
+This report presents the findings of the evaluation of the Wage Earner Protection Program covering the period between April 2011 and March 2020. The previous evaluation of the program covered the period from the program’s inception in 2008 to March 2011. The last evaluation was completed in 2014.
+Footnote
+3
+During this evaluation period, the program issued payments to beneficiaries totalling $318,885,445.
+Key findings
+Changes made to the program, since its inception, increased its ability to meet the needs of beneficiaries
+The program continues to see increasing use by eligible applicants. The program issued 18,165 payments to individual beneficiaries in 2018-2019, which is the highest number in its history
+There were 106,331 program applicants between 2011 and 2019. The majority of applicants were male (58%), between the ages of 31 and 54 (52%), and were employed in the service industry (53%). During that period, the rate of approval for program benefits varied from 89% to 97%
+From 2011 to 2019, the program released payments to beneficiaries that, on average, covered between 60% and 76% of the eligible wages they were owed by their former employers
+Service Canada met or exceeded its target, in most years, by processing over 80% of applications within the program’s service standard
+Footnote
+4
+Lack of understanding of the program, and being eligible for only a small payment are reasons eligible workers may not have applied to the program
+Eligible former employees and program beneficiaries need more information about the implications of being a program beneficiary could have on Employment Insurance claims
+Program beneficiaries, program officials and delivery partners were satisfied with the program. However, program officials and delivery partners both reported the level of its administrative burden placed on trustees and receivers as an area in need of improvement
+Recommendations
+Explore strategies to reduce trustees’ and receivers’ administrative burden when submitting program forms and/or requesting fee payments
+Explore ways to provide improved information about the implication that being a Wage Earner Protection Program beneficiary can have on an Employment Insurance claim
+Work in partnership with trustees and receivers to help them provide program information to potential beneficiaries to improve their understanding of the program and their potential entitlements
+Management response and action plan
+Overall management response
+The Wage Earner Protection Program (WEPP) is a legislated Government of Canada program introduced in 2008 to improve the lives of workers in Canada by providing financial support to individuals who are owed eligible wages after they have lost their job and their employer has entered into bankruptcy or become subject to a receivership under the
+Bankruptcy and Insolvency Act
+. Before the Wage Earner Protection Program, Canada lacked an effective way to ensure payment of unpaid wages when employers became insolvent. The Wage Earner Protection Program addresses a major gap that existed in Canada’s insolvency system before the program was launched in 2008.
+Service Canada of ESDC delivers the Wage Earner Protection Program on behalf of the Labour Program. Service Canada uses information provided by trustees, receivers, and applicants to determine program eligibility and administer the program. By collecting and providing needed information to Service Canada to determine eligibility of claims, trustees and receivers play an instrumental role in the successful delivery of the Wage Earner Protection Program.
+The department welcomes the observations and recommendations of this summative evaluation covering the period of April 2011 to March 2020. Evaluations such as this one indicate what is working well. These evaluations also help identify areas where further improvements can be made to better serve Canadians.
+This management response addresses the evaluation recommendations, provides information about recent improvements made to the Wage Earner Protection Program during the course of the evaluation, and outlines plans for future improvements.
+Some of the key findings from the Evaluation indicate that:
+the Wage Earner Protection Program aligns well with the priorities of the Government of Canada
+the Wage Earner Protection Program significantly reduces the amount of eligible wages workers are owed
+changes made to the Wage Earner Protection Program have improved its ability to meet the needs of Canadians
+officials, delivery partners, and Wage Earner Protection Program recipients are highly satisfied with the Wage Earner Protection Program
+Service Canada consistently exceeds its service standard targets
+Although the Evaluation reports that overall the Wage Earner Protection Program is working well, the Evaluation has identified 3 areas where further improvements may be possible.
+Recommendation #1
+Explore strategies to reduce trustees’ and receivers’ administrative burden when submitting program forms and/or requesting fee payments.
+Management response
+Management supports the recommendation to explore ways to reduce the administrative burden for trustees and receivers in fulfilling their duties under the
+Wage Earner Protection Program Act
+.
+Trustees and receivers have a number of specific obligations under the
+Wage Earner Protection Program Act
+that allow for the smooth delivery of the program. Specifically, they are responsible for identifying current and past employees, determining wages owed, providing information about Wage Earner Protection Program to potential applicants, and submitting specific information via a Trustee Information Form (TIF) to Service Canada for all employees who are owed eligible wages. This information allows Service Canada to establish an applicant’s eligibility and determine how much an eligible applicant is owed. As noted in the Evaluation, these obligations can impose administrative burden on trustees and receivers.
+The
+Wage Earner Protection Program Regulations
+have recently been amended to improve the payment scheme for trustees. This change broadens eligibility to pay a trustee for their fees and expenses in situations where there are too few assets in an estate to do so, and where the financial burden of administering an estate would exceed available estate assets to pay the trustee for their work. Both the eligibility conditions and process of applying for a trustee fee payment are now much simpler. This change came into effect on November 20, 2021.
+Service Canada is currently exploring the possibility of introducing a Wage Earner Protection Program Trustee Self Serve Project. If approved, the project would introduce a secure self-service solution for the trustee and receiver community to submit and retrieve Wage Earner Protection Program information more efficiently. Specific functions would aim to reduce the administrative burden for trustees and receivers.
+The Labour Program also chairs the Joint Liaison Committee (JLC). This committee is a forum to discuss administrative, policy and operational issues with government and non-government stakeholders and includes representatives from Canadian Association of Insolvency and Restructuring Processionals (CAIRP), the Canadian Labour Congress, Service Canada, Innovation, Science and Economic Development Canada, the Office of the Superintendent of Bankruptcy, and the Canada Revenue Agency. This committee will explore additional ways to reduce the administrative burdens faced by insolvency professionals in administering the Wage Earner Protection Program.
+Finally, the department will continue to work directly with representatives of the Canadian insolvency community, primarily through the Canadian Association of Insolvency and Restructuring Processionals, to find ways to further streamline the work trustees and receivers are required to undertake under the
+Wage Earner Protection Program Act
+.
+Management action plan
+Recommendation #1:
+Explore strategies to reduce trustees’ and receivers’ administrative burden when submitting program forms and/or requesting fee payments.
+1.1 Amend
+Wage Earner Protection Program Regulations
+to improve the payment scheme for trustees
+Completion date and lead:
+Completed - November 2021 - Labour Program
+1.2 Service Canada and the Labour Program will work with the Joint Liaison Committee to identify additional areas where administrative burdens can be reduced so that potential solutions can be examined
+Completion date and lead:
+March 2023 - Labour Program
+Recommendation #2
+Explore ways to provide improved information about the implication that being a Wage Earner Protection Program beneficiary can have on an Employment Insurance (EI) claim.
+Management response
+Management understands the importance of informing individuals of the potential effects that a Wage Earner Protection Program payment could have on their Employment Insurance benefits. In consultation with departmental stakeholders, the Labour Program has examined the causes, impacts and potential measures to address situations where individuals end up in an Employment Insurance overpayment situation after receiving a Wage Earner Protection Program payment for wages owed to them by their former employer.
+Following the recommendations from last summative Evaluation in 2014 and feedback received from clients and trustees, the department has implemented a number of changes to communications products. These changes included updates to client decision letters and to the Wage Earner Protection Program website. The recommendation from the most recent Evaluation suggests that more work is needed to examine potential measures to address situations where individuals are put in an Employment Insurance overpayment upon receipt of a Wage Earner Protection Program payment for wages owed to them by their former employer.
+The Labour Program and Service Canada will review existing communications products that explain the interaction between the Wage Earner Protection Program and Employment Insurance programs with a view to providing additional clarity and detail.
+Work will also be done with stakeholders to identify the information gaps in current communications materials that could benefit from additional information, clarification, or simplification so that the interactions between the Wage Earner Protection Program and Employment Insurance programs are better understood by clients.
+Management action plan
+Recommendation #2:
+Explore ways to provide improved information about the implication that being a Wage Earner Protection Program beneficiary can have on an Employment Insurance claim.
+2.1 The Labour Program and Service Canada will review existing communications products and will work with stakeholders to improve these products and provide simpler and clearer information on Wage Earner Protection Program –Employment Insurance interactions
+Completion date and lead:
+March 2023-Benefits and Integrated Services Branch/Individual Payment and Services On Demand
+Recommendation #3
+Work in partnership with trustees and receivers to help them provide program information to potential beneficiaries to improve their understanding of the program and their potential entitlements.
+Management response
+The department will continue working with the insolvency community to equip trustees and receivers to provide better information to individuals who may be eligible for the Wage Earner Protection Program.
+The department has prepared and shared detailed information with Canada’s insolvency professionals to explain the recent regulatory changes to the Wage Earner Protection Program, how the changes affect employee eligibility for the Wage Earner Protection Program, and the impact these changes have on the submission of required information to Service Canada.
+The department will conduct a review of current information products to identify where improvements could be made to communications material so that it better meets the needs of trustees, receivers, and former employees.
+Specifically, the department will continue to work with key stakeholders, such as Canadian Association of Insolvency and Restructuring Processionals (CAIRP), and will develop additional materials for trustees and receivers, where information gaps exist. This will help ensure that insolvency professionals have the information they need to fulfill their Wage Earner Protection Program duties, and to provide needed information to workers who may be eligible for the Wage Earner Protection Program.
+Management action plan
+Recommendation #3:
+Work in partnership with trustees and receivers to help them provide program information to potential beneficiaries to improve their understanding of the program and their potential entitlements.
+3.1 The Labour Program and Service Canada will review current communication products and will consult the trustee and receiver community to:
+better understand potential gaps in program information for potential Wage Earner Protection Program applicants to develop additional materials needed
+assess the feasibility and benefit of developing a Wage Earner Protection Program handout for Trustees and Receivers to share with potential applicants outlining key program information, and steps required to access the Wage Earner Protection Program
+Completion date:
+March 2023- Benefits and Integrated Service Branch/Individual Payment and Services On Demand
+Introduction
+The Wage Earner Protection Program (hereinafter the “program”) is designed to reduce the economic insecurity of Canadian workers owed: unpaid wages, vacation, termination and severance pay when their employer files for bankruptcy or becomes subject to receivership.
+Footnote
+5
+This report presents the findings of the evaluation of the Wage Earner Protection Program delivered by the Labour Program and Service Canada. This evaluation covers the period between April 2011 and March 2020. The evaluation examines the extent to which the program met the needs of Canadian workers impacted by employer insolvency. The previous evaluation of the program was completed in 2014.
+Footnote
+6
+Employment and Social Development Canada’s Performance Measurement and Evaluation Committee approved the program’s Evaluability Assessment in September 2020 including the evaluation questions presented in
+Annex A
+.
+More details about the evaluation’s methodology and lines of evidence are found in
+Annex B
+. Details about the evaluation’s limitations are found in
+Annex C
+.
+Program background
+In 2005, the Government of Canada introduced Bill C-55 to improve protections for workers who lose their jobs when their employers go bankrupt. Following amendments to the bill in 2007, the
+Wage Earner Protection Program Act
+came into effect on July 7, 2008. Before the introduction of the Wage Earner Protection Program, only 5% of workers successfully collected a portion of their wages owed by their former employers. On average, they recovered 13 cents for every dollar of unpaid wages they were owed.
+Footnote
+7
+During the period of the evaluation, the Wage Earner Protection Program issued payments to beneficiaries totalling $318,885,445.
+Following its introduction in 2008, the program underwent a series of changes, including:
+in 2009, the definition of eligible wages was expanded to include termination and severance pay, in addition to unpaid wages and vacation pay. In 2011, the
+Wage Earner Protection Program Act
+was amended to include workers whose employer’s failed attempt to restructure takes longer than 6 months
+in the 2012 federal Budget, the program’s annual operating budget was expanded to ensure applicants receive their payment more timely
+in the 2018 federal Budget, several additional changes were made to the
+Wage Earner Protection Program Act
+, which included:
+the maximum payment was increased from 4 weeks of the maximum insurable earnings under the Employment Insurance Act to 7 weeks
+the responsibility for appeals was transferred from the Federal Mediation and Conciliation Service to the Canada Industrial Relations Board
+the payment process for trustees and receivers to be paid for their work administering the program was modified. The regulations to implement these changes came into effect in November 2021
+Figure 1: Timeline of Wage Earner Protection Program
+Figure 1: Text version
+Year
+Timeline of Wage Earner Protection Program
+2008
+Wage Earner Protection Program began
+2009
+Eligible wages expanded to include termination and severance pay
+2011
+Wage Earner Protection Program Act
+amended to cover workers affected by an unsuccessful restructuring
+2012
+Program’s operating budget was expanded to ensure applicants receive more timely payments
+2018
+Maximum payment increased from the equivalent of 4 weeks of Employment Insurance benefits to 7 weeks
+2019
+Responsibility for appeals transferred to the Canadian Industrial Relations Board
+2020
+End of evaluation period
+The activities of the Wage Earner Protection Program include:
+the development of program policy and the management of stakeholder relations
+the provision of information and services to program applicants, trustees and receivers
+the issuance of payments to program applicants, trustees and receivers by Service Canada
+the recovery of any overpayments issued to beneficiaries
+the recovery of subrogated debt by the Canada Revenue Agency
+Partners and stakeholders
+The program is administered through the collaboration of a number of partners and stakeholders, including:
+the Labour Program; responsible for administering, monitoring and reporting on service delivery and communications activities
+Service Canada; responsible for processing applications, issuing payments and identifying overpayments
+the Canada Revenue Agency; responsible for collecting the debts subrogated
+Footnote
+8
+to the Government of Canada and collecting any overpayments made to the program’s beneficiaries
+the Canada Industrial Relations Board; responsible for rendering decisions on appeals
+trustees and receivers; responsible for informing eligible workers about the program and for providing information to Service Canada to determine applicant eligibility
+Program features and processes
+Appointment of a trustee or receiver and their duties
+When an employer formally declares bankruptcy, a licensed trustee is appointed to administer the process. When an employer becomes subject to a receivership, a receiver is appointed to administer the process. Under the
+Wage Earner Protection Program Act
+, within 45 calendar days
+Footnote
+9
+of the date of bankruptcy or receivership, the trustee or receiver is required to:
+identify former employees who are owed eligible wages
+determine the amounts owed to each former employee
+inform all eligible former employees about the program
+provide Service Canada with the information necessary to establish eligibility for payment
+Eligibility
+In order to be eligible for the program’s services, the former employee
+Footnote
+10
+must meet these 4 criteria:
+their employment has ended
+their former employer is bankrupt or subject to a receivership
+they are owed eligible wages
+their wages were earned within the 6 months prior to the bankruptcy or receivership
+in the case of a restructuring, ending in bankruptcy or receivership, the date of the restructuring can be used to calculate the 6-month period for eligible wages of former employees
+Directors, officers, certain managers and individuals with a controlling interest in the business of the former employer, or who are not dealing at arms length with any of those, are not eligible for the program.
+Eligible wages
+Eligible wages under the program include salaries, commissions, vacation pay, termination and severance pay earned in the 6 months before the date of the bankruptcy or receivership.
+In the case of an unsuccessful restructuring ending in bankruptcy or receivership, the former employees become eligible for payment from the program
+Footnote
+11
+. In these cases, to calculate eligible wages, the date of the restructuring event can be used instead of the date of bankruptcy or receivership.
+A beneficiary could receive a maximum payment equal to 7 weeks of the maximum insurable earnings under the
+Employment Insurance Act
+($7,579 in 2021).
+Applying for payment through the Wage Earner Protection Program
+The eligible former employee must file a Proof of Claim form with the appointed trustee or receiver detailing the amount their former employer owes. The Proof of Claim form is used to fill out the Trustee Information Form, which the trustee or receiver submits to Service Canada.
+The former employee must also file an application form with Service Canada within 56 days
+Footnote
+12
+of the bankruptcy or the end date of their employment. Once Service Canada receives all of the required documentation, the claim is processed. Then, a decision letter is issued to the applicant and the trustee or receiver. Service Canada aims to issue a decision letter within 35 days of receiving all necessary information.
+After their employment has ended, former employees may also be eligible for Employment Insurance benefits. If a program beneficiary also receives Employment Insurance benefits, they must report the program payment as a part of their Employment Insurance claim.
+Appeals
+If an applicant is not satisfied with a program decision, they can request a review by Service Canada. If they are not satisfied with the result of that review, they may appeal to the Canada Industrial Relations Board who is responsible for rendering decisions on appeals.
+Recovery of debts
+After a beneficiary receives a payment from the program, the Government of Canada takes the beneficiary’s place as creditor in the bankruptcy or receivership proceedings. The Canada Revenue Agency is responsible for attempting to recover these debts from the former employer through insolvency proceedings. There are 2 categories of debts recovered by the Canada Revenue Agency on behalf of the program, including:
+super-priority claims are the first $2,000 of debts that consist of unpaid wages and vacation pay, and the first $1,000 of debts that consist of disbursements of a travelling salesperson
+these claims are collected before the claims of other creditors
+unsecured claims consist of the remainder of unpaid wages, vacation pay, and disbursements of a travelling salesperson. This also includes all termination or severance pay up to the maximum program payment for the fiscal year the payment was issued
+these claims are collected after the claims that have higher priority
+Figure 2. The Wage Earner Protection Plan process
+Figure 2: Text version
+An employer enters into receivership or bankruptcy, and a receiver or trustee is appointed which would trigger the Wage Earner Protection Program
+The appointed trustee or receiver identifies eligible former employees, what they are owed, and informs them about the program
+Service Canada sends a decision letter to the applicant and to the Trustee or Receiver
+Eligible worker files a Proof of Claim form with the Trustee or Receiver, and an application with Service Canada
+Service Canada processes the application and renders a decision
+Service Canada sends a decision letter to the applicant and to the Trustee or Receiver
+applicants dissatisfied with the result of the decision can request a review from Service Canada
+those dissatisfied with the decision after the review can appeal to the Canada Industrial Relations Board
+Successful applicants receive payment. The debt is subrogated to the Crown
+Canada Revenue Agency attempts to recover the subrogated debts through the bankruptcy or receivership process
+Key findings
+Key finding #1: The program aligns with the priorities of the Government of Canada
+The program is an important part of the Canadian insolvency framework. The Five Year Statutory Review (2015) of the program concluded it was successful. It also found there is an ongoing need for it as former employees of insolvent employers are unlikely to collect unpaid wages without it
+The program continues to see increasing use by eligible applicants. The program issued 18,165 payments to individual beneficiaries in 2018 to 2019, which was the highest number in its history
+Since 2011, the program enacted reforms to ensure it continues to align with the priorities of the Government of Canada by meeting the needs of Canadians affected by an employer's insolvency, including:
+in the 2012 federal budget, the program received additional funding to ensure that applicants received their payments in a timelier manner
+the 2018 federal budget increased the maximum payment an applicant could receive. It was increased from the equivalent of 4 weeks of the maximum insurable earnings under the
+Employment Insurance Act
+amount to 7 weeks
+In 2018, the program published a discussion paper entitled "Enhancing the Wage Earner Protection Program". It solicited stakeholders’ views on a number of issues. This was done to ensure the program remains suitable and responsive to its stakeholders and aligns with the Government of Canada’s priorities and policies
+Key finding #2: There were 106,331 program applicants between 2011 and 2019. The majority were male (58%), between the ages of 31 and 54 (52%), and were employed in the service industry (53%)
+The program does not collect data on some of the socio-demographic characteristics of its applicants. These characteristics include gender, level of education and sector of employment. As such, Employment Insurance data was used in figures 5 through 8. This information was gathered from program applicants who also submitted Employment Insurance claims. This represented 81% of all program applicants.
+During the period covered by this evaluation, there were 106,331 program applicants. From this total, 81% (n= 86,307) also claimed Employment Insurance benefits.
+Figure 3 reflects the yearly number of applicants during the evaluation period. The high number of applicants in 2019 were related to the bankruptcy of Sears Canada. That bankruptcy resulted in nearly 10,000 former employees receiving a payment from the program in 2019
+Figure 3. Number of Wage Earner Protection Program applicants, by year
+Source: ESDC (2021). Wage Earner Protection Program - Administrative Data.
+Figure 3: Text version
+Year
+Number of Wage Earner Protection Program applicants
+2011
+10,693
+2012
+10,814
+2013
+11,770
+2014
+11,196
+2015
+10,419
+2016
+10,006
+2017
+8,201
+2018
+7,673
+2019
+23,054
+From 2011 to 2019, an average of 93% of program applicants were issued a payment; whereas an average of just under 7% of applicants were rejected (Figure 4)
+Figure 4: Annual Wage Earner Protection Program application status
+Source: ESDC (2021). Wage Earner Protection Program - Administrative Data.
+Figure 4: Text version
+Annual Wage Earner application status
+Payment issued
+Rejected
+2011
+89%
+10%
+2012
+90%
+9%
+2013
+90%
+8%
+2014
+90%
+8%
+2015
+90%
+8%
+2016
+93%
+6%
+2017
+94%
+5%
+2018
+93%
+5%
+2019
+97%
+3%
+During the period covered by the evaluation, 58% of program applicants identified as male and 42% identified as female (Figure 5)
+Figure 5: Program applicants by gender
+Source: ESDC (2021). Wage Earner Protection Program - Administrative Data.
+Figure 5: Text version
+Female program applicant
+Male program applicants
+42%
+58%
+A slight majority (52%) of program applicants were between 31 and 54 years of age, 24 % were 30 years old or younger and 21% were 55 years of age or older (Figure 6)
+Figure 6: Program applicants by age
+Source: ESDC (2021). Wage Earner Protection Program - Administrative Data.
+Figure 6: Text version
+Program applicants 30 years and under
+Program applicants between the ages of 31 and 54 years
+Program applicants 55 years and older
+24%
+52%
+21%
+For 34% of program applicants, their highest level of education was high school or occupational training. In contrast, 31% reported college, vocational or apprenticeship training as their highest level of education
+Finally, on-the-job training
+Footnote
+13
+represented 14% of program applicants, while managerial training represented 12% and a university degree represented 5% (Figure 7)
+Figure 7: Program applicants by level of education
+Source: ESDC (2021). Wage Earner Protection Program - Administrative Data.
+Figure 7: Text version
+Level of education
+Program applicants by level of education
+High school or occupational training
+34%
+College, vocational education or apprenticeship training
+31%
+On-the-job training
+14%
+Managerial
+12%
+University degree
+5%
+Miscoded
+4%
+A slight majority (53%) of program applicants were employed in the service industry. The other industries represented included:
+manufacturing industry (21%)
+construction industry (11%)
+government related industry (6%)
+primary industry (2%) (Figure 8)
+Figure 8: Program applicants by employment industry
+Source: ESDC (2021). Wage Earner Protection Program - Administrative Data.
+Figure 8: Text version
+Level of education
+Program applicants by level of education
+Services
+53%
+Manufacturing
+21%
+Construction
+11%
+Government
+6%
+Primary
+2%
+Missing/miscoded
+7%
+Key finding #3: On average, beneficiaries received a payment from the program that covered the majority of the eligible wages they were owed by their former employers
+From 2011 to 2019, the program released payments to beneficiaries that, on average, covered between 60% and 76% of the eligible wages their former employers owed them
+From the program’s inception in 2008 to April 2018, the maximum payment amount was the equivalent of 4 weeks of the maximum insurable amount under the
+Employment Insurance Act
+. During this time, about 50% of all program beneficiaries received the full amount of their eligible wages. The other 50% received the maximum program payment (Figure 10)
+In April 2018, the maximum payment amount was increased to the equivalent of 7 weeks of the maximum insurable amount under the
+Employment Insurance Act
+. Following this increase, the proportion of beneficiaries who received a maximum payment decreased to 35%. In 2019 to 2020, the proportion decreased again to 33% (Figure 10)
+this trend indicates an increase in the number of program beneficiaries who received the full amount of eligible wages owed to them
+Figure 9. Proportion of beneficiaries who received the maximum payment by fiscal years 2010 to 2011 and 2019 to 2020
+Source: ESDC (2021). Wage Earner Protection Program - Document Review.
+Source: ESDC’s Common System for Grants and Contributions, Administrative data (2020).
+Figure 9: Text version
+Fiscal year
+Proportion of beneficiaries who received the maximum payment
+2010 and 2011
+46%
+2011 and 2012
+58%
+2012 and 2013
+47%
+2013 and 2014
+47%
+2014 and 2015
+50%
+2015 and 2016
+49%
+2016 and 2017
+45%
+2017 and 2018
+47%
+2018 and 2019
+35%
+2019 and 2020
+33%
+The proportion of beneficiaries who received the maximum payment were mostly consistent between 2012 and 2013 to 2017 and 2018. The proportion decreased in 2018 and 2019 to 2019 and 2020 after the maximum payment increased. This indicates that a greater proportion of beneficiaries were paid the total amount of the eligible wages owed to them by their former employers following the increase in the maximum payment amount
+From 2011 to 2017, the maximum payment amount was the equivalent of 4 weeks of the yearly insurable earnings under the
+Employment Insurance Act
+. According to the program’s administrative data from the program, during this same period, the average payment received by a beneficiary ranged from $2,364 in 2011 to $2,703 in 2017 (Figure 9)
+In 2018 to 2019, the maximum payment amount increased to the equivalent of 7 weeks of the maximum insurable earnings under the
+Employment Insurance Act
+. The average payment a beneficiary received increased to $3,578 in 2018. The average payment increased again in 2019 to $4,227 (Figure 9)
+Figure 10: Average payment and average amount of eligible wages owed to a Wage Earner Protection Program beneficiary from calendar years 2011 to 2019
+Footnote
+14
+Footnote
+15
+Source: ESDC (2021). Wage Earner Protection Program - Administrative Data.
+Figure 10: Text version
+Calendar year
+Average amount of eligible wages owed to a Wage Earner Protection Program beneficiary
+Average payment to Wage Earner Protection Program beneficiary
+2011
+$6,947
+$2,364
+2012
+$8,491
+$2,442
+2013
+$6,212
+$2,483
+2014
+$6,829
+$2,545
+2015
+$7,042
+$2,566
+2016
+$8,377
+$2,588
+2017
+$6,997
+$2,703
+2018
+$7,771
+$3,578
+2019
+$12,446
+$4,227
+Almost all program beneficiaries interviewed were satisfied with the payment they received from the program. However, a few who claimed they were owed more than double the maximum payment suggested that it should have been higher
+Among nearly all program beneficiaries interviewed, the program was seen as the only way to recover eligible wages. Almost all stated they did not expect that they would have been able to recover what their former employer owed them through other means
+Key finding #4: Changes made to the program, since its inception, increased its ability to meet the needs of beneficiaries. These include increasing the maximum payment amount, and expanding the eligible wages to include termination and severance pay
+All program officials and a majority of delivery partners stated that the program addressed the challenges that affected former employees in situations. This allowed them to recover money that they would have been unlikely recovered by other means
+The majority of the delivery partners and program officials reported that increasing the maximum program payment amount in 2018 and 2019 better addressed the needs of former employees affected by their employer’s bankruptcy or receivership
+Some delivery partners and program officials interviewed identified the addition of severance and termination pay to the eligible wage category, as a change that improved the program
+Just above half of the program beneficiaries interviewed reported that they used their program payment:
+to catch-up on unpaid bills, or
+to help pay ongoing and basic living expenses
+this indicates that the program is helping its beneficiaries with their basic needs after their employer’s bankruptcy or receivership
+Just below half of the program beneficiaries interviewed indicated the payment was used for nonessential expenses or kept as savings. These beneficiaries had typically found new employment before the payment had arrived
+Key finding #5: The rate of recovery on all claims has increased steadily following a drop in 2013 and 2014. This trend is similar to the trend reflecting the recovery of super priority
+Footnote
+16
+claims
+After a beneficiary receives a program payment, the Government of Canada takes the beneficiary’s place as a creditor in the bankruptcy or receivership. The Canada Revenue Agency attempts to recover these debts through insolvency proceedings. There are 2 categories of debts recovered:
+super-priority claims, which are collected before the claims of other creditors
+unsecured claims, which are collected after the claims that have higher priority (for a more detailed explanation, please see the
+Program background section
+)
+The rate of recovery represents how much of the debts that the Canada Revenue Agency was able to recover through insolvency proceedings.
+Between 2013 and 2014 to 2017 and 2018, the rate of recovery of all claims steadily increased from just above 13% to a little more than 29%.
+Footnote
+17
+A similar trend is evident in the super priority and, to a lesser extent, in the unsecured claims (Figure 11)
+Figure 11. Rate of recovery of claims established by Wage Earner Protection Program
+Source: ESDC (2021). Wage Earner Protection Program - Administrative Data.
+Figure 11: Text version
+Rate of recovery of claims established by Wage Earner Protection Program, by fiscal year
+Super priority
+Unsecured
+Total
+2011 and 2012
+50.4%
+4.7%
+18.5%
+2012 and 2013
+67.2%
+3%
+23.7%
+2013 and 2014
+28.5%
+3.5%
+13.4%
+2014 and 2015
+49.7%
+4.1%
+15.9%
+2015 and 2016
+51.4%
+5.3%
+19.9%
+2016 and 2017
+58.8%
+5%
+23.4%
+2017 and 2018
+63.9%
+10%
+29.4%
+2018 and 2019
+44.6%
+2%
+6.9%
+2019 and 2020
+34.6%
+0.7%
+6.9%
+From 2011 and 2012 to 2019 and 2020, the program established claims on debts that totalled $322,812,330 and was able to recover $47,765,671. The average rate of recovery for this period was 15%
+From 2011 and 2012 to 2019 and 2020, the program established super priority claims worth $81,676,274. The rate of recovery of super priority claims for this period was 49%
+In this same period, the program established unsecured claims worth $241,136,056. The amount recovered by the Government of Canada was about $8,155,579, whereas the unrecovered amount was $232,980,477. The rate of recovery of unsecured claims for this period was just above 3%
+Key finding #6: Lack of understanding about the program and being eligible for only a small payment are reasons eligible workers may not have applied to the program
+Several program stakeholders and delivery partners interviewed stated that eligible former employees, who do not apply, might not understand the program. This is because the information provided is of a complex legal and technical nature
+A few delivery partners and 2 program officials also reported that some eligible former employees do not apply to the program. This was because their former employers owe them only a small amount of eligible wages
+Key finding #7: Eligible former employees and program beneficiaries need more information about the implications that being a Wage Earner Protection Program beneficiary could have on Employment Insurance claims
+Several program beneficiaries interviewed indicated they were not aware of the requirement to report their program payment as a part of their Employment Insurance claim after they had stopped receiving Employment Insurance benefits
+Two program beneficiaries reported that:
+their Employment Insurance benefits were stopped or they were required to pay back some of their benefits once the program payment was received
+one of the beneficiaries stated that their Employment Insurance claim was stopped for 6 weeks, which caused financial difficulties
+Several program officials and delivery partners interviewed mentioned that some eligible workers had a “fear of the unknown” about how the program payment may affect their Employment Insurance claims. For example:
+some workers, who were eligible for the program, had difficulty determining the best financial outcome between applying to the program, Employment Insurance or both
+A few program officials and delivery partners also reported one of the reasons program eligible workers did not apply to the program was because they were unsure about how a program payment may affect their Employment Insurance claim.
+Key finding #8: Program officials and delivery partners were satisfied with the program.  However, both reported the level of administrative burden placed on trustees and receivers as an area for improvement
+Almost all of the program officials and all of the delivery partners interviewed stated that the program is effective at achieving its objectives
+Several delivery partners interviewed identified the program’s website as a strength. Another few also identified the speed at which program beneficiaries receive payments as a strength of the program
+Over half of both program officials and delivery partners interviewed identified the administrative burden experienced by trustees in administering the program, as a weakness in program delivery. In particular, the requirement to submit individual Trustee Information Forms for each eligible former employee was considered a burden
+A few program officials and some delivery partners interviewed stated that the current system used to pay trustees for work on the program was slow and complex
+Footnote
+18
+they suggested the payment formula be simplified to allow trustees to access these payments more quickly and easily
+additionally, trustee representatives also raised the trustee payment system as a concern previously during meetings with program officials
+A few delivery partners interviewed identified other administrative barriers. These included:
+the lack of a system to check the progress of a claim
+the wait time to receive a call back from Service Canada when making an inquiry
+the receipt of a monthly statement of accounts after the file is closed
+Key finding #9: Program beneficiaries were highly satisfied with the program. However, the length of time to receive payment from the program, and the unexpected income taxes on that payment, were identified as sources of dissatisfaction
+All of the program beneficiaries interviewed stated that the Wage Earner Protection Program is a good program
+Almost all of the program’s beneficiaries interviewed were satisfied with the amount of the payment they received. A few beneficiaries who were owed far more than the program maximum payment suggested the maximum payment should be higher
+Program applicants interviewed were very satisfied with the application process. All of the beneficiaries interviewed stated they were satisfied with the application process. This finding is corroborated by previous surveys:
+Service Canada conducted 2 surveys of program applicants on the use of the online application (in 2018 and 2020). Approximately 90% of respondents to both surveys agreed or strongly agreed that the application was easy to complete
+in 2021, 78% of respondents (n=109)
+Footnote
+19
+to a survey of program applicants, also stated they were satisfied or very satisfied with the application process
+Beneficiaries’ satisfaction with trustees and receivers
+Footnote
+20
+was high. Of the 25 beneficiaries interviewed and who felt able to evaluate their relationship with the trustee or receiver, 21 were satisfied with their experience. Some suggested trustees should:
+make their communications about the program distinct from the communications about the bankruptcy or receivership in general
+some beneficiaries stated that they missed the information they received about the program. This was because it was a part of a large package of information about the bankruptcy or receivership in general
+meet with the employees to provide information and answer relevant questions
+Footnote
+21
+be clearer about the requirement to return the Proof of Claim form
+The most common suggestion relating to the overall program, came from almost a third of beneficiaries interviewed. They suggested increasing the speed of payment to beneficiaries. Beneficiaries identified the period right after a bankruptcy or receivership as a time of high financial stress. Yet, the payment from the program may not have arrived until 2 months later
+Several beneficiaries interviewed, reported the unexpected taxes, which resulted from receiving the program payment, as a source of dissatisfaction. They suggested a few options including:
+clarifying that the payment is taxable income
+providing an option on the application form to have the taxable amount withheld
+making the payment non-taxable
+Key finding #10: Service Canada met or exceeded its target, in most years, by processing 80% of applications within the program’s service standard
+The current target is for 80% of applications to be processed within 35 days of Service Canada receiving all of the required documents. Before April 1, 2016, the target was to have 80% of applications processed within 42 days
+The overall trend was that the target of 80% was met or surpassed in most years, as reflected in Figure 12. Although, there was some fluctuation from year to year
+The 2014 program evaluation covered the period from 2008 to 2011. The evaluation found that the program had not achieved its target of processing 80% of applications within their service standard. However, it was steadily progressing towards reaching that target
+since then, the program has met the service standard target in all but 2 years (Figure 12)
+Data analysis conducted by the Labour Program and Statistics Canada found that processing times fluctuated from year to year. The analysis indicated that staff turnover, and complex or significant bankruptcies continuously impacted processing times
+Several program officials and a few delivery partners interviewed stated that the program was providing timely compensation to workers
+Figure 12. Percentage of Wage Earner Protection Program applications processed within the service standard
+Source: ESDC’s Administrative Data (2021).
+Figure 12: Text version
+Fiscal year
+Percentage of Program applications processed within the service standard
+2010 and 2011
+95%
+2011 and 2012
+81%
+2012 and 2013
+48%
+2013 and 2014
+98%
+2014 and 2015
+88%
+2015 and 2016
+99%
+2016 and 2017
+99%
+2017 and 2018
+97%
+2018 and 2019
+73%
+2019 and 2020
+98%
+Recommendations
+Explore strategies to reduce trustees’ and receivers’ administrative burden when submitting program forms and/or requesting fee payments
+Explore ways to provide improved information about the implication that being a Wage Earner Protection Program beneficiary can have on an Employment Insurance claim
+Work in partnership with trustees and receivers to help them provide program information to potential beneficiaries to improve their understanding of the program and their potential entitlements
+Annex A: Evaluation questions
+1. To what extent is the program helping to reduce the negative impacts of employer insolvency on Canadian workers?
+1.1 To what extent is there a reduction in the amount owed to workers for unpaid wages, vacation pay, and termination and severance pay that arise due to their employer’s insolvency?
+1.1.1 What is the trend since 2011?
+Source of evidence:
+Document review
+1.2 To what extent are program payments (subrogated debt) being recovered by Canada Revenue Agency?
+1.2.1 What is the trend in the rate of recovery since 2011?
+Source of evidence:
+Document review
+1.3 To what extent are Program payments reducing the negative financial impacts of employer insolvency on Canadian workers?
+1.3.1 Does the impact of payments depend on the demographic and/or socio-economic profile of Program recipients?
+Source of evidence:
+program recipient (recipient) interviews
+program recipient survey by Evaluation Department (optional)
+administrative data review: profile study of program recipients based on analysis of internal datasets such as Employment Insurance Program data (optional line of evidence for this sub-question, if feasible)
+1.4. Are there any other positive or negative effects produced by the program, including effects on the Employment Insurance claims of program recipients and the level of administrative burden for program recipients who also receive Employment Insurance benefits?
+Source of evidence:
+document review
+administrative data review, including potential matching of program administrative data to Employment Insurance data to assess the extent of Employment Insurance overpayments among program recipients
+key informant interviews, internal and external, as needed
+program recipient survey by Evaluation Department
+2. To what extent are the objectives and design of the program meeting the needs of Canadian workers affected by employer insolvency?
+2.1 How suitable is the design of the program for increasing the financial security of workers affected by employer insolvency?
+Source of evidence:
+literature review
+document review
+key informant interviews, internal and external, as needed
+recipient survey by Evaluation Department
+2.2 What are some of the key demographic and socio-economic characteristics of program recipients?
+Source of evidence:
+recipient Survey by Evaluation Department (optional line of evidence for this sub-question)
+administrative data review: profile study of program recipients based on analysis of internal datasets such as Employment Insurance program data
+2.3 To what extent are there workers who are in need of the program but who may not be eligible for the program?
+Source of evidence:
+document review
+key informant interviews, internal and external, as needed
+2.4 To what extent do workers who are eligible for the program apply to the program?
+2.4.1 If eligible workers do not apply, what are the reasons?
+Source of evidence:
+document review
+document review
+key informant interviews, internal and external, as needed
+recipient Survey by Evaluation Department (optional)
+2.5 To what extent is the program aligned with Government of Canada priorities and policies?
+2.5.1 Has this alignment changed since 2011? If so, how has it changed?
+Source of evidence:
+literature review
+document review
+key informant interviews, internal and external, as needed
+3. To what extent are stakeholders satisfied with the design and delivery of the program?
+3.1 To what extent are stakeholders, including program officials, recipients and trustees/receivers, satisfied with the overall design and specific design elements of the program, including changes since 2009 and 2011?
+3.1.1 Are there significant differences in how internal and external stakeholder groups view the design of the program?
+3.1.2 Do the views of clients/recipients differ significantly from those of trustees/receivers?
+3.1.3 Are there widely differing views on program design within stakeholder groups?
+Source of evidence:
+document review e.g. Service Canada client survey(s) already implemented
+recipient survey by Evaluation Department
+key informant interviews targeting:
+Labour Program staff
+Service Canada staff
+program recipients
+trustees/receivers
+other internal and external stakeholder groups
+3.2 To what extent are stakeholders, including program officials, recipients and trustees/receivers, satisfied with the overall delivery and key aspects of program delivery, including those aspects that have changed since 2009 and 2011?
+3.2.1 Are there significant differences in how internal and external stakeholder groups view the delivery of the program?
+3.2.2 Do the views of clients/recipients differ significantly from those of trustees/receivers?
+3.2.3 Are there widely differing views on program delivery within stakeholder groups?
+Source of evidence:
+document review e.g. Service Canada client survey(s) already implemented
+recipient survey by Evaluation Department
+key informant interviews targeting:
+Labour Program staff
+Service Canada staff
+recipients
+trustees/receivers
+other internal/external stakeholders
+3.3 To what extent is the program meeting key service delivery standards or targets set by Service Canada?
+3.3.1 What are the trends since 2009 and 2011?
+3.3.2 Are there significant differences with some of the findings presented in the previous evaluation?
+Source of evidence:
+literature review (previous evaluation, review)
+document review, including surveys already implemented by Service Canada and reports based on administrative data
+Annex B: Methodology and lines of evidence
+Methodology and lines evidence
+The evaluation covers the period from April 2011 to March 2020
+The Evaluation of the Wage Earner Protection Program consists of 5 lines of evidence:
+document review
+literature review
+applicant survey
+key informant interviews
+administrative data analysis
+The document review consisted of an analysis of program documents, committee meeting minutes and dashboards
+The literature review consisted of:
+an analysis of budget documents
+changes to the
+Wage Earner Protection Program Act
+documents from stakeholder groups, including trustees and receivers, and labour organizations
+The 2019 to 2020 applicant survey asked a sample of 4000 people who applied for a Wage Earner Protection Program payment about their experiences with the program. The survey findings consist of a descriptive analysis of applicant responses. Due to a response rate of 2.75%, a more complex analysis of the responses was not possible (see
+Annex C
+for more details)
+The key informant interviews had a semi-structured format and were conducted with:
+9 ESDC officials
+16 delivery partners
+40 former Wage Earner Protection Program applicants
+ESDC officials and delivery partners were recruited by email or telephone, and interviews were conducted by internet voice call. Applicants were recruited and interviewed by telephone and were asked about their experiences with the program, and overall satisfaction with its design and delivery
+The administrative data analysis used Wage Earner Protection Program data. This was done to conduct a descriptive analysis of the number of applicants, average amounts owed and paid to beneficiaries, and the annual rate of acceptance of applications
+An analysis of a combination of Wage Earner Protection Program and Employment Insurance administrative data was used to conduct a descriptive analysis of the demographic profile of beneficiaries who received both a Wage Earner Protection. Program payment and Employment Insurance payment
+Scale used to report the findings
+“Almost all”
+– findings reflect the views and opinions of all of the key informants with one or 2 exceptions.
+“Majority”
+– findings reflect the views and opinions of more than 51%, but less than 75% of key informants in the group.
+“Some”
+- findings reflect the views and opinions of 5 or more, but less than 50% of key informants in the group.
+“Several”
+- findings reflect the views and opinions of 4 of key informants in the group.
+“A few”
+- findings reflect the views and opinions of 3 of the key informants in the group.
+Annex C: Evaluation limitations
+Limitations
+The applicant survey had a low response rate (2.75%). The former applicants were recruited by mail to visit the Wage Earner Protection Program website and to click on a link to access the survey page. This recruitment method did not allow for follow-up letters to be sent to applicants. This was because of the time and cost associated with the mass mailing process
+As a result of the low response rate, it was not possible to disaggregate the data, or conduct any in-depth statistical analyses. This would have provided information on which groups were more or less satisfied with the different features of the program. To mitigate the effects of this limitation, the number of key informant interviews with Wage Earner Protection Program applicants was increased from 20 to 40. This was done to increase the amount of information collected about the views and experiences of Wage Earner Protection Program applicants
+The Wage Earner Protection Program collects minimal demographic information as a part of the application process. As a result, it was not possible to target key informant interviews to ensure a diverse sample, to conduct a Gender-Based Analysis +, or to respond to sub-question 1.3.1 “Does the impact of payments depend on the demographic and/or socio-economic profile of program recipients?” The lack of socio-demographic information impedes analysis of the accessibility of the program to underrepresented groups
+To mitigate this limitation, 2 demographic profiles of Wage Earner Protection Program beneficiaries were created:
+the first, used Employment Insurance data, which was included in the report. This data only informs about the percentage of program applicants that have also applied to Employment Insurance
+the second, used data from Statistics Canada (2016 Census and T1 Family File). The results of this analysis were not available during the preparation of this report. A document will be available upon request after the publication of this report
+these mitigation strategies also have their own limitations. The demographic profile produced with Employment Insurance data is missing information. This includes the 19% of Wage Earner Protection Program beneficiaries who did not file a claim for Employment Insurance. As well, it is expected the matching rate for the integration of data with Statistics Canada will be less than 100%. This data will also primarily be drawn from Census 2016 and will present a snapshot of the socio-demographic variables only for that year
+This evaluation briefly examined the debt recovery and beneficiary appeals processes of the Wage Earner Protection Program. The scope of the evaluation was focused on other aspects of the program. This means that data was not collected to provide more comprehensive analyses of these processes which would be relevant for future evaluations
+Annex D: Wage Earner Protection Program Logic Model
+Figure 13. Wage Earner Protection Program Logic Model
+Figure 13: Text version
+1.0 Inputs:
+1.1 25 Full Time Equivalents (FTEs) (2017 to 2018 Report on Plans and Priorities (RPP))
+1.2 Program Budget $51,190,916 (2017 to 2018  Planned Spending)
+1.3 Operating Budget $4,600,000
+2.0 Activities:
+2.1 develop program policy and manage stakeholder relations
+2.2 provide information and services to Wage Earner Protection Program applicants, trustees and receivers
+2.3 Undertake recovery of overpayments and subrogated debt
+3.0 Outputs:
+3.1 evidence based policies and procedures, and meetings with stakeholders
+3.2 notices of Wage Earner Protection Program decision and payments to Wage Earner Protection Program applicants, trustees and receivers
+3.3 notices of Overpayment, monthly statement of accounts, and demand letters
+4.0 Immediate outcomes:
+4.1 policies and procedures that are well informed and responsive to stakeholders’ concerns
+4.2 Wage Earner Protection Program applicants and trustees and receivers receive payments in a timely manner
+4.3 overpayment amounts and subrogated debt claims are recovered
+5.0 Intermediate outcomes:
+5.1 reduction in outstanding amounts owed to workers for unpaid wages, vacation pay, and termination and severance pay that arise due to their employer’s insolvency
+5.2 increased rate of recovery for subrogated debt
+6.0 Ultimate outcomes:
+6.1 Reducing the negative financial impacts of employer insolvency on Canadian workers
+7.0 Alignment with ESDC DRF:
+7.1. ESDC Program Core Responsibility (in the Departmental Results Framework (DRF)) and productive workplaces and cooperative workplace relations
+Annex E: Bibliography
+ESDC (2021). Wage Earner Protection Program - Administrative Data. Internal, unpublished draft document (available on demand)
+ESDC (2021).  Wage Earner Protection Program - Applicant Survey. Internal, unpublished draft document (available on demand)
+ESDC (2021). Wage Earner Protection Program – Applicant Interviews. Internal, unpublished draft document (available on demand)
+ESDC (2021). Wage Earner Protection Program - Delivery Partner Internal interviews. Internal, unpublished draft document (available on demand)
+ESDC (2021). Wage Earner Protection Program - Document Review. Internal, unpublished draft document (available on demand)
+ESDC (2021). Wage Earner Protection Program - Internal stakeholder interviews. Internal, unpublished draft document (available on demand)
+ESDC. (2021). Wage Earner Protection Program - Literature Review. Internal, unpublished draft document (available on demand)
+ESDC. (2020). Wage Earner Protection Program for third party overview.
+Available at:
+https://www.canada.ca/en/employment-social-development/services/wage-earner-protection/third-party.html
+Financial Consumer Agency of Canada (2017). Insurance.
+Available at:
+https://www.canada.ca/en/financial-consumer-agency/services/insurance/life.html
+Financial Consumer of Agency Canada (2021).Understanding your severance pay.
+Available at:
+https://www.canada.ca/en/financial-consumer-agency/services/losing-job/understanding-severance-pay.html
+Innovation, Science and Economic Development Canada (2011). Archived – Questions an Answers on Wage Earner Protection program.
+Available at:
+https://www.ic.gc.ca/eic/site/cilp-pdci.nsf/eng/cl00783.html
+Office of the Superintendent of Bankruptcy Canada (2015). Definitions.
+Available at:
+https://ic.gc.ca/eic/site/bsf-osb.nsf/eng/br01467.html
+Statistics Canada (2006). Primary Industries.
+Available at:
+https://www150.statcan.gc.ca/n1/pub/11-402-x/2006/1664/ceb1664_000-eng.htm
+Footnotes
+Footnote 1
+See
+Glossary for a definition
+Return to footnote
+1
+referrer
+Footnote 2
+Industry Canada, 2011.
+https://www.ic.gc.ca/eic/site/cilp-pdci.nsf/eng/cl00783.html
+Return to footnote
+2
+referrer
+Footnote 3
+Evaluation of the Wage Earner Protection Program, 2014.
+https://publications.gc.ca/site/eng/9.699326/publication.html
+Return to footnote
+3
+referrer
+Footnote 4
+Since April 1, 2016, the service standard target is for 80% of applications to be processed within 35 days of Service Canada receiving all of the required documents. Before April 1, 2016, the target was to have 80% of applications processed within 42 days.
+Return to footnote
+4
+referrer
+Footnote 5
+See
+Glossary for a definition
+Return to footnote
+5
+referrer
+Footnote 6
+Evaluation of the Wage Earner Protection Program, 2014.
+https://publications.gc.ca/site/eng/9.699326/publication.html
+Return to footnote
+6
+referrer
+Footnote 7
+Five-Year Statutory Review of the
+Wage Earner Protection Program Act
+: Helping Canadian Workers during Bankruptcy and Receivership (Spring 2015, p. 11).
+Return to footnote
+7
+referrer
+Footnote 8
+This means that the Government of Canada replaces the Wage Earner Protection Program beneficiary in the bankruptcy or receivership proceedings, up to the amount of the Program’s payment made to the applicant. (
+https://www.canada.ca/en/employment-social-development/services/wage-earner-protection/third-party.html
+)
+Return to footnote
+8
+referrer
+Footnote 9
+Trustees can apply for an extension if they cannot meet this deadline due to reasons beyond their control.
+Return to footnote
+9
+referrer
+Footnote 10
+Throughout this report, eligible former employees who applied to the Wage Earner Protection Program will be referred to as applicants. Those who applied and received payment are referred to as beneficiaries.
+Return to footnote
+10
+referrer
+Footnote 11
+In some cases of restructuring, a judge may appoint a receiver to manage some of the assets and debts of the insolvent company. Once a receiver has been appointed, the effected former employees are eligible for the Wage Earner Protection Program.
+Return to footnote
+11
+referrer
+Footnote 12
+Employees can apply for an extension if they cannot meet this deadline due to reasons beyond their control.
+Return to footnote
+12
+referrer
+Footnote 13
+Defined as short work demonstrations.
+Return to footnote
+13
+referrer
+Footnote 14
+The Sears Canada bankruptcy was completed in 2019 and is responsible for the higher than usual amount of owed eligible wages in that year.
+Return to footnote
+14
+referrer
+Footnote 15
+The average amount owed reflects the owed eligible wages as described on p. 11 of this report.
+Return to footnote
+15
+referrer
+Footnote 16
+Super-priority claims, which are the first $2,000 of debts that consist of unpaid wages and vacation pay, and the first $1,000 of debts that consist of disbursements of a travelling salesperson. These claims are collected before the claims of other creditors.
+Return to footnote
+16
+referrer
+Footnote 17
+In more recent years, the bankruptcy or receivership process may still be ongoing, resulting in a low rate of recovery.
+Return to footnote
+17
+referrer
+Footnote 18
+Regulations to implement the changes to improve the process to pay trustees and receivers for their work on the Program in Budget 2018 came into force on November 20, 2021.
+Return to footnote
+18
+referrer
+Footnote 19
+This survey had a low response rate, and its findings should be interpreted with caution. See Annex B for additional details.
+Return to footnote
+19
+referrer
+Footnote 20
+It should be noted that while the
+Wage Earner Protection Program Act
+requires trustees to carry out certain duties, the Program does not have control over the quality of how these duties are carried out.
+Return to footnote
+20
+referrer
+Footnote 21
+Some beneficiaries reported they did attend a meeting like this.
+Return to footnote
+21
+referrer
+Page details
+Report a problem on this page
+Date modified:
+2022-06-07

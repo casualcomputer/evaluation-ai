@@ -1,0 +1,932 @@
+List of figures
+Figure 1: Evaluation scope
+Figure  2: Temporary Foreign Worker Program timeline
+Figure  3: Composition of the labour force (2018)
+Figure  4: Total number of temporary foreign worker positions approved (2013 to 2020)
+Figure  5: Total number of temporary foreign worker positions approved, by stream (2013  to 2020)
+Figure  6: Proportion of employers who indicated that the hiring of temporary foreign  workers will fill labour shortages, by stream (2011 to 2018)
+Figure  7: Proportion of employers who indicated that the hiring of temporary foreign  workers will fill labour shortages, by year and stream (2011 to 2018)
+Figure  8: Average number of applications submitted by survey respondents (unique  employers), by stream (2015 to 2020)
+Figure  9: Percentage of respondents who were satisfied or very satisfied with the  timeliness of the response to their application (n=505)
+Figure  10: Average number of weeks required before obtaining the Labour Market Impact  Assessment (LMIA) result, according to estimates provided by survey respondents  (n=353)
+Figure  11: Average number of calendar days required to make a decision on a LMIA  application by stream (2012 to 2018)
+Figure  12: Proportion of employers who indicated that Canadians are not interested,  available or qualified, by stream
+Figure  13: Percentage of employers who reported that hiring temporary foreign workers  improved their organization's ability to do the following, to a large or very  large extent (n=288)
+Figure 14: Percentage of respondents who reported that not being able to hire foreign workers had a negative impact on their ability to: stay in business, retain current employees, hire more Canadians, meet the demand for products and services, meet financial targets (in other words revenues and profits), and expand and/or diversify activities
+Figure  15: As a result of not being able to hire foreign workers, did any of the  following occur? (n=75)
+Figure  16: Challenges faced by employers who tried to recruit Canadian workers
+Figure  17: Actions taken by Canadian job seekers whose profile was matched with the job  posted on the Job Bank (on average between 2015 and 2018)
+Figure  18: Employers attempting to hire Canadians or permanent residents first, by  year (2011 to 2018)
+Figure  19: Average top hourly wages by employment of temporary foreign workers
+Figure  20: Proportion of temporary foreign workers, selected industries (North  American Industry Classification System subsectors), 2017
+Figure  21: Actions taken by employers for each Job Bank posting matched with the job  seeker's profile (average between 2015 and 2018)
+Figure  22: Percentage of temporary foreign worker positions that received positive  Labour Market Impact Assessments, by stream (2012 to 2019)
+Figure  23: Provincial median wage among temporary foreign workers versus Canadians,  carpenters (2016 to 2019)
+Figure  24: Average starting hourly wages by employment of temporary foreign workers
+Figure  25: Reasons why wages paid to foreign workers were different than those paid to  Canadian workers in similar or equivalent positions
+Figure  26: Which of the following have you done as part of your transition plan?
+Figure  27: How successful has the transition plan been in progressively reducing the  need for your organization to hire temporary foreign workers?
+Figure D-1: Multiple data files from various  government departments consolidated and available through the Canadian  Employer-Employee Dynamics Database
+List of tables
+Table 1: Average Labour Market Impact Assessment  processing times for February 2021
+Table  2: Top 4 reasons why Canadian workers were not interested in applying for the  positions offered by the employers
+Table  3: Reasons why Canadians were not hired
+Table  4: Proportion of employers who were able to fill positions versus those who  could not
+Table  5: Efforts made to try to recruit Canadians after the negative LMIA decision
+Table  6: Program’s negative impacts related to job displacement
+Table  7: Pay differences between Canadian workers and foreign workers
+Table  8: Employers’ preferences to hire foreign workers
+Table  9: Employers’ efforts to hire from underrepresented groups
+Table C-1: Focus groups coverage – additional  information
+Table  C-2: Percentage of population, sample and surveys completed
+Table E-1: Additional reasons for not hiring:  Indigenous Canadians, persons with disabilities, newcomers and vulnerable youth
+List of acronyms and abbreviations
+ESDC
+Employment  and Social Development Canada
+HUMA
+Standing  Committee on Human Resources, Skills and Social Development and the Status of  Persons with Disabilities
+LMIA
+Labour  Market Impact Assessment
+NOC
+National  Occupational Classification
+SAWP
+Seasonal  Agricultural Worker Program
+Introduction
+The Evaluation of the Temporary Foreign Worker Program was developed based on the knowledge gained from the last evaluation (presented in Annex A) and significant reforms to the program made in 2014.
+The evaluation covers the portion of the program that  is administered by Employment and Social Development Canada (ESDC) for the  period from 2011 to 2018. However, the most recent data is provided where  relevant. It focusses on the following issues:
+labour market shortages and gaps
+employers’ efforts to hire resident  labour before applying to the program, and
+impact of the program on wages and displacement
+Figure 1: Evaluation scope
+Text version of figure 1
+
+Covered by  the evaluation
+          
+High-Wage Stream
+Low-Wage Stream
+Primary Agriculture Stream
+Stream to support permanent residency  (Express entry)
+
+
+Not  covered by the evaluation but may be referred to for context
+          
+Global Talent Stream
+ESDC’s Performance Measurement and  Evaluation Committee approved the Evaluability Assessment in April 2018. This  includes the evaluation questions presented in Annex B
+The evaluation used 5 lines of  evidence:
+          
+a document and literature review
+an administrative data review and  analysis
+focus groups
+key informant interviews, and
+a survey of employers
+
+
+More details about the evaluation  methodology, the lines of evidence and their limitations can be found in Annex C
+Key evaluation results  summary
+Key findings
+The program plays a crucial role in  helping Canadian employers temporarily fill different types of labour needs  that are most commonly recurrent and that employers prove unable to meet using  other means
+The program helps protect jobs for  Canadians and permanent residents, and can contribute to job creation and  economic growth in some sectors
+Overall, there is no evidence  pointing to a risk for job displacement or wage suppression at the national  level in Canada. In 2019, temporary foreign workers represented only 0.49% of  the total labour force in Canada.There is, however, evidence of varying factors affecting employment and  working conditions in localized labour markets. This points to some risk of job  displacement or wage suppression in some specific sectors, occupations and  regions
+Important challenges related to the  Labour Market Impact Assessment (LMIA) process and related requirements may  hinder the effectiveness of the program for some program users
+Administrative and financial barriers  associated with using the program may explain why some employers do not use the  program. It should be noted that other comparable employers in similar  situations use the program
+The program contributes towards  ensuring that qualified Canadians or permanent residents are considered first  for current job opportunities
+The transition plans required from  employers who apply through the High-Wage Stream encourage some of them to  support the foreign workers’ transition to permanent residency
+Findings suggest that transition plans  do not reduce employers’ need for the program
+Recommendations
+Better engage employers and key stakeholders on the objectives of the program
+Explore alternative approaches for  application-based processing for returning or frequent program users who  maintain good track records in the program
+Clarify processes to help program  officers assess labour market impacts and shortages more consistently
+Program background
+The Temporary Foreign Worker Program  is legislated through the Immigration and  Refugee Protection Act and Immigration and Refugee protection Regulations. One of the key objectives of the program is to provide Canadian  employers with access to temporary foreign workers when qualified Canadians or  permanent residents are not available.
+Figure 2: Temporary Foreign Worker Program timeline
+Text version of figure 2
+The recruitment of foreign workers in Canada dates back to the 1960s. The Seasonal Agricultural Worker Program was first established in 1966 with the main focus on the agricultural industry. In 1973 the federal government put in place the Temporary Foreign Worker Program which focused on hiring high-skilled foreign labour. The Live-in Caregiver Program was introduced in 1992 with a key requirement that the caregiver must live with the hiring family. The program’s focus was further widened in 2002, adding the low-skilled workers’ component. Since then, the program has been expanding, reaching its peak in 2013 when 162,400 temporary foreign worker positions were approved under the program. In June 2014, the federal government announced reforms to the program, restructuring it into 2 distinct programs:
+the Temporary Foreign Worker Program,  and
+the International Mobility Program
+The Temporary Foreign Worker Program is jointly  administered by Employment and Social Development Canada, Immigration, Refugees  and Citizenship Canada and the Canada Border Services Agency.
+Budget 2017  proposed an investment to support the continued delivery and improvement of the  Temporary Foreign Worker Program and the International Mobility Program. The  investment builds on Canada’s new Global Skills Strategy, which aims to  facilitate the temporary entry of high-skilled international talent.
+$280 million over 5 years, starting  in 2017 to 2018
+$50 million per year thereafter
+The  Temporary Foreign Worker Program is a small proportion of the overall labour  market.
+Figure 3: Composition of the labour force (2018)
+Text version of figure 3
+Labour Market Impact Assessment (LMIA) application  requirements and assessment
+Canadian employers interested in  hiring foreign nationals through the program must first determine whether a  LMIA is required. The LMIA application must outline recruitment efforts, in  order to demonstrate that they cannot find Canadians or permanent residents to  meet their labour needs
+The program’s minimum requirements  require that employers conduct a minimum of 3 distinct recruitment efforts.  They have to last at least 4 weeks within the 3 month period prior to the  employer applying for a LMIA
+At least 1 recruitment effort should  continue until the date a positive or negative LMIA is issued
+Employers seeking to hire low-wage  foreign nationals are required to recruit from at least 2 of the 4 underrepresented  groups in the labour market:
+    
+persons with disabilities
+Indigenous people
+newcomers, and
+vulnerable youth
+
+
+Employers seeking access to the  High-Wage and Low-Wage Streams of the Temporary Foreign Worker Program are  required to advertise on Job Bank, or on its provincial counterpart. They also  have to use 2 or more additional methods of recruitment
+Employers applying to the Global  Talent Stream or the Primary Agriculture Stream are exempt from those  requirements
+For on-farm Primary Agriculture  positions, employers need to conduct 1 additional method of recruitment. They  are not required to ensure that at least 1 advertisement remains posted until  the date a positive or negative LMIA is issued
+Once those recruitment requirements  are fulfilled, employers are to submit the LMIA application to ESDC. LMIAs are  conducted by Service Canada to ensure that:
+    
+there is a genuine need for the  temporary foreign worker position (for example skills or labour shortages), and
+Canadians are not available to fill  the position
+
+
+Other factors considered during the  LMIA application assessment include:
+    
+the number of Canadians who applied  and were interviewed for the job
+the reasons for not hiring them, and
+whether the temporary foreign workers  may or will have a negative effect on the Canadian labour market
+
+
+If all requirements are met, a  positive LMIA is granted. This gives the employer the authorization to hire  temporary foreign workers in some or all positions for which the application  was submitted
+Employers hiring temporary foreign  workers under the program must pay them the wage determined by the applicable  collective agreement, if any. When those temporary foreign workers are hired in  non-unionized positions, the employer has to pay them a prevailing wage  established by the program
+Employers must ensure that they  include the wage to be paid for the position in the job posting
+They must also review and adjust (if  necessary) the foreign worker’s wage after 12 months of employment. This is to  ensure that the worker continues to receive the prevailing wage rate of the  occupation and work location where the foreign worker is employed
+The prevailing wage corresponds to  the higher of:
+    
+the median wage for the corresponding occupation in the  region where the job is located, as published on the Job Bank website
+the wage as defined by other publicly available labour  market information, or
+the wage the employer is paying Canadian or permanent resident  employees working in the same occupation and work location, and who have the  same skills and experiences
+
+
+In Quebec, where the program is  delivered in partnership with the provincial government, the prevailing wage is  determined by Immigration, Francisation  et Intégration Québec, using a different wage grid
+For each of the occupations listed,  this grid also includes 3 wage quartiles associated with different levels of  experience required for the job:
+    
+from 0 to 2 years (first quartile)
+more than 2 years but less than 9  years (second quartile), and
+more than 9 years of experience  (third quartile)
+
+
+In both Quebec and the rest of  Canada, the positions to be filled under the program are classified under the  National Occupational Classification (NOC) 4 digit code that best corresponds  to the job description
+In Quebec, the wage data used is  aggregated at the provincial level. In other provinces, it is available by  economic region within the province. Finally, in Quebec, wage data may not be  available at the provincial level for the corresponding National Occupational  Classification code. In that case, the prevailing wage that will apply  corresponds to the national median wage published on the Job Bank website for  that National Occupational Classification code
+Key findings
+Supporting employer needs
+1. Between 2013 and 2016, there is a downward trend (46%)  in the number of positions approved under the Temporary Foreign Worker Program.  This is followed by an increase of 35% between 2017 and 2019
+Figure 4: Total number of temporary foreign worker positions  approved (2013 to 2020)
+Text version of figure 4
+
+Source: Open  Government data from 2013 to 2020.
+The decline in the number of  positions approved between 2013 and 2016 is observed since the program gradually  introduced the LMIA processing fees
+Changes in the labour market (for  example strong economic growth in the context of an aging population) required  more foreign workers between 2017 and 2019, hence the upward trend
+Figure 5 below indicates that:
+    
+between 2013 and 2020, the  number of positions approved under the Low-Wage Stream decreased by  approximately 62%
+over the same period the number  of positions approved under the High-Wage Stream decreased by approximately 54%,  and
+the number of positions  approved under the Primary Agriculture Stream over the same period increased by  approximately 60%
+
+
+The reduction of low-wage  positions is considered to result from the establishment of a cap on the number  of low-wage positions that can be filled under the program within single  employer organisations
+Figure 5: Total number of temporary  foreign worker positions approved, by stream (2013 to 2020)
+Text version of figure 5
+
+Source: Open Government data from 2013  to 2020.
+2. A majority (53%) of employers indicated that they need  the program to fill labour shortages
+53% of LMIA applicants  indicated that they required the Temporary Foreign Worker Program to fill  labour shortages
+According to Figure 6, labour shortages  are noted most in the Global Talent and High-Wage Streams
+This remained relatively stable  over time but increased sharply between 2017 and 2018
+Figure 6: Proportion of employers  who indicated that the hiring of temporary foreign workers will fill labour  shortages, by stream (2011 to 2018)
+Text version of figure 6
+
+Source: ESDC’s LMIA system data  analysis (2011 to 2018).
+Figure 7: Proportion of employers  who indicated that the hiring of temporary foreign workers will fill labour  shortages, by year and stream (2011 to 2018)
+Text version of figure 7
+
+Source: ESDC’s LMIA system data  analysis (2011 to 2018).
+The program is often considered  by employers and other stakeholders as the only solution for finding and/or  retaining workers in occupations or industry sectors where there are:
+    
+skills shortages
+labour gaps, and/or
+retention issues, either  nationally or regionally
+3. Survey respondents from all streams applied to the program on average 3 times between 2015 and 2020
+Applications to the Temporary  Foreign Worker Program continue at a steady pace, indicating an ongoing need  for workers
+The 505 survey respondents  (employers) submitted a total of 1,734 LMIA applications between 2015 and 2020.  Each applicant made on average 3.43 applications during that period
+Employers who applied under the  Primary Agriculture Stream are those who reported using the program most  frequently. They submitted an average of 5.26 applications over the reference  period
+A lower number of applications  (average 2.21) were made under the Low-Wage Stream
+Figure 8: Average number of  applications submitted by survey respondents (unique employers), by stream  (2015 to 2020)
+Text version of figure 8
+
+Source: ESDC’s employer survey  2020 (for the period 2015 to 2020).
+4. The level of satisfaction with the timeliness of the  response to applications varies by stream with 50% to 60% not being satisfied
+Based on survey responses, the  period of time required before obtaining the result of the LMIA was 10.5 weeks on average for all program  streams
+This processing time was  particularly high at about 16 weeks for the High-Wage Stream
+Respondents indicate needing to  begin recruitment efforts up to 1 year in advance to account for LMIA and work permit  processing times
+Figure 9: Percentage of respondents  who were satisfied or very satisfied with the timeliness of the response to  their application (n=505)
+Text version of figure 9
+
+Source: ESDC’s employer survey  2020 (for the period 2015 to 2020).
+Figure 10: Average number of weeks  required before obtaining the Labour Market Impact Assessment (LMIA) result,  according to estimates provided by survey respondents (n=353)
+Text version of figure 10
+
+Source: ESDC’s employer survey  2020 (for the period 2015 to 2020).
+5. The average number of calendar days required to process  LMIA applications reached 61 days in 2018. It was even higher at 82 days for  those submitted in the High-Wage Stream
+The average LMIA processing  times tend to fluctuate significantly over time and by program stream
+Service standards are generally  met for applications submitted under the Global Talent Stream. However, they  are not always met for applications submitted under the Stream to support permanent  residency which have a 10 business days processing standard
+Figure 11: Average number of calendar  days required to make a decision on a LMIA application by stream (2012 to 2018)
+Text version of figure 11
+
+Source: ESDC’s LMIA system data  analysis for the current evaluation covering the period from 2012 to 2018.
+The 2016 Standing Committee on  Human Resources, Skills and Social Development and the Status of Persons with  Disabilities (HUMA) Review also pointed out that the length of time to process  the Labour Market Impact Assessment applications across the streams was a  challenge. The 10 business day processing service standard for high-demand occupations  introduced in 2014 was not always met.
+6. According to Service Canada key informants, a  combination of factors explain why processing times have been increasing and  can continue to fluctuate over time
+Significant and unexpected  increases in the demand for Labour Market Impact Assessments
+The complexity and frequent  changes of program rules and requirements makes the training of new program  staff relatively lengthy and challenging
+The implementation of a  National Quality Control Program required that more information is provided to  substantiate the decisions made. This increased the average time required to  process each application
+The implementation of a new IT  system in 2018 for the processing of applications encountered major hurdles. This  led to the accumulation of a significant backlog of applications to be  processed
+In 2021, the House of Commons  Standing Committee on Citizenship and Immigration also pointed out that:
+the work permit processing  times are lengthy
+the administrative burden on  small businesses needs to be reduced, and
+successful applicants should be  fast-tracked for permanent residency, if applicable
+The committee also noted a need to  improve:
+consistency within Service  Canada
+coordination between ESDC and  Immigration, Refugees and Citizenship Canada, and
+communications in the context  of the COVID-19 pandemic
+Some suggestions made by external  stakeholders to reduce the administrative burden associated with the LMIA  process include:
+the creation of a simplified  renewal process for employers who show a good track record in the program,  and
+the implementation of an  accreditation system or « trusted employer model » for  employers who need to use the program on a more frequent basis, due to  recurring or chronic labour shortages
+Sources: ESDC’s key informant interviews (2020).  Parliament of Canada, Standing Committee on Citizenship and Immigration (2021).
+7. Employers note a reluctance among Canadian workers to  apply for jobs in certain streams
+63% of employers who received a  negative LMIA decision still had difficulties finding Canadians for the  position offered
+A higher proportion of  employers in the High-Wage Stream mentioned that Canadians are not interested,  available or qualified
+A higher proportion of  employers in the Primary Agriculture Stream mentioned that the hard work and  physical condition of their job is a challenge in recruiting Canadians
+Source:  ESDC’s employer survey 2020 (for the period 2015 to 2020).
+Source:  ESDC’s employer survey 2020 (for the period 2015 to 2020).
+Figure 12: Proportion of employers  who indicated that Canadians are not interested, available or qualified, by  stream
+Text version of figure 12
+
+Source: ESDC’s employer survey 2020  (for the period 2015 to 2020).
+Sector sustainability
+8. The vast majority (92%) of employers who hired  temporary foreign workers reported that it helped them meet demand for their  products or services
+The majority or vast majority  of survey respondents who hired temporary foreign workers also reported that it  helped improve their organization's ability to:
+    
+stay in business (89%)
+meet financial targets (80%)
+expand or diversify activities  (74%), and
+retain current employees (70%)
+
+
+Without the program, some firms  would need to reduce their output or the quality of the goods and services  produced, while others may cease to exist
+Gross (2014) argues that “in  the absence of a well-framed Temporary Foreign Worker Program, wages will rise  or the production will be stopped (or decreased) due to a lack of domestic  workers. Thus, an effective Temporary Foreign Worker Program can make a  positive contribution to smoothing (and/or increasing) economic development. By  filling in positions left vacant by domestic workers, temporary foreign workers  act as temporary complements to domestic workers”
+Input obtained through key  informant interviews and focus groups also indicates that the program can  provide these benefits:
+    
+productivity gains
+reduced turnover and business  stabilization, since temporary foreign workers are tied to them through  employer-specific work permits, and
+allow a potential transfer of  new skills and knowledge from the temporary foreign workers to Canadian or  permanent resident staff
+Figure 13: Percentage of employers  who reported that hiring temporary foreign workers improved their  organization's ability to do the following, to a large or very large extent  (n=288)
+Text version of figure 13
+
+Source: ESDC’s employer survey 2020 (for the period 2015 to 2020).
+9. There were negative implications for 76% of employers  who obtained a negative Labour Market Impact Assessment
+According to employers, the program  contributes to sector sustainability. The findings in Figure 14 suggests the  following:
+    
+45% indicated that they could  not stay in business
+74% reported that they could  not meet their financial targets, and
+75% indicated that they could  not expand or diversify their business
+
+
+According to the Canadian  Agricultural Human Resource Council, the inability to hire temporary foreign  workers to respond to unfilled job vacancies on farms can result in production  losses and delays. This leads to lost revenue (2020)
+Mukhopadhyay and Thomassin  (2021) also note that temporary foreign workers can “lower the operating costs  for firms through increased output and encouraging either expansion or at least  maintenance of current output”
+These findings confirm that  foreign workers contribute to sector sustainability in Canada
+Figure 14: Percentage of respondents  who reported that not being able to hire foreign workers had a negative impact  on their ability to:
+Text version of figure 14
+
+Source: ESDC’s employer survey 2020 (for the period  2015 to 2020).
+10. More than half (55%) of  the employers who were not authorized to hire some or any temporary foreign  workers had to ask their current employees to work overtime to compensate
+According to employers, the  inability to hire temporary foreign workers can negatively impact Canadian  workers:
+    
+44% kept employees that should  have been let go
+33% reduced opening hours or  closed down locations, and
+9% Canadians were laid off due  to not being able to stay open
+
+
+These findings also suggest  that foreign workers contribute to sector productivity and sustainability in  Canada
+Figure 15: As a result of not being  able to hire foreign workers, did any of the following occur? (n=75)
+Text version of figure 15
+
+Source: ESDC’s employer survey 2020 (for the period 2015 to  2020).
+Job displacement and wage suppression
+Background
+An inherent concern associated with  immigration policy at-large and the Temporary Foreign Worker Program  specifically, is their impacts on the domestic labour markets (at the national  and/or local level). The premise for these concerns is typically rooted in the  view that immigrants are competing with domestic workers over a fixed number of  jobs. Based on this premise, immigrants would potentially:
+put downward pressures on  national/local wages (wage suppression), and
+lead to lower employment rates  as domestic workers drop out of the labour force (job displacement)
+These concerns generally align with basic  inferences from the standard theoretical model of supply-and-demand. In this  model, an increase in the labour supply leads to lower wages for all workers  (Constant, 2014).
+However, this type of inference is often  viewed as overly simplistic, since it omits a number of key considerations  (Mukhopadhyay and Thomassin, 2021, Banerjee and Duflo, 2019, Somerville and  Sumption, 2009). For instance:
+immigrants and domestic workers  may complement rather than compete with each other
+immigrants may contribute to  labour market efficiency, which in turn also affects the demand for domestic  workers
+immigrants consume goods and  services, which in turn affects the demand for domestic workers
+Taken together, these considerations  suggest that immigrants lead to an increase in both the labour supply and  labour demand. As per the standard theoretical model of supply-and-demand,  both increases are associated with offsetting effects on wages and employment.  Which effect dominates becomes an empirical question.
+Most of the empirical research in this area  focuses on the impact of immigration (or permanent migrants) on the wages and  employment of domestic workers. On the impact of temporary migrants on the  labour market of the host country, the literature is limited (Mukhopadhyay  & Thomassin, 2021). In the particular case of the Temporary Foreign Worker  Program, not enough empirical research has been conducted to inform a definite  answer on these questions (Mukhopadhyay & Thomassin, 2021).
+Definitions
+Job  displacement: Displaced workers are workers  who permanently lost a stable job in the last few years and who are currently  unemployed, out of the labour force or re-employed (Organisation for Economic  Co-operation and Development).
+Wage  suppression: Wage suppression occurs when downward  pressure is put on domestic wages – thereby keeping them low. This is  sometimes attributed to firms offering lower wages than they would otherwise in  order to maximize their use of the Temporary Foreign Worker Program.
+From an empirical perspective, assessing  the impact of temporary foreign workers on domestic labour markets is very  complex. It involves many observable and unobservable contributing factors. The  impact of temporary foreign workers on the national and local labour markets  depends, in part, on:
+the degree of substitutability  between the domestic and the foreign workers
+the degree of labour market  tightness and how it is affected by seasonality    
+labour market institutions,  such as income support programs and wage-setting mechanisms affecting the  mobility and work decisions of domestic workers, and
+firms’ decisions regarding the  allocation of resources between labour and capital, which in turn affects the  demand for domestic workers
+Other factors, often unobservable such as  language barriers, local/organizational norms and culture, and motivation may  also affect these decisions. Exacerbating the challenge with the conduct of  such an empirical analysis is the small number of temporary foreign workers  relative to the size of the Canadian labour force. Even at the regional and  industry level, where the incidence of temporary foreign workers among labour  force participants is relatively higher, disaggregate labour market information  would be subject to variability due to small sample sizes. Furthermore,  approaches to isolate the impact of temporary foreign workers inherently  involve the estimation of how national and local labour markets would have  adjusted in the absence of temporary foreign workers. This is not observed and  therefore remains subject to debate.
+For these reasons, no  advanced empirical analysis was conducted as part of this evaluation. Instead,  the Evaluation Directorate commissioned two research projects to assess  potential impacts of the Temporary Foreign Worker Program’s Low-Wage Stream on  the Canadian labour market. The research has a focus on the potential  suppression of Canadian wages and displacement of Canadian workers. This  research takes advantage of the newly available linkages between Temporary  Foreign Worker Program data and the Canadian Employer-Employee Dynamics  Database. The creation of this new consolidated dataset is the result of  efforts from ESDC's Evaluation Directorate in collaboration with the Chief Data Officer,  Immigration, Refugees and Citizenship Canada, and Statistics Canada. It is meant  to enable this type of research work, policy analysis and future evaluations (for more details, see Annex D). Due to COVID-19, these research projects were  delayed and are expected to be completed in 2022. They will shed more light on  the complex questions of job displacement and wage suppression. Once completed,  the research reports will be available upon request.
+As a complementary  effort, this evaluation aims at contextualizing the potential risk of wage  suppression and job displacement. This was done by gathering information mainly  through qualitative lines of evidence (for example a survey, key informant  interviews and focus groups) and descriptive quantitative data analysis. Information  gathered as part of this evaluation may help inform specific policy design  features of the program. However, it is not sufficient to draw specific and  definitive conclusions on these 2 labour market issues.
+Summary of evaluation findings on job displacement and wage  suppression
+Key findings indicating no risk for job displacement and wage suppression  at the national level:
+    
+in 2019, there were about  98,000 foreign workers who were hired through the Temporary Foreign Worker  Program in Canada. They accounted for just 0.51% of total employment and 0.49%  of the total labour force in Canada
+approximately 38% of employers  perceived that Canadian workers are either not interested, available or  qualified for the job opportunity
+only 12.6% of Canadian job  seekers viewed potential job matches on the Job Bank between 2015 and 2018, suggesting low interest in foreign-worker-dominated jobs
+approximately 63% of employers  who received a negative LMIA decision continued to have difficulties in finding  Canadians to fill positions
+Gross (2014) argued that the  Temporary Foreign Worker Program has allowed jobs to be filled relatively  quickly, which prevents interruptions in production
+an expert panel discussion  related to the Temporary Foreign Worker Program and the labour market noted  that since the temporary foreign workers constitute a small fraction of the  Canadian population, any negative impact they may have will be small (ESDC  Workshop Report, 2018)
+
+
+Some of the evidence pointing to some risk of job displacement and wage  suppression is noted as follows:
+    
+approximately one third of key informants and between 66% and 75%  of survey participants indicated that there may be preferences to hire foreign  workers
+Beine and Coulombe (2017) noted  that “employers, having hired temporary foreign workers from a specific origin  country, get some useful information about those workers’ productivity and  commitment to the job. If satisfied, Canadian employers subsequently tend to  hire the same temporary foreign workers of the same origin”
+some key informants pointed out  that the program demonstrates some risk for wage suppression in specific  sectors, occupations and regions
+some key informants and focus  group participants indicated that worker displacement may be occurring in  some sectors (trucking, construction, food industry, beauty parlors)
+the report highlights some  examples of sectors and occupations (that is carpenters, fish and seafood, agriculture)  that may be at some risk for wage suppression
+Job displacement – No risk
+11. Approximately 38% of employers perceived that Canadian  workers are either not interested, available or qualified for the job  opportunity
+Figure 16: Challenges faced by  employers who tried to recruit Canadian workers
+Text version of figure 16
+
+Source:  ESDC’s employer survey 2020 (for the period 2015 to 2020).
+Survey respondents reported that the Canadians who applied were not hired because of the following factors:
+Source:  ESDC’s employer survey 2020 (for the period 2015 to 2020).
+12. Only 12.6% of Canadian job seekers viewed potential  job matches on the Job Bank between 2015 and 2018. This suggests low interest in  jobs occupied by foreign workers
+Employers seeking access to the High-Wage and Low-Wage Streams must post  their jobs on the Job Bank website or on its provincial counterpart
+The Job Bank and Foreign Workers System databanks were linked
+An analysis of positions advertised in the Job Bank by employers who used  the Temporary Foreign Worker Program between 2015 and 2019 was conducted (see Annex C  for more details)
+From 2015 to 2018, on average, only about 31% of all LMIA applications  were associated with a job posting on the Job Bank. This proportion increased  from 7% in 2015 to 49% in 2018. However, it remained relatively low for the  Primary Agriculture Stream, at only 23% in 2018
+Key informants and focus group participants noted that employers do not  always consider Job Bank to be the best tool to connect with local workers
+Data analysis revealed that only 4.1% of Canadian job seekers requested  information on how to apply for the job matches
+0.2% of Canadian job seekers indicated that they applied for a job  matching their interests and skills
+Figure 17: Actions taken by Canadian  job seekers whose profile was matched with the job posted on the Job Bank (on average  between 2015 and 2018)
+Text version of figure 17
+
+Source:  ESDC’s linked data for the current evaluation covering the period 2015 to 2018.
+13. Approximately 73% of employers who received a negative  LMIA decision experienced continued difficulties in finding Canadians to fill  positions
+Source:  ESDC’s employer survey 2020 (for the period 2015 to 2020).
+Source:  ESDC’s employer survey 2020 (for the period 2015 to 2020).
+Key informants pointed out several reasons as to why some businesses  hire temporary foreign workers and some don't:
+
+type of goods or services  provided in niche industries that require workers with specialized training and  experience which Canadians may not have
+smaller and less established  businesses may not be able to offer higher wages or better working conditions  to attract more Canadians, and
+the economic sector and the  severity of labour shortages in the community where the business is located
+
+
+These findings are consistent  with the fact that foreign workers can either complement or substitute the  Canadian labour force. This would depend on the type of skills and experiences  they bring into the country, as well as on other factors such as the  availability and motivation of Canadian workers
+14. Only 12% of surveyed employers believe that the  program has a negative impact on Canadian workers related to job displacement
+Surveyed  employers believe that the hiring of temporary foreign workers:
+Source:  ESDC’s employer survey 2020 (for the period 2015 to 2020).
+The key informants agreed that  the design of the program and measures put in place prevent the displacement of Canadian workers and ensure that they are considered first for job opportunities:
+    
+mandatory posting of the job on  Job Bank and 2 other forums where Canadians or permanent residents can apply
+verification of the records of employment  recently issued by the employer
+expensive Labour Market Impact  Assessment application fee, and
+extensive administrative and  logistic requirements
+Source: ESDC’s key informant interviews  2020.
+The analysis of administrative data  revealed that the vast majority of employers attempted to hire Canadians  first over the years.
+Figure 18: Employers attempting to  hire Canadians or permanent residents first, by year (2011 to 2018)
+Text version of figure 18
+
+Source:  ESDC’s LMIA system data analysis for the current evaluation covering the period  from 2011 to 2018.
+Wage suppression – No risk
+15. A very small proportion (0.49%) of the labour force in  Canada is comprised of temporary foreign workers
+In 2019, there were about  98,000 temporary foreign workers in Canada, accounting for just 0.51% of total  employment and 0.49% of the total labour force in Canada. This points to no  risk for wage suppression at the national level
+An expert panel discussion  related to the Temporary Foreign Worker Program and the labour market noted  that since the temporary foreign workers constitute a small fraction of the  Canadian population, any negative impact they may have will be small
+Source: ESDC’s customized tables using  Labour Force Survey and LMIA data.
+Focus group participants and  key informants noted how the risk of wage suppression is mitigated:
+    
+the mandatory use of prevailing  wages when temporary foreign workers are hired
+the presence of unions in  organizations where temporary foreign workers are hired
+
+
+According to Mukhopadhyay and  Thomassin (2021), “the provision to pay the same regulated wages to temporary  foreign workers as domestic workers implies that the employers do not seek  temporary foreign workers as a means for getting away with lower wages. Rather,  temporary foreign workers are the last resort for employers where domestic  workers are either not willing to take up a particular job or are simply not  available. Thus, this is a case of temporary foreign workers supplementing the  domestic labour with essentially no impact on domestic wages or further  employment for Canadians who may wish to work in the sector in the future”
+Most workers indicated that  their presence had no significant effect on wages as they are performing work  that Canadians are not interested in and that their wages are regulated
+Sources: ESDC’s key informant interviews  2020, ESDC’s focus groups 2020 and Mukhopadhyay and Thomassin (2021).
+Source:  ESDC’s employer survey 2020 (for the period 2015 to 2020).
+Sector/industry example
+16. Evidence from the analysis of top wage earners in  Atlantic fish and seafood plant and processing workers points to no risk for  wage suppression
+The average top hourly wage was generally the same or higher for companies with temporary foreign workers  than for those without, according to a 2017 survey of fish and seafood businesses
+Data prepared by Prism  Economics and Analysis for the Food Processing Skills Council
+Figure 19: Average top hourly wages  by employment of temporary foreign workers
+Text version of figure 19
+
+Source:  Prism Economics and Analysis for the Food Processing Skills Council (FPSC). Atlantic Fish + Seafood Processing Workforce  Survey Report, June 2018.
+Job displacement – Some risk
+17. Approximately one third of key informants and between  66% and 75% of survey participants indicated that there may be preferences to  hire foreign workers. In the long term, this is attributed to some risk for job  displacement
+According to some key  informants and focus group participants, the employers have developed a  preference for temporary foreign workers in general. This could be to save on  labour costs, make productivity gains and/or reduce employee turnover
+A majority (66% to 75%) of survey  respondents who have hired temporary foreign workers (n=339) indicated that in  comparison to Canadian workers, temporary foreign workers are:
+Source:  ESDC’s employer survey 2020 (for the period 2015 to 2020).
+In a study by Brochu et al  (2016), the authors argue that Canadian employers have a preference to hire  temporary foreign workers over Canadians. This occurs even if they are obliged  to pay the domestic wage rate after a failed search for a worker who is a  citizen or permanent resident
+Other reasons noted by the key  informants that could contribute to job displacement:
+    
+for various reasons that are  not necessarily related to the lack of Canadians who have the same profile,  employers hire a specific foreign national they already know, and
+the employer is not acting in  good faith and uses the program as an immigration strategy to help someone  immigrate to Canada more rapidly
+
+
+These are considered some risk  for job displacement. Most of the jobs occupied by the temporary foreign  workers are unwanted by Canadians and foreign workers represent about 0.6% of  the overall labour force (2018)
+Sources: ESDC’s key informant interviews 2020  and focus groups 2020.
+18. Some key informants and focus group participants  indicated that worker displacement may be occurring in some sectors
+The  participants mentioned the following sectors as examples:
+    
+trucking industry
+construction industry
+beauty parlors
+food industries 
+
+
+Displacement  of Canadians is also considered in industries where part-time workers are being  replaced with full-time workers
+However,  participants pointed out an absence of tools to properly assess where the  labour shortages are. They also reported difficulty in determining if in fact  worker displacement is taking place in these sectors
+Temporary foreign workers are  concentrated in specific employment sectors
+Figure 20: Proportion of temporary  foreign workers, selected industries (North American Industry Classification  System subsectors), 2017
+Text version of figure 20
+
+Source:  Statistics Canada, Canadian Employer-Employee Dynamics Database. For more  details, see Lu (2020).
+It was noted that the system of  capswas intended to prevent worker displacement by ensuring that low-wage positions  are composed of a limited number of foreign workers
+This system of “caps” is based  on attestations. These are not systematically validated or verified
+Employers can also find ways  around these caps by moving workers around multiple sites
+Sources: ESDC’s focus groups 2020 and  ESDC’s Key informant interviews 2020.
+19. Only 34% of employers viewed potential job matches of  Canadian applications between 2015 and 2018. This may indicate a reduced effort  to hire Canadians and may signal very low program compliance
+Job opportunities posted on the  Job Bank by the employers are matched with the profiles of Canadian job seekers
+Only 34% of job matches were viewed  by employers. This suggests that employers may not be making enough effort to  view applications of potential qualified candidates
+On average, only 27% of  employers invited the matched Canadian job seeker to apply for the job
+Figure 21: Actions taken by employers  for each Job Bank posting matched with the job seeker's profile (average between  2015 and 2018)
+Text version of figure 21
+
+ Source: ESDC’s linked data for the current evaluation covering  the period from 2015 to 2018.
+The increased number of  temporary foreign workers and the co-existence of significant unemployment  suggests that the hiring of temporary foreign workers was not done only as a last  measure by employers (Worswick, C. et al., 2017)
+Some employers have integrated  the hiring of temporary foreign workers into their business model and may have  developed a longer-term dependency on the program
+The program is not necessarily  viewed by employers as a last resort solution (in other words to be used when  all other options have been exhausted). They view foreign workers as a source  of added value
+20. More than half (53%) of all survey respondents said  that they did not make efforts to hire Canadians with disabilities and 46% did not try  recruiting Canadian vulnerable youth
+The program requires employers to make an  effort to hire Canadians from underrepresented groups:
+Source: ESDC’s employer survey 2020 (for the period  2015 to 2020).
+The design of the program does  not guarantee the hiring of Canadian workers from underrepresented groups for  the following reasons:
+    
+employers are not necessarily  aware of, or able to access, the more specialized resources needed to recruit  job seekers from underrepresented groups (for example community-based  organizations)
+there is a resistance to change  among many employers when it comes to using innovative approaches to  recruiting job seekers from underrepresented groups (for example providing  workplace accommodation to persons with disabilities)
+Wage suppression – Some risk
+Sector/industry example: 1
+21. In 2018, approximately 66% of temporary foreign worker  agricultural positions were paid lower than the occupations’ provincial median  wages
+The analysis of a sample of  industries and regions is presented in the 2013 Temporary Foreign Worker  Program Evaluation. This study revealed that in the agricultural industry in  Ontario and Quebec, the average wage paid to temporary foreign workers appears  to be below the range paid for similar positions
+According to Figure 22, agricultural positions, which include those filled through the Seasonal Agricultural Worker Program, made up 64% of all positions in 2018
+The temporary foreign workers  hired through the Primary Agriculture Stream are paid wages in accordance with  commodity valuation calculations as per long-standing international agreements
+Figure 22: Percentage of temporary  foreign worker positions that received positive Labour Market Impact  Assessments, by stream (2012 to 2019)
+Text version of figure 22
+
+Source: Open Government data – Temporary Foreign Worker  Program.
+Sector/industry example: 2
+22. Since 2016, the majority of temporary foreign worker  carpenter positions in British Columbia and Ontario were paid well above their  respective regional and provincial median wage levels. These temporary foreign  workers’ wages grew by roughly 1% since 2016
+From 2016 to 2018, a decline in  real wages was also reported for carpenters, nationally (-3.8%) and in British  Columbia (-2.5%) and Ontario (-9.4%)
+However, the overall share of  temporary foreign workers has remained low since 2016 in both British Columbia  (1.5% to 3%) and Ontario (roughly 0.5%). This suggests very low impacts on  wages for the occupation in both provinces and Canada
+Figure 23: Provincial median wage  among temporary foreign workers versus Canadians, carpenters (2016 to 2019)
+Text version of figure 23
+
+Source: Program’s study: Temporary Foreign Worker Program  Wage Review, Winter 2019 (Data used: LMIA system, Job Bank website, Labour  Force Survey).
+Sector/industry example: 3
+23. Evidence from the analysis of starting hourly wages of  Atlantic fish and seafood plants and processing workers points to some risk for  wage suppression
+The average hourly starting wage was generally lower for companies with temporary foreign workers than for those  without, according to a 2017 survey of fish and seafood businesses
+Data prepared by Prism  Economics and Analysis for the Food Processing Skills Council
+Figure 24: Average starting hourly  wages by employment of temporary foreign workers
+Text version of figure 24
+
+Source: Prism Economics and Analysis for the Food Processing  Skills Council (FPSC). Atlantic Fish +  Seafood Processing Workforce Survey Report, June 2018.
+24. Some focus group participants and key informants  including foreign workers identified cases or situations pointing to some risk  for wage suppression
+The following situations were  observed at least once and relate to wage suppression and the working  experiences of some foreign workers:
+    
+employers not actually paying  the wages they committed to during the LMIA process, and/or making unauthorized  deductions from the workers’ pay
+employers hiring foreign  workers whose work permits have expired without going through the mandatory  LMIA process, while paying them cash at a significantly lower rate than the  prevailing wage established by the program
+employers coercing temporary  foreign workers to do extra work without providing them with proper  compensation (for example unpaid overtime, additional tasks like cleaning and  truck driving in very harsh weather and/or for extended hours)
+employers requiring the temporary  foreign workers to give them back a portion of their wages in cash (for example  $5/hour out of 25$/h), to cover the costs related to their hiring (for example  the LMIA and work permit fees) and/or in exchange of support to obtain  permanent residence
+
+
+It should be noted that the  above listed practices are generally prohibited by the program and employment  laws
+Sources: ESDC’s key informant interviews  2020 and ESDC’s focus groups 2020.
+25. Some key informants pointed out that the program  demonstrates some risk for wage suppression in specific sectors, occupations  and regions
+An expert panel discussion  related to the Temporary Foreign Worker Program and the labour market noted  that the temporary foreign workers concentrate in specific regions and occupations. The impact of the program may be significant in those sub-labour markets
+Wage suppression might be  occurring in specific sectors and situations as follows:
+    
+in agriculture and any other  low-wage or lower-skilled occupations where foreign workers are willing to work  for lower wages than what a Canadian or permanent resident would consider  acceptable
+sectors where compensation is  calculated based on the type and/or amount of work done (for example in terms  of weight or distance) such as the trucking industry
+when the positions filled by  temporary foreign workers are exempted from the cap on low-wage positions (for  example any work conducted on a farm or that is seasonal, such as landscaping,  etc.)
+in positions that can be  classified under different National Occupational Classification codes that  encompass a broad range of job types and/or sub-specialties (for example in  engineering, IT experts)
+in positions that are not  unionized; and/or
+in regions or sectors where  low-wage temporary foreign workers account for a relatively large proportion of  all workers who occupy specific types of jobs
+Source: ESDC’s key informant interviews  2020.
+Wage suppression – Considerations
+26. Surveyed employers indicated reasons for differences  in wages paid to foreign workers and to Canadians
+The most common reason for  paying temporary foreign workers more than Canadian workers was that temporary  foreign workers had to be paid the prevailing wage established by the program  (41%)
+The most common reason for  paying temporary foreign workers less than Canadian workers was that employers  had to offer or pay Canadian workers more to attract them or to keep them (27%)
+Figure 25: Reasons why wages paid to  foreign workers were different than those paid to Canadian workers in similar  or equivalent positions
+Text version of figure 25
+
+Source: ESDC’s employer  survey 2020 (for the period 2015 to 2020).
+27. Stakeholders outlined some factors that may  unintentionally affect wages in Canada
+The use of wage data that is  not precise enough geographically or that is outdated by up to 2 years
+Challenges with determining the  actual “market wage” for a job, due to the difficulty or inability of finding a  comparison basis and/or accurate wage data (in part due to limitations in the  National Occupational Classification)
+The determination of the  prevailing wage (during the LMIA) a lot of time in advance of the temporary  foreign worker’s arrival here (for example up to a year prior)
+The use of provincial or  national averages (in Quebec), which can be detrimental to temporary foreign  workers hired in regions where the cost of living is higher (for example  Montréal), and vice-versa
+Source:  ESDC’s key informant interviews 2020.
+Transition plans
+Employers who wish to hire  foreign workers under the High-Wage Stream are also required to submit a transition  plan, in which they outline the activities they are agreeing to undertake to  recruit, retain and train Canadians and permanent residents and to reduce their  reliance on the Temporary Foreign Worker Program. Specifically, a transition plan  must include:
+    
+3 distinct activities to  recruit, retain, or train Canadians and/or permanent residents
+1 additional activity  specifically targeting underrepresented groups such as new immigrants,  Indigenous people, people with disabilities, etc., or
+1 activity to facilitate the  temporary foreign worker(s)’ permanent residence
+
+
+A transition plan must be  provided for each high-wage position for which an employer is seeking a LMIA.  Employers must report on the success of the transition plan should they ever  reapply to hire a temporary foreign worker or be selected for an inspection
+28. The vast majority of employers (86%) who submitted a  Transition Plan have supported their foreign workers to become permanent  residents
+Supporting the worker’s  application for permanent residence as part of a transition plan is considered  to potentially reduce the need for the program by increasing the pool of  available permanent resident workers
+This type of transition plan  has the same outcome as submitting the application under the Stream to support permanent  residency
+In both cases, the success of  the transition to permanent residency and the extent to which it helped address  the employer’s medium- to long-term needs  cannot be fully assessed by Employment  and Social Development Canada
+    
+Specifically, when a positive  LMIA is issued, no follow-up is systematically made by Immigration, Refugees  and Citizenship Canada to inform Employment and Social Development Canada as to  whether temporary work permits were issued for the position(s) approved under  the LMIA and, if applicable, whether the temporary foreign worker(s) hired then  successfully transitioned to permanent residency
+Figure 26: Which of the following  have you done as part of your transition plan?
+Text version of figure 26
+
+Source: ESDC’s: employer survey 2020 (for the period 2015 to  2020).
+29. The Transition Plans do not generally reduce or  eliminate the need for foreign workers
+Approximately 14% of survey  respondents reported that the implementation of transition plans did help them  eliminate their need for the program
+However, the majority of survey  respondents who implemented their transition plans (75%) reported that they  still need to hire temporary foreign workers
+25% of all respondents who did  implement their transition plan reported that they hire more Canadians but  also continue to need to hire temporary foreign workers
+Input from key informants and  focus group participants indicate that employers who support the temporary  foreign workers’ applications for permanent residence may continue to need the  program, because:
+    
+their overall need for workers  may continue to grow between each application, and
+there is no guarantee that  foreign workers will stay in the company indefinitely after obtaining their  permanent residency
+Figure 27: How successful has the transition  plan been in progressively reducing the need for your organization to hire  temporary foreign workers?
+Text version of figure 27
+
+Source: ESDC’s employer survey 2020 (for the period 2015 to  2020).
+30. Program stakeholders indicated that the transition plans  are not effective and add unnecessary administrative burden
+Transition Plans are also  generally considered to be administratively burdensome and to yield few  concrete results, except in larger organizations where the activities outlined  in those plans would already be occurring
+The development of those types  of plans is particularly challenging for smaller businesses
+Program officials indicated  that it is difficult to measure whether the commitments made as part of transition  plans are honored
+Employers who submit transition  plans would resubmit transition plans to the program repeatedly and still  obtain the authorization to hire temporary foreign workers
+A few key informants noted that  transition plans often comprise similar content that is partially copied and  pasted from one application to another. They noted that most program users  submit those plans to satisfy administrative requirements, without really  expecting to eventually be able to reduce their reliance on the program
+Source: ESDC’s key informant interviews  2020.
+Management response and action plan
+Overall management response
+Management accepts the  recommendations outlined in the Evaluation of the Temporary Foreign Worker  Program and will be engaging in further analysis on how its findings can inform  ongoing adjustments to program design and delivery. Insights gained through the  evaluation’s lines of evidence, including the perspectives of employers and  other key stakeholders, have confirmed the importance of program changes made  in recent years and provide additional insights for considerations going  forward. Significant efforts were already in progress during the time of the  evaluation to address highlighted areas of focus, including communication and  service improvements for employers and enhanced processes for assessing labour  market conditions and other program requirements. The program will strive for  continuous improvement across all ESDC branches engaged in its design and  delivery moving forward.
+Recommendation 1
+Better engage employers and key stakeholders on the objectives of the program.
+Management response
+Management agrees with the  recommendation. The Temporary Foreign Worker Program works on an ongoing basis  to strengthen communication of its objectives and requirements for program  users, in addition to seeking out the perspectives of its diverse stakeholders  to inform adjustments to policies and service delivery. In recent years, this  has included updates to public information on evolving program rules and  conditions, in addition to comprehensive stakeholder consultations undertaken  during targeted sector reviews and the design of the Migrant Worker Support  Network. More recently, the program’s response to COVID-19 has included the  rapid provision of information on public health conditions and program  requirements for employers and workers.
+The program accepts the evaluation  findings that point to areas for continued improvement in the communication to key stakeholders of  its overarching objectives and its specific function within the broader range  of temporary immigration options available to foreign workers and their  employers. Going forward, the program will continue to strengthen the clarity  and transparency of its public information resources, and look for ongoing  opportunities for dialogue with key stakeholders, including employers, industry  associations, foreign and Canadian workers, migrant worker support  organizations, unions/labour groups, foreign governments and other observers.
+Management Action Plan
+Actions Planned
+1.1 Throughout the 2021 to 2022 fiscal year, ESDC’s Program Operations Branch will undertake key activities to improve the Temporary Foreign Worker Program client experience and accessibility through a comprehensive employer and stakeholder outreach plan. The objective of these activities is to ensure that information regarding the Temporary Foreign Worker Program is clear, consistent and frequent. A key focus will be website optimisation for the external user experience.
+Activities include:
+
+improvements to the Temporary  Foreign Worker Program landing page for improved client experience and ease of  navigation
+enhanced Labour Market Impact  Assessment (LMIA) online promotion through the web, and
+updates to the Global Talent Stream  web pages including information architecture and web content
+
+In addition, ESDC’s Skills  and Employment Branch will undertake the posting of Temporary Foreign Worker  Program policies on the Open Government website (subject to internal web  development capacity prioritised for COVID-19 demands).
+Completion date
+In progress.
+Actions planned
+1.2 Throughout 2021 to 2022  and moving forward, both the Program Operations Branch and the Skills and  Employment Branch will continue dialogue with industries making the highest use of  the Temporary Foreign Worker Program, including the agriculture and agri-food  sector. The Canadian Federation of Agriculture working group provides a  critical venue for industry to raise short-term and long-term service delivery  issues and potential solutions, and work with departmental representatives to  support implementation of administrative solutions. The breadth of potential  service delivery issues could extend to any aspect of the Temporary Foreign  Worker Program, including the processing of LMIAs, work permits, and the  Temporary Foreign Worker Program integrity regime, amongst others. The service  delivery working group is comprised of industry representatives and  departmental officials from ESDC, Service Canada, Immigration, Refugees and  Citizenship Canada, and Agriculture and Agri-Food Canada. Meetings provide a  critical venue to promote transparency and consistency through proactive  consultation, co-creation of communication materials, triaging of critical  employer concerns, and providing operational recommendations for solving  continuing employer concerns.
+This working group  co-develops effective communications materials, assists with industry outreach  regarding any forthcoming program changes, and provides operational  recommendations for solving continuing employer concerns. The working group  also provides a venue for ongoing industry feedback into the recently announced service standard review to assist in the development of relevant communications  and broader industry consultation.
+The ultimate objective of  the working group is to provide a mechanism for proactive consultation,  supporting transparency, fairness and efficiency through a more client-centric  approach to Temporary Foreign Worker Program Service Delivery that seeks to reduce  administrative burden and resources required for all parties, while maintaining  the intent and integrity of the program.
+Completion date
+Ongoing.
+Actions planned
+1.3 ESDC will continue to  proactively engage stakeholders to inform required adjustments to the Temporary  Foreign Worker Program on an ongoing basis. This will include targeted  meetings, roundtables and other fora for dialogue on key initiatives, such as  consultations on a proposal for minimum requirements for employer-provided  accommodations and implementation of the Migrant Worker Support Program. ESDC  will also increase the number of engagement sessions offered to employers to  help strengthen their understanding of program rules and their obligations,  with a view to improving overall program compliance.
+Completion date
+Ongoing.
+Recommendation 2
+Explore alternative approaches for application-based processing for  returning or frequent program users who maintain good track records in the  program.
+Management response
+Management agrees with the  recommendation. The potential benefits of a reduced administrative burden for  employers with proven records of compliance (and potentially other eligibility  criteria), has been proposed in previous years and remains a concept under  exploration by the Temporary Foreign Worker Program. The evaluation’s findings  that this continues to hold support among employers is consistent with ongoing  dialogue with stakeholders and will be factored into considerations.
+In the interim, the program continues  working to enhance the service provided to employers and to reduce LMIA processing  times. This includes the LMIA online electronic application tool introduced in  July 2019 to optimize the employers' service experience. The online platform  provides employers with:
+an end-to-end application flow  where the user is guided to relevant questions based on their responses
+a secure portal with  registration and authentication process
+ability to register and manage  secure online accounts to conduct online transactions with ESDC, and
+ability to save and retrieve  LMIA applications, upload supporting documents, view correspondence and  decision letters
+The employer’s service experience was  further enhanced through the introduction of the ability to copy past LMIA online  applications in July 2020. This new feature improves user efficiency for  employers that submit multiple applications by allowing them to retrieve,  duplicate and modify past LMIA applications.
+Management action plan
+Actions planned
+2.1 Improved load and restoration times of the online system to further  improve the employer’s service experience using the Temporary Foreign Worker  Program.
+Completion date
+April 2021.
+Actions planned
+2.2 Potential stakeholder consultations focused on the exploration of an  alternative Temporary Foreign Worker Program model for employers with proven  records of compliance.
+Completion date
+To be determined.
+Actions planned
+2.3 Analysis of stakeholder input received on potential alternative  models to inform next steps if applicable.
+Completion date
+To be determined.
+Recommendation 3
+Clarify processes to help program officers assess labour market impacts  and shortages more consistently.
+Management response
+Management agrees with the  recommendation. The Temporary Foreign Worker Program recognizes the importance  of assessing labour market shortages in the development of a LMIA decision and  continuing to ensure that Canadians and permanent residents have first access  to available jobs.
+Between January and July 2019, the  Temporary Foreign Worker Program tools used to support the assessment of a LMIA application underwent a major review and overhaul. The goal of the review  was to amend all guidance related to the LMIA application assessment to align  with the desk-aid, policy updates, and to address issues identified during  Quality Management calibration sessions.
+With the goal of improved efficiency,  when warranted, content was restructured to flow logically and duplicate  information was removed. The review was comprehensive and included consultation  with Quality Management, Business Expertise, Systems, the four operational  regions and the Employer Contact Centre. In addition, the Skills and Employment  Branch provided policy clarification as required.
+The review culminated in the July  2019 launch of 21 modified directives, desk-aids to support documentation of  the assessment, modified LMIA System assessment screens and modified  application forms.
+Clarity regarding how to determine if  the outcome of the assessment will have a positive, neutral or negative impact on  the Canadian labour market was added to the global assessment and to 4 of 7 labour  market factors.
+At the same time, the program  recognizes that there are limitations to the timeliness and granularity of  available labour market information and other information, and that the  evaluation of labour market impacts necessarily involves a certain degree of  qualitative assessment and judgement by program officers. The updated  directives and tools are intended to increase the consistency and quality of  decisions made by officers, rather than to provide definitive guidance.
+Management action plan
+Actions planned
+3.1 A recent labour market assessment tool had been developed as a  framework that combines various labour market indicators to aid in the  assessment of recent local labour market conditions. The data for this tool  comes from the Labour Force Survey, the 2016 Census of Population, Job Vacancy  and Wage Survey and Employment Insurance administrative data. The tool was  ready to be launched and made publicly available in spring 2020 on a pilot  basis.
+The COVID-19 pandemic has  unfortunately disrupted the collection of key data that the tool relies on.  This presents two challenges. First, COVID-related delays in accessing data  provided by Statistics Canada have left the information in the tool severely  out of date. Second, given that much of the data used can have time lags of  months or years (even in normal times), the tool is less reliable as a  comparative resource in this current period of major labour market disruption.  The program is working with labour market information experts on an ongoing  basis to reintroduce the tool at an appropriate time.
+Current Temporary Foreign  Worker Program policies already outline consideration of information from  additional sources, including, but not limited to, available labour market information  from organized labour groups, Statistics Canada reports, departmental labour  market assessments or projections, as well as those from other government  departments or levels of government, sector council/industry associations, and  professional associations, among others.
+The department will continue  to regularly review related policies and operational guidance to ensure that  non-employer labour market information is carefully weighed for every  application in determining whether or not available jobs can be filled by  Canadians or permanent residents.
+Completion date
+In progress.
+Actions planned
+3.2 Program guidance was developed to assist program officers assess  labour market impacts and shortages for primary agriculture streams. Guidance  included priority processing, recruitment, labour market impact assessment  validity, housing inspection report, national commodity list, and acceptance  for the submission of applications.
+Probing questions guidance  provided the ability to address high-risk strategic targets to assist program  officers assess labour market impacts and shortages consistently for the agricultural stream. 
+An update to operational  directives and desk-aids provided program officers with clear direction on when  it is acceptable for employers to request workers with no specific language.
+Completed date
+February 2021.
+References
+Banerjee, A. V., and Duflo, E. (2019). Good Economics for Hard Times: Better Answers to Our Biggest Problems. Juggernaut Books.
+Beine, M. and Coulombe, S. (2017). Immigration and Internal Mobility in Canada. Retrieved from: http://aix1.uottawa.ca/~scoulomb/pages/Immigration%20and%20Internal%20Mobility%20in%20Canada%20forth.%20JPoE.pdf
+Brochu, et al. (2016). Temporary Foreign Workers and Firms: Theory and Canadian Evidence, Canadian Labour Economics Forum. Working Paper. Retrieved from:  https://clef.uwaterloo.ca/wp-content/uploads/2016/11/CLEF-006-2016-Fall-Brochu-Gross-Worswick.pdf
+Budget 2017. Building a Strong Middle Class. Retrieved from: http://www.budget.canada.ca/2017/docs/plan/chap-01-en.html#Toc477707331
+CAHRC-CCRHA. (2020). Impact of Access to Foreign Workers on the Agriculture Industry. Canadian Agricultural Human Resource Council. Retrieved from: https://cahrc-ccrha.ca/sites/default/files/CAHRCLMIreportTFW.pdf
+Constant, A. F. (2014). Do migrants take the jobs of native workers? IZA World of Labor. doi:10.15185/izawol.10
+ESDC, Evaluation of the Labour Market Opinion Streams of the Temporary Foreign Worker Program, Final Report (2013). Retrieved from: https://publications.gc.ca/collections/collection_2013/rhdcc-hrsdc/HS28-207-2012-eng.pdf
+ESDC, Overhauling the Temporary Foreign Worker Program. Retrieved from: https://www.canada.ca/en/employment-social-development/services/foreign-workers/reports/overhaul.html
+ESDC, Temporary Foreign Worker Program Wage Review, Winter. 2019 (Available on demand)
+ESDC, Wage Impacts of Temporary Foreign Worker (TFW) Program use in Atlantic Canada Fish and Seafood Processing, Winter 2019. (Available on demand)
+ESDC, 2019 to 2020 EI Monitoring and Assessment Supplemental Study, “Patterns of Job Bank Use by Employers of Temporary Foreign Workers”, March 2021. (Available on demand)
+Gross, D. (2014). Temporary Foreign Workers in Canada: Are they Really Filling Labour Shortages?, C.D Howe Institute. Retrieved from: https://www.cdhowe.org/sites/default/files/attachments/research_papers/mixed//commentary_407.pdf
+Lu, Y. (2020). The distribution of temporary foreign workers across industries in Canada. Statistics Canada. Retrieved from: https://www150.statcan.gc.ca/n1/en/pub/45-28-0001/2020001/article/00028-eng.pdf?st=hB4sR2Ef
+Mukhopadhyay, K. and Thomassin, P. (2021). The Effect of Using Temporary Foreign Workers on the Wages of Canadian Workers – A literature review. Final Report Submitted to Agriculture and Agri-food Canada, Ottawa, by the Department of Agriculture Economics, McGill University, Montreal. (Available on demand)
+Parliament of Canada, Standing Committee on Citizenship and Immigration, April 2021. Report on the Labour Market Impact Assessment under the Temporary Foreign Worker Program. (Available on demand)
+Prism Economics and Analysis for the Food Processing Skills Council. Atlantic Fish + Seafood Processing Workforce Survey Report, June 2018. (Available on demand)
+Report 5, Temporary Foreign Worker Program, of the Spring 2017 Reports of the Auditor General of Canada. Report of the Standing Committee on Public Accounts. Retrieved from: http://publications.gc.ca/collections/collection_2017/parl/xc16-1/XC16-1-1-421-35-eng.pdf
+Somerville, W. and Sumption, M. (2009). Immigration and the Labour Market: Theory, Evidence and Policy, Equality and Human Rights Commission. Retrieved from: https://www.migrationpolicy.org/pubs/Immigration-and-the-Labour-Market.pdf
+Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities (HUMA) (2016), Temporary Foreign Worker Program. Report of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities. Retrieved from: https://www.ourcommons.ca/DocumentViewer/en/42-1/HUMA/report-4/
+Worswick, C. (2013). “Economic Implications of Recent Changes to the Temporary Foreign Worker Program”, IRPP Insight, October 2013, No.4, pp. 5-8. Retrieved from: https://irpp.org/research-studies/economic-implications-of-recent-changes-to-the-temporary-foreign-worker-program/
+Worswick, C, et al. (2017). Issues Related to the Likely Impact of Temporary Foreign Workers on Wages in the Canadian Labour Market. (Available on demand)
+Worswick, C, et al. (2018). ESDC Workshop Report, “Assessing the Implications of Temporary Foreign Workers for the Canadian Labour Market.” (Available on demand)
+Annexes
+Annex A – Previous evaluation findings
+The most recent evaluation of the program was published in 2013 and covered the period from 2007 to 2010.  Key findings included the following:
+    
+the program is effective in responding to the short-term labour and skill demands of employers
+demand for temporary foreign workers is driven by skill shortages, labour shortages and limited interest by Canadians and permanent residents in filling certain types of jobs
+demand for temporary foreign workers is strongest during periods of low unemployment
+a comparatively small number of employers account for a high percentage of the positions confirmed under the program
+most Labour Market Opinion applications did not eventually result in positions being filled by temporary foreign workers
+there is a concern that the program may place downward pressure on prevailing wages and restrict efforts by employers to recruit and train Canadians
+
+
+The 2013 evaluation generated 8 recommendations:
+    
+ensure the timely and efficient processing of Labour Market Opinions
+improve communication and coordination between ESDC and Citizenship and Immigration Canada (now Immigration, Refugees and Citizenship Canada)
+improve employer compliance
+enhance data collection and reporting methods
+employ better labour market information in the assessment of Labour Market Opinions
+continue to monitor the impact of the program on the labour market
+expand opportunities for temporary foreign workers to transition to permanent residency
+introduce an employer fee for the processing of Labour Market Opinions
+Source: ESDC, Evaluation of the Labour Market Opinion Streams of the Temporary Foreign Worker Program, Final Report (2013) https://publications.gc.ca/collections/collection_2013/rhdcc-hrsdc/HS28-207-2012-eng.pdf
+Annex B – List of evaluation questions
+How effective has the Temporary  Foreign Worker Program been in addressing the short-term labour needs of firms  and Canada’s labour market as a whole?
+    
+How is the program helping to  fill labour market shortages?
+How does the program contribute  to firms’ and sector sustainability?
+What are the differences  between firms that use temporary foreign workers versus those who do not?
+
+
+To what extent does the  Temporary Foreign Worker Program ensure that Canadian citizens and permanent  residents are considered first for current employment opportunities?  
+    
+What barriers do employers face  when trying to recruit Canadian citizens and permanent residents, including  underrepresented groups?
+How effective are the transition  plans required for the High-Wage Stream in reducing reliance on the Temporary  Foreign Worker Program?
+
+
+To what extent does the  Temporary Foreign Worker Program have an impact on prevailing wages?
+    
+How are wages affected?
+Does the program cause wage  suppression in the economy or specific sectors?
+Is there displacement of  Canadian workers?
+Annex C –  Methodology
+The evaluation of the Temporary Foreign  Worker Program made use of multiple lines of evidence. Various data collection  methods and sources helped address different aspects of the evaluation  questions. This approach ensured an adequate data triangulation to support  robust evidence-based findings, conclusions and recommendations to the program.
+Line of Evidence
+Document and literature review
+The document and literature  review included:
+    
+program documents (for example  program policies and guidelines)
+labour market reviews and  reports
+academic research relevant to  the Temporary Foreign Worker Program in the Canadian and international contexts
+findings from a wage analysis  conducted internally by ESDC
+findings from Prism Economics  and Analysis for the Food Processing Skills Council Report
+Administrative data review and analysis
+The review and analysis of data  examined data from the:
+    
+Foreign Worker System
+Job Bank
+
+
+An assessment of the overall  quality and integrity of program administrative data was conducted
+Data elements from both  databases were combined and analyzed. This allowed assessing some aspects of  employers’ recruitment efforts and interactions with job seekers through the  Job Bank
+Focus groups
+The purpose of the focus group  is to gather in-depth information, explanations, perceptions and examples from  different groups of stakeholders to answer the evaluation questions
+In  total, 12 discussion groups totaling 97 participants were conducted,  including:
+    
+5  focus groups with a total of 19 employers
+3  focus groups conducted with a total of 37 foreign workers
+2  focus groups conducted with 11 Government of Canada  stakeholders
+2  focus groups conducted with 30 other external stakeholders
+
+
+Purposive  sampling was used to ensure participants represented various streams, regions  and years of experience
+More details on the final  composition of focus groups are presented in Table C-1 below
+Table C-1: Focus groups coverage – Additional  information
+For accessibility reasons, the information is presented in text format. Consult the PDF version for the full table.
+5  focus groups conducted with 19 employers
+    
+Agriculture – Surrey, British Columbia  (n=5)
+Construction – Langley, British  Columbia (n=2)
+Tourism – Vancouver, British Columbia  (n=6)
+Meat  Processing – Calgary, Alberta (n=3)
+Tourism  – Montreal, Quebec (n=3)
+
+
+3  focus groups conducted with 37 foreign workers
+    
+Agriculture – Surrey, British Columbia  (n=13)
+Meat Processing – Calgary, Alberta  (n=8)
+Trucking –  Montreal, Quebec (n=16)
+Most participants (about 95%) understood  well and were able to provide answers themselves in English. A few questions  required translation in the workers’ mother tongue (other than French). This  was done by a staff member at the service provider organization where the focus  group was held.
+2  focus groups conducted with 11 Government of Canada stakeholders
+    
+ESDC / Service Canada employees  – in-person session held in Gatineau with 3 regional staff joining in by way of  teleconference (n=8)
+Representatives from other  Government of Canada departments, namely Immigration, Refugees and Citizenship  Canada and the Canada Border Services Agency – in-person session held in Ottawa  (n=3)
+
+
+2  focus groups conducted with 30 other external stakeholders
+    
+Third-party intermediaries, labour  or union representatives - Ottawa, ON (n=12)
+Business/employer representatives  – Ottawa, ON (n=18)
+The in-person focus groups were held in  Ottawa. However, many participants phoned in from across Canada, including  from Toronto, Montreal, Calgary, Vancouver and the Maritimes. A number of  participants were also representing organizations that had a mandate that is  national in scope.
+In-person  sessions held in 4 provinces or regions
+    
+Ottawa, Ontario, and Gatineau,  Quebec
+Vancouver, Langley, and Surrey,  British Columbia
+Calgary,  Alberta
+Montreal,  Quebec
+The focus  groups included a mix of participants from rural areas and urban centers.
+5  industries engaged
+    
+Agriculture
+Tourism
+Construction
+Meat  Processing
+Trucking.
+
+
+Employers  from the tourism industry included a wide range of businesses:
+    
+an hotel
+a spa
+specialty cuisine restaurants
+craft shops
+tour providers
+a gymnastic studio, and
+a theatre production company
+Key informant interviews
+Key informant interviews were  designed to gather in-depth evidence, including opinions, explanations,  examples and factual information with respect to the evaluation questions set  out in this evaluation. The interviews allowed for a better understanding of:
+    
+the relevance of the program
+its effectiveness in addressing  the short-term labour needs of firms
+its impact on wages, and
+barriers that employers face  when trying to recruit Canadian citizens and permanent residents
+
+
+Key informants include those  who can speak to both the successes and potential failures of the program in  relation to the evaluation issues and questions. Factual information would  include statistics and/or documented evidence in support of a statement
+A total of 37 interviews were  completed over the course of approximately 1 year, in parallel to focus groups.  Interviewees are distributed as follows:
+    
+7 ESDC program officials from  the Skills and Employment Branch and the Program Operations Branch
+10 members of Service Canada  regional staff, including at least 1 from each of the 4 Service Canada regions
+5 key informants from other  government departments who interact with the program. They included 4 key  informants from Immigration, Refugees and Citizenship Canada and 1 from the  Canada Border Services Agency
+9 external stakeholders  representing the employer side (for example industry and sectoral councils,  employer associations, immigration consultants)
+6 external stakeholders  representing the worker side (for example service provider organizations, union  representatives)
+
+
+Scale used to report the  findings
+    
+“All/almost all” – findings  reflect the views and opinions of 90% or more of the key informants in the  group
+“Large majority/most” –  findings reflect the views and opinions of at least 75% but less than 90% of  key informants in the group
+“Majority” - findings reflect  the views and opinions of at least 51% but less than 75% of key informants in  the group
+“Half” – findings reflect the  views and opinions of 50% of the respondents in the group
+“Some” - findings reflect the  views and opinions of at least 25% but less than 50% of key informants in the  group
+“A few” - findings reflect the  views and opinions of at least 2 respondents but less than 25% of key informants  in the group
+“One” – findings of 1 highly  knowledgeable key informant.
+Survey of employers
+The stratified sample for the  survey was drawn from the database of employers that applied to the program  between 2014 and 2018. A total of 76,808 unique applicants submitted 184,043  LMIAs. About 40% of applicants applied in more than 1 year
+Among all applicants, about 2  in 3 (65%) applied to the Low-Wage Stream. Almost 9 in 10 (87%) applicants had  experience with a positive LMIA (while 28% also experienced a negative). The  proportion of applications by year is fairly consistent and ranges from 26% to  35% between 2014 and 2018
+Of the 8,239 applicants sampled, 9% (718) were removed because they did not have contact information or were  duplicates. Invitations were distributed to 7,521 unique email addresses, out  of which 505 (7%) applicants completed the survey
+The table below shows the  distribution of the population, sample, and completed surveys based on  administrative data
+Compared to the stratified  sample, among those who completed the survey:
+    
+those in the Primary  Agriculture Stream were over-represented. This stream represents 17% of the  sample but it accounts for 38% of completed surveys
+those in the High-Wage and Permanent Residency Streams were under-represented. The former makes up 32% of our sample but only 20% of the surveys completed. The latter represents about 24% of the sample but only 15% of the surveys completed
+Note  : based on administrative data.
+Key limitations
+International comparisons of  programs similar to the Temporary Foreign Worker Program are limited. This is  due to the important differences that exist between program regulations, in  particular with regards to wages and the types of labour needs of those  programs
+The descriptive wage analysis  conducted by ESDC focused on only 3 sectors where the program is used in  Canada. Access to wages from all streams and regions would have made the  analysis more systematic in nature. However, the selected cases are important  as they are areas that have been perceived to contribute to wage suppression
+The available data does not  allow for controlling for external factors that can influence the supply and  demand for workers at the micro- and macro-economic levels, and therefore wages.  These factors include:
+    
+the demand for the goods and  services produced
+the ability of a company to pay  the wages
+the training and education of  the labour force
+changes in technology
+the number of  companies/businesses operating in the same sector/industry
+government regulations
+the price and availability of  other production inputs
+the cost of living in a specific  region, and
+the nature and conditions of  the job
+
+
+The Foreign Worker System-Job  Bank data analyzed could not be disaggregated regionally and only included LMIA  records associated with job postings on the Job Bank. The administrative review  and linkage with the Job Bank data was used to perform descriptive quantitative  analysis. Causality type data analysis was not conducted
+The data can be interpreted  differently depending on the labour market, stream, and time frame selected. In  addition, the wage related analysis is exploratory in nature. It is not  sufficient to draw specific conclusions on the effect of the program on wage  suppression
+Since  ESDC does not have access to the personal contact information of the foreign  workers, it was necessary to reach the workers through service provider  organizations. This could have resulted in selection biases, which can limit  the generalization of results. However, foreign workers were represented  from diverse regions and within several work streams providing a strong  representation of views from this group
+While  all attempts were made to create a sample that would be representative of all  streams, regions and levels of experience, some regions or sectors were more  represented than others
+Despite  the limitations noted, the consistency in messaging from stakeholders, foreign  workers and employers, are valid enough to contribute to program decision  making in the future
+The geographical and sectoral  coverage of the key informant interviews was limited by:
+    
+the lack of responsiveness to  invitations from some groups of external stakeholders (third party  intermediaries, service provider organizations in particular)
+the high number and diversity  of the sectors and organizations using the program accross Canada
+a limited number of interviews  could be conducted with external stakeholders in the available timeframe. About  2 full months were lost due to the COVID-19 pandemic
+
+
+The segments not covered during  the key informant interviews include the following:
+    
+third party intermediaries  based in the Prairies, Atlantic Canada and Northern Canada
+service providers and other  third party organizations who work specifically with live-in caregivers or  housekeepers hired through the program
+recruitment agencies with  experience hiring temporary foreign workers abroad (outside the agricultural  sector)
+external stakeholders  representing, or with a strong knowledge of, specific sectors where the program  is used, including:
+        
+information  technology (IT)
+arts,  recreation and entertainment
+health  care
+finance  and insurance
+construction
+
+
+
+
+Surveying Canadians for this  evaluation would be considered public opinion research so this was a  limitation. However, to ensure that Canadian perspectives were included in the evaluation,  Canadian job seekers' behaviours are indicated in the data analysis of the Job  Bank and Foreign Workers System
+Annex D –  Temporary Foreign Worker Program consolidated data files
+Figure D-1: Multiple data files from  various government departments consolidated and available through the Canadian  Employer-Employee Dynamics Database
+Text version of figure D-1
+
+Employment and Social  Development Canada
+Canada Revenue Agency
+Immigration, Refugee and  Citizenship Canada
+Statistics Canada
+
+First phase
+Employment  and Social Development Canada worked in collaboration with Statistics Canada  and Immigration, Refugee and Citizenship Canada to integrate Temporary Foreign Worker Program  data into the Canadian Employer-Employee Dynamics Database, for the first time,  and consolidate program data and Immigration, Refugee and Citizenship Canada’s  Temporary Residents File.
+
+Advantages:
+			
+reliable
+accessible
+timely
+
+
+Impact measurement  (Cross-sectional and longitudinal analyses)
+Consolidated data related to  employers, employees and jobs
+New research possibilities
+
+Second phase
+Statistics  Canada is currently consolidating data files from various government  departments including program data from 2010 to 2017.
+This  comprehensive and rich dataset opens up new research possibilities to support:
+
+program  and policy development based on evidence
+Statistics  Canada by expanding the data available in the Canadian Employer-Employee Dynamics  Database
+program  evaluations
+internal  and external researchers to innovate and conduct exploratory research on labour  market impacts
+
+Moving forward
+
+Measure  the impact of the program on the Canadian labour market
+Disseminate  results to various audiences, such as policy-makers, academics,  parliamentarians, and the public
+Promote  the availability of this unique consolidated data environment to research  partners through Statistics Canada’s Canadian Centre  for Data Development and Economic Research
+Annex E – Additional evaluation findings and observations
+Employers’ efforts to hire Canadian workers from the  underrepresented groups
+The most common reason that  employers stated for not hiring from underrepresented groups was that no one  from those groups applied or seemed interested in the job. Specifically, this  reason was mentioned by:
+    
+84.2% of the 405 respondents  asked why they did not recruit or attempt to recruit Indigenous Canadians
+68.0% of the 387 respondents  asked why they did not hire or try to hire vulnerable youth
+64.8% of the 369 respondents  asked why they did not hire or try to hire newcomers, and
+57.6% of the 410 respondents  asked why they did not hire or try to hire persons with disabilities
+Source:  ESDC’s employer survey 2020 (for the period 2015 to 2020).
+Key areas for improvement of the LMIA process identified  by both internal and external stakeholders
+Some employers and third party  intermediaries reported the presence of inconsistencies in some of the  decisions made for comparable LMIA applications assessed by different program  officers
+Some Service Canada key  informants confirmed the presence of those inconsistencies and explained that  they could be related to:
+    
+the lack of labour market  information that is precise, detailed or timely enough. This makes the  assessment of labour market conditions and shortages for specific occupations  at the regional or local level particularly difficult
+the lack of clarity and precision  of the guidelines received from ESDC’s National Headquarters regarding the  interpretation and application of program rules and requirements
+The Foreign Workers System administrative  data review and the survey of employers revealed gaps in the quality and  comprehensiveness of employer contact information and other information  collected during the LMIA process.
+Clear definitions or  descriptions were missing for several variables listed in the Foreign Workers  System data dictionary
+Out of the 8,239 applicants  sampled for the survey of employers, about 9% had to be removed from the sample  as they did not have contact information or were duplicates. Approximately 16%  of the roughly 7,500 email invitations sent to those sampled were undeliverable  (in other words bounced back)
+Out of about 2,800 phone  numbers dialed to follow-up with potential survey respondents, close to 1 in 5  (18%) were not in service. This proportion is considered high. However, some of  those phone numbers were registered in the database several years ago, and the  survey started after the beginning of the COVID-19 pandemic. During that time, some  of those businesses might have stopped operating
+Sources: ESDC’s focus groups 2020, ESDC’s  key informant interviews 2020 and ESDC’s data analysis (2011 to 2018).

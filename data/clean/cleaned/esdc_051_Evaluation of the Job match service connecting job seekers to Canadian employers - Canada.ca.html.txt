@@ -1,0 +1,525 @@
+Introduction
+Job Bank is Canada’s national employment service, available  as a website and mobile app. Via the Job Bank online platform, users have  access to a variety of products and services (refer below), free of charge. One  of these services is the Job Match service.  It allows employers and job seekers to be matched based on their respective  needs and profiles.
+Managed by the Department of Employment and Social  Development Canada (ESDC) on behalf of the Canada Employment Insurance  Commission, Job Bank is a program that sets policy and operational guidelines  while maintaining a central IT system to authenticate both employers and job  seekers profiles.
+Job Bank seeks to advance the government’s priorities  including the publication of high-quality job market information, and promotion  of employment services and training supports for those struggling to find and  maintain employment.  Through its partnership  agreements, Job Bank also aims to influence quality standards in the sector.
+Beginning in 2013, the program increased its effort to collaborate  with private and non-profit sector platforms in order to increase the number of  job postings displayed on the Job Bank online platform. Since 2015, provinces  and territories work in partnership with the program to promote the use of Job  Bank products and services and to validate job postings from their respective  jurisdictions.
+This evaluation is completed in compliance with the Policy  on Results and complements previous studies and reports that examined other  products and services offered by the program (refer to Annex  A for a summary of these studies). This report provides an overview of the  profile of employers and job seekers who use the Job Match service. It also  examines the effectiveness of the Job Match service in linking job seekers with  employers. In terms of job seekers, the focus is on those in receipt of  Employment Insurance regular benefits.
+Key  products and services available on the Job Bank online platform
+Job Bank for job seekers
+Access to available jobs and opportunities to showcase their  qualifications, work experience and education. Other services include:
+advanced  job search functionalities
+job  alerts
+job  match
+resume  builder
+Job Bank for employers
+Enables employers to post job advertisements. In return,  employers:
+receive suggested candidates with a match score  through the Job Match service, and 
+invite matched candidates to apply to job  vacancies
+Job Bank for Canadians Labour Market Information
+Provides information on wages by sectors, career outlooks  and educational requirements through online tools, such as:
+explore  the market
+choose  a career
+occupational  reports
+wage  reports
+The evaluation findings are based on  the analysis of multiple lines of quantitative and qualitative evidence. Lines  of evidence include:
+administrative data sources 
+online exit surveys completed on a voluntary basis  by employers and job seekers
+a review of the literature, and
+interviews with employers, provincial /  territorial representatives and program officials at ESDC
+Key findings and recommendations
+The evaluation presents the following 5 main findings:
+job  seekers have positive views on the value-added of the Job Match service with  60% of users recommending it to others. On the other hand, employers and partners  views were more critical   
+the  effectiveness of the Job Match service is dependent on the completeness of  information provided by job seekers. In addition, Job Match is limited by its  heavy reliance on the National Occupational Classification system, which was  not designed to support sophisticated matching algorithms
+job  Match users are more likely to view a job posting when the matching score is high.  However, other factors besides the match score influence employers following up  with job seekers
+overall, results indicate that the job match  service has a limited effect on the exhaustion of Employment Insurance regular  benefits
+employment  Insurance claimants who used Job Match and had higher than average job matching  scores were more likely to return to work rapidly. However, there is  insufficient evidence to attribute this outcome to the Job match service alone
+Based on the findings above and those from previous reports,  this evaluation recommends the following 3 recommendations to the Department:
+explore  approaches to ensure job seekers provide more complete profile information to  allow for the opportunity of better job matches with potential employers
+develop  and pilot a promotional strategy for employers to improve the level of awareness  of the Job Match service
+conduct  needs assessment with selected employers to develop, pilot and implement  features that enhance the Job Match experience for employers
+Program background
+Job Match service launched since April 2015
+Budget 2014 provided $11.8 million  over 2 years and $3.3 million per year as ongoing investment to launch a secure  and authenticated employer-employee matching process known as the Job Match  service. As a result, this service provides users (job seekers and employers)  as well as Express Entry candidates with opportunities to:
+create an anonymous profile
+access a list of authenticated job opportunities 
+apply for postings with a job match
+flag job seeker’s profile to prospective  employers 
+receive invitations from employers to apply for  jobs for which they have been matched
+Employers
+Create a user account. The authenticity of the  user is validated using the Social Insurance Number (SIN) of the individual  responsible for posting the job
+Create an employer file. The authenticity of the  business is validated using the Canada Revenue Agency (CRA) Business Payroll  Number database
+Post job opportunities by filling out a  standardized bilingual poster with criteria such as the location of the job,  description of the job using the National Occupational Classification (NOC), and other credentials 
+Receive applications as the job is validated and  then advertised on Job Bank and distributed through Job Alerts and the Job Bank  Mobile App in French and English
+Automatically receive a list of potential  candidates whose profiles have been matched to their job
+Review profiles and invite candidates to apply
+Job seekers
+Create a profile to indicate their education  level, skills set, and experience, among other criteria
+Receive a list of validated job opportunities  that are a match with their criteria
+Proactively flag their profiles to employers  using the matching service
+If there is a match, job seekers may apply on  their own or wait for employers to solicit their interests through invitations
+Employment Insurance (EI) claimants
+EI claimants are auto-enrolled in Job Alerts
+On a voluntary basis, EI claimants as for any  job seekers, can opt to upgrade from Job Alerts to Job Match. This allows for  claimants to receive job matches and invitations to apply from employers
+Matching algorithm
+Job Bank’s  matching service is available to job seekers and employers, free of charge.  Job seekers access the service by subscribing to the Job Match service while  employers are enrolled when they post a job.
+For a match to be possible, job seekers must specify the  official language of their choice (English or French). They also need to  specify the distance they are willing to commute. In addition to the  information on language and location, information  on the job seekers’ experience, education, skill level and qualification/credentials enable an algorithm to assign a matching score. The  score ranges from 1 to 5, where 1 is a ‘poor’ fit, and 5 is a ‘best’ fit.
+Overall, as shown in Figure 1, the Job Match service uses 8  ‘soft’ criteria. Since its  inception, the matching algorithm has continued to evolve. For instance, it has  been adjusted to reflect users’ behaviors such as the acceptance or rejection  of viewing previous job matches.
+In general, the more information job  seekers provide for their experience, education, skill level or credentials,  the higher the matching score.
+Figure 1: ‘Soft’ criteria for Job  Match algorithm
+
+
+Text version of figure 1
+Improvements to the Job  Match service in 2017 and 2018
+The use of  artificial intelligence (AI) and machine learning for the purposes of matching  is a rapidly evolving field. In that context, the Job Match service has been  subject to several iterations since its introduction in April 2015 (refer to Annex D, for the complete list and  timeline). These improvement include:
+changes  to the matching algorithm with the inclusion of user feedback (acceptance or  rejection of previous job matches)
+an  icon to show if a job seeker is Canadian and eligible to work in Canada
+job  seekers can self-identify as Indigenous, Veteran, visible minority or persons  with a disability
+an option  for job seekers to describe their career goals — used for job matching
+a  new field for employers to suggest new job titles
+a  mechanism to help employers find an appropriate NOC for their respective postings, and
+an option  to restrict criteria to better align job seekers with job requirements
+During  the pandemic, Job Bank has played a vital role.
+Help  connect recently laid off workers to vacant positions for essential services in  key industries like healthcare, agri-food and agriculture, retail and  wholesale, food services, or public safety and law enforcement
+Work  with provincial and territorial partners to ensure that information about job  opportunities reached available workers
+In  particular, Job Bank:
+        
+sent nearly 1.5 million emails to Canada  Emergency Response Benefit applicants across the country, connecting them with  important jobs in their communities 
+supported job searching during the receipt of  the Canada Emergency Student Benefit, for a total of more than 300,000 views  and visitors
+assisted Canada Emergency Response Benefit  recipients with the transition to a simplified Employment Insurance program and  temporary recovery benefits
+Overall in 2018 to 2019,  over 1.2 million job opportunities were posted on the Job Bank platform through  a variety of sources.
+Program  officials collaborate with a number of stakeholders across Canada. These  include provinces and territories (hereon will be referred as partners) and  non-profit organizations and private sector businesses (hereon will be referred  as collaborators).
+Figure 2 shows that close to 8-in-10 jobs posted came from  partners and collaborators  with 2-in-10 directly from employers.
+Figure 2: Share of sources of job postings  on the Job Bank online platform in 2018 to 2019
+
+
+Text version of figure 2
+
+
+
+Source: ESDC (2019). Annex B, internal source #1.
+Similar shares were observed in 2017 to 2018. However, the  number of posted job opportunities was slightly higher and exceeded 1.4 million  (refer to Annex B, internal source #6).
+In 2019,  the following 3 provinces maintained their own independent job boards for more  flexibility to work with local employers: British Columbia, Saskatchewan and  Québec.
+Job  Bank is one among many online job boards available to jobseekers.
+As a job  board, the Job Bank online platform operates in a competitive and innovative  sector.
+Figure 3  shows that 4-in-10 individuals who were looking for employment opportunities in  2017 used Job Bank as their primary source of information for:
+job search
+career planning, and 
+labour market trends
+Figure 3: Share of job seekers by job  boards in Canada in 2017
+
+
+Text version of figure 3
+
+
+
+Source: ESDC (2019). Annex B, internal source #1.
+Compared to other  Canadian job boards, Job Bank is a trusted platform with a secure and  authenticated employer-employee matching process.
+Job  Matching services are now commonly offered by job boards. Artificial  intelligence, machine learning, and algorithms support most job matching  services. They vary from one platform to another with a fee structure ranging  from between $150 to $1,800 per month (refer to Annex B internal source #1).
+Social  media platforms such as Facebook and LinkedIn collect information on their users’  skills, experience, education, interests, networks, and preferences. This  allows employers to connect with job seekers without waiting for job seekers to  apply. These platforms recruit highly qualified individuals who may not be  actively looking for work.
+According  to program officials, the Job Bank online platform is primarily designed to  support Employment Insurance policies and labour market objectives.
+For a fee, private sector job boards allow employers to perform  customized searches by limiting matches to the highest quality and specific  industries. Private sector job boards provide ‘free text’ for employers to  describe their needs.
+Source: ESDC (2019). Annex B, internal source #1
+General  features of the Job Bank online platform relative to other job boards
+Job Bank operates in a highly dynamic and innovative sector.  While complementing services for employers and job seekers alongside private  sector platforms, Job Bank offers a free and objective alternative. In  particular, the Job Match service does not prioritize job postings to generate  advertising revenue, and provides equal access to job seeker services without  service or subscription fees. Relative to other job boards:
+Job  Bank is the only bilingual platform and requires salary or wage information
+without  the ability to use cookies, Job Bank is limiting the sharing of information  about job seekers with third parties 
+Indeed,  Facebook, Monster, and Jobillico allow employers to use free text to list  skills, job description and positions title. Job Bank and LinkedIn do not use  free text
+        
+Job Bank uses fixed skills, job descriptions,  and occupation categories based on the National Occupation Codes  
+
+
+Indeed,  LinkedIn, Facebook, Jobillico, and Monster allow employers and job seekers to  communicate with each other at any time through their platform via instant  messaging or emails
+        
+Facebook offers the additional option of  videoconferencing
+
+
+employers  with Job Bank can invite matched job seekers to apply but cannot otherwise  communicate with potential applicants until they apply or respond to their  invitation
+job  seekers who sign up for the Job Match service must provide their SIN to ensure  citizenship or approved status as Express Entry candidates
+Between December 2018 and April  2019, over 70% or about 730 employers who provided voluntary responses to the  Job Bank for Employer Survey indicated that their experience was:
+excellent (22%)
+good (31%)
+satisfactory (23%)
+Why are Employers using Job Bank
+Of those 41 employers with a Job Bank account who were  interviewed as part of this evaluation, the top 3 reasons were:
+the service was free (70%)
+it attracts a large number of applicants (63%) 
+it is convenient and easy to use (51%)
+Evaluation approach
+For the purpose of this evaluation report, 6 evaluation questions were identified  to be answered:
+what are the characteristics of employers who use Job Bank for Employers?
+what are the socio-demographic characteristics of the job seekers who use Job       Match?
+how effective has Job Bank been in matching job seekers and employers through Job Match?
+      
+has the use of Job Match contributed to make the  job search more effective for job seekers?
+has the use of Job Match contributed to make the  recruitment process more effective for employers?
+
+
+to what extent have employers been able to hire workers, and job seekers find       employment through Job Match?
+to what extent has the Job Match had an impact on labour market outcomes?
+what is the Job Match value added: compared to other Job Bank services?       Compared to other Canadian job boards?
+Evaluation scope
+The focus of this evaluation is on job seekers, EI claimants  and employers who used Job Bank products and services in 2017 and 2018.
+Express entry candidates are not part of this  evaluation as they fall under the responsibility of Immigration, Refugees, and  Citizenship Canada (IRCC) 
+The Temporary Foreign Workers Program is subject  to its own evaluation. Therefore, this evaluation excludes employers who used  the Job Match Service to seek Temporary Foreign Workers
+Annex C describes all  lines of evidence as well as their respective timeframe.
+Data Limitations
+This evaluation excludes employers who used Job Bank  services for the purpose of the Temporary Foreign Worker Program (TFWP) from 2  administrative databanks. Due to some discrepancies in the approach to select  these employers within each databank, some TFWP employers were more than likely  inadvertently included. Additional information can be found in Annex B, internal source #4.
+The report uses data from the Job Bank program to focus on  Job Match users in 2017 and 2018. Employers and job seekers are asked to inform  program officials through a voluntary survey when hiring effectively took place  as a result of using services from Job Bank. However, no information is being  collected systematically. When information is provided by job seekers and  employers, information is limited. As a result, the analysis of Job Match users  and their labour market outcomes was not possible.
+One way to look at labour market outcomes of Job Match users would be to link Canada Revenue Agency (CRA) tax files with Job Match users’ information found in the program databank. At the time of the evaluation, tax files for 2018 were not available, preventing further analysis that may shed light on Job Match users’ labour market outcomes
+In addition, Job Match users may rely on several job boards to find work and not just rely on services available on the Job Bank platform. Other job boards include Indeed, LinkedIn, Jobillico, Facebook or Monster. As such, it is not possible to solely attribute outcomes to the Job Match service
+Feedback provided on a voluntary basis by employers and Job  Match users are captured by 2 surveys:
+the Job Match Deactivation survey, and
+the  Job Match Posting Closeout Survey
+Survey results were used to provide context on recruitment  and job search patterns.
+Employers are given the opportunity in the surveys to  indicate if they hired job seekers from the following groups: Indigenous,  visible minority, person with disabilities, youth, newcomers or older workers.  A job seeker may belong to more than 1 group. Between December 2018 and April  2019, employers were able to provide information for about 2,780 jobseekers.  Among those job seekers, it is unclear who were using the Job Match Service.
+This evaluation used data from the Appliweb or the online  application for Employment Insurance (EI) benefits to identify claimants who  were also Job Match users. Several socio-economic variables from the EI  administrative databank were extracted with claimants’ characteristics to  better understand their speed in returning to work. Additional information can  be found in Annex B, internal source #3.
+Key findings
+Finding #1
+Job  seekers have positive views on the value-added of the Job Match service with  60% of users recommending it to others. On the other hand, employers and  partners views were more critical.
+Feedback from an exit survey indicated that 60% or close to  4,930 job seekers would recommend the Job Match service to other users. This  suggests that from a job seeker’s perspective, receiving feedback on potential  job matches and their quality can play a role in informing and supporting their  job search. As shown in Figure 4, a higher number of matches per job posting,  and a higher proportion of jobs with quality matches (Figure 6) could support  the fact that job seekers are recommending Job Match to others. However, no  direct link can be drawn from the data. In 2017 and 2018, every job posted  generated an average of 134 matches.
+In 2017 and 2018, employers with a Job Bank For Employer (JBFE) account posted over 400,000 opportunities on the Job  Bank online platform. Partners and employers interviewed as part of this  evaluation were more critical of the value-added of the Job Match service.
+None of the provinces and territories are  offering a matching service that is comparable to Job Match. However 3 out of 9  jurisdictions noted that the service had value added while the remaining  thought that this service should be improved 
+Of  the 23 employers who used the Job Match service, 18 did not find it useful. Among  those who provided reasons, 9 found the match quality to be poor
+During interviews with program officials, officials recognized that the  Job Match service did not work very well in the first 2 years or in 2015 and  2016. To their knowledge, relatively few employers are using it and the site  usability has been better for job seekers than for employers.
+The launch of employer-employee matching was a 3-phased process –  registration, profile development and job matching. Modules were gradually  released and tested for stability before releasing it to users (refer to Annex D for the Job Bank Enhancements  Timeline, 2014 to 2018). The roll-out plan was more focused on job seekers’ interface.
+“Currently, out of 184 matches, the  highest match is 3 stars. That match has the education and is willing to  relocate but doesn’t have any related experience. The second highest match is  only matched on education, because he has a high school education.”(Employer using Job Bank)
+Figure 4: Average number of matches per job  posting in 2017 and 2018
+
+
+Text version of figure 4
+
+
+
+Source: ESDC (2020). Annex B, internal source #4
+Awareness of the Job Match service amongst employers
+Though employers have posted over 400,000 job opportunities  on the Job Bank platform, feedback from the interviews indicated a low level of awareness of the Job  Match service amongst employers. Of employers interviewed for this evaluation, 24%  (11 out of 41) indicated that they did not use or did not know about the Job  Match service. This proportion was 60% for employers who voluntarily responded  to an exit survey (615 out of 1,025).
+Employers  interviewed were more inclined to use the Job Match service when they struggle  to fill positions that normally require more experience, specialized skills and  education. When seeking to fill low skilled positions with less training and  education, employers reported that they received many résumés and did not need  to engage in more active recruiting.
+Employers  interviewed generally used the Job Match service only after receiving and  reviewing résumés and determining that the number/quality of résumés is  insufficient.
+Recent improvements of the Job Match service allow job  seekers to receive email notifications when their profiles are matched to job  vacancies. However, employers are required to access their Job Bank account to  review the profiles of job seekers who have been matched to their job  vacancies. At the time of the evaluation, no automatic notifications exist for  employers.
+In Figure 5, 18 out of 41 employers never reviewed job  seekers profiles with matches. Among  the 24 employers interviewed who provided suggestions for improvement, 6  indicated that sending emails would ensure that employers are made aware of the  matches. The email alert could help employers to cut back on their recruitment  efforts instead of having to log into their Job Bank account.
+Figure 5: Share of employers by how often they reviewed job seekers’ profiles in 2019
+
+
+Text version of figure 5
+
+
+
+Source: ESDC (2019). Annex B, internal source #2.
+Finding #2
+The effectiveness  of the Job Match service is dependent on the completeness of information  provided by job seekers. In addition, Job Match is limited by its heavy  reliance on the National Occupational Classification system, which was not  designed to support sophisticated matching algorithms.
+Program’s  partners and employers credited the Job Bank online platform during the  interviews for its popularity and for providing good quality postings from a  broad variety of industries.
+Figure 6  shows the proportion of matches with a score of 3 or more, increasing to 14% in  2018 from about 2% in late 2017.
+Ongoing  refinements to the job matching algorithm, including adjustments made to  reflect users’ behaviors contributed, in part, to this increase. For example,  acceptance or rejection of previous job matches.
+Figure 6: Proportion of job postings with a  median match score of 3 or more in 2017 and in 2018
+
+
+Text version of figure 6
+
+
+
+Source: ESDC (2020). Annex B, internal source #4
+A higher  proportion of occupations with a score of 3 or more was observed among job  seekers with a university degree. This could be partially explained by job  titles tending to be more similar to the names of their fields of study. The  reverse situation also applies. Without Job Match users’ experience, education,  skill level, the probability for employers to invite them to apply decreased  slightly, particularly for occupations with college or apprenticeship training.
+According  to Figure 7, about 1-in-7 (about 15%) Job Match users did not provide their level  of education or credentials, thereby potentially impeding the effectiveness of  the matching algorithm.
+Figure 7 : Share of Job Match users by highest level of education in 2017 and 2018
+
+
+Text version of figure 7
+
+
+
+Source: ESDC (2020). Annex B, internal source #4
+The  ability of employers to properly select the NOC or job titles for their advertised positions somewhat limits the  effectiveness of the Job Match service. In Figure 8, about 63% of employers  interviewed (26 of 41) were more critical of NOCs than employers surveyed, with  10 of them asking for the ability to make job titles more specific to their posting.  Although not directly related to the selection of NOCs or job titles, 770  employers (or 77%) who voluntarily responded to the survey indicated that they  found all necessary skills and job requirements when posting a vacant position  on Job Bank.
+While  the NOC limits the flexibility of employers in choosing a job title, it does  provide for a standardized approach and thereby easier to use in the job match  algorithm.
+Interviewees  perceived the NOC to be too generic and believe that applicants can easily misunderstand  their job requirements. Without the ability to use free text in favor of the  NOCs, employers were unable to provide additional information about their job  vacancies. Program officials are aware that lower skilled jobs have more  generic NOC titles.
+For example, 1 employer mentioned that the NOC for “dishwasher” is “pot  washer”. Other limitations included: the requirement to indicate the average  salary, requisite experience and education based on the NOCs do not always  reflect industry standards or capture the diversity within industries.
+According  to the literature review for this evaluation, employers with an urgency to fill  job vacancies had the tendency to post fewer job requirements. In these  situation, employers included more information about the job application  process. They were also quicker to remove their posters from a job board
+Figure 8: Most common suggestions for improvement expressed during interviews with employers
+
+
+Text version of figure 8
+
+
+
+Source: ESDC  (2019). Annex B, internal source #1.
+National Occupational  Classification:
+The National Occupational  Classification is the product of a partnership between Statistics Canada and  Employment and Social Development Canada. It is the nationally accepted  taxonomy and organizational framework of occupations in the Canadian labour  market.
+Profile of Job Match users
+Canadian job seekers can create a profile and register for the  Job Match service without a fee. In 2017, over 84,600 were active users and in  2018, the number reached close to 124,340. Between these 2 periods, about  57,000 were new or first time subscribers to the Job Match service.
+Among  active Job Match users, about 1-in-10 was younger than 25. The share by age groups in Figure 9 was relatively similar and comparable to the Canadian labour  force for the age groups of 25 to 55. Job Match users with a high school degree or no  degree (56%) were over-represented compared to less than 35% in the Canadian  labour force.
+Figure 9: Share of Job Match users by age  groups in 2018
+
+
+Text version of figure 9
+
+
+
+Source: ESDC (2019). Annex B, internal source #4.
+Figure 10  points to a misalignment between the distribution of occupations sought by Job  Match users and those sought by employers via their job vacancies. Observed  differences were the largest for sales and service, trades, transport and  equipment operators and business, finance and administration occupations.
+Figure 10: Share of Job Match users and job vacancies  by occupational groups in 2018
+
+
+Text version of figure 10
+
+
+
+Source: ESDC (2020). Annex B, internal source #4
+Job Match service only takes into account job postings submitted by  employers who are registered with Job Bank.
+According  to Figure 2, about 1-in-5 job vacancies were submitted by employers registered  with Job Bank. For Job Match users to increase their opportunities to find  work, they can also subscribe to the Job Alerts service to receive  notifications for job opportunities.
+Figure 11  shows the 3 provinces that maintain their own job boards and work directly with local employers. These include British Columbia (BC),  Saskatchewan (SK) and Québec (QC).
+Figure 11: Provinces and Territories in  partnership with the program in 2019
+
+
+Text version of figure 11
+
+
+
+Source: ESDC (2019). Annex B, internal source #1.
+Though job vacancies posted on independent job boards (BC, SK and QC) do appear  on the Job Bank online, Job Match users are unable to view or access them.  Employers using independent job boards would need to have 2 accounts at the  provincial level and with Job Bank.
+Figure 12  shows a misalignment between the distribution of Job Match users and job  postings across provinces, particularly for BC, AB and QC.
+Misalignment  is explained in part by the preference of employers in BC and QC for using  their own provincial job boards. While these job posting can be viewed on Job  Bank, the Job Match service does not account for them when looking for  potential job matches  
+For  AB, a misalignment is due, in part, by a small drop in active employers (0.5%)  using Job Bank services coupled with an increase of over 5,000 new Job Mach  users
+Figure 12: Comparison between the share of Job  Match users and job postings by province and territories in 2018
+
+
+Text version of figure 12
+
+
+
+Source: ESDC (2020). Annex B, internal source #4
+Profile of employers
+Between 2017 and 2018, the number of active employers with  Job Bank increased by 20%, from about 35,000 to close to 42,000.
+The majority of employers were small businesses  with up to 99 employees 
+Figure 13 shows an increase in the share of  employers with up to 4 employees between 2017 and 2018. Nevertheless, it remains relatively small compared  to the broader Canadian labour market where over 50% of small businesses  employed up to 4 employees
+Figure 13: Share of active employers with  Job Bank by employer size in 2017 and 2018
+
+
+Text version of figure 13
+
+
+
+Source: ESDC  (2020). Annex B, internal  source #4
+As shown in  Table 2, just over half of employers were from Ontario and BC in 2017 and 2018.  During this period, however, their respective share displayed the largest  variation.
+The  decrease in Ontario has been offset by a significant increase in the share of  employers in BC with an additional 4,000 employers. This resulted in a net loss  of roughly 500 employers
+Accommodation  and food services, construction and manufacturing sectors account for almost  half of employers who posted job vacancies
+Source: ESDC (2020). Annex B, internal source #4
+Finding #3
+Job  Match users are more likely to view a job posting when the matching score is  high. However, other factors besides the match score influence employers  following up with job seekers
+Table 3 shows that 57% of Job Match users viewed job  opportunities when a matching score was 4 (out of a maximum of 5). In contrast,  37% of users viewed a job posting when the score was 1. However, due to data  limitations, the evaluation was not able to conduct a probabilistic analysis  examining factors affecting the viewing of a job match.
+Source: ESDC (2020). Annex B, internal  source #4
+Results from a probabilistic regression found no relationship between  the matching score from 1 to 5 and the likelihood of a job seeker to be invited  to apply for vacant positions. Factors in Table 4 show that the Job Match  service appears to be suited for specific size and type of businesses.
+Table 4: Factors affecting the probability for  employers to invite job seekers
+For accessibility reasons, the information is presented in text  format. Consult the PDF version for the table.
+Higher probability is associated with:
+business with up to 4 employees ***
+longer posting duration (0.023)*** 
+job opportunities belonging to the Trades,  Transport and Equipment Operator categories (0.005)*** compared to Sales and  Service occupations as the reference group
+occupations requiring college education or  apprenticeship training (0.006)*** compared to those that required secondary  school and/or specialized occupations as the reference group
+postings from British Columbia (0.047)***, Quebec  (0.015)*** or Manitoba (0.006) relative to postings in Ontario as the reference  province
+Lower probability is associated with:
+businesses with 5 to 99 employees (-0.12)***;  medium sized with 100 to 499 employees (-0.015)*** and large employers with more  than 500 employees (-0.02)***
+job opportunities belonging to the Natural and  Applied Sciences groups (-0.013)***, or, the Business, Finance, and  Administration groups (-0.011)***, or, occupations belonging to the Art, Culture,  Recreation, and sport (-0.012)*** compared to Sales and Service occupations as  the reference group
+occupations requiring on the job training(-0.006)***  ,or, a university degree (-0.008)** compared to occupations that required secondary school and/or  specialized occupations as the reference group
+Source: ESDC (2020). Annex B, internal  source #4. ** indicates statistical significance at the 5% level, and *** at  the 1% level.
+Job Match service had minimal impact on employers’ recruitment time
+In 2018, an average of 16% of jobs  posted with a match led employers to invite candidates to apply if their search  lasted more than 30 days compared to an average of 6% in the previous year. This  increase is explained by the fact that since August 2017, employers who use the  Job Bank online platform services to hire workers from the Temporary Foreign  Worker Program (TFWP), are required to post for 30 days or more. They are also  expected to invite Canadian job seekers to apply when a matching score was 2 or  more.
+This evaluation does not cover TFWP  employers. As such, hiring patterns of employers who posted job vacancies under  30 days are further examined.
+Table 5  shows an average of over 26 invitations were sent by employers looking to fill  vacancies in the Management, and Sales and Services occupational groups.
+For  the Management group, employers were more likely to provide additional  information about the job requirements. In addition, job seekers looking for a  management position were likely to submit a complete profile, leading to higher  match quality
+For  the Sales and Services group, employers may have had access to a larger share  of job seekers looking for jobs in this sector
+Source: ESDC (2020). Annex B, internal source #4
+Currently  the program does not track whether an individual was hired following a job  match and an invitation from an employer. Of employers who have hired someone,  44% or about 4,280 associated their hiring as a result of advertising on the  Job Bank online platform.
+About 34%  or 3,300 employers were able to hire someone within 2 weeks or up to 14 days.  According to Job Bank partners and a hand full of employers interviewed, this  proportion is likely to be lower for job vacancies in rural, remote areas, parts  of western provinces and Québec.
+Employers  interviewed (16 of 41) mentioned that Job Bank services had a minimal impact on  their recruitment time. The literature indicates that for some employers in  Finland, the probability of filling a vacancy was 14% higher when using online  job boards.
+Profile of Employment Insurance claimants in receipt of regular benefits  and Job Match users
+With a view to examine the  extent to which the Job Match service may help job seekers to find work, the  evaluation analyzed a subset of Job Match users who were in receipt of regular  EI benefits. In particular, the analysis looks into whether EI claimants who  subscribe to the Job Match service tend to return to work sooner relative to  those who did not subscribe to the Job Match service.
+In 2017,  out of the 1.1 million claimants who received only regular benefits, a little  over 2% or 22,725 were Job Match users (refer to Annex B, internal source #3).
+Compared to claimants of regular benefits, EI – Job Match users were:
+predominantly men
+older than 45 years of age (55% vs 47%)
+residents of Alberta, Saskatchewan, Manitoba and  Ontario
+graduates from a college or university (64% vs  45%)
+entitled to more weeks of regular benefits 
+received, on average, almost 2.4 weeks more of  benefits
+Key  results from a recent evaluation of the Connecting Canadians with Available  Jobs initiative indicate that “early information provision could potentially be  an effective policy for reducing EI benefits paid when targeted at specific  subgroups” (refer to Annex B, external source #2).
+With a  statistical matching method known as the Coarsened Exact Matching (CEM), a  comparison group was created to represent claimants with characteristics that  were similar to claimants who did not use the Job Match service. The sample of  claimants who used the service included about 6,640 individuals.
+Furthermore,  this evaluation examines behaviors of claimants based on the timing of their subscription  to the Job Match service.
+Comparison group to  claimants with regular benefits
+To create a  representative comparison group for EI claimants who used the Job Match  service, the CEM was used as a matching technique. It selects similar groups of  non-users based on age, gender, province of residence, educational level, and  occupation.
+For  additional information, refer to Annex B, internal source #3.
+Finding #4
+Overall, results indicate that the job match service has a limited effect on the exhaustion of Employment Insurance regular benefits.
+Employment Insurance claimants are said to have exhausted  their regular entitlement when the number of weeks of benefits received (actual  duration) equals the full entitlement available over the course of the benefit  period.
+By comparing claimants who never used the Job Match service  during their entitlement period, a probabilistic regression shows that overall  Job Match users were on average 2.9% more likely to exhaust their benefits  (refer to Figure 14).
+Further dividing users by the timing of their service  activations, ‘Early users’ were found less likely to exhaust  their benefits. ‘Midway users’ and ‘Late users’ were both more likely to  exhaust their benefits. In particular, Early users were 3.0% less likely to  exhaust their benefits.
+Figure 14: Probability of exhausting EI regular benefits for users of the Job Match service compared to non-users of the service in 2017
+
+
+Text version of figure 14
+
+
+
+Source: ESDC (2019). Annex B, internal source #3
+For the purposes of the analysis, claimants in receipt of  regular benefits and who subscribe to the Job Match service are broken down  into 3 groups:
+early users: Activate Job Match account in the  first third of their benefit period
+midway users: Activate Job Match account in the  second third of their benefit period
+late users: Activate their Job Match account in  the last third of their benefit period
+The results associated with the classification of users  according to their timing of service activation should be interpreted with  caution. For instance, more motivated claimants may ‘self-select’ themselves  early into the service as a result of their more proactive job search strategy.  In fact, Table 6 outlines other factors that affected the probability of exhausting  regular benefits, such as age, occupational groups and province of residence.
+Looking only to those claimants who exhausted their  Employment Insurance regular benefits, does not provide a complete picture,  since a number of claimants find work and end their claim prior to exhausting  their regular entitlements. To address this shortcoming, the evaluation further  examines whether using job match service may contribute to a lower probability  to claim an additional week of regular benefits throughout one’s claim, via the  conduct of a survival analysis using the Extended Cox Proportional Hazard  model. For the purposes of this analysis, 2 aspects associated with the usage  of the Job Match service are accounted for at any point in time throughout the  examined claims:
+the total number of job matches received by a  user
+the average matching scores of these job matches
+Results found are consistent across the 3 groups of EI  claimants who use the Job Match service (early, mid-way and late users).
+Table 6: Factors affecting the probability of  exhausting regular benefits
+For accessibility reasons, the information is presented in text  format. Consult the PDF version for the table.
+Those with a decreased probability:
+early users of the Job Match service (-3%) ***  compared to non-users of the Job Match service
+claimants younger than 25 years of age (-7%)***  compared to those aged 35 to 44
+residents in Quebec (-4%)** or British Columbia  compared to residents in Ontario
+education,  Law, and Social, Community and Government occupations (-12%)*** and Trades,  Transport and Equipment operators (-13%) compared to Sales and Service  occupations
+Those with an increased probability:
+mid way users (+8.7%)*** and Late users  (19.2%)*** compared to non-users of the Job Match service
+female claimants (2%)** compared to male  claimants
+claimants between the ages of 55 and 64  (+13%)*** and 65 years and older (27%)*** compared to those aged 35 to 44
+residents in Alberta, Saskatchewan or Manitoba  (+3%)*** compared to residents in Ontario
+claimants belonging to the Health occupational  group (12%)** compared to the Sales and Service occupations
+Source: ESDC (2020). Annex B, internal source #4. **  Indicates statistical significance at the 5% level, and *** at the 1% level.
+Finding #5
+Employment  Insurance claimants who use Job Match and had higher than average job matching  scores were more likely to return to work rapidly. However, there is insufficient evidence to attribute this outcome to the Job match service alone.
+For all 3 groups (early, mid-way and late users), the  accumulated number of job matches did not have an influence over the  probability to claim an addition week of EI benefits.
+However, for all 3 groups, an increase in the average  matching score was associated with a decreased probability to claim an  additional week of Employment Insurance benefits.
+Compared to the other 2 groups, Early users were somewhat  more sensitive to changes in the average matching score (indicated by the  higher slope of the curve in Figure 15). This suggests that Early users may be  more selective about the suitability of available jobs.
+Figure 15: Decreased probability to use 1  additional week of EI benefits in relation to the average matching score in 2017
+
+
+Text version of figure 15
+
+
+
+Source: ESDC (2019). Annex  B, internal source #3.
+These findings are consistent with the notion that key to  finding a job is how one’s profile aligns with job opportunities, and not just  the sheer number of available jobs. In fact, results suggests that Job Match  Service can play a role in identifying these instances of ‘right fit’ for the  job. However, there is insufficient evidence to attribute this outcome to the  Job Match service alone.
+The share of Employment Insurance claimants who  used Job Match is small with the risk of ‘self-selection’ biasing the results.  From the close to 24,000 survey respondents who used the Job Match service and  who voluntarily provided feedback, only 3,260 were receiving Employment  Insurance benefits
+In addition, information on job search  activities pursued by job seekers, other than subscribing to Job Match Service,  was not available. The same applies to employers’ hiring processes and the  potential role that the Job Match service may play in supporting them
+Conclusion and recommendation
+Since its  inception, Job Bank has made significant efforts to better connect job seekers  and employers through various services provided on their platform. This is captured  in 3 recent reports (refer to Annex A). Job Bank typically has over 1.2 million job  postings a year on their platform. For a portion of these jobs, the Job Match  service provides an opportunity for job seekers and employers to connect.
+The use of  artificial intelligence (AI) and machine learning for the purposes of job  matching is a rapidly evolving field. In fact, despite its young existence, the  Job Match service has already been subject to a number of improvements since  its introduction in 2015.
+Overall, the report showed that a small, but growing number of job seekers and employers are using Job Match service for the purposes of finding jobs or to recruit potential candidates. Though Job Match users have positive views on the value-added of the service, views from employers were more critical. As the Job Match service matures with time, further improvements of the site usability should shift towards meeting the needs of employers.
+Lastly, the  evaluation examined whether Employment Insurance claimants who subscribe to the  Job Match service tend to return to work sooner relative to those who did not  subscribe to the Job Match service. Overall, results indicate that the effect  of the job match service on the exhaustion of Employment Insurance regular  benefits is limited. Still, claimants who use Job Match and had higher than  average job matching scores were more likely to return to work rapidly. However,  there is insufficient evidence to attribute this outcome to the Job Match  service alone.
+Based on  these findings, the Evaluation Directorate offers the following recommendations:
+recommendation  #1: Explore approaches to ensure job seekers provide more complete profile  information to allow for the opportunity of better job matches with potential  employers
+recommendation  #2: Develop and pilot a promotional strategy for employers to improve the level  of awareness of the Job Match service
+recommendation  #3: Conduct needs assessment with selected employers to develop, pilot and  implement features that enhance the Job Match experience for employers
+Management response and action plan
+Recommendation #1
+Explore approaches to ensure job seekers provide more  complete profile information to allow for the opportunity of better job matches  with potential employers.
+Management agrees.
+Job Bank strives to  enhance the experience of all users based on their evolving needs. Throughout  2019 and 2020, Job Bank continued to enhance user experience, particularly that  of job seekers, by improving the Job Match profile creation process, and the  matching algorithm. These features seek to tailor the application to the needs  of both employers and job seekers.
+In May 2019, Job  Bank adapted the job seeker’s algorithm to better reflect the user’s desired  career expectation and profile. Job seekers can select between an algorithm  that values more education, experience or overall skills for a tailored  approach to their job search. Job seekers can choose from the 3 algorithms to  improve their job matches from potential employers. The custom algorithms aim  to minimize the impact of an incomplete profile on the quality of the match. If  the user doesn't enter any information in the education, experience or overall  skills sections, the system will display a message informing them that the  corresponding algorithm won't be available for their use.
+To assist job  seekers with creating a more complete profile, Job Bank has developed an ongoing  process to add new job titles as suggested by users. Upon receiving the  suggestion, Job Bank adds the titles to a proposed list to be inputted in the  system so the user can select the one that best reflects their experience. In  collaboration with the National Occupation Classification team, Job Bank  established a procedure to add new job titles and skills in a timely manner, as  well creating a job titles list as exhaustive and accurate as possible for the  future.
+Job Bank also  enhanced the education section of the job seeker profile by extending the list  of searchable programs from the Classification of Instructional Program (CIP).  Prior to this change, some users had difficulties finding their specialized  education program due to the limited program list in the search. This issue  might have led some users to simply omit the information, which impacted the  accuracy of their job matches. The introduction of the extended list of  education programs allows job seekers to input their exact program name.
+Job Bank also has  plans to improve the current inventory of skills. By aligning with the recently  introduced Skills and Competencies Taxonomy, Job Bank aims to provide a more  extensive and structured list of skills to users for their profile creation.  Job seekers will be able to refine their skills selection in the profile, thus  receiving better job matches. In collaboration with other teams within the  Labour Market Information Directorate, Job Bank will continue its efforts to  expand and refine the skills inventory. The first stage was completed at the  end of 2020, and the next steps of the skills inventory update will proceed  throughout 2021 and 2022.
+During the COVID-19  pandemic, Job Bank has served as a key resource for users to find employment  opportunities. These enhancements will allow users to provide a detailed, and  complete description of their education and work experiences in their profile.  Such profiles lead to job matches of an improved quality, resulting in more  efficient job search activities.
+Actions planned
+1.1 Update the inventory of skills to align with  the Skills and Competency Taxonomy
+Anticipated completion date
+Winter 2022
+Recommendation #2
+Develop  and pilot a promotional strategy for employers to improve the level of  awareness of the Job Match service.
+Management agrees.
+A redesign of the  employer dashboard is underway. The updated dashboard will enable employers to  navigate Job Match results efficiently by displaying an overview of the matches  received and the number of applicants interested in the job opportunity. The  enhanced visibility and the accessibility of the feature is expected to  increase employers’ awareness of Job Match services.
+In addition, Job  Bank is currently building a resume sharing tool, which is expected to launch  in 2021. The service will allow Plus account job seekers to send their resumes  directly to employers via the Job Bank platform. For ease of access, resume  sharing, job matches and activity report will all be displayed in the same  section. Traffic to the Resume Sharing tool is expected to draw more employers’  attention to the Job Match services.
+Job Bank also plans  to integrate a seamless email process in the Job Match service to alert  employers of their matches. As a promotional strategy, an email will be sent,  upon creation of a job posting, to notify employers of potential candidates and  the features of Job Match. Job Bank may seek to expand this functionality and  create a weekly email with the match results.
+Actions planned
+2.1 Redesign  employer dashboard page that highlights Job Match to users through preview  boxes
+Anticipated completion date
+Spring 2021
+Actions planned
+2.2 Build the Resume  Sharing tool for job seekers and employers
+Anticipated completion date
+Spring 2021
+Actions planned
+2.3  Send emails of match results to employers  upon creation of a job posting
+Anticipated completion date
+Fall 2021
+In addition to  raising awareness of employers with existing user accounts, Job Bank plans to  invite new employers to the service. A series of online ad campaigns, via  Social Media and banners, aim to attract new employers. The first campaign  successfully rolled out in October and November 2020, bringing over 160,000  visits to Job Bank for Employers. A second campaign is underway starting in  January 2021.
+In parallel, Job  Bank, jointly with the Canada Revenue Agency, has implemented messaging to  promote its service to employers visiting the CRA’s Business Registration  Online page. Currently employers visiting 2 of the CRA’s static webpages to  register a business number can see the message; additional messaging is  scheduled to be added upon the employers’ completion of their business  registration process.
+Finally, Job Bank  will promote Job Match to employers who experience difficulty in finding  employees by engaging directly with employer groups.
+Actions planned
+2.4 Implement  messaging on the CRA’s business registration online
+Anticipated completion date
+Spring 2021
+Actions planned
+2.5 Engage with  employer groups who may experience hiring difficulty
+Anticipated completion date
+Fall 2022
+Recommendation #3
+Conduct needs assessment with selected employers to  develop, pilot and implement features that enhance the Job Match experience for  employers.
+Management agrees.
+Job Bank has  established multiple streams to collect feedback. All users can contact Job  Bank through the website or via email, and provide their comments to improve  our features. All comments are reviewed on a daily basis. To understand the  needs of the users, Job Bank has also developed various surveys. Survey  responses are regularly analyzed in order to gather the requirements for an  effective job board service. Additionally, Job Bank has created 2 separate  working groups (Job Match and User Experience) to develop innovative ideas,  identify specific audiences, and accommodate their needs. The feedback obtained  from all these sources informs Job Bank of the effectiveness and user  experience of the respective services; it also supports Job Bank in making  informed decisions.
+In April 2020, Job  Bank worked with ESDC’s Client Experience Group (CEG) to review the Job Bank  for Employers application. The ensuing recommendations provided guidance for  the employer dashboard redesign and highlighted areas for other improvements.  Following the implementation of the employer dashboard, Job Bank will work  again with the CEG to assess the improvements made regarding the employer’s  user experience.
+Actions planned
+3.1 Conduct a 2nd user  experience study focusing on the new employer dashboard and Job Match, in  collaboration with the Client Experience Group
+Anticipated completion date
+Fall 2021
+Annexes
+Annex A: Summary of previous  studies related to Job Bank
+The Evaluation of  the Labour Market Information component of the Job Bank completed in  2017 showed that:
+70% of job seekers were satisfied with Job Bank
+68% of employers with Job Bank accounts were  satisfied with the website and services received
+60% of employers used Job Bank as primary place  to post job vacancies, and
+more than two third of job seekers were aware  and used the information on career planning and labour market trends found it  useful
+The Evaluation of  Connecting Canadians with Available Jobs Initiative completed in 2018  focused on enhancements to Job Alerts and labour market information and their  effectiveness in supporting job-search activities. The Job Alerts service is an email notification service that  informs subscribers about job openings advertised on the Job Bank website. This evaluation found that:
+the initiative was successful at improving the  awareness of the existence of the Job Alerts service and the subscription to  the service 
+larger exposure to Job Alerts service was  positively linked to the number of interviews and job offers, the number of  hours of search in a typical week and the likelihood of switching from a  temporary to a permanent job
+The  supplemental study on Trends in  Employment Insurance (EI) Claimants’ Registration with Job Bank completed  in 2020, examined the use of the Job Alerts service that is available to job  seekers who applied for EI benefits online. Key findings included:
+the share of EI applicants, who subscribed to  Job Alerts after receiving an invitation, steadily increased from about 20% in  December 2017 to about 35% in April 2019. Subscribers were more likely to be  women; 45 years or older; and to have graduated from college or university 
+over half of job postings came from 2  occupational categories: Sales and Services and Business, Finance, and  Administration related occupations 
+close to half of job postings required a  university degree or college diploma/apprenticeship training. About 37%  required a high school diploma and/or job-specific training 
+Prince Edward Island, Newfoundland and Labrador,  Nova Scotia, New Brunswick were among provinces with the largest share of  postings that required on-the-job-training
+the average hourly rate of pay of posted jobs  increased from $16.50 in 2017 to $18.60 in 2019, for a percentage increase of  12.7% 
+in 2018, the average duration of job postings  was 36 days, relative to about 29 days in 2017
+Annex B. Bibliography
+Data Sources
+S1. Job Bank Administrative Data
+S2. Employment Insurance (EI) Administrative Data
+S3. Job Match General Survey— January 2017 to December 2017
+S4. Job Bank Deactivation Survey—April 2018 to April 2019
+S5. Job Bank for Employers Survey—December 2018 to April  2019
+S6. Job Posting Closeout Survey—December 2018 to April 2019
+Internal Sources (not published, available upon request)
+Employment and Social Development Canada (2019).  Literature Review for the Evaluation of Job Bank as an online platform delivering  services to Canadians
+Employment and Social Development Canada (2019).  Interviews with Employers,  Provincial and Territorial Representatives, and Program Officials 
+Employment and Social Development Canada (2019).  The Impact of the Job Match Service on Employment Insurance Claimants—Regular  Benefits
+Employment and Social Development Canada (2020).  The Effectiveness of the Job  Match Service for Employers and Job Seekers
+Employment and Social Development Canada (2019).  Trends in EI Claimants’ Registration with Job Bank
+Employment and Social Development Canada (2018,  last updated on January 6, 2018). Job Bank 2017 to 2018 Summary Report.  Available upon request
+External Sources
+E1. Employment and Social Development Canada (2017). Evaluation  of Learning and Labour Market Information as disseminated by Employment and  Social Development Canada using a web-based consolidated approach
+E2. Employment and Social Development Canada (2017). Evaluation  of the Connecting Canadians with Available Jobs initiative
+Annex C: Evaluation Approach
+The evaluation looks at Canadian job seekers—including Employment  Insurance (EI) claimants — employers, and provinces and territories who  co-deliver this platform with the federal government. The focus of this  evaluation is on the effectiveness of the Job Match service in matching job  seekers with employers, and the impact of the Job Match service on the return  to work for EI claimants who received the regular EI as the type benefit.
+Quantitative  lines of evidence were developed using the Job Bank program and the Appliweb which is  an online application system for EI benefits. To examine claimants’ behaviors,  data from the departmental Job Bank was linked to the EI Status Vector file  (SV) administrative databanks. They were linked to produce information that was  used to compare claimants and non-claimants.
+More specifically, only the 2017 cohort of  claimants in receipt of regular benefits was used since significant changes  were made to the Job Match algorithm in 2015 and 2016. This cohort included  about 6,900 claimants (refer  to Annex B,  internal source #3) 
+Where appropriate, these lines of evidence were  enriched with other external sources of data and relevant literature to provide  context to the analysis
+Key  Informant Interviews provided  an important source qualitative evidence. Interviews with 41 employers who use Job Bank in 2018 and 2019, 10  provincial and territorial representatives who participate in the co-delivery  of Job Bank services; and 5 Job Bank officials who work at ESDC in various  areas related to the delivery of Job Bank — a total of 56 participants. Interviews were  conducted in May and June 2019.
+Annex D: Job Bank Enhancements Timeline (2014  to 2018)
+2014
+December: Test of the Job Bank for Employers 2.0  (JBFE) and release of Job Match registration for job seekers
+2015
+January: Launch of the IRCC’s Express Entry (EE) initiative: eligible EE  candidates start registering in Job Match
+January : Test of JBFE 2.0 by a limited number  of new employers; low-key release of the job seeker profile component 
+February to March : Release of job seekers  matching component: work to address bugs in the JBFE 2.0
+April: Release of the Job Match for employers;  start of stabilization period for Job Match for seekers
+May to June: Stabilization period for JBFE 2.0
+November:  Job seekers may choose between receiving broad or refined job matching results;  further enhancements to matches based on credential, education and experience
+2016
+August: 2-way communication between job seekers  and employers is possible
+November: Labour mobility enhancements (job  seekers may notify employers if they are willing to relocate for employment) 
+November: Job seekers profiles provides  descriptions for National Occupational Classification (NOC) work experience;  presentation modified of met/unmet qualifications in Job Match
+2017
+February:  New landing page for employers, enhanced controls and views related to Job  Match
+March:  Job postings disseminated for less than 30 days are distinguished from jobs  posted 31 days or more in the activity report; both categories are subdivided  into Express Entry and Canadians users; matches to Canadian citizens are  identified 
+June:  Job Match results can be filtered by employment groups
+As of June 6, Job Match registration becomes  voluntary for EE candidates
+As of Aug, 27, employers who want to hire TFW must  use Job Match. Prior to this, employers could use either Job Bank or provincial  counterparts in British-Columbia, Saskatchewan and Quebec
+2018
+February: Redesign of Job Match survey
+July: Redesign of location preferences for job  seekers

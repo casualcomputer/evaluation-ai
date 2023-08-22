@@ -1,0 +1,113 @@
+Post-Implementation Audit of the GST/HST Redesign Project
+Final Report
+Corporate Audit and Evaluation Branch
+October 2010
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+1.0 Accomplishment of Established Objectives
+2.0 Management Controls and Reporting for Ongoing Functionality
+Conclusion
+Executive Summary
+Background:
+The Goods and Services Tax (GST) was introduced in January of 1991 to replace the Federal Sales Tax. In April 1997, the Harmonized Sales Tax (HST) was introduced in Nova Scotia, New Brunswick and Newfoundland and Labrador.
+The responsibility for the administration of the GST/HST Program is shared by several branches of the Canada Revenue Agency (CRA). The Assessment and Benefit Services Branch (ABSB) provides functional direction for registration, data capture, processing/assessing, and accounting. The Compliance Programs Branch (CPB) is responsible for the development of risk assessment criteria for the selection and conduct of audit activities related to GST/HST returns. The Legislative Policy and Regulatory Affairs Branch (LPRAB) provides functional direction for the interpretation of legislation. The Appeals Branch is responsible for client objections and appeals, and the Taxpayer Services and Debt Management Branch (TSDMB) is responsible for the collection of amounts owing and taxpayer service.
+The GST/HST Redesign Project (the Project) was launched in 1999 to improve compliance and taxpayer service, modernize program delivery and integrate GST/HST into the Corporate Business Suite. The Business Suite is a collection of CRA systems that share common platforms such as the Business Number System, Standardized Accounting (SA), Business Client Communication System (BCCS), and Case Management System to provide co-ordinated functions (i.e. registration, accounting).
+The Project Close Out Report was tabled at the September 29, 2009 Resource and Investment Management Committee (RIMC) meeting, indicating project costs of $371 million. Ongoing costs after 2010-2011 are estimated at $27.2 million per year.
+Objective:
+The objective of this audit was to provide assurance that the GST/HST Redesign Project has achieved the objectives stated in the GST/HST Redesign Business Case of 2006, and that controls exist to support the ongoing functionality of the redesigned system.
+The scope included a follow-up on action plans developed by the CRA in response to the Office of the Auditor General's concerns relating to the management of GST/HST system access. The scope did not include a review of the accuracy and completeness of the GST/HST data, or the controls related to financial processes.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Conclusion:
+The 2006 Business Case did not have clearly defined objectives, performance measures and benchmarks. Consequently, internal audit is unable to provide audit level assurance that the objectives were fully achieved. However, functionality in the Project releases can be linked to the objectives in the business case. For example, providing registrants with the capability to manage their accounts using My Business Account can be linked to the objective of "responding to taxpayer needs more efficiently". The current RIMC process requires measurable criteria and benchmarks for projects subject to RIMC oversight.
+Controls exist to support ongoing functionality of the redesigned system. However, there are opportunities to improve awareness of, and training for, reporting tools available to managers as well as to reduce system output volumes and related mailing costs. There is also an opportunity for improvements regarding employee access to the GST/HST system.
+The majority of staff interviewed in the field offices visited are unaware of the features of ReportNet, the reporting tool used in conjunction with the redesigned system. Consequently, this reporting tool is not used consistently. The majority of field offices visited are using resources to develop and maintain in-house operational statistical reports. As the key stakeholder Branches that use ReportNet, ABSB, CPB, and TSDMB should develop plans to provide timely training on Cognos 8, the reporting tool that will replace ReportNet in 2011, to ensure that the software's reporting capabilities are used to maximum potential.
+Due to the system redesign, program mail outputs increased by 85% per year, thereby increasing mailing costs by $6.2 million. ABSB should develop plans with clear targets and dates to reduce the volume of outputs and the related mailing costs.
+A review of the profiles of Information Technology Branch (ITB) employees who develop, support, and maintain the GST/HST system identified 10 instances where employees utilized both a user profile and an approver profile. A user with both profiles could make unauthorized or incomplete changes to the production environment. ITB should modify the user accounts to have either the ability to add code to an environment or the ability to move code to the next environment, and, conduct periodic reviews to prevent this from occurring in the future. ITB has acknowledged the significance of these instances and has taken actions to address the issue.
+Action Plans:
+ABSB, CPB, ITB and TSDMB agree with the recommendations and the action plans with related timelines are included in this report.
+Introduction
+The Goods and Services Tax (GST) was introduced in January of 1991 to replace the Federal Sales Tax. An information technology system was developed over 18 months to meet the January 1, 1991 implementation date. The system's inflexibility, combined with numerous fundamental deficiencies within the GST program, necessitated a large number of manual work-around processes.
+In April 1997, the Harmonized Sales Tax (HST) was introduced in Nova Scotia, New Brunswick and Newfoundland and Labrador. HST is a single harmonized value added tax that replaced the provincial retail sales taxes and the federal GST.
+The GST/HST program processed over 7.2 million returns
+[Footnote 1]
+in 2009-2010, which generated gross revenue of over $44 billion
+[Footnote 2]
+. The responsibility for the administration of the GST/HST Program is shared by several branches of the Canada Revenue Agency (CRA). The Assessment and Benefit Services Branch (ABSB) provides functional direction for registration, data capture, processing/assessing, and accounting. The Compliance Programs Branch (CPB) is responsible for the development of risk assessment criteria for the selection and conduct of audit activities related to GST/HST returns. The Legislative Policy and Regulatory Affairs Branch (LPRAB) provides functional direction for the interpretation of legislation. The Appeals Branch is responsible for client objections and appeals, and the Taxpayer Services and Debt Management Branch (TSDMB) is responsible for the collection of amounts owing and taxpayer service.
+The GST/HST Redesign Project (the Project) was launched in 1999 to improve compliance and taxpayer service, modernize program delivery and integrate GST/HST into the business suite of common systems. Supported by ABSB and Information Technology Branch (ITB), the Project was initiated to build a flexible GST/HST system using common corporate platforms.
+The redesigned GST/HST System was implemented through a series of releases beginning in April 2002. A Business Case was presented to the Resource and Investment Management Committee (RIMC) in October of 2006. The Project achieved a major milestone in April 2007 when the redesigned processing systems were released to the production environment, thereby joining the CRA's Corporate Business Suite. Subsequent releases have added planned functionality and dealt with stabilization issues.
+The 2006 GST/HST Redesign Business Case stated that the Project objectives included:
+refining the risk management approach with comprehensive and balanced compliance strategies and the implementation of automated offsets between debits and credits across numerous business tax revenue lines;
+building a flexible system capable of responding in a timely way to legislative and program change;
+providing the ability to administer a range of GST/HST programs (i.e. rebates, audit, collections) that can easily be expanded for other government departments and/or levels of government;
+integrating the GST/HST program with the common business systems;
+increasing the capability of electronic commerce;
+consolidating all distributed systems currently required to administer the program;
+responding to taxpayer needs more efficiently; and
+addressing the concerns of the Office of the Auditor General (OAG).
+The Project Close Out Report was tabled at the September 29, 2009 RIMC meeting indicating project costs of $371 million. Ongoing costs after 2010-2011 are estimated at $27.2 million per year.
+The Corporate Audit and Evaluation Branch (CAEB) completed a pre-implementation audit of the Project in 2005. A GST/HST Data Conversion Audit was also carried out in the period leading up to and including the April 2007 release which focused on data accuracy in the migration of account balances from the old GST/HST production system to the corporate Standardized Accounting (SA) system. That audit concluded that the migration from the old GST system to the SA platform and the transfer of data from SA to the Revenue Ledger were successfully carried out in the April 2007 release.
+Focus of the Audit
+The objective of this audit was to provide assurance that the GST/HST Redesign Project has achieved the objectives stated in the GST/HST Redesign Business Case of 2006, and that controls exist to support the ongoing functionality of the redesigned system.
+The scope included a follow-up on action plans developed by the CRA in response to the OAG's concerns relating to the management of GST/HST system access. The scope did not include a review of the accuracy and completeness of the GST/HST data, or the controls related to financial processes.
+The audit was conducted at Headquarters (HQ) with key stakeholders (ABSB, ITB, CPB, Appeals Branch, TSDMB) and at selected offices in the Atlantic, Prairie, Ontario and Pacific Regions. Examination work was conducted from September 2009 to January 2010.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings, Recommendations and Action Plans
+1.0 Accomplishment of Established Objectives
+The GST/HST system was successfully migrated to the Corporate Business Suite. Significant issues identified after implementation were resolved in subsequent releases. Interviews with staff in Headquarters and field offices indicated that the redesigned system is currently meeting program needs, and should facilitate future harmonized sales tax initiatives.
+The 2006 Business Case did not have clearly defined objectives, performance measures and benchmarks. Consequently, internal audit is unable to provide audit level assurance that the objectives were fully achieved. However, functionality in the Project releases can be linked to the objectives in the business case. For example, providing registrants with the capability to manage their accounts using My Business Account can be linked to the objective of “responding to taxpayer needs more efficiently”. The current RIMC process now requires measurable criteria and benchmarks for projects subject to RIMC oversight.
+2.0 Management Controls and Reporting for Ongoing Functionality
+Controls exist relating to maintenance costs, training, system issues and system changes that support the ongoing functionality of the redesigned system.
+Maintenance costs were determined using supportable assumptions such as historic factors and variables. The Project Close Out Report states that ongoing costs after the 2010-2011 fiscal year are expected to be $27.2 million per year. These costs were subject to RIMC review and approved in September 2009.
+Training and reference materials, as well as procedures, were developed prior to system implementation. HQ Functional Branches provided training, such as screen prints, navigation aids, and formal classroom training to varying degrees. After implementation, Branches incorporated various ways of training employees including online manuals, the buddy system and on-the-job training on the GST/HST applications.
+Procedures for reporting system problems and for the approval and authorization of changes to the GST/HST system are in place. The procedures permit horizontal issues to be addressed and take into account input from other affected stakeholders. Incident reports and system change requests are monitored by HQ Branches and field offices, and system changes are communicated to staff. The majority of system-related enquiries are received via the Production Support website in HQ. Production Support provides technical support and guidance to users of the Corporate Business Suite applications.
+While the above-mentioned controls exist, there are opportunities to improve awareness of reporting tools available to managers and to reduce system output volumes and mailing costs. There is also an opportunity for improvements regarding GST/HST system end-user access, and access to application code.
+The majority of staff interviewed in the field offices visited are unaware of the features of ReportNet and are using resources to develop and maintain in-house operational statistical reports. ReportNet is a web-based software product for creating and managing ad-hoc and customized reports. Plans are in place to replace ReportNet with Cognos 8 in 2011. The key stakeholder Branches that use ReportNet are ABSB, CPB, and TSDMB.
+Recommendation
+ABSB, CPB, and TSDMB should develop plans to provide timely Cognos 8 training to ensure that the software's reporting capabilities are used to maximum potential.
+Action Plan
+:
+The Returns Development team within ABSB will develop a training package and deliver it to headquarters and the field prior to the conversion to Cognos 8 in April 2011.
+In TSDMB, the replatforming of the Statistical Tracking, Analysis and Reporting System to Cognos 8 is underway with an expected completion date in 2011. Sufficient training will be provided to both field and HQ personnel to correspond with this implementation.
+CPB will develop formal training plans by spring 2011, and training sessions will be carried out to HQ and the field by fall 2011. The Verification Enforcement Business Intelligence Solution of the Research, Risk & Business Management Directorate will be responsible for this training, with the support of the Small and Medium Enterprises Directorate.
+The old GST/HST system did not automatically issue a Notice of Assessment for all returns and rebates, Statements of Account and Instalment Payments, and Collections and Appeals notices. Subsequent to implementation of the redesigned system, the volume of mail outputs increased 85% per year (from 10 million to 18.5 million), which increased postage costs by $6.2 million.
+In the Project Close Out Report, ABSB noted several plans to partially address the issue. For example, the Branch amended the criteria under which a Statement of Arrears will be issued. They estimate potential savings of $1.5 million by 2011-2012 as a result of this measure. The Branch also stated that several initiatives were underway that will increase the use of electronic options, thereby reducing the volume of outputs.
+Recommendation
+ABSB should develop plans with clear targets and dates to further reduce the volume of outputs and the related mailing costs.
+Action Plan
+:
+An action plan is in the process of being created in ABSB to deal with the reduction in mailing costs. Some specific reductions have already been made or are planned in the near future. The Branch cancelled the GST/HST Statement of Arrears in 2009-2010 and the savings were just under $1.4 million. Starting in November 2010, the number of GST/HST Statements of Interim Payments (SIP) sent to taxpayers will be reduced by approximately 400,000 per year that will generate savings in the range of $90,000 in associated mailing costs in 2010-2011, and approximately $216,000 annually thereafter. Under the lead of the Assistant Commissioner of the ABSB, the Agency has commenced a review to develop options on how the Agency's sent mail can be reduced. This review will cover all outputs including those from the GST/HST Program and will be completed by March 31, 2011.
+The audit included a follow-up on action plans developed by the CRA in response to the OAG's concerns relating to the management of GST/HST system end-user access. The CRA's action plans included implementing Employee System Access Review (ESAR) and the Role Based Access Guide (RBAG). ESAR is a web application tool that provides CRA managers with an online report of their employees' system access privileges. RBAG will identify minimum system access rights required by an employee based on their job function or role. ESAR was implemented across the CRA in January 2009. RBAG is still being implemented. ABSB, for example, has scheduled RBAG implementation for the fall of 2010. These action plans were noted in an Information Technology Security Audit completed by CAEB in October 2009. A follow-up on the progress on the action plans for RBAG and ESAR will be conducted during CAEB's annual follow-up process in the fall of 2012.
+The OAG also identified 13 user accounts of employees in ITB who had both a user profile and an approver profile for the GST/HST system. A user with the user profile can add code to pre-production environments. A user with the approver profile can move code to the next environment, including the production environment. When a user has both profiles, the risk of unauthorized or incomplete changes to the production environment is increased. As a result, there is a risk of data corruption, unplanned downtime, and fraud. The CRA had agreed to remove either the user or approver profile from these user accounts. However, a subsequent review of user accounts during this audit identified 29 ITB employees who had both user and approver profiles. There was also no evidence of monitoring of these profiles. Since June 2009, users accessed the system 10 times under both profiles.
+Recommendations
+ITB should modify the user accounts to have either the ability to add code to an environment, or the ability to move code to the next environment.
+ITB should conduct periodic reviews to prevent this from occurring in the future.
+Action Plan
+:
+Effective May 26, 2010, ITB removed either the user or approver profile for migrating application code to production. ITB subsequently reviewed the system changes made by users who accessed the system under both profiles and confirmed that they were implemented as intended. As of June 2010, ITB has commenced quarterly reviews to prevent this from occurring in the future.
+Conclusion
+The 2006 Business Case did not have clearly defined objectives, performance measures and benchmarks. Consequently, internal audit is unable to provide audit level assurance that the objectives were fully achieved. However, functionality in the Project releases can be linked to the objectives in the business case. For example, providing registrants with the capability to manage their accounts using My Business Account can be linked to the objective of “responding to taxpayer needs more efficiently”. The current RIMC process requires measurable criteria and benchmarks for projects subject to RIMC oversight.
+Controls exist to support ongoing functionality of the redesigned system. However, there are opportunities to improve awareness of, and training for, reporting tools available to managers as well as to reduce system output volumes and related mailing costs. There is also an opportunity for improvements regarding employee access to the GST/HST system.
+The majority of staff interviewed in the field offices visited are unaware of the features of ReportNet, the reporting tool used in conjunction with the redesigned system. Consequently, this reporting tool is not used consistently. The majority of field offices visited are using resources to develop and maintain in-house operational statistical reports. As the key stakeholder Branches that use ReportNet, ABSB, CPB, and TSDMB should develop plans to provide timely training on Cognos 8, the reporting tool that will replace ReportNet in 2011, to ensure that the software's reporting capabilities are used to maximum potential.
+Due to the system redesign, program mail outputs increased by 85% per year, thereby increasing mailing costs by $6.2 million. ABSB should develop plans with clear targets and dates to reduce the volume of outputs and the related mailing costs.
+A review of the profiles of Information Technology Branch (ITB) employees who develop, support, and maintain the GST/HST system identified 10 instances where employees utilized both a user profile and an approver profile. A user with both profiles could make unauthorized or incomplete changes to the production environment. ITB should modify the user accounts to have either the ability to add code to an environment or the ability to move code to the next environment, and, conduct periodic reviews to prevent this from occurring in the future. ITB has acknowledged the significance of these instances and has taken actions to address the issue.
+Footnotes
+Footnotes
+Footnote _ftn1
+Information provided by ABSB.
+Return to footnote
+_ftn1
+Referrer
+Footnote _ftn2
+Information provided by Finance and Administration Branch.
+Return to footnote
+_ftn2
+Referrer
+Page details
+Report a problem on this page
+Date modified:
+2011-01-07

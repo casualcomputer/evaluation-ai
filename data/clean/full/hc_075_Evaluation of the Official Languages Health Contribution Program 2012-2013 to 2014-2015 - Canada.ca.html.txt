@@ -1,0 +1,3607 @@
+Evaluation of the Official Languages Health Contribution Program 2012-2013 to 2014-2015
+Download the alternative format
+(PDF format, 917 K, 76 pages)
+Organization:
+Health Canada
+Date published:
+2017-07-08
+Prepared by Office of Audit and Evaluation Health Canada and the Public Health Agency of Canada
+Translated version. In case of divergence between this text and the French text, the French version shall prevail.
+March 2017
+Table of Contents
+Executive Summary
+Management Response and Action Plan
+1.0 Evaluation Purpose
+2.0 Program Description
+2.1 Program Context
+2.2 Program Profile
+2.3 Program Narrative
+2.4 Program Alignment and Resources
+3.0 Evaluation Description
+3.1 Evaluation Scope, Approach and Design
+3.2 Limitations and Mitigation Strategies
+4.0 Findings
+4.1 Relevance: Issue #1 – Continued Need for the Program
+4.2 Relevance: Issue #2 – Alignment with Government Priorities
+4.3 Relevance: Issue #3 – Alignment with Federal Roles and Responsibilities
+4.4 Performance: Issue #4 – Achievement of Expected Outcomes (Effectiveness)
+4.5 Performance: Issue #5 – Demonstration of Economy and Efficiency
+5.0 Conclusions
+6.0 Recommendation
+Appendix 1 – Logic Model
+Appendix 2 – Summary of Findings
+Appendix 3 – Evaluation Description
+Appendix 4 – Supplementary Data
+Endnotes
+List of Tables
+Table 1: Local and regional health networks funded by "Société Santé en français" and Community Health and Social Services Network
+Table 2: Program resources
+Table 3: Limitations and Mitigation Strategies
+Table 4: French language post-secondary training graduates
+Table 5: Communities where bilingual services are available, by jurisdiction, May 2015
+Table 6: Health facilities where bilingual services are available, by jurisdiction, May 2015
+Table 7: Services offered in minority official language, April 2016
+Table 8: Variance between planned and actual expenditures, Official Languages Health Contribution Program ($)
+Table 9: Administrative costs ($)
+List of Acronyms
+ACUFC
+Association des collèges et universités de la francophonie canadienne
+CCHS
+Canadian Community Health Survey
+CHEP
+Community Health Education Program
+CHSSN
+Community Health and Social Services Network
+CIHR
+Canadian Institutes of Health Research
+CIRLM
+Canadian Institute for Research on Linguistic Minorities
+CNFS
+Consortium national de formation en santé
+CSSS
+Centre de santé et de services sociaux
+EBP
+Employee Benefit Plan
+FTE
+Full-time equivalent
+INSPQ
+Institut national de santé publique du Québec
+LEP
+Limited English proficiency
+LTC
+Long-term care
+MHCC
+Mental Health Commission of Canada
+MSSS
+Ministère de la Santé et des Services sociaux
+O&M
+Operating and Maintenance
+OLCDB
+Official Language Community Development Bureau
+OLHCP
+Official Languages Health Contribution Program
+OLMC
+Official language minority communities
+OLSP
+Official Languages Support Programs
+PCH
+Department of Canadian Heritage
+PHAC
+Public Health Agency of Canada
+RIFSSSO
+Regroupement des intervenants francophones en santé et en services sociaux de l'Ontario
+SSF
+Société Santé en français
+TRHPP
+Training and Retention of Health Professionals Project
+Executive Summary
+Evaluation Purpose and Scope
+The purpose of this evaluation was to assess the relevance and performance (effectiveness, efficiency, and economy) of the Official Languages Health Contribution Program (OLHCP or the Program). Since the relevance of the OLHCP was established in two previous evaluations, including most recently in
+2012–2013,
+the primary focus of this evaluation was on performance. Furthermore, the evaluation focussed on, but was not confined to, the period from
+2012–2013
+to
+2014–2015
+. Findings from the evaluation will feed into and inform the horizontal evaluation of the Roadmap for Canada's Official Languages (
+2013–2014
+to
+2017–2018),
+which is currently underway under the leadership of the Department of Canadian Heritage (PCH).
+The evaluation was undertaken in accordance with the requirements of the Financial Administration Act and the Treasury Board Policy on Evaluation (2009).
+Program Description
+The OLHCP was created in 2003 and is administered by the Official Language Community Development Bureau (OLCDB) within Health Canada's Strategic Policy Branch. The OLCDB coordinates Health Canada's responsibilities for the advancement of English and French under Section 41 of the Official Languages Act (1988). This involves enhancing the vitality of English-speaking and French-speaking minority communities; fostering the full recognition and use of both English and French in Canadian society; and ensuring that Health Canada undertakes positive measures for the implementation of these commitments while respecting the jurisdiction of provinces and territories.
+The OLHCP aims to foster increased access to bilingual health professionals and intake staff in official language minority communities (OLMCs) and to increase the offer of health services targeted to these communities. The Program seeks to achieve these objectives through three components: integrating health professionals in OLMCs; strengthening local health networking capacity; and health services access and retention projects. The OLHCP receives approximately $33.9 million annually.
+Conclusions – Relevance
+Continued Need
+This evaluation confirms an ongoing need for the OLHCP. A number of studies conducted since the last evaluation found that OLMCs are more likely to experience socio-economic, demographic, and other risk factors that are linked to poor health status, and that language barriers limit OLMC access to health care services, particularly in the context of communication-based health services (e.g., mental health care and counselling); OLMC seniors and immigrants remain particularly vulnerable groups.
+Furthermore, there is evidence that language barriers comingle with a variety of other inter-related factors, including geographic distribution of and distance from services, socio-economic factors, availability of health care services delivered proactively in the minority language, and availability and retention of health care professionals, which together limit access to health care services as well as quality and safety of services for OLMCs.
+Alignment with Government Priorities
+Support of official languages remains a priority of the federal government, as evidenced by its ongoing inclusion in the Roadmap for Canada's Official Languages. More recently, the federal government declared its ongoing support of official languages in the 2015 Speech from the Throne and the Prime Minister's ministerial mandate letter to the Department of Canadian Heritage. Furthermore, the activities of the OLHCP are aligned with Health Canada's strategic objectives and priorities and its mandate to enhance the vitality of OLMCs as described in Section 41 of the Official Languages Act.
+Alignment with Federal Roles and Responsibilities
+The OLHCP is aligned with federal roles and responsibilities, as described in the Department of Health Act, the Official Languages Act, and the Canada Health Act. Furthermore, the OLHCP is unique at the federal level in having a specific mandate to increase access to health services for OLMCs, and complements related activities at the federal and provincial/territorial levels.
+Conclusions – Performance
+Achievement of Expected Outcomes (Effectiveness)
+The evaluation found that the OLHCP has contributed to improving access to health services in the language of the minority in OLMCs. This conclusion is based on two criteria. First, evidence shows an increase in the number of bilingual graduates from the Consortium national de formation en santé (CNFS) (a 79% increase between 2010-2011 and 2014-2015). Similarly, 4,929 health professionals and intake staff have graduated from McGill University's English language courses between 2009-2010 and 2012-2013. Second, the evaluation found that an increasing number of CNFS graduates go on to work in a health-related service in an OLMC. Post-graduation surveys conducted 6 to 12 months after graduation revealed that the proportion of CNFS graduates working in a health-related service has increased from 74% to 82% between 2008-2009 and 2014-2015; of these, more than 90% were providing health-related services in OLMCs. Furthermore, a recent evaluation of the McGill bursary program found that most bursary recipients surveyed who currently work in a targeted Quebec region have respected and also exceeded the one-year period imposed by the program, and that the majority of them intend to continue working there for several years to come.
+In addition to the post-secondary and language training components, a wide range of initiatives that are intended to improve access to, as well as quality and safety of, health care services for OLMCs have been undertaken by the OLHCP's primary and secondary beneficiaries. Examples include work on developing linguistic standards for use in a Canadian health care context; adaptation of the Mental Health Commission of Canada's (MHCC)Mental Health First Aid trainers program for French linguistic minority communities; and projects in the areas of health promotion, interpretation services, and improved access to health care for seniors.
+While the above-mentioned studies demonstrated an increase in the availability of bilingual health services professionals in OLMCs, other data sources show that, overall, health services in the minority official language are offered in a minority of Canadian communities (22%) and health facilities, albeit with considerable variation across jurisdictions. Facilities in New Brunswick and Quebec — two of the provinces with the largest OLMC populations — are most likely to offer these services. Additional research would however be needed to strengthen this assessment of the Program's effectiveness. Specifically, more extensive research is needed on whether facilities that claim to provide bilingual health services offer such services in practice. Furthermore, time series data are not available to assess the extent to which the offer of health services for OLMCs may have increased during the period covered by this evaluation. Finally, limited research exists on the extent to which OLMC members actually access health services in their preferred language, whether this varies by region and health occupation, and the extent to which they are satisfied with such access.
+Beyond its formal expected outcomes, the OLHCP is perceived as having contributed to a revitalization and empowerment of OLMCs in Canada, and to a growing awareness among stakeholders outside of OLMCs of issues related to the accessibility, quality, and safety of health care services for these communities. There remains, however, limited evidence on the contribution of the program to improved health status of OLMC members. While there are numerous studies linking OLMCs to greater socio-economic risk factors that are linked to poor health status, few studies have attempted to compare actual health status of individuals living in minority and majority language communities. Further research in this area could enhance the OLHCP's understanding of the needs of OLMCs, guide the Program in maximizing its potential benefits, and inform future programming decisions.
+Demonstration of Economy and Efficiency
+The OLHCP has operated in an economical and efficient manner over the years covered by this evaluation. The OLHCP expended the large majority of planned funding between 2012–2013 and 2014–2015, with unspent funds associated primarily with the McGill component. Health Canada's administrative costs are relatively low, representing 2.6% of the total Program allocation over the five-year funding cycle, and Program representatives as well as primary funding recipients identified numerous measures they have taken to minimize costs and manage available resources effectively to facilitate the production of planned products and services; some activities have expanded despite stable funding. While key informants believe that activities are appropriate to achieve the expected outcomes and that resources are generally sufficient to support specific planned activities, it was noted that these activities are not necessarily comprehensive.
+Since the last evaluation, the OLHCP has revised and streamlined its performance measurement strategy, logic model, and annual recipient performance reporting templates. However, the current approach presents challenges for reporting at both the recipient and Program levels, and may not fully capture Program impacts, particularly those relating to the networking component. There was some support among key informants for revisiting the approach to performance measurement and reporting to address these issues.
+Given the government-wide and portfolio-wide efforts on performance measurement, observations related to the current performance measurement contained in this evaluation should be considered in the context of this work.
+While key informants generally agreed that the OLCDB is an appropriate vehicle for delivering the OLHCP, there does not appear to be a formal structure or mechanism in place for collaboration within the federal Health Portfolio (Health Canada, Public Health Agency of Canada and Canadian Institutes of Health Research (CIHR))) on issues related to health care for OLMCs, and key informants differed on the extent to which such collaboration currently takes place.
+Recommendation
+Recommendation 1
+The OLCDP should pursue opportunities to improve the quality and availability of information on the extent to which health services are available and actively offered in the preferred language of OLMC members, on the extent to which these members access these services, and on their level of satisfaction with such access.
+While information exists on the number of health facilities across Canada that claim to provide bilingual health services, more extensive research would be needed to systematically assess whether these facilities offer such services in practice. Furthermore, time series data are not available to assess the extent to which the offer of health services for OLMCs may have increased during the period covered by this evaluation. Finally, limited research exists on the extent to which OLMC members actually access health services in their preferred language, whether this varies by region and health occupation, and the extent to which they are satisfied with the access. Such research would strengthen the Program's ability to measure and report on its effectiveness.
+Management Response and Action Plan
+Evaluation of the Official Languages Health Contribution Program 2012-2013 to 2014-2015
+Recommendations
+Response
+Action Plan
+Deliverables
+Expected Completion Date
+Accountability
+Resources
+The Official Language Community Development Bureau (OLCDB) should pursue opportunities to improve the quality and availability of information on the extent to which health services are available and actively offered in the preferred language of OLMC members, on the extent to which these members access these services, and on their level of satisfaction with such access.
+Agreed. The OLCDB will pursue such opportunities through the activities that are funded under the Official Languages Health Contribution Program and through its coordination of Health Canada compliance with Part VII (section 41) of the Official Languages Act
+Health Canada and the OLCDB will work with provincial and territorial health officials and funding partners (including SSF, Community Health and Social Services Network (CHSSN), CNFS, McGill University, CIHI) to promote the inclusion of language identifiers in health system databases such as patient health records and health insurance card systems.
+Records of decision from meetings with PT officials
+March 31, 2019
+Footnote
+i
+Director, Programs Division
+Existing resources
+Health Canada and the OLCDB will work with Statistics Canada to increase the sample size of English and French linguistic minority communities on each cycle of the Canadian Community Health Survey in order to improve the capacity to analyze these groups at a provincial and regional level.
+Statistics Canada surveys
+March 31, 2019
+Director, Programs Division
+Existing resources
+Health Canada and the OLCDB will work with federal partners and funding partners to assess the extent to which OLMCs have access to and are satisfied with health services and health personnel in their preferred language.
+Population surveys, health services inventories, research papers
+March 31, 2020
+Director, Programs Division
+Existing resources
+Health Canada and the OLCDB will report annually on its information and research activities to improve the quality and availability of information on the offer of health services in the preferred language of OLMC members, on the extent to which these members access these services, and on their level of satisfaction with such access.
+Annual reports by the OLCDB
+March 31, 2018
+Director, Programs Division
+Existing resources
+1.0 Evaluation Purpose
+The purpose of this evaluation was to assess the relevance and performance (effectiveness, efficiency, and economy) of the OLHCP. Since the relevance of the OLHCP was established in two previous evaluations, including most recently in 2012–2013, the primary focus of this evaluation was on performance. Furthermore, the evaluation focussed on, but was not confined to, the period from 2012–2013 to 2014–2015. Findings from the evaluation will feed into and inform the horizontal evaluation of the Roadmap for Canada's Official Languages (2013–2014 to 2017–2018), which is currently underway under the leadership of PCH.
+The evaluation was undertaken in accordance with the requirements of the Financial Administration Act and the Treasury Board Policy on Evaluation (2009).
+2.0 Program Description
+2.1 Program Context
+The OLHCP is administered by the OLCDB within Health Canada's Strategic Policy Branch. The OLCDB coordinates Health Canada's responsibilities for the advancement of English and French under Section 41 of the Official Languages Act (1988). This involves enhancing the vitality of English-speaking and French-speaking minority communities; fostering the full recognition and use of both English and French in Canadian society; and ensuring that Health Canada undertakes positive measures for the implementation of these commitments while respecting the jurisdiction of provinces and territories.
+Responsibilities of the OLCDB include:
+funding and managing the OLHCP;
+promoting and developing partnerships with official language minority communities;
+providing policy advice and guidance within Health Canada on the application of the Official Languages Act;
+coordinating the intradepartmental application of government policies for the advancement of English and French under the Official Languages Act (Health Canada Policy to Support Official Language Minority Communities, Official Languages Accountability and Coordination Framework, Treasury Board Guidelines on official languages in Treasury Board submissions);
+coordinating Health Canada's role in reporting to Parliament on enhancing the vitality of English and French minority communities; and
+supporting innovative approaches to improving access to health services for official language minority communities.
+Consistent with this mandate and responsibilities, Health Canada provides funding, through the OLHCP, to health projects focussed on improving access to quality health care for OLMCs. The Program's predecessor, the Contribution Program to Improve Access to Health, was created in 2003 in response to growing concerns that language barriers may impact access to health services for official language minorities across Canada. The OLHCP was established in 2008 as part of the Roadmap for Canada's Official Languages, with five-year funding for the period 2008–2009 to 2012–2013.
+Both the Roadmap and the OLHCP have since been renewed for another five-year cycle (2013–2014 to 2017–2018). The current Roadmap is organized according to three broad themes: education, immigration, and communities.
+2.2 Program Profile
+The OLHCP aims to foster increased access to bilingual health professionals and intake staff in OLMCs and to increase the offer of health services targeted to these communities. The Program seeks to achieve these objectives through three components:
+integrating health professionals in OLMCs;
+strengthening local health networking capacity; and
+health services access and retention projects.
+1. Integrating health professionals in OLMCs
+This component provides funding to 13 primary recipients: the National Secretariat of the CNFS and its 11 member institutions, as well as McGill University, with the overall aim of increasing the supply of bilingual health care professionals available to serve OLMCs.
+The CNFS is part of the Association des collèges et universités de la francophonie canadienne (ACUFC) and is a national grouping of 11 universities and colleges that offer programs of study in French in various health disciplines, as well as six regional partners that facilitate access to these programs. The CNFS uses OLHCP funding to oversee training and retention activities of Francophone minority communities across Canada, outside of Quebec. Educational instutions participating in the CNFS are:
+Collège Acadie — Prince Edward Island
+University of Moncton
+Centre de formation médicale du Nouveau-Brunswick
+New Brunswick Community College
+Université Sainte-Anne
+La Cité: Le Collège d'arts appliqués et de technologie
+University of Ottawa
+Laurentian University
+Collège Boréal
+Université de Saint-Boniface
+University of Alberta — Saint Jean campus
+In addition to overseeing training and retention activities, CNFS also undertakes a variety of projects and initiatives. Projects funded in the current cycle address issues such as the use of professional interpreters, the active offering of health services in the language of choice, internships in remote and rural areas, and development of a formal volunteer program for working with seniors, among others. A detailed summary is available in Appendix 4.
+McGill University uses OLHCP funding to deliver the Training and Retention of Health Professionals Project (TRHPP), the objectives of which are to ensure that English speakers in Quebec receive effective communication in their language from the health and social services professionals serving their needs, and to increase the number of English-speaking professionals working in the health and social services system.
+Footnote
+1
+The TRHPP consists of three distinct measures:
+Language Training Program. This component provides training in English for professional purposes to ensure that French-speaking health and social services personnel have opportunities to improve their ability to provide services in English to their English-speaking clients in the regions of Quebec, and training in French for professional purposes for English-speaking personnel to enable them to better integrate into the health and social services system in Quebec.
+Retention and Distance Professional and Community Support Program
+Footnote
+ii
+. Through financial incentives, this program seeks to increase the number of technicians and health care professionals able to respond to the needs of English-speaking clients, and to increase the range of services offered to English-speaking communities in Quebec. This program consists of two parts:
+an internship component, which gives financial incentives to health and social services institutions to create internship placements with the goal of increasing the number of new graduates capable of obtaining jobs in different regions of Quebec to offer services to English-speaking clients; and
+a bursary program, which provides a financial incentive to students from selected Quebec regions,
+Footnote
+iii
+who have English and French language skills and who commit to returning to or staying in one of these regions following completion of their studies to work for at least one year in a public health and social services institution, or a related organization.
+Research Development Program. This program aims to develop new research projects to overcome identified barriers to health care access for linguistic minorities, and to increase the dissemination and adoption of knowledge to address the health concerns of minority language communities.
+2. Strengthening local health networking capacity
+This component provides funding to two primary recipients, the Société Santé en français (SSF) and the Community Health and Social Services Network (CHSSN), which support the operation of 36 active local and regional health networks. The SSF provides funding to 16 networks serving Francophone minority communities outside of Quebec, while the CHSSN funds 20 networks serving English-speaking minority communities in Quebec. Within this component, both organizations aim to build capacity within their networks to improve access to health services in OLMCs. Table 1 shows the funded networks.
+Table 1 : Local and regional health networks funded by "Société Santé en français" and Community Health and Social Services Network
+SSF
+CHSSN
+Réseau santé albertain
+RésoSanté Colombie-Britannique
+Réseau Santé en français PEI
+Santé en français Manitoba
+Réseau Santé – Nova Scotia
+Réseau-action Organisation des services (New Brunswick)
+Réseau-action communautaire (New Brunswick)
+Réseau-action formation et recherche (New Brunswick)
+ReseFan — Réseau santé en français au Nunavut
+Réseau des services de santé en français de l'Est de l'Ontario
+Réseau franco-santé du Sud de l'Ontario
+Réseau du mieux-être francophone du Nord de l'Ontario
+Réseau Santé en français de la Saskatchewan
+Réseau de santé en français de Terre-Neuve-et-Labrador
+Réseau TNO Santé en français
+Partenariat communauté en santé (PCS) — Yukon
+4 Korners Family Resource Centre
+African Canadian Development and Prevention Network (ACDPN)
+The Youth and Parents AGAPE Association Inc.
+Assistance and Referral Centre (South Shore)
+Council for Anglophone Magdalen Islanders (CAMI)
+Committee for Anglophone Social Action (CASA)
+Collective Community Services Montreal (CCS)
+Coasters Association
+Connexions Resource Centre
+English Community Organization of Lanaudière (ECOL)
+Heritage Lower Saint-Lawrence
+Jeffery Hale Community Partners (JHCP)
+Megantic English-Speaking Community Development Corp. (MCDC)
+Neighbours Regional Association of Rouyn-Noranda
+North Shore Community Association (NSCA)
+REISA — East Island Network for English-Language Services
+Réseaux Emploi Entrepreneurship (REE)
+Townshippers' Association Montérégie-East
+Townshippers Association Estrie
+Vision Gaspé Percé Now
+In addition to supporting local community health networks, both SSF and CHSSN use OLHCP funding for a variety of other projects and initiatives, addressing issues such as health promotion, interpretation services, development of linguistic and cultural standards for accreditation, mental health, seniors, and children, among others. A complete summary of SSF and CHSSN projects and initiatives over the period covered by this evaluation (since 2012–2013) is provided in Appendix 4.
+3. Health services access and retention projects
+This component supports activities across a range of stakeholder organizations such as regional health authorities, community health service centres, health and social service institutions, and academic institutions in order to stimulate and promote health services in specific areas such as health promotion, access to information, labour market interventions, or in specific geographic locations. The approach used is based on proposals submitted by the organizations supported through the "Integrating health professionals in OLMCs" and "Strengthening local health networking capacity" components of the program as well as public calls for proposals from other health sector stakeholder organizations. Some of the projects are important extensions of activities supported by networks and academic institutions such as health promotion, developing knowledge and information tools for communities, and integrating health personnel within official language minorities.
+In December 2013, Health Canada launched a public call for proposals for "Health services access and retention projects." The process resulted in the successful implementation of seven stand-alone initiatives with the following organizations: l'Association canadienne-française de l'Alberta, régionale de Calgary; l'Association des facultés de médecine du Canada; Centre communautaire de Sainte-Anne; Fédération des Parents du Manitoba; la Fondation du cancer de la region d'Ottawa; Health PEI; and AMI-Québec. The call for proposals also resulted in several other initiatives which were funded through existing contribution recipients either as their own proposals or as proposals that were assigned to them by Health Canada.
+An overview of the available fundings streams and the projects funded to date is provided in Appendix 4.
+2.3 Program Narrative
+As one component of the Roadmap for Canada's Official Languages, the OLHCP's horizontal outcome is that "Canadians live and thrive in both official languages and recognize the importance of the French and English languages for national identity, development and prosperity of Canada."
+The Program seeks to contribute to this horizontal outcome through two immediate outcomes: "increased access to bilingual health professionals and intake staff in OLMCs" and "increased offer of health services for OLMCs within health institutions and communities". By funding offered through the three Program components described above, the OLHCP facilitates the production of several outputs on the part of the recipient organizations, including post-secondary health graduates; bilingual health professionals and intake staff; heath system internships, placements, and positions filled in OLMCs; and adoption of health systems knowledge, strategies, and best practices to meet the health needs of OLMCs.
+The connection between these activity areas and the expected outcomes is depicted in the logic model (see Appendix 1). The evaluation assessed the degree to which the defined outputs and outcomes were being achieved over the evaluation timeframe.
+2.4 Program Alignment and Resources
+Within Health Canada's Program Alignment Architecture, the OLHCP falls under Strategic Outcome 1: "A health system responsive to the needs of Canadians" and Program Activity 1.3: "Official Language Minority Community Development."
+Overall, the OLHCP planned to spend $104.3 million between 2012–2013 and 2014–2015 (Table2).
+Table 2. Program resources
+Year
+Gs&Cs
+O&M
+Salary & EBP
+Total
+2012–2013
+38,300,000
+878,390
+421,610
+39,600,000
+2013–2014
+27,000,000
+413,801
+236,199
+27,650,000
+2014–2015
+36,400,000
+374,711
+295,289
+37,070,000
+Total
+101,700,000
+1,666,902
+953,098
+104,320,000
+Data Source: Financial data verified by CFOB.
+3.0 Evaluation Description
+3.1 Evaluation Scope, Approach and Design
+The evaluation focussed on the period from 2012–2013 to 2014–2015, and included all three Program components. Since the relevance of the OLHCP was established in two previous evaluations, including most recently in 2012–2013, the primary focus of this evaluation was on performance. Findings from the evaluation will feed into and inform the horizontal evaluation of the Roadmap for Canada's Official Languages (2013–2014 to 2017–2018), which is currently ongoing under the leadership of PCH.
+The evaluation matrix is aligned with the Treasury Board of Canada's Policy on Evaluation (2009) and considers the five core issues under the two themes of relevance and performance. Corresponding to each of the core issues, specific questions were developed based on Program considerations, and these guided the evaluation process. The evaluation questions are detailed in Appendix 3.
+Data for the evaluation were collected using various methods, including literature review, document review, analysis of performance measurement and other administrative data, a telephone mystery shopper survey of bilingual health care facilities across Canada (n=201), and a small number of in-depth interviews with key OLHCP and other federal government representatives as well as representatives of the primary funding recipient organizations (n=12). More specific detail on data collection and analysis is provided in Appendix 3. Data were analyzed by triangulating information gathered from the different methods listed above. The use of multiple lines of evidence and triangulation were intended to increase the reliability and credibility of the evaluation findings and conclusions.
+3.2 Limitations and Mitigation Strategies
+Most evaluations face constraints that may have implications for the validity and reliability of evaluation findings and conclusions. The following table outlines the limitations encountered in this evaluation, and describes the mitigation strategies that were put in place to ensure that the evaluation findings can be used with confidence to guide Program planning and decision making.
+Table 3: Limitations and Mitigation Strategies
+Limitation
+Impact
+Mitigation Strategy
+The OLHCP does not maintain a centralized database for housing the information gathered by its performance measurement templates, and the information gathered through the templates is not regularly or systematically "rolled up" by the OLHCP. Evaluation resources were insufficient to support a thorough review of the performance measurement templates for SSF-funded organizations, CHSSN-funded organizations, and open projects to extract this information.
+As per the evaluation matrix, the discussion of OLHCP effectiveness does not reflect information contained in the SSF, CHSSN, and Open Project performance measurement templates.
+Other lines of evidence, including the key informant interviews supply relevant information on the effectiveness of these Program components.
+The number and range of key informants who participated in this evaluation is quite limited, this was planned because the evaluation was focussed.
+Evidence from the key informant interviews should not be interpreted as representing the views of OLHCP stakeholders more generally.
+Key informant evidence is used in this report in conjunction with information from other lines of evidence, to the extent that this was feasible. Key informant evidence is used in this report to explain or contextualize information from other lines of evidence.
+The sample for the mystery shopper survey of health care facilities offering primary care services in both official languages was drawn based on information collected through a 2015 inventory of health care facilities in Canada, and should not be interpreted as representative of the larger group of health care facilities. Sampling used a variety of techniques (random selection for jurisdictions with many facilities meeting the eligibility criteria, combined with a census approach for jurisdictions with only a few eligible facilities).
+Results from the survey should not be interpreted as representing the larger group of health care facilities in Canada that offer primary care services in both official languages.
+Findings from the survey are used in conjunction with other lines of evidence, including results from the 2015 inventory, to support broad observations about the offer of services in minority official languages in Canada.
+4.0 Findings
+4.1 Relevance: Issue #1 – Continued Need for the Program
+OLMCs are more likely to experience socio-economic, demographic, and other risk factors that are linked to poor health status, and language barriers as well other inter-related factors that limit access to health care services as well as quality and safety of services for OLMCs. This confirms the ongoing need for the OLHCP. The extent to which these barriers have led to differential health status among OLMCs compared to majority language communities is an area for further research.
+OLMCs in Canada
+This evaluation defines OLMCs using the definition included in the Official Languages (Communications with and Services to the Public) Regulations, which in turn draws upon the approach outlined by Statistics Canada in its 1989 publication, Population Estimates by First Official Language Spoken.
+Footnote
+2
+This approach classifies OLMCs in terms of the number of individuals living in Quebec for whom English is their first official language spoken, as well as the number of individuals living elsewhere in Canada for whom French is their first spoken official language.
+Footnote
+3
+Current practice assigns half the population of individuals for whom first official language cannot be readily determined to each language (which includes all persons who identify equally with both official languages), implying that half of this segment of the population is considered part of the OLMC in the region under consideration.
+Overall, data from the 2011 Census indicate that OLMCs comprise approximately 2.07 million people, or 6.2% of Canadians.
+Footnote
+iv
+In absolute terms, the number of people living in OLMCs increased by about 3.7% between 2006 and 2011, although it declined slightly as a proportion of the Canadian population, from 6.4% in 2006.
+Footnote
+4
+Census data show that, in 2011, Anglophone OLMCs in Quebec consisted of 1,058,250 individuals (13.5% of the provincial population), while Francophone OLMCs consisted of 1,007,580 individuals (4.3% of all Canadians living outside the province of Quebec).
+The largest population of Francophones outside Quebec is located in Ontario (542,390), accounting for 4.3% of the provincial population and 53.8% of all Francophones living in OLMCs. As a percentage of the population, however, the largest minority population of Francophones resides in New Brunswick (235,700), comprising 31.9% of that province's population and 23.4% of all members of Francophone OLMCs. Other sizable Francophone communities are found in Nova Scotia (30,330), Manitoba (41,365), Alberta (71,370), and British Columbia (62,190).
+Health status of OLMCs
+A growing literature since the last OLHCP evaluation has found that, in comparison to linguistic majorities across Canada, OLMCs are more likely to experience socio-economic, demographic, and other risk factors that are linked to poor health status. For example, several studies have shown that Francophone minorities are disadvantaged relative to the Anglophone majority in Canada with respect to socio-demographic determinants of health such as income, educational attainment, literacy, employment, and rurality.
+Footnote
+5
+Likewise, the Anglophone minority in Quebec, particularly in the eastern part of the province, is more likely than the Francophone majority to experience various socio-demographic determinants of poor health.
+Footnote
+6
+Furthermore, compared to the Anglophone majority, studies have shown that members of Francophone OLMCs are more likely to engage in behaviors known to be detrimental to health, including alcohol and tobacco consumption and low rates of leisure time physical activity. Some studies have shown that members of Francophone OLMCs are also more likely to be overweight and to perceive their health status to be poor
+Footnote
+7
+. However, one study found the opposite to be true, and that Anglophones in Quebec are actually 40% more likely to participate in daily physical activities for durations longer than 15 minutes, and 19% less likely to report being inactive compared to Quebec Francophones.
+Footnote
+8
+Consistent with findings reported in the previous evaluation, seniors living in OLMCs have been identified as a particularly vulnerable group. Earlier research had suggested that in comparison to the rest of the population, elderly Francophones in OLMCs are more likely to experience socio-economic risk factors linked to poor health, including lower levels of education, higher levels of unemployment, and residing in rural areas.
+Footnote
+9
+Similar findings have been reported in more recent studies.
+Footnote
+10
+Another significant population, OLMC immigrants (e.g., Francophone immigrants living in Ontario),
+Footnote
+11
+experience not merely linguistic barriers to care but also many of the socio-demographic determinants of poor health, as well as limited insurance coverage for pharmaceuticals, transportation challenges, and a limited understanding of the Canadian health care system.
+Footnote
+12
+Although there is evidence that OLMCs are more likely than majority language communities to experience socio-economic determinants of health and risk factors such as obesity and smoking that are linked to poor health status, fewer studies have attempted to compare the actual health status (e.g., in terms of disease prevalence or incidence) of individuals residing in minority and majority language communities. It is unclear to what extent it is possible or appropriate to generalize from those that have attempted such a comparison,
+Footnote
+13
+suggesting a need for further research in this area.
+Barriers to health care for OLMCs
+It is well-established in the literature that OLMCs in Canada experience difficulties in accessing health care services. The previous evaluation (2013) noted that these difficulties seemed to be more associated with barriers unrelated to language, such as geographic distribution of and distance from services, socio-economic factors, availability of health care services in the minority language, and availability and retention of health care professionals. However, it is probably more accurate to view these as inter-related factors which, along with language barriers, create challenges for OLMCs in accessing health care services. Furthermore, recent evidence from the literature notes that OLMCs experience language as a barrier not only to access, but also to the quality and safety of the health care services they receive. Similarly, many key informants believe that language is a barrier to the quality and safety of health care services, as well as access to services.
+Language barriers
+Growing evidence has emerged in recent years that language barriers limit the extent to which members of linguistic minorities can access needed health care services. In many cases, language barriers may require members of OLMCs to accept health care services provided in the majority official language. Depending on patient and provider proficiency in the minority official language, communication can be difficult and incomplete. This can result in distress and dissatisfaction with the encounter by both parties,
+Footnote
+14
+and may even result in a decision to delay seeking care.
+Footnote
+15
+Furthermore, evidence is emerging that language barriers affect not only access to services, but also quality of services and patient safety. Indeed, communication hampered by linguistic barriers can reduce the benefit patients derive from health care services and may even result in harm.
+Footnote
+16
+For instance, if a health care practitioner is not confident in their comprehension of the patient's health concerns (i.e., on the basis of the patient's verbal explanation of his or her concerns) it may increase the likelihood of resorting to diagnostic tests or other measures that would not otherwise have been necessary,
+Footnote
+17
+or it may increase the likelihood of errors in diagnosis and treatment.
+Footnote
+18
+Communication difficulties may also limit the extent to which patients are capable of complying with provider recommendations, which is particularly important in such areas as chronic care management or immediately following discharge from a health care institution.
+Footnote
+19
+Furthermore, language barriers appear to significantly affect the utilization and quality of communication-based health services such as mental health care and counselling.
+Footnote
+20
+The impact of language barriers seems most pronounced for seniors and recent immigrants who are members of OLMCs,
+Footnote
+21
+as they are least able to communicate in the majority language.
+Availability of health care services in the minority official language — the "active offer"
+Legislation regarding delivery of health services in the minority language varies greatly from one province to another.
+Footnote
+22
+For instance, New Brunswick's Official Languages Act gives the public the right to receive services provided by the provincial Department of Health or the regional health authorities in the official language of their choice. Provision of health services in Ontario, Quebec, and, to a lesser degree, Manitoba, is also subject to legal obligations that support individuals' rights to receive services in their preferred official language, but this is not true of the remaining provinces and territories.
+Footnote
+23
+Health care facilities in New Brunswick, Quebec, and Ontario, the three provinces with the largest concentrations of OLMCs in Canada, are most likely to indicate that they provide services in both official languages.
+Footnote
+v
+Several studies suggest a high level of unsatisfied demand for health care services delivered in the official minority language.
+Footnote
+24
+Although one study finds evidence that the demand for French services is relatively low,
+Footnote
+25
+the extent to which these services are actually offered was not assessed. According to recent studies, when access to health care services in the minority language is not proactively offered, a high proportion of OLMC members may not know where to find services in their language, or may feel more at ease communicating in the language favoured by the majority. For instance, many members of Francophone OLMCs may simply grow accustomed to using English in their interactions with health care providers, or may do so in the belief that requesting services in their mother tongue will increase their waiting time — a concern that is not necessarily unsubstantiated.
+Footnote
+26
+Indeed, the observation that few patients request services in the official minority language does not necessarily signify a lack of demand for those services. Thus, the availability of health care services delivered in the official minority language does not necessarily imply their accessibility to OLMCs.
+Footnote
+27
+Facilitating access implies both providing services and also engaging patients in ways that ensure the latter know exactly what services are available and how they can be accessed.
+Footnote
+28
+Training, recruitment, and retention of health care professionals
+Finally, recent studies suggest an ongoing shortage of health care practitioners who are bilingual or are otherwise able to serve OLMCs in the corresponding official minority language. For example, one recent study concluded that OLMC members are disadvantaged in 10 of Canada's 13 provinces and territories relative to members of the majority language community, in terms of potential access to health professionals capable of providing service in the minority language.
+Footnote
+29
+,
+Footnote
+vi
+Some researchers contend that the shortage may reflect a geographic mismatch between these health professionals and OLMC members — a point that was also made by several key informants. From this perspective, the issue relates not to the number of health professionals who can provide service in the minority official language, but to how they are dispersed within particular jurisdictions.
+Footnote
+30
+A few observers have argued that although there is a sufficient number of French-speaking physicians in Ontario to satisfy the need for health care services delivered in that language, they are largely distributed in the southern and urban areas of the province, with the result that rural and remote communities are underserved.
+Footnote
+31
+Others argue that the shortage stems from training, recruitment, and retention issues, which are especially pronounced in rural areas but which also appear present in urban centres.
+Footnote
+32
+Even when these challenges are successfully overcome, retention of health care practitioners who are bilingual or fluent in the official minority language may be difficult due to a variety of personal and professional factors such as high workload, feelings of isolation, a perceived lack of respite or support or of personal/professional boundaries, and the belief that one's talents and capabilities are not being fully exercised.
+Footnote
+33
+Some research suggests retention can be enhanced by providing documentation in the minority official language, as well as by extending opportunities for health professionals to maintain and improve their linguistic competencies — for example, by offering ongoing training in the minority official language.
+Footnote
+34
+Overall, the evidence shows that there is a continued need to address the linguistic and other related barriers that limit access to health care services for OLMCs, and that affect the quality and safety of the services they receive. Although all key informants believe that progress has been made in addressing these issues through the training, networking, capacity-building and other activities funded by the OLHCP, many noted that work in this area must be ongoing, particularly given factors such as high rates of turnover among health professionals and periodic reorganizations at the provincial level. Key informants were unanimous in agreeing on the continued need for, and relevance of, the OLHCP.
+4.2 Relevance: Issue #2 – Alignment with Government Priorities
+Support of official languages remains a priority of the federal government, as evidenced by its ongoing Roadmap for Canada's Official Languages. The activities of the OLHCP are aligned with Health Canada's strategic objectives and priorities and its mandate to enhance the vitality of OLMCs as described in the Official Languages Act.
+The evaluation found that the OLHCP remains a priority of the federal government. The OLHCP is a component of the Roadmap for Canada's Official Languages, which was renewed in 2013 for a second five-year funding cycle (2013–2014 to 2017–2018). Through the Roadmap, the federal government confirmed its ongoing commitment to "promoting Canada's linguistic duality and the development of official language minority communities".
+Footnote
+35
+Notably, the Roadmap was informed by extensive stakeholder consultations held to identify key priorities in matters of official languages. Building on the federal government's ongoing dialogue with provincial/territorial governments and the Commissioner of Official Languages, consultations with stakeholder organizations revealed a number of shared opinions regarding areas of particular concern, including access to health services in both official languages. Subsequently, of the $1.1 billion in funding for the renewed Roadmap, approximately 16% was allocated to the OLHCP.
+Footnote
+36
+Linguistic duality remains a federal priority. In the 2015 Speech from the Throne, the federal government indicated its intention to "encourage and promote the use of Canada's official languages", although it did not make specific mention of access to health services for OLMCs.
+Footnote
+37
+Similarly, the ministerial mandate letter for the Department of Canadian Heritage describes official languages as a top priority of the federal government.
+Footnote
+38
+Likewise, the OLHCP is aligned with Health Canada's strategic objectives and priorities. Within the OLCDB's larger mandate to enhance the vitality of OLMCs as described in Section 41 of the Official Languages Act, OLHCP activities include consulting with OLMCs on a regular basis, supporting and enabling the delivery of contribution programs and services for OLMCs, reporting to Parliament and Canadians on Health Canada's achievements under Section 41, and coordinating Health Canada's activities and awareness in engaging and responding to the health needs of OLMCs.
+Footnote
+39
+These activities support Health Canada's overarching goal of strengthening the "publicly-funded universal health care system and ensure that it adapts to new challenges", as well as the role of the federal government as "an essential partner in improving outcomes and quality of care for Canadians", as recently described in the Prime Minister's mandate letter to the Minister of Health.
+Footnote
+40
+4.3 Relevance: Issue #3 – Alignment with Federal Roles and Responsibilities
+The OLHCP is aligned with federal roles and responsibilities. The OLHCP is unique at the federal level in having a specific mandate to increase access to health services for OLMCs, and complements related activities at the federal and provincial/territorial levels.
+Federal roles and responsibilities
+While the provinces and territories have constitutional authority for the delivery of health care services, the federal government plays a role in improving and maintaining the health of Canadians. The federal government's authority derives from the Department of Health Act, which defines the powers, duties, and functions of the Minister as including "all matters over which Parliament has jurisdiction relating to the promotion and preservation of the health of the people of Canada not by law assigned to any other department, board or agency of the Government of Canada".
+Footnote
+41
+Beyond this, Section 41(1) of the Official Languages Act commits the federal government to "enhancing the vitality of the English and French linguistic minority communities in Canada and supporting and assisting their development".
+Footnote
+42
+Section 41 (2) further commits federal institutions to ensuring that "positive measures are taken for the implementation" of that commitment, while respecting the jurisdiction and powers of the provinces. Health Canada's OLHCP activities are consistent with these legislated requirements.
+In addition, the objectives of the OLHCP are consistent with the primary objective of Canadian health care policy as it is articulated in the Canada Health Act: "to protect, promote and restore the physical and mental well-being of residents of Canada and to facilitate reasonable access to health services without financial or other barriers".
+Footnote
+43
+This federal role is not unique to Canada: for example, the Welsh Language (Wales) Measure 2011 provides the Welsh government with the authority to generate enforceable standards to ensure the needs of Welsh-speaking residents are being met.
+Footnote
+44
+Regulations creating standards for health in Wales (NHS Wales) are expected to become law in late 2016 or early 2017, following which health care providers will have six months to come into compliance.
+Footnote
+45
+In the U.S., access to health care by people with limited English proficiency (LEP) is protected under Title VI of the 1964 Civil Rights Act, which states that people cannot be excluded from participation in federally-funded programs and activities on the basis of national origin, which has been interpreted to include the languages spoken by patients.
+Footnote
+46
+The U.S. Department of Health and Human Services' Office of Minority Health plays an important role in facilitating access by LEP patients to health care services through its administration of the National Standards for Culturally and Linguistically Appropriate Services in Health and Health Care (referred to as the National CLAS Standards), which include four standards related directly to language access services.
+Footnote
+47
+Roles and responsibilities of other stakeholders
+As noted above, the provinces and territories have constitutional authority for the delivery of health care services. While there are no explicitly recognized constitutional rights to receive health care services in both official languages, some provinces and territories have introduced legislative and policy instruments relating specifically to the provision of these services in both official languages. As already described, New Brunswick's legislation gives the public the right to receive services provided by the Department of Health or the regional health authorities in the official language of their choice; Ontario, Quebec, and Manitoba are legally obligated to offer services in the minority language in designated health care facilities; and the remaining provinces and territories have no legal obligation to offer health services in French to Francophone OLMCs.
+Footnote
+48
+By funding post-secondary and language training, recruitment and retention activities, as well as local health networking capacity, the OLHCP can be seen as complementing and supporting provincial/territorial efforts (and legal obligations, where these exist) to provide access to health care services in minority official languages.
+At the federal level, PCH's Official Language Support Programs (OLSPs) are one of the federal government's tools under the Official Languages Act. OLSPs support provincial and territorial governments in the provision of educational programs for kindergarten to grade 12 in the minority language, and also provide some support in the form of bursaries and student exchanges at the secondary and post-secondary levels. However, the OLHCP is unique at the federal level in funding post-secondary institutions and stakeholder organizations, specifically for post-secondary and language training of health care professionals and intake staff. Moreover, relative to other organizations within the federal Health portfolio, including CIHR and PHAC, Health Canada's OLHCP has a unique mandate to support an increase in access to health services for OLMCs. CIHR's mandate relates specifically to research and knowledge generation to improve the health of Canadians, while PHAC's mandate relates to health promotion; disease and injury prevention and control; and emergency preparation and response.
+Key informants agree that OLHCP activities are relevant and aligned with federal roles and responsibilities. Furthermore, key informants agree that there is no overlap or duplication, but rather complementarity among OLHCP activities and those of other stakeholders. Program representatives pointed out that all activities are designed to complement the activities of provincial, territorial and regional government agencies as well as non-governmental organizations that are designed to improve access to health care services, and that all projects must have the support of the provinces and territories in which they are being undertaken. Similarly, key informants representing the primary funding recipients indicated that they undertake their activities in a transparent fashion and with the support and collaboration of the provinces and territories — an approach that ensures complementarity rather than duplication.
+4.4 Performance: Issue #4 – Achievement of Expected Outcomes (Effectiveness)
+4.4.1 Immediate outcome #1: Increased access to bilingual health professionals and intake staff in OLMCs
+The OLHCP has contributed to increased access to bilingual health care professionals and intake staff in OLMCs by supporting post-secondary and language training activities, as well as a variety of other initiatives that are intended to improve access to, as well as quality and safety of, health care services for OLMCs.
+The evidence suggests that access to bilingual health professionals and intake staff in OLMCs has increased since the last evaluation. For example, CNFS data show that the number of French language post-secondary graduates increased by 39% between 2012–2013 and 2014–2015, the years covered by this evaluation, and by 79% over the five-year period between 2010–2011 and 2014–2015.
+Table 4. French language post-secondary training graduates
+Institution
+2010-2011
+2011-2012
+2012-2013
+2013-2014
+2014-2015
+Total over five-year period 2010-2011 to 2014-15
+Total over evaluation period 2012-2013 to 2014-15
+Collège Acadie
+6
+6
+7
+5
+9
+33
+21
+Collège Boréal
+79
+58
+82
+82
+152
+453
+316
+New Brunswick Community College
+31
+72
+68
+70
+168
+409
+306
+Collège universitaire (Université) de Saint-Boniface
+40
+44
+46
+36
+29
+195
+111
+La Cité collégiale
+121
+165
+122
+149
+190
+747
+461
+Centre de formation médicale du Nouveau-Brunswick
+8
+7
+9
+9
+9
+42
+27
+University of Alberta — St Jean Campus
+8
+18
+18
+19
+12
+75
+49
+Laurentian University
+35
+35
+42
+42
+77
+231
+161
+University of Moncton
+83
+76
+91
+117
+66
+433
+274
+University of Ottawa
+102
+100
+138
+138
+165
+643
+441
+Université Sainte-Anne
+3
+15
+15
+11
+11
+55
+37
+Total
+516
+596
+638
+678
+888
+3316
+2204
+Source: CNFS performance measurement templates.
+Graduates of French language post-secondary programs had trained in a variety of health-related academic programs and fields of study. Between 2010–2011 and 2014–2015, nursing science programs had the largest number of graduates, constituting approximately one-quarter (24%) of all graduates during this period, followed by health care aide programs (14%) and social work (13%). All other programs of study (including but not limited to occupational therapy, nutrition, dental care, gerontology, ultrasonography/radiology, physiotherapy, and medicine) were less popular, each accounting for 5% or less of all graduates over this period. Given evidence from the literature review that Francophone seniors living in OLMCs are a particularly vulnerable group, it is notable that the number of graduates in gerontology declined from a high of 50 in 2011–2012 to only nine per year in 2013–2014 and 2014–2015.
+Furthermore, there is some evidence that many of these graduates found work providing health-related services in OLMCs. Post-graduation surveys conducted by CNFS show that the proportion of respondents who were working in a health-related field six to 12 months after graduating increased from 74% to 82% between 2008–2009 and 2014–2015, and of these, more than 90% in both years were providing health-related services in OLMCs. In 2014
+–
+2015, 60% of those working in OLMCs were graduates of nursing/licenced practical nursing (38%), social work (12%), or support services/human services (10%) programs.
+Similarly, the McGill language training program has produced a considerable number of students were promoted over the past few years. Between 2009–2010 and 2012–2013, 4,929 health professionals and intake staff from 15 Quebec regions graduated from McGill University's English language courses.
+Footnote
+49
+,
+Footnote
+vii
+Of these, about 40% were promoted from beginner and intermediate level courses, respectively, while 17% were promoted from advanced courses. Most of those promoted (55%) were health professionals, while 22% worked in the social sector, 15% were intake staff, and the remainder worked in other sectors. In 2013-2014 and 2014-2015
+Footnote
+viii
+, McGill's activities were oriented towards the development and production of learning objectives, the production of educational material and the transition to a new delivery process. This explains the low number of individuals were promoted in 2013-2014 as no courses were run. The program resumed at full capacity in 2015-2016.
+In addition to the language training program, McGill's TRHPP also includes internship and bursary programs. Since 2011–2012, over 200 internships have been created in a variety of disciplines including social work, dietetics/nutrition, occupational therapy, speech therapy, physical therapy, nursing/nursing assistant, and others. Similarly, a total of 94 bursaries have been awarded to 60 students pursuing various fields of study, including occupational therapy, medicine, dental medicine, neuroscience, nutrition, psychotherapy, physical therapy, biomedical science, social service, and nursing, among others. A recent evaluation of the McGill bursary program found that, among bursary recipients who responded to a survey conducted as part of the evaluation, most of those who currently work in a targeted Quebec region have respected and also exceeded the one-year period imposed by the program, and the majority of them intend to continue working there for several years to come.
+Footnote
+50
+Key informants noted that the successful implementation of McGill's internship and bursary programs is based on strong collaboration with the local community networks funded by CHSSN, since these networks provide many of the community-based positions that are filled by interns and bursary recipients.
+It is important to emphasize that while CNFS and McGill have a formal mandate for training — and therefore may appear to contribute most directly to increasing access to bilingual health professionals and intake staff in OLMCs — SSF and CHSSN, as well as the local community networks they fund, also engage in activities that contribute to increasing the accessibility, as well as the quality and safety, of health care services for OLMCs. Some examples of their activities during the period covered by this evaluation (i.e., since 2012–2013) are highlighted below.
+Footnote
+ix
+Linguistic standards. Following on the 2011 completion of an SSF-funded study that examined existing approaches to linguistic and cultural standards in the US and Canada, SSF, CHSSN, Accreditation Canada, and Quebec's Ministère de la Santé et des Services sociaux (MSSS) are partnering to develop a measurement tool for language competency in the accreditation of health and social services facilities across Canada. Ultimately, it is hoped that application of the tool will become part of the official accreditation process for health facilities across Canada, and data on achievement of the new standards will constitute a reliable source of information for measuring improvement in the accessibility of health services in minority official languages. In addition to working on the development of similar standards for Quebec's accreditation system in partnership with the MSSS, CHSSN is developing guidelines on information that Quebec's administrative health regions should consider when developing access plans (as legally required), detailing services available in English and the process for enabling access to them, if they are not provided. This aligns with the work done in other countries.
+Seniors. Recognizing that seniors are one of the populations most affected by linguistic barriers to access, SSF and its local community networks, along with the Fédération des aînées et aînés francophones du Canada and the Canadian Nurses Association, are partnering to improve access to French language health services for seniors in primary health care, hospital care, home care, and long-term care. In addition, two pilot projects were undertaken by SSF in partnership with local networks in PEI and Manitoba. In PEI, the project resulted in the opening of a bilingual wing in the long-term care facility in Summerside. In Manitoba, an action plan and implementation guide for the provision of bilingual services, targeting managers of long-term care facilities, were developed; both products are expected to facilitate implementation of similar projects in other communities and industries.
+Mental health. SSF and the MHCC are adapting MHCC's Mental Health First Aid trainers program for French linguistic minority communities. This program is designed to teach people how to recognize the signs and symptoms of mental health problems, provide initial help, and guide a person toward appropriate professional help.
+Footnote
+51
+It is expected that nearly 600 Francophones in minority communities will be trained to deliver this program. In addition, SSF and Tel-Aide Outaouais are partnering to expand the availability of a mental health crisis help line for French-speaking individuals beyond the current Eastern Ontario model.
+Health promotion. Both SSF and CHSSN support a variety of health promotion initiatives. SSF provides funding to the local networks for projects that aim to improve the health of French linguistic minority communities through a range of health promotion activities that target health determinants and community engagement. For example, the SSF's Healthy Schools initiative has become known throughout Canada due to the work of the local networks. By 2018, it is expected that most provinces and territories will have at least one Healthy Schools initiative. CHSSN supports its 20 networks to promote healthy lifestyles and practices in their communities through activities such as Community Health Education Program (CHEP) videoconferencing sessions, which are deployed simultaneously to community meetings in participating networks to enable community-based learning, information exchange, and discussion on specific health issues, as well as a through a variety of other activities.
+Interpretation services. Both SSF and CHSSN are undertaking projects related to interpretation services. SSF is partnering with its local networks and L'Accueil francophone de Thunder Bay to implement pilot projects in Northern Ontario, Saskatchewan, Newfoundland and Labrador, the Yukon, and the Northwest Territories to assess the use and effectiveness of health interpreters in accessing services in regions where French-speaking providers are scarce. CHSSN is conducting an in-depth analysis of the use of interpreters in the health system in Quebec, with the aim of providing the MSSS with recommendations to improve current health system procedures.
+Overall, the OLHCP has contributed to increased access to bilingual health care professionals and intake staff in OLMCs during the period covered by the evaluation. The Program has contributed to an increase in post-secondary and language training graduates and there is evidence that some of them are working in the health care field in OLMCs. Furthermore, initiatives that are intended to improve access to, as well as quality and safety of, health care services for OLMCs have been undertaken by the OLHCP's primary and secondary beneficiaries.
+4.4.2 Immediate outcome #2: Increased offer of health services for OLMCs within health institutions and communities
+In Canada, health services in the minority official language are offered in a minority of communities and health facilities, but with considerable variation across jurisdictions. Facilities in New Brunswick, Quebec and Ontario — the provinces with the largest OLMC populations — are most likely to offer these services.
+Time series data are not available to support conclusions on the extent to which the offer of health services for OLMCs within health institutions and communities may have increased during the period covered by this evaluation. The 2015 study conducted for the Canadian Institute for Research on Linguistic Minorities (CIRLM) provides benchmark data regarding bilingual services in Canadian health care facilities.
+Footnote
+52
+For the purpose of the study, a facility was designated as "bilingual" if services were offered in both official languages or if interperation services in the minority language were provided.
+Communities with bilingual or minority language services
+The CIRLM benchmark study showed that as of May 2015, there were 2,155 communities across Canada where health services were available. Bilingual or minority language health services were available in 22% (n= 467) of these communities.
+Of the communities where bilingual or minority language services were available, a large majority (87%) were located in Ontario, Quebec, and New Brunswick, the provinces with the largest concentration of OLMCs. All of the communities in New Brunswick offered health care services in both official languages or in the minority language, as did 35% of communities in Ontario and 25% of those in Quebec. Elsewhere, bilingual or minority language health services were available in a relatively small proportion of communities, with the exception of the Northwest Territories, where three of nine communities offered bilingual or minority language services.
+Table 5. Communities where bilingual services are available, by jurisdiction, May 2015
+Footnote
+53
+Province/territory
+# of communities where health services are available
+Communities where bilingual or minority language health services are available
+#
+%
+New Brunswick
+64
+64
+100%
+Ontario
+671
+233
+35%
+Northwest Territories
+9
+3
+33%
+Quebec
+440
+110
+25%
+Manitoba
+155
+21
+14%
+Prince Edward Island
+14
+2
+14%
+Nova Scotia
+80
+9
+11%
+Yukon
+16
+1
+6%
+British Columbia
+200
+9
+5%
+Alberta
+156
+7
+5%
+Saskatchewan
+213
+7
+3%
+Newfoundland and Labrador
+111
+1
+1%
+Nunavut
+26
+-
+-
+Total
+2,155
+467
+22%
+Facilities with bilingual or minority language services
+The study also examined the number of health facilities in each province and territory offering services in both official languages or in the minority language. The study identified 7,652 health care facilities across Canada, of which 16% (n=1,256) offered services in both official languages or in the minority language. All of the health care facilities in New Brunswick offered bilingual services, compared with just over one-fifth (22%) of facilities in Ontario, 17% in the Northwest Territories, 16% in Quebec, and 14% in Prince Edward Island. About one in 10 health care facilities in Manitoba (11%), Yukon (10%), and Nova Scotia (8%) provided bilingual services, and in the remaining provinces and territories, the proportion of health facilities offering services in both official languages was 2% or fewer.
+Table 6. Health facilities where bilingual services are available, by jurisdiction, May 2015
+Footnote
+54
+Province/territory
+# of facilities
+Facilities offering bilingual or minority language services
+#
+Table 6 footnote
+a
+%
+New Brunswick
+146
+146
+100%
+Ontario
+3,635
+811
+22%
+Northwest Territories
+23
+4
+17%
+Quebec
+1,275
+206
+16%
+Prince Edward Island
+35
+5
+14%
+Manitoba
+369
+39
+11%
+Yukon
+21
+2
+10%
+Nova Scotia
+143
+11
+8%
+Saskatchewan
+420
+7
+2%
+Alberta
+472
+11
+2%
+British Columbia
+894
+12
+1%
+Newfoundland and Labrador
+179
+2
+1%
+Nunavut
+40
+-
+0%
+Total
+7,652
+1,256
+16%
+Table 6 footnote a
+Note: While most facilities identified in this column were identified as providing bilingual services, some facilities in Ontario, for example, were identified as providing services in French only.
+Return to Table 6 footnote
+a
+referrer
+It should be noted, however, that the study captured which facilities "claim" to provide services in both official languages and did not assess the extent to which bilingual services are actually being provided. This evaluation attempted to address this gap by conducting a mystery shopper survey of a sample of the health care facilities that claimed to offer bilingual services, in order to determine the extent to which they are providing these services. The survey, which focussed specifically on facilities providing primary care services, reached a total of 201 facilities, of which 75% (n=151) were located outside of Quebec and 25% (n=50) were located in Quebec.
+Footnote
+x
+Results from the survey show:
+Sixty-one percent (n=122) of facilities had an automated answering service. Overall, for just over half of the facilities with such a service, the automated message was bilingual. This was true in Quebec (53%) and Ontario (55%). In all other provinces/territories except New Brunswick (which were analyzed as a group due to small sample size), just under half of facilities with such a service had a bilingual automated message (47%, n=8). In New Brunswick, all of the six facilities with an automated answering service had a bilingual message.
+At 21% of facilities (n=43), the receptionist answered the telephone in both English and French. This proportion was highest in New Brunswick (50%), followed by Ontario (21%) and all other provinces/territories (19%). In Quebec, the receptionist answered the telephone in both languages at 6% of facilities. In addition, except for in Quebec, a small percentage answered the telephone in the minority language (i.e., French). These proportions were 37% in New Brunswick, 19% in all other provinces/territories except Quebec, and 5% in Ontario, as well as 0% in Quebec.
+Seventy-seven percent of the facilities reached by the survey (n=155) indicated that they provide services in the minority official language, including 75% of those located outside Quebec (n=113) that offer services in French, as well as 84% of those located in Quebec (n=42) that offer services in English. Outside Quebec, the proportion offering services in French was variable by jurisdiction: 87% (n=26) in New Brunswick, 75% (n=71) in Ontario, and 62% (n=16) in all other provinces/territories.
+Among the 155 facilities that indicated offering services in the minority official language, the most common services were nurse/nurse practitioners (86%), general practitioners or family doctors (63%), intake services (49%), counselling or mental health services (21%), and social workers (14%). Less commonly available services were nutritionist/dietitian, physiotherapist, and psychologist. This pattern was true in Quebec, Ontario, New Brunswick, and all other provinces/territories.
+Overall, Quebec and New Brunswick were most likely to report that they offer services in the minority official language, and, despite some differences across jurisdictions, these provinces were also most likely to offer specific primary care services, including nurses/nurse practitioners and general practitioners, in the minority official language.
+Detailed results from the mystery shopper survey can be found in Appendix 4.
+Table 7. Services offered in minority official language, April 2016
+Services offered in minority official language
+Overall (n=155)
+Quebec (n=42)
+Ontario (n=71)
+New Brunswick (n=26)
+All other provinces (n=16)
+Nurse/nurse practitioner
+86%
+91%
+78%
+100%
+84%
+General practitioner/family doctor
+63%
+74%
+56%
+73%
+58%
+Intake services
+49%
+79%
+24%
+65%
+38%
+Counselling/mental health services
+21%
+41%
+13%
+15%
+13%
+Social worker
+14%
+17%
+14%
+15%
+12%
+Nutritionist/dietitian
+7%
+2%
+11%
+4%
+9%
+Physiotherapist
+3%
+-
+4%
+8%
+4%
+Psychologist
+2%
+7%
+-
+-
+-
+Services provided through interpreters
+3%
+-
+-
+-
+4%
+Other services
+9%
+10%
+4%
+4%
+9%
+Source : Mystery shopper survey of health care facilities.
+Column totals do not sum to 100% due to multiple responses.
+The mystery shopper survey results support the conclusion that even if facilities claim to make services available in the minority official language, they do not necessarily offer these services in practice. Indeed, as described above, of the more than 200 facilities surveyed that were identified in the 2015 benchmark study as claiming to offer bilingual services or services in the minority official language, just over three-quarters (78%) indicated actually providing such services when contacted for the survey. Perhaps not surprisingly, two of the provinces with the largest OLMCs — New Brunswick and Quebec — are also most likely to offer these services: 87% of facilities in New Brunswick and 84% of those in Quebec reported offering services in the minority official language. On the other hand, in Ontario, which also has a sizeable OLMC community, only 75% of facilities reported offering such services.
+4.4.3 Overall impact of the OLHCP
+The OLHCP is perceived as having contributed to a revitalization and empowerment of OLMCs in Canada, and to a growing awareness among stakeholders outside of OLMCs of issues related to the accessibility, quality, and safety of health care services for these communities.
+Key informants identified several key impacts that the OLHCP has had on its target audiences:
+Outside Quebec, Francophone health professionals and intake staff as well as those who aspire to work in the health care field have come to realize that they can train and deliver health care services in their language in their own communities. In Quebec, Francophone health professionals have a greater appreciation of the need to deliver health care services in English to the English-speaking minority community in Quebec.
+OLMCs, through participating in the activities of their respective community health networks and other OLHCP-funded projects, have been revitalized and empowered around health and social services issues, and some key informants reported that the work that has been done in the domain of health has supported developments in other areas, such as youth, seniors, and families. For example, some community health networks have undertaken initiatives designed to strengthen and support families before they are in crisis through parent-led support groups and other prevention initiatives.
+Issues related to the accessibility, quality, and safety of health care services for OLMCs have been more clearly articulated over the past few years, and as a result, a growing number and diversity of stakeholders beyond OLMC communities themselves have become aware of these issues and involved in actions to address them. For example, provincial/territorial officials and health system administrators have become more engaged in initiatives to improve the accessibility, quality, and safety of health care services for OLMCs. Similarly, other external stakeholders whose mandate is not specifically focussed on OLMCs, such as Accreditation Canada, the MHCC, and the Canadian Institute for Health Information (CIHI), have partnered with the primary funding recipients on specific projects. Some key informants referred to this growing awareness and recognition — and subsequent action — as an important cultural change that has occurred in Canada, due in large part to OLHCP-funded activities.
+4.5 Performance: Issue #5 – Demonstration of Economy and Efficiency
+The OLHCP has operated in an economical and efficient manner over the years covered by this evaluation.
+While the OLHCP has revised and streamlined its approach to performance measurement since the last evaluation, the current approach presents challenges for reporting at both the recipient and Program levels, and may not fully capture Program impacts.
+Observations on economy
+Internal expenditures
+Table 8 compares planned funds against actual expenditures for the three years (2012–2013 through 2014–2015). Over this period 97% of the planned funding was expended.
+Table 8. Variance between planned and actual expenditures, Official Languages Health Contribution Program ($)
+Year
+Planned
+Expenditures
+Variance
+% planned budget spent
+Gs&Cs
+O&M
+Salary + EBP
+TOTAL
+Gs&Cs
+O&M
+Salary + EBP
+TOTAL
+2012-2013
+38,300,000
+878,390
+421,610
+39,600,000
+38,300,000
+878,390
+421,610
+39,600,000
+0
+1.00
+2013-2014
+27,000,000
+413,801
+236,199
+27,650,000
+24,861,552
+413,801
+236,199
+25,511,552
+2,138,448
+0.92
+2014-2015
+36,400,000
+374,711
+295,289
+37,070,000
+35,835,074
+374,711
+295,289
+36,505,074
+564,926
+0.98
+TOTAL
+101,700,000
+1,666,902
+953,098
+104,320,000
+98,996,626
+1,666,902
+953,098
+101,616,626
+2,703,374
+0.97
+Data Source: Financial data verified by CFOB.
+Generally, there is little variance between planned spending and expenditures, with the exception of 2013-2014 when variance exceeded $2 million. In 2013-2014, variance was due to a delay in program renewal for the McGill component.
+Overall, the administrative costs associated with the OLHCP are low. As a proportion of the total Program spending, administrative costs declined over the period from 2012–2013 through 2014–2015, from 3.3% in the first year to 1.8% in the latter year. Overall, administrative costs represent 2.6% of the total Program spending over the three-year period.
+Table 9. Administrative costs ($)
+2012-2013
+2013-2014
+2014-2015
+Total
+Program Expenditures
+39,600,000
+25,511,551
+36,505,073
+101,616,624
+G&C Expenditures
+38,300,000
+24,861,551
+35,835,073
+98,996,624
+Administration Expenditures
+1,300,000
+650,000
+$70,000
+2,620,000
+Administrative costs as % of total
+3.3%
+2.5%
+1.8%
+2.6%
+Data Source: Financial data verified by CFOB.
+According to Program representatives, funds were first allocated to administration beginning in 2008. Prior to that, 100% of Action Plan funds were allocated to funding recipients. Program key informants also noted that although 14 full-time equivalents (FTEs) were estimated as required to support Program administration in 2008, the OLHCP has never had this level of administrative support. In the most recent fiscal year (2015–2016), the OLCDB had a staff complement of 11 indeterminate positions, of which seven FTEs were devoted to activities relating to the management of the OLHCP, including Program management and performance measurement. The remaining four FTEs carry out a variety of activities including: policy advice, corporate accountability, consultations with OLMCs, research and analysis. Program representatives noted that funding has remained stable even though costs have increased.
+Program representatives reported that a number of steps have been taken within this context to minimize the cost of inputs, thereby enhancing economy. For example, the OLHCP has added a clause to its contribution agreements with primary beneficiaries to cap executive salaries to ensure that they remain in line with the average salary in their sector. Program representatives also take steps to minimize travel costs by incorporating meetings with multiple recipients in a given region within a single trip, and visiting funding recipients when they have other scheduled meetings. Finally, the OLHCP encourages funding recipients to consider online delivery of training, virtual meetings, and sharing of materials developed in part with Program funding.
+Key informants representing the primary funding recipients also identified measures taken by their organizations to enhance economy. For example, McGill has attempted to lower costs by encouraging a paperless environment; simplifying its processes in order to improve efficiencies; and using a contractor as necessary to support the two to three FTEs that administer the Program. CNFS reported that its participating educational institutions share course material and/or offer courses jointly, with only one institution in charge of administration; the fact that the federal government can collaborate with CNFS institutions through the Consortium's National Secretariat rather than with each institution individually, was also identified as a cost-minimizing measure.
+Footnote
+xi
+SSF has implemented an improved management process over the last three years, involving a smaller executive, and has implemented some cost sharing across its networks — for example, for certain communication products. CHSSN has reduced the number of in-person board meetings and has capped the number of people who can attend its knowledge retreats.
+Observations on efficiency
+The evidence indicates that steps have been taken to manage the available OLHCP resources effectively to facilitate the production of planned products and services. Program key informants noted that in November 2013 when the OLHCP funding was renewed, although funding did not increase, it did become ongoing funding which was important because a portion of the funding was scheduled to sunset. Program key informants noted that this change gave Health Canada much greater predictability with respect to funding, which has facilitated resource allocation and Program planning.
+With respect to the training component of the OLHCP, CNFS representatives indicated that the existence of the consortium means that 11 universities and colleges are working collaboratively, allowing them to offer more, and more varied, programming than would otherwise exist. McGill has changed the way that it delivers language training over the period covered by the evaluation. Previously this training was delivered through regional agencies, which key informants reported made it difficult to measure and roll up results, but given the size of the investment and the need for quality assurance, McGill decided to centralize the delivery of training in its department of continuing education. Accordingly, standardized courses have been developed that are offered either online or in a classroom format. McGill representatives indicated that although associated costs have increased, these changes are expected to yield a significant return on investment over the longer term.
+With respect to the networking component of the OLHCP, CHSSN reported that it has been able to expand its work with communities during a time when there was no increase in funding by reallocating some of its resources. In particular, the number of local community networks participating in CHSSN grew from 18 to 20 between 2009 and 2016. It was noted that although the networks themselves have limited funding ($60,000 to $90,000 each per year) and are spread out thinly across the OLMC landscape, they have nevertheless undertaken a diverse range of activities due in large part to partnerships with established community organizations. It was also noted that by providing the local networks with the tools they need to undertake their activities, CHSSN's role as a support organization is critical. The local networks are seen by key informants as a driving force behind the progress that has been made to date through the OLHCP. In particular, their connection to and groundedness in OLMCs enables them to understand and respond effectively to community needs in a way that it was suggested might not be possible through the public (provincial) system.
+SSF has changed its approach to programming as a result of developing a strategic plan that includes identifying specific priority areas for action. Whereas prior to the current five-year funding period, the organization managed in excess of 70 projects, it has now focussed its resources on a smaller number of projects in the identified priority areas that it hopes will have a more significant impact and a "leveraging effect," for example, joint projects between local networks and their respective provincial/territorial governments.
+Key informants noted that the close collaboration and partnerships between CNFS and SSF and between CHSSN and McGill, as well as collaboration with partners that are not funded by the OLHCP, also produces considerable efficiencies and is a critical success factor for their respective activities.
+While key informants believe that activities are appropriate to achieve the expected outcomes and that resources are generally sufficient to support specific planned activities, it was noted that these activities are not necessarily comprehensive. For example, creation of a pharmacy program outside of Quebec to increase the number of Francophone pharmacists was originally proposed in 2013 but has not been funded to date.
+Observations on the adequacy and use of performance measurement data
+In 2013, the OLHCP performance measurement strategy and logic model were revised, in response to Treasury Board requirements. Relative to the 2008–2013 version, the logic model was significantly streamlined. In particular, the immediate outcomes were reduced in number from five to two and focussed on access to bilingual health professionals and intake staff and offering health services for OLMCs. In addition, in 2014 the OLHCP revised its annual recipient performance reporting templates for CNFS, McGill, SSF-funded organizations, CHSSN-funded organizations, and projects funded through the health services access and retention component. Program representatives indicated that work was done to refine the indicators and improve the capacity of the communities to collect performance information.
+Review of the performance reporting templates indicates that these are being completed on an annual basis by the funding recipients, as required by the OLHCP. As currently structured, the templates require funding recipients to enter a large volume of detailed qualitative and quantitative information into a series of Excel worksheets. Based on the completed templates, it is challenging to obtain a clear understanding of the activities undertaken by recipients and the results achieved. Furthermore, the templates do not provide a comprehensive picture of what has been accomplished with OLHCP funding, particularly through the networking component, for which measures such as the number of bilingual health professionals and intake staff may not be the most relevant indicators of success. While the existing performance templates appear to work well for CNFS and McGill, this may be because their activities are more easily quantifiable. Accordingly, some key informants suggested that it may be time to revisit the approach to performance reporting.
+Program representatives confirmed that there is currently no centralized database for housing the information gathered by the performance reporting templates, nor is the information gathered through the templates regularly or systematically "rolled up" by the OLHCP. Undertaking such summary reporting would be a fairly laborious task for Program staff, given the nature of the current performance reporting templates.
+Given the government-wide and portfolio-wide efforts on performance measurement, observations related to the current performance measurement contained in this evaluation should be considered in the context of this work.
+Observations on governance
+There does not appear to be a formal structure or mechanism in place for collaboration within the federal Health Portfolio on issues related to health care for OLMCs, and key informants differed on the extent to which such collaboration currently takes place.
+Program representatives believe that the OLCDB within Health Canada is currently the best vehicle for delivering the OLHCP. However, external key informants suggested that the OLCDB should be a cross-ministry agency rather than the responsibility of one department. It was also suggested that a committee of senior executives from Health Canada, PHAC, and CIHR should be established for OLMC issues related to health.
+5.0 Conclusions
+Relevance
+Continued Need
+This evaluation confirms an ongoing need for the OLHCP. A number of studies conducted since the last evaluation found that OLMCs are more likely to experience socio-economic, demographic, and other risk factors that are linked to poor health status, and that language barriers limit OLMC access to health care services, particularly in the context of communication-based health services (e.g., mental health care and counselling); OLMC seniors and immigrants remain particularly vulnerable groups.
+Furthermore, there is evidence that language barriers comingle with a variety of other inter-related factors, including geographic distribution of and distance from services, socio-economic factors, availability of health care services delivered proactively in the minority language, and availability and retention of health care professionals, which together limit access to health care services as well as quality and safety of services for OLMCs.
+Alignment with Government Priorities
+Support of official languages remains a priority of the federal government, as evidenced by its ongoing inclusion in the Roadmap for Canada's Official Languages. More recently, the federal government declared its ongoing support of official languages in the 2015 Speech from the Throne and the Prime Minister's ministerial mandate letter to the Department of Canadian Heritage. Furthermore, the activities of the OLHCP are aligned with Health Canada's strategic objectives and priorities and its mandate to enhance the vitality of OLMCs as described in Section 41 of the Official Languages Act.
+Alignment with Federal Roles and Responsibilities
+The OLHCP is aligned with federal roles and responsibilities, as described in the Department of Health Act, the Official Languages Act, and the Canada Health Act. Furthermore, the OLHCP is unique at the federal level in having a specific mandate to increase access to health services for OLMCs, and complements related activities at the federal and provincial/territorial levels.
+Performance
+Achievement of Expected Outcomes (Effectiveness)
+The evaluation found that the OLHCP has contributed to improving access to health services in the language of the minority in OLMCs. This conclusion is based on two criteria. First, evidence shows an increase in the number of bilingual graduates from the CNFS (a 79% increase between 2010-2011 and 2014-2015). Similarly, 4,929 health professionals and intake staff have graduated from McGill University's English language courses between 2009-2010 and 2012-2013. Second, the evaluation found that an increasing number of CNFS graduates go on to work in a health-related service in an OLMC. Post-graduation surveys conducted 6 to 12 months after graduation revealed that the proportion of CNFS graduates working in a health-related service has increased from 74% to 82% between 2008-2009 and 2014-2015; of these, more than 90% were providing health-related services in OLMCs. Furthermore, a recent evaluation of the McGill bursary program found that most bursary recipients surveyed who currently work in a targeted Quebec region have respected and also exceeded the one-year period imposed by the program, and that the majority of them intend to continue working there for several years to come.
+In addition to the post-secondary and language training components, a wide range of initiatives that are intended to improve access to, as well as quality and safety of, health care services for OLMCs have been undertaken by the OLHCP's primary and secondary beneficiaries. Examples include work on developing linguistic standards for use in a Canadian health care context; adaptation of the MHCC's Mental Health First Aid trainers program for French linguistic minority communities; and projects in the areas of health promotion, interpretation services, and improved access to health care for seniors.
+While the above-mentioned studies demonstrated an increase in the availability of bilingual health services professionals in OLMCs, other data sources show that, overall, health services in the minority official language are offered in a minority of Canadian communities (22%) and health facilities, albeit with considerable variation across jurisdictions. Facilities in New Brunswick and Quebec — two of the provinces with the largest OLMC populations — are most likely to offer these services. Additional research would however be needed to strengthen this assessment of the Program's effectiveness. Specifically, more extensive research is needed on whether facilities that claim to provide bilingual health services offer such services in practice. Furthermore, time series data are not available to assess the extent to which the offer of health services for OLMCs may have increased during the period covered by this evaluation. Finally, limited research exists on the extent to which OLMC members actually access health services in their preferred language, whether this varies by region and health occupation, and the extent to which they are satisfied with such access.
+Beyond its formal expected outcomes, the OLHCP is perceived as having contributed to a revitalization and empowerment of OLMCs in Canada, and to a growing awareness among stakeholders outside of OLMCs of issues related to the accessibility, quality, and safety of health care services for these communities. There remains, however, limited evidence on the contribution of the program to improved health status of OLMC members. While there are numerous studies linking OLMCs to greater socio-economic risk factors that are linked to poor health status, few studies have attempted to compare actual health status of individuals living in minority and majority language communities. Further research in this area could enhance the OLHCP's understanding of the needs of OLMCs, guide the Program in maximizing its potential benefits, and inform future programming decisions.
+Demonstration of Economy and Efficiency
+The OLHCP has operated in an economical and efficient manner over the years covered by this evaluation. The OLHCP expended the large majority of planned funding between 2012–2013 and 2014–2015, with unspent funding associated primarily with the McGill component. Administrative costs are relatively low, representing 2.6% of the total Program allocation over the five-year funding cycle, and Program representatives as well as primary funding recipients identified numerous measures they have taken to minimize costs and manage available resources effectively to facilitate the production of planned products and services; some activities have expanded despite stable funding. While key informants believe that activities are appropriate to achieve the expected outcomes and that resources are generally sufficient to support specific planned activities, it was noted that these activities are not necessarily comprehensive.
+Since the last evaluation, the OLHCP has revised and streamlined its performance measurement strategy, logic model, and annual recipient performance reporting templates. However, the current approach presents challenges for reporting at both the recipient and Program levels, and may not fully capture Program impacts, particularly those relating to the networking component. There was some support among key informants for revisiting the approach to performance measurement and reporting to address these issues.
+Given the government-wide and portfolio-wide efforts on performance measurement, observations related to the current performance measurement contained in this evaluation should be considered in the context of this work.
+While program representatives generally agreed that the OLCDB is an appropriate vehicle for delivering the OLHCP, there does not appear to be a formal structure or mechanism in place for collaboration within the federal Health Portfolio (Health Canada, PHAC and CIHR) on issues related to health care for OLMCs, and key informants differed on the extent to which such collaboration currently takes place.
+6.0 Recommendation
+Recommendation 1
+The OLCDP should pursue opportunities to improve the quality and availability of information on the extent to which health services are available and actively offered in the preferred language of OLMC members, on the extent to which these members access these services, and on their level of satisfaction with such access.
+While information exists on the number of health facilities across Canada that claim to provide bilingual health services, more extensive research would be needed to systematically assess whether these facilities offer such services in practice. Furthermore, time series data are not available to assess the extent to which the offer of health services for OLMCs may have increased during the period covered by this evaluation. Finally, limited research exists on the extent to which OLMC members actually access health services in their preferred language, whether this varies by region and health occupation, and the extent to which they are satisfied with the access. Such research would strengthen the Program's ability to measure and report on its effectiveness.
+Appendix 1 – Logic Model
+Figure 1. Logic Model
+Figure 1: Logic Model - Text Description
+According to the program logic model, the Official Languages Health Contribution Program has four activity areas: program management, strategic planning and performance measurement; integrating health professionals for OLMCs; strengthening local health networking capacity; and health services access and retention projects. These activities are expected to produce the following outputs: policy, planning and performance documents and funding agreements.  The Health Canada program activities and outputs lead to these funding recipient activities: recruitment of post-secondary health students and of professionals and intake staff from OLMCs; training of health students, health professionals and health systems intake staff from OLMCs; mobilization of provincial/territorial/regional health authorities/facilities regarding OLMC health needs; and develop health systems knowledge and tools in the minority official language. These recipient activities are expected to produce the following recipient outputs: postsecondary health graduates; bilingual health professionals and intake staff; health system internships, placements and positions filled in OLMCs; and adoption of health systems knowledge, strategies and best practices to meet the health needs of OLMCs. These activities should lead to the following immediate: increased access to bilingual health professionals and intake staff in OLMCs and increased offer of health services for OLMCs within health institutions and communities. These outcomes will feed into this horizontal outcome: Canadians live and thrive in both official languages and recognize the importance of the French and English languages for national identity, development and prosperity of Canada.
+Appendix 2 – Summary of Findings
+Rating of Findings
+Ratings have been provided to indicate the degree to which each evaluation issue and question have been addressed.
+Relevance Rating Symbols and Significance:
+A summary of Relevance ratings is presented in Table 1 below. A description of the Relevance Ratings Symbols and Significance can be found in the Legend.
+Table 1. Relevance Rating Symbols and Significance
+Evaluation Issue
+Indicators
+Overall Rating
+Summary
+Continued need for the program
+To what extent was language a barrier in accessing health services for OLMCs? To what extent does language remain a barrier to accessing health services for OLMCs?
+Extent to which language was a barrier in accessing health services for OLMCs at the time of the previous evaluation
+Views on/evidence of extent to which language is currently a barrier to accessing health services for OLMCs
+High
+This evaluation confirms an ongoing need for the OLHCP. OLMCs are more likely to experience socio-economic, demographic, and other risk factors that are linked to poor health status, and that language barriers limit OLMC access to health care services, particularly in the context of communication-based health services, as well as for vulnerable groups such as seniors and recent immigrants. Furthermore, language barriers comingle with a variety of other inter-related factors, including geographic distribution of and distance from services, socio-economic factors, availability of health care services delivered proactively in the minority language, and availability and retention of health care professionals, which together limit access to health care services as well as quality and safety of services for OLMCs. However, to date, relatively few studies have attempted to compare the actual health status (e.g., in terms of disease prevalence or incidence) of individuals residing in minority and majority language communities, suggesting a need for further research in this area.
+Alignment with Federal Roles and Responsibilities
+How does the OLHCP align with federal roles and responsibilities? Do stakeholders see the Program's activities under each component as relevant and aligned with federal roles and responsibilities?
+Degree of alignment between Program activities/objectives with federal jurisdiction
+Degree of alignment between Program activities/objectives and Health Canada's jurisdictional, legislated, and/or mandated role
+Views on extent to which Program activities under each component are relevant and aligned with federal roles and responsibilities
+High
+The OLHCP is aligned with federal roles and responsibilities, as described in the Department of Health Act, the Official Languages Act, and the Canada Health Act. Key informants agree that OLHCP activities are relevant and aligned with federal roles and responsibilities.
+[PCH common theme] What are the roles and responsibilities of other stakeholders in the OLHCP, and how do their activities support the objectives of the Program?
+To what extent does the OLHCP duplicate, overlap with, and complement the roles and responsibilities of other stakeholders with respect to increasing access to health services for OLMCs?
+Description of/views on roles and responsibilities of other stakeholders in the OLHCP
+Views on extent to which activities of other stakeholders support Program objectives
+Evidence of duplication, overlap, and complementarity between OLHCP and other stakeholder roles and responsibilities
+Views on extent of duplication, overlap, and complementarity between OLHCP and other stakeholder roles and responsibilities
+High
+The OLHCP is unique at the federal level in having a specific mandate to increase access to health services for OLMCs, and complements related activities at the federal and provincial/territorial levels.
+Alignment with Government Priorities
+To what extent is the OLHCP a priority of the federal government?
+Degree of alignment between Program objectives and recent/current federal priorities
+High
+Support of official languages remains a priority of the federal government, as evidenced by its ongoing inclusion in the Roadmap for Canada's Official Languages. More recently, the federal government declared its ongoing support of official languages in the 2015 Speech from the Throne and the Prime Minister's ministerial mandate letter to the Department of Canadian Heritage.
+To what extent do the objectives of the OLHCP align with Health Canada's strategic priorities and outcomes?
+Degree of alignment between Program objectives and Health Canada's strategic priorities and outcomes
+High
+The activities of the OLHCP are aligned with Health Canada's strategic objectives and priorities and its mandate to enhance the vitality of OLMCs as described in Section 41 of the Official Languages Act.
+Legend - Relevance Rating Symbols and Significance:
+High:
+There is a demonstrable need for program activities; there is a demonstrated link between program objectives and (i) federal government priorities and (ii) departmental strategic outcomes; role and responsibilities for the federal government in delivering the program are clear.
+Partial:
+There is a partial need for program activities; there is some direct or indirect link between program objectives and (i) federal government priorities and (ii) departmental strategic outcomes; role and responsibilities for the federal government in delivering the program are partially clear.
+Low:
+There is no demonstrable need for program activities; there is no clear link between program objectives and (i) federal government priorities and (ii) departmental strategic outcomes; role and responsibilities for the federal government in delivering the program have not clearly been articulated.
+Performance Rating Symbols and Significance:
+A summary of Performance Ratings is presented in Table 2 below. A description of the Performance Ratings Symbols and Significance can be found in the Legend.
+Table 2. Performance Rating Symbols and Significance
+Issues
+Indicators
+Overall Rating
+Summary
+Achievement of Expected Outcomes (Effectiveness)
+Has access to bilingual health professionals and intake staff in OLMCs increased?
+Number of French-language postsecondary training graduates
+Number of health professionals and intake staff who completed language training
+Number of health graduates working in OLMCs
+Number of language training graduates who work in OLMCs
+Progress made; further work warranted
+The OLHCP has contributed to increased access to bilingual health care professionals and intake staff in OLMCs by supporting post-secondary and language training activities as well as a variety of other initiatives intended to improve access to, and quality and safety of, health care services for OLMCs. The number of French language post-secondary graduates increased by 39% between 2012–2013 and 2014–2015, and post-graduation surveys show that the proportion of respondents who were working in a health-related field six to 12 months after graduating increased from 74% to 82% between 2008–2009 and 2014–2015. However, of those, the proportion providing health-related services in OLMCs remained relatively stable at just over 90%.
+While there were individuals who were promoted from McGill's language training program in 2012-2013, there were none promoted in 2013-2014 as no courses were run.
+In addition to the post-secondary and language training components, a wide range of initiatives that are intended to improve access to, as well as quality and safety of, health care services for OLMCs has been undertaken by the OLHCP's primary and secondary beneficiaries. Examples include work on developing linguistic standards for use in a Canadian health care context; adaptation of the MHCC's Mental Health First Aid trainers program for French linguistic minority communities; and projects in the areas of health promotion, interpretation services, and improved access to health care for seniors.
+Has the availability (offer of services) of bilingual health care services changed?
+Number of health institutions, communities, and/or regions where bilingual health services are available for OLMCs
+Progress made; further work warranted
+Overall in Canada, health services in the minority official language are offered in a minority of communities and health facilities, albeit with considerable variation across jurisdictions. Facilities in New Brunswick, Quebec, and Ontario — the provinces with the largest OLMC populations — are most likely to offer these services.
+[PCH common theme] What has been the overall impact of the OLHCP on its various target audiences?
+Summary of evidence on outcomes
+Views on overall impact of the OLHCP on its target audiences
+Progress made; further work warranted
+Footnote
+xii
+Beyond its formal expected outcomes, the OLHCP is perceived as having contributed to a revitalization and empowerment of OLMCs in Canada, and to a growing awareness among stakeholders outside of OLMCs of issues related to the accessibility, quality, and safety of health care services for these communities.
+Demonstration of Economy and Efficiency
+Has the Program produced its outputs and achieved its outcomes in the most economical manner? How and in what ways can economy be improved?
+Variance between planned and actual expenditures, trends, and implications
+Degree of leverage achieved
+Appropriateness of administrative overhead
+Evidence of steps taken to enhance economy
+Achieved
+The OLHCP has operated in an economical manner over the years covered by this evaluation. The OLHCP expended the large majority of planned funding between 2012–2013 and 2014–2015, with unspent funds associated primarily with the McGill component. Administrative costs are relatively low, representing 2.6% of the total Program allocation over the five-year funding cycle.
+Were the Program's resources managed effectively to facilitate the production of planned products and services? How and in what ways could resources be reallocated to improve the quantity, quality, and blend of products/services?
+Analysis of the ratio of costs to outputs over time
+Views on/extent to which:
+cost of producing outputs is as low as possible and suggestions for reducing costs further
+resources/inputs are sufficient and appropriately targeted /used
+Achieved
+Program representatives as well as primary funding recipients identified numerous measures they have taken to minimize costs and manage available resources effectively to facilitate the production of planned products and services; some activities have expanded despite stable funding. While key informants believe that activities are appropriate to achieve the expected outcomes and that resources are generally sufficient to support specific planned activities, it was noted that these activities are not necessarily comprehensive.
+Is the quantity, quality, and blend of products/services offered by the Program optimal for achieving its expected outcomes? Are there alternative approaches to Program design that would more efficiently achieve the same expected results?
+steps taken to optimize the quantity, quality, and blend of products/services and potential reallocation of resources
+quantity, quality and blend of products/services available is contributing to expected outcomes
+alternative approaches that would achieve the same outcomes at lower cost or provide lessons learned to improve efficiency or economy
+Progress made; further work warranted
+Footnote
+xiii
+Program representatives as well as primary funding recipients identified numerous measures they have taken to minimize costs and manage available resources effectively to facilitate the production of planned products and services; some activities have expanded despite stable funding. While key informants believe that activities are appropriate to achieve the expected outcomes and that resources are generally sufficient to support specific planned activities, it was noted that these activities are not necessarily comprehensive.
+[PCH common theme] To what extent is the performance measurement strategy capturing valid and reliable information? To what extent is this information used in decision making?
+Existence of performance measurement framework or strategy and use of performance information in decision-making
+Adequate collection of performance information (performance data is available, reliable, complete)
+Progress made; further work warranted
+Since the last evaluation, the OLHCP has revised and streamlined its performance measurement strategy, logic model, and annual recipient performance reporting templates. However, the current approach presents challenges for reporting at both the recipient and Program levels, and may not fully capture Program impacts, particularly those relating to the networking component. There was some support among key informants for revisiting the approach to performance measurement and reporting to address these issues.
+Given the government-wide and portfolio-wide efforts on performance measurement, observations related to the current performance measurement contained in this evaluation should be considered in the context of this work.
+To what extent has the role of the federal Health Portfolio been optimized?
+Views on extent to which Health Canada and the Public Health Agency of Canada are working together effectively on health issues related to OLMCs
+Progress made; further work warranted
+While program representatives generally agreed that the OLCDB is an appropriate vehicle for delivering the OLHCP, there does not appear to be a formal structure or mechanism in place for collaboration within the federal Health Portfolio (Health Canada, PHAC and CIHR) on issues related to health care for OLMCs, and key informants differed on the extent to which such collaboration currently takes place.
+Appendix 3 – Evaluation Description
+Evaluation Scope
+The evaluation focussed on, but was not confined to, the period from 2012–2013 to 2014–2015, and included all three Program components. Since the relevance of the OLHCP was established in two previous evaluations, including most recently in 2012–2013, the primary focus of this evaluation was on performance. Findings from the evaluation will feed into and inform the horizontal evaluation of the Roadmap for Canada's Official Languages (2013–2014 to 2017–2018), which is currently underway under the leadership of PCH.
+Evaluation Issues
+The specific evaluation questions used in this evaluation were based on the five core issues prescribed in the Treasury Board of Canada's Policy on Evaluation (2009). These are noted in the table below. Corresponding to each of the core issues, evaluation questions were tailored to the Program and guided the evaluation process.
+Table 1. Core evaluation issues and questions
+Core Issues
+Evaluation Questions
+Relevance
+Issue #1:
+Continued Need for Program
+Assessment of the extent to which the Program continues to address a demonstrable need and is responsive to the needs of Canadians
+To what extent was language a barrier in accessing health services for OLMCs?
+To what extent does language remain a barrier to accessing health services for OLMCs?
+Issue #2:
+Alignment with Government Priorities
+Assessment of the linkages between Program objectives and (i) federal government priorities and (ii) departmental strategic outcomes
+To what extent is the OLHCP a priority of the federal government?
+To what extent do the objectives of the OLHCP align with Health Canada's strategic priorities and outcomes?
+Issue #3:
+Alignment with Federal Roles and Responsibilities
+Assessment of the role and responsibilities for the federal government in delivering the Program
+How does the OLHCP align with federal roles and responsibilities?
+[PCH common theme] What are the roles and responsibilities of other stakeholders in the OLHCP, and how do their activities support the objectives of the Program?
+To what extent does the OLHCP duplicate, overlap with, and complement the roles and responsibilities of other stakeholders with respect to increasing access to health services for OLMCs?
+Do stakeholders see the Program's activities under each component as relevant and aligned with federal roles and responsibilities?
+Performance (effectiveness, economy, and efficiency)
+Issue #4:
+Achievement of Expected Outcomes (Effectiveness)
+Assessment of progress toward expected outcomes (incl. immediate, intermediate, and ultimate outcomes) with reference to performance targets and Program reach, Program design, including the linkage and contribution of outputs to outcomes
+Is the OLHCP achieving its expected outcomes?
+Has access to bilingual health professionals and intake staff in OLMCs increased?
+Has the availability (offer of services) of bilingual health care services changed?
+[PCH common theme] What has been the overall impact of the OLHCP on its various target audiences?
+Issue #5:
+Demonstration of Economy and Efficiency
+Assessment of resource utilization in relation to the production of outputs and progress toward expected outcomes
+[PCH common theme] To what extent is the performance measurement strategy capturing valid and reliable information? To what extent is this information used in decision making?
+[Economy] Has the Program produced its outputs and achieved its outcomes in the most economical manner? How and in what ways can economy be improved?
+[Operational efficiency]  Were the Program's resources managed effectively to facilitate the production of planned products and services? How and in what ways could resources be reallocated to improve the quantity, quality, and blend of products/services?
+[Allocative efficiency] Is the quantity, quality, and blend of products/services offered by the Program optimal for achieving its expected outcomes? Are there alternative approaches to Program design that would more efficiently achieve the same expected results?
+To what extent has the role of the federal Health Portfolio been optimized?
+Data Collection and Analysis Methods
+Evaluators collected and analyzed data from multiple sources, including literature review, document review, review of administrative and performance measurement data, a telephone survey of health care facilities, and key informant interviews.
+Literature review.
+The literature review examined information from peer-reviewed (academic) sources as well as grey literature external to the federal government. The scope of the literature review was fairly limited, and focussed primarily on assessing the extent to which there is a continued need for the OLHCP by examining literature published since the last evaluation of the Program.
+Document review.
+The document review provided historical and contextual information for the OLHCP, and responded directly to the majority of the evaluation questions, as indicated in the evaluation matrix. The review encompassed documents and files provided by the Program as well as publicly available information.
+Analysis of administrative and performance measurement data.
+This task included analysis of Program financial information to support the analysis of efficiency and economy, as well as analysis of performance information contained within annual performance measurement templates completed by CNFS and McGill for information on outcomes achieved. A comprehensive review and analysis of the SSF, CHSSN, and Open Project performance measurement templates was not possible with the available evaluation resources.
+Telephone survey of health care facilities.
+A mystery shop telephone survey of health care facilities in Canada was conducted to determine the extent to which facilities that claim to provide bilingual services are actually doing so. A sample of 250 bilingual facilities providing primary care services was drawn from the 2015 CIRLM inventory of health care facilities in Canada. The sampling approach was as follows:
+All bilingual facilities were selected
+Facilities of the following types were selected:
+Centres de santé communautaire
+Centres de santé
+Santé publique
+Centres de bien-être communautaire
+Cliniques médicales
+Extramural
+Cliniques sans rendez-vous
+Community Care Access Centres
+Family Health Teams
+Family Medical Centres
+Nurse Practitioner-led Clinics
+Nursing Clinics
+Centres locaux de services communautaires
+Centres de santé et de services sociaux
+The above process resulted in a potential sample of approximately 580 bilingual facilities providing primary care services. All provinces and territories were represented, with the exceptions of Nunavut and Newfoundland and Labrador, which did not have any facilities that met the above inclusion criteria. Of the 580 facilities, all facilities in Alberta, British Columbia, Manitoba, Nova Scotia Northwest Territories, Prince Edward Island, Saskatchewan, and the Yukon were included in the sample (n=37). The remaining entries in the sample of 250 were divided across the three remaining regions; namely Ontario (n=119), Quebec (n=55), and New Brunswick (n=39). Facilities were chosen to ensure representation of all facility types.
+All 250 facilities were contacted by telephone during normal business hours and of these, 201 were reached, resulting in a completion rate of 80%. The distribution of the respondents compared to the original sample is shown in Table 2 below.
+Table 2. Distribution of sample and respondents by province/territory
+Province/territory
+Number of facilities in sample
+Number of facilities responding
+British Columbia
+5
+5
+Alberta
+1
+0
+Saskatchewan
+2
+1
+Manitoba
+21
+15
+Ontario
+119
+95
+Quebec
+55
+50
+New Brunswick
+39
+30
+Nova Scotia
+3
+2
+Prince Edward Island
+2
+2
+Newfoundland and Labrador
+-
+-
+Northwest Territories
+2
+0
+Yukon
+1
+1
+Nunavut
+-
+-
+Total
+250
+201
+Information was collected using a brief mystery shop script and analyzed using SPSS, a statistical analysis software package commonly used in social science research.
+Key informant interviews
+. A total of 12 key informants were interviewed, including key OLHCP and other federal government representatives as well as representatives of the primary funding recipient organizations. Interviews were recorded with the permission of key informants, and interview notes were returned to them for review and sign-off.
+Data were analyzed by triangulating information gathered from the different sources and methods listed above, which included the following:
+systematic compilation, review, and summarization of data to illustrate key findings;
+quantitative analysis of administrative/financial data, including trend analysis over time;
+thematic analysis of qualitative data; and
+comparative analysis of data from disparate sources to validate findings.
+Appendix 4 – Supplementary Data
+Table 1. CNFS projects and initiatives
+Project name
+Description
+Interpreters
+There are no certification and minimum training requirements for medical interpretation in Canada. There is scientific evidence that the use of professional interpreters result in a significantly lower likelihood of errors of potential consequence than the use of ad hoc interpreters. The purpose of the project is to complete a scholarly literature review as well as an inventory of existing health interpretation programs in Canada, conduct an interpreter and personal attendant work environmental scan, and establish the conditions required to develop and implement training programs for French medical interpreters and their use in the health system. SSF and CHSSN are also participating in the project.
+Active offer
+It has been documented that when a person is vulnerable due to medical conditions or trauma, the ability of the health professionals to actively offer the health services in the official minority language decreases the patients' stress and leads to better health outcomes. The project aims to develop appropriate documentation to integrate the concept of the active offer of services in French in health training programs in all CNFS institutions, provide practicing health care professionals with appropriate tools for the active offer of health services in French, and raise awareness among managers of health care facilities of the importance of actively offering health services in French. The ACUFC has been working to integrate the concept of active offer in programs and courses at the college and university levels. A logic model for the active offer of services in French was developed based on the support and collaboration of researchers, teachers, practitioners and academia.
+Clinical Training
+This initiative aims to promote to ACUFC students the opportunity to pursue internships in remote and rural areas, and in areas where few health services in French are available; provide support to students to encourage and motivate them to complete an internship in these areas; support host communities by delineating steps necessary to offer an internship, host an intern, and motivate the interns to remain and integrate into the host community to serve OLMCs; and support the development of practicum settings by creating new internships in remote areas, facilitating the internship coordinator travel to site and ensuring the site and clinical activities meet Program requirements.
+Access to professionals
+Due to small cohort numbers, the University of Saint-Boniface in Manitoba and the University of Moncton in New Brunswick will jointly offer their nutrition program to Francophone students. In addition, when renewing the pedagogical approach for the practical nursing program, there will be various program linkages at the New Brunswick Community College and Collège Acadie. ACUFC also offers ongoing and distance training on mental health and personality disorders.
+Projet "Revivre"
+Partnership between the University of Ottawa, the Élisabeth Bruyère Residence and the Foundation 'Eldercare' Ottawa to develop a formal volunteer program to work with seniors. The project will educate students who want to pursue a career in health care about the importance of language and culture in the care of adults in long-term care facilities, provide support to Long-term care (LTC) staff to improve the quality of life of OLMCs in LTC facilities, increase the number of students interested to pursue a career in this field, and replicate the program in other Francophone communities outside of Quebec and in English-speaking communities in Quebec.
+Project Internships
+This project aims to develop a clinical training model for Francophone or bilingual students studying in English in order for them to be able to offer services to Francophone minority communities. The model will be implemented through a pilot project and evaluated. Results will be disseminated for possible implementation in other areas to allow Francophone minority communities in remote areas, dispersed or in low concentration to recruit and retain future health care professionals able to provide services in French.
+Table 2. Other projects and initiatives funded by SSF and CHSSN
+Project name
+Description
+SSF projects and initiatives
+Language training and cultural adaptation
+Through this initiative, SSF provides funding to the local networks for projects that aim to improve the integration of French language health service providers within French linguistic minority communities and their institutions. This is achieved by targeting (a) French-speaking health professionals who are trained in English, (b) health professionals who are competent in French as a second language, and (c) strategies for implementing French language services in health facilities.
+Services adaptation
+Through this initiative, SSF provides funding to the local networks for projects that aim to implement health service strategies/models to address the health needs of French linguistic minority communities in partnership with health sector stakeholders.
+Health promotion
+Through this initiative, SSF provides funding to the local networks for projects that aim to improve the health of French linguistic minority communities through a range of health promotion activities that target health determinants and community engagement. This project supports the development and implementation of strategic initiatives such as Communities and Healthy Schools.
+Knowledge sharing, dissemination and transfer
+This project aims to develop knowledge, tools and promising practices for improving the health of French linguistic minorities. Funding is used by the secretariat of the SSF to share knowledge and best practices with and between the local networks.
+Interpreters
+This is a partnership between SSF, its networks and L'Accueil francophone de Thunder Bay to implement pilot projects in Northern Ontario, Saskatchewan, Newfoundland and Labrador, the Yukon and the Northwest Territories to assess the use and effectiveness of health interpreters in accessing services in regions where French-speaking providers are scarce. In partnership with the Ontario Telemedicine Network and the SSF the Accueil francophone de Thunder Bay will offer on-demand interpretation services to address the shortage of French-speaking health human resources in Northern Ontario, and develop and offer an interpretation workshop.
+Standards
+This project is a partnership between SSF, Accreditation Canada, CHSSN, and the Quebec MSSS to develop a measurement tool for language competency in the accreditation of health and social services facilities across Canada. Through implementation of service standards, health care providers are encouraged to adopt best practices to address issues related to linguistic barriers.
+Mental health
+This consists of a partnership project between SSF and the MHCC to adapt the Mental Health First Aid trainers program to address concerns of French linguistic minority communities, as well as a partnership project between SSF and Tél-Aide Outaouais to expand the availability of a mental health crisis help line for French-speaking persons beyond the current Eastern Ontario model.
+Language variable
+This is a partnership project between SSF and the Canadian Institute for Health Information to promote the collection of patient health information according to their official language preference in order to measure consistency in health outcomes and health systems access for Francophone linguistic minority communities in Canada. In addition, another project was launched with the Réseau des services de santé en français de l'Est de l'Ontario and the Champlain and South East provincial Local Health Integration Networks, linking the language of the user to the provincial health card to facilitate monitoring of the use of services by the Francophone minority communities and to identify service providers with the ability to offer services in French in order to better plan service delivery models based on evidence.
+Internship collaboration
+For post-secondary institutions, developing and organizing internships/placements is resource intensive and challenging as the availability of host organizations is limited. Developing and organizing internships in minority communities for Francophone or bilingual students is even more challenging because of the very limited number of host organizations and interprovincial barriers. The project's objective is to develop internship placement for Alberta, Saskatchewan and the Territories for Francophone or bilingual health science students (outside the Consortium national de formation en santé institutions) and/or new health care professionals as a measure of recruitment, retention and improving access to health care and health services for Francophone minority communities in remote areas, dispersed or in low concentration. An amendment to this project will further establish partnerships and will equip four additional regions with recruitment models based on these promising practices.
+Seniors
+This project is a partnership between SSF, the Fédération des aînées et aînés francophones du Canada (FAAFC), the Canadian Nurses Association, and the SSF provincial and territorial networks to improve access to French language health services for seniors in the areas of primary health care, hospital care, home care, and long-term care. Through another initiative, guidelines will be developed to foster the implementation of best practices in various health settings to improve access to services for Francophone minority community seniors. This work will be completed in collaboration with a research team from the University of Ottawa.
+Childhood
+This project aims to improve the offer of health promotion and prevention programs and activities for specific childhood and youth problems, with an emphasis on healthy eating, physical activity and mental health, and to improve the offer of preventive, diagnostic, treatment and support services in French for children and youth at risk or having health or social problems, including language problems.
+CHSSN projects and initiatives
+Adaptation of health and social services initiative 2014–18
+This initiative provides funding to health and social services agencies to adapt health and social services to enhance the vitality of English-speaking minority communities in Quebec. The initiative is being undertaken in partnership with the MSSS. An implementation agreement between CHSSN and the MSSS has been established in order to incorporate the projects into Quebec's initiatives to improve health and social services in English.
+Community Health Promotion Projects Program
+This program supports the 20 community health and social services networks to promote healthy lifestyles and practices in their communities. Activities include the following:
+Each year, several CHEP videoconferencing sessions are deployed simultaneously to community group meetings in participating networks to enable community-based learning, information exchange and discussion on specific health issues. Local professionals, caregivers, and sector volunteers are encouraged to learn alongside community participants in the videoconferencing sessions and offer additional support.
+Conferences and information sessions and are organized within each network to provide information exchange in areas such as parenting, sexual health for teens, children facing stressful family situations, abused mothers/women, health promotion fairs, suicide prevention; presentations by local health service providers.
+Regular activity groups are implemented, including child/parent playgroups, and seniors health clubs.
+Production and distribution of customized health information kits for new English-speaking arrivals in the community and for parents of children commencing English school.
+The use of web-based health information tools is explored to improve communication between English-speaking patients and their service providers.
+Knowledge
+Through a tripartite partnership between CHSSN, the Institut national de santé publique du Québec (INSPQ), and the MSSS, studies, analyses and research are conducted to gain a better understanding of the health status of English-speaking Quebecers, the programs and services offered to and used by them, service access, and vitality issues. The project also aims to define best intervention approaches to better engage these communities in effective population and public health strategies.
+Interpreters
+The use of health interpreters in Quebec is not well documented. The project aims to conduct an in-depth analysis of the use of interpreters in the health system in Quebec and provide the MSSS with recommendations to improve current health system procedures in that regard.
+Accreditation
+In partnership with Accreditation Canada, the Conseil québécois d'agrément, and SSF, this project focuses on the development of standards (new or adapted) for effective communication and linguistic access to health care services in Quebec and their implementation in institutions and health programs in Quebec. In addition, CHSSN is developing guidelines on information that Quebec's administrative health regions should consider when developing their access plans, which they legally required to develop, detailing services available in English and the structure/process for their provision.
+CROP and other emerging priorities
+This component consists of several elements, including:
+A pilot project on placing community-hired outreach staff within a local Centre de santé et services sociaux (CSSS) and its services teams to reach isolated and underserved OLMC populations.
+The analysis and development of access to interregional specialized services in English to improve access to English language services for out of region patient referrals, including support services (coaching, translation, information, etc).
+The revision and implementation of a longitudinal, community-based survey using the previous CROP surveys as a basis.
+Table 3. Funding streams and projects funded through public call
+Name
+Description
+Funding streams
+Stream #1: Language Training and Cultural Adaptation
+This stream is intended to facilitate the provision of French language health services outside Quebec by French-speaking health professionals who were either trained in English or who are otherwise competent in the provision of French language services.
+Stream #2: Health Systems Promotion Projects
+This stream is intended to improve access to activities and programs to promote health and disease prevention among English and French linguistic minorities.
+Stream #3: Adaptation of Health Services
+This stream is intended to provide front-line health service expertise in the minority official language, to provide support to health and social service agencies and community organizations in implementing new programs and best practices, to develop sustained health information products and tools to facilitate access to health services, and to assess the efficiency of initiatives aiming to improve access to health services for English and French linguistic minorities.
+Stream #4: Health Systems Knowledge and Tools
+This stream is intended to develop health systems knowledge, tools, and practices for improving English and French linguistic minorities' access to health services.
+Stream #5: Strategic Investment Fund
+This stream is intended to address OLMCs' health priorities and emerging needs.
+Stream #6: Integration of Health Human Resources in OLMCs and Health Services Institutions
+This stream is intended to help optimize the integration, recruitment, and placement of health personnel to meet the needs of English and French linguistic minorities across Canada.
+Funded projects
+Improve Access to French Services in the Prince Edward Island Health Care System
+A project with Health PEI to include French language preferences of patients with the provincial health insurance card and to identify health services providers having French language competency.
+Harnessing the power of Cancer Coaching to benefit official language minority groups
+A project with the Ottawa Regional Cancer Foundation to develop a French language version of its professional cancer coaching program in order to empower French-speaking cancer patients in Eastern Ontario to understand their diagnosis and treatment options.
+Active offer for primary health: Development of a community clinic and health professional recruiting strategies with the aim of providing the active offer of health in French in Calgary's francophone minority community and surroundings
+A project with the Association canadienne-française de l'Alberta, régionale de Calgary to establish a French language primary health care service centre in the Calgary region.
+Common vision, concerted action for developing French-speaking medical resources in Canada's francophone minority settings
+A project with the Association of Faculties of Medicine of Canada to integrate French-speaking medical graduates from Canada's English language universities and Quebec universities into French linguistic minority communities through training, internships and supports.
+Addressing Mental Health Needs of Vulnerable English-Speaking Populations: Introducing Best-Practice Models of Resiliency
+A project with AMI-Québec to provide coping strategies for English-speaking vulnerable populations in the Montreal region – youth, seniors, and family caregivers – when faced with psychological distress, loss of mobility and social isolation.
+Active offer of programs and services in French to Manitoba's French-speaking children aged 0 to 6 and their families
+A project with La Fédération des parents du Manitoba to promote family-based health programs and services for French-speaking parents from pregnancy to age six of their children.
+Initialization and improvement of access to mental health services for French-speaking youth and seniors of the greater Fredericton region
+A project to improve French language mental health services for youth and seniors in the Fredericton region of New Brunswick.
+Table 4. Official language minority communities by province and territory, 2011
+Total population
+First official language spoken
+Official language minority
+English
+French
+English and French
+Neither English nor French
+Number
+Percentage of total population
+Newfoundland and Labrador
+509,950
+507,200
+1,990
+205
+550
+2,095
+0.4
+Prince Edward Island
+138,435
+132,855
+4,715
+185
+675
+4,810
+3.5
+Nova Scotia
+910,620
+877,990
+29,545
+1,560
+1,515
+30,330
+3.3
+New Brunswick
+739,900
+502,040
+234,410
+2,575
+870
+235,700
+31.9
+Quebec
+7,815,955
+935,635
+6,561,510
+245,230
+73,580
+1,058,250
+13.5
+Ontario
+12,722,065
+11,844,580
+500,275
+84,230
+292,980
+542,390
+4.3
+Manitoba
+1,193,095
+1,136,685
+40,000
+2,740
+13,675
+41,365
+3.5
+Saskatchewan
+1,018,315
+998,300
+13,705
+1,160
+5,140
+14,290
+1.4
+Alberta
+3,610,185
+3,484,245
+65,105
+12,525
+48,310
+71,370
+2.0
+British Columbia
+4,356,205
+4,143,250
+53,725
+16,935
+142,300
+62,190
+1.4
+Yukon
+33,655
+32,015
+1,420
+125
+95
+1,485
+4.4
+Northwest Territories
+41,040
+39,680
+1,030
+100
+225
+1,080
+2.6
+Nunavut
+31,765
+28,420
+450
+50
+2,840
+475
+1.5
+Canada
+33,121,175
+24,662,895
+7,507,890
+367,635
+582,760
+2,065,830
+6.2
+Canada less Quebec
+25,305,220
+23,727,260
+946,380
+122,405
+509,180
+1,007,580
+4.3
+Table 5. French language post-secondary training graduates by field of study
+Academic program/field of study
+2010-2011
+2011-2012
+2012-2013
+2013-2014
+2014-2015
+Total 2010-2011 to 2014-2015
+Total 2012-2013 to 2014-2015
+Nursing science
+105
+139
+158
+155
+231
+788
+544
+Health care aide
+87
+65
+91
+86
+148
+477
+325
+Social work
+62
+75
+79
+92
+135
+443
+306
+Nutrition
+0
+3
+34
+34
+46
+117
+114
+Occupational therapy
+27
+29
+31
+40
+36
+163
+107
+Dental care
+34
+20
+24
+30
+44
+152
+98
+Ultrasonography and radiology
+22
+21
+25
+29
+23
+120
+77
+Disability care
+6
+14
+17
+20
+28
+85
+65
+Physiotherapy
+24
+16
+21
+21
+20
+102
+62
+Special education
+0
+0
+11
+15
+23
+49
+49
+Speech pathology
+13
+6
+17
+17
+15
+68
+49
+Medicine
+27
+25
+15
+15
+14
+96
+44
+Pharmaceutical technician
+2
+29
+8
+15
+21
+75
+44
+Gerontology
+30
+50
+23
+9
+9
+121
+41
+Public health
+10
+17
+12
+13
+10
+62
+35
+Respiratory therapy
+19
+13
+10
+7
+13
+62
+30
+Management of health services
+2
+3
+12
+13
+5
+35
+30
+Technical assistant in rehabilitation
+0
+18
+14
+15
+0
+47
+29
+Clerk
+12
+8
+6
+5
+3
+34
+14
+Psychology
+12
+11
+1
+3
+9
+36
+13
+Other
+22
+34
+29
+44
+55
+184
+128
+Total
+516
+596
+638
+678
+888
+3316
+2204
+Source: CNFS performance measurement templates.
+Table 6. Province of origin of students enrolled in French language post-secondary institutions, 2014-2015
+Institution
+Location
+Province of origina of students
+Collège Acadie
+PEI
+PEI
+Collège Boréal
+ON
+ON, NB, QC
+New Brunswick Community College
+NB
+NB, QC, PEI
+Collège universitaire (Université) de Saint-Boniface
+MB
+MB, QC
+La Cité collegiale
+ON
+ON, NB, AB, SK, NS
+Centre de formation médicale du Nouveau-Brunswick
+NB
+NB, NS
+University of Alberta – St Jean Campus
+AB
+AB, SK, MB, ON, QC
+Laurentian University
+ON
+ON, QC, MB, BC, NB
+University of Moncton
+NB
+NB, QC, ON, MB, NS, PEI
+University of Ottawa
+ON
+ON, NB, MB
+Université Sainte-Anne
+NS
+NS, NB, PEI
+Source: CNFS performance measurement templates.
+Table 7. Individuals who have been promoted in theEnglish language courses, by level
+Footnote
+56
+Level
+2009-2010
+2010-2011
+2011-2012
+2012-2013
+Total
+Beginner
+435
+448
+640
+485
+2008
+Intermediate
+537
+324
+601
+476
+1938
+Advanced
+180
+203
+240
+217
+840
+Mixed
+0
+56
+24
+63
+143
+Total
+1152
+1031
+1505
+1241
+4929
+Table 8. Individuals who have been promoted in the English language courses, by activity sector and level
+Footnote
+57
+Level
+Intake
+Health
+Social
+Other
+Total
+Beginner
+344
+1072
+202
+184
+1802
+Intermediate
+214
+973
+477
+121
+1785
+Advanced
+81
+313
+262
+50
+706
+Total
+639
+2358
+941
+355
+4293
+Note: The total number of graduates reported in this table is 4,293 rather than 4,929 as reported in Table 6, as training data were not reported by all regions by activity sector and level in all years.
+Table 9. Individuals who have been promoted in the English language courses, by region
+Region
+2009-2010
+2010-2011
+2011-2012
+2012-2013
+2014-2015
+Total
+01: Bas-Saint-Laurent
+78
+56
+9
+89
+-
+232
+02: Saguenay-Lac-Saint-Jean
+91
+119
+156
+122
+2
+490
+03: Capitale-Nationale
+108
+-
+50
+54
+4
+216
+04: Mauricie et Centre du Québec
+-
+-
+-
+-
+-
+-
+05 : Estrie
+98
+57
+56
+49
+-
+260
+06 : Montréal
+142
+82
+85
+119
+-
+428
+07 : Outaouais
+-
+-
+110
+50
+26
+186
+08 : Abitibi-Témiscamingue
+27
+27
+13
+56
+15
+138
+09 : Côte-Nord
+-
+6
+6
+1
+9
+22
+10 : Nord-du-Québec
+-
+-
+-
+13
+6
+19
+11 : Gaspésie-Îles-de-la-Madeleine
+50
+-
+86
+44
+-
+180
+12 : Chaudière-Appalaches
+-
+12
+54
+-
+-
+66
+13 : Laval
+84
+80
+63
+74
+12
+313
+14 : Lanaudière
+34
+29
+82
+86
+1
+232
+15 : Laurentides
+-
+86
+86
+83
+-
+255
+16 : Montérégie
+230
+80
+175
+166
+-
+651
+17 : Nunavik
+-
+-
+-
+-
+-
+-
+18 : Terres-Cries-de-la-Baie-James
+-
+-
+-
+-
+-
+-
+Unspecified
+227
+-
+15
+140
+-
+382
+Total
+1169
+Table 9 footnote
+a
+634
+Table 9 footnote
+a
+1046
+Table 9 footnote
+a
+1,146
+Table 9 footnote
+a
+75
+Table 9 footnote
+a
+4070
+Table 9 footnote
+a
+Table 9 footnote a
+Note: Totals presented in this table are not consistent with totals presented in Tables 6 and 7, which shows results of the language training component of McGill's Trainig and Retention of Health Professionals Project as reported by McGill in a roll-up report. Available documentation does not provide an explanation as to why this discrepancy exists.
+Return to
+first
+Table 9 footnote
+a
+referrer
+Source: McGill University performance measurement templates.
+Table 10. English language training providers, by region, 2009-2010 to 2012-2013
+Region
+School board
+Cegep
+University
+Private
+Total
+01: Bas-Saint-Laurent
+-
+1
+-
+-
+1
+02: Saguenay-Lac-Saint-Jean
+-
+1
+-
+-
+1
+03: Capitale-Nationale
+-
+-
+1
+-
+1
+04: Mauricie et Centre du Québec
+-
+-
+-
+1
+1
+05 : Estrie
+1
+1
+-
+3
+5
+06 : Montréal
+-
+1
+-
+-
+1
+07 : Outaouais
+-
+2
+-
+1
+3
+08 : Abitibi-Témiscamingue
+2
+1
+-
+1
+4
+09 : Côte-Nord
+2
+1
+-
+1
+4
+10 : Nord-du-Québec
+-
+-
+-
+1
+1
+11 : Gaspésie-Îles-de-la-Madeleine
+-
+1
+-
+-
+1
+12 : Chaudière-Appalaches
+2
+-
+-
+-
+2
+13 : Laval
+-
+1
+-
+-
+1
+14 : Lanaudière
+-
+-
+-
+2
+2
+15 : Laurentides
+-
+1
+-
+-
+1
+16 : Montérégie
+-
+1
+-
+-
+1
+17 : Nunavik
+-
+-
+-
+1
+1
+18 : Terres-Cries-de-la-Baie-James
+-
+-
+-
+2
+2
+Total
+7
+12
+Table 10 footnote
+a
+1
+13*
+33
+Table 10 footnote a
+Note: Cegep Champlain is the supplier for three regions and therefore entered three times in the table. The Centre de langue international Carpentier ) is the supplier for two regions and is therefore entered twice.
+Return to Table 10 footnote
+a
+referrer
+Source: McGill University performance measurement templates.
+Table 11. Internships and bursaries, McGill retention program
+Footnote
+58
+2011-2012
+2012-2013
+2013-2014
+Total
+Number of internships created
+48
+105
+52
+~205
+Number of bursaries allocated
+32
+35
+27
+94
+Source: As listed in endnotes; also includes McGill performance report, 2013–14.
+Table 12. French language post-secondary training graduates working in OLMCs
+Institutions
+2008-2009
+2014-2015
+Number of graduates
+Number of respondents
+Employment/internships in health-related field
+Employment/internships in OLMCs
+Number of graduates
+Number of respondents
+Employment/internships in health-related field
+Employment/internships in OLMCs
+Collège Acadie
+3
+3
+3
+1
+8
+8
+8
+7
+Collège Boréal
+72
+20
+18
+16
+133
+98
+73
+70
+New Brunswick Community College
+50
+42
+39
+38
+154
+130
+105
+101
+Collège universitaire (Université) de Saint-Boniface
+13
+13
+4
+4
+29
+27
+25
+24
+La Cité collégiale
+106
+20
+17
+16
+303
+48
+35
+35
+Centre de formation médicale du Nouveau-Brunswick
+6
+6
+3
+3
+23
+23
+23
+12
+University of Alberta - Campus Saint-Jean
+Table 12 footnote
+a
+14
+12
+10
+8
+-
+-
+-
+-
+Laurentian University
+35
+23
+8
+7
+114
+37
+34
+32
+University of Moncton
+47
+21
+18
+18
+194
+145
+126
+116
+University of Ottawa
+47
+38
+27
+27
+142
+31
+24
+19
+Université Sainte-Anne
+1
+1
+-
+-
+11
+10
+2
+2
+Total
+394
+199
+147
+138
+1,111
+Table 12 footnote
+b
+557
+455
+418
+Table 12 footnote a
+Note: Data for Campus Saint-Jean (University of Alberta) was not available for 2014-2015.
+Return to Table 12 footnote
+a
+referrer
+Table 12 footnote b
+Note: According to the CNFS performance measurement template for 2014-2015, the sample for the survey of graduates was 1,111. However, the same performance template indicates that a total of 888 learners graduated the same year, as reported in Table 3 of this report. It is unclear why this discrepancy exists.
+Return to Table 12 footnote
+b
+referrer
+Source: CNFS performance measurement templates.
+Table 13. Number of graduates of English language courses working in OLMCs, by facility, occupation and level of training, 2014-2015
+Name of facility
+Health occupation
+Number of health professionals and intake staff working in OLMCs, by level of training
+Beginner
+Intermediate
+Advanced
+02: Saguenay-Lac-Saint-Jean
+Chicoutimi CSSS
+Administration technician
+-
+2
+-
+03: Capitale-Nationale
+Jeffery Hale Hospital
+Nurse
+-
+1
+-
+Administrative Officer
+-
+1
+-
+Porteneuf CSSS
+Nurse Clinician
+1
+-
+-
+Quebec Youth centre
+Specialized Educator
+-
+1
+-
+07: Outaouais
+Collines CSSS
+Administrative Officer
+-
+1
+-
+Nurse Clinician
+-
+1
+-
+Nurse
+1
+-
+-
+Gatineau CSSS
+Research Centre Manager
+-
+1
+-
+Social Worker
+-
+1
+-
+Nurse
+-
+2
+-
+Nursing Directorate Advisor
+-
+1
+-
+Nurse Clinician
+-
+1
+-
+Papineau CSSS
+Medical Imaging Technologist
+1
+-
+-
+Head of Laboratory Services
+-
+1
+-
+Vallée de la Gatineau CSSS
+Social Worker
+-
+1
+-
+Outaouais Rehabilitation Centre
+IT Technician
+-
+1
+-
+Human Behaviour Therapist
+-
+1
+-
+Nurse
+-
+1
+-
+Pavillon du Parc Rehabilitation Centre
+Administrative Officer
+-
+1
+-
+Social Worker
+1
+1
+-
+Educator
+-
+1
+-
+Psychologist
+1
+1
+-
+Outaouais Youth Centres
+Social Worker
+-
+2
+-
+Juvenile Detention Intervention Officer
+-
+1
+-
+Administrative Officer
+-
+2
+-
+08: Abitibi-Témiscamingue
+Eskers de l'Abitibi-Témiscamingue CSSS
+Administrative Officer
+1
+1
+-
+Clinical Nursing Advisor
+-
+1
+-
+Medical Electrophysiology Technical Coordinator
+-
+1
+-
+Nurse
+-
+1
+-
+Psychosocial Rehabilitation Specialist
+1
+-
+-
+Social Worker
+-
+1
+-
+La Maison Rehabilitation Centre
+Educator
+-
+1
+-
+Specialized Educator
+-
+1
+-
+Vallée d'Or CSSS
+Administrative Officer
+1
+-
+-
+Administrative Assistant
+-
+1
+-
+Témiscamingue CSSS
+Oncology Pivot Nurse
+-
+1
+-
+Patient Care Attendant
+-
+1
+-
+Abitibi-Témiscamingue Youth Centre
+Social Worker
+-
+1
+-
+Administrative Officer
+-
+1
+-
+09: Côte-Nord
+Haute Côte-Nord CSSS
+Administrative Officer
+-
+1
+-
+Living Environment Advisor
+1
+-
+-
+Hématite CSSS
+Administrative Officer
+-
+1
+-
+Dental Hygienist
+-
+1
+-
+Côte-Nord Shelter and and Rehabilitation Centre
+Administrative Officer
+-
+2
+-
+Human Relations Officer
+-
+2
+-
+Nurse
+1
+-
+-
+10: Nord-du-Québec
+James Bay regional health and social services centre
+Social Assistance Technician
+-
+1
+-
+Planning, Program and Research Officer
+-
+1
+-
+Occupational Therapist
+-
+1
+-
+Dental Advisor
+-
+1
+-
+Nurse
+1
+-
+-
+René-Ricard health centre
+Nurse
+-
+1
+-
+13: Laval
+Laval CSSS
+Social Work Technician
+-
+2
+-
+Social Worker
+2
+3
+-
+Nurse
+1
+-
+-
+Unit Chief
+-
+1
+-
+Laval Cité de la santé
+Orthopedic Pivot Nurse Clinician
+-
+1
+-
+Administrative Officer
+-
+1
+-
+Laval Youth Centre
+Educator
+1
+-
+-
+14: Lanaudière
+CHSLD Heather
+Nutritionist
+-
+1
+-
+Grand total
+15
+60
+-
+Source: McGill University performance measurement templates.
+Table 14. French language post-secondary training graduates working in OLMCs, by occupation, 2014-2015
+Program/field of study
+Number of respondents
+Employment/internships in health-related field
+Employment/internships in OLMCs
+Nursing science/Licenced practical nurse
+176
+165
+161
+Social work
+86
+55
+52
+Support services/Human services
+53
+42
+40
+Ultrasonography and radiology
+31
+25
+22
+Medicine
+27
+27
+16
+Nutrition
+24
+18
+11
+Pharmaceutical technician/Pharmacy assistant
+24
+21
+19
+Dental care/Dental assistant
+22
+11
+9
+Physiotherapy/Occupational therapy
+19
+17
+16
+Service attendant
+16
+13
+13
+Medical laboratory technologist
+13
+13
+13
+Special education
+10
+6
+6
+Health sciences
+9
+1
+1
+Health care aide
+8
+8
+8
+Management of health services
+7
+6
+6
+Respiratory therapy
+6
+5
+5
+Speech therapy
+4
+2
+1
+Psychology/Mental health and substance abuse
+4
+4
+3
+Paramedic
+3
+3
+3
+Other
+15
+13
+13
+Total
+557
+455
+418
+Source: CNFS performance measurement templates.
+Table 15. Number of health institutions where bilingual services are available for OLMCs, by type of health care facility, as of May 2015
+Footnote
+59
+Type of health care facility
+# of facilities
+# of facilities offering bilingual or minority language services
+Table 15 footnote
+*
+New Brunswick
+Hospital
+22
+22
+Hospital and community health centre
+1
+1
+Community health centre
+37
+37
+Medical clinic
+4
+4
+Extramural program
+27
+27
+Public health centre
+27
+27
+Oncology centre
+1
+1
+Veterans centre
+1
+1
+Mental health centre
+6
+6
+Addiction treatment centre
+9
+9
+Addiction treatment and mental health centre
+11
+11
+Total
+146
+146 (100%)
+Prince Edward Island
+Hospital
+7
+1
+Health centre
+9
+1
+Mental health centre
+2
+-
+Extramural program
+1
+-
+Public health nursing home
+4
+1
+Addiction treatment centre
+1
+-
+Addiction treatment and mental health centre
+2
+-
+Long-term care facility
+9
+2
+Total
+35
+5 (14%)
+Nova Scotia
+Hospital
+34
+7
+Hospital and community health centre
+8
+-
+Community health centre
+33
+1
+Medical clinic
+2
+1
+Extramural program
+11
+-
+Oncology centre
+2
+-
+Mental health centre
+5
+-
+Public health centre
+37
+1
+Addiction treatment centre
+7
+1
+Addiction treatment and mental health centre
+3
+-
+Veterans centre
+1
+-
+Total
+143
+11 (8%)
+Newfoundland and Labrador
+Hospital
+22
+2
+Hospital and community health centre
+1
+-
+Community health centre
+43
+-
+Medical clinic
+61
+-
+Extramural program
+1
+-
+Oncology centre
+1
+-
+Mental health centre
+1
+-
+Public health centre
+20
+-
+Addiction treatment and mental health centre
+5
+-
+Veterans centre
+1
+-
+Long-term care facility
+23
+-
+Total
+179
+2 (1%)
+Quebec
+Hospital
+116
+37
+Hospital, nursing home and long-term care facility
+3
+-
+Hospital and local community service centre (LCSC)
+2
+1
+Hospital, LCSC and nursing home
+1
+1
+Cardiology centre
+2
+1
+Rehabilitation centre
+11
+4
+Rehabilitation centre for intellectual disabilities
+87
+13
+Physical rehabilitation centre
+75
+11
+Social rehabilitation centre
+214
+13
+Nursing home and long-term care facility
+246
+39
+Radiology clinic
+1
+-
+Medical clinic
+6
+-
+LCSC
+395
+79
+Mental health centre
+41
+2
+Addiction treatment centre
+75
+5
+Total
+1,275
+206 (16%)
+Ontario
+Hospital
+206
+69
+General rehabilitation hospital
+11
+4
+Oncology centre
+8
+3
+Community health centre
+180
+61
+Nurse practitioner-led clinic
+34
+7
+Community care access centre
+90
+61
+Nursing clinic
+86
+24
+Occupational health clinic
+20
+10
+Physical rehabilitation centre
+7
+1
+Rehabilitation centre for intellectual disabilities
+3
+1
+Rehabilitation centre
+29
+19
+Assisted living facility
+4
+-
+Veterans centre
+1
+1
+Family health teams
+410
+44
+Health care facilities for children and youth
+15
+4
+Family medical centre
+84
+15
+Home-visit doctor services
+1
+-
+Long-term care facility
+622
+135
+Long-term care facility (convalescent beds)
+23
+13
+Mental health centre
+21
+8
+Public health centre
+130
+60
+Addiction treatment centre
+322
+65
+Addiction treatment and mental health centre
+47
+14
+Women's health care centres
+5
+2
+Sport medicine clinic
+47
+7
+Retirement residence
+589
+107
+Physiotherapy services
+184
+34
+Walk-in clinic
+456
+42
+Total
+3,635
+811 (22%)
+Manitoba
+Hospital
+32
+4
+Hospital and long-term care facility
+3
+1
+Health centre
+58
+3
+Community health centre
+38
+1
+Health centre and long-term care facility
+4
+-
+Long-term care facility
+95
+5
+Medical clinic
+44
+6
+Home care office
+19
+5
+Public health centre
+34
+8
+Community well-being centre
+6
+4
+Mental health centre
+6
+2
+Nursing station
+22
+-
+Veterans centre
+1
+-
+Rehabilitation centre
+1
+-
+Access centre
+6
+-
+Total
+369
+39 (11%)
+Saskatchewan
+Hospital
+43
+3
+Hospital and long-term care facility
+2
+-
+Oncology centre
+2
+-
+Health centre
+141
+1
+Medical clinic
+25
+1
+Long-term care facility
+110
+2
+Home care office
+42
+-
+Public health centre
+27
+-
+Addiction treatment centre
+8
+-
+Mental health centre
+8
+-
+Addiction treatment and mental health centre
+11
+-
+Physical rehabilitation centre
+1
+-
+Total
+420
+7 (2%)
+Alberta
+Hospital
+34
+6
+Hospital and health centre
+8
+-
+Oncology centre
+19
+-
+Health centre
+99
+3
+Community health centre
+80
+1
+Medical clinic
+6
+-
+Continuing and long-term care facility
+120
+1
+Addiction treatment centre
+12
+-
+Mental health centre
+11
+-
+Addiction treatment and mental health
+83
+-
+Total
+472
+11 (2%)
+British Columbia
+Hospital
+113
+7
+Hospital and health centre
+5
+-
+Health centre
+105
+5
+Primary health care centre
+9
+-
+Mental health centre
+79
+-
+Addiction treatment and mental health centre
+1
+-
+Assisted living facility
+136
+-
+Medical clinic
+30
+-
+Public health centre
+76
+-
+Long-term care facility
+287
+-
+Outpost hospital
+7
+-
+Diagnostic and treatment centre
+16
+-
+Specialized kidney centre
+28
+-
+Other facilities
+2
+-
+Total
+894
+12 (1%)
+Yukon
+Hospital
+3
+1
+Community health centre
+14
+1
+Long-term care facility
+3
+-
+Mental health centre
+1
+-
+Total
+21
+2 (10%)
+Northwest Territories
+Hospital
+4
+2
+Health centre
+3
+2
+Medical clinic
+4
+-
+Public health centre
+3
+-
+Long-term care facility
+9
+-
+Total
+23
+4 (17%)
+Nunavut
+Hospital
+1
+-
+Health centre
+30
+-
+Long-term care facility
+5
+-
+Continuing and long-term care facility
+2
+-
+Public health centre
+1
+-
+Mental health centre
+1
+-
+Total
+40
+-
+Grand total
+7,652
+1,256 (16%)
+Table 15 footnote *
+Note: While most facilities identified in this column were identified as providing bilingual services, some facilities in Ontario, for example, were identified as providing services in French only.
+Return to Table 15 footnote
+*
+referrer
+Table 16. Language used by automated answering service (all respondents)
+Language used by automated answering service – all respondents
+Overall (n=201)
+Quebec (n=50)
+Ontario (n=95)
+New Brunswick (n=30)
+All other provinces (n=26)
+English
+17%
+0%
+26%
+0%
+35%
+French
+10%
+40%
+0%
+0%
+0%
+Bilingual (English and French)
+35%
+46%
+33%
+205
+31%
+Not applicable (no automated answering service)
+39%
+12%
+41%
+80%
+35%
+No response
+<1%
+2%
+0%
+0%
+0%
+Source: Mystery shopper survey of health care facilities.
+Table 17. Language used by automated answering service (those with service)
+Language used by automated answering service – respondents with automated answering service only
+Overall (n=122)
+Quebec (n=44)
+Ontario (n=56)
+New Brunswick (n=6)
+All other provinces (n=17)
+English
+28%
+0%
+45%
+0%
+53%
+French
+16%
+45%
+0%
+0%
+0%
+Bilingual (English and French)
+56%
+53%
+55%
+100%
+47%
+No response
+0%
+<1%
+0%
+0%
+0%
+Source: Mystery shopper survey of health care facilities.
+Table 18. Language used by receptionist
+Language used by receptionist – all respondents
+Overall (n=201)
+Quebec (n=50)
+Ontario (n=95)
+New Brunswick (n=30)
+All other provinces (n=26)
+English
+44%
+0%
+72%
+13%
+62%
+French
+33%
+92%
+5%
+37%
+19%
+Bilingual (English and French)
+21%
+6%
+21%
+50%
+19%
+No response
+2%
+2%
+2%
+0%
+0%
+Source: Mystery shopper survey of health care facilities.
+Table 19. Overall availability of services in minority official language
+Availability of services in minority official language
+Overall (n=201)
+Quebec (n=50)
+Ontario (n=95)
+New Brunswick (n=30)
+All other provinces (n=26)
+Yes
+77%
+84%
+75%
+87%
+62%
+No
+22%
+16%
+23%
+13%
+39%
+Don't know
+15
+-
+2%
+-
+-
+Source: As listed in endnotes; also includes McGill performance report, 2013–14.
+Endnotes
+Footnote 1
+McGill University, "Better Access: Training and Retention of Health Professionals Project," McGill University Website, March 22, 2016, https://www.mcgill.ca/hssaccess/home-page.
+Return to footnote
+1
+referrer
+Footnote 2
+Government of Canada, "Official Languages (Communications with and Services to the Public) Regulations, SOR/92-48 (CONSOLIDATION)," July 31, 2007, http://laws.justice.gc.ca/eng/regulations/sor-92-48/page-1.html; Statistics Canada, "Population Estimates by First Official Language Spoken (1986 Census)," Reference, (September 1989), http://publications.gc.ca/collections/collection_2013/statcan/rh-hc/CS96-F0026-1989.pdf.
+Return to footnote
+2
+referrer
+Footnote 3
+Health Canada, "Evaluation of the Official Languages Health Contribution Program 2008-2012," August 21, 2013, http://www.hc-sc.gc.ca/ahc-asc/performance/eval/olhc-evaluation-clos-eng.php.
+Return to footnote
+3
+referrer
+Footnote 4
+Health Canada, "Evaluation of the Official Languages Health Contribution Program 2008-2012," August 21, 2013,
+http://www.hc-sc.gc.ca/ahc-asc/performance/eval/olhc-evaluation-clos-eng.php
+.
+Return to footnote
+4
+referrer
+Footnote 5
+Malek Batal et al., "Comparison of Dietary Intake Between Francophones and Anglophones in Canada: Data From Canadian Community Health Survey (CCHS) 2.2," Can J Public Health 104, no. 6 (June 4, 2013): 31–38, doi:10.17269/cjph.104.3501; Monique Benoit et al., "Les inégalités sociales de santé affectant les communautés francophones en situation minoritaire au Canada," Reflets : Revue d'intervention sociale et communautaire 18, no. 2 (2012): 10–18, doi:10.7202/1013171ar; Louise Bouchard et al., "Language as an Important Determinant of Poverty in the Aging Francophone Minority Population in Canada," The International Journal of Ageing and Society 2 (2013): 61–76; Louise Bouchard and Martin Desmeules, "Les Minorités Linguistiques Du Canada et La Santé," Healthcare Policy 9, no. Special Issue (2013): 38–47; Isabelle Gagnon-Arpin et al., "Le surplus de poids chez les francophones et les anglophones," Can J Public Health 104, no. 6 (April 5, 2013): 21–25, doi:10.17269/cjph.104.3465; Pascal Imbeault et al., "Physical Inactivity Among Francophones and Anglophones in Canada," Can J Public Health 104, no. 6 (June 13, 2013): 26–30, doi:10.17269/cjph.104.3467.
+Return to footnote
+5
+referrer
+Footnote 6
+Bouchard and Desmeules, "Les Minorités Linguistiques Du Canada et La Santé"; CHSSN, "Poverty and Social Exclusion in Quebec: Quebec's English-Speaking Communities," 2016, http://chssn.org/wp-content/uploads/2014/11/Poverty-and-Social-Exclusion-Brief.pdf.
+Return to footnote
+6
+referrer
+Footnote 7
+Batal et al., "Comparison of Dietary Intake Between Francophones and Anglophones in Canada"; Bouchard et al., "Language as an Important Determinant of Poverty in the Aging Francophone Minority Population in Canada"; Louise Bouchard et al., "La Santé En Situation Linguistique Minoritaire," Healthcare Policy 4, no. 4 (May 2009): 36–42; Bouchard and Desmeules, "Les Minorités Linguistiques Du Canada et La Santé"; Gagnon-Arpin et al., "Le surplus de poids chez les francophones et les anglophones"; Imbeault et al., "Physical Inactivity Among Francophones and Anglophones in Canada."
+Return to footnote
+7
+referrer
+Footnote 8
+Elena Tipenko, "Statistical Analysis of Health System Utilization, Use of Diagnostic Testing, and Perceptions of Quality and Satisfaction with Health Care Services of Official Languages Minority Communities," November 16, 2009, http://www.icrml.ca/images/stories/documents/en/science_colloquium/poster_elena_tipenko.pdf.
+Return to footnote
+8
+referrer
+Footnote 9
+Éric Forgues, Boniface Bahi, and Jacques Michaud, "L'offre de Services de Santé En Français En Contexte Francophone Minoritaire" (Institut canadien de recherche sur les minorités linguistiques, 2011), http://www.icrml.ca/images/stories/documents/fr/Offre_active_services_sante/rapport_services_sante.pdf.
+Return to footnote
+9
+referrer
+Footnote 10
+Bouchard et al., "Language as an Important Determinant of Poverty in the Aging Francophone Minority Population in Canada"; Louise Bouchard et al., "The Health of the Francophone Population Aged 65 and over in Ontario. A Region-by-Region Portrait Based on the Canadian Community Health Survey (CCHS)" (Réseau de recherche appliquée sur la santé des francophones de l'Ontario, 2014), http://www.rrasfo.ca/images/docs/publications/2014/Ontario_Franc_65_Report_March_28_2014_final_2.pdf; CHSSN, "Poverty and Social Exclusion in Quebec: Quebec's English-Speaking Communities."
+Return to footnote
+10
+referrer
+Footnote 11
+CHSSN, "Poverty and Social Exclusion in Quebec: Quebec's English-Speaking Communities"; Amélie Hien and Jean Lafontant, "Iniquités de santé en milieu minoritaire : diagnostic de la situation chez les immigrants francophones de Sudbury," Can J Public Health 104, no. 6 (June 6, 2013): 75–78, doi:10.17269/cjph.104.3472.
+Return to footnote
+11
+referrer
+Footnote 12
+Emmanuel Ngwakongnwi et al., "Experiences of French Speaking Immigrants and Non-Immigrants Accessing Health Care Services in a Large Canadian City," International Journal of Environmental Research and Public Health 9, no. 12 (October 22, 2012): 3755–68, doi:10.3390/ijerph9103755.
+Return to footnote
+12
+referrer
+Footnote 13
+Chassidy Puchala et al., "Official Language Minority Communities in Canada: Is Linguistic Minority Status a Determinant of Mental Health?," Can J Public Health 104, no. 6 (April 5, 2013): 5–11, doi:10.17269/cjph.104.3480; Salomon Fotsing et al., "Prévalence de la dépression majeure chez les arthritiques des populations canadiennes : étude comparative entre anglophones majoritaires et francophones en situation linguistique minoritaire," Can J Public Health 104, no. 6 (April 5, 2013): 12–15, doi:10.17269/cjph.104.3484.
+Return to footnote
+13
+referrer
+Footnote 14
+Bowen, "Language Barriers in Access to Health Care," Catalogue (Health Canada, November 2001), http://www.hc-sc.gc.ca/hcs-sss/alt_formats/hpb-dgps/pdf/pubs/2001-lang-acces/2001-lang-acces-eng.pdf; Sarah Bowen, "The Impact of Language Barriers on Patient Safety and Quality of Care," Final Report (Société santé en français (SSF), August 2015); Ngwakongnwi et al., "Experiences of French Speaking Immigrants and Non-Immigrants Accessing Health Care Services in a Large Canadian City"; Anne-Marie Ouimet et al., "Language Adaptation in Health Care and Health Services: Issues and Strategies" (Institut national de santé publique du Québec, January 2013), https://www.inspq.qc.ca/pdf/publications/1697_AdapLinguisSoinsServicesSante_VA.pdf.
+Return to footnote
+14
+referrer
+Footnote 15
+Hien and Lafontant, "Iniquités de santé en milieu minoritaire"; Ngwakongnwi et al., "Experiences of French Speaking Immigrants and Non-Immigrants Accessing Health Care Services in a Large Canadian City."
+Return to footnote
+15
+referrer
+Footnote 16
+SSF, "Promoting Recovery in French: Directions in Mental Health in French," July 2, 2011, http://santefrancais.ca/wp-content/uploads/Orientations-en-sant---mentale-EN.pdf; SSF, "Mental Health in French: Understanding the Complexity of the Challenge and the Urgency to Come Together," June 3, 2015, https://santefrancais.ca/wp-content/uploads/Argumentaire-sant---mentale-SK-EN.pdf.
+Return to footnote
+16
+referrer
+Footnote 17
+Bowen, "The Impact of Language Barriers on Patient Safety and Quality of Care."
+Return to footnote
+17
+referrer
+Footnote 18
+G. Bartlett et al., "Impact of Patient Communication Problems on the Risk of Preventable Adverse Events in Acute Care Settings," Canadian Medical Association Journal 178, no. 12 (June 3, 2008): 1555–62, doi:10.1503/cmaj.070690; Bowen, "The Impact of Language Barriers on Patient Safety and Quality of Care"; Ngwakongnwi et al., "Experiences of French Speaking Immigrants and Non-Immigrants Accessing Health Care Services in a Large Canadian City."
+Return to footnote
+18
+referrer
+Footnote 19
+Bowen, "The Impact of Language Barriers on Patient Safety and Quality of Care"; Danielle de Moissac, Florette Giasson, and Margaux Roch-Gagné, "Accès Aux Services Sociaux et de Santé En Français : L'expérience Des Franco-Manitobains," Minorités Linguistiques et Société, no. 6 (2015): 42–65.
+Return to footnote
+19
+referrer
+Footnote 20
+Bartlett et al., "Impact of Patient Communication Problems on the Risk of Preventable Adverse Events in Acute Care Settings"; Bowen, "Language Barriers in Access to Health Care"; Bowen, "The Impact of Language Barriers on Patient Safety and Quality of Care"; Camille Brisset et al., "Language Barriers in Mental Health Care: A Survey of Primary Care Practitioners," Journal of Immigrant and Minority Health 16, no. 6 (December 2014): 1238–46, doi:10.1007/s10903-013-9971-9; Health Canada, "Evaluation of the Official Languages Health Contribution Program 2008-2012"; SSF, "Promoting Recovery in French: Directions in Mental Health in French"; SSF, "Mental Health in French: Understanding the Complexity of the Challenge and the Urgency to Come Together."
+Return to footnote
+20
+referrer
+Footnote 21
+Louise Bouchard et al., "Les Franco-Ontariens Âgés Souffrant de Maladies Chroniques Se Perçoivent-Ils Bien Desservis?," Canadian Family Physician 58, no. 12 (December 2012): 1325; Bouchard et al., "Language as an Important Determinant of Poverty in the Aging Francophone Minority Population in Canada"; de Moissac, Giasson, and Roch-Gagné, "Accès Aux Services Sociaux et de Santé En Français"; Éric Forgues, Yves Couturier, and Francine Deroche, "Les Conditions Favorables À L'établissement de Services de Santé Pour Les Aînés Francophones" (Institut canadien de recherche sur les minorités linguistiques, 2014), http://www.icrml.ca/fr/recherches-et-publications/publications-de-l-icrml/item/8726-les-conditions-favorables-a-l-etablissement-de-services-de-sante-pour-les-aines-francophones.
+Return to footnote
+21
+referrer
+Footnote 22
+Bouchard and Desmeules, "Les Minorités Linguistiques Du Canada et La Santé"; Forgues, Bahi, and Michaud, "L'offre de Services de Santé En Français En Contexte Francophone Minoritaire"; Josée Guignard Noel, Joannie LeBlanc, and Éric Forgues, "Benchmark Study on Bilingual Services in Canadian Health Care Facilities" (Institut canadien de recherche sur les minorités linguistiques, 2015), http://www.icrml.ca/en/77779-bilingual-services-in-canadian-health-care-facilities.
+Return to footnote
+22
+referrer
+Footnote 23
+Noel, LeBlanc, and Forgues, "Benchmark Study on Bilingual Services in Canadian Health Care Facilities."
+Return to footnote
+23
+referrer
+Footnote 24
+De Moissac, Giasson, and Roch-Gagné, "Accès Aux Services Sociaux et de Santé En Français"; Thierry Lacaze-Masmonteil et al., "Perception du contexte linguistique et culturel minoritaire sur le vécu de la grossesse," Can J Public Health 104, no. 6 (June 7, 2013): 65–70, doi:10.17269/cjph.104.3515; Ngwakongnwi et al., "Experiences of French Speaking Immigrants and Non-Immigrants Accessing Health Care Services in a Large Canadian City"; Tipenko, "Statistical Analysis of Health System Utilization, Use of Diagnostic Testing, and Perceptions of Quality and Satisfaction with Health Care Services of Official Languages Minority Communities."
+Return to footnote
+24
+referrer
+Footnote 25
+Forgues, Bahi, and Michaud, "L'offre de Services de Santé En Français En Contexte Francophone Minoritaire." (Institut canadien de recherche sur les minorités linguistiques, 2011).
+Return to footnote
+25
+referrer
+Footnote 26
+Hien and Lafontant, "Iniquités de santé en milieu minoritaire"; Kenneth Deveau, Rodrigue Landry, and Réal Allard, "Utilisation Des Services Gouvernementaux de Langue Française: Une Étude Auprès Des Acadiens et Francophones de La Nouvelle-Écosse Sur Les Facteurs Associés À L'utilisation Des Services Gouvernementaux En Français" (Institut canadien de recherche sur les minorités linguistiques, 2009), http://icrml.ca/images/stories/documents/fr/rapport_deveau_utilisation_services_gouv.pdf; Forgues, Bahi, and Michaud, "L'offre de Services de Santé En Français En Contexte Francophone Minoritaire"; Bouchard and Desmeules, "Les Minorités Linguistiques Du Canada et La Santé."
+Return to footnote
+26
+referrer
+Footnote 27
+Bowen, "The Impact of Language Barriers on Patient Safety and Quality of Care."
+Return to footnote
+27
+referrer
+Footnote 28
+Hien and Lafontant, "Iniquités de santé en milieu minoritaire."
+Return to footnote
+28
+referrer
+Footnote 29
+Jan Warnke and Louise Bouchard, "Validation de l'équité d'accès des CLOSM aux professionnels de la santé dans les régions sociosanitaires du Canada," Can J Public Health 104, no. 6 (June 13, 2013): 49–54, doi:10.17269/cjph.104.3490.
+Return to footnote
+29
+referrer
+Footnote 30
+De Moissac, Giasson, and Roch-Gagné, "Accès Aux Services Sociaux et de Santé En Français"; Alain P. Gauthier, Patrick E. Timony, and Elizabeth F. Wenghofer, "Examining the Geographic Distribution of French-Speaking Physicians in Ontario," Canadian Family Physician 58, no. 12 (December 2012): e717–24; P. E. Timony et al., "Promising Quantities, Disappointing Distribution. Investigating the Presence of French-Speaking Physicians in Ontario's Rural Francophone Communities," Rural and Remote Health Research, Education, Practice and Policy, no. 13 (December 31, 2013), http://www.rrh.org.au/publishedarticles/article_print_2543.pdf.
+Return to footnote
+30
+referrer
+Footnote 31
+Timony et al., "Promising Quantities, Disappointing Distribution. Investigating the Presence of French-Speaking Physicians in Ontario's Rural Francophone Communities"; Gauthier, Timony, and Wenghofer, "Examining the Geographic Distribution of French-Speaking Physicians in Ontario."
+Return to footnote
+31
+referrer
+Footnote 32
+De Moissac, Giasson, and Roch-Gagné, "Accès Aux Services Sociaux et de Santé En Français"; Forgues, Bahi, and Michaud, "L'offre de Services de Santé En Français En Contexte Francophone Minoritaire"; Warnke and Bouchard, "Validation de l'équité d'accès des CLOSM aux professionnels de la santé dans les régions sociosanitaires du Canada."
+Return to footnote
+1
+referrer
+Footnote 33
+Jacinthe Beauchamp et al., "Recruiting Doctors From and for Underserved Groups: Does New Brunswick's Initiative to Recruit Doctors for Its Linguistic Minority Help Rural Communities?," Can J Public Health 104, no. 6 (June 6, 2013): 44–48, doi:10.17269/cjph.104.3478.
+Return to footnote
+33
+referrer
+Footnote 34
+Boniface Bahi and Éric Forgues, "Facteurs Favorisant L'offre de Services de Santé En Français : Études de Cas En Milieu Hospitalier Anglophone," Minorités Linguistiques et Société, no. 6 (2015): 157–82; RIFSSSO, "Les Défis Du Recrutement et de La Rétention En Milieu Minoritaire Francophone Dans Le Secteur de La Santé," May 2008, http://www.rifssso.ca/wp-content/uploads/2008/09/rapport-retention-26-juin-2008version-finale.pdf.
+Return to footnote
+34
+referrer
+Footnote 35
+PCH, "Roadmap for Canada's Official Languages 2013-2018 : Education, Immigration, Communities -," 2013, http://www.pch.gc.ca/DAMAssetPub/DAM-secLo-olSec/STAGING/texte-text/roadmap2013-2018_1364313629232_eng.pdf?WT.contentAuthority=11.0.
+Return to footnote
+35
+referrer
+Footnote 36
+PCH, "Roadmap for Canada's Official Languages 2013-2018 : Education, Immigration, Communities -," 2013, http://www.pch.gc.ca/DAMAssetPub/DAM-secLo-olSec/STAGING/texte-text/roadmap2013-2018_1364313629232_eng.pdf?WT.contentAuthority=11.0.
+Return to footnote
+36
+referrer
+Footnote 37
+Government of Canada, "Making Real Change Happen: Speech from the Throne," December 4, 2015, http://speech.gc.ca/sites/sft/files/speech_from_the_throne.pdf.
+Return to footnote
+37
+referrer
+Footnote 38
+Prime Minister of Canada, "Minister of Canadian Heritage Mandate Letter," November 12, 2015, http://pm.gc.ca/eng/minister-canadian-heritage-mandate-letter.
+Return to footnote
+38
+referrer
+Footnote 39
+Health Canada, "Health Canada 2015-16 Report on Plans and Priorities," Report, (March 31, 2015), http://www.hc-sc.gc.ca/ahc-asc/performance/estim-previs/plans-prior/2015-2016/report-rapport-eng.php#p1.3.
+Return to footnote
+39
+referrer
+Footnote 40
+Prime Minister of Canada, "Minister of Health Mandate Letter," November 12, 2015, http://pm.gc.ca/eng/minister-health-mandate-letter.
+Return to footnote
+40
+referrer
+Footnote 41
+Government of Canada, "Department of Health Act (S.C. 1996, C. 8)," 1996, sec. 4(1), http://laws-lois.justice.gc.ca/eng/acts/H-3.2/FullText.html.
+Return to footnote
+41
+referrer
+Footnote 42
+Government of Canada, "Official Languages Act (R.S.C., 1985, C. 31 (4th Supp.))," 1985, http://laws-lois.justice.gc.ca/eng/acts/O-3.01/FullText.html.
+Return to footnote
+42
+referrer
+Footnote 43
+Government of Canada, "Canada Health Act (R.S.C., 1985, C. C-6)," 1985, sec. 3, http://laws-lois.justice.gc.ca/eng/acts/c-6/FullText.html.
+Return to footnote
+43
+referrer
+Footnote 44
+Law Wales, "Standards," Welsh Government Website, July 13, 2015, http://law.gov.wales/culture/welsh-language/standards/?lang=en#/culture/welsh-language/standards/?tab=overview&lang=en; Law Wales, "Welsh Language (Wales) Measure 2011," Welsh Government Website, July 13, 2015, http://law.gov.wales/culture/welsh-language/welsh-language-wales-measure-2011/?lang=en#/culture/welsh-language/welsh-language-wales-measure-2011/?tab=overview&lang=en; Welsh Government, "More Than Just Words: Follow-on Strategic Framework for Welsh Language Services in Health, Social Services and Social Care, 2016-2016," March 17, 2016, http://gov.wales/docs/dhss/publications/160317morethanjustwordsen.pdf.
+Return to footnote
+44
+referrer
+Footnote 45
+Welsh Government, "More Than Just Words: Follow-on Strategic Framework for Welsh Language Services in Health, Social Services and Social Care, 2016-2016."
+Return to footnote
+45
+referrer
+Footnote 46
+Joel Teitelbaum, Lara Cartwright-Smith, and Sara Rosenbaum, "Translating Rights into Access: Language Access and the Affordable Care Act," Am. JL & Med. 38 (2012): 348.
+Return to footnote
+46
+referrer
+Footnote 47
+HHS Office of Minority Health, "National Standards for Culturally and Linguistically Appropriate Services (CLAS) in Health and Health Care," October 12, 2012, https://www.thinkculturalhealth.hhs.gov/includes/downloadpdf.asp?pdf=EnhancedNationalCLASStandards.pdf.
+Return to footnote
+47
+referrer
+Footnote 48
+Noel, LeBlanc, and Forgues, "Benchmark Study on Bilingual Services in Canadian Health Care Facilities."
+Return to footnote
+48
+referrer
+Footnote 49
+McGill University, "Training and Retention of Health Professionals Project: Language Training Program - Overall Profile 2009-2013" (McGill University, June 30, 2013), https://www.mcgill.ca/hssaccess/files/hssaccess/language_training_program_-_overall_profile_2009-2013_5.pdf.
+Return to footnote
+49
+referrer
+Footnote 50
+Marie-Pierre Gagnon and Amélie Lampron, "The McGill Retention Bursary Program: Evaluation Report: Training and Retention of Health Professionals Project," 2015.
+Return to footnote
+50
+referrer
+Footnote 51
+MHCC, "What Is Mental Health First Aid Canada," Website of the Mental Health Commission of Canada, 2011, http://www.mentalhealthfirstaid.ca/EN/about/Pages/default.aspx.
+Return to footnote
+51
+referrer
+Footnote 52
+Noel, LeBlanc, and Forgues, "Benchmark Study on Bilingual Services in Canadian Health Care Facilities."
+Return to footnote
+52
+referrer
+Footnote 53
+Noel, LeBlanc, and Forgues, "Benchmark Study on Bilingual Services in Canadian Health Care Facilities."
+Return to footnote
+53
+referrer
+Footnote 54
+Noel, LeBlanc, and Forgues, "Benchmark Study on Bilingual Services in Canadian Health Care Facilities."
+Return to footnote
+54
+referrer
+Footnote 55
+Statistics Canada, "2011 Census of Canada: First Official Language Spoken," 2011, http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/tbt-tt/Rp-eng.cfm?LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GID=0&GK=0&GRP=1&PID=103026&PRID=0&PTYPE=101955&S=0&SHOWALL=0&SUB=0&Temporal=2011&THEME=90&VID=0&VNAMEE=&VNAMEF=.
+Return to footnote
+55
+referrer
+Footnote 56
+McGill University, "Training and Retention of Health Professionals Project: Language Training Program - Overall Profile 2009-2013."
+Return to footnote
+56
+referrer
+Footnote 57
+McGill University, "Training and Retention of Health Professionals Project: Language Training Program - Overall Profile 2009-2013."
+Return to footnote
+57
+referrer
+Footnote 58
+McGill University, "Training and Retention of Health Professionals Project: Retention Program - Overall Profile 2011-2013" (McGill University, June 30, 2013), https://www.mcgill.ca/hssaccess/files/hssaccess/retention_program_-_overall_profile_2011-2013_4.pdf; Gagnon and Lampron, "The McGill Retention Bursary Program: Evaluation Report: Training and Retention of Health Professionals Project."
+Return to footnote
+58
+referrer
+Footnote 59
+Noel, LeBlanc, and Forgues, "Benchmark Study on Bilingual Services in Canadian Health Care Facilities."
+Return to footnote
+59
+referrer
+Footnotes
+Footnote i
+There is a much longer term commitment here to seek recognition from provinces and territories of the importance of including language identifiers in their health administrative databases in order to assess health system concerns relating to language barriers faced by patients and health service providers. For the purpose of this management action plan and its monitoring by the Head of Evaluation, Health Canada will seek to obtain concrete results with 2 jurisdictions by the date indicated.
+Return to footnote
+i
+referrer
+Footnote ii
+The Retention and Distance Professional and Community Support Program was withdrawn at the end of 2013.
+Return to footnote
+ii
+referrer
+Footnote iii
+Namely Estrie, Outaouais, Côte-Nord, Gaspésie-Îles-de-la-Madeleine, Chaudière-Appalaches, Montérègie, Bas-Saint-Laurent, Saguenay-Lac-Saint-Jean, Capitale-Nationale, Maurice-Centre-du-Québec, Abitibi-Témiscamingue, Nord-du-Québec, Laurentides et Lanaudière.
+Return to footnote
+iii
+referrer
+Footnote iv
+See Appendix 4 for detailed information.
+Return to footnote
+iv
+referrer
+Footnote v
+Detailed data from the benchmark study are reported in Section 4.4.2.
+Return to footnote
+v
+referrer
+Footnote vi
+The jurisdictions in which OLMCs were
+not
+disadvantaged were Nunavut, New Brunswick, and Newfoundland and Labrador. This study used an index reflecting the availability of bilingual health professionals as well as the size and distribution of OLMCs.
+Return to footnote
+vi
+referrer
+Footnote vii
+The region with the largest number of graduates was Montérégie (651), followed by Saguenay-Lac-Saint-Jean (490) and Montréal (428). The regions with the fewest graduates were Chaudière-Appalaches (66), Côte-Nord (22), and Nord-du-Québec (19).
+Return to footnote
+vii
+referrer
+Footnote viii
+Program representatives indicated that 2013–2014 was a transitional year during which McGill received only $1.3 million in program funding (rather than $4.0 million). It used this funding to develop a language training program adapted for health and social services staff, and to conduct other activities relating to bursaries and internships. Similarly, McGill's multi-year contribution agreement with Health Canada was signed in March 2015 and relatively few individuals received language training in that year. As in the previous year, activities in 2014–2015 were oriented toward a pilot project to test training materials already developed, as well as retention and research activities. Also,  institutions in Quebec, by virtue of provincial legislation, are required to apply for federal funding through the intermediary of the provincial government.
+Return to footnote
+viii
+referrer
+Footnote ix
+This is not intended to be an exhaustive list.
+Return to footnote
+ix
+referrer
+Footnote x
+The survey methodology is described in detail in Appendix 3.
+Return to footnote
+x
+referrer
+Footnote xi
+It should be noted that Health Canada maintains separate contribution agreements for each CNFS institution as well as for the National Secretriat; however, only the National Secretariat is required to submit an annual performance report (i.e., by aggregating results across all institutions).
+Return to footnote
+xi
+referrer
+Footnote xii
+Note – we do not have enough information on the program's impact on OLMCs to say that this has been achieved.
+Return to footnote
+xii
+referrer
+Footnote xiii
+Note – we do not have enough evidence to say that it is fully achieved.
+Return to footnote
+xiii
+referrer
+Page details
+Report a problem on this page
+Date modified:
+2020-11-05

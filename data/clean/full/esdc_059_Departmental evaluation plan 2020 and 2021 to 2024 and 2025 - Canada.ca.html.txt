@@ -1,0 +1,933 @@
+Departmental evaluation plan 2020 and 2021 to 2024 and 2025
+On this page
+List of acronyms
+Deputy head confirmation note
+Executive summary
+Introduction
+Evaluation achievements in 2019 to 2020
+Evaluation coverage in 2019 to 2020
+Challenges and opportunities
+Resource allocation
+Going forward
+Annex 1: Evaluation governance
+Annex 2: Planned annual coverage tables
+Alternate formats
+Departmental evaluation plan 2020 and 2021 to 2024 and 2025
+[
+PDF
+- 1.3
+MB
+]
+Large print, braille,
+MP3
+(audio), e-text and
+DAISY
+formats are available on demand by
+ordering online
+or calling 1 800 O-Canada (1-800-622-6232). If you use a teletypewriter (
+TTY
+), call 1-800-926-9105.
+List of acronyms
+EI
+Employment Insurance
+ESDC
+Employment and Social Development Canada
+LMDA
+Labour Market Development Agreement
+PMEC
+Performance Measurement and Evaluation Committee
+Profiles
+Performance Information Profiles
+Deputy head confirmation note
+I approve the Departmental Evaluation Plan of Employment and Social Development Canada for 2020 and 2021 to 2024 and 2025, which I submit to the Treasury Board of Canada Secretariat as required by the
+Policy on Results
+.
+I confirm that this five-year rolling Departmental Evaluation Plan:
+Plans for evaluation of all ongoing programs of grants and contributions with five- year average actual expenditures of $5 million or greater per year at least once every five years, in fulfillment of the requirements of subsection 42.1 of the
+Financial Administration Act
+Meets the requirements of the Mandatory Procedures for Evaluation
+Supports the requirements of the expenditure management system including, as applicable, Memoranda to Cabinet, Treasury Board Submissions, and resource alignment reviews
+I will ensure that this plan is updated annually, and I will provide information about its implementation to the Treasury Board of Canada Secretariat, as required.
+Graham Flack
+Deputy Minister of Employment and Social Development
+Executive summary
+Employment and Social Development Canada (ESDC) supports Canadians through the delivery of over $130 billion
+Footnote
+1
+in Government programs and services, which help Canadians throughout their lives. The Department’s Evaluation function plays a key role in advancing this work, primarily by collaborating with program officials to support evidence-based decision- making on policy and program delivery. Each year, the Evaluation Directorate establishes evaluation priorities for the upcoming five-year fiscal period through consultations with program officials and Central Agencies. The consultations ensure the timely provision of evaluation information to senior management and program officials. They also help identify opportunities to measure results and to leverage thematic and horizontal evaluations. This document outlines ESDC’s evaluation planning up to 2024 to 2025. It includes information on how the Directorate is adapting its approach to continue making progress on its evaluations while supporting ESDC’s emergency response to the COVID-19 global pandemic. The report also summarizes the Evaluation Directorate’s major accomplishments in fiscal year 2019 to 2020.
+Key achievements
+In 2019 to 2020, as a contributor to ESDC’s program innovation landscape, the Directorate continued to develop innovative approaches and methodologies in designing and carrying out its evaluations. The Directorate also informed decision making, shared knowledge with program officials and increased its role as a trusted advisor. Several key achievements were realized over the course of the year
+:
+1) Supporting evidence-based decision making
+Provided reliable, cost-effective and timely evidence for program officials through the completion of 9 evaluation reports, 52 technical studies and 1 assessment, as well as policy and program design advice
+Incorporated evaluation evidence into decision-making documents, including 31 Treasury Board Submissions and 3 Memoranda to Cabinet
+Leveraged administrative data to provide the Department with insights into the impacts of ESDC’s labour market programs and services on recipients from various socio-economic groups
+Advised program officials on Performance Information Profiles for ongoing programs across the Department, and for all new programs at the design and implementation stages
+2) Sharing knowledge through dissemination and engagement
+Disseminated evidence through more than 15 presentations at domestic and international conferences
+Adopted new innovative report formats to help audiences better understand and visualize the results of evaluations
+Extended the retention of evaluation reports online to ten years on a mobile device accessible format.
+Used social media platforms to further disseminate evaluation reports and conference presentations made by evaluators.
+3) Broadening the trusted advisor role
+Supported the Head of Performance Measurement, who leads the ongoing review of the Department’s Performance Information Profiles, by advising program officials on the performance measurement of 19 ESDC programs.
+Obtained objective peer reviews for all evaluation results, as well as evaluation methodologies employed by the Directorate. This quality assurance process represents an international best practice for ensuring the quality of evaluations.
+Co-Chaired the Employment Insurance Monitoring Report Advisory Committee in collaboration with the Employment Insurance Policy Directorate, and developed supplementary studies to support the Committee’s work.
+Footnote
+2
+Over the next five years, Evaluation will continue building its established role as a trusted advisor to program officials, while fulfilling its obligations under the
+Financial Administration Act
+and the
+Policy on Results
+.
+In 2020 to 2021, 10 evaluations are currently planned for completion, with a focus on: seniors, disability benefits, foreign credential recognition, and student financial assistance.
+The Directorate is also working collaboratively with partners throughout the Department to provide advice and, in one case, an assessment regarding ESDC’s COVID-19 related initiatives. Evaluators are providing this support to policy, program, service delivery, audit, and integrity officials.
+4) Innovative approaches and methodologies
+Measured the impact of Apprenticeship Grants and the Temporary Foreign Workers Programs. This included innovative work to combine several administrative data sources which have been made available to Statistics Canada.
+Contributed to horizontal evaluation reports such as the evaluation of the Passport Program.
+Leveraged machine learning to better estimate the impact of ESDC labour market programs.
+Challenges
+Evaluation ranked human resource capacity and availability and quality of data as the two top challenges for the Directorate. To meet human resource capacity challenges, Evaluation is recruiting highly-qualified employees, facilitating the development of employees’ skills and competencies, and improving employee recognition programs.
+The Directorate will respond to anticipated demands through ongoing investment in its workforce and capacity, and adoption of innovative tools and methodologies.
+The ability to collect, produce and analyze data effectively is fundamental to program evaluation. To mitigate the risks associated with the availability and quality of data and performance measurement information, the Directorate will continue to support efforts of the Head of Performance Measurement and the Chief Data Officer by advising program officials on data quality. The Directorate will also leverage the Labour Market Data Platform to support evaluations of labour market programming.
+Another challenge relates to the availability of data necessary to conduct a GBA+ analysis for specific socio-economic groups. While administrative data contains information on a number of identity factors (for example, gender, age, level of education, rural/urban, families with children, persons with disabilities) that help facilitate this level of analysis, it generally does not contain the necessary information to examine identity factors such as membership in racialized and LGTBQ2+ communities. Therefore, the Directorate will continue to support the Department in exploring new and innovative methods for gaining information on program performance to permit broader GBA+ analysis.
+Following the outbreak of the COVID-19 pandemic in spring 2020, the Department’s role in supporting Canadians expanded through the delivery of a range of emergency benefits and measures, such as the Canada Emergency Response Benefit, the Canada Emergency Student Benefit, and an investment of $350 million to support the non-profit sector in delivering essential services to those in need. In this context, the Directorate is making several adaptations to evaluation work, such as:
+Mitigating the risk of virus transmission for evaluators, consultants, key informants, and partners by conducting surveys and interviews virtually as appropriate
+Recognizing potential limitations on the quality of virtual interview and survey data, such as lower response rates, and the higher risk of recall bias due to the pandemic crisis and its aftermath
+Reaching out to evaluation networks to identify and adopt innovative approaches in conducting evaluations, including utilizing new communication platforms such as Teams and WebEx
+Leveraging existing lines of evidence that have not been affected by the crisis, including rich integrated administrative data
+Taking into consideration how data collected following the COVID-19 outbreak will have contextual differences compared to data collected in the pre-pandemic era
+Notwithstanding adaptations to evaluation work in the COVID-19 context, further changes to evaluation planning will be required in consultation with partners in the coming months, including:
+Re-scoping some ongoing and planned evaluations in light of limitations encountered in some lines of evidence and changes to existing programs in response to the pandemic
+Advancing work for the evaluation of significant new COVID-19 initiatives
+Recalibrating resource allocation and the plan based on new priorities responding to the new environment
+Going forward
+Over the next five years, the ESDC Evaluation function will continue to seek ways to better support evidence-based decision-making, and fulfill its obligations under the
+Financial Administration Act
+and the TBS
+Policy on Results
+. There are several priority evaluation areas in the coming fiscal year. Reviews of labour market programming will focus on incremental impacts of participation to the program (using machine learning). Evaluations of learning programs will explore programs’ effect on education savings, as well as access to and affordability of education. Efforts on income security programs will focus on ongoing service improvement strategies.
+Building on recent evaluations, the Directorate will place greater emphasis on analyzing program impacts from a GBA+ lens, with a focus on marginalized groups (for example, racialized communities) when information allows. Evaluation Directorate will continue to support the Department’s efforts to modernize the way it collects and uses data to make informed evidence-based decisions and improve programs and services for all Canadians.
+In particular, over the next two years, ESDC will be prioritizing the analysis of Labor Market Programs for the unemployed, marginalized youth, Indigenous Peoples, students, and persons with disabilities through a GBA+ lens. This analysis will integrate a diversity lens when information allows.
+In addition, plans will be developed for evaluating new ESDC initiatives created in response to COVID-19. Evaluators will place special emphasis on identifying, gathering and analyzing available data on how ESDC’s COVID-19 related initiatives are impacting Indigenous Peoples, racialized communities and other marginalized groups. The Directorate will continue to work horizontally with other government departments to share best practices in terms of planning and conducting evaluations during and after the pandemic.
+Introduction
+Through a range of measures, Evaluation continues to provide key support to the Department’s results agenda across the spectrum of ESDC`s core responsibilities. The Directorate is continually exploring and adopting innovative methods, and engaging experts across academic and professional fields on evaluation best practices. It regularly communicates clear results in an actionable manner to senior management and other stakeholders through the publication of evaluation reports and technical studies, as well as through other dissemination activities. The Directorate is working to ensure that this high standard of evaluation will continue into the future by maintaining an agile, inclusive and equipped workforce.
+Purpose of the report
+To comply with the TBS
+Policy on Results
+, ESDC must ensure that a five-year departmental evaluation plan is developed and released annually.
+Footnote
+3
+This plan aims to assist the Deputy Head in ensuring that factual, neutral, and timely information on the Department’s programs is available to support evidence-based decision-making, and inform Canadians on results.
+Increased flexibilities provided under the
+Policy
+have increased the necessity for sound planning. The timing and scope of evaluations are determined in consultation with program officials and Central Agencies on the basis of need, risk, and priorities. The Plan also ensures transparency in the decision-making process within the evaluation function, highlighting program priorities and coverage decisions.
+Departmental context
+Employment and Social Development Canada’s mandate is to build a stronger and more competitive Canada, to support Canadians in helping them live productive and rewarding lives and to improve Canadians’ quality of life. The Department’s portfolio includes Employment and Social Development, the Labour Program, and Service Canada.
+Employment and Social Development delivers a range of programs and services that assist Canadians throughout their lives, providing seniors with basic income security, supporting unemployed workers, helping students finance their post-secondary education, and assisting parents who are raising young children.
+The Labour Program fosters safe, healthy, fair and inclusive work environments and cooperative workplace relations in the federal jurisdiction.
+Service Canada provides a single point of access for some of the Government’s largest and most well-known programs and services, such as Employment Insurance (EI), Old Age Security (OAS), Canada Pension Plan (CPP), the Social Insurance Number, and Passports.
+The Department spends over $130 billion annually
+Footnote
+4
+on programs and services, with approximately 94% of this amount directly benefiting Canadians through statutory transfer payment programs, including EI, CPP, and OAS. In addition, the Department administers employment benefits and support measures, which includes significant transfers to provinces and territories. The Department’s services are delivered through online service channels, over the telephone, and through a regional network of over 590 in-person service delivery sites.
+The most recent mandate letters for ESDC’s four ministers, which were released in December 2019, provide specific direction on the manner in which the Department’s objectives should be advanced. The letters emphasize the importance of evidence-based decision-making that takes into account a GBA+ perspective, which addresses the intersection between gender and other socio-economic factors. The Prime Minister also directs three ministers to lead ESDC in a way that enhances “openness, effectiveness and transparency in government,” and improves the unique and critical relationship between the Government of Canada and Indigenous Peoples.
+The COVID-19 global pandemic led the Government of Canada to rapidly develop and adjust a wide range of programs to support Canadians during the crisis. ESDC was heavily implicated in these developments, including by creating entirely new programs, such as the Canada Emergency Response Benefit and the Canada Emergency Student Benefit. The Department expanded numerous existing programs to make them more responsive to the changed circumstances of Canadians, such as relaxing debt repayment rules for clients of the Canada Student Loans Program, investing additional resources to support those experiencing or at risk of homelessness, and waiving the waiting period for EI sickness and expediting the issuance of money for eligible applicants.
+The Evaluation Directorate is adapting the way it works to conduct evaluations in a complex and evolving context. This includes evaluators discussing changes in evaluation designs and supporting the Head of Performance Measurement and program officials in developing their performance measurement strategies for new initiatives.
+ESDC’s Evaluation function supports the Department’s goals, including in the context of the federal pandemic response, by conducting the neutral collection and analysis of evidence to examine the relevance, effectiveness and efficiency of departmental programs and services. The results of this work are published in evaluation reports to inform Canadians, and to support decision-making by ESDC program officials and senior management. The Department’s evaluation function also supports the broader Government’s objectives to “instill a culture of evaluation, measurement and evidence-based decisions in program and policy design and delivery.”
+Footnote
+5
+ESDC programs touch the lives of Canadians across the country, and must be designed to ensure that these programs and services meet the diverse needs of all Canadians. By developing a more advanced capacity to analyze policy, program, and evaluation design and delivery through a GBA+ lens, the Department is working to build a stronger and more inclusive Canada, and ensure that all segments of the population have equitable access to programs and services.
+Mandate
+The Evaluation function collaborates with program officials across the Department to support evidence-based decision-making and ensures program officials and senior management are involved in the design and execution of evaluations. The Directorate encourages program partners to provide input into the evaluation process through an inclusive approach to governance (Annex A2). This approach helps provide relevant information to program officials in a timely fashion, ensuring that Evaluation continues to be a trusted advisor in the Department.
+Evaluation’s involvement with program officials occurs throughout the program and policy life cycle. During the initial stages, evaluations are able to inform the design and development of new programs and policies. During implementation, interim reports and phased evaluations can provide recommendations, supported by available data and information that guide adjustments and program renewal. As a program or policy matures, sunsets, or further evolves to meet needs, evaluations provide lessons learned, which can inform the development of future programs or policies.
+Evaluation advises program officials on the development of their management response and action plans addressing evaluation recommendations from several perspectives, including strategic, corporate, and program design and implementation. By monitoring progress on action plans, Evaluation helps to ensure a system of continuous improvement throughout the evaluation cycle.
+Evaluation achievements in 2019 to 2020
+The Evaluation Directorate’s products focused on key knowledge gaps and on the relevance, effectiveness and efficiency of programs. Evaluation findings are accompanied by recommendations for program improvement.
+Supported evidence-based decision making
+Completed 9 evaluation reports, 52 technical studies and 1 assessment to support program officials and senior decision makers.
+Advised on 31 Treasury Board Submissions and 3 Memoranda to Cabinet to ensure that evaluation evidence is considered in the Government’s policy-making process.
+Extended the Labour Market Program Data Platform to conduct net impact analysis for evaluations using administrative data from youth and Indigenous programs.
+79%
+of program officials indicated the evaluation of their program addressed key issues the program is facing.
+83%
+of program officials indicated the evaluation contained valid, evidence-based findings and conclusions .
+Shared knowledge through dissemination & engagement
+Disseminated evidence and innovations through more than 15 presentations at domestic and international conferences and workshops.
+Published 9 reports and increased their mobile discoverability by extending online retention to 10 years.
+Revamped the Evaluation webpage and promoted evaluations publicly on social media.
+Broadened the trusted advisor role
+Advised the Head of Performance Measurement on performance measures in 19 Performance Information Profiles to improve their quality.
+Supported the EI Commissioners for Employers and Workers by examining labour market issues through evaluations, supplemental studies, and internal analysis.
+“Evidence indicates that the evaluation function is adding important value to ESDC.”
+-Neutral Assessment of ESDC’s Evaluation Function, 2018 to 2019
+Supporting evidence-based decision making
+The evaluation function influenced and supported sound decision-making at ESDC by:
+Producing and submitting 38 products to the Performance Measurement and Evaluation Committee (PMEC), which is chaired by the Deputy Minister to review and approve performance and evaluation activities. The products included 9 evaluation reports, 4 horizontal evaluations, 1 assessment, 1 technical study, and 8 information items
+Advising on 31 Treasury Board Submissions and 3 Memoranda to Cabinet to inform policies and programs
+Since its launch in fall 2018, the Evaluation Directorate`s Labour Market Program Data Platform has become an essential source of information for the Department. It provides new and valuable insights on the long-term impact of ESDC’s labour market programming, enabling program officials to address opportunities for improvement and expand on key successes. The platform has enabled key insights into how Canadians from various socio-economic groups can be impacted differently by the Department’s policies, programs and initiatives. In 2019 to 2020, Evaluation made a series of improvements to the Data Platform, including:
+Adding new indicators for measuring ultimate outcomes, and integrating data from other labour market programs targeted to youth, Indigenous Peoples and persons with disabilities
+Providing program officials access to the Platform to conduct policy analysis that informs the annual EI Monitoring and Assessment Report
+Increasing the Platform’s usefulness in implementing data-driven techniques and algorithms such as machine learning
+Disseminating and engaging
+In addition to producing and publishing 9 evaluation reports online in 2019 to 2020, the Evaluation Directorate generated a number of other products, including technical reports, one-page summaries, lessons learned syntheses, conference presentations, and supplemental studies. In the spirit of Open Government, Evaluation Directorate improved public awareness and discoverability of Directorate products and expanded our audience using various dissemination channels. These activities spanned five key areas:
+1. Publishing, presentations & participation
+Shared best practices on the  effective use of administrative data for labour market program evaluations by  presenting at international fora. This included conferences held by United  Nations Children’s Emergency Fund (UNICEF) Latin America and  Caribbean in Panama City and the European Commission-Organization for Economic  Cooperation and Development (OECD) in Brussels. Several international  organizations, including the OECD and UNICEF,  approached ESDC to learn from the Department’s experience in leveraging  administrative data and the use of innovative methodologies to better evaluate  international labour market programs and child development programs.
+Delivered presentations at 13 national conferences to disseminate knowledge, and increase awareness of insights emerging from ESDC evaluations and the Department’s innovative evaluation  methodologies. These events included the annual conference of the Canadian  Economics Association, the annual conference of "
+la Société  canadienne de science économique,
+" and the International Metropolis Conference.
+Participated in and exchanged best practices at various evaluation seminars, including  the Canadian Evaluation Society Conference.
+2.Increasing accessibility
+Redesigned the public-facing ESDC evaluation website to improve the user experience and mobile access.
+Secured 10 year online retention for evaluation reports
+3. Social media engagement
+Shared results through social media.
+4. Supporting policy analysis
+Shared technical studies and evaluations with policy developers across the Department to inform policy analysis and program improvements, including in relation to Employment Insurance, Labour Market Development Agreements and the Sectoral Initiatives Program.
+5. Advancing federal evaluation function
+Contributed to the Government’s evaluation capacity by facilitating and presenting in professional development sessions for federal evaluators. This included collaborating with the Treasury Board of Canada Secretariat and the Canada School of Public Service to deliver two learning sessions on strategic evaluation planning to evaluators and analysts from across the Government of Canada.
+Implemented a new process to streamline the collection, analysis, and reporting of Management Action Plans. This new process was posted on the Treasury Board Secretariat’s Results Portal for other departments to refer to as a best practice.
+The trusted advisor role
+Over the course of 2019 to 2020, the Evaluation Directorate continued to act as a trusted advisor to program officials and senior management by:
+Supporting the Head of Performance Measurement, who leads the ongoing review of the Department’s Performance Information Profiles, by advising program officials on the performance measurement of 19 ESDC programs.
+Supporting the EI Commissioners for Employers and Workers in examining labour market issues by developing eight supplemental studies from the 2018 to 2019 workplan and supporting the work of the Monitoring Report and Advisory Committee.
+Collaborating with Learning Branch on the assessment of the Canada Student Loans Program Skills Boost Measures so that appropriate advice on next steps could be formulated. The assessment examined the impact of the Skills Boost Measures on participants’ decision to return to school and its influence on their studies.
+Obtaining thorough peer reviews for all evaluation results, as well as the evaluation methodologies employed by the Directorate. This approach represents an international best practice with respect to ensuring evaluation rigour.
+Continuing involvement in the Forum of Labour Market Ministers’ Performance Measurement Working Group. This includes providing advice regarding performance measurement strategies and data sharing between the federal, provincial and territorial governments in support of evaluation activities.
+Coordinating the completion of eight supplemental studies from 2018 to 2019 and disseminated findings through multiple channels in cases where findings were used as a line of evidence for a program evaluation. Looking forward, the Evaluation Directorate will lead the completion of three supplemental studies related to post- claim outcomes.
+The Directorate’s work on COVID-19 related measures is part of an overall effort by the Department’s Strategic and Service Policy Branch to assist program officials in responding to the crisis. In particular, evaluators are providing advice on departmental initiatives aimed at assisting the non-profit sector in weathering the global health crisis. Evaluators are also supporting the Department’s efforts to maintain integrity measures by providing advice on the effectiveness and efficiency of new systems put in place in response to COVID-19.
+The Directorate will continue supporting program and policy areas in their efforts to collect data that is necessary for informing more detailed analysis of program impacts on racialized Canadians and other marginalized populations using the GBA+ lens.
+The Evaluation Directorate collaborates with the Employment Insurance Policy Directorate to provide input and data analysis for the preparation of the annual Monitoring Assessment Report. Employment Insurance programs are evaluated more frequently than other statutory programs due to the scale and unique objectives of each EI benefit (for example, regular benefit, seasonal, sickness, maternity or parental, fishing), and EI pilots (targeted pilots for seasonal industries in 13 regions throughout Canada).
+Both Directorates work together with members of the Monitoring Report and Advisory Committee to prepare an annual workplan that includes supplemental studies and internal analysis with input and direction from both the EI Commissioner for Employers and the EI Commissioner for Workers. The list of studies and analysis can be found in the annual Monitoring Assessment Report (https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/monitoring2018.html).
+Evaluation administers a Post-Evaluation Questionnaire following Performance Measurement and Evaluation Committee approval of reports. The questionnaire provides program officials involved with an evaluation the opportunity to rate and comment on the process, the level of collaboration, and the quality, utility, and timeliness of the evaluation. Feedback gathered through this process enables the Evaluation Directorate to identify strengths and areas for improvement.
+Innovative approaches
+As a central component of ESDC’s program innovation landscape, Evaluation employs advanced tools and methods to develop an evidence base for policy and program development. During 2019 to 2020, the Directorate pursued several innovative practices to better estimate the impact of programs, disseminate results to inform decisions, and experiment with new approaches. These included:
+Engaging program officials to participate actively in the evaluation process by assisting the development of lines of evidence, and embedding program officials within the Evaluation Directorate to enable knowledge transfer
+Convening two Expert Panels as a line of evidence for an evaluation of the Foreign Credential Recognition Program, which promotes inclusion and helps immigrants and refugees to integrate in the Canadian labour market. The Expert Panels consisted of experts (two academics and one representative from a non-governmental organization) involved in the study of Foreign Credential Recognition issues or in addressing the issues “on the ground,” to achieve balanced utilization of information and expertise about the program
+Collaborating with ESDC’s Innovation Lab, which applies design thinking approaches to improving departmental programs and services, to identify barriers to Guaranteed Income Supplement take-up among eligible Canadians
+Working with several federal departments to contribute to horizontal evaluation reports, such as the evaluation of the Passport Program, which involved collaboration between ESDC, Global Affairs Canada and Immigration, Refugees and Citizenship Canada
+Developing a joint audit/evaluation of the Old Age Security (OAS) Program’s Service Improvement Strategy in cooperation with ESDC’s Internal Audit Branch. This partnership will result in a robust evaluation while reducing resource demands for the program area
+Continuing development of the Labour Market Program Data Platform, which is recognized domestically and internationally as an innovative best practice in terms of labour market performance measurement and net impact evaluation of youth and Indigenous labour market programming
+Enhancing the capacity of ESDC to measure the impact of Apprenticeship Grants, as well as the Temporary Foreign Worker Program, on the Canadian labour market by producing datasets that combine several individual administrative data sources. The datasets have been made available to Statistics Canada, enabling provincial and territorial governments to make more informed decisions with respect to labour market programming and research. This work was undertaken in collaboration with Statistics Canada, ESDC’s Chief Data Office, and program officials
+Developing a more efficient process to streamline management action plan reporting, which was shared by the Treasury Board of Canada Secretariat (TBS) as a model practice
+Results
+Through 9 evaluations completed in 2019 to 2020, Evaluation measured results across all five core departmental responsibilities. A sample of results extracted from these evaluations include:
+Improving the labour market attachment of Indigenous peoples
+In 2019 to 2020, the Evaluation Directorate conducted a summative evaluation of the Aboriginal Skills and Employment Training Strategy and the Skills and Partnership Fund.
+The evaluation found that both the Strategy and the Fund had a positive impact on the labour market attachment of participating Indigenous peoples. The Strategy’s skills development intervention was identified as especially effective at improving participants’ labour market attachment. The evaluation also found that implementing both the Strategy and the Fund fostered sustainable relationships with Indigenous partners. The evaluation included a cost- benefit analysis of the Aboriginal Human Resources and Development Agreements, which are predecessors of similar agreements under the Strategy. This analysis demonstrated a positive social return on investment over a 12-year period.
+Excerpt from the evaluation report for the Strategy and Fund (pg. 14)
+The chart below demonstrates in further detail how, following an intervention, Strategy participants had increases in employment earnings, incidence of employment and decreases in reliance on social assistance compared to non-participants after controlling for other factors. The participants are sub-divided into 3 Employment Insurance (EI) claimant types at the time they participated in an intervention. They were either currently in receipt of EI (Active), in receipt of EI at some time in the five years prior to participation (Former), or not in receipt of any EI benefits (Non-Claimant).
+Strategy incremental impacts, three-year post-participation period
+Category
+Employment Earnings (Cumulative)
+Incidence of Employment (Annual Average)
+Social Assistance (Cumulative)
+EI Claimants
+$10,920
++3.9
+pp
+-$180
+Ex-EI Claimants
+$4,000
++2.7
+pp
+-$830
+Non Claimants
+$2,400
++2.1
+pp
+-$390
+Source: Administrative Data Technical Report. pp = percentage points.
+Results are statistically not significant, still they are valid in terms of informing the direction of the impact (negative or positive).
+Assisting youth in making the transition from education to employment, while helping at-risk youth overcome barriers to employment
+The Evaluation Directorate conducted evaluations for each of the three streams of the Youth Employment Strategy: Skills Link, Career Focus, and Summer Work Experience.
+The evaluation of Skills Link, which targets youth who face barriers to develop employability skills and gain employment experience, found that the impact of Skills Link interventions were limited. However, the evaluation also found that youth who received interventions in the form of work experiences had stronger labour market attachment compared to youth who received interventions in the form of group-based workshops. The evaluation of Career Focus, which offers career-related work experiences to post-secondary graduates, found that the initiative had a positive and lasting impact on participants’ labour market attachment. The evaluation of the Summer Work Experience stream found that over 90% of students who participated in the program indicated that their experience helped them develop workplace competencies for addressing complex challenges. Most participating students also said that earnings obtained through the program helped defray their school expenses.
+In June 2019, the Youth Employment Strategy was modernized to become the new Youth Employment and Skills Strategy. This transition took place during the preparation of the evaluation report, and preliminary evidence was shared with program officials to inform the modernization.
+Facilitating the social inclusion of Persons with disabilities
+The Evaluation Directorate agreed to undertake an assessment of the Community Inclusion Initiative (CII), a funding stream of the disability component of the Social Development Partnerships Program, to support a 2017 program renewal commitment to review the regional operating funding stream (CII). This formal assessment looked at impact, outcomes and needs within the community. Evaluation’s assessment found that CII recipients regarded it as one of the few programs to promote social inclusion through a range of approaches, including direct service provision, awareness-raising activities, and capacity building. The assessment also found that the Initiative’s goals align with departmental and federal priorities supporting the inclusion of Canadians with disabilities.
+Two areas were flagged as areas for improvement. These included a need to have more clearly defined objectives, as well as to collect appropriate data from the recipients in order to better measure and report on the community impact. Starting in 2020 to 2021, the Department will work collaboratively with the recipient organizations on these areas for improvement.
+Supporting the parents of critically ill children
+The evaluation of the EI Parents of Critically Ill Children benefit, which is provided under EI Caregiving Benefits and Leave, found that the benefit was effective in easing financial pressures on parents in order to provide them with more time to provide care to their critically ill or injured children. The findings also revealed low levels of public awareness and incomplete understanding of the benefit. The evaluation recommended greater efforts to boost awareness and better self-service options for applicants.
+Improving service delivery to Indigenous Peoples
+The horizontal evaluation of Service Canada’s provision of general information and services via in-person, telephone and online channels found that, while most client needs are being met, Indigenous People experience barriers to accessing information and services with respect to major statutory programs, such as the Canada Pension Plan. For example, Service Canada’s Client Experience Survey 2017 indicates that only 64% of Indigenous clients report satisfaction with their ability to find information in a reasonable time compared to 79% of non- Indigenous respondents. The evaluation identified several factors contributing to this disparity, including reduced access to the internet in many Indigenous communities as compared to the national average.
+In response to the findings of the evaluation, the Department committed to identifying best practices in its outreach to remote and reserve communities, and has initiated outreach pilots in six urban Indigenous communities.
+Enhancing the analysis of program impacts on specific socio-economic groups
+The 2019 Evaluation of the Employment Equity Program observed that program development would benefit from re-examining definitions of designated groups beyond women, Indigenous peoples, persons with disabilities and members of visible minorities for the possible inclusion of: LGBTQ2+; older and younger workers; veterans; and, immigrants.
+Evaluation coverage in 2019 to 2020
+When determining the timing and order of future evaluations, the Directorate uses a risk-based approach that prioritizes mandatory evaluations, as well as those that are most likely to inform major policy and program decisions.
+In 2019 to 2020, the Evaluation Directorate completed all evaluations that were mandatory according to the
+Financial Administration Act
+and the
+Policy on Results
+. The Directorate also succeeded in completing all evaluations that were initiated in response to requirements outlined in Treasury Board submissions.
+For some non-mandatory evaluations, capacity constraints required the Directorate to exercise the flexibility granted to it through the
+Policy on Results
+to adjust its evaluation schedule. This included carrying over 5 evaluations originally scheduled for 2019 to 2020 to the following fiscal year.
+In addition to undertaking evaluations planned at the outset of each new fiscal year, the Directorate also strives to maintain a degree of flexibility to pursue additional evaluations should opportunities emerge or circumstances change during the year. In 2019 to 2020, Evaluation Directorate completed 1 unplanned assessment of the Community Inclusion Initiative that is funded through the Social Development Partnerships Program.
+The Directorate also developed 2 evaluability assessments and 4 evaluation strategies over the course of the fiscal year, all of which were presented to and approved by PMEC. Evaluability Assessments or Evaluation Strategies are presented for PMEC’s input and approval on essential elements of every evaluation’s design. The Directorate engages with program officials in the development of these evaluation planning documents to ensure that their strategic evidence needs are incorporated into the questions, timing and scope of the evaluation project.
+In total, the Evaluation Directorate completed and received Deputy Minister approval for 9 evaluation reports in 2019 to 2020:
+Table 1: Deputy Minister approved evaluation reports for 2019 to 2020
+Planned evaluation Reports
+Completion (that is, Deputy Minister Approval)
+Parents of Critically Ill Children Employment Insurance Benefit
+Completed: April 2019
+Evaluation of Apprenticeship Grants Program
+Completed: July 2019
+Providing Services and Information to Canadians
+1
+Completed: October 2019
+Old Age Security (OAS) Evaluation Phase II
+Completed: December 2019
+Youth Employment Strategy Summative Canada Summer Jobs
+Completed: February 2020
+Youth Employment Strategy Summative Skills Link
+Completed: February 2020
+Youth Employment Strategy Summative Career Focus
+Completed: February 2020
+Evaluation of Aboriginal Skills and Employment Training Strategy, and the Skills and Partnership Fund
+Completed: February 2020
+Evaluation of the Passport Program
+Completed: March 2020
+Guaranteed Income Supplement Take-up Evaluation Phase II
+Carried Over: September 2020
+EI Sickness Benefits – Evaluation
+Carried Over: June 2020
+Evaluation of the Opportunities Fund for Persons with Disabilities, Phase 2
+Carried Over: November 2020
+Job Bank – Evaluation
+Carried Over: November 2020
+Canada Apprentice Loan Evaluation
+Carried Over: September 2020
+Assessment of the Community Inclusion Initiative
+2
+Completed: November 2019
+1
+Encompasses GoC Telephone General Enquiries Services, GoC Internet Presence and In-Person Points of Service
+2
+The assessment was considered by PMEC.
+In meeting its obligations under the
+Policy on Results
+, all of the Department’s evaluation reports were transmitted to the Treasury Board of Canada Secretariat and released to the public in a timely manner.
+In 2020 to 2021, the Directorate plans to complete 10 evaluations in total. Five of those evaluations are carried over from the previous year, including those for EI Sickness Benefits, Canada Apprentice Loan, Job Bank, and the Opportunities Fund for Persons with Disabilities. The Evaluation Directorate will provide advice to program officials on the development of reliable performance measurement approaches for various new departmental programs and initiatives, including with respect to Performance Information Profile indicators. Given the significant and rapid changes to ESDC’s programming in 2020 to 2021 to respond to the COVID-19 pandemic, the Directorate will advise on the performance measurement of ESDC programs that have been created or enhanced since the beginning of the crisis in March 2020.
+For 2021 to 2022, planned evaluations include: Workforce Development Agreements, Student Work Placement Program, and the Union Training and Innovation Program. While additional evaluations may be identified in the coming year, constraints will necessitate capacity management, prioritization, and the adoption of innovative approaches during the next two years.
+Increased flexibility
+Under the
+Policy on Results
+, ongoing grants and contributions programs that have a five-year average actual expenditure of less than $5 million per year are not subject to the
+Financial Administration Act
+requirement for a review of the relevance and effectiveness of the program. This exemption is applicable to two programs (that is, the Sustainable Development Goals Funding Program, and the Canadian Benefit for Parents of Young Victims of Crime).
+Consultations
+In carrying out evaluation planning, the Evaluation Directorate engaged in strategic discussions with corporate, program, and policy officials to ensure that evidentiary and operational needs were considered.
+Between October 2019 and February 2020, the Directorate held consultations with program officials to discuss evaluation needs, scope and timing over the next five years. Several common themes and concerns emerged over the course of the consultation sessions, including: the desire for recent changes to program policy to be captured in forthcoming evaluations, the possibility of grouping together programs or sub-programs under one evaluation as a way of increasing evaluation efficiency, and the difficulties of measuring the capacity of program funding recipients for grants and contributions programs. Other topics discussed related to challenges with program data collection, improving program performance measurement, and effectively applying GBA+ perspectives to evaluations.
+The consultation period also allowed for the Directorate and other ESDC units to identify new opportunities for collaboration, including a joint audit/evaluation of Old Age Security that will be undertaken in conjunction with Internal Audit Branch and completed in 2022 to 2023.
+The evaluation planning process also included consultations with TBS, during which advice from central agencies was provided on priorities and needs related to the evaluation function. Consultations held in January 2020 identified the need to incorporate evaluation evidence into decision-making documents, including Treasury Board Submissions and Memoranda to Cabinet. This evidence can be a combination of research, technical studies, or evaluation results to inform the development or review of programs.
+Reflecting the desire to strengthen evidence-based decision-making, program officials continue to improve the quality of the Performance Information Profiles with advice from Evaluation. As well, the Evaluation Directorate continues to work with departmental researchers to coordinate activities and identify opportunities for collaboration. Evaluation will continue to develop means through which early knowledge from ongoing evaluations can inform and be integrated into program and policy decision-making, and provide input to Treasury Board Submissions and Memoranda to Cabinet.
+The Directorate has contacted program officials across the Department to discuss potential changes to ESDC’s evaluation schedule necessitated by the outbreak of the pandemic.
+Upcoming engagement with officials will focus on adjustments to the timing, scope and methodologies of various evaluations in order to take into account changes in priorities and needs of program areas.
+Risk assessment
+The risk assessment exercise examines program-level characteristics that contribute to the overall risk of a program, departmental risks identified in the Corporate Risk Profile, and risks specific to the Evaluation Directorate. By incorporating a multi-level approach to the determination of risk, Evaluation ensures that perspectives of key program partners and internal risks are considered.
+Program characteristics also act as a proxy for risk exposure during the evaluation planning exercise. Characteristics considered in early stages of evaluation planning include:
+size of the population affected or targeted by the program
+program materiality (for example, value)
+program complexity
+time elapsed since the previous evaluation
+magnitude of change to the program since the previous evaluation
+knowledge gaps with respect to the program
+Risks specific to individual evaluations are further assessed in evaluability assessments to ensure that they are identified prior to the evaluation. Evaluability assessments consider limited risks, such as those associated with program oversight, availability of data, and the application of earlier evaluation findings. Evaluability assessments are an early-stage evaluation phase where the essential components of an evaluation are examined. They highlight timing and scope based on resource limitations, data quality and availability, and core evaluation issues of interest to program partners. The assessments are developed in collaboration with program officials and presented to PMEC for approval.
+Key corporate risks for the department are also considered when planning discretionary evaluations, and include a review of the risk-based corporate audit plan. In carrying out this work, the Directorate ensures audit and evaluation schedules are aligned to reduce duplication or burden placed on programs. In situations where audit and evaluation schedules overlap for the same program, Evaluation Directorate may partner with Internal Audit Branch to conduct a joint audit/evaluation as a means of efficiently examining performance and outcomes. In 2020 to 2021, the Directorate will begin work on a joint audit/evaluation of Old Age Security Service Improvement in tandem with departmental auditors. Collaboration ensures an overall assessment of the adequacy and effectiveness of a department's control processes is conducted (audit coverage), and that relevance and cost-effectiveness of a program are also assessed (evaluation coverage). This approach also reduces some administrative burden for the program.
+Challenges and opportunities
+ESDC’s Evaluation function continues to face two key challenges:
+Challenge 1: Human resources capacity
+The Directorate is responding through several measures:
+Leading efforts to improve promotional material and recruitment for the evaluation function
+Engaging with staff to support a positive and healthy workplace
+Supporting professional development of staff
+Canadian Evaluation Society certifications
+Data Skills Training
+Conference presentations
+Using flexible staffing options
+Students/Post-Secondary Recruitment
+Collective staffing
+Casuals
+Consultants
+Challenge 2: Quality of ESDC’s data and performance measures to support evaluations
+The Directorate is responding through several measures:
+Working with the Head of Performance Measurement, advising responsible program officials and the Performance Measurement and Evaluation Committee on the quality and utility of Performance Information Profiles in support of evaluation activities
+Assessing data and performance indicators in evaluability assessments
+Expanding the Labour Market Data Platform to improve data, analysis, and performance measures for related programs
+Conducting surveys to support metrics
+Human resources capacity
+The nature of the work undertaken in the Evaluation Directorate requires the continuous recruitment, development and retention of highly skilled employees. The Directorate requires specialized skills to analyze, synthesize, and communicate complex lines of quantitative and qualitative evidence in order to provide the quality advice that the Department relies on to effectively build policy and programs to best serve Canadians.
+Evaluation is taking several steps to improve recruitment and employee retention and is leading government-wide efforts to improve promotional material and recruitment. The Directorate supports collective staffing processes across government to ensure there is a continuous intake of new candidates with the right skills through a streamlined hiring process. In addition, the Evaluation Directorate is supporting the establishment of the Emerging Evaluators Network, an informal group of evaluators from across government that discuss issues of importance to the evaluation community.
+By aligning the Directorate with the Government of Canada’s Beyond2020 vision, Evaluation is ensuring an agile, inclusive and equipped workforce that is enabled to meet departmental challenges. To ensure that capacity demands are met in the short term, the Directorate uses flexible staffing tools, such as hiring students, casual employees and consultants. In addition, a number of retired public servants were hired on a temporary basis to fill specific capacity gaps.
+Past surveys have found that Evaluation employees think they get the training they need. Evaluation is implementing additional talent management programs, including:
+continuing to use Performance Agreements, Learning Plans and Talent Management Plans to support staff development
+ensuring that team members understand the competencies required for their current job and those they may aspire to
+implementing strategies to improve second language skills to support bilingual capacity and advancement of experienced staff
+To further promote the professional development of employees, Evaluation supports Canadian Evaluation Society membership for 26 employees, 11 of which were accredited as a “Credential Evaluator” by the Society. Evaluation further assists in employees’ professional development by holding regular internal training sessions, equipping them to meet the challenges of an evolving profession and workforce.
+Past surveys indicate that Evaluation Directorate employees get a sense of satisfaction from their work, and feel that they receive meaningful recognition for work well done. In addition to leveraging flexibilities provided by the
+Policy on Results
+to address these concerns, Evaluation will continue to focus on developing a healthy workplace for its team members by providing training, support and avenues for open dialogue.
+In 2019 to 2020, management engaged with staff to strengthen and improve the workplace by:
+continuing to celebrate and recognize achievements
+managing and prioritizing workflows
+encouraging staff to expand skills by presenting their work to internal and external stakeholders and partners
+inviting observers to senior officials’ meetings
+ensuring analysts are present when their files are discussed
+In 2019, the Directorate launched its Health, Wellness and Greening of the Workplace Initiative, which is an employee-led campaign encouraging evaluators and staff to organize and participate in more social activities that promote teamwork and well-being. The initiative also promotes approaches to work that are beneficial for the environment, such as green commuting, more flexible work arrangements, and energy conservation in the workplace.
+Evaluation fully supports workplace mental health and has contributed significantly to the development of the Department’s mental health framework. A continued focus on the mental health of employees is central to not only encouraging open discussion about issues that affect individuals on a daily basis, but also ensuring that management is aware of emerging issues and is able to support employees in an effective manner.
+In response to the pandemic and associated office shutdowns, the Evaluation Directorate is leveraging innovative tools to ensure its staff is able to adapt to a rapidly changing environment. An online virtual learning series is enabling continuous engagement and collaboration with team members. Several members of the Directorate also put their name forward to assist with essential activities in the Department.
+Quality of data and performance measurement to support evaluations
+Evaluations undertaken by the Directorate are highly dependent on the availability of quality data. Performance measurement information used is used by evaluators to determine relevance and value for money, and occasionally to assess how a program is being implemented.
+In collaboration with the Head of Performance Measurement, and consistent with the
+Policy on Results
+, Evaluation advises PMEC and program officials on the availability, quality, validity, and reliability of indicators in the Departmental Results Framework. This is also done for each program Performance Information Profile, including with respect to their usefulness for supporting evaluations. Program officials across the Department develop, update and implement Performance Information Profiles for all existing and new programs in the supporting evaluations. They also update and implement Performance Information Profiles for all existing and new programs in the Department’s program inventory.
+Evaluation has significantly improved data and analysis for labour market programs, enhancing the attribution of outcomes to program activities. The Labor Market Program Data Platform supported numerous evaluation studies related to the Labour Market Development Agreements. These studies addressed program and policy questions of importance to ESDC and the provinces and territories that are responsible for delivering these interventions under the Agreements. In 2019 to 2020, Evaluation leveraged the Data Platform, expanding net incremental analysis to youth and Indigenous labour market programming.
+Evaluability assessments and evaluation strategies include a review of a program’s performance information. Most recent evaluations have provided evidence of program activities’ contribution to desired outcomes, enabled through access to rich administrative data. This is an improvement over past years when ESDC evaluations were often limited to documenting inputs and outputs. Evaluation continues its collaboration with partners to support the continued development of data and the maturity of the performance measurement regime. While the pandemic may render the collection of new data to support evaluations more challenging, the Directorate will pursue mitigation steps in collaboration with program officials.
+Another challenge relates to the availability of data necessary to conduct a GBA+ analysis for specific socio-economic groups. While administrative data contains information on a number of various identity factors (for example, gender, age, level of education, rural/urban, families with children, and persons with disabilities) that help facilitate this level of analysis, it generally does not contain the necessary information to examine identity factors such as racialized and LGTBQ2+ communities. Therefore, the Directorate will continue to support the Department in exploring new and innovative methods for gaining information on program performance to permit broader GBA+ analysis.
+Resource allocation
+Evaluation Directorate will begin 2020 to 2021 with a full complement of staff; consequently, anticipated hiring is lower than previous fiscal years. This full complement has resulted in higher than average salary expenditures forecasted for the year. While non-salary expenditures remain low relative to historic standards, a few large surveys are anticipated to increase non- salary expenditures from last fiscal year.
+Over the medium-term, human and financial resource pressures are expected as a result of increasing demands for: thematic and horizontal evaluations; experimentation and development of innovative methodologies and tools to better measure the impacts of programs, and collaboration with programs to improve the quality of performance measurement across the Department. The Directorate will continue to meet medium-term pressures through its human resource management plan.
+To optimize capacity over the last five years, Evaluation has reshaped the composition of its workforce. An increased complement of junior staff replaced vacated senior positions, providing additional capacity and new skill sets to meet expanding priorities. The shift towards more junior positions is enabling the completion of work previously undertaken by external consultants. Junior evaluators often possess new and emerging skill sets that further boost the Directorate’s capacity to carry out high quality and innovative evaluations.
+Figure 1: Year-to-year analysis of evaluation expenditures reflects both efficiencies gained over recent years, and increasing demand for results evidence. (In millions of dollars)
+Text description of Figure 1
+In Millions ($)
+2010-2011
+2012-2013
+2014-2015
+2016-2017
+2018-2019
+2020-2021
+Salaries
+$5.65
+$5.06
+$5.17
+$4.72
+$5.51
+$5.23
+$4.58
+$5.32
+$5.13
+$5.70
+$6.40
+O&M
+$3.47
+$3.81
+$2.87
+$2.55
+$2.01
+$1.02
+$1.00
+$1.13
+$0.91
+$1.30
+$1.60
+Total Budget
+$9.12
+$8.87
+$8.04
+$7.27
+$7.52
+$6.25
+$5.58
+$6.45
+$6.04
+$7.00
+$8.00
+Note: Figures rounded to the nearest tenth; 2020 is a forecast.
+Going forward
+In the coming years, priority evaluations will assess labour market, learning and income security programs, as well as programs developed or enhanced to respond to the COVID-19 pandemic. The incremental impacts of participation in labour market programs and the attribution of these programs will be evaluated using net impact analysis and machine learning techniques.
+The Evaluation Directorate is exploring the development of a GBA+ analytical approach for examining four separate labour market programs in a horizontal evaluation of the Indigenous Skills and Employment Training Program, the Youth Employment Strategy, Labour Market Development Agreements, and the Opportunities Fund for Persons with Disabilities. Depending on the availability of resources, an incremental net impact methodology could be used to examine results from participation in these programs. This approach would facilitate an exploration of what works for whom.
+Building on recent evaluations, the Directorate will place a greater emphasis on analysing program impacts from a GBA+ lens with a focus on marginalized groups, such as racialized communities, when information allows. To that end, Evaluation will continue to support the Department’s efforts to modernize the way it collects and uses data to make informed evidence-based decisions and improve programs and services for all Canadians. In particular, over the next two years, ESDC will prioritize analysis of the impact of Labor Market Programs on unemployed, marginalized youth, Indigenous Peoples, students, and persons with disabilities. This work will encompass analyses of the performance of several of ESDC’s COVID-19 related initiatives.
+The Directorate will also increasingly approach its evaluations through the lens of the 17 goals identified by the United Nations as part of its Sustainable Development Goals (SDGs) initiative. The Government of Canada has committed to promoting the advancement of the SDGs through its federal programs and services, and ESDC’s evaluation function will be looking at new ways of gauging the Department’s contribution to this work through its evaluations.
+The evaluation of the Canada Education Savings Program and the Canada Learning Bond will examine the factors that may influence participation in the Program, in particular among families with lower incomes. In addition, the Evaluation Directorate will produce a feasibility study for a future evaluation to assess the interactions of the Canada Education Savings Program and the Canada Student Loans Program. It will also assess the unique contributions of the Canada Education Savings Program on post-secondary education participation and completion.
+Evaluations of the service aspects of Old Age Security, Canada Pension Plan and the Guaranteed Income Supplement will assess ongoing service improvement strategies. These evaluations will focus on contributions to program delivery outcomes, such as ease-of-access, meeting clients’ service needs and expectations, and helping to ensure eligible seniors receive payments.
+The Directorate continues to strengthen the evaluation function by investing in innovation, developing employee competencies, and collaborating with program officials to fully utilize evaluation findings and add value to their performance measurement activities. Evaluation Directorate will continue to incorporate innovative methods and approaches into its operations and the services it provides the Department and other stakeholders. Going forward, consideration will be given to the use of additional horizontal or thematic evaluations, allowing for an investigation of themes common to multiple programs or priorities, or linked to client groups that the Department serves.
+The Directorate will continue to engage experts in the academic community to peer review methodologies and technical reports, and advise on optimal approaches to conducting evaluations. Engagement with researchers will also increase the use of data assets to provide insights into departmental programs that may contribute to greater social and economic outcomes for Canadians. Best practices and lessons learned from other jurisdictions, departments, and disciplines are continually adopted and leveraged to improve reporting on results for Canadians. Furthermore, Evaluation will continue to engage with federal counterparts to ensure the ongoing strengthening of the evaluation function across government.
+The Evaluation Directorate plays a key role in supporting informed decision-making, providing trusted advice to officials on program effectiveness, as well as adopting innovative approaches to better measure the impacts of our programs. As indicated in the 2018 Neutral Assessment of the Evaluation Function, the Directorate’s work in these areas is valuable in supporting the mission of ESDC and reporting on results. The Evaluation Directorate will continue to build on the priorities established in this plan, to deliver on results for Canadians.
+The coverage table resulting from the development of this Plan is provided in  (Annex A3 – Planned Annual Coverage Table). The table demonstrates that in addition to completing discretionary evaluations deemed as priorities, the Directorate will meet all coverage requirements mandated by the Treasury Board of Canada Secretariat, the Policy on Results, and the
+Financial Administration Act.
+Annex 1: Evaluation governance
+Performance measurement and evaluation committee
+Composed of partners from senior ranks of ESDC, including the Head of Evaluation.
+Approves the departmental evaluation plan
+Reviews evaluation reports, including management responses
+Approves Evaluability Assessments Discusses follow-up on action plans
+Evaluation advisory committee
+Composed of Stakeholders from across ESDC and/or other departments and agencies such as TBS Program Sector and Finance Canada (Director General level and below).
+Identifies options for evaluation scope Discusses preliminary findings
+Provides input for final report
+Evaluation working group
+Composed of partners from across ESDC (Director level and below).
+Focuses on technical aspects Performs data collection and analysis Provides input for preliminary report
+Results governance: roles & responsibilities
+The Chief Results and Delivery Officer is the key contact for the Results and Delivery Unit of the Privy Council Office, and identifies top departmental priorities in support of the results agenda. This role is the primary change agent for the Department and ensures that a delivery plan, measurement strategy and reporting structures are in place to support the delivery of these priorities. The Head of Performance Measurement supports the Chief Results and Delivery Officer by assisting with performance measurement and reporting by establishing, implementing and maintaining the Departmental Results Framework and overseeing Performance Information Profiles.
+The key responsibilities of the Head of Evaluation are to assess departmental evaluation needs, undertake departmental evaluation planning, directing and reporting, support the use of performance information, and advise the Deputy Head on evaluation findings and issues.
+The Chief Results and Delivery Officer is also supported by the Director General, Strategic Horizontal Policy, with an emphasis on measuring and reporting on government activities and their impact on Canadians. This Director General leads on elements of horizontal priorities for the government and the tracking of mandate letter commitments, including their progress, challenges and barriers to completion.
+ESDC’s Chief Data Officer leads the implementation of the Department’s enterprise Data Strategy, including the development of data foundations, such as data governance and stewardship. These foundations are essential to ensuring that data users have the knowledge and support needed to identify, locate, and fully leverage data in their daily work, and in developing indicators to support performance measurement, including reports of the Chief Results and Delivery Officer. All of these positions are located in the Strategic and Service Policy Branch of ESDC.
+Annex 2: Planned annual coverage table
+Planned annual coverage table (evaluations ordered by fiscal year of approval)
+1
+Program
+Last evaluation of the program
+Planned evaluation in the next 5 years
+Planned fiscal year of approval
+Program spending covered by the planned evaluation / 2020 to 2021 total planned program spending
+2020 to 2021 Total gross program spending
+Reason for evaluation
+Comments and rationale for not evaluating program or spending
+EI Program, Special Benefits
+Not applicable. Initiative not previously evaluated.
+EI Sickness Benefits (Carried Over)
+2020 to 2021 First Quarter
+$76,856,093
+$19,615,409,509
+Departmental Priority
+N/A
+Job Bank
+Evaluation of Learning and Labour Market Information
+Job Bank (Carried Over)
+2020 to 2021 Fourth Quarter
+$6,230,507
+$30,287,554
+Departmental Priority
+N/A
+Foreign Credential Recognition Program
+Evaluation of Foreign Credential Recognition Program 2015
+Foreign Credential Recognition Program Evaluation
+2020 to 2021 First Quarter
+$26,654,994
+$26,654,994
+Required by the FAA
+N/A
+Canada Apprentice Loan
+Evaluation of the Canada Apprenticeship Loan, Phase 1 (2017)
+Canada Apprentice Loan (Carried Over)
+2020 to 2021 Second Quarter
+$2,995,219
+$2,995,219
+Commitment in TB submission (2020 to 2021 completion)
+Statutory costs related to CAL only
+Opportunities Fund for Persons with Disabilities
+Opportunities Fund for Persons with Disabilities Phase 1 Evaluation 2018
+Opportunities Fund for Persons with Disabilities, Phase 2 (Carried Over)
+2020 to 2021 Third Quarter
+$48,098,666
+$48,098,666
+Required by the FAA
+N/A
+Canada Student Loans Program
+Summative Evaluation of the Budget 2008 CSLP (2016)
+Canada Student Loans Program: Effectiveness at Achieving Outcomes, Phase 1
+2020 to 2021 Fourth Quarter
+$2,687,563,690
+$2,687,563,690
+Departmental Priority
+Total for the program Canada Student Loans Program and Canada Apprentice Loans less statutory costs related to CAL.
+Canada Pension Plan Disability
+Summative Evaluation of the Canada Pension Plan Disability Benefit (2011)
+Canada Pension Plan Disability (CPPD) Benefits (Reassessment)
+2020 to 2021 Fourth Quarter
+$32,172,236
+$53,250,508,323
+Departmental Priority
+This component is included under Canada Pension Plan, planned spending provided is for the total program. Net costs only include EBP costs.
+New Horizons for Seniors Program
+Evaluation of the New Horizons for Seniors Program (NHSP) (2015)
+Evaluation of the New Horizons for Seniors Program
+2020 to 2021 Second Quarter
+$68,694,415
+$68,694,415
+Required by the FAA
+N/A
+EI Program – Regular Benefits
+Evaluation of Initiatives to Extend EI Regular Benefits (2016)
+Seasonal Claimant Pilot
+2020 to 2021 Fourth Quarter
+$76,856,093
+$19,615,409,509
+Commitment in TB submission (2020to 2021)
+N/A
+Guaranteed Income Supplement
+Guaranteed Income Supplement Take-up Evaluation
+Guaranteed Income Supplement Take- up Evaluation, Phase 2 (Carried Over)
+2020 to 2021 Third Quarter
+$59,765,680,826
+$59,765,680,826
+Departmental Priority
+This component is included under the program Old Age Security Canada Pension Plan, planned spending provided is for the total program.
+Federal Mediation and Conciliation Service
+Evaluation of the Federal Mediation and Conciliation Service, Phase 1 (2018)
+Federal Mediation and Conciliation Service, Phase 2
+2021 to 2022
+$27,518,718
+$27,518,718
+Departmental Priority
+Component of the program Labour Standards, total for the program is provided
+Workforce Developments Agreements
+Previous evaluations conducted involving various programs (for example, Labour Market Agreements (LMAs), Targeted Initiative for Older workers (TIOWs), Canada-Manitoba Labour Market Agreement for Persons with Disabilities)
+Evaluation of the Workforce Development Agreements (2018 to 2023)
+2021 to 2022
+$924,801,092
+$924,801,092
+Commitment in TB submission (2021 to 2022 completion)
+N/A
+Student Work Placement Program
+Not Applicable. New Program
+Student Work Placement Program Evaluation
+2021 to 2022
+$152,600,525
+$152,600,525
+Commitment in TB submission (2021 to 2022 completion)
+N/A
+Union Training and Innovation Program
+Not Applicable. New Program.
+Union Training and Innovation Program Evaluation
+2021 to 2022
+$30,028,324
+$30,028,324
+Required by the FAA
+N/A
+Enabling Fund for Official Language Minority Communities
+Enabling Fund for Official Language Minority Communities (OLMC) (2017)
+Enabling Fund for Official Language Minority Communities 2022
+2021 to 2022
+$15,825,848
+$15,825,848
+Required by the FAA
+N/A
+Wage Earner Protection Program (WEPP)
+Evaluation of Wage Earner Protection Program (2014)
+Wage Earner Protection Program (WEPP)
+2021 to 2022
+$51,622,605
+$51,622,605
+Not applicable
+N/A
+EI Program – Special Benefits
+Summative Evaluation of EI Parental Benefits (2005)
+EI Parental and Maternity Benefits – Phase I
+2021 to 2022
+$76,856,093
+$19,615,409,509
+Commitment in TB submission (2021 to 2022 completion)
+N/A
+Temporary Foreign Worker Program (TFWP)
+Evaluation of the labour market opinion streams of the Temporary Foreign Worker Program (2012 to 2015)
+Temporary Foreign Worker Program Evaluation
+2021 to 2022
+$61,562,585
+$61,562,585
+Commitment in TB submission (2020 to 2021 completion)
+N/A
+Canada Education Savings Program
+Canada Education Savings Program: Summative Evaluation (2015)
+Canada Education Savings Program – Phase 1
+2021 to 2022
+$1,181,840,368
+$1,181,840,368
+Deputy Minister Request
+N/A
+Indigenous Early Learning and Child Care
+Not Applicable. New Program.
+Indigenous Early Learning and Child Care Initiative
+2022 to 2023
+$128,437,926
+$128,437,926
+N/A
+N/A
+Canada Pension Plan Service Improvement Strategy
+Not Applicable. Initiative Not Previously Evaluated.
+Canada Pension Plan Service Improvement Strategy
+2022 to 2023
+$32,172,236
+$53,250,508,323
+Commitment in TB submission (2022 to 2023 completion)
+Included under Canada Pension Plan and Internal Services. In addition, net costs only include EBP costs.
+Enabling Accessibility Fund
+Enabling Accessibility Fund
+Enabling Accessibility Fund 2022 Evaluation
+2022 to 2023
+$22,525,627
+$22,525,627
+Required by the FAA
+N/A
+Horizontal GBA+
+Not Applicable.
+Labour Market Programing
+2022 to 2023
+To be determined
+To be determined
+Departmental Priority
+N/A
+Trades Exploration and Experience Program
+Not Applicable. New Program
+Skilled Trades Awareness and Readiness (STAR)
+2022 to 2023
+$22,450,685
+$22,450,685
+Required by the FAA
+N/A
+Reaching Home: Canada’s Homelessness Strategy
+Homelessness Partnering Strategy (HPS) 2018
+Evaluation of the Reaching Home Strategy
+2022 to 2023
+$215,121,459
+$215,121,459
+Required by the FAA
+N/A
+Sectoral Initiatives Program
+Evaluation of Sectoral Initiatives Program 2018
+Sectoral Initiatives Program Evaluation
+2022 to 2023
+$7,074,444
+$29,530,896
+Required by the FAA
+N/A
+Workplace Literacy and Essential Skills
+Workplace Literacy and Essential Skills 2017
+Workplace Literacy and Essential Skills 2022
+2022 to 2023
+$22,039,570
+$29,191,908
+Required by the FAA
+N/A
+Future Skills
+Not Applicable. New Program
+Future Skills
+2022 to 2023
+$74,596,533
+$74,596,533
+Required by the FAA
+N/A
+International Labour Affairs
+Multilateral Labour Affairs (2018)
+International Labour Affairs
+2022 to 2023
+$6,470,455
+$6,470,455
+Not applicable
+N/A
+Labour Market Development Agreements
+Second Cycle Evaluation of the Labour Market Development Agreements (2012 to 2017)
+Third Cycle Evaluation of the Labour Market Development Agreements (2018 to 2023)
+2022 to 2023
+$460,486
+$2,495,509,103
+Commitment in TB submission (2022 to 2023 completion)
+Part of EI Part II, which is not included in the net costs of the department
+Old Age Security Service Improvement Strategy
+Not Applicable. Strategy Not Previously Evaluated.
+Old Age Security Service Improvement Strategy Review
+2022 to 2023
+$59,765,680,826
+$59,765,680,826
+Commitment in TB submission (2022 to 2023 completion)
+N/A
+Labour Standards
+Labour Standards (2019)
+Labour Standards
+2022 to 2023
+$27,518,718
+$27,518,718
+Departmental Priority
+N/A
+Occupational Health and Safety (OHS)
+Occupational Health and Safety (OHS) (2019)
+Occupational Health and Safety (OHS)
+2022 to 2023
+$29,990,996
+$29,990,996
+Departmental Priority
+N/A
+Canada Education Savings Program
+Canada Education Savings Program: Summative Evaluation (2015)
+Canada Education Savings Program, Impacts
+2022 to 2023
+$1,181,840,368
+$1,181,840,368
+Deputy Minister Request in response to an OAG report
+N/A
+EI Program, Regular Benefits
+2006 Summative Evaluation of EI Part I
+EI Regular Benefits and Post-Claim Outcomes (Carried Over)
+2022 to 2023
+$76,856,093
+$19,615,409,509
+Departmental Priority
+N/A
+Canada Student Loans Program
+CSLP: Effectiveness at Achieving Outcomes, Phase 1
+CSLP: Effectiveness at Achieving Outcomes, Phase 2
+2023 to 2024
+$2,687,563,690
+$2,687,563,690
+Departmental Priority
+Total for the program Canada Student Loans Program and Canada Apprentice Loans less statutory costs related to CAL.
+Canada Service Corps
+Not Applicable. New Program
+Canada Service Corps
+2023 to 2024
+$83,607,209
+$83,607,209
+Required by the FAA
+N/A
+Supports for Student Learning Programs
+Pathways to Education 2018 Evaluation
+Pathways to Education Canada
+2023 to 2024
+$37,838,138
+$37,838,138
+Required by the FAA
+Includes total program planned spending for Support for Student Learning. However, the grant Pathways to Education Canada is $9.5M.
+Federal Workers Compensation Service
+Evaluation of the Federal Workers' Compensation Service (2018)
+Federal Workers’ Compensation Service
+2023 to 2024
+$48,917,280
+$174,817,280
+Departmental Priority
+N/A
+EI Program, Special Benefits
+Evaluation of Compassionate Care Benefit (2006)
+EI Caregiving Benefits (Carried over)
+2023 to 2024
+$76,856,093
+$19,615,409,509
+Departmental Priority
+N/A
+Apprenticeship Grants
+Evaluation of the Apprenticeship Grants (2014)
+Apprenticeship Grants (AG)
+2023 to 2024
+$118,430,663
+$118,430,663
+Required by the FAA
+N/A
+Early Learning and Childcare
+Not Applicable
+Early Learning and Childcare
+2023 to 2024
+$419,928,109
+$419,928,109
+Required by the FAA
+N/A
+EI Program, Fishing
+2006 Summative Evaluation of EI Part I
+EI Fishing Benefit (Carried over)
+2023 to 2024
+$76,856,093
+$19,615,409,509
+Departmental Priority
+N/A
+Social Finance
+Not Applicable. New Program.
+Social Finance
+2024 to 2025
+$24,633,855
+$24,633,855
+Required by the FAA
+N/A
+Employment Equity Programs
+Evaluation of the Employment Equity Programs March 2019
+Employment Equity Programs Evaluation
+2024 to 2025
+$2,233,314
+$2,233,314
+Departmental Priority
+N/A
+Canada Apprentice Loan
+Evaluation of the Canada Apprenticeship Loan (2020)
+Canada Apprentice Loan
+2024 to 2025
+$2,995,219
+$2,995,219
+Commitment in TB submission (2024 to 2025 completion)
+N/A
+Indigenous Skills and Employment Training Program
+Aboriginal Skills and Employment Training Strategy, 2020
+Indigenous Skills and Employment Training Program
+2024 to 2025
+$265,370,814
+$392,149,729
+Required by the FAA
+N/A
+Youth Employment Skills Strategy
+Summative Evaluation of the Horizontal Youth Employment Strategy, 2020
+Youth Employment Skills Strategy
+2024 to 2025
+$357,910,804
+$357,910,804
+Required by the FAA
+N/A
+Canada Disability Savings Program
+Evaluation of Canada Disability Savings Program 2018
+Canada Disability Savings Program
+2024 to 2025
+$882,620,360
+$882,620,360
+Required by the FAA
+N/A
+Social Development Partnerships Program
+Evaluation of Social Development Partnerships Program 2019
+Social Development Partnerships Program
+2024 to 2025
+$42,355,659
+$42,355,659
+Required by the FAA
+N/A
+EI Program Special Benefits
+Not applicable
+Targeted Extended EI – Phase II
+2024 to 2025
+$76,856,093
+$19,615,409,509
+Commitment in TB submission (2024 to 2025 completion)
+N/A
+Guaranteed Income Supplement
+Guaranteed Income Supplement Take-up Evaluation (2020)
+Guaranteed Income Supplement Take, up Evaluation
+2024 to 2025
+$59,765,680,826
+$59,765,680,826
+Departmental Priority
+This component is included under the program Old Age Security Canada Pension Plan, planned spending provided is for the total program.
+EI Program – Special Benefits
+Not applicable
+EI Extended Parental Benefits – Phase 2
+2024 to 2025
+$76,856,093
+$19,615,409,509
+Commitment in TB submission (2024 to 2025 completion)
+N/A
+1
+All evaluation activities are conditional on the availability of funds.
+Footnotes
+Footnote 1
+2018 to 2019 ESDC Departmental Results Report
+Return to footnote
+1
+referrer
+Footnote 2
+The mandate of the committee is to provide strategic advice on the research and evaluation agenda that facilitates the preparation of the Employment Insurance Monitoring and Assessment Report.
+Return to footnote
+2
+referrer
+Footnote 3
+TBS Policy on Results.
+Return to footnote
+3
+referrer
+Footnote 4
+This figure does not include emergency spending carried out to respond to COVID-19.
+Return to footnote
+4
+referrer
+Footnote 5
+President of the Treasury Board Mandate Letter, 2019.
+Return to footnote
+5
+referrer
+Page details
+Report a problem on this page
+Date modified:
+2022-04-21

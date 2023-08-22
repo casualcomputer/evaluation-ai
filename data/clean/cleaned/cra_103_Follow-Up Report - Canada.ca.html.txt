@@ -1,0 +1,31 @@
+Introduction
+Internal audit professional standards require the Chief Audit Executive to establish a follow-up process to monitor and ensure that management action plans have been implemented or that senior management has accepted the risk of not taking action. This report summarizes the results of the Corporate Audit and Evaluation Branch (CAEB) annual follow-up process which this year was focused on recommendations made in the 2007-2008 internal audit reports as well as any action plans outstanding from prior year audits.
+At the recommendation of the Canada Revenue Agency (CRA) Chief Executive Officer/Chief Financial Officer (CEO/CFO) Certification Steering Committee [Footnote 1], the Corporate Audit and Evaluation Branch (CAEB) 2010 follow-up process includes, for the first time, recommendations from the Office of the Auditor General (OAG) audits of the CRA's financial statements and of the CRA's reports on controls. At its October 5, 2009 meeting, the Steering Committee endorsed this expansion of the follow-up process in response to an observation from the assessment of CRA's entity level controls led by Finance and Administration Branch (F&A) from February to September 2009 as part of the CEO/CFO certification process. The assessment was based on the principles and attributes set out in the Committee of Sponsoring Organizations (COSO) framework and revealed an opportunity for the CRA to enhance monitoring of internal control performance by including outstanding OAG recommendations relating to financial reporting in CAEB's annual follow-up on progress against management action plans. The CAEB coordinated this addition to the follow-up process while the Internal Controls Division (ICD) of the Finance and Administration Branch performed the technical assessment of the Branches self-assessment of progress in implementing action plans. As a consequence the 2010 follow-up reviewed CRA management's progress in implementing action plans related to the following OAG audits:
+CRA's Controls relating to the Corporate Income Tax (T2) Program, as at November 30, 2008;
+CRA Financial Statements for 2008-2009; and
+Statement of Income and Capital Taxes Payable to the Provinces and Territories in Respect of the 2007 and Prior Taxation Years.
+To provide CRA management with an annual consolidated follow-up report, action plans from Program Evaluations and all other OAG reports will also be included in the 2011 CAEB follow-up report.
+Follow-up Methodology
+The follow-up process was based on self-assessments by Canada Revenue Agency (CRA) management, supplemented by more in-depth procedures where warranted. CRA management is responsible for reporting progress made in implementing their action plans. For areas of high risk, CAEB requests additional supporting information or documentation to ensure an accurate conclusion is drawn. When recommendations for corrective action in a prior internal audit relate to areas considered being at risk, more in depth follow-up audits are included in subsequent CAEB annual business plans. The follow-up report is presented to the Management Audit and Evaluation Committee (MAEC) and to the Audit Committee of the Board of Management (Board).
+The internal audit follow-up process was conducted in accordance with the International Standards for the Professional Practice of Internal Auditing.
+Summary of results - Office of the auditor general (OAG) audits on the CRA's financial statements and reports on controls
+The 2010 self-assessment process covered 36 management action plans resulting from the three audits listed above. ICD concluded that 22 action plans (61%) were implemented in full, 7 (19%) were progressing satisfactorily, 6 (17%) were no longer relevant and 1 (3%) needed renewed attention by management. Details on the results of the follow-up are provided in APPENDIX B - OAG AUDITS.
+The item requiring renewed attention pertains to a weakness in the monitoring of key user activities involving T2 mainframe applications that was observed during the assessment and audit of CRA's controls relating to the T2 program. F&A, in response to the results of a recent internal audit on Audit Trails - Mainframe Access to Taxpayer Information, has started implementation of a series of measures that will result in the needed improvements to the monitoring program. Through these measures F&A intends to have in place by December 31, 2011, a governance process and policy instruments to ensure a consistent and effective national approach to monitoring user activities on the mainframe.
+Appendix A - Internal Audits
+Appendix B - OAG Audits
+*Office of Primary Interest (OPI) Legend 
+Appeals - Appeals Branch ABSB - Assessment and Benefit Services Branch TSDMB - Taxpayer Services and Debt Management Branch CPB - Compliance Programs Branch LPRAB - Legislative Policy and Regulatory Affairs Branch CSBDB - Corporate Strategies and Business Development Branch PAB - Public Affairs Branch ITB - Information Technology Branch CAEB - Corporate Audit and Evaluation Branch F&A - Finance and Administration Branch  HRB - Human Resources Branch Atlantic - Atlantic Region Québec - Québec Region Ontario - Ontario Region Prairie - Prairie Region Pacific - Pacific Region
+Footnotes
+Page details
+Report a problem on this page
+
+
+
+
+
+
+
+Date modified:
+2011-01-07
+*Office of Primary Interest (OPI) Legend
+Appeals - Appeals Branch ABSB - Assessment and Benefit Services Branch TSDMB - Taxpayer Services and Debt Management Branch CPB - Compliance Programs Branch LPRAB - Legislative Policy and Regulatory Affairs Branch CSBDB - Corporate Strategies and Business Development Branch PAB - Public Affairs Branch ITB - Information Technology Branch CAEB - Corporate Audit and Evaluation Branch F&A - Finance and Administration Branch  HRB - Human Resources Branch Atlantic - Atlantic Region Québec - Québec Region Ontario - Ontario Region Prairie - Prairie Region Pacific - Pacific Region

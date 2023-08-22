@@ -1,0 +1,114 @@
+Information Received Under the Memorandum of Understanding with the Province of Manitoba for the Joint Registration of Business
+Final Report
+Corporate Audit and Evaluation Branch
+October 2008
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Observations
+1.0 Use and Sharing of Data
+1.1 Use of Data
+1.2 Sharing of Data
+2.0 Safeguarding of Information
+2.1 Management of User Access Privileges
+2.2 Encryption of Transmitted Information
+2.3 Destruction of Information
+2.4 Security Awareness
+Conclusion
+EXECUTIVE SUMMARY
+Background:
+The Canada Revenue Agency (CRA) enters into Memoranda of Understanding (MOUs) and other written arrangements with federal, provincial and territorial departments and agencies to improve efficiency and effectiveness in program delivery. Where it exchanges information with these entities, the CRA negotiates MOUs so that both parties are aware of and respect legal and policy requirements related to the use and the security of information. The inclusion of reciprocal internal audit clauses in MOUs was part of an initiative of the Corporate Strategies and Business Development Branch (CSBDB) to ensure these provisions are respected by both parties exchanging information.
+This audit dealt with information received by the CRA through an MOU signed on December 12, 2003 with the Province of Manitoba (MAN) for the joint registration of businesses. The purpose of the MOU was to outline the administrative framework to be used by CRA and MAN so that they could offer businesses a simplified way to register federally and provincially. The data CRA and MAN exchange includes the legal name of the business, business address, and the owner names.
+Objective:
+The objective of the audit, as specified in the MOU, was to provide assurance that the CRA was in compliance with the terms and conditions governing the use, communication to others, and security of information received from MAN for the joint registration of business.
+The audit was conducted in accordance with the
+International Standards for the Practice of Internal Auditing
+.
+Conclusion:
+Based on the audit work performed, the CRA
+is in compliance with the terms and conditions governing the use, communication to others, and security of information received from MAN for the joint registration of businesses. There was no indication that CRA had requested any additional information beyond what was normally provided by MAN, and controls were in place to ensure that security standards to safeguard information received from MAN were met. Based on the audit analysis and interviews conducted as part of this audit there is no evidence that BN information was used or shared outside of the terms of the MOU.
+INTRODUCTION
+The Canada Revenue Agency (CRA) enters into Memoranda of Understanding (MOUs) and other written arrangements with federal, provincial and territorial departments and agencies to improve efficiency and effectiveness in program delivery. This audit dealt with information received by the CRA through an MOU signed on December 12, 2003 with the Province of Manitoba (MAN) for the joint registration of businesses.
+The purpose of the MOU was to outline the administrative framework to be used by CRA and MAN so that they could offer businesses a simplified way to register at multiple government levels. Simplified business registration was one of the strategic objectives of the CRA to strengthen partnerships with provinces and territories.
+Using one business number (BN), which was assigned by the CRA, business accounts were registered federally and provincially. Registration was done through various service channels, including the internet, mail, telephone, or counter service. Registration information was then electronically sent to the CRA through the province’s registration system called Manitoba Business Links, which electronically links to the CRA’s National Business Registry.
+MAN provided the information required by the CRA to create a BN account. The account information was kept in CRA’s National Business Registry, which contained 4,998,231 active clients. CRA maintained 187,111 MAN BN accounts, which represented 4% of the total number of accounts in the registry.
+Registrant information was shared between the CRA and MAN to facilitate businesses in registering for government programs and to keep information on these businesses updated. The Business Number Services (BNS) Unit at the Winnipeg Tax Centre (WTC) maintained core information for the Manitoba BN account held by CRA.
+With the signing of the MOU, CRA and MAN agreed to follow the procedures outlined for the security, communication to others, and use of the information they exchanged. A separate security standards document
+[Footnote 1]
+referred to in the MOU, was also signed by both parties. This document outlines administrative, personnel, physical, communications, software, and operations security standards.
+Since 2001, the Corporate Strategies and Business Development Branch (CSBDB) has included, where appropriate, reciprocal internal audit clauses in MOUs to ensure the security of information exchanged between parties. Since 2006, BN MOU internal audits have been conducted on business information exchanged between the CRA and various provinces. This audit was required to provide assurance that the CRA was in compliance with the handling of information specific to the BN MOU signed with MAN. As outlined in the MOU, the CSBDB will provide this internal audit report to the Chief Operating Officer of the Companies Office, Department of Finance in MAN.
+FOCUS OF THE AUDIT
+The objective of the audit, as specified in the MOU, was to provide assurance that the CRA was in compliance with the terms and conditions governing the use, communication to others, and security of information received from MAN for the joint registration of business.
+The scope of the audit included examinations at the Business Registration Programs Support Section of the Assessment and Benefit Services Branch (ABSB), CSBDB - Provincial and Territorial Affairs Division (PTAD), Information Technology Branch (ITB), Finance & Administration Branch (FAB), and the BNS Unit, Information Technology (IT), and Security in the Winnipeg Tax Center (WTC). The audit was conducted from January 2008 to May 2008.
+Assurance related to CRA information technology controls and other general controls was partially based on audit work conducted in recent related audits, including the IT Security Follow Up started in 2007 and the 2006 audits on BN information exchanged under MOUs between CRA and the provinces of British Columbia, Ontario, and New Brunswick.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+OBSERVATIONS
+1.0 Use and Sharing of Data
+1.1 Use
+of Data
+According to the MOU, MAN releases BN information to the CRA, which is then used for the purposes of administering the Income Tax Act (ITA) and the Excise Tax Act (ETA). The information received by CRA includes the legal name of the business, business address, and the owner names. The CRA uses information provided by the province of MAN for the purpose of assigning a BN to a business. Core information related to BN accounts is the same for the CRA and MAN programs. Businesses may also have other CRA accounts, such as GST/HST, Corporate Tax, or Payroll Deduction accounts. Once MAN BN data is entered into CRA mainframe systems, it can be accessed by any CRA employee, across Canada, with an appropriate BN system access profile.
+There was no evidence that the information provided by MAN to CRA was used for purposes other than the purpose for which it was intended. Employees interviewed at the WTC reported that the information received from MAN was used solely to jointly register businesses.
+The Security, Risk Management, & Internal Affairs Directorate (SRMIAD) of the FAB and program and security managers interviewed at the WTC were not aware of any security incidents related to Manitoba BN data received under the MOU.
+Administrative controls were in place to ensure that employees were aware that the information they accessed was to be used only for work-related purposes. Evidence demonstrated that all employees at the BNS Unit at the WTC signed documents (i.e. Code of Ethics and Conduct and Computer Information Access Authority) that described how CRA expected them to protect sensitive information and conduct themselves.
+The MOU outlined steps that should be taken if CRA wanted to request additional information beyond what was normally expected from MAN, based on Appendix A of the MOU. The CSBDB - PTAD, advised that as of February 11, 2008 CRA had not requested any additional information for its use.
+1.2 Sharing of Data
+According to the MOU, any MAN BN information disclosed by CRA, was to be done in accordance with the ITA,
+Privacy Act
+, and
+Access to Information Act
+. An example of a disclosure would be when MAN sends a message to the CRA to advise of a name change to a MAN corporation. This information would be updated in the BN system and then communicated to all systems legally permitted to receive the information.
+There was no evidence that information was shared or disclosed for any purpose other than what was intended. On-site observation of employees at the WTC and analysis of procedures by Internal Audit indicate that information received from MAN is only used to assign a BN and to jointly register a business.
+2.0 Safeguarding of Information
+The MOU and the
+Security Standards for the Protection of Client Information – CRA and Non-Federal Organizations
+document outlines requirements for dealing with protected information. Overall, the two documents refer to over 30 security standards for handling, storing, sharing, and disposing information.
+A risk assessment was conducted to determine the most significant risks related to safeguarding data received from MAN. The following management controls were in place to mitigate the key risks:
+management of user access privileges;
+encryption of transmitted information;
+destruction
+of information; and
+security awareness.
+Audit tests were conducted on these four management controls. Based on these tests, CRA was found to be in compliance with these security standards.
+2.1 Management of User Access Privileges
+The security of confidential client information is enhanced when access to information systems is granted to employees only when the information is needed to perform work-related activities. CRA security standards require that a record of all computer system access privileges be created and maintained for each person. These standards also state that user access privileges are to be kept current and immediately revoked or suspended when access to perform the assigned functions is no longer required.
+The management of system access profiles in the CRA was identified as an issue in a number of internal audit reports, including an audit of
+Information Technology Security
+in 2004. As a result of these audits, the Information Security Division in FAB is currently working on more precisely defining the access requirements for various work activities. This project is expected to be completed by the end of 2008. The Corporate Audit and Evaluation Branch has initiated a follow-up audit on the 2004 internal audit of
+Information Technology Security
+that will examine the progress made on this project.
+Business registration information received from MAN and maintained in the BN system, or any other CRA system
+[Footnote 2]
+that was updated by the BN system, is accessible by any CRA employee with the appropriate system access profile. Based on audit tests and interviews with employees at the WTC, a process for granting system access profiles was in place. System access profiles were identified for all jobs and listed on the local website. A review of current BNS employee profiles verified that they matched the profiles listed on the website. Also, a review of employees who previously worked in the BNS Unit showed that none of them retained BNS profiles after they left the team.
+Document reviews and interviews with employees indicated that system usage was monitored. Online Audit Trail System (OATS) reviews were conducted each month, local quality reviews were completed on an ongoing basis, and access profiles were reviewed on an annual basis. The SRMIAD in FAB also confirmed that audit trails were available to track the manner in which information was used.
+2.2 Encryption
+of Transmitted Information
+According to the MOU, CRA and MAN agreed that all information electronically transmitted between the two organizations should be encrypted. SMRIAD confirmed that when MAN transmits information to CRA through the BN Messaging System, the information is encrypted. Information is also encrypted when businesses register online through the BN Public Facing Registration System.
+Threat and Risk Assessments (TRAs) of the BN Messaging System and Public Facing Registration System were approved by the SRMIAD in the FAB and ITB. The TRAs identified potential threats, the likelihood of the threats occurring and possible consequences, but did not identify any residual high-risk areas, due to the existence of security measures such as encryption.
+Observations and interviews with employees at the WTC showed that information exchanged between MAN and the BNS Unit was encrypted using Entrust, CRA’s standard email encryption software. Through on-site observations and interviews with employees in the BNS Unit, there was no evidence that BN data was communicated to other team members via email, or that BN data was stored on any shared drives.
+2.3 Destruction of Information
+CRA security standards require that all information be returned or destroyed when no longer required. The MOU also states that any information CRA receives from MAN that is not required or is considered surplus for compliance or program administration is to be returned or destroyed within 60 days after determination.
+Interviews with managers from the ABSB and employees in the BNS Unit reported that BN account information entered into CRA systems was kept indefinitely for the purpose of administering and enforcing the ITA and ETA. As an example, the Business Returns and Payments Processing Directorate in ABSB indicated that the retention of account information on closed BNs could facilitate debt collection and account reactivation. Employees from the BNS Unit also stated that, to date, they had not received any information that they did not require or considered surplus. Transitory BN data they received in the form of faxes or e-mails was destroyed after being input into CRA systems.
+The BN System in Ottawa also generates daily Work In Process (WIP) reports, which are automatically printed at the BNS Unit in the WTC. These reports are created when the BN system detects a possible duplicate business registration. Observations and interviews with employees in the BNS Unit showed that these reports were analyzed and then normally shredded within the day.
+2.4 Security Awareness
+Document reviews, on-site observations, and interviews with staff indicated that CRA employees in the BNS Unit were aware of the security standards related to security of this information. Security awareness initiatives are in place in the CRA and are delivered nationally and locally. These initiatives promote awareness of policies and procedures related to the protection of CRA personnel, information, and physical assets. All selected interviewees in the BNS Unit reported that they had received security awareness training when they first joined the Agency and periodically thereafter. Employees also regularly receive national security reminders via e-mail.
+CONCLUSION
+Based on the audit work performed, the CRA is in compliance with the terms and conditions governing the use, communication to others, and security of information received from MAN for the joint registration of businesses. There was no indication that CRA had requested any additional information beyond what was normally provided by MAN, and controls were in place to ensure that security standards to safeguard information received from MAN were met. Based on the audit analysis and interviews conducted as part of this audit there is no evidence that BN information was used or shared outside of the terms of the MOU.
+Footnotes
+Footnotes
+Footnote _ftn1
+Security Standards for the Protection of Client Information – CRA and Non-Federal Organizations
+Return to footnote
+_ftn1
+Referrer
+Footnote _ftn2
+Examples of systems that are updated by the BN system are the Random Access Personal Information Database for T1 Personal Income Tax (RAPID); GST Production; and Corporation Income Tax Systems (CORTAX)
+Return to footnote
+_ftn2
+Referrer
+Page details
+Report a problem on this page
+Date modified:
+2009-01-08

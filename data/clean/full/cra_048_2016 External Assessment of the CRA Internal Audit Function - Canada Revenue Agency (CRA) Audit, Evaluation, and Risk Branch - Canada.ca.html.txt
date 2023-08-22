@@ -1,0 +1,316 @@
+2016 External Assessment of the CRA Internal Audit Function - Canada Revenue Agency (CRA) Audit, Evaluation, and Risk Branch
+Canada Revenue Agency (CRA) Audit, Evaluation, and Risk Branch
+Final Report
+April 2016
+Table of contents
+Executive Summary
+Background
+Objective and Scope
+Overall Conclusion and Summary Findings
+1. Introduction
+1.1. Background
+1.2. Objective and Scope
+1.3. Approach and Methodology
+1.4. Procedures Performed
+2.  Summary Findings
+2.1. Conclusion
+2.2. Strengths
+2.3. Enhancement Opportunities
+2.3.1.  Attribute standards
+2.3.2 Performance standard
+2.4. Other enhancement opportunities
+2.4.1.  Audit Methodology Enhancements
+2.4.2.  Audit coverage and reporting
+2.4.3.  CRA-IA staff engagement/communication
+3.  Specific Assessment Results
+3.1. Conformance ratings against IIA Standards
+Executive Summary
+Background
+The Institute of Internal Auditors’ (IIA)
+International Professional Practices Framework
+(IPPF) requires that an external assessment of the internal audit function be conducted by a qualified independent reviewer at least once every five years. Canada Revenue Agency’s (CRA) Audit, Evaluation, and Risk Branch (AERB) previous external assessment of its internal audit function was finalized in 2011. As per the IIA, external assessments are designed to contribute to the improvement of public or private sector management by ensuring a strong, credible, effective, value added and sustainable internal audit function.
+Objective and Scope
+The principal objective of this external assessment was to assess CRA’s internal audit function’s (“CRA-IA” or “IA”) conformance to the Mandatory Guidance of the IIA, including the Code of Ethics, the Definition of Internal Auditing and the IIA
+International Standards for the Professional Practice of Internal Auditing (IIA Standards)
+.
+The assessment criteria used to conduct this external assessment were taken from the IIA Standards.
+The following scale was used for purposes of completing the external assessment and is aligned with the prescribed scale as per the IIA (2013):
+Generally Conforms
+is the highest rating achievable. It means that there is general conformity to the majority of the underlying IIA Standards, and partial conformity to the others.
+Partially Conforms
+means that the Internal Audit activity is making good faith efforts to conform to the requirements of the underlying IIA Standards, but has fallen short of achieving some of their major objectives.
+Does not Conform
+means that the Internal Audit activity is not aware of, is not making good faith efforts to comply with, or is failing to achieve many or all of the objectives of the individual IIA.
+The internal audit activities covered by this external assessment are the two year period of January 1, 2014 to December 31, 2015.
+Overall Conclusion and Summary Findings
+Overall, CRA-IA “Generally Conforms” to the requirements of the IIA. This conclusion was reached through the external assessment team’s review of relevant documentation and through interviews with IA and key stakeholders.
+In support of that overall conclusion, the external assessment identified a variety of strengths including:
+Positioning.
+CRA-IA is positioned and supported within the Agency to be independent, effective and value-added.
+Reputation and Profile in the Agency.
+IA’s Chief Audit Executive (CAE) and staff are well regarded within the CRA and by the Audit Committee of the Board of Management (hereafter “the Committee”). The CAE was noted as successfully fulfilling his role and maintaining his independence, while still being very responsive to management requests and concerns, adopting a consultative, advisory and collaborative approach, and adding value to the CRA.
+Audit Committee of the Board of Management (the Committee).
+An appropriate
+Committee has been put in place which provides the CAE and the CRA with valuable insight and is viewed by key stakeholders as a key component of the Agency oversight function.
+Reporting.
+Stakeholders believe that the internal audit function adds value and provides governance, risk and control recommendations that are insightful and helpful to the Agency.
+The external assessment also identified a number of opportunities for continued enhancement and improvement of practices. These findings, however, did not impact the conclusion that, on an overall basis, CRA-IA “Generally Conforms” with the prescribed assessment criteria. There were two specific IIA standards that were noted to be partially conformed to. The opportunities have been grouped under two categories as follows:
+Internal audit performance monitoring
+There is an opportunity to enhance CRA-IA performance monitoring by expanding and formalizing processes to track, report on, and manage against a broader set of key performance indicators used to measure the effectiveness and efficiency of the internal audit function.
+IA working paper file documentation
+There is an opportunity to enhance audit working paper file documentation and referencing to ensure there are clear linkages between all documents to support risks identified, work performed, and findings/recommendations that are reported.
+As requested by the CRA-IA, the external assessment team also provided enhancement opportunities based on leading practices. Three other enhancement opportunities were noted as good internal audit practices that the CRA internal audit function could benefit from.  It should be noted that these findings are based on leading practices, and are not specific requirements in the IIA standards, but are being provided for CRA-IA’s consideration.  The enhancement opportunities are summarized as follows:
+Audit methodology enhancement
+: The audit methodology developed by CRA-IA is clear, thorough and well defined.  Having said that, there is an opportunity to enhance audit reporting by supplementing the information currently provided in IA reports with a clear statement explaining that the observations/recommendations presented in the report are of high significance; and with additional commentary on the potential impact or risk exposure to the Agency for each finding/recommendation provided by CRA-IA in its audit reports.
+Audit coverage and reporting
+: There is an opportunity to supplement current information in CRA-IA’s risk-based audit plan by including a mapping of all key Agency risks to planned/upcoming audits and previously (e.g. number of years of coverage to be defined with the Assistant Commissioner (AC)) conducted audits, along with additional explanation and rationale for CRA-IA’s planned coverage of Agency risks, which Agency risks are not being covered as significantly and why.  Similarly, past and planned coverage of CRA-IA’s audit universe may also be useful information to report on.  Based on discussions with CRA-IA, we understand that this type of information was included in previous audit plans but was removed to streamline the document.  We also understand that CRA-IA will be including this information in its 2016-17 audit plan.
+Finally, it was also noted that there is an opportunity to increase the amount of information provided in the risk-based audit plan and the CAE’s annual report in relation to CRA-IA’s performance indicators (note that this ties to the “Internal audit performance monitoring” finding noted above).
+Staff engagement/communication
+: CRA-IA should continue to provide additional communications and information to its staff with regards to strategic CRA-IA decisions such as envisioned audit projects, rationale for audit project selection, audit project staffing processes and decisions, updates on project status, and so on. Also, in alignment with leading practices, CRA-IA should continue with its current efforts that are already underway to develop internal audit learning paths, which would serve as a support to the individual training plans currently developed for its staff.
+The external assessment team wishes to express its appreciation for the cooperation and assistance afforded by the CAE and IA staff. We would be pleased to respond to further questions concerning this report and to provide any additional information.
+1. Introduction
+1.1. Background
+In accordance with the
+IIA Standards
+, an external assessment of the internal audit function must be conducted at least every five years by a qualified assessor or assessment team from outside the organization, competent in the professional practice of internal auditing and the external assessment process.
+The CRA internal audit function underwent external assessments in 2011 and 2006. Those assessments took the form of a self-assessment with independent external validation. Nearly five years have elapsed since the last external assessment.
+1.2. Objective and Scope
+The objective of this external assessment was to evaluate the CRA-IA conformance to The Institute of Internal Auditors’ (IIA) mandatory guidance, i.e. the Definition of Internal Auditing,
+Code of Ethics
+,
+and
+International Standards for the Professional Practice of Internal Auditing
+(IIA Standards). Specifically, the external assessment team assessed conformance to the International Professional Practices Framework (IPPF) mandatory guidance, identifying opportunities to enhance internal audit processes, and offering suggestions to improve effectiveness of the internal audit function.
+The internal audit activities covered by this external assessment are the two year period of January 1, 2014 to December 31, 2015.
+1.3. Approach and Methodology
+The external assessment was performed using the IIA guidance and a customized version of Deloitte’s Internal Audit External Assessment Review methodology. The external assessment was conducted between January and March 2016.
+The following scale was used for purposes of completing the external assessment:
+Generally Conforms
+is the highest rating achievable. It means that there is general conformity to the majority of the underlying IIA Standards, and partial conformity to the others.
+Partially Conforms
+means that the Internal Audit activity is making good faith efforts to conform to the requirements of the underlying IIA Standards, but has fallen short of achieving some of their major objectives.
+Does not Conform
+means that the Internal Audit activity is not aware of, is not making good faith efforts to comply with, or is failing to achieve many or all of the objectives of the individual IIA Standards.
+1.4. Procedures Performed
+To perform this external assessment, the following key activities were completed:
+Review of key CRA-IA policies, procedures, and manuals;
+Review of various IA plans and reports;
+Review of a sample of internal audit project working paper files;
+Interviews with the Audit Committee Chair, the Chief Audit Executive (CAE), CRA-IA management and staff, and CRA Senior Management;
+Development of a summary report; and,
+Presentation of the report to CRA.
+This report summarizes the results of the external assessment.
+The comments and analysis in this report are made as a result of the work undertaken. CRA-IA leadership remains responsible for the strategic direction of Internal Audit and for setting its mandate and audit plan. CRA is responsible for determining what, if any, changes should be implemented as a result of this external assessment. This engagement was an external assessment of the CRA-IA; thus, we assessed the conformance of the CRA-IA with the Mandatory Guidance of the IIA. We have not performed an audit in the course of this engagement, and accordingly we do not provide an audit opinion on the information provided in this report.
+2. Summary Findings
+2.1. Conclusion
+Overall, CRA-IA “Generally Conforms” (note this is the highest rating achievable) with the requirements of the IIA. This conclusion was reached through the external assessment team’s review of relevant documentation and through interviews with CRA-IA and key stakeholders.
+The external assessment did identify a number of strengths as well as opportunities for continued enhancement and improvement of practices (summarized below). These findings, however, did not impact the conclusion that, on an overall basis, CRA-IA “Generally Confirms” to the prescribed assessment criteria.
+2.2. Strengths
+Examples of areas of CRA-IA strengths identified through this external assessment include:
+Positioning.
+CRA-IA is positioned and supported within the CRA to be independent, effective and value-added. Appropriate reporting structures are in place and the CAE is an engaged member of the senior management team. CRA-IA provides both assurance and advisory services, and is managing this balance without compromising its objectivity.
+Reputation and Profile in the Agency.
+Results of interviews reflect that CRA-IA staff and the CAE are well regarded within the CRA and by the Committee. The reputation of CRA-IA is generally good and the team is well respected by the Senior Management team members interviewed across CRA. Stakeholders spoke very highly about the CAE, noting that he is successfully fulfilling his role and maintaining his independence, while still being very responsive to management requests and concerns, adopting a consultative, advisory and collaborative approach, and adding value to the CRA.
+Audit Committee of the Board of Management (the Committee).
+An appropriate Committee has been put in place and is operating effectively. The Committee provides the CAE and the Agency with valuable insight and is viewed by key stakeholders as a key component of the Agency’s oversight function.
+Reporting.
+The Committee and executives interviewed believe that the internal audit function adds value and that the CRA-IA risk and control recommendations are insightful and helpful to the CRA. The Committee and executives rely on CRA-IA to provide them with an independent viewpoint on how the organization is functioning.
+2.3. Enhancement Opportunities
+As noted previously, two standards were noted to be partially conformed to. The following opportunities to enhance existing CRA-IA processes were identified in relation to those standards.
+2.3.1. Attribute standards
+1311 – Internal assessments
+Generally Conforms
+Partially Conforms
+Does Not Conform
+Observation
+There is an opportunity to enhance CRA-IA performance monitoring by expanding and formalizing processes to track, report on, and manage against a broader set of key performance indicators used to measure the effectiveness and efficiency of the internal audit function.
+Details
+During the course of completing this external assessment, it was noted that CRA-IA formally reports, or is planning to report (as of 2016) on the following performance indicators (PI):
+Progress of risk based audit and evaluation (number of audits completed or in progress);
+Client Feedback Metric – Assurance Engagements;
+Client Feedback Metric – Advisory Engagements;
+Status of Action Plans;
+Themes of focus for IA assurance audits;
+Expected start date, report date and posting date for each audit engagement.
+Also, on an annual basis and for internal CRA-IA management purposes, CRA-IA:
+develops resource allocation plans for planned audits;
+estimates the amount of time required to perform each audit, and updates the estimate during the course of the audit, as required;
+presents the number of hours planned by audit in each audit’s Audit Planning Memo.
+With regards to performance monitoring, the IIA has provided examples for six performance measurement categories: Basic Measures; Service to Stakeholders; Knowledge of Business; Technical Development; Innovation; and, People Development.  The above-noted CRA-IA metrics are primarily within the Basic Measures and Service to Stakeholder categories.
+CRA-IA should re-examine its current PI and, in accordance with the needs of the AC and those of the IA management team, supplement its measures in additional areas. Examples of such measures are listed below:
+evaluation of audit project progress and completion status compared to plan (quarter and level of effort);
+CRA-IA resource utilization on audit projects versus other activities;
+% of critical recommendations not implemented;
+results of quality assurance assessments (potentially sample-based);
+audit report cycle time;
+staff training metrics.
+Recommendation
+CRA-IA should:
+develop a broader set of formalized performance indicators to assess and report on the degree of achievement of CRA-IA’s objectives, ensuring coverage of PIs to:
+report on actual performance compared to planned timelines and time-based budgets for audit projects;
+track results of quality assurance assessments.
+report on staff training.
+report periodically on those performance indicators within CRA-IA and to the Audit Committee.
+Action Plan
+Professional Practices, in consultation with the AC-CAE and Internal Audit Directorate, will review current AERB performance indicators with the aim of developing additional broader performance indicators to assess and report on the degree of achievement of CRA-IA’s objectives.
+Review and development of the broader set of formalized performance indicators will be completed by the end of Q3 FY 2016-17.
+Periodic reporting on the broader set of performance indicators will begin no later than Q1 FY 2017-18.
+2.3.2 Performance standard
+2330 – Documenting Information
+Generally Conforms
+Partially Conforms
+Does Not Conform
+Observation
+There is an opportunity to enhance audit working paper file documentation and referencing to ensure there are clear linkages between all the documents to support risks identified, work performed, and findings/recommendations that are reported.
+Details
+While the external assessment’s scope does not equate to the detailed quality assurance reviews of audit working paper files as should be completed as part of each individual audit engagement, a sample of files was reviewed as part of this external assessment to identify any potential improvement opportunities.
+The external assessment team did note that the methodology developed by CRA-IA is clear, thorough and well defined. This methodology is also embedded within an internal audit electronic working paper file system (TeamMate) that was adapted to CRA-IA needs and requirements.  Having said that, it was noted that there does not appear to be consistency of practice with regards to the documentation and storage of working papers. Specifically, it was noted that documents prepared as part of the audit process are not always saved in TeamMate, as prescribed by CRA-IA. Some documents are saved in other repositories.
+It was also noted that there is not always clear documentation that demonstrates the link between the risk assessments conducted for an audit, the audit program, the observations noted during the execution phase of the audit (e.g. findings identified in working papers), the summary findings discussed with the auditee, and the final recommendations included in the audit report. Without clear referencing and linkage throughout audit working paper files, there is an increased risk that the audit working papers and reports will not be clearly aligned, and a risk of a perception of missed or dropped audit findings.
+Finally, it was noted that documented evidence of reviews and sign-offs shows that they may not be performed on a timely basis throughout the audit process (e.g. the external assessment noted instances where sign-offs are all performed on the same date). As such, there is an opportunity to demonstrate the due diligence and supervision performed by ensuring more timely sign-offs throughout the audit process.
+Recommendation
+The Chief Audit Executive should ensure that:
+as prescribed by CRA-IA’s methodology, all key documents and evidence of approvals supporting the audit engagement are properly saved in TeamMate to ensure proper retention of the audit documentation (including key working papers, interview notes, and other supporting documentation prepared by external contractors during audit engagements);
+there is a clear link between risk assessments, audit programs, audit work completed, summary findings, and the final report. Specifically, working papers should be properly linked throughout the working paper file and referenced in the completed audit program, and the disposition of findings should be clearly documented in the file (e.g. which findings will be included in the final report, and which ones are not deemed reportable along with a rationale for that decision).
+Action Plan
+As prescribed by CRA-IA’s methodology, the use of TeamMate is mandatory for all engagements conducted by the Internal Audit Directorate, and managers are responsible for ensuring:
+sufficient audit work papers to support the work performed and the conclusions drawn are saved in TeamMate;
+working papers are properly linked throughout the working paper file and referenced in the completed audit program; and
+the disposition of findings is clearly documented in the file.
+Various methods and measures will be explored to raise awareness and remind internal audit staff and management of their responsibilities including:
+ongoing communication;
+training;
+supervision and monitoring;
+review and assessment; and
+reporting
+In collaboration with Data Analysis section, Professional Practices section will develop a monitoring and reporting mechanism to ensure compliance with CRA-IA methodology. The monitoring results will be reported directly to the CAE.
+Target completion date: Q4 FY 2016-17.
+2.4. Other enhancement opportunities
+As requested by the CRA-IA, the external assessment team also provided enhancement opportunities based on leading practices. Three other enhancement opportunities were noted as good internal audit practices that the CRA internal audit function could benefit from. It should be noted that these findings are based on leading practices, and are not specific requirements in the IIA standards, but are being provided for CRA-IA’s consideration.
+2.4.1. Audit Methodology Enhancements
+CRA-IA’s audit reports note the key findings and related recommendations that result from each audit engagement.  Based on discussions with stakeholders, there may be a benefit to supplementing the information provided in IA reports with a clear statement explaining that the observations/recommendations presented in the report are of high significance; and with additional commentary on the potential impact or risk exposure to the Agency for each key finding/recommendation provided by CRA-IA in its audit reports. The additional commentary would be useful to stakeholders to ensure clarity and alignment on the criticality of the finding/recommendation, and to provide context to assess whether management action plans are adequate and timely enough to address the risk exposure appropriately.
+Gathering feedback from auditees is important for CRA-IA as the feedback can be used to define or refine needs and expectations of CRA-IA’s clients.  As such, follow up surveys have been developed by CRA-IA and the Agency’s IA methodology requires that surveys be sent for each engagement. Based on the five year period reviewed by this external assessment, it was noted that there was an opportunity to enhance the consistency of auditee feedback processes to ensure post-audit surveys are sent and responded to.  Based on information provided for the last year within our scope, it appears that CRA-IA has modified its processes to address this issue.  CRA-IA should continue to focus on this area to ensure feedback surveys are sent on a regular basis.
+2.4.2. Audit coverage and reporting
+The Risk Based Audit Plan lists the risks related to each planned audit based on the CRA Corporate Risk Profile, links it to the audit universe, explains how the plan has been developed (the methodology) and provides an overview of the coverage by OPI (Office of Primary Interest). However, based on discussions with stakeholders, there may be benefits to including in the risk-based audit plan a mapping of all key Agency risks to planned/upcoming audits and previously (e.g. number of years of coverage to be defined with the AC) conducted audits.  In conjunction with this mapping, there may be benefits to spending more time in the risk-based audit plan, providing additional explanation and rationale for CRA-IA’s planned coverage of Agency risks, which Agency risks are not being covered as significantly and why.
+Similarly, there may be benefits for the audit plan to supplement current descriptions of coverage of CRA organizational units with information (visualized where possible) on the coverage (e.g. number of years of coverage to be defined with the AC) of internal audit’s audit universe. This would provide stakeholders with a clearer perspective on where CRA-IA has conducted work in recent years, and potentially stimulate discussions about the appropriateness of planned go-forward coverage using that as additional context.
+Based on discussions with CRA-IA, we understand that this type of information was included in previous audit plans but was removed to streamline the document.  We also understand that CRA-IA will be including this information in its 2016-17 audit plan.
+In conjunction with the observation raised previously related to enhancing performance monitoring, there is an opportunity for the risk-based audit plan and the Chief Audit Executive’s annual report to further address and comment on key performance indicators.  The risk-based audit plan could indicate planned targets for each performance indicator (including clear planned start and end quarter and level of effort for each audit project) to allow audit committee members and senior management to provide feedback on the planned schedule and effort.  The annual report could report on actual results against those and other performance indicators, to provide stakeholders with a perspective on the performance of CRA-IA as compared to its performance plan. There may also be benefits to including summary perspectives in the annual report on key themes (e.g. significant risk exposures and/or control issues, governance issues, and other matters) that CRA-IA has observed as a result of its collective audit activities.
+2.4.3. CRA-IA staff engagement/communication
+Based on the interviews with audit staff, there appears to be an opportunity to continue to provide additional communications and information with regards to the strategic CRA-IA decision such as envisioned audit projects, rationale for audit project selection, audit project staffing processes and decisions, updates on project status, and so on.  We understand that CRA-IA management is currently enhancing its approach to communications to assist in enhancing employee satisfaction and engagement.
+To ensure CRA-IA effectiveness, it is critical that the audit team have the knowledge, skill sets and other competencies required to perform the function’s audit engagements. We understand that CRA-IA is in the process of developing internal audit learning paths, which would serve as a support to the individual training plans currently developed for its staff.  The external assessment team notes that this would be in alignment with leading practice and recommends that CRA-IA use the learning paths to confirm its overall training requirements, staff development plans, and any hiring/resourcing implications.
+3. Specific Assessment Results
+3.1. Conformance ratings against IIA Standards
+Criteria
+Generally Conforms
+Partially Conforms
+Does Not Conform
+1000 – Purpose, Authority, and Responsibility
+1010 – Recognition of the Definition of Internal Auditing, the Code of Ethics, and the
+Standards
+in the Internal Audit Charter
+X
+1100 – Independence and Objectivity
+1110 – Organizational Independence
+X
+1111 – Direct Interaction with the Board
+X
+1120 – Individual Objectivity
+X
+1130 – Impairment to Independence or Objectivity
+X
+1200 – Proficiency and Due Professional Care
+1210 – Proficiency
+X
+1220 – Due Professional Care
+X
+1230 – Continuing Professional Development
+X
+1300 – Quality Assurance and Improvement Program
+1310 – Requirements of the Quality Assurance and Improvement Program
+X
+1311 – Internal Assessments
+X
+Rec. 2.3.1
+1312 – External Assessments
+X
+1320 – Reporting on the Quality Assurance and Improvement Program
+X
+Rec. 2.3.1
+1321 – Use of “Conforms with the
+International Standards for the Professional Practice of Internal Auditing
+”
+X
+1322 – Disclosure of Nonconformance
+X
+2000 – Managing the Internal Audit Activity
+2010 – Planning
+X
+2020 – Communication and Approval
+X
+2030 – Resource Management
+X
+2040 – Policies and Procedures
+X
+2050 – Coordination
+X
+2060 – Reporting to Senior Management and the Board
+X
+Rec. 2.3.1
+2070 – External Service Provider and Organizational Responsibility for Internal Auditing
+X
+2100 – Nature of Work
+2110 – Governance
+X
+2120 – Risk Management
+X
+2130 – Control
+X
+2200 – Engagement Planning
+2201 – Planning Considerations
+X
+2210 – Engagement Objectives
+X
+2220 – Engagement Scope
+X
+2230 – Engagement Resource Allocation
+X
+2240 – Engagement Work Program
+X
+2300 – Performing the Engagement
+2310 – Identifying Information
+X
+2320 – Analysis and Evaluation
+X
+Rec. 2.3.2
+2330 – Documenting Information
+X
+Rec. 2.3.2
+2340 – Engagement Supervision
+X
+Rec. 2.3.2
+2400 – Communicating the Results
+2410 – Criteria for Communicating
+X
+2420 – Quality of Communications
+X
+2421 – Errors and Omissions
+X
+2430 – Use of “Conducted in Conformance with the
+International Standards for the Professional Practice of Internal Auditing
+”
+X
+2431 – Engagement Disclosure of Nonconformance
+X
+2440 – Disseminating Results
+X
+2450 – Overall Opinions
+X
+2500 – Monitoring Progress
+X
+2600 – Communicating the Acceptance of Risks
+X
+IIA Ethic Code
+X
+Page details
+Report a problem on this page
+Date modified:
+2016-10-13

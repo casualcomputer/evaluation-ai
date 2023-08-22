@@ -1,0 +1,19 @@
+Summary of the Evaluation of the Essential Geographic Information (EGI) Sub-program
+Evaluation Findings
+Relevance:
+There is an increasing need for national geospatial information to assess and manage federal priorities. National core geospatial and geodetic data and remote sensing imagery are critical for a wide range and growing number of program, policy, and research applications. The federal government plays an appropriate role for ensuring consistency, accuracy of, and access to, geospatial information, although the precise role of the federal government in providing national datasets is evolving and is less clear.
+Performance - Efficiency and Economy:
+Strategic planning and coordination with respect to GeoBase and remote sensing programs are constrained by the absence of a horizontal policy framework relating to geospatial data and technologies. NRCan and other stakeholders attributed the challenges of updating GeoBase data and generating remote sensing science products to insufficient resources, and inadequate alignment of products with priorities and user needs.
+Performance – Effectiveness:
+Geospatial information is an important contributor to improved decisions, policies and programs, and increased productivity among users in the public and private sectors. Issues relating to accessibility, capacity, and the currency of GeoBase data constrained full achievement of outcomes with respect to GeoBase and remote sensing science programs.
+Recommendations
+Canada Centre for Mapping and Earth Observation (CCMEO) should update its business analysis in order to a) clarify the user needs and future directions of geospatial and remote sensing programs b) establish more viable approaches for core geospatial data and remote sensing science; and c) strengthen governance
+CCMEO and Canadian Geodetic Survey (CGS) should strengthen linkages with appropriate stakeholder and user groups in order to stay abreast of user needs and emerging trends.
+CGS should develop a plan to analyze gaps and identify options to mitigate infrastructure deficiencies in Canada’s geodetic observing infrastructure
+CCMEO and CGS should improve accessibility and user support for geodetic and geospatial information
+CCMEO and CGS should improve performance measurement and reporting to ensure adequate information is available to assess program efficiency and effectiveness
+CCMEO and CGS should develop and implement a strategy to communicate the value and benefits of geodetic services and geospatial information to stakeholders and key decision-makers
+Program Description
+EGI delivers core geospatial information and services such as national datasets and data layers, maps, satellite imagery, standardized position coordinates, research, and satellite infrastructure. Together, these products and services are intended to enhance decisions, programs, operations and policies for natural resources and other sectors.
+Scope and Methodology, Constraints and Limitations
+The evaluation employed multiple lines of evidence (e.g. user surveys, case studies, interviews) to assess program relevance and performance. A key limitation of the evaluation was isolating the impact of other programs from EGI. A contribution analysis served to mitigate this constraint.

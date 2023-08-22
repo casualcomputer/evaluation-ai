@@ -1,0 +1,43 @@
+Summary: Gender-Based Analysis Plus Exploratory Evaluation Study on Selected Labour Market Programs
+From:
+Employment and Social Development Canada
+On this page
+Background
+Key findings
+Lessons learned
+Observation
+Alternate formats
+Summary: Gender-based analysis plus exploratory evaluation study on selected labour market programs [PDF - 240 KB]
+Large print, braille, MP3 (audio), e-text and DAISY formats are available on demand by
+ordering online
+or calling 1 800 O-Canada (1-800-622-6232). If you use a teletypewriter (TTY), call 1-800-926-9105.
+Background
+This study explored the use of a novel machine learning approach to conduct impact evaluations. It supports the Departmental Gender-Based Analysis Plus (GBA Plus) agenda.
+The study examined interventions provided under the Labour Market Development Agreements (LMDA) and the Opportunities Fund (OF) for Persons with Disabilities.
+Key findings
+Results suggest that machine learning can be effective to conduct impact evaluations. Overall, results show that on average, participants in LMDA and OF improved their labour market attachment compared to similar non-participants. These results are consistent with findings from previous evaluations with the following added benefits.
+Machine learning does not only estimate the average impact, but also the distribution of impacts around the average. For example, results indicate that:
+94% of participants in LMDA Skills Development experienced a positive increase in incidence of employment relative to similar non-participants
+89% of participants in either Skills Development or Targeted Wage Subsidies under OF experienced an increase in their incidence of employment relative to similar non-participants
+Machine learning makes it possible to conduct impact evaluations controlling for more than one identity factor at the time (for example, female recent immigrants). This helps inform which sub-group of participants would benefit most from a specific intervention. For example, while all gender
+Footnote
+1
+subgroups improved their labour market attachment:
+Male recent immigrants saw the largest increase in their employment earnings from LMDA Targeted Wage Subsidies, with an increase of $2,577 compared to the average increase of $937
+Female participants aged over 54 years saw the greatest improvement in employment earnings from the OF, with an increase of $3,647 compared to the average increase of $2,361
+Lessons learned
+The study demonstrated that when it comes to providing results at a granular level, machine learning can be more efficient than traditional impact estimation methods.
+While promising, findings show that this method requires large datasets of quality participant-level data.
+For evaluation purposes, impact evaluation would benefit from complementary qualitative research methods to better contextualize its results.
+Going forward, future evaluations could leverage this machine learning approach when feasible, along with qualitative lines of evidence. This would inform a more nuanced understanding of which program interventions work best for whom.
+Observation
+The study highlights the importance of ESDC’s efforts to collect participant-level data with a view to enable further data integration and better inform policy analysis and evaluation from a GBA Plus perspective.
+Footnote 1
+This study uses gender identifiers available in administrative data and is therefore limited to a combination of biological sex (which was used as a proxy for gender) and other socio-demographic characteristics.
+Return to footnote
+1
+referrer
+Page details
+Report a problem on this page
+Date modified:
+2023-07-17

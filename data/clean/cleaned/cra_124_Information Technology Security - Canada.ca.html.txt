@@ -1,0 +1,115 @@
+Information Technology Security
+Final Report
+Corporate Audit and Evaluation Branch
+October 2009
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, Recommendations and Action Plans
+Identity and Access Management
+Monitoring and Reporting on Compliance
+Standalone Internet Workstations
+Security Policies and Awareness
+Conclusion
+Appendix A
+Executive Summary
+Background:
+The Internal Audit Division completed an information technology (IT) security 5 year review and follow-up audit in 2004. It reported that managers and employees understood the importance of IT security and were generally aware of IT security policies. Management was making progress in implementing action plans to address audit findings but sustained effort was still required particularly with regards to security policies and awareness, monitoring and reporting on compliance to security policies, standalone internet workstations, and identity and access management.
+Objective:
+The objective of the audit was to assess the progress achieved on the implementation and effectiveness of the action plans resulting from the 2004 IT security audit to ensure security risks are properly managed and compliance with security policies has improved.
+Conclusion:
+The audit found that progress has been made since 2004 to ensure security risks are properly managed and compliance with security policies is improved.
+Improvements have been made in the areas of identity administration, and the management and oversight of user-ID access to the Agency’s networks and systems. Assignment of roles and responsibilities has been established and implemented for monitoring server and workstation logs. Automated monitoring of network connected computers and portable devices, is being performed by Information Technology Branch (ITB). Finance and Administration Branch (FAB) has made improvements to security policies and awareness training to adequately cover subjects such as: unapproved software, screen savers, virus protection, data encryption and transport security for laptops and other portable devices.
+Further improvements are recommended in the areas of:
+segregation of duties;
+minimum system access rights in headquarters;
+horizontal access issue management; and
+monitoring and reporting for compliance.
+FAB and ITB agree with the recommendations and the action plans are included in this report.
+Introduction
+As custodian of Canadians' business and personal tax and benefits information, the Canada Revenue Agency (CRA) must be diligent in its efforts to ensure information and information technology assets are secure, and that employees adhere to policies and procedures designed to protect them.
+Security is a shared responsibility within the CRA:
+The Director General, Security, Risk Management, and Internal Affairs Directorate (SRMIAD), Finance and Administration Branch (FAB), is the Agency Security Officer and has overall responsibility for the management of the Security Program.
+The Information Security Division (ISD), SRMIAD is the functional owner of the Information Security Program and is responsible for information security policies and enforcement.
+The Information Technology Branch (ITB), specifically IT Security and Continuity Division, is responsible for providing leadership and technical security oversight.
+The CRA’s business information systems and technical infrastructure are in constant evolution. IT security control processes must continually adapt to keep pace with the changing technology in order to ensure security risks are properly managed, and to ensure compliance with CRA’s security policies.
+Refer to Appendix A for the list of acronyms used in this report.
+Focus of the Audit
+The objective of the audit was to assess the progress achieved on the implementation and effectiveness of the action plans resulting from the 2004 IT security audit, to ensure that security risks are properly managed and that compliance with security policies has improved.
+Audit work focused on four lines of enquiry: identity and access management; monitoring and reporting on compliance; standalone internet workstations; and security policies and awareness training.
+The scope included an analysis of the administration of identity (user-IDs) and management of access on 5 platforms, i.e. Mainframe, Revenue Ledger, Corporate Administrative Systems (CAS), Distributed Computing Environment, and E-business Computing Infrastructure.
+The examination phase of the audit was conducted between October 2007 and December 2008.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+and
+Information Systems Audit and Control Association
+IT audit and control standards.
+Findings, Recommendations and Action Plans
+1. Identity and Access Management
+Identity and access management (IAM) is a fundamental element of IT security. For an entity as large and complex as the CRA, with its constantly changing technology, successful IAM requires enterprise-wide governance, and sustained effort and diligence by the owner of every platform, system, database, and process. IAM lifecycle processes and controls require continuous improvement and must be followed by all individuals and groups to mitigate the risks of identity and access issues that may compromise the protection and use of information.
+In December 2004, a collection of 9 projects were brought together under the System Access Profile Program to strengthen IAM. Of the 9 projects, the User-Rationalization Project (UIDR) was created to coordinate the cleanup of individual user identification (user-ID) accounts. The System Access Definition Catalogue (SADC) and the Role Based Access Guide (RBAG) are key projects to improve access issues.
+1.1 Identity Administration
+Testing for compliance to security policies conducted on user accounts confirmed that progress has been made to identity administration.
+The UIDR project has had a positive impact on reducing the number of active user accounts that are not in the standard format. The UIDR project was successful in eliminating almost all of the non-standard individual accounts from CAS, and converting non-standard individual user-IDs to the standard format, except where authorized and approved for valid business reasons.
+Each account should be associated with a personal record identifier (PRI), but accounts associated with multiple, or invalid, PRIs were found. Accounts with invalid PRIs increase the challenge of determining accountability. Policy requires that accounts be suspended after 60 days of inactivity. Accounts not suspended in a timely manner exist, and suspensions of accounts on the mainframe were reversed by various areas using automated tools. Compliance to the security policies and procedures to manage user‑ID accounts mitigate the risks of identity issues that may compromise the protection and use of information; however, FAB and ITB have indicated that there are valid exceptions to this standard.
+The responsibility of monitoring for compliance of all non-standard user accounts is decentralized at the operational level. A consolidated view and central monitoring of all non-standard user accounts at the functional level would provide greater management and oversight.
+Recommendations
+FAB, in conjunction with ITB, should establish central monitoring for compliance, and a repository to provide oversight and manage all non-standard user accounts across all platforms.
+FAB, in conjunction with ITB, should establish a standard that addresses what should be entered on the mandatory PRI field on non-standard accounts.
+FAB – SRMIAD should ensure that all accounts on all platforms that remain unsuspended after 60 days of inactivity be reviewed and corrected. A complete listing of accounts that should not be suspended should be created and updated on an on-going basis.
+FAB – SRMIAD should ensure the automated reversal of suspensions be investigated and dealt with as appropriate.
+Action Plan
+FAB, in conjunction with ITB, will investigate the feasibility of a central registry for all non-standard user accounts. This registry would include UserIDs plus any other data deemed relevant. Preliminary informal discussions indicate that there may currently be a viable model under development for the Privileged User Risk Management program which could either serve as a model for the requirement or may be extendable in order to satisfy the requirement. Investigation and report on preliminary feasibility will be undertaken by FAB.  Monitoring for compliance will be overseen by the Compliance and Monitoring Unit, ISD/FAB. Target date: 31 December, 2009
+FAB will update the policy. ITB will create and communicate a standard to provide instruction to populate the mandatory fields. Target date: 31 December, 2009
+ITB will provide a more accurate measurement of mainframe accounts not suspended after 60 days by using data recorded by the CA Cleanup tool that was recently deployed for the mainframe platform. Target date: 31 December, 2009
+ITB will investigate and provide a log of accounts that are active past the policy-mandated date for suspension. ITB will maintain the log and FAB/SRMIAD will review and monitor it for compliance. FAB/SRMIAD will obtain justification from the business owner of the accounts that need to remain unsuspended. Target date: 31 March, 2010
+FAB, in conjunction with ITB, will investigate the issue of account suspensions for the platforms identified in this report and will improve the process required to identify accounts as exempt from suspension and reconcile exceptions. Target date: 31 March, 2010
+1.2 User-ID Access Management
+Progress has been made to improve the management and oversight of user-ID access to the Agency’s networks and systems. Since December 2004, profile catalogues have been created and communicated to assist managers with identification of the required system privileges based on employees’ duties and responsibilities. SADC provides managers with a plain language description of accesses, operations, and restrictions within application profiles. RBAG associates minimum system access rights to line-of-business functional roles. The sustainable RBAG and SADC data repository was implemented in February 2009. At the time of this audit, regional RBAG information had been defined, and the establishment of headquarters RBAG information was in progress. A RBAG and SADC implementation plan was under development.
+In April 2008, the responsibility for IAM was transferred from ITB to FAB to better align with the business and functional authority. In January 2009, a regionally developed tool, the Employee System Access Review (ESAR), was adapted for national use. ESAR is a web application that provides managers with a consolidated online report of their employees’ system access privileges. Regions are also using other locally developed tools to improve system access. Examples include the Profile Requests Online in Atlantic Region, the Système de gestion des effectifs in Quebec Region, and the Security Access management tool in Ontario Region. In May 2009, options analysis and development of a detailed IAM project plan was approved.
+The myriad of access privileges across various platforms, systems, and networks within the Agency underscores the importance of understanding and adhering to the principles for segregation of duties (SoD). SoD is a critical control to mitigate the risks of inappropriate access to information. Further progress needs to occur.
+Although the profile catalogues may address SoD considerations with respect to access privileges for a particular application, evidence was not available to demonstrate efforts to manage the risk of potential SoD issues on a horizontal basis. In addition, SoD considerations were not included in work moving forward to improve access management.
+There is no single office of primary interest accountable for managing access issues on all platforms across the Agency. Without this control, there may be duplication of effort and the risk that the root causes of horizontal access issues may not be addressed.
+Recommendations
+FAB – SRMIAD should initiate and lead efforts for CRA lines of business to clarify and address segregation of duties.
+FAB and ITB should establish a central office to manage horizontal access issues.
+Action Plan
+Plans to strengthen controls over access management through ESAR, RBAG and SADC will also help ensure appropriate SoD; however, none of these tools explicitly address SoD. SRMIAD have developed a high-level plan which describes an approach to address the issue of SoD within the lines of business. The next step will be to formalize this as a project and approve and assign resources to the appropriate group within SRMIAD. Target date: 31 March, 2010
+FAB is in the process of developing a steering committee (SC) for a number of access and identity issues within the CRA. This recommendation will be incorporated into the mandate which is being proposed for the SC. Following endorsement and/or acceptance of the concept and the subsequent creation of the SC by senior management, a working committee will be established under the SC to manage horizontal access issues. Target date: Fall 2009
+2. Monitoring and Reporting on Compliance
+Policies to monitor and report on compliance in various areas of IT security are in place. However, a methodology to cover all aspects of IT security review and inspection and to provide guidance to local offices was not evident. A comprehensive methodology would ensure complete and consistent coverage of IT security reviews and inspections. In addition, the requirement to report on compliance to Agency security policies was not met.
+Roles and responsibilities for monitoring server and workstation logs have been better defined and assigned in policy; however, it was not evident that ITB security standards and guidelines exist for monitoring server and workstation logs. The lack of proactive monitoring of server and workstation logs could prevent early detection of unapproved activity.
+Tools, processes, roles and responsibilities have been implemented for monitoring content and use of internet and email, as well as mainframe access to client identifiable data. Automated system tools were implemented and are being improved upon to ensure IT security and continuous monitoring.
+The FAB is responsible for reporting on the status of the security program to senior management with input from each region, and for providing summary reports reflecting the effectiveness of the security program. Agency policies lack provisions for regular reporting on the status of the IT security program to the Agency Security Officer, senior Agency management and oversight committees. Consequently, results of automated vulnerability scanning, host and network auditing and monitoring for compliance to CRA security policies are not reported to senior Agency management and oversight committees on a regular basis.
+Furthermore, cyber security incidents are not consistently reported.  While policy, processes and procedures exist, no evidence of a cyber security incident management standard was found. Incident criteria noted in policy and used for tracking and reporting are all different and do not match that of the government cyber security incident management standard, and the ITB incident management program does not report cyber security incidents, other than viruses, to the National Incident Reporting Centre at FAB as is required in the policy.
+Without timely reporting of information, Agency senior management and oversight committees may not have appropriate and sufficient data to support decision-making.
+Recommendations
+FAB should ensure that an IT security review and inspection methodology is in place as per FAM Security Volume, Chapter 21, Security Reviews and Inspections of IT Systems Policy.
+FAB should ensure that results from IT security monitoring and compliance activities, and all cyber security incidents, are communicated to senior management and oversight committees through the existing monthly security status report.
+FAB and ITB should publish a cyber security incident management standard and use consistent terminology to define, classify, track and report cyber security incidents.
+Action Plan
+FAB will update Chapter 21 - Reviews and Inspections of Computer Systems Policy and detail the IT Security Review and Inspection Program Governance, the program’s methodology and the established partnerships (key stakeholders) in the program. A convergence between Assets Protection & Personnel Security Services Division and Information Security Division occurred two years ago and as such the inspection and review objectives are in keeping with current industry trends. Target date: 31 March 2010
+ITB will provide proactive monitoring of relevant server and workstation IT security logs through production implementation of the ArcSight and Security Operations Centre for automated IT security incident detection and response.  The results of the monitoring will be included in the existing monthly security status report. Target date: 31 October, 2009
+ITB, in cooperation with FAB, will create and publish a cyber security incident management standard which will also standardize the related terminology. Target date: 31 March, 2010
+3. Standalone Internet Workstations
+Originally, “kiosk” internet workstations were used to access the internet outside of the Agency network. In 2005, these workstations were converted to the “national internet kiosk” solution whereby access to the internet is through the Agency network, which is inherently more secure than a standalone internet PC solution.
+Although standalone workstations do not give access to taxpayer information, they must comply with policy requirements, which necessitate the completion of a threat and risk assessment
+(TRA) approved by the FAB and ITB prior to implementation. An accurate list of standalone internet workstations was not evident at the time of this audit.
+Without proper identification of all standalone internet devices and their locations, the Agency is not able to ensure that the required TRAs have been completed. Without a complete list of all internet-connected standalone systems, the CRA cannot adequately monitor compliance.
+Recommendations
+FAB, in conjunction with ITB, should document and maintain a complete inventory of standalone workstations and ensure that the requirements, including monitoring, as detailed in Chapter 18, Security Volume, are met.
+Action Plan
+ITB will gather inventory information and create a repository for tracking the standalone internet workstations that are not connected to the Agency network (RCNet) and will request future requests to be accompanied by the RC502 work order. The Compliance and Monitoring Unit, ISD/FAB will ensure the requirements of FAM Security Volume, Chapter 18 are followed up on. Target date: 31 March, 2010
+4. Security Policies and Awareness
+Security policies adequately cover IT security topics and are available and communicated to CRA employees. The Agency has an on-line course and presentations that adequately cover IT risks. FAB offers presentations on various IT security topics such as security fraud and awareness of monitoring of the electronic networks’ usage. Training efforts include security awareness week, security newsletters, and an electronic training session that is available to all employees via the InfoZone.
+Conclusion
+The audit found that progress has been made since the 2004 audit to ensure security risks are properly managed and compliance with security policies is improved.
+Assignment of roles and responsibilities has been established and implemented for monitoring server and workstation logs. Automated monitoring of network connected computers and portable devices, is being performed by ITB. FAB has made improvements to security policies and awareness training adequately covering subjects such as: unapproved software, screen savers, virus protection, data encryption and transport security for laptops and other portable devices.
+Improvements are recommended in areas dealing with identity and access management. Several important aspects of access control remain outstanding, such as:  segregation of duties, and minimum system access rights in headquarters. The Identity and Access Management project may provide for an effective automated solution for managing user identity and access rights across the Agency’s computing platforms.  Also, the following improvements to IT security controls are recommended: to establish horizontal access issue management; to increase the monitoring and reporting for compliance; and to improve reporting of cyber security incidents and results of monitoring for compliance to security policies.
+APPENDIX A
+Acronyms
+Page details
+Report a problem on this page
+Date modified:
+2010-01-18

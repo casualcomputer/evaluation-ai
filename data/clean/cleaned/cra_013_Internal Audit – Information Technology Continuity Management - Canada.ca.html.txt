@@ -1,0 +1,135 @@
+Executive summary
+Information technology applications are vital elements that enable critical service delivery and are essential to the success of the Canada Revenue Agency. It is crucial that the services provided by these applications are able to operate effectively with minimal disruption. The Business Continuity Management Program supports this requirement by establishing thorough plans, procedures, and processes that can enable continuity and recovery of critical services.
+The Audit, Evaluation, and Risk Branch engaged offices of primary interest to verify that critical business applications were resilient in 2004 and 2010. This audit sought to verify that critical business applications remained resilient in the environment that was in place during the examination phase of the audit.
+Information technology continuity management is a component of business continuity management that focuses on the proactive planning and testing of critical business applications and information technology infrastructure that support critical services. Managing and conducting activities for information technology continuity management involves the Information Technology Branch and the Finance and Administration Branch. In addition, Shared Services Canada is a partner organization that directly affects continuity efforts.
+The objective of this audit was to provide assurance on whether continuity measures for critical business applications, that enable critical services, were in place and working as intended.
+The Canada Revenue Agency supports continuity objectives for business applications that enable critical services through an established Business Continuity Management Program that identifies critical services, plans for continuity, and exercises plans.
+This audit determined that the Canada Revenue Agency conducts activities that minimize interruptions but needs adjustments for reliability.
+The examination phase of the audit concluded prior to the emergence of the novel coronavirus, COVID-19, which the World Health Organization characterized as a pandemic on March 11, 2020. The COVID-19 event exercised the Canada Revenue Agency’s continuity activities in unprecedented ways. Discussions with the offices of primary interest for the audit determined that the findings and recommendations detailed in the report remain relevant.
+Summary of recommendations
+The Finance and Administration Branch and the Information Technology Branch should strengthen controls in order to ensure that:
+roles and responsibilities are clarified
+dependencies are identified
+necessary employees have access to business continuity plans
+Management response
+The Finance and Administration Branch agreed with the recommendations in this report and developed related action plans. The Audit, Evaluation, and Risk Branch has determined that these action plans appear reasonable to address the recommendations.
+1. Introduction
+The Canada Revenue Agency provides services that affect and contribute to the ongoing economic and social well-being of Canadians by collecting and distributing monies through various means. In 2019, the Canada Revenue Agency processed over 30 million individual returns and distributed more than $32.5 billion in benefit and credit payments.
+As technology-enabled solutions become widely adopted, taxpayers increasingly interact with the Canada Revenue Agency through electronic services. Because of this, individual taxpayers, 88.6% of whom file online, are more aware of disruptions to the business applications that provide these services. Accordingly, the resilience of business applications during unplanned disruptive events is essential for the Canada Revenue Agency to deliver service. Continuity management strengthens this resilience, by focusing on minimizing disruptions to critical services.
+Ensuring that the Canada Revenue Agency can continue its business activities when critical business applications and services become unavailable or defective through proactive planning and conducting exercises involves both the Finance and Administration Branch and the Information Technology Branch. Shared Services Canada is also a partner organization that directly affects these efforts.
+The Finance and Administration Branch manages the Business Continuity Management Program that provides guidance, tools, training, and coordination to critical service owners and coordinators.
+The Information Technology Branch is a critical service enabler that manages the recoverability of business applications that support critical services and provides continuity requirements to Shared Services Canada.
+Business continuity management consists of identifying critical services, planning preventative measures, responding to disruptive events, and applying strategies to maintain or recover critical services. Key outputs of the business continuity management process include:
+Business continuity plans: plans describing the minimum acceptable recovery configuration requirements, strategies and all of the contact information needed to maintain and recover the critical services.
+Critical services inventory: a list of services whose compromise, in terms of availability or integrity, would result in a high or very high degree of injury to either the health, safety, security, or economic well-being of Canadians or to the effective functioning of the Government of Canada.
+Critical business applications and services: a list of applications that enable critical services.
+After-action reports: documents that capture experiences, gaps, and lessons learned after unplanned disruptions or testing exercises.
+2. Subsequent events
+On March 11, 2020, the World Health Organization assessed that the novel coronavirus, COVID-19, be characterized as a pandemic. In response to the pandemic and to ensure business continuity, the CRA established a COVID-19 National Business Continuity Plan that identified business enabling functions as well as program branches responsible for the delivery of critical services to Canadians. Internal Audit work was not defined as a critical service. However, the work performed by the offices of primary interest of this audit was classified as a critical service. Restrictions were put in place whereby employees providing non-critical services could not create work for others who were performing a critical service.
+Once restrictions were eased, the audit team reengaged the offices of primary interest to finalize the reporting phase of the audit. Management’s response to COVID-19 was not assessed as part of the audit work.
+The scope of the audit work included critical business applications and services, data, continuity processes, guidance, and activities in place as of July 31, 2019. The examination phase of the audit took place from August 2019 to January 2020, and concluded prior to the COVID‑19 event. The reporting phase was started in January 2020, and was paused from March 2020 to August 2020.
+3.1 Importance
+This audit is important because information technology is vital to the success of the Canada Revenue Agency’s programs. With taxpayers increasingly interacting with the Canada Revenue Agency through electronic services, it is crucial that the critical services enabled by these applications are able to operate effectively with minimal disruption.
+The Audit, Evaluation, and Risk Branch verified that critical business applications were resilient in 2004 and 2010. As roles and responsibilities in this area have significantly changed, and with the creation of Shared Services Canada, this audit sought to verify that critical business applications remain resilient in the environment that was in place during the examination phase of the audit.
+This audit was first included in the Board of Management approved Risk-Based Audit and Evaluation Plan 2018-2021. The Agency Management Committee approved the Assignment Planning Memorandum on August 28, 2019.
+3.2 Objective
+The objective of this audit was to provide assurance on whether continuity measures for critical business applications, that enable critical services, were in place and working as intended.
+3.3 Scope
+The scope of the audit work included Canada Revenue Agency critical business applications, data, continuity processes, guidance, and activities in place as of July 31, 2019. Infrastructure such as mainframes, servers, and network infrastructure are outside the scope of this audit since the management of these assets are the responsibility of Shared Services Canada.
+The audit sought to determine whether:
+continuity objectives are supported to improve business resilience
+continuity activities ensure minimal interruptions for critical business applications
+improvements to continuity processes are made appropriately
+continuity activities of external service providers are in place and managed
+3.4 Audit criteria and methodology
+Refer to Appendix A for the audit criteria and methodology.
+The examination phase of the audit took place from August 2019 to January 2020 using a piloted agile methodology that resulted in a more efficient examination phase.
+The audit complies with the International Standards for the Professional Practice of Internal Auditing, as supported by the results of the quality assurance and improvement program.
+4.1 Governance
+The objective of this line of enquiry was to determine whether policy instruments and agreements that align with Canada Revenue Agency continuity objectives to improve business resilience are prepared and defined.
+4.1.1 Corporate policy instruments support continuity objectives. However, roles and responsibilities for activities involving critical business applications are not clear.
+The Finance and Administration Branch reviewed and updated the Continuity Management Directive to provide information on managing the continuous delivery and restoration of critical services. However, the roles and responsibilities concerning some key activities of critical business applications are missing. Such key activities include:
+application identification
+continuity requirements
+continuity planning
+disruption tracking
+continuity exercises
+service standards
+To the Business Continuity Management Program owner, critical business applications are outside and separate from the scope of the program; regardless, the Information Technology Branch is required to communicate information to the Finance and Administration Branch when the operation of a critical business application is disrupted beyond the specified duration.
+Discussions with the Finance and Administration Branch and the Information Technology Branch uncovered that the Canada Revenue Agency has not clearly assigned accountabilities and responsibilities regarding the continuity of critical business applications, which could disrupt services and delay recovery from disruptions.
+Recommendation 1
+The Finance and Administration Branch should update corporate policy instruments to clarify roles and responsibilities of the continuity of critical business applications that enable critical services.
+Action Plan 1
+The Finance and Administration Branch will update the Business Continuity Management Directive and associated guides to clarify the roles and responsibilities of continuity management stakeholders to include critical business applications that enable critical services. Specially, updates will be made to the roles and responsibilities of the Chief Information Officer, Assistant Commissioners, Directors General, and team leaders. In addition, the Finance and Administration Branch will include references to related documents by the Information Technology Branch that relate to critical business applications and services.
+The Finance and Administration Branch will consult the Information Technology Branch to specify the roles and responsibilities of the Chief Information Officer in the Business Continuity Directive. Responsibilities include communication protocols, information technology continuity testing, reporting of information technology incidents, and processes for registration and de-registration of critical business applications.
+The target completion date is April 2022.
+4.2 Processes
+The objective of this line of enquiry was to determine whether, plans, measures, procedures, and arrangements that lessen the effects of interruptions to critical business applications, meet minimal requirements, are in place, and are operating as intended.
+4.2.1 Processes are in place for continuing business.
+The Business Continuity Management Program has guidance and processes in place to identify critical services and critical business applications, and to plan and manage unplanned disruptions. In addition, the program tests the effectiveness of continuity plans.
+4.2.2 The Business Continuity Management Program does not identify and document all dependencies related to critical services and applications.
+Critical business applications do not currently identify and document all dependencies that are outside the Canada Revenue Agency. The program owner does not verify the accuracy of external dependencies or match the information provided against the existing information exchanges within critical applications.
+Consequently, there is a risk that critical business applications depend on unidentified critical business applications or data to operate, which could disrupt service. Recovery measures could also be ineffective or untimely.
+An effective response to an unplanned disruption of a critical business application requires that all stakeholders have identified and are aware of all relevant dependencies for the afflicted critical business application. This information could directly affect the responsiveness and appropriateness of a planned and coordinated response.
+Recommendation 2
+The Finance and Administration Branch should ensure that dependencies for all critical business applications that are within the Government of Canada are identified and validated on a regular basis.
+Action Plan 2
+The Finance and Administration Branch will make identification of dependencies mandatory. Team leaders will be required to provide information related to dependencies within the Emergency and Incident Management Electronic Tool.
+The Finance and Administration Branch will conduct the business impact analysis process annually to ensure the validity of critical services and associated critical business applications.
+The Finance and Administration Branch in collaboration with the Information Technology Branch will provide stakeholders with guidance on dependencies and data exchanges for the business impact analysis and critical business applications and services registration processes.
+The target completion date is April 2022.
+4.2.3 The Business Continuity Management Program does not monitor access to business continuity plans.
+The system storing business continuity plans, the Emergency and Incident Management Electronic Tool, does not automatically report the changes or reviews to user access, nor does it automatically report the changes made to each plan’s contact information, which inhibits the monitoring of access to business continuity plans.
+There is a risk that responsible personnel do not have access to business continuity plans in the Emergency and Incident Management Electronic Tool when needed. As such, the execution of business continuity plans could be ineffective, which could prolong disruptions to services.
+In any unplanned disruption, it is essential that business continuity plans regarding critical applications be available to all necessary stakeholders. Should business continuity plans not be reliably available, the continuity efforts may not be conducted as planned or may be conducted in a disorganized manner.
+Recommendation 3
+The Finance and Administration Branch should monitor both the system access to business continuity plans and the contact information of each business continuity plan.
+Action Plan 3
+Access:
+The Finance and Administration Branch will conduct annual exercises with team leaders to review business continuity plans for all critical services to validate accesses.
+The Finance and Administration Branch will provide guidance and communications to instruct stakeholders of the alternative steps that should be taken to access business continuity plans in the event that plans are unavailable electronically.
+The Finance and Administration Branch will explore existing technical solutions such as the Access Review Certification tool to automate system access review.
+The target completion date is April 2022.
+Contact Information:
+The Finance and Administration Branch will create and validate a contact report following each bi-annual contact information update exercise to ensure that all stakeholders have participated and successfully completed the required updates.
+The target completion date is April 2022.
+4.2.4 Training on the business continuity process is available and provided.
+The Finance and Administration Branch develops course material on the business continuity process and provides online training that is available to all employees on an on-demand basis.
+4.3 External service management
+The objective of this line of enquiry was to determine whether management processes of Shared Services Canada relationships, contracts, performance, and compliance are in place and operating as intended.
+There are no longer any documented signed external agreements with Shared Services Canada that include continuity requirements and expectations for critical business applications. The Canada Revenue Agency provides a list of critical business applications to Shared Services Canada. Shared Services Canada provides support to critical business applications on a best-effort basis.
+When the Canada Revenue Agency transferred responsibilities to Shared Services Canada, agreements were not required; nevertheless, documented, signed agreements that included Critical Business Applications and Services requirements were in place up until 2017. Processes within Shared Services Canada have matured over time. New terms of service have been put in place, and partner organizations may opt to establish agreements with Shared Services Canada.
+Formalized accountabilities and responsibilities for the continuity of critical business applications could facilitate the prompt recovery of critical services and prevent permanent data loss.
+Discussions with the Finance and Administration Branch and the Information Technology Branch revealed that in the near future the Government of Canada plans to establish a national critical services list across all departments and agencies that may identify critical services in a national context and clarify accountability and responsibilities for the continuity of these services.
+5. Conclusion
+The Canada Revenue Agency supports continuity objectives to improve business resilience and engages external partners for consultation and best practices. The established Business Continuity Management Program includes important activities such as identification of critical services, planning for continuity, and testing of plans. Furthermore, with the cooperation of the Information Technology Branch, these activities include critical business applications that enable these critical services. Comprehensive guidance for testing plans includes direction on activities for specified levels of rigour. The guidance provides a schedule and procedures on how to report corrective actions. Similarly, the relationship between the Canada Revenue Agency and Shared Services Canada is supported by a governance and operating protocol.
+The Business Continuity Management Program has opportunities to identify dependencies and provide access to plans.
+Although the COVID-19 event exercised the Canada Revenue Agency’s continuity activities in unprecedented ways, discussions with the offices of primary interest for the audit determined that the findings and recommendations detailed in the report remain relevant.
+6. Acknowledgements
+In closing, the Audit, Evaluation, and Risk Branch would like to acknowledge, recognize, and thank officials in the Finance and Administration Branch and the Information Technology Branch for the time they have dedicated and the information they have provided during the course of this engagement, despite the pressures that they were subject to because of the pandemic.
+Appendix A: Audit criteria and methodology
+Methodology
+The audit piloted the agile method for examination and reporting activities to increase timeliness and responsiveness. The agile method of project management uses incremental, iterative work sequences known as sprints.
+The methodology increased communication with the offices of primary interest by providing regular feedback, sharing test results, and sharing recommendations. In addition, the pilot resulted in an increase in workflow efficiency, project oversight, and timely issue resolution. The pilot also led to stronger project supervision and consistent forecasting, which facilitated continual alignment with estimates and objectives.
+Methods for examination included the following:
+
+enquiry of key stakeholders
+inspection of corporate policy instruments and other select documentation
+inspection of continuity management documentation
+inspection and recalculation of samples from systems supporting information technology continuity activities
+inspection of restricted shared drives and user accesses permissions
+inspection of service agreements
+inspection of training materials and activities
+inspection of external service-provider documentation
+Appendix B: Glossary
+Page details
+Report a problem on this page
+
+
+
+
+
+
+
+Date modified:
+2021-03-05

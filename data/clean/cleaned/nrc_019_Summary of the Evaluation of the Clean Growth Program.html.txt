@@ -1,0 +1,51 @@
+Summary of the Evaluation of the Clean Growth Program
+About the Clean  Growth Program (CGP)
+Developed through a collaboration between NRCan’s Office of Energy  Research and Development (OERD), the Canadian Forest Service (CFS) and the  Lands and Minerals Sector (LMS), the CGP was designed to be a new federal  approach to supporting industrial innovation in both the natural resources and  clean technology sectors. The CGP supports clean technology research,  development and demonstration (RD&D) including up to first commercial  installations in Canada’s energy, mining and forestry sectors. Transfer payments  are used to support external funding recipients to complete this RD&D. The  total program envelope was $155M over four years starting in 2017-18 (extended  to 2021-22 due to COVID). The CGP ended in March 2022.
+Relevance
+The  CGP is relevant, and its objectives are clearly in line with those of the federal government and the department. The program is consistent with federal and NRCan departmental priorities related to accelerating clean technology innovation, generating environmental benefits and economic growth, and achieving a more efficient natural resources  sector across the country.
+Stakeholder  Engagement
+The  broad stakeholder engagement undertaken by the program resulted in an effective  determination of priorities and needs for all stakeholders involved. The  purposeful cross-sector design and ongoing engagement with other federal  programs ensured the program filled a gap for much-needed support. The program  received an unprecedented number of applications; it was oversubscribed with  proposals requesting >$2.3 billion in funding (15 times the program budget).
+Implementation
+The CGP has mostly been  implemented as planned. However, there were differences in planned program  timelines and a number of cases of project start-up delays that resulted in  slowed spending of contribution amounts as well as budgeted salaries. Program  implementation was delayed by approximately one year.  OERD responded  efficiently through design flexibility to ensure CGP projects steered through  the challenges of the COVID-19 pandemic.
+Progress on  Outcomes
+Based on progress to date, the program has been effective in  achieving its short-term outcomes for increasing collaboration, leveraging  investments, advancing technologies toward market readiness. The program has  leveraged investments of at least a 3:1 ratio and increased speed-to-market  (e.g., 50% of projects self-assessed as advancing TRL levels). Particularly  given the nature of RD&D projects, it is also too soon to report on  intermediate or ultimate outcomes of the program, including environmental  benefits. Nearly all proponents reported expecting their technology to get to,  or close to, full commercial readiness over the next five years.
+Innovative Program  Features
+The  CGP introduced a number of new innovative program features, most of which were  beneficial. For example, collaborative Trusted Partnerships formed with  provincial/territorial (PT) funding partners lowered redundancy, improved  efficiency, and supported co-developed programming with provinces enabling  targeted support to joint priorities. The Science and Technology Assistance for  Cleantech (STAC) model provides small- and medium-sized enterprises access to  federal research infrastructure and technical competencies where proponents are  deriving great benefit. The STAC model in particular has been acknowledged as  something that should be continued. Despite some technical limitations, the launch  of Integro as a new ‘one-window’ client relationship management system is  viewed as a good step towards successful digitization of program processes, but  improvements are needed to reach full functionality. A Collaboration Community  platform that was established did not reach its full potential and did not  facilitate as many linkages among potential collaborators as anticipated.
+Lessons Learned
+The innovative design of the program was challenging to implement. Balancing the implementation of at least six new innovative approaches, (including the equal split of funding across three sectors and mandatory PT co-funding) was ambitious. The effort required to launch these innovations  contributed to delays in timelines for implementation as a result of, e.g.,  lags in the establishment of contribution agreements and the complicated  process establishing the two agreements required for STAC projects. Staff turnover and a lower than projected level of human resources during the critical first two years of the program also contributed to a lower level of efficiency in delivery.
+About The Evaluation
+The NRCan Audit and Evaluation Branch (AEB) included a commitment to conduct this evaluation in its Integrated Audit and Evaluation Plan 2021-2026. The AEB    identified the need for this evaluation through its risk-based planning process and in response to a Treasury Board (TB) commitment to complete an evaluation. The evaluation also meets requirements for evaluation of ongoing grant and contribution (G&C) programs under section 42.1 of the
+Financial Administration Act
+and the TB
+Policy on Results
+. Details on    specific engagement questions, methods and limitations are found in the full report.
+Recommendations
+In order to maximize the future effectiveness of the innovative    components implemented under the Clean Growth program, OERD should undertake    the following:
+Improve the clarity of criteria and guidance for Science and Technology Assistance for Cleantech (STAC) to increase opportunities for uptake in future implementation of the model and efficiency of implementation.
+Review whether the utility of the Collaboration Community justifies the required resources to maintain the platform going forward.
+Conduct a technology needs assessment on Integro and develop a plan to continue improving the system to best respond to internal and external needs.
+Management Response and Action Plan
+Management response:
+Management agrees with Recommendation #1.
+The Office of Energy Research and Development (OERD) has undertaken a number of    activities to evaluate the innovative components implemented under the Clean    Growth Program, and will continue to evaluate lessons learned in order to    maximize the future effectiveness of the components in future programming.
+During the Summer of 2021, OERD engaged with an external contractor to do a detailed review of the STAC model through the use of focus groups and interviews. The intent of the process was to capture key observations that present as opportunities for optimization and additional value-added and to summarize those findings in a report. OERD is using this report to inform future criteria and guidance.
+In Fall of 2021, OERD    sent a survey to all members of the Clean Growth Collaboration Community to    better understand how the platform is being used, and provide an opportunity    to make recommendations for improvements and areas for future content. OERD    will be working to develop a strategy for the platform, with the core    objective of fostering partnerships, supporting higher quality proposals to    future programs, creating a space for meaningful discussions, and    facilitating matchmaking opportunities.
+Beginning in the    Summer of 2021, OERD undertook a technical needs assessment on Integro and    determined that Integro was not positioned to best support future program    delivery. OERD presented a proposal to implement a new solution (Salesforce)    to the Architectural Review Board on January 17th, 2022, and following    unanimous endorsement, has initiated work to scope and implement this new    solution.
+Position Responsible
+:    DG, OERD on behalf of ADM, EETS
+Due Date:
+OERD will identify and evaluate the gaps    and opportunities with the STAC model through an internal process for    consideration of potential use in future programming.
+Collaboration Community Strategy will be    finalized in Fall 2022, with a clear path forward on the future of the community    in Winter 2022/23.
+OERD is working toward a launch of the    Salesforce solution in Fall 2022.
+OERD should improve practices for performance measurement for innovative programming by:
+Identifying performance data that best informs progress and accomplishment of its expected results.
+Clarifying reporting requirements by identifying clear directions, definitions, targets, data strategies and follow-up for reporting information.
+Management response:
+Management agrees with Recommendation #2.
+OERD    has a dedicated Performance Measurement function within its operations, with a focus on identifying and collecting data that best informs progress and    accomplishment of expected project and program results, and identifying clear directions, definitions, targets, data strategies and follow-up for reporting information.
+Going    forward, OERD will continue to update and revise its performance measurement strategies, data collection tools and project reporting guidance to better    align with expected result and time horizons for energy innovation and  natural resources RD&D for future programs. Additionally, OERD will update its CGP project reporting guide, project reporting templates and program reporting documents to further emphasize: target dates and timelines    for reporting; enhance definitions; and elaborate upon methodologies and    instructions for data collection and analysis.
+OERD    will also develop guidance to better differentiate between individual    project-level reporting requirements and methodologies from methodologies and    requirements for reporting aggregate program level data (such as for the    Departmental Results Framework, Program Information Profiles).
+Position Responsible:
+DG OERD on behalf of ADM, EETS
+Due    Date:
+As reporting  templates for the CGP have already been distributed to proponents for this    year, updates will be made for follow-on reporting processes for the next annual    reporting cycle beginning in March 2023.

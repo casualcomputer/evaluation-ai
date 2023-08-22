@@ -1,0 +1,1759 @@
+Evaluation of Reaching Home: Canada’s Homelessness Strategy
+On this page
+Alternate formats
+List of tables
+Executive summary
+Program background
+Key findings
+Recommendations
+Management response and action plan
+References
+Glossary
+Annexes
+Alternate formats
+Evaluation of Reaching Home: Canada’s Homelessness Strategy
+[
+PDF
+- 966
+KB
+]
+Large print, braille,
+MP3
+(audio), e-text and
+DAISY
+formats are available on demand by
+ordering online
+or calling 1 800 O-Canada (1-800-622-6232). If you use a teletypewriter (
+TTY
+), call 1-800-926-9105.
+List of tables
+Table 1: The program’s spending from 2019 to 2020 to 2020 to 2021
+Table 2: The program base funding allocations in 2019 to 2020 and 2020 to 2021
+Table 3: Gender distribution by age group of shelter-using population in 2019
+Table 4: Canadian and international best practices to reduce and prevent homelessness compared to activities and projects supported by regionally funded streams
+Table 5: Community focus group and interview participants by jurisdiction
+Table 6: Community focus group and interview participants by funding stream
+Table 7: Community focus group and case studies interview participants by role
+Table 8: Distribution of COVID-19 funding among main activities among the 1,438 projects that received only COVID-19 funding
+Table 9: Duration of COVID-19 funding
+1.	Executive summary
+Reaching Home: Canada’s Homelessness Strategy (hereafter referred to as “the program”) was launched on April 1, 2019. The program supports community-based solutions aimed at preventing and reducing homelessness across Canada. To do this, the program provides funding and support to:
+114 community and regional organizations
+non-profit organizations
+Self-Governing First Nations and national or regional representatives of First Nations, the Métis Nation, and Inuit
+Table 1: The program’s spending between 2019 to 2020 and 2020 to 2021
+Period
+Base funding (millions)
+COVID-19 response funding (millions)
+2019 to 2020
+$208
+0
+2020 to 2021
+$203
+$394
+Note: Spending includes operating costs and grants and contributions
+Source: ESDC. (2022). Departmental Results.
+1.1	Evaluation scope
+The evaluation assessed all funding delivered and support provided by the program during 2019 to 2020 and 2020 to 2021 fiscal years. The evaluation was completed in compliance with the
+Financial Administration Act
+and the
+Policy
+on
+Results
+.
+Following an Order in Council issued in October 2021, the responsibility for the program transitioned from the department of Employment and Social Development Canada (ESDC) to Infrastructure Canada (INFC). The evaluation team at the department of Employment and Social Development Canada evaluated the program. The evaluation covered the period (2019 to 2021) while the program was delivered under this department.
+The evaluation did not assess the core activities implemented in Quebec for 2019 to 2020 and 2020 to 2021 fiscal years. This is because for the first 2 years of the Canada-Quebec agreement regarding Reaching Home 2019 to 2024, the program was managed according to the terms and conditions of the 2014 to 2019 Canada-Quebec agreement for the Homelessness Partnering Strategy. However, the COVID-19 response in Quebec was implemented through a separate
+Canada-Quebec COVID-19 Agreement Reaching Home 2019-2024
+. Therefore, the evaluation assessed the COVID-19 response in Quebec (
+Evaluation Question 6
+).
+1.2	 Purpose of the evaluation
+The evaluation assessed the program design, implementation, and progress towards the expected outcomes. The evaluation covered 2 fiscal years (2019 to 2020 and 2020 to 2021). The evaluation highlighted the challenges and lessons learned related to:
+prioritization and targeting of diverse groups and their needs by communities
+support for Indigenous Peoples experiencing or at risk of homelessness
+alignment of projects funded under regionally delivered funding streams with community-identified needs and the best practices
+support for data-driven Coordinated Access systems
+support for COVID-19 emergency funding
+1.3	Evaluation methodology
+Methods used to address the evaluation questions:
+literature review (140 academic and gray literature sources)
+qualitative review of program reports and documents (170 documents)
+quantitative analysis of program administrative data (2,838 projects)
+interviews with subject matter experts and program officials (11 interviews)
+focus groups with Community Entity and Community Advisory Board representatives, as well as managers and front-line workers (10 group discussions with 47 participants)
+case studies for a Designated, Territorial, Rural and Remote, and Quebec community (4 case studies.) Case studies included a document review and 21 interviews with 23 community stakeholders
+The findings related to the Indigenous Homelessness stream are based on the program data and documents. The findings also include interviews and focus groups with non-Indigenous stakeholders. These interviews and focus groups did not include Indigenous Homelessness stream partners. As a result, any findings related to the Indigenous Homelessness stream should be considered preliminary
+Footnote
+1
+. The intent to engage with Indigenous partners was expressed at the earliest point of the evaluation. Therefore, as part of this evaluation the engagement with Indigenous partners (Distinctions-Based partners), to foster a respectful engagement, was initiated and is ongoing. In addition, efforts will be continued to further integrate Indigenous perspectives and knowledge during the next summative evaluation.
+Annexes
+A
+and
+B
+present more details regarding the evaluation approach and limitations.
+1.4	Summary of findings
+Below are the key findings from this evaluation:
+Addressing the needs of diverse groups experiencing or at risk of homelessness
+Finding 1
+: The community-based design of the program, and its support for collaborative and data-driven approaches enables communities to identify and prioritize different target groups and their needs when allocating funding
+Addressing the overrepresentation of Indigenous Peoples experiencing or at risk of homelessness
+Finding 2
+Footnote
+2
+: There is a need for improvement in the engagement with Indigenous partners to address the overrepresentation of Indigenous Peoples experiencing or at risk of homelessness
+Aligning with best practices to reduce and prevent homelessness
+Finding 3
+: The regionally delivered funding streams align with the needs of communities and many of the best practices to reduce and prevent homelessness
+Finding 4
+: Projects under regionally delivered funding streams are contributing to placing individuals experiencing homelessness in more stable housing and providing prevention services to individuals at risk of homelessness. However, there are some challenges in demonstrating consistent progression towards homelessness prevention and reduction
+Supporting the implementation of the Coordinated Access system
+Finding 5
+: Program supports helped respond to different community needs to implement a data-driven Coordinated Access system
+Finding 6
+: There is room to improve data capacity and buy-in from some communities and funding recipients to implement Coordinated Access
+Fostering collaboration to advance the implementation of the Coordinated Access system
+Finding 7
+: The program provided direction, resources, and support to the community, provincial, and territorial stakeholders to foster collaboration to implement a data-driven Coordinated Access system
+Finding 8
+: There is room to improve collaboration among community partners, as well as Indigenous and non-Indigenous partners to advance the implementation of the Coordinated Access system
+Supporting the response to the COVID-19 pandemic
+Finding 9
+: The activities facilitated by the incremental COVID-19 funding contributed to limiting the spread of COVID-19 among those experiencing homelessness or at risk of homelessness, and addressing additional challenges that were introduced or worsened during the pandemic
+1.5	Summary of recommendations
+Based on the findings, this evaluation recommends that:
+Recommendation 1
+The program provides further technical capacity and support to communities and funding recipients for the implementation of a data-driven Coordinated Access system.
+Recommendation 2
+Footnote
+3
+With input from Indigenous partners, the program provides further support for early and meaningful collaboration and engagement between Indigenous and non-Indigenous partners.
+Recommendation 3
+The program should explore opportunities for greater alignment of homelessness and housing related initiatives.
+2.	Program background
+2.1	Program renewal
+On April 1, 2019, Reaching Home: Canada’s Homelessness Strategy replaced the Homelessness Partnering Strategy. The transition to the program brought the following changes:
+removal of Housing First investment targets. This change required some funding recipients under the program’s predecessor to invest a minimum amount of funding in Housing First interventions
+requirement to implement a Coordinated Access system
+Footnote
+4
+, with funding to support the implementation
+Footnote
+5
+requirement to measure 5 core community-level outcomes
+Footnote
+6
+creation of Distinctions-Based stream. This stream allocates additional funding to support initiatives that better respond to the unique needs of First Nations, Inuit, and Métis individuals experiencing or at risk of homelessness
+transition the delivery of the Indigenous Homelessness stream to Indigenous-led organizations
+increased investments to address Indigenous homelessness
+creation of the Territorial Homelessness stream
+addition of new Designated Communities
+Changes to the homelessness program’s strategy were based on extensive feedback from stakeholders, community service providers, provinces, and territories. In addition, the Advisory Committee on Homelessness provided recommendations.
+Starting on April 1, 2019, a transition year was put in place. The aim was to ensure the continuity of services in communities as they shifted toward implementing the program’s new requirements.
+2.2 Funding streams
+The program includes the following funding streams
+Footnote
+7
+:
+4 regionally delivered funding streams
+2 nationally delivered streams
+2.2.1 Regionally delivered funding streams
+Includes the following streams:
+Designated Communities stream
+Indigenous Homelessness stream
+Territorial Homelessness stream
+Rural and Remote Homelessness stream
+Designated Communities stream
+Funding is delivered to 64 communities (urban centres) to support the delivery of local projects.
+Indigenous Homelessness stream
+Provides dedicated funding to organizations in 30 communities (in mostly urban areas). This stream also provides funding to 7 regional areas, located in every province except Prince Edward Island. This stream provides culturally appropriate services. It also supports addressing the specific needs of Indigenous Peoples living off-reserve who are experiencing or at risk of experiencing homelessness. Funding under the stream is delivered primarily by Indigenous organizations.
+Territorial Homelessness stream
+Provides funding to communities in the Yukon, the Northwest Territories, and Nunavut to address the unique homelessness challenges in the territories.
+Rural and Remote Homelessness stream
+Provides project-based funding outside of designated communities’ boundaries in rural and remote areas in all provinces.
+Service Canada regions at Employment and Social Development Canada manage funding under each regional stream. Service Canada regions deliver funding through contribution agreements with Community Entities across Canada. Communities allocate the funding they receive to local implementing organizations, according to community priorities
+Footnote
+8
+.
+Regionally delivered funding streams support community priorities with the following objectives:
+provide support for individuals and families at imminent risk of homelessness
+place individuals and families experiencing homelessness in more stable housing
+improve housing stability for individuals experiencing homelessness and those at imminent risk of homelessness
+improve economic stability and self-sufficiency for individuals experiencing homelessness and those at imminent risk of homelessness
+2.2.2 Nationally delivered streams
+Includes the following streams:
+Community Capacity and Innovation stream
+Distinctions-Based stream
+Community Capacity and Innovation stream
+The Community Capacity and Innovation stream funding is delivered both regionally and nationally. The regional component of the funding is transferred to certain recipients through their contribution agreements. These recipients include all Designated Communities and some communities under the Indigenous Homelessness and Territorial Homelessness streams. The funding supports the development and implementation of Coordinated Access.
+The nationally delivered component of the Community Capacity and Innovation funding supports innovative approaches to address homelessness. Innovative approaches include capacity building, innovation projects, and activities to understand, gather, analyze, and disseminate information about homelessness. The funding and support allocated through this stream seeks to:
+improve the ability of communities to have a coordinated homelessness response system
+enable communities and organizations to decide based on better homelessness data
+enhance collaboration between Designated Communities and the Indigenous Community Entities in the design and implementation of Coordinated Access
+provide funding to homelessness sector stakeholders and communities to develop innovative solutions to prevent and reduce homelessness.
+Distinctions-Based stream
+The program provides Distinctions-Based stream funding to some Self-Governing First Nations and national or regional representatives of First Nations, the Métis Nation, and Inuit.
+The stream aims to support distinctions-based approaches and implement projects that reflect their unique rights, interests, and circumstances.
+Table 2: The program base funding allocations in 2019 to 2020 and 2020 to 2021
+Table 2a: Regional funding
+Funding stream
+2019 to 2020
+2020 to 2021
+Designated Communities
+$123,044,653
+$124,278,044
+Indigenous Homelessness Stream
+$29,026,523
+$29,026,523
+Rural and Remote Homelessness
+$10,910,546
+$10,910,546
+Territorial Homelessness
+1
+$3,100,000
+$3,400,000
+Table 2b: Nationally delivered funding
+Funding stream
+2019 to 2020
+2020 to 2021
+Community Capacity and Innovation
+2
+3
+$9,750,000
+$9,000,000
+Distinctions-Based and Modern Treaty Holders
+1
+$5,400,000
+$14,600,000
+Table 2c: Operating funds
+Funding stream
+2019 to 2020
+2020 to 2021
+n/a
+$21,768,278
+$21,784,887
+1
+$400,000 in 2019 to 2020 and $600,000 in 2020 to 2021 of allocated funds were re-allocated from the Territorial Homelessness stream to the Distinctions-Based stream.
+2
+Expenditures through Community Capacity and Innovation stream differs from the allocated funds due to the re-allocation of lapsed funds and transfers between streams.
+3
+A portion of Community Capacity and Innovation stream funding is provided to all Designated Communities and some communities under the Indigenous Homelessness and Territorial Homelessness streams to develop and implement coordinated access systems. Outside of Quebec, this funding is provided through existing base funding agreements with communities and is regionally delivered.
+Source: (2021). Reaching Home funding allocations: Administrative data.
+Total of all funding streams and operating funds combined:
+2019 to 2020: $203,000,000
+2020 to 2021: $213,000,000
+2.3 COVID-19 response funding
+Service Canada regions at Employment and Social Development Canada and the program’s Homelessness Policy Directorate delivered the COVID-19 funding.
+The Government of Canada’s COVID-19 Economic Response Plan allocated funding in the 2020 to 2021 fiscal year to the program. The value of funding was $394,200,000. The purpose was to support communities to address the impacts of COVID-19 among people experiencing or at risk of homelessness. Examples of actions undertaken in response to the COVID-19 pandemic include the:
+implementation of social distancing measures at shelters
+creation of isolation spaces
+2.4 The program funding in the province of Quebec
+In the province of Quebec, the program funding for the streams below is implemented through Canada-Quebec agreements and a joint management committee:
+Designated Communities
+Rural and Remote Homelessness
+Community Capacity and Innovation
+These agreements respect the jurisdictions and priorities of both governments in preventing and reducing homelessness.
+In the province of Quebec, Service Canada administers the Indigenous Homelessness funding stream. Service Canada allocates funding directly to organizations that provide culturally appropriate services to Indigenous Peoples experiencing or at risk of homelessness.
+The program managed the delivery of activities in Quebec for 2019 to 2020 and 2020 to 2021 fiscal years according to the terms and conditions of the fiscal year 2014 to 2019 Canada-Quebec Agreement for the Homelessness Partnering Strategy. Therefore, the evaluation did not assess the core activities implemented in Quebec. However, the COVID-19 response in Quebec was implemented through a separate
+Canada-Quebec COVID-19 Agreement Reaching Home 2019-2024
+. Therefore, the evaluation assessed the COVID-19 response in Quebec.
+2.5 The program leadership and support
+Program officials actively collaborate with communities, Indigenous organizations, provinces and territories, and stakeholders supported by all streams. The goal of this collaboration is to improve the efficiency and effectiveness of local homelessness responses across the country.
+2.6 The program role in homelessness ecosystem
+To address homelessness, the program shares responsibility with:
+other federal actors (such as the Canada Mortgage and Housing Corporation)
+provincial, territorial, and municipal governments
+not-for-profit organizations
+All players invest and have impacts in housing and homelessness programming. These players are responsible for areas critical to preventing and reducing homelessness. These areas include affordable housing, healthcare, mental health, child welfare, and correctional services.
+2.7 Transition to Infrastructure Canada
+Following an Order in Council issued in October 2021, the responsibility for the program transitioned from the department of Employment and Social Development Canada to Infrastructure Canada (INFC). There was a Memorandum of Understanding between Employment and Social Development Canada and Infrastructure Canada. According to this Memorandum, since March 31, 2022, Service Canada at Employment and Social Development Canada continues to manage:
+regional funding agreements
+some elements of nationally delivered streams for the program
+the Information and Technology infrastructure for the data collecting systems
+The scope of this report examines the design and implementation of the program at Employment and Social Development Canada, while officials from Infrastructure Canada will respond to the evaluation recommendations and will be responsible for the Management Response and Action Plan. Service Canada at Employment and Social Development Canada can also provide input on recommendations if the recommendations address the delivery of funding by Service Canada.
+3.	Key Findings
+3.1	Addressing the needs of diverse groups experiencing or at risk of homelessness
+Finding 1: The community-based design of the program, and its support for collaborative and data-driven approaches enables communities to identify and prioritize different target groups and their needs when allocating funding
+The 2019 National Shelter Study demonstrates that homelessness impacts individuals of all demographics. For example, it shows that:
+56.3% of shelter users were adults (aged 25 to 49)
+21.4% were older adults (aged 50 to 64)
+13.9% were youth (aged 13 to 24)
+The study also shows that:
+69.7% of shelter users were male
+29.7% were female
+0.7% identified as a gender other than male or female
+Table 3: Gender distribution by age group of shelter-using population in 2019
+Age group
+Men
+Women
+Senior (65+)
+74.6%
+25.3%
+Older adults (50-64)
+76.4%
+23.4%
+Adults (25-49)
+68.3%
+31.0%
+Youth (13-24) unaccompanied
+60.7%
+37.5%
+Children (0-16)
+51.6%
+48.3%
+Source: The National Shelter Study 2019
+Among male shelter users, 2.0% were veterans, and among female shelter users, that proportion was 0.6%. In addition, 13.3% of shelter users were not Canadians and 25.2% of shelter users experienced chronic homelessness.
+The literature review indicates that using a collaborative approach and collecting real-time data are important strategies. These strategies help target these different groups experiencing or at risk of homelessness and their specific needs.
+Footnote
+9
+Program officials in interviews, community stakeholders in focus groups, and program documents indicated that to facilitate targeting of different groups, the program’s design has some requirements. It requires community-based decisions during the needs assessment, planning, decision-making, and the allocation and delivery of program funding.
+Furthermore, they noted that the program’s provision of funding and informational resources encourages a collaborative
+Footnote
+10
+and data-driven
+Footnote
+11
+approach to identify and target local needs.
+Community Entity and Community Advisory Board representatives in focus groups indicated that communities use collaborative and data-driven approaches. These approaches help communities identify and target diverse groups among people experiencing or at risk of homelessness.
+The administrative data review shows that 72% (1,009 out of 1,400) of funded projects targeted 1 or more of the following groups. Ranked from most to least often targeted, the following are the groups targeted by projects funded through the regional funding streams:
+Female
+Male
+Non-binary
+People experiencing chronic homelessness
+People with mental disabilities
+People with addictions
+Indigenous Peoples
+Youth
+People with disabilities
+Adults (31 to 64)
+Seniors (65+)
+People exiting public institutions
+People who identify as 2SLGBTQI+
+Footnote
+12
+People fleeing domestic violence
+Families
+Refugees or refugee claimants
+Immigrants
+Veterans
+Children (0 to 11)
+Projects targeted different groups among the people experiencing or at risk of homelessness. However, program officials in interviews and community stakeholders in focus groups indicated some challenges. In particular, they indicated challenges limiting or hindering the ability of communities to target the needs of different groups.
+For instance, they noted the “left out” or “overpowered” voices of some groups. An example of these groups includes Indigenous organizations within collaborative bodies such as Community Advisory Boards and Regional Advisory Boards. They also mentioned that the level of available funding from all sources, including the program, is not sufficient. Specifically, it is not sufficient to substantially target the different needs of various groups experiencing or at risk of homelessness.
+Testimonial statements according to community stakeholders in focus groups
+“The decentralization of decision making is important. Allowing the local CABs [Community Advisory Boards] the autonomy to decide, that is very, very valuable. It’s worked well in our community, and we certainly hope that continues going forward.”
+Designated Community Advisory Board member
+“Because we have better data now, as a result of HIFIS [the Homeless Individuals and Families Information System], we have learned we have a specific group of people that are chronically homeless…. We’re looking at putting more money towards chronic homelessness.”
+Designated Community Advisory Board member
+3.2 Addressing the overrepresentation of Indigenous Peoples experiencing or at risk of homelessness
+Findings in
+section 3.2
+are based on the review of the program’s data and documents. These findings also include interviews and focus groups with non-Indigenous stakeholders. These findings should be considered preliminary
+Footnote
+13
+.
+The intent to engage with Indigenous partners was expressed at the earliest point of the evaluation. Therefore, as part of this evaluation the engagement with Indigenous partners (Distinctions-Based partners), to foster a respectful engagement, was initiated and is ongoing. In addition, efforts will be continued to further integrate Indigenous perspectives and knowledge during the next summative evaluation.
+Background on Indigenous-dedicated funding
+The program delivered 2 streams that provide targeted funding to address Indigenous Homelessness:
+Indigenous Homelessness stream: provides dedicated funding to organizations in 30 communities (in mostly urban areas). It also provides funding to 7 regional areas, located in every province except Prince Edward Island. This funding provides culturally appropriate services. It also supports addressing the specific needs of Indigenous Peoples living off-reserve who are experiencing or at risk of experiencing homelessness. Indigenous organizations primarily deliver funding under this stream
+Distinctions-Based stream: provides funding to some Self-Governing First Nations and national or regional representatives of First Nations, the Métis Nation, and Inuit. The stream aims to support distinctions-based approaches and implement projects that reflect their unique rights, interests, and circumstances
+Finding 2
+Footnote
+14
+: There is a need for improvement in the engagement with Indigenous partners to address the overrepresentation of Indigenous Peoples experiencing or at risk of homelessness
+The 2016 Census shows that Indigenous Peoples account for 4.9% of the Canadian population. However, the National Shelter Study shows that 30% of shelter users in 2019 reported Indigenous ancestry.
+The review of program documents and feedback from non-Indigenous community stakeholders in focus groups highlighted that the program had ongoing engagement and collaboration with Indigenous partners.
+After the launch of the program, program officials began to use formal channels regularly to seek the input of Indigenous Homelessness Community Entities and Community Advisory Boards. For instance:
+during the 2019 to 2020 and 2020 to 2021 fiscal years, program officials hosted 6 bi-weekly engagements. These engagements included multi-day fora with Indigenous Homelessness Community Entities and Indigenous Community Advisory Board members
+program officials also regularly met with the National Indigenous Homelessness Coordinator. According to the program officials, the National Indigenous Homelessness Coordinator plays a key role. They facilitate the relationship between program officials and Indigenous Community Entities and Community Advisory Boards
+In addition, under the Distinctions-Based stream, program officials undertook regular, distinctions-based engagement with:
+the Assembly of First Nations
+the Métis National Council and its Governing Members and the Manitoba Métis Federation
+each Inuit land claim region
+other Self-Governing First Nations
+However, program officials in interviews and community stakeholders in focus groups mentioned that there were some challenges. In particular, challenges regarding the engagement and co-development with Indigenous partners due to:
+the time and capacity required by program officials and Indigenous partners to build relationships and trust. Some factors such as staff turnover and timelines introduced by the policy and funding cycles make it complicated
+the fact that in the context of a pre-established program there are limitations placed on the relationship between program officials and Indigenous partners. This may happen when it comes to making design changes to program parameters
+the existence of 2 program streams that provided targeted support for Indigenous homelessness (the Indigenous Homelessness Stream and Distinctions-Based Stream) could create confusion. This is because these streams have different eligibility criteria, requirements, and activities
+tools used to assess and prioritize. These tools may not be culturally appropriate or well suited for connecting Indigenous Peoples to services that will best support them
+Non-Indigenous stakeholders also mentioned some challenges regarding the funding. The program provided funding to Indigenous-led and focused projects and organizations through different streams. For example, under the Regionally delivered streams, 41% of projects (567 out of 1,400) included Indigenous Peoples as a target group. In addition, under the Distinctions-Based stream, the program funded 15 projects under this stream. Total value for these projects was $31,568,160 in the fiscal years 2019 to 2020 and 2020 to 2021.
+However, non-Indigenous stakeholders indicated that Indigenous-specific funding does not reflect the overrepresentation of Indigenous Peoples among the population experiencing or at risk of homelessness. They also noted that funding is not sufficient to address the extent of the needs. The needs such as preventing addiction issues and placement in affordable, safe, and stable housing. In addition, funding is not eligible for some wrap-around supports such as health and medical services.
+Non-Indigenous community stakeholders also indicated that Indigenous service providers find it challenging to navigate the various sources of funding. These sources may be within the program and from other funders. This is complicated as some funding streams under the program enable the funding of projects “on-reserve,” while others do not.
+Testimonial statement according to community stakeholders in focus groups
+“It’s problematic in our community in terms of understanding the different streams…. We say that Designated funds can be used on reserve, but IH [Indigenous Homelessness] funds can’t. That tends to throw people. If we could fund on-reserve with IH funding, we could make a larger impact.”
+Designated/Indigenous Homelessness Community Entity
+3.3 Aligning with best practices to reduce and prevent homelessness
+Finding 3: The regionally delivered funding streams align with the needs of communities and many of the best practices to reduce and prevent homelessness
+Evaluation conducted interviews with topic experts and program officials. They indicated that regionally delivered funding streams aligned with the needs of communities. They also mentioned that these streams aligned with many of the best practices for reducing and preventing homelessness. Table 4 summarizes the comparison between recommended best practices from the Canadian and international literature and the program’s supported projects and activities. Program activities generally aligned with best practices to reduce and prevent homelessness.
+Table 4: Canadian and international best practices to reduce and prevent homelessness compared to activities and projects supported by regionally funded streams
+Footnote
+15
+Best practices from the Canadian and international  literature
+Projects and activities supported by the regionally delivered funding streams
+Implement diverse services
+Footnote
+16
+The program projects allocated funding to 6 main activities and more than 20 sub-activities.
+Footnote
+17
+Provide housing support and services based on clients’ needs
+Footnote
+18
+The community-based focus of the program allows for the Community Entity to select, approve, and manage projects in the local area. Projects selected must be eligible under the program’s Directives. However, the Community Entity and Community Advisory Board or Regional Advisory Board select projects that meet the needs of their community. This also applies to the tailoring of programs and services.
+The program data shows that although many projects identified multiple target groups, there is not enough evidence indicating that all projects offer a service tailored to the needs of specific groups.
+Implement different housing supports and services as well as provide affordable stable housing
+Footnote
+19
+An eligible category under the program Directives is “Housing services”. The program defines “Housing services” as services that “lead to an individual or family transitioning into more stable housing that has been deemed appropriate and safe.” The program’s data shows that funding recipients allocated funding to different eligible activities under this category. Notably these activities include:
+“Housing placement” (36% of base funding)
+“Housing set-up” (5% of base funding)
+“Emergency housing funding” (2% of base funding)
+The program’s data also shows that funding recipients allocated 6% of base funding to the “Capital Investment”.
+Footnote
+20
+“Capital Investment” includes:”
+“Permanent Supportive Housing Facility” (2% of base funding)
+“Transitional Housing Facility” (2% of base funding)
+“Non-Residential Facility” (1% of base funding)
+“Emergency Shelter Facility” (1% of base funding)
+Footnote
+21
+.
+Implement prevention strategies and emergency response services simultaneously
+Footnote
+22
+The program supports projects implementing emergency response services such as “Emergency Housing Funding” as well as “Prevention and Shelter Diversion”. The program data shows that funding recipients allocated 16% of base funding to prevention activities.
+Provide wraparound supports such as physical and mental health support as well as employment opportunities and training
+Footnote
+23
+The program supports some activities that provide wraparound supports. These activities include the following sub-activities under “Clients Support Services”:
+“Basic Needs Services” (11% of base funding)
+“Social and Community Integration” (5% of base funding)
+“Income Assistance” (2% of base funding)
+“Employment Assistance” (2% of base funding)
+“Clinical and Treatment Services” (2% of base funding)
+“Education Assistance” (1% of base funding)
+“Job Training” (1% of base funding)
+Funding recipients determine the amount of funding to allocate the above activities.
+Although the direct provision of health and medical services are considered key elements of the wraparound supports addressing homelessness, they are not typically eligible for program funding. This reflects the fact that the provision of medical services falls predominantly under the responsibility of provincial and territorial governments.
+That said, the program introduced health care temporary eligible activities due to pressures from the COVID-19 pandemic. The program’s available data shows that, during COVID-19, for example, projects allocated approximately 6% of COVID-19 funding to “COVID-19 Health and Medical Services.”
+Finding 4: Projects under regionally delivered funding streams are contributing to placing individuals experiencing homelessness in more stable housing and providing prevention services to individuals at risk of homelessness. However, there are some challenges in demonstrating consistent progression towards homelessness prevention and reduction
+The program relies on a set of indicators to measure whether it meets its expected outcomes related to helping reduce and prevent homelessness. These include but are not limited to:
+number of individuals experiencing homelessness who were placed in “more stable housing”
+percentage of clients placed in “more stable housing” who remained housed or successfully exited the program 12 months later
+number of individuals who benefited from core prevention and shelter diversion services
+percentage of people who remained housed 3 months after having received a prevention or diversion intervention
+Early results suggest that there are potential areas for improvement related to the placement in “more stable housing”, supporting prevention activities, and wraparound supports. The challenges to implementing these activities and meeting the targets might be affected by different external factors such as the COVID-19 pandemic
+Footnote
+24
+and the availability of affordable housing. In particular, there were delays in the collection and analysis of the results and the program’s outcomes. This is because, regarding the information on projects funded through the program, in response to the unprecedented impacts of the COVID-19 pandemic on the homeless-serving sector, the Government of Canada made a collective and concerted decision to extend community reporting deadlines to help facilitate communities’ pandemic responses.
+Regarding placing individuals and families experiencing homelessness into more stable housing
+As the program data (Annual Results
+Footnote
+25
+) show, in the 2019 to 2020 fiscal year, 63% of projects (442 out of 699 projects) were allocated housing-related activities funding. These projects reported that 13,057 individuals experiencing homelessness were placed in “more stable housing”. This number represents 79% of the program’s target (16,600) in the 2019 to 2020 fiscal year.
+In addition, in the 2020 to 2021 fiscal year, 45% of projects (572 out of 1,275 projects) were allocated housing-related activities funding. These projects reported that 18,871 individuals experiencing homelessness were placed in “more stable housing”. Overall, during the 2 years of 2019 to 2020 and 2020 to 2021, 31,928 individuals
+Footnote
+26
+were placed in “more stable housing”, which represents 45% of the program’s cumulative target
+Footnote
+27
+(71,500) in the 2021 to 2022 fiscal year.
+As program documents show, the program also reports on the “percentage of clients who were placed in more stable housing and, 12 months later
+Footnote
+28
+, have remained housed, or have successfully exited the program”. Program data shows that 58% of the individuals who were placed in more stable housing in the 2019 to 2020 fiscal year could be contacted (7,597
+Footnote
+29
+out of 13,057 individuals). Out of these 7,597 individuals, 70% (5,323 individuals) had remained housed or had successfully exited the program, relative to the annual target of 75%. The program has not yet collected data on this indicator for the 2020 to 2021 fiscal year
+Footnote
+30
+.
+Community stakeholders in focus groups and subject matter experts in interviews indicated that there is a shortage of stable, affordable, and safe housing in communities. The housing shortage hinders communities’ ability to place individuals experiencing homelessness in more stable housing. This fact reflects the complexity of supporting individuals and families experiencing homelessness. In particular, the interconnectedness of the program and shared responsibility with other players such as federal, provincial, territorial, and municipal governments.
+Regarding providing prevention support
+As the program data show in the 2019 to 2020 fiscal year, 45% of projects (309 out of 694 projects) were allocated prevention-related activities funding. These projects reported that 27,108 individuals benefited from core prevention and shelter diversion services. This number exceeds the target of the program (10,800) in this fiscal year. Among the individuals who received prevention and diversion services, projects collected follow-up data on 62% of them (16,746 out of 27,108 individuals). Among individuals whose data was collected and could be contacted (11,624), 93% remained housed after 3 months (10,785).
+In addition, in the 2020 to 2021 fiscal year, 34% of projects (439 out of 1280) were allocated prevention-related activities funding. These projects reported that 35,241 individuals received a prevention and shelter diversion intervention.  Among the individuals who received prevention and diversion services, projects collected follow-up data on 66% of them (23,089 out of 35,241). Among individuals whose data was collected and could be contacted (11,756), 91% remained housed after 3 months (10,704).
+Overall, during the 2 years of 2019 to 2020 and 2020 to 2021, 62,349 individuals
+Footnote
+31
+benefited from prevention and shelter diversion services, which exceeds the program’s cumulative target
+Footnote
+32
+(46,600) in the 2021 to 2022 fiscal year.
+Although the program’s data show that it exceeded its targets in providing prevention and diversion intervention services, the community stakeholders in focus groups and subject matter experts in interviews indicated that due to most of the funding being used for ongoing immediate needs of those experiencing homelessness, communities cannot prioritize prevention-focused projects and allocate funding to prevention strategies. For example, community stakeholders mentioned that there is not enough funding to keep families housed and implement more upstream strategies to prevent homelessness.
+Regarding providing wraparound supports
+As Finding 3 shows, the program supports activities related to wraparound supports. The program documents also show that although the provision of medical services predominantly falls under the responsibility of provincial and territorial governments, the program introduced health care-related temporary eligible activities during the COVID-19 pandemic. Program data shows that during the COVID-19 period recipients allocated approximately 6% of funding to “COVID-19 Health and Medical Services.”
+Despite this low amount, community stakeholders in focus groups indicated that providing complementary health care support is necessary to reduce and prevent homelessness. They suggested the continuity of health and medical service eligibility after the COVID-19 pandemic.
+The literature also shows a high prevalence of mental and physical issues among people experiencing or at risk of homelessness. As shown, between 25 and 50% of these individuals experience mental or physical health issue. There is also a high need for mental and physical health support services to help those experiencing or at risk of homelessness
+Footnote
+33
+.
+3.4 Supporting the implementation of the Coordinated Access system
+Finding 5: The program supported communities to implement a data-driven Coordinated Access system based on their needs
+A coordinated access system is a process. In this process individuals and families who are experiencing homelessness or at risk of homelessness are directed to community-level access points. In these access points trained workers use a common assessment tool to evaluate the individual or family’s depth of need. Trained workers also prioritize them for housing support services and then help to match them to available housing focused interventions
+Footnote
+34
+.
+As the literature review indicates a Coordinated Access system has the potential to be part of the homelessness solution. Under the Coordinated Access process, communities can move towards developing and implementing an outcomes-based approach. By gathering more comprehensive and detailed data on resources and people in need, communities can:
+establish baselines against the ultimate outcomes
+measure progress toward the goals
+identify homelessness trends and challenges
+Footnote
+35
+Since the program’s launch in 2019, the below 60 communities are required to implement Coordinated Access as outlined in communities’ contribution agreements:
+57 communities funded through the Designated Communities stream (outside of Quebec)
+3 territorial capitals funded through the Territorial Homelessness stream
+The above communities are required to implement Coordinated Access with a centralized data system. In addition, they are required to make the transition to an outcomes-based approach. Among these communities, 47 communities are required to implement Coordinated Access by March 31, 2022. Further, 13 communities are required to implement the system by March 31, 2023
+Footnote
+36
+. The 7 Designated Communities in Quebec are working on a phased implementation by March 31, 2023.
+Evaluation conducted interviews with program officials and focus groups with community stakeholders. They indicated that the program or organizations funded by the program provided resources and support to implement a data-driven Coordinated Access system. Notably, the respondents mentioned that the provision of a range of generalized and individualized support options was helpful. According to the program documents and officials, the range of support options includes:
+direct funding to communities through the Community Capacity and Innovation Stream
+support from partner organizations funded through the Community Capacity and Innovation Stream to provide resources and guidance
+The support provided through Built for Zero was noted as especially useful
+support from the program such as:
+Homeless Individuals and Families Information System (HIFIS) software
+informational products, such as a Coordinated Access guide, HIFIS guides, leadership workbook, studies, and a newsletter
+training and presentations during various stakeholder meetings (such as the Community Entities Forum)
+one-on-one support from Service Canada delivery officers or through the HIFIS Client Support Centre
+Finding 6: There is room to improve data capacity of and buy-in from communities and funding recipients to implement the Coordinated Access
+The program has established minimum requirements under each of the below categories. These requirements assess the ability of a community to implement a Coordinated Access system:
+Governance
+Homelessness Management Information System (HMIS)
+Access points to service
+Triage and assessment
+Vacancy matching and referral
+The program’s documents show results as of March 31 2021, a year before the majority of communities are required to have had Coordinated Access system fully implemented. Data suggest Coordinated Access and its components were not yet fully implemented in all communities. However, communities had made progress with varying levels of completion. In particular:
+15% of communities (9 out of 59) implemented all the minimum requirements of Coordinated Access by end of the 2020 to 2021 fiscal year
+97% of communities (57 out of 59) had at least started to implement some of the minimum requirements of Coordinated Access
+34% of communities (20 out of 59) had a real-time and comprehensive Unique Identifier List by end of the 2020 to 2021 fiscal year
+36% of communities (21 out of 59) reported on their community-level outcomes by end of the 2020 to 2021 fiscal year
+As document review suggests, the program has a target which should be achieved by the end of the 2021 to 2022 fiscal year. As shown, the target of the program is to have 66% of Designated Communities:
+report on their community level outcomes
+implement Coordinated Access
+In order for the program to meet its targets, according to the program’s data, during the 2021 to 2022 fiscal year:
+41% of communities still need to implement all minimum requirements of the Coordinated Access system
+30% of communities still have to report on their community level outcomes
+Community stakeholders in focus groups and program officials in interviews identified the following barriers to implementing the Coordinated Access system and its components:
+insufficient resources or capacity: Community Entities and service providers were not equipped enough to implement the various features of Coordinated Access. In particular, features involving data infrastructure for a Homelessness Management Information System (HMIS), data management, and data entry were seen as most problematic
+data-related capacity in communities was notably affected by limited technological expertise in communities and project organizations. It was also affected by lack of dedicated staff from service-providing organizations, and staff turnover at service-providing organizations
+buy-in: Limited desire of community stakeholders or partners to support the new system was due to their concerns related to:
+data privacy and governance
+the ability of Coordinated Access to respect and meet the needs of First Nations, Métis, and Inuit experiencing homelessness
+a preference to invest resources in the provision of services to clients
+added administrative burden
+transitioning from the Homelessness Partnering Strategy to the broader outcomes associated with the Reaching Home Strategy
+collaboration challenges (elaborated under Finding 8)
+the challenges related to the COVID-19 pandemic
+in some contexts, community stakeholders had difficulty using the Homeless Individuals and Families Information System (HIFIS). In particular, when the provincial or territorial government held the license
+Testimonials statements according to community stakeholders in interviews
+“There’s been a real underestimation on the part of the federal government on how much resource and time it takes communities to get to the data piece.”
+Territorial Stakeholder
+“I think the IT piece is worrying people.”
+Territorial Stakeholder
+Footnote
+37
+3.5 Fostering collaboration to advance the implementation of the Coordinated Access system
+Finding 7: The program provided direction, resources, and support to the community, provincial, and territorial stakeholders to foster collaboration to implement a data-driven Coordinated Access system
+Evaluation conducted interviews and focus groups with program officials and community stakeholders. They indicated that collaboration among different stakeholders and partners was a key contributor to implementing a comprehensive Coordinated Access system. The respondents noted that the collaboration among the following groups developed the relationships and linkages needed:
+among community partners that target and prioritize different needs
+between Indigenous and non-Indigenous partners
+at the provincial and territorial government partners’ level
+Community stakeholders and program officials indicated that the following elements of the program helped community partners to foster collaboration:
+program design
+As outlined in contribution agreements, communities are required to establish a Community or Regional Advisory Board. This board supports general collaboration and community-level planning and reporting
+The program Directives require Designated communities to collaboratively design and implement Coordinated Access with key stakeholder groups and partners
+Community Capacity and Innovation stream funding is delivered regionally to communities to support their implementation of Coordinated Access
+program delivery
+Information, training, or guidance about collaboration received from organizations or contractors funded by the program through the Community Capacity and Innovation stream
+Program officials and the program documents show that the following elements of the program design supported a collaboration between Indigenous and non-Indigenous partners:
+the program requires collaboration between the Designated and Indigenous Homelessness streams when they are co-located
+in communities where Designated Communities and Indigenous Homelessness streams co-exist, Indigenous Homelessness communities receive funding through the Community Capacity and Innovation stream. This funding supports their engagement in implementing a Coordinated Access system
+the program convenes Indigenous Community Entities in the National Indigenous Homelessness Forum. In this way, the program provides some support to Indigenous Community Entities and Indigenous Community Advisory Boards. The purpose of support is that they develop their strategies for implementing Coordinated Access in collaboration with Designated Communities
+The program documents show that the program hosted the following meetings with partners at the provincial and territorial government partners’ level:
+6 open fora on Homelessness: federal, provincial, and territorial stakeholders This meets the program’s target of 6 meetings per year)
+2 British Columbia Trilateral Working Groups: federal, provincial, territorial, and community stakeholders
+At the meetings stakeholders strategized and shared best practices related to the implementation of Coordinated Access.
+Finding 8: There is room to improve collaboration among community partners to advance the implementation of the Coordinated Access system
+Program officials and community stakeholders in interviews indicated that collaboration among local stakeholders for Coordinated Access varied across communities. Some communities had not started a formal collaboration, while others reported the regular use of formal and informal channels of collaboration. For instance, there was reported variation across communities in the extent to which Indigenous partners and organizations were engaged by their non-Indigenous counterparts. The document review revealed that:
+75% of communities (44 out of 59) collaborated with Indigenous organizations and Indigenous Community Advisory Boards on the design and implementation of Coordinated Access
+in 25% of communities (15 out of 59), no such collaboration was identified
+The interviews with program officials and a review of program documents identified the following factors affecting collaboration among community partners:
+local factors:
+nature of existing relationships. For instance, in some communities, there has been relationship breakdown or other sensitivities that make collaboration difficult
+level of support from local leadership. For instance, in some communities, there are challenges regarding the support of local leadership in using the Homeless Individuals and Families Information System
+level of buy-in among local service providers. For instance, in some communities, there is a need to increase an understanding regarding the advantages of a data-driven approach. There is also a need to increase willingness to adopt it
+factors external to the community:
+provincial or territorial governments sometimes decided Community access to Homeless Individuals and Families Information System (HIFIS)
+Evaluation reviewed the program documents, including Designated or Territorial Community Entities’ and program officials’ perspectives. They identified the following factors that hindered collaboration between non-Indigenous and Indigenous partners:
+the program requires Designated communities and the 3 Territorial Capitals that also receive Community Capacity and Innovation stream funding to implement Coordinated Access. This sometimes contributed to “power” and funding imbalances. This limited Indigenous involvement or influence in the Coordinated Access process
+time constraints to conduct meaningful engagement between Indigenous and non-Indigenous partners
+communication issues between non-Indigenous and Indigenous partners. There is a lack of meaningful communication to support greater clarity and transparency and a better understanding of priorities, challenges, and opportunities
+limited progress made in Coordinated Access, consequently limiting the associated collaboration
+3.6 Supporting the response to the COVID-19 pandemic
+Finding 9: The activities facilitated by the incremental COVID-19 funding contributed to limiting the spread of COVID-19 among those experiencing homelessness or at risk of homelessness, and addressing additional challenges that were introduced or worsened during the pandemic
+Footnote
+38
+As the program documents show, in response to the COVID-19 pandemic, in 2020, the program distributed $394,200,000 in supplementary funding through the Government of Canada’s COVID-19 Economic Response Plan to program funding recipients. The program allocated this funding through:
+2 waves of funding, which were announced on:
+March 18, 2020 (34% of total COVID-19 funding)
+September 21, 2020 (60% of total COVID-19 funding)
+funding that came from reserve or re-profiling
+Footnote
+39
+(6% of total COVID-19 funding)
+In the fiscal year 2020 to 2021, the homeless-serving sector of the province of Quebec also received approximately $70 million. The funding was allocated through the Canada-Quebec Agreement. The purpose of funding was to support the response to COVID-19. This funding was allocated among the 16 health regions in Quebec.
+The findings of the program’s documents, interviews with community stakeholders, and the best practices and guidelines in the literature confirm that the activities facilitated by the incremental COVID-19 funding contributed positively to limiting the spread of COVID-19 as well as addressing new or worsened challenges.
+Members of Community Entities and Community Advisory Boards, as well as managers and frontline workers from organizations that received COVID-19 funding, were generally satisfied with the:
+level of funding
+speed of funding delivery
+flexibility to pre-existing funding requirements
+Footnote
+40
+They mentioned having funding with more flexibility and in a timely manner enabled them to conduct various activities. These activities helped meet the needs of clients at the beginning of the pandemic.
+According to the program documents, in response to the COVID-19 pandemic, the program introduced temporary flexibilities. It also added pandemic-specific examples of how funding can be used to enable timely and effective community responses. To support communities in developing and implementing effective COVID-19 responses, temporary modifications were made to the directives concerning:
+basic needs services: The delivery of basic needs services did not need to be tied to demonstrated outreach or intervention to improve housing stability. The basic needs services include some services such as essential services related to the provision of emergency shelter beds, food, and shelter
+health and medical services: Communities could temporarily use program funds to provide general health and medical services, mental health (including counselling), and addictions support services. These services are already provided by provinces and territories. Communities also could hire health care professionals such as nurses, doctors to provide services directly to clients
+This category will be discontinued on March 31, 2023. Program still encourages communities to continue connecting individuals to clinical, health and treatment services (includes mental health and addictions support). Communities can provide case management and deliver harm reduction services.
+To enable timely and effective community responses to the COVID-19 outbreak, the program also introduced following flexibilities:
+community contributions: Designated Communities did not have to identify a minimum community contribution of $1 for every dollar of COVID-19 funding received. In addition, incremental funding received thereafter
+geographic restrictions: Designated Communities and Indigenous Homelessness stream recipients could fund sub-projects located outside of their traditional service boundaries
+planning and public reporting: Communities did not have to complete a Community Homelessness Report for the period covering the 2019 to 2020 fiscal year. Instead, the following scheduled Community Homelessness Report could cover both the 2019 to 2020 and 2020 to 2021 fiscal years
+However, community stakeholders in interviews indicated challenges related to COVID-19 funding as follows:
+funding
+Need for more funding
+Pressure to spend funding quickly
+Extending the funding duration to support communities in the aftermath of COVID-19
+reporting
+The reporting requirements were unclear and extensive
+The Community Entity had to ask all projects for data that was not initially requested
+Testimonial statements according to community stakeholders in case studies’ interviews
+“The timeline within which to spend funding wasn’t really grounded in reality. As CE [Community Entity], we tried to communicate some of those frustrations of that reality back to Service Canada.”
+Community Entity that received the COVID-19 emergency funding under Reaching Home
+“The reporting requirements were intense for the COVID funding, and that proved problematic after the fact. They could have been clearer on the data they wanted to be collected from the COVID funding.”
+Community Entity that received the COVID-19 emergency funding under Reaching Home
+“Preventing community transmission and being able to provide that was extremely important and we would have seen more community transmission had we not had that access [to resources to purchase personal protective equipment].”
+Manager or front-line worker of an organization that received the COVID-19 emergency funding
+4.	Recommendations
+The scope of this report examines the design and implementation of the program at Employment and Social Development Canada, while officials from Infrastructure Canada will respond to the evaluation recommendations and will be responsible for the Management Response and Action Plan. Service Canada at Employment and Social Development Canada can also provide input on recommendations if the recommendations address the delivery of funding by Service Canada.
+4.1	Recommendation 1
+The program provides further technical capacity and support to communities and funding recipients for the implementation of a data-driven Coordinated Access system.
+The program provides funding and support to communities to implement a data-driven Coordinated Access system. However, according to Findings 6 and 8, the case studies, document reviews, key informant interviews, and focus groups findings show there are opportunities to:
+provide further technical capacity to advance and improve the development and use of a data-driven Coordinated Access
+enhance support for the implementation of a data-driven Coordinated Access. As evidence shows, in some cases there is a limited desire of the communities to implement the Coordinated Access system and collaboration among different partners
+As a result, the program can increase direct engagement with different partners and stakeholders to understand better community needs, challenges, barriers, and best practices. The program, in collaboration with different partners and stakeholders, can also prepare user-friendly, accessible, and updated tools and resources, such as guidance, including the common challenges, solutions, lessons learned, and success stories, which may increase the level of buy-in by communities and funding recipients.
+4.2 Recommendation 2
+With input from Indigenous partners, the program provides further support for early and meaningful collaboration and engagement between Indigenous and non-Indigenous partners
+Footnote
+41
+.
+The program provides funding and support through different streams to support Indigenous-led, and -focused projects. However, according to Findings 2, the literature review, document reviews, case studies, key informant interviews, and focus groups, findings show there are opportunities to:
+provide additional support for early and meaningful collaboration between Indigenous and non-Indigenous partners
+As a result, with the guidance of Indigenous partners, there is an opportunity for the program to enhance and strengthen meaningful engagement among Indigenous and non-Indigenous partners. This engagement is critical to design and implement the local Coordinated Access system, operate Community or Regional Advisory Boards, and provide culturally appropriate services.
+4.3 Recommendation 3
+The program should explore opportunities for greater alignment of homelessness and housing related initiatives.
+Homelessness and housing are areas of shared responsibility. To address homelessness, the program shares responsibility with:
+other federal actors (such as the Canada Mortgage and Housing Corporation)
+provincial, territorial, and municipal governments
+not-for-profit organizations
+All are responsible for many of the public institutions and systems critical to preventing and reducing homelessness including, affordable housing, healthcare, mental health, child welfare, and correctional services.
+As shown in Finding 4, the evidence from the literature review, administrative data review, focus groups, and key informant interviews indicate the shortage of affordable housing in communities which impacts the ability to place individuals and families into longer-term stable housing. Also, the evidence from focus groups and key informant interviews indicate communities cannot prioritize certain strategies such as prevention-focused projects due to an insufficient amount of funding and resources. In addition, Finding 9 indicates communities will need further support through the aftermath of the COVID-19 pandemic.
+Given changes in the homelessness landscape, in an effort to bolster funding and resources there is an opportunity for the program to align, coordinate, and integrate their efforts to prevent and reduce homelessness with other homelessness and related initiatives (for instance, within the federal government, provincial, territorial and municipal governments, and non-profit organizations) to provide sufficient services and resources across competing service systems that can help support longer-term housing solutions.
+5.	Management response and action plan
+5.1	Overall management response
+The program welcomes the findings of the evaluation, which underline the overall effectiveness of addressing local homelessness priorities using a more systems-based and data-driven approach.
+Including investments announced through the 2020 Fall Economic Statement, Canada’s COVID-19 Economic Response Plan in 2020 to 2021, Budget 2021, and Budget 2022, Reaching Home is a nearly $4 billion, a 9-year program under the National Housing Strategy, with an ultimate goal of preventing and reducing homelessness. In the fall of 2021, responsibility for Reaching Home was transferred from Employment and Social Development Canada to Infrastructure Canada.
+The design of the program gives communities and partners flexibility to address local priorities by investing in a range of interventions, including homelessness prevention, and programming designed to meet the needs of vulnerable populations (for example, women, people fleeing family violence, seniors, the 2SLGBTQI+ community, racialized communities, Indigenous peoples, people with disabilities, people dealing with mental health and substance use issues, youth, and veterans).
+Reaching Home was launched on April 1, 2019, and approximately 1 year later the homeless-serving sector was forced to shift priorities in response to the public health emergency due to the COVID-19 pandemic. The Government of Canada responded quickly to support communities, delivering over $400 million in additional funding through Reaching Home. The Fall Economic Statement 2020, and Budgets 2021 and 2022 have since continued to invest in the program. These funds allowed communities to undertake emergency measures during the pandemic, such as efforts to reduce crowding in shelters, establish isolation centres, and place individuals in temporary accommodations, alongside ongoing efforts to improve housing stability and address homelessness prevention.
+The evaluation sheds light on specific areas for review and improvement to support the program’s continued efforts to address homelessness with partners across the country, including its focus on chronic homelessness. The evaluation also underpins the importance of recognizing the distinct experiences of Indigenous Peoples experiencing homelessness and ensuring any efforts to address Indigenous homelessness include early and meaningful collaboration and engagement between Indigenous and non-Indigenous partners.
+Findings from the evaluation recognize that homelessness falls in an area of shared jurisdiction and shared responsibility, which requires coordination, innovation, time, and predictable, long-term investments. This includes coordinating system-wide responses that go across and beyond the federal government and Reaching Home requirements, requiring buy-in and participation from all orders of government and the non-profit sector, including provinces and territories, municipalities, Indigenous partners, and non-profit organizations.
+5.2 Recommendation 1
+The program provides further technical capacity and support to communities and funding recipients for the implementation of a data-driven Coordinated Access system.
+Management response
+The Department agrees with this recommendation.
+The Department is committed to supporting communities in addressing local homelessness priorities using a more systems-based and data-driven approach. While the COVID-19 pandemic required communities to shift their focus to pandemic response measures, impacting their progress to fully pursue the transformational change required to implement Coordinated Access, Infrastructure Canada recognizes the importance of supporting the ongoing efforts of communities to realize and maintain this integrated, systems-based approach to service delivery that creates greater efficiencies and shortens the path from homelessness to housing.
+Subsequent to the period under evaluation, the Department doubled the funding identified to support communities in their implementation of Coordinated Access ($5.8 million per year for 2022 to 2023 and 2023 to 2024), increased and extended funding to the Canadian Alliance to End Homelessness to provide technical assistance and support to communities, and issued additional guidance related to Coordinated Access implementation and the outcomes-based approach including providing greater clarity on the steps communities need to take to develop and sustain a real-time, comprehensive List.
+Management action plan
+1.1
+Infrastructure Canada will work individually with the communities outside Quebec that have not yet met the program requirements related to the implementation of Coordinated Access and/or the deployment of Homeless Individuals and Families Information System (HIFIS) and support them to develop action plans detailing how they will fulfill any outstanding requirements by March 31, 2023. Upon request, the department will provide technical expertise on matters such as establishing a Unique Identifier List and onboarding service providers to the Homeless Individuals and Families Information System.
+For communities in British Columbia, Homeless Individuals and Families Information System implementation has been more complex because of the involvement of the provincial government. Infrastructure Canada is working closely with these communities on a tailored approach to find technical solutions to align the implementation of Coordinated Access and Homeless Individuals and Families Information System under Reaching Home with the provincial Coordinated Access and Assessment initiative.
+Completion Date
+: Spring 2023
+5.3 Recommendation 2
+With input from Indigenous partners, the program provides further support for early and meaningful collaboration and engagement between Indigenous and non-Indigenous partners at the community level
+Footnote
+42
+.
+Management Response
+The Department agrees with this recommendation.
+While program partners, such as Community Entities, hold the ultimate responsibility for building and maintaining strong local relationships, Infrastructure Canada recognizes the opportunity and need to provide additional support to facilitate early and meaningful collaboration and engagement between Indigenous and non-Indigenous partners.
+Subsequent to the period under evaluation, the Department has been engaging with Indigenous and non-Indigenous partners to better understand the nature of collaboration at the community level and opportunities for the Department to further support strong relationships. To date, these discussions have focused on collaboration related to results reporting and Coordinated Access. The Department is also in the process of shifting the capacity and focus of the Indigenous Relations Unit, within the Homelessness Policy Directorate, to provide new support for this work going forward.
+Management Action Plan
+2.1
+Infrastructure Canada will continue engagement with Indigenous and non- Indigenous partners to better understand the nature of collaboration at the community level and opportunities for the Department to further support strong relationships.
+Completion Date
+: Winter 2024
+2.2
+Based on 2.1, Infrastructure Canada will identify and implement tangible actions to support early and meaningful collaboration and engagement between Indigenous and non-Indigenous partners and develop a plan to implement these actions.
+Completion Date
+: Fall 2024
+5.4 Recommendation 3
+The program should explore opportunities for greater alignment of homelessness and housing related initiatives.
+Management response
+The Department agrees with this recommendation.
+While federal efforts are only one component of addressing homelessness, Infrastructure Canada recognizes that preventing and reducing homelessness requires the alignment of federal initiatives, and cross-jurisdictional support and efforts.
+Subsequent to the period under evaluation, an Assistant Deputy Minister–level committee between the Canada Mortgage and Housing Corporation and Infrastructure Canada (as the lead for the National Housing Strategy) was established to collaborate more formally on infrastructure, housing, and homelessness issues.
+In addition, Infrastructure Canada and the Canada Mortgage and Housing Corporation have developed a targeted awareness strategy to ensure Reaching Home funding recipients can maximize opportunities available through other National Housing Strategy programs that could support their efforts to address homelessness. Infrastructure Canada also co-leads the Federal-Provincial-Territorial Open Forum on Homelessness. This Forum provides an opportunity for the Government of Canada, provinces, and territories to engage in ongoing dialogue and collaboration in an informal space on homelessness issues.
+Management action plan
+3.1
+Infrastructure Canada will establish 2 additional interdepartmental senior management committees: one where federal organizations will meet regularly to facilitate greater coordination and alignment on efforts related to homelessness and chronic homelessness, such as housing, addictions, and mental health; and the other with Veterans Affairs Canada to promote program alignment, share emerging gaps, and coordinate a range of federal initiatives available to support the implementation of the new Veteran homelessness Program (for example, other National Housing Strategy initiatives).
+Completion Date
+: Spring 2023
+3.2
+Infrastructure Canada will work with the Canada Mortgage and Housing Corporation and Senior Officials within the Federal-Provincial-Territorial Forum on Housing to explore options for establishing a Working Group that will include homelessness. This Working Group will aim to facilitate greater coordination and alignment on efforts to address gaps in areas such as supportive housing and homelessness.
+Completion Date
+: Spring 2023
+6.	References
+Aleman, A. (2016). Mental Health and Homelessness in Canada, Canadian Observatory on Homelessness Press. Mental Health and Homelessness in Canada | The Homeless Hub
+Baker, C.K., Billhardt, K.A., Warren, J., Rollins, C., & Glass, N.E. (2010). Domestic violence, housing instability, and homelessness: A review of housing policies and program practices for meeting the needs of survivors.
+Aggression and Violent Behavior
+, 15(6), 430-439. https://doi.org/10.1016/j.avb.2010.07.005
+Beer, A., Baker, E., Lester, L., & Daniel, L. (2019). The Relative Risk of Homelessness among Persons with a Disability: New Methods and Policy Insights.
+International Journal of Environmental Research and Public Health
+, 16(22), 4304. https://doi.org/10.3390/ijerph16224304
+Collins S.B. and Schormans, A.F. (2021). Making visible the prevalence of self-identified disability among youth experiencing homelessness.
+Journal of Social Distress and Homelessness
+. doi: 10.1080/10530789.2021.1940719
+Coordinated access system operation manual. (2015). The Way Home. 1.-Coordinated-Access-System-Operations-Manual-October-2015.pdf (endhomelessness.org)
+Cunningham, M.K., Gillespie S., Anderson J. (2015). Rapid re-housing: what the research says.
+Urban Institute: Washington, DC, USA
+.
+Dashora, P., Kiaras, S., & Richter, S. (2018). Homelessness in a resource-dependent rural community: A community-based approach.
+The Journal of Rural and Community Development
+, 13(3), 133-151.
+Durbin, A, Isaacs, B., Mauer-Vakil, D., Connelly, J., Steer, L., Roy, S., Stergiopoulos, V. (2018). Intellectual Disability and Homelessness: A Synthesis of the Literature and Discussion of How Supportive Housing Can Support Wellness for People with
+Intellectual Disability. Current Developmental Disorders Reports
+, 5(3), 125-131.
+Employment and Social Development Canada. (2019). Reaching Home Performance Information Profile.
+Employment and Social Development Canada. (2019). Terms and Conditions for
+Reaching Home: Canada’s Homelessness Strategy
+.
+Employment and Social Development Canada. (2020). Reaching Home: Canada’s Homelessness Strategy Directives.
+Retrieved from Infrastructure Canada website: https://www.infrastructure.gc.ca/homelessness-sans-abri/directives-eng.html
+Employment and Social Development Canada (ESDC). (2021). COVID-19 Funding Tracker with Dates and Signatures.
+Employment and Social Development Canada (ESDC). (2021). Program Project Details. 2019-2021.
+Employment and Social Development Canada (ESDC). (2021). Reaching Home funding allocations: Administrative data.
+Employment and Social Development Canada (ESDC). (2022). Departmental Results.
+Employment and Social Development Canada. Evaluation Directorate. Strategic and Service Policy Branch. (2022). Literature review technical report.
+Employment and Social Development Canada. Evaluation Directorate. Strategic and Service Policy Branch. (2022). Document review technical report.
+Employment and Social Development Canada. Evaluation Directorate. Strategic and Service Policy Branch. (2022). Administrative Data review technical report.
+Employment and Social Development Canada. Evaluation Directorate. Strategic and Service Policy Branch. (2022). Focus Groups, Key Informant Interviews, and Case Studies technical report.
+Fischer, W., Rice, D., Mazzara, A. (2019, Dec. 5).
+Research Shows Rental Assistance Reduces Hardship and Provides platform to Expand Opportunity for Low Income Families
+. Center on Budget and Policy Priorities. https://www.cbpp.org/sites/default/files/atoms/files/12-5-19hous.pdf
+Gaetz, S. and Dej, E. (2017). A New Direction:
+A Framework for Homelessness Prevention
+. Toronto: Canadian Observatory on Homelessness Press.
+Gaetz, S., Morton, E., Borato, M., Story, C. (2020).
+Youth Reconnect Program Guide: An Early Intervention Approach to Preventing Youth Homelessness
+. Toronto: Canadian Observatory on Homelessness Press and A Way Home Canada.
+Gaetz, S., Scott, F., & Gulliver, T. (Eds.) (2013).
+Housing First in Canada: Supporting Communities to End Homelessness
+. Toronto: Canadian Homelessness Research Network Press.
+Goodman, S., Messeri, P., & O’Flaherty, B. (2016). Homelessness prevention in New York City: On average, it works.
+Journal of Housing Economics
+, 31, 14-34. DOI: https://doi.org/10.1016/j.jhe.2015.12.001
+Infrastructure Canada. (2022).
+Reaching Home: Canada’s Homelessness Strategy: An Overview
+. Retrieved from Infrastructure Canada website: https://www.infrastructure.gc.ca/homelessness-sans-abri/directives-eng.html
+Infrastructure Canada. Homelessness data snapshot: The National Shelter Study 2019 update, https://www.infrastructure.gc.ca/homelessness-sans-abri/reports-rapports/data-shelter-2019-donnees-refuge-eng.html
+MacKenzie, D., Hand, T., Zufferey, C., McNelis, S., Spinney, A. and Tedmanson, D. (2020, Apr 16).
+Redesign of a homelessness service system for young people, AHURI Final Report 327
+. Australian Housing and Urban Research Institute Limited. https://www.ahuri.edu.au/sites/default/files/migration/documents/AHURI-Final-Report-327-Redesign-of-a-homelessness-service-system-for-young-people.pdf.
+Milaney, K., Ramage, K., Yang Fang, X., Louis, M. (2017).
+Understanding Mothers Experiencing Homelessness: A Gendered Approach to Finding Solutions to Family Homelessness
+. Toronto: Canadian Observatory on Homelessness Press.
+Montgomery, A.E., Metreaux, S., Culhane, D. (2013, Jan. 7). Rethinking homelessness prevention among persons with serious mental illness. Social Issues and Policy Review, 7(1), 58-82. https://doi.org/10.1111/j.1751-2409.2012.01043.x
+Morton, M.H., Samuels, G.M, Dworsky, A., Patel, S. (2018, Apr.).
+Missed Opportunities: LGBTQ Youth Homelessness in America. Chapin Hall
+at the University of Chicago. https://voicesofyouthcount.org/wp-content/uploads/2018/05/VoYC-LGBTQ-Brief-Chapin-Hall-2018.pdf
+National Center for Homeless Education Supporting the Education of Children and Youth Experiencing Homelessness. (2017). Best Practices in Interagency Collaboration Brief Series Coordinated Entry Processes: Building Mutual Engagement between Schools and Continuums of Care
+Nishio, A., Horita, R., Sado, T., Mizutani, S., Watanabe, T., Uehara, R., Yamamoto, M. (2017). Causes of homelessness prevalence: The relationship between homelessness and disability. Psychiatry and Clinical Neurosciences. 71, 180–188. DOI:10.1111/pcn.12469
+O’Donovan, M.A., Lynch, e., O’Donnell, l., Kelly, K. (2020).
+The experience and risk of homelessness for people with intellectual disabilities and/or autism and their families in Dublin. A mixed methods study
+. Trinity Centre for Ageing and Intellectual Disability, Trinity College Dublin.
+Shinn, M., Greer, A.L., Bainbridge, J., Kwon, J., & Zuiderveen, S. (2013). Efficient Targeting of Homelessness Prevention Services for Families. American Journal of Public Health, 103(S2), S324-S330. DOI: 10.2105/AJPH.2013.301468
+Tremblay, M., Gokiert, R., Kingsley, B., Mottershead, K., Pei, J. (2020, Oct.). Using developmental evaluation and community-based participatory research to develop a model of supportive housing.
+Evaluation and Program Planning
+. DOI: 10.1016/j.evalprogplan.2020.101849
+United States Interagency Council on Homelessness (USICH). (2016, Apr.).
+10 Strategies to End Chronic homelessness
+. https://www.usich.gov/resources/uploads/asset_library/10_Strategies_to_End_Chronic_Homelessness.pdf
+Vallesi S, Tighe E, Bropho H, Potangaroa M, Watkins L. (2020, Aug). Wongee Mia: An Innovative Family-Centred Approach to Addressing Aboriginal Housing Needs and Preventing Eviction in Australia. International Journal of Environmental Research and Public Health, 17(15), 5501. DOI: 10.3390/ijerph17155501.
+7.	Glossary
+Access points to service
+Access points connect people to both general community resources and the specific housing resources in the Coordinated Access Resource Inventory. When implemented successfully, individuals and families experiencing housing challenges will know how to connect with organizations that provide them with appropriate resources.
+Built for Zero
+An ambitious national change effort. This helps a core group of leading communities across the country to end chronic homelessness and veteran homelessness.
+Buy-in
+Acceptance and willingness to adopt and implement a data-driven Coordinated Access system.
+By-Name List
+Another term for unique identifier list (UIL). UIL is a tool used to record those experiencing homelessness (either by name or by another identifier) in the community.
+Co-development
+A process that promotes a cooperative and coordinated effort between equal partners.
+Community Entity
+A group support and guidance to the Community Advisory Board on homelessness to assist with the approval of project agreements.
+Community Homelessness Report (CHR)
+A reporting tool that is designed to support local discussions and decision making. It includes questions about community context. It also includes a self-assessment of local efforts to:
+reach minimum requirements for community-level governance and service delivery (Coordinated Access)
+the use of a Homeless Management Information System (HMIS)
+annualized data requirements
+Community or Regional Advisory Board
+The local organizing committee responsible for setting direction and addressing homelessness in the community or region.
+Community-level outcomes
+Indicate the outcomes at the community level rather than the individual level. Communities are encouraged to report community-level outcomes through the community homelessness report (CHR). Using CHR, communities can identify the aggregate level of homelessness trends in communities.
+Coordinated Access Resource Inventory
+A centralized inventory of housing resources that is formally coordinated and can include housing units, rent subsidies, and case managers.
+Coordinated Access
+A process in which clients are directed to community-level access points. At access points clients’ needs will be evaluated, prioritized, and matched to available housing services.
+Data-driven approach
+Collecting, analysing, and interpreting the homelessness data. The purpose is to aid decision-making and provide support and services to people experiencing or at risk of homelessness.
+Evaluability Assessment
+A key element in planning for a specific evaluation project. The aim is to assess the extent that the program is ready for a meaningful evaluation and has data to support it.
+Formative evaluation
+An evaluation that occurs before or during a project’s implementation with the aim of improving the project’s design and performance.
+Gray literature
+Includes material and research produced by non-academic organizations which can include working papers, newsletters, governments documents published publicly, among others.
+Homeless Individuals and Families Information System (HIFIS)
+A web-developed data collection, reporting, and case management system. This allows multiple service providers from the same geographic area to implement coordinated access. Service providers can use real-time information about people experiencing homelessness and the resources they need.
+Homelessness Management Information System (HMIS)
+A local information technology system. It is used to collect client-level data and data on the housing resources and services.
+Housing
+Housing that is not supportive housing and that can be long-term. Includes a house, apartment, or room (including social housing) that a family or individual rents or owns. Housing may include living arrangements with friends or family members that are expected to be long-term.
+Housing First
+A recovery-oriented approach to ending homelessness. This approach quickly moves people experiencing homelessness (chronic) into permanent housing and then providing additional supports and services as needed.
+Indigenous housing options
+Reflect Indigenous values, beliefs, and practices (for example community or family living environment) and are delivered by Indigenous organizations.
+More stable housing
+Any improvement in housing type for an individual or family or their ability to maintain housing without outside assistance. This can include a transition from:
+homelessness to transitional, supportive, or regular housing
+any type of housing to one that requires a lower level of assistance to maintain that housing
+New Designated Communities
+In spring 2019, the Department of Economic and Social Development named 6 communities. These communities were identified based on their:
+need for homeless funding
+capacity to effectively manage federal investments
+ability to reduce chronic homelessness by 50% by the 2027 to 2028 fiscal year
+These communities include: Abbotsford, BC; Chilliwack, BC; Cowichan Valley, BC; Lambton County, ON; Cochrane District (Timmins), ON; and Kenora, ON.
+Permanent supportive housing
+Housing that combines rental or housing assistance with individualized and flexible support services. This housing is for people with high needs related to physical or mental health, developmental disabilities, or substance use.
+Snowball method
+A way of finding literature by using a key document to consult its bibliography to find other relevant titles on a subject.
+Summative evaluation
+An evaluation that occurs at the end of a project with the aim to assess whether the project achieved its outcomes.
+Transitional housing
+Housing intended to offer a supportive living environment for its residents. This includes offering them the experience, tools, knowledge, and opportunities for social and skill development to become more independent. It is considered an intermediate step between emergency shelter and supportive housing and has limits on how long an individual or family can stay. Stays are typically between 3 months and 3 years.
+Triage and assessment
+A process to assess the health and vulnerability of homeless people to help prioritize and match resources with client needs.
+Unique Identifier List (UIL)
+A tool used to record those experiencing homelessness (either by name or by another identifier) in the community.
+Vacancy matching and referral
+The process of matching clients who are searching for housing resources with open vacancies from the Coordinated Access Resource Inventory. The match is based on eligibility, need, preference, and prioritization.
+Wraparound approach
+Is a comprehensive and flexible approach to deliver support and services. It includes a wide range of services such case management, financial coaching, mental health support, and mentorship, among others.
+8.	Annexes
+8.1 Annex A: Evaluation approach
+The data collection for the evaluation was conducted between September 2021 and June 2022.
+8.1.1 Evaluation questions
+This formative evaluation focused on the following questions:
+how has the program design enabled flexibility for communities and recipients to address the needs of diverse groups and at-risk populations?
+Footnote
+43
+1.1
+How does the program’s design support communities and recipients in prioritizing diverse groups and at-risk populations based on local needs and priorities?
+1.2
+To what extent do federally funded projects target the unique needs of diverse groups and at-risk populations?
+to what extent has the implementation process addressed the overrepresentation of Indigenous peoples experiencing or at risk of homelessness?
+2.1
+To what extent is the input of Indigenous partners sought and integrated into program design and implementation?
+2.2
+To what extent do projects under the regional funding streams and Distinctions-Based stream support tailored approaches to meet the needs of Indigenous Peoples experiencing or at-risk of homelessness?
+to what extent do the regional funding streams align with the needs of communities and recipients of funding?
+Footnote
+44
+3.1
+To what extent does the program fund appropriate projects under the regional funding streams for individuals or families experiencing homelessness to be placed into more stable housing?
+Footnote
+45
+3.2
+To what extent does the program fund appropriate projects under the regional funding streams for individuals and families at imminent risk of homelessness to be provided with support?
+Footnote
+46
+how effective is the program in supporting communities to implement a data driven coordinated access system based on their needs?
+Footnote
+47
+Footnote
+48
+to what extent has the program design and implementation fostered collaboration among different stakeholders
+Footnote
+49
+and partners
+Footnote
+50
+in advancing the local response to homelessness in communities?
+Footnote
+51
+how effective was the COVID-19 emergency funding delivered through Reaching Home in facilitating
+Footnote
+52
+communities’ response to the pandemic?
+Footnote
+53
+8.1.2 Lines of evidence
+The evaluation used 6 lines of evidence. This includes a literature review, a document review, an administrative data review, key informant interviews, focus groups, and case studies. Each line of evidence and its limitations are described below.
+Literature review
+The in-house literature review addressed evaluation questions related to the program’s design and performance. By collecting, synthesizing, and analyzing over 140 academic and gray literature, the review explored:
+factors contributing to the homelessness or risk of homelessness of diverse groups and at-risk populations
+factors contributing to the homelessness or risk of homelessness of the First Nations, Inuit, and the Métis Nations
+best practices for engagement of Indigenous partners in program design and delivery, including co-development
+best practices in prevention and reduction of homelessness
+the prevalence of COVID-19 among people experiencing homelessness and front-line workers
+the challenges introduced by the COVID-19 pandemic to people experiencing or at risk of homelessness
+change management processes and requirements in moving from the Homelessness Partnership Strategy to the Reaching Home Strategy
+Literature review limitations and challenges
+There was a limited number of relevant and recent resources related to some topics such as co-development and coordinated access systems. To ensure appropriate coverage a:
+consultation was conducted with the program officials to collect relevant resources
+snowball method was used to check references of the available resources
+Document review
+The in-house document review studied 150 program documents, including:
+program guidelines
+Coordinated Access and HIFIS guides
+meeting notes and summaries
+Mid-year dialogues
+Indigenous Council and Indigenous Forum
+FPT Open Forum on Homelessness
+BC Trilateral Working Group
+reference material
+survey results
+National Homelessness Sector Data Survey
+HIFIS Client Questionnaire
+Reaching Home Community Plans
+Community Homelessness Report analysis
+COVID-19 Final Reports and documents
+funding agreements, project reports, and project material
+briefing material
+terms of reference for working groups
+research and analysis done by the Homelessness Policy Directorate
+Document review limitations and challenges
+There was a large volume of documents to review. To mitigate this challenge, the evaluation team identified, sampled, and reviewed the relevant documents. In addition, some of the evaluation questions could not be answered based on the content of the documents. To address this challenge, other lines of evidence were used to answer these questions.
+Administrative data review
+The in-house administrative data review analyzed the program’s project details. The project details included 2,838 projects planned for the 2019 to 2020 and 2020 to 2021 fiscal years. Summary statistics and tabulations were produced for the base funding and COVID-19 response funding. Tables presented the amount of funding and the number of projects distributed to:
+Designated Communities
+Indigenous Homelessness
+Territorial Homelessness
+Rural and Remote Homelessness streams
+Tabulations also presented the amount of funding allocated and the number of projects planned by activity type and target group.
+Administrative data review limitations and challenges
+During the evaluation’s data collection period, the project details were not available for all program projects. The current analysis includes approximately 90% of the program project details data. This portion of data can still be considered a good representation of the program funding allocation among the projects.
+In addition to the project details, the program prepares annual results reports. Project details illustrate the allocation of the program funds by streams, activities, and target groups. Annual results reports demonstrate the achievements of the funded projects.
+Key informant interviews
+Evaluation conducted 11 interviews. Interviews were conducted with a total of 12 topic experts (2) and the program officials (10), including the staff who provide support for:
+Coordinated Access
+Homeless Individuals and Families Information System (HIFIS)
+Indigenous Community Entities
+Distinctions-Based stream
+Key informant interviews gathered qualitative, in-depth information from individuals with informed perspectives and relevant experience about core aspects of program design and delivery.
+Focus groups
+Evaluation conducted 10 focus group discussions with:
+31 Community Entity representatives
+16 Community Advisory Board or Regional Advisory Board members from communities across Canada
+The purpose of focus groups was to examine how key stakeholder perspectives differed or converged on the program design, delivery, and effectiveness.
+Evaluation organized separate focus group discussions for Community Entity representatives and Community Advisory Board or Regional Advisory Board members. Furthermore, each discussion included participants from communities that received funding through the same regionally delivered funding stream(s) to minimize possible confounding variables.
+Case studies
+Evaluation conducted 4 case studies. The purpose was to provide in-depth information on the local realities of the program delivery and progress. Notably, in communities or regions that received funding through different regional funding streams.
+Specifically, case studies focused on:
+the program support for the collaboration and development of a data-driven Coordinated Access system
+activities supported by COVID-19 supplemental funding that was undertaken to respond to the pandemic, as applicable
+Each of the following communities or regions (funding stream shown in parentheses) was the focus of 1 case study:
+Ontario Region (Rural and Remote)
+St. John’s, NL (Designated)
+Whitehorse, YT (Territorial)
+a region in Quebec (Canada-Quebec Agreement to Support the Homelessness Sector's Response to COVID-19 under Reaching Home)
+For each case study, findings were informed by a review of relevant documents, literature, administrative data, and 21 virtual interviews. Evaluation conducted interviews with a total of 23 community stakeholders, including:
+Community Entity representatives
+Community Advisory Board or Regional Advisory Board representatives
+local managers and front-line workers from organizations implementing projects supported by the program funding
+representatives responsible for the program implementation from the province of Quebec
+Annex B
+provides detailed information regarding each case study.
+Distribution of focus groups and case studies interview participants by jurisdiction, funding stream, and role
+The following tables provide an overview of the 67 community stakeholders who participated in focus group discussions or case study interviews. Tables are broken down by jurisdiction (
+Table 5
+), by funding stream (
+Table 6
+), and by role (
+Table 7
+).
+Table 5: Community focus group and interview participants by jurisdiction
+Jurisdiction
+Number of participants
+ON*
+17
+NL*
+11
+BC
+10
+AB
+8
+MB
+7
+YT*
+5
+QC*
+3
+NB
+1
+NS
+1
+NU
+1
+NT
+1
+PE
+1
+SK
+1
+Total
+67
+* Contains a case study community or region
+Table 6: Community focus group and interview participants by funding stream
+Funding stream
+Number of participants
+Designated
+31
+Designated that also deliver Indigenous Homelessness funding
+13
+Rural and Remote
+13
+Territorial
+7
+Other (Quebec)
+3
+Total
+67
+Table 7: Community focus group and case studies interview participants by role
+Participant’s role
+Number of participants
+Community Entity
+33
+Community/Regional Advisory Board
+17
+Manager/Front-line worker
+14
+Representatives from the province of Quebec
+3
+Total
+67
+Key informant interviews, focus groups, and case studies limitations and challenges
+Findings from key informant interviews, focus groups, and case studies should be interpreted with the following challenges and limitations:
+the findings related to Indigenous homelessness are based on the program data and documents as well as interviews and focus groups with non-Indigenous stakeholders. These interviews and focus groups did not include Indigenous partners. Therefore, any findings related to the Indigenous Homelessness stream should be considered preliminary
+Footnote
+54
+Provincial and Territorial governments and Service Canada Deliver Officers were not invited to participate in interviews or focus groups. Considering the specificities of the program delivery in Quebec, representatives from the
+ministère de la Santé et des Services Sociaux
+were interviewed as key informants
+there were some documentation limitations. For instance, certain documentation or data was not available for some case study communities and available materials did not always contain detailed information. This limited the ability to validate or extend stakeholder input in some instances
+in some cases, community participants (for example, managers and front-line workers) were not able to respond to all questions. This was due to limited familiarity with the particularities of the program, service funding, or requirements (for example, eligible activities under COVID-19 funding)
+there was a low response rate of some stakeholder groups (despite extension follow-up and providing flexible participation options). This increased the risk of response bias and limited the ability to conduct sub-group comparisons in some instances
+there were also limitations in the extent to which comparisons across streams or jurisdictions could be made in some instances. It was because of the level of uniqueness of each community’s approach to the program or their response to homelessness
+the evaluation did not collect data from ultimate beneficiaries (people experiencing or at risk of homelessness)
+Nonetheless, overall findings and conclusions are believed to be valid based on the high degree of concordance across lines of evidence. Findings and conclusions from key informant interviews, focus groups, and case studies were further strengthened as additional lines of evidence were incorporated.  All these lines of evidence helped develop subsequent reporting products.
+8.2 Annex B: Case studies
+8.2.1 Annex B.1: Ontario region case study
+This summary presents overall findings from an Ontario Region case study.
+The Ontario Region case study relates to Evaluation Question 6:
+how effective was the COVID-19 emergency funding delivered through Reaching Home in facilitating communities’ response to the pandemic for those at risk of or experiencing homelessness?
+Evaluation used the below criteria to select the Ontario region for the case study, which represents rural and remote communities:
+located in Ontario using funding received from the program through the Rural and Remote Homelessness funding stream
+received the COVID-19 emergency funding in the 2020 to 2021 fiscal year
+Evaluation findings are based on a review of information available from the Ontario Region through:
+program documents from the Ontario Region
+administrative data from the Ontario Region
+virtual interviews with 6 stakeholders from the Ontario Region
+Takeaway
+The COVID-19 emergency funding delivered through the program helped rural and remote communities in Ontario. It did so by meeting the needs of people experiencing homelessness during a time of increased need and contemporaneous health crises (for example, opioid crises and the COVID-19 pandemic). Activities that were funded by the COVID-19 emergency funding:
+contributed to limiting the spread of COVID-19
+addressed new challenges posed by COVID-19 as well as persisting issues faced in communities
+COVID-19 impacts
+The COVID-19 pandemic had a negative impact on individuals experiencing homelessness and front-line workers in rural and remote communities in Ontario. The COVID-19 pandemic introduced several new challenges such as:
+for individuals experiencing homelessness:
+difficulty accessing emergency shelters, which were at full capacity given the increased number of people experiencing homelessness during the COVID-19 pandemic
+decreased access to informal supports due to public health measures (for example, “couch-surfing”)
+increased mental health challenges, as well as substance use and overdose deaths (which were due in part to the opioid crisis)
+new barriers to accessing services that were being delivered remotely for those without access to electronic devices
+for front-line workers:
+experiencing burnout
+difficulty separating home life and working with clients due to working from home
+needing to work multiple positions or take on a higher workload due to staffing shortages in the sector
+COVID-19 emergency funding amount
+The program distributed approximately $4.7 million to the Ontario Region to support the homeless-serving sector’s response to COVID-19. Funding was delivered as follows:
+a first wave of funding, provided in May 2020, allocated $1.5 million to the Community Entity, United Way Simcoe Muskoka. This first phase of COVID-19 funding helped to support 32 projects that met various urgent needs
+a second wave of funding was provided in November 2020. It allocated $3.1 million to the Community Entity and supported 22 projects that met both urgent and long-term needs
+Effectiveness of the COVID-19 emergency funding
+Community stakeholders in the Ontario Region indicated an overall level of satisfaction regarding the amount and nature of the COVID-19 emergency funding. They mentioned that without the emergency funding, communities within the Ontario Region would not have been able to respond to the demands of the COVID-19 pandemic effectively.
+Community stakeholders also perceived that COVID-19 emergency funding positively contributed to the intended goals of reducing and mitigating the impacts of COVID-19. For instance:
+limiting the spread of COVID-19. Supported by funded activities such as:
+purchasing protective equipment, janitorial services, and cleaning supplies
+providing isolation spaces for clients
+upgrading and purchasing furniture that is easier to clean
+addressing new challenges posed by pandemic-related challenges. Supported by funded activities such as:
+supporting clients’ access to technology to be able to access services that were being delivered virtually
+hiring more staff in shelters to support the increased number of clients accessing shelter services
+Further, in responding to pandemic-related needs, the COVID-19 emergency funding supported:
+the ability for treatment services (for example, opioid crisis)
+the provision of rental support to prevent eviction and secure housing units
+However, there was some dissatisfaction with the reporting requirements attached to the funding, which recipients found to be cumbersome and lacked clarity.
+8.2.2 Annex B.2: St John’s case study
+This summary presents overall findings from a St. John’s, Newfoundland and Labrador case study.
+The St. John’s, Newfoundland and Labrador case study relates to:
+Evaluation Questions 4: How effective was the program in supporting communities to implement a data-driven coordinated access system based on their needs?
+Evaluation Questions 5: To what extent has the program design and implementation fostered collaboration among different stakeholders and partners in advancing the local response to homelessness in communities?
+Evaluation Questions 6: How effective was the COVID-19 emergency funding delivered through Reaching Home in facilitating communities’ response to the pandemic for those at risk of or experiencing homelessness?
+The evaluation used the criteria below to select the St. John’s, Newfoundland and Labrador for the case study, which represents Designated communities:
+located in Newfoundland and Labrador using funding received from the program through the Designated Communities and represents Atlantic Canada
+implemented a Coordinated Access system and is a Built for Zero community
+received COVID-19 emergency funding in the 2020 to 2021 fiscal year
+Evaluation findings are based on a review of information available from the St. John’s through:
+program documents from the St. John’s
+administrative data from the St. John’s
+virtual interviews with 9 stakeholders from the St. John’s
+Takeaway
+St. John’s has been implementing the Coordinated Access system in the community since prior to 2019. It put implementation on hold when the COVID-19 pandemic emerged. A robust 2019 to 2024 Community Plan was published in 2020, followed by an update in 2021. It outlined the community’s objectives, outcomes, and priority areas, which included the implementation of a Coordinated Access system.
+Different features of a data-driven Coordinated Access system are being implemented or are in the process of being implemented in St. John’s. That includes the Homeless Individuals and Families Information System (HIFIS) 4 and a common assessment tool. The Community Entity, End Homelessness St. John’s, has provided support to community organizations by holding “Lunch and Learn” training sessions. These training sessions include topics such as Coordinated Access and HIFIS 4.
+The program has also provided support to St. John’s related to the implementation of Coordinated Access as well as flexibility around funding. However, there has been some dissatisfaction with the support provided by the program. That suggests there is room for improvement regarding how effectively it supports St. John’s to implement a Coordinated Access system.
+The COVID-19 emergency funding delivered through the program helped St. John’s address pressing pandemic-related needs for people experiencing homelessness in the community. Notably, those who faced challenges related to food security, lack of finances, and mental health and substance use. Funded activities contributed to limiting the spread of COVID-19, addressing new challenges posed by the COVID-19 pandemic, and meeting other community needs.
+Coordinated Access system
+St. John’s implemented a data-driven Coordinated Access system prior to 2019, inclusive of the following features:
+features of Coordinated Access
+a governance structure in place in the form of a Coordinated Access Table, which includes participation from local organizations
+HIFIS 4, which is in the process of being rolled out in the community
+a Coordinated Access Resource Inventory that contains housing resources
+having clear access points in place that cover the entire geographic area of the community
+use of the Vulnerability Assessment Tool as a common assessment tool in the community
+developing consistently applied protocols in the community, such as vacancy matching and referrals processes
+Coordinated Access resources, such as a HIFIS Lead and Coordinated Access Lead in the community
+features of a data-driven system
+system mapping
+a quality By-Name List (that has not yet been built into HIFIS, but there is an intention for this to happen)
+community-level outcomes, which were established in the St. John’s 2019 to 2024 community plan to end homelessness
+The program role in supporting the Coordinated Access
+The program supported organizations in St. John’s by answering questions and providing leadership support to St. John’s prior to the COVID-19 pandemic. Community stakeholders expressed appreciation for that.
+However, there were also some areas of lower satisfaction with support provided through the program. This included:
+insufficient funding to reach the goal of ending homelessness
+lack of clarity on the level of effort and cost needed to implement a Coordinated Access system in the community
+burdensome reporting requirements for funding recipients
+Furthermore, St. John’s accessed support from national initiatives, especially Built for Zero. The community stakeholders credited the initiative with helping the community to revise its By-Name List.
+The Community Entity, End Homelessness St. John’s, also provided support for Coordinated Access. It supported by hosting “Lunch and Learn” sessions for community organizations. During these sessions, information on topics such as Coordinated Access and the Homeless Individuals and Families Information System (HIFIS) 4 was shared.
+COVID-19 impacts
+The COVID-19 pandemic had a negative impact on both individuals experiencing homelessness and front-line workers in St. John’s, introducing several new challenges such as:
+for individuals experiencing homelessness:
+loss of employment, finances, and income, including running out of funds received through the Canada Emergency Response Benefit
+closure and reduction in the operations of services and supports
+increased use of substances and experiences of mental health challenges
+an inability to practice aspects of culture due to restrictions on social gatherings
+decreased access to food, resulting in experiences of food insecurity
+for front-line workers:
+experiencing stress
+an inability to work with clients in person
+facing difficulties trying to connect with clients remotely due to clients not having access to technology
+COVID-19 emergency funding amount
+The program distributed approximately $2.5 million to the St. John’s homeless-serving to support the homelessness-serving sector’s response to COVID-19. Funding was delivered as follows:
+a first wave of funding, approved in March 2020, was provided to End Homelessness St. John’s, and subsequently allocated to support urgent pandemic-related needs
+a second wave of funding, approved in September 2020, was provided to End Homelessness St. John’s. The funding was subsequently allocated to support the needs of people experiencing homelessness, which was exacerbated during the pandemic
+Effectiveness of the COVID-19 emergency funding
+Community stakeholders in St. John’s indicated an overall level of satisfaction regarding the amount and speed of emergency funding. Community stakeholders mentioned that COVID-19 emergency funding positively contributes to the intended goals of reducing and mitigating the impacts of COVID-19. For instance:
+limiting the spread of COVID-19. Supported by funded activities such as:
+creating a personal protective equipment fund to provide protective equipment to agencies
+establishing a designated COVID-19 isolation site for people experiencing homelessness who were waiting for their results and needed to isolate
+providing medical and harm reduction supports (for example, cigarettes and snacks to encourage staying in isolation if needed). In addition, providing rapid tests to people experiencing homelessness through a team of harm reduction nurses
+addressing new challenges posed by the COVID-19 pandemic. Supported by funded activities such as:
+providing mental health and substance use support through the team of harm reduction nurses
+increasing outreach and drop-in support so that clients could still access support with other services being closed or limited during the pandemic
+providing access to food-related support through an emergency food helpline
+Furthermore, the COVID-19 emergency funding supported the enhancement of existing programs. That helped meet the needs of people experiencing and at risk of homelessness by helping them access housing and accommodation income they may have lost during the pandemic.
+However, there was some dissatisfaction with the timelines related to spending the funding, which recipients found to put pressure on the community.
+8.2.3 Annex B.3: Whitehorse case study
+This summary presents overall findings from a Whitehorse, Yukon case study.
+The Whitehorse, Yukon case study relates to:
+Evaluation Questions 4: How effective was the program in supporting communities to implement a data driven coordinated access system based on their needs?
+Evaluation Questions 5: To what extent has the program design and implementation fostered collaboration among different stakeholders and partners in advancing the local response to homelessness in communities?
+Evaluation Questions 6: How effective was the COVID-19 emergency funding delivered through Reaching Home in facilitating communities’ response to the pandemic for those at risk of or experiencing homelessness?
+Evaluation used the below criteria to select the Whitehorse, Yukon for the case study, which represents territorial communities:
+used funding received from the program through the Territorial funding stream
+participated in the Built for Zero
+received COVID-19 emergency funding in the 2020 to 2021 fiscal year
+Evaluation based findings on a review of information available from the Whitehorse through:
+program documents from the St. John’s
+administrative data from the St. John’s
+virtual interviews with 5 stakeholders from the St. John’s
+Takeaway
+Whitehorse has been working towards implementing fully Coordinated Access in the community. That has been supported by the work of the steward of Coordinated Access in the community, Safe at Home, and a Coordinated Housing Access Team. The Coordinated Housing Access Team is comprised of service providers and Coordinated Access resource staff in the community. The Coordinated Housing Access Team works together to match clients to vacancies using a matching process.
+Whitehorse has faced impediments to being able to fully implement Coordinated Access. It is because of issues related to the Homeless Individuals and Families Information System (HIFIS) licensing. To help mitigate these impediments, the program has provided support to the community. However, there is room for the program to improve how effectively they support Whitehorse to implement a Coordinated Access system.
+The COVID-19 emergency funding delivered through the program helped Whitehorse address urgent needs for people experiencing homelessness. Notably, those who faced challenges related to service closures and food security. Funded activities contributed to limiting the spread of COVID-19 as well as addressing new challenges posed by the COVID-19 pandemic.
+Coordinated Access system
+Although a fully implemented Coordinated Access system remained in progress, the following features of a data-driven coordinated access system had been implemented in Whitehorse:
+features of Coordinated Access:
+a Coordinated Access governance structure in the form of a Coordinated Housing Access Team
+having clear intake access points in place
+use of the Vulnerability Index-Service Prioritization Decision Assistant Tool as a common assessment tool
+consistently applied protocols in place such as a vacancy matching process, referral procedures, and list of prioritization factors
+coordinated Access resources such as a Data Lead and Coordinated Access Coordinator in the community
+features of a data-driven system:
+the existence of a precarious housing list in Whitehorse
+a quality By-Name List (not yet included in the Homeless Individuals and Families Information System)
+The program role in supporting the Coordinated Access
+The Government of Yukon held the Homeless Individuals and Families Information System (HIFIS) license. Community stakeholders in Whitehorse emphasized that they encountered difficulty in fully implementing Coordinated Access. It was because Government of Yukon was concerned with the privacy implications of broader HIFIS use.
+The program helped mitigate this issue. The program supported Whitehorse to transition the Homeless Individuals and Families Information System (HIFIS) license away from the Government of Yukon to another community organization, Safe at Home. Safe at Home will hold the license moving forward.
+Whitehorse also participates in Built for Zero, through which stakeholders perceived that they received helpful support for developing a quality By-Name List.
+COVID-19 impacts
+The COVID-19 pandemic had a negative impact on both individuals experiencing homelessness and front-line workers in Whitehorse, introducing several new challenges such as:
+for individuals experiencing homelessness:
+closure of services and public infrastructure often used to meet basic needs (for example, public bathrooms)
+decreased access to food supports, resulting in experiences of food insecurity
+increased concerns related to contracting COVID-19, the health of Elders, and COVID-19 vaccines
+decreased access to cultural supports due to restrictions on social gatherings
+for front-line workers:
+the need for protective measures such as the use of personal protective equipment and hand sanitizer. Front-line workers did not have access to these protective measures at the beginning of the pandemic
+COVID-19 emergency funding amount
+The program distributed approximately $2 million to the Whitehorse to support the homeless-serving sector’s response to COVID-19. The program delivered funding as follows:
+a first wave of funding was approved in March 2020. It allocated $425,000 to the Community Entity, the Yukon Anti-Poverty Coalition, and was distributed among 15 projects
+a second wave of funding, approved in September 2020, allocated $1.9 million to the Yukon Anti-Poverty Coalition, and was distributed among 7 projects
+Effectiveness of the COVID-19 emergency funding
+Community stakeholders in Whitehorse indicated an overall level of satisfaction regarding the amount and speed of the emergency funding. Community stakeholders also perceived that COVID-19 emergency funding positively contribute to the intended goals of reducing and mitigating the impacts of COVID-19. For example:
+limiting the spread of COVID-19. Supported by funded activities such as:
+purchasing protective equipment
+purchasing furniture that is easier to clean
+repurposing and converting facility spaces to help comply with COVID-19 regulations
+addressing new challenges posed by pandemic-related measures. Supported by funded activities such as:
+delivering food programming and support to individuals who could not access food or a soup kitchen during the pandemic. The lack of access to food and soup kitchen negatively impacted their food security
+providing gift cards for cell phone minutes to support clients be able to access services virtually
+supporting an Elder to provide cultural support to a set of housing units. In particular, it is because the ability to gather for cultural practices was restricted during the pandemic
+Further, in responding to pandemic-related needs, the COVID-19 emergency funding supported capital purchases. The capital purchases were not previously possible due to the lack of funding (for example, emergency housing).
+However, there was some dissatisfaction with the:
+timelines and deadlines surrounding the funding, which recipients found to be tight
+the requirements related to the funding of what activities the funding was allowed to be used for
+8.2.4 Annex B.4: A community in Quebec case study
+This summary presents the overall findings of a case study centred on 1 region in Quebec
+Footnote
+55
+. The case study was developed as part of a formative evaluation of the program. Both the Designated Communities and Rural and Remote Homelessness funding streams are being implemented in the region.
+The case study of a community in Quebec relates to Evaluation Questions 6: How effective was the COVID-19 emergency funding delivered through Reaching Home in facilitating communities’ response to the pandemic for those at risk of or experiencing homelessness?
+In consultation with the Government of Quebec, Evaluation directorate used the following criteria to select 1 representative region for the case study:
+community in Quebec that received COVID-19 emergency funding. In particular, this case study focuses on the effectiveness of emergency funding allocated in the fiscal year 2020 to 2021 under the
+Canada-Quebec Agreement to support the homeless-serving sector’s response to COVID-19 under Reaching Home
+(COVID-19 Agreement) to assist communities in meeting the challenges of the pandemic.
+Evaluation findings are based on a review of available information from 1 region in Quebec through:
+program-related documents  and administrative data on the activities carried out with the additional funding allocated in the fiscal year 2020 to 2021 under the COVID-19 Agreement
+virtual interviews with 3 respondents responsible for implementing the program in Quebec
+Takeaway
+In the studied region, emergency funding related to COVID-19 and delivered through Reaching Home has helped communities in Quebec. The funding helped offset the dwindling availability of services for people experiencing homelessness at a time when the new situation generated greater need. The activities funded helped limit the spread of COVID-19 and meet the new challenges facing people experiencing homelessness and frontline workers in the region.
+COVID-19 impacts
+According to the 3 interviewed respondents, the COVID-19 pandemic negatively affected people experiencing homelessness and frontline workers. According to the 3 respondents, the pandemic created the following new challenges for people experiencing homelessness and frontline workers in the region.
+For people experiencing homelessness:
+closure or reduction in services, including emergency shelter services and health services
+closures of public infrastructures often used to meet basic needs (for example, restaurants, parks, washrooms, and other facilities)
+reduced access to unofficial support networks due to physical distancing measures (for example, more limited access to temporary accommodation with friends or family)
+difficulties in accessing healthy, affordable housing increased
+the growing need for emergency shelter services when such services are not always extensively developed
+increased substance use
+difficulties in accessing transportation to services increased
+new barriers in accessing services for people without access to the technology needed to obtain remote or virtual services
+For frontline workers:
+increased workloads
+difficulty in establishing relationships with the people they serve due to sanitary measures, in particular masking requirements during in-person contact
+COVID-19 emergency funding amount
+In the 2020 to 2021 fiscal year, Quebec’s homeless-serving sector received approximately $70 million through Reaching Home to support the response to COVID-19. These funds were allocated among Quebec’s 16 health regions as follows:
+a first stage of funding in April 2020 allocated $21.4 million between the Designated Communities stream ($19.7 million) and the Rural and Remote Homelessness stream ($1.6 million)
+a second stage of funding amounting to $9.2 million was delivered in October 2020
+A third stage of funding, delivered in January 2021, amounted to $39.8 million, with $34.9 million allocated to the Designated Communities stream and $4.9 million to the Rural and Remote Homelessness stream
+COVID-19 funding challenges
+According to the 3 respondents interviewed, the amount and nature of the emergency funding were welcomed by Reaching Home recipient organizations in the region. However, the respondents interviewed noted 3 challenges:
+some dissatisfaction with the stage-by-stage nature of the funding, which recipients felt increased the administrative burden
+it took a long time to receive confirmation of the second and third stage allocations, which affected timeframes for using the funds
+the lack of long-term funding prevented the organizations from implementing activities that would have benefited from longer funding periods
+Effectiveness of the COVID-19 emergency funding
+According to the 3 respondents interviewed and the document review, the COVID-19 emergency funding sent to the region nonetheless made a positive contribution toward limiting and mitigating the anticipated impact of COVID-19, particularly by:
+limiting the spread of COVID-19. This objective was supported through funded activities such as:
+purchases of protective equipment
+purchases of cleaning products (for example, disinfectants)
+hiring staff to support the implementation of health protocols and public health measures for preventing the spread of COVID-19
+improvements to existing infrastructure to upgrade ventilation
+responding to the new challenges posed by pandemic-related public health measures. This objective was supported through funded activities such as:
+transportation assistance provided to facilitate access to services
+development of transitional housing units and more shelter beds to meet increased housing needs
+Also, emergency funding made it possible:
+to form new connections between the region’s Integrated University Health and Social Services Centres and certain community organizations that did not receive Reaching Home funding prior to the pandemic
+to establish services and infrastructure that communities can keep using after the COVID-19 pandemic provided the level of funding continues
+8.3 Annex C: Overview of the program
+8.3.1 Program’s core community-level outcomes
+Core outcomes:
+fewer people experience homelessness overall (homelessness is reduced overall)
+fewer people experience homelessness for the first time (new inflows into homelessness are reduced)
+fewer people return to homelessness from housing (returns to homelessness are reduced)
+fewer Indigenous peoples experience homelessness (Indigenous homelessness is reduced)
+fewer people experience chronic homelessness (chronic homelessness is reduced)
+8.3.2 Eligible funded activities
+The program supports funding to diverse eligible activities through regionally delivered funding streams, the Community Capacity and Innovation stream, and the Distinctions-Based stream.
+Regionally delivered funding streams
+The following are the eligible activities defined by the program Directives and Results Reporting Online:
+Housing Services
+Housing Placement
+Housing Set-up
+Emergency Housing Funding
+Prevention and Shelter Diversion
+Core
+Footnote
+57
+and secondary services
+Footnote
+58
+Client support services
+Economic integration services:
+Income assistance
+Employment assistance
+Education assistance
+Job training assistance
+Social and community integration services
+Clinical and Treatment Services
+Basic Needs Services
+Capital Investments
+Permanent Supportive Facility
+Transitional Facility
+Non-Residential Facility
+Emergency Facility
+Coordination of Resources and Data Collection
+Coordinated Access
+Data Collection, Analysis, and Use
+Point In Time Counts
+COVID-19 Emergency Response
+COVID-19 Temporary Accommodations
+COVID-19 Health and Medical Services
+Community Capacity and Innovation stream
+According to the program Terms and Conditions, this stream can fund activities:
+that support the development and adoption of a system of coordinated access
+that support the capacity building of service providers
+to understand, gather, analyze, and disseminate information about homelessness
+to develop innovative solutions to prevent and reduce homelessness
+Distinctions-Based stream
+According to the program Terms and Conditions, this stream can fund projects that reflect the unique rights, interests, and circumstances of the:
+First Nations
+Métis Nation
+Inuit
+8.3.3 Supporting the response to the COVID-19 pandemic
+Effects of COVID-19 on individuals experiencing homelessness and front-line workers
+Evaluation conducted case studies interviews with community stakeholders and reviewed the literature. As evidence shows, COVID-19 and associated health and safety measures had a broad, negative effect on individuals experiencing homelessness and front-line workers.
+COVID-19 effects on individuals experiencing homelessness and front-line workers
+Effects on individuals experiencing homelessness
+Reduced access to income due to lost employment, contributing to increasing risk of eviction
+Reduced access to emergency shelter and public infrastructure used to meet basic needs, such as public bathrooms
+Reduced access to social support networks; therefore, they could not ‘couch-surf’ or access cultural supports due to physical distancing measures/gathering restrictions
+Increased health, mental health, and substance use challenges, including risk of contracting COVID-19
+Effects on front-line workers
+Increased stress and burnout, including due to difficulty connecting with clients and getting separation from work when working remotely
+Increased workload due to staffing shortages
+COVID-19 funding amount and distribution
+In response to the COVID-19 pandemic, in 2020, the program distributed supplementary funding to program funding recipients. The total value of the funding was $394,200,000. This funding was through the Government of Canada’s COVID-19 Economic Response Plan. The program allocated this funding through:
+2 waves of funding, which were announced in:
+March 18, 2020 (34% of total COVID-19 funding)
+September 21, 2020 (60% of total COVID-19 funding)
+funding that came from reserve or re-profiling
+Footnote
+59
+(6% of total COVID-19 funding)
+In the 2020 to 2021 fiscal year, the homeless-serving sector of the province of Quebec also received approximately $70 million. This funding was through the Canada-Quebec Agreement. The purpose was to support the response to COVID-19. This funding was allocated among the 16 health regions in Quebec.
+Evaluation reviewed the program available data for 2,838 projects. Evidence shows that the program allocated $244,718,846 to COVID-19 funding. This funding was allocated to 54% of projects (1,539 out of 2,838 projects). Among these projects:
+1,438 (93%) of projects received only the COVID-19 funding ($224,159,408)
+101 (7%) of projects received COVID-19 funding in addition to the base funding ($20,559,438)
+Projects distributed the COVID-19 funding among all different types of activities.
+Table 8: Distribution of COVID-19 funding among main activities among the 1,438 projects that received only COVID-19 funding
+Program’s main activity
+Allocation of COVID-19 funding
+COVID-19
+37%
+Client Support Services
+27%
+Capital Investment
+20%
+Prevention and Shelter Diversion
+9%
+Housing
+7%
+Coordination of Resources and Data Collection activities
+1%
+Source: ESDC. (2021). Program Project Details. 2019-2021.
+Introduction of flexibilities
+According to the program’s documents, in response to the COVID-19 pandemic, the program introduced temporary flexibilities. It also added pandemic-specific examples of how funding can be used to its Terms and Conditions and Directives. The purpose was to enable timely and effective community responses.
+Description of funded projects
+With the additional funding and flexibilities, communities used the incremental COVID-19 funding to fund the following activities:
+health and medical services such as:
+counseling services
+COVID-19 testing and outreach
+client support services such as:
+staffing (for example, increasing service delivery hours)
+renovations to increase capacity to follow COVID-19 guidelines (for example, installing and providing facilities for hygiene and sanitation such as washrooms)
+food access (for example, lunch delivery program and takeout containers for food)
+technology (for instance, cell phones or laptops for clients to connect with services)
+Speed of funding
+Evaluation reviewed the program documents and conducted interviews with the community stakeholders. According to the evidence, funding agreements with communities received ministerial approval within 7 days after the funding announcement. In addition, funding agreements were most often signed between 14 and 51 days after the Minister-level approval for the funding. Delays in agreement signing are reportedly a result of delays on the part of recipient organizations.
+Table 9: Duration of COVID-19 funding
+Type of funding
+Funding announcement date
+Minister-level approval date
+Time lapsed for signing after Minister-level approval (days)
+First wave
+March 18, 2020
+March 25, 2020
+14
+Second wave
+September 21, 2020
+September 28, 2020
+51
+Source: ESDC. (2021). COVID-19 Funding Tracker with Dates and Signatures
+Figure 1: The program logic model
+Figure 1 - Text version
+Figure 1 describes the program’s logic model.
+The program’s input includes funding and program authorities.
+The program’s activities include:
+Under the federal projects:
+A.1: Grants and Contributions (federal projects)
+Under the federal leadership:
+A.2.: Grants and contributions (federal leadership)
+A.3.: Indigenous relations
+A.4.: Community and stakeholder engagement
+A.5.: Federal-Provincial/Territorial relations
+A.6.: Homelessness data collection tools and Homelessness Individuals and Families Information System (HIFIS)
+The program’s outputs include:
+Under the federal projects:
+O.1.: Projects to support community priorities are funded
+Under the federal leadership:
+O.2.: Designated Communities are funded to design and implement coordinated access
+O.3.: Indigenous Homelessness Community Entities are supported to participate in coordinated access
+O.4.: Communities and stakeholders are provided guidance on coordinated access
+O.5.: Collaboration with provinces and territories takes place
+O.6.: HIFIS is used by Designated Communities and is supported
+O.7.: Research and analysis on homelessness is conducted by the Department
+The program’s immediate outcomes include:
+Under the federal projects:
+IM.O.1.: Individuals and families at imminent risk of homelessness are provided with support
+IM.O.2.: Homeless individuals and families are placed in more stable housing
+Under the federal leadership:
+IM.O.3.: Collaboration between streams in the design and implementation of coordinated access takes place, where they co-exist
+IM.O.4.: Communities have a coordinated homelessness response system
+IM.O.5.: Communities and organizations are enabled to make decisions based on better homelessness data
+The program’s intermediate outcomes include:
+Under the federal projects:
+INT.O.1.: Improved housing stability for homeless individuals and those at imminent risk of homelessness
+INT.O.2.: Improved economic stability and self-sufficiency for homeless individuals and those at imminent risk of homelessness
+Under the federal leadership:
+INT.O.3.: The response to homelessness in Canada is advanced through federal leadership
+The program’s ultimate outcome includes:
+ULT.O.1.: Homelessness is prevented and reduced
+Under the Distinctions-Based stream, the program’s activities include Grants and Contributions, which will be result in “Performance measurement framework for Distinctions-Base investments to be co-developed with Indigenous partners” and “Distinctions-Based investments will support ultimate outcome.”
+Footnotes
+Footnote 1
+Note that this is a formative evaluation and final results in a summative evaluation will be provided during the next cycle of evaluations.
+Return to footnote
+1
+referrer
+Footnote 2
+Findings related to Indigenous homelessness are based on program data and documents as well as interviews and focus groups with non-Indigenous stakeholders. These interviews and focus groups did not include Indigenous partners.
+Return to footnote
+2
+referrer
+Footnote 3
+Recommendation 2 related to Indigenous homelessness is based on program data and documents as well as interviews and focus groups with non-Indigenous stakeholders. These interviews and focus groups did not include Indigenous partners.
+Return to footnote
+3
+referrer
+Footnote 4
+A Coordinated Access system is a process by which individuals and families who are experiencing homelessness or at risk of homelessness are directed to community-level access points where trained workers use a common assessment tool to evaluate the individual or family’s depth of need, prioritize them for housing support services and then help to match them to available housing focused interventions.
+Return to footnote
+4
+referrer
+Footnote 5
+The program requires communities receiving funding from the Designated Communities stream and Territorial Homelessness stream who also receive Community Capacity and Innovation stream funding to implement Coordinated Access.
+Return to footnote
+5
+referrer
+Footnote 6
+The program requires communities receiving funding from the Designated Communities stream and Territorial Homelessness stream who also receive Community Capacity and Innovation stream funding to report on community-level outcomes. Annex C presents a list of core community-level outcomes.
+Return to footnote
+6
+referrer
+Footnote 7
+Annex C presents a list of activities that can be funded under each stream.
+Return to footnote
+7
+referrer
+Footnote 8
+For more information regarding the delivery of the program funding in the province of Quebec, refer to the section: “The program funding in the province of Quebec.”
+Return to footnote
+8
+referrer
+Footnote 9
+MacKenzie et al., 2020 ; Tremblay et al., 2020, Morton et al., 2018, Milaney et al., 2017, Dashora et al., 2018, and Vallesi, et al., 2020b
+Return to footnote
+9
+referrer
+Footnote 10
+The collaborative-driven approach relies on community engagement and collaboration. Communities collect input through different approaches such as Community Advisory Board and Regional Advisory Board meetings and “A lived experience committee.”
+Return to footnote
+10
+referrer
+Footnote 11
+The data-driven approach relies on data on homelessness collected in a community. Communities collect input by, for instance, gathering and compiling information to assess community housing support needs (for example, by using a Unique Identifier List).
+Return to footnote
+11
+referrer
+Footnote 12
+Government of Canada uses this acronym to refer to the Canadian community: 
+2S: placed at the front of the acronym recognizes 2-Spirit people; L: Lesbian; G: Gay; B: Bisexual; T: Transgender; Q: Queer; I: Intersex, considers sex characteristics beyond sexual orientation, gender identity and gender expression; +: is inclusive of people who identify as part of sexual and gender diverse communities, who use additional terminologies.
+Return to footnote
+12
+referrer
+Footnote 13
+Note that this is a formative evaluation and final results in a summative evaluation will be provided during the next cycle of evaluations.
+Return to footnote
+13
+referrer
+Footnote 14
+Findings related to Indigenous homelessness are based on the program data and documents as well as interviews and focus groups with non-Indigenous stakeholders. These interviews and focus groups did not include Indigenous partners.
+Return to footnote
+14
+referrer
+Footnote 15
+Funding for the regionally delivered streams under the program is primarily delivered through the Community Entity model. The Community Entity is an incorporated organization such as municipal government or an established not-for-profit organization that implements a community plan. It is also responsible for the selection, approval, and management of projects in the local area. The Community Entity is supported by a Community Advisory Board responsible for developing a community plan and recommending projects for funding at the community level. The Community Advisory Board is composed of a wide range of stakeholders, including the municipality, provincial, or territorial government, not-for-profit organizations, and for-profit enterprises. A separate Community Advisory Board exists in some communities to set the direction for Indigenous Homelessness funding. Regional Advisory Boards have also been established to determine homelessness priorities and recommend projects for Rural and Remote Homelessness funding.
+Return to footnote
+15
+referrer
+Footnote 16
+Baker et al., 2010; Goodman et al., 2016; MacKenzie et al., 2020; Milaney et al., 2017; Shinn et al., 2013; United States Interagency Council on Homelessness, 2017
+Return to footnote
+16
+referrer
+Footnote 17
+Annex C presents a list of program’s main and sub-activities.
+Return to footnote
+17
+referrer
+Footnote 18
+Gaetz et al, 2013; United States Interagency Council on Homelessness (USICH). 2016
+Return to footnote
+18
+referrer
+Footnote 19
+Cunningham et al., 2015 and Fischer et al., 2019
+Return to footnote
+19
+referrer
+Footnote 20
+“Capital Investments are intended to increase the capacity or improve the quality of facilities that address the needs of individuals and families experiencing or at imminent risk of homelessness, including those that support culturally appropriate programming for Indigenous individuals and families.” Capital Investment includes “Emergency Housing”, “Transitional Housing”, “Permanent Supportive Housing”, and “Non-Residential Facility”.
+Return to footnote
+20
+referrer
+Footnote 21
+Although the program can support capital projects within certain parameters, federally, the Canada Mortgage and Housing Corporation is the primary funder of capital-related projects.
+Return to footnote
+21
+referrer
+Footnote 22
+Gaetz and Dej, 2017; Gaetz, et al., 2020
+Return to footnote
+22
+referrer
+Footnote 23
+United States Interagency Council on Homelessness, 2017
+Return to footnote
+23
+referrer
+Footnote 24
+The COVID-19 pandemic hit in March 2020 requiring a re-prioritization of efforts from activities focused on longer-term housing stability to emergency responses.
+Return to footnote
+24
+referrer
+Footnote 25
+The Annual Result dataset includes all projects including those that received base funding and incremental COVID-19 funding.
+Return to footnote
+25
+referrer
+Footnote 26
+Projects assign a unique identifier to each client in each fiscal year. However, the identifier may be different for the same individual over the years if the individual exits the program in 1 fiscal year and return in another fiscal year. Therefore, there is a possibility of double counting in the calculation of the aggregate number of 31,928.
+Return to footnote
+26
+referrer
+Footnote 27
+According to the program’s document, the target is the total number of people who are expected to be placed in more stable housing by year 3 of the program (2021 to 2022) to be 71,500.
+Return to footnote
+27
+referrer
+Footnote 28
+While it is a relevant indicator, the program’s documents do not provide evidence to indicate whether monitoring the housing situation for 12 months post-intervention is a sufficient period to assess whether individuals or families experiencing homelessness can be considered to be more stably housed or having exited homelessness. Program officials indicated that considering the reporting burden, they think 12-month post intervention should be a sufficient period.
+Return to footnote
+28
+referrer
+Footnote 29
+7,579 shows the total number of people who “successfully exited at or any time before 12 months”, “did not remain housed for 12 months”, and “were housed at 12 months and still required supports”.
+Return to footnote
+29
+referrer
+Footnote 30
+There were delays in launching the new Reaching Home Results Reporting Online system, which required a manual data collection exercise to be undertaken for the first 2 years of the program (the 2019 to 2020 and 2020 to 2021 fiscal years). As a result, at the time of the evaluation, there were no results available to analyze for the 2021 to 2022 for individuals that had been placed in more stable housing in the 2020 to 2021 fiscal year.
+Return to footnote
+30
+referrer
+Footnote 31
+Projects assign a unique identifier to each client in each fiscal year. However, the identifier may be different for the same individual over the years if the individual exits the program in 1 fiscal year and return in another fiscal year. Therefore, there is a possibility of double counting in the calculation of the aggregate number of 62,349.
+Return to footnote
+31
+referrer
+Footnote 32
+According to the program’s document, the target is the total number of people who are expected to be placed in more stable housing by year 3 of the program to be 46,600.
+Return to footnote
+32
+referrer
+Footnote 33
+Aleman, 2016 ; Beer, et al., 2019 ; Collins and Schormans, 2021 ; Durbin, et al., 2018 ; Montgomery et al., 2013 ; Nishio, et al., 2017 ; O’Donovan, et al., 2020 ; Rodrique (2016)
+Return to footnote
+33
+referrer
+Footnote 34
+Reaching Home: Canada’s Homelessness Strategy Directives
+Return to footnote
+34
+referrer
+Footnote 35
+Coordinated access system operation manual, 2015; MacAlpine et al., 2015
+Return to footnote
+35
+referrer
+Footnote 36
+For reporting purposes, this amounts to 59 communities that are required to implement Coordinated Access and transition to an outcomes-based approach as Charlottetown and Summerside report together.
+Return to footnote
+36
+referrer
+Footnote 37
+Stakeholder type not specified due to small sample size
+Return to footnote
+37
+referrer
+Footnote 38
+Annex C presents more details regarding additional challenges introduced or worsened during the pandemic.
+Return to footnote
+38
+referrer
+Footnote 39
+The announcement date has not been mentioned in the program’s documents.
+Return to footnote
+39
+referrer
+Footnote 40
+Annex C presents more details regarding the COVID-19 funding amount and distribution, flexibilities, and speed of funding.
+Return to footnote
+40
+referrer
+Footnote 41
+Recommendation 2 related to Indigenous homelessness is based on the program data and documents as well as interviews and focus groups with non-Indigenous stakeholders. These interviews and focus groups did not include Indigenous partners.
+Return to footnote
+41
+referrer
+Footnote 42
+Recommendation 2 related to Indigenous homelessness is based on the program data and documents as well as interviews and focus groups with non-Indigenous stakeholders. These interviews and focus groups did not include Indigenous partners.
+Return to footnote
+42
+referrer
+Footnote 43
+For example, but not limited to racially diverse/visible minority populations, women, gender diverse individuals, LGBTQ2S+ people, youth/young individuals, the senior population, rural populations, and persons with disabilities.
+Return to footnote
+43
+referrer
+Footnote 44
+Immediate outcomes 1 and 2 – related to providing support.
+Return to footnote
+44
+referrer
+Footnote 45
+For the purpose of this question, appropriateness is assessed by alignment with best practices in the literature and needs identified by communities.
+Return to footnote
+45
+referrer
+Footnote 46
+For the purpose of this question, appropriateness is assessed by alignment with best practices in the literature and needs identified by communities.
+Return to footnote
+46
+referrer
+Footnote 47
+Immediate outcomes 3, 4, and 5 - implementation of the coordinated access system and better homelessness data.
+Return to footnote
+47
+referrer
+Footnote 48
+For the purpose of this question, effectiveness is assessed by considering the extent to which features of a data-driven coordinated access system were or will be implemented, a description of the support provided, the level of infrastructural capacity, community-level adoption, and perceived strengths and limitations.
+Return to footnote
+48
+referrer
+Footnote 49
+For example, provinces/territories, municipalities, the homeless serving sector, the private sector, and national stakeholders.
+Return to footnote
+49
+referrer
+Footnote 50
+National Indigenous Homelessness Council, National Indigenous Organizations, Indigenous homelessness service providers, and other Indigenous partners.
+Return to footnote
+50
+referrer
+Footnote 51
+Immediate outcome 3 - collaboration.
+Return to footnote
+51
+referrer
+Footnote 52
+As the COVID-19 outbreak activities were not planned outcomes, the evaluation will assess the effectiveness of the program’s funding to facilitate communities’ response to the pandemic.
+Return to footnote
+52
+referrer
+Footnote 53
+For the purpose of this question, effectiveness is assessed by considering the duration of the delivery of funding, the flexibilities exercised, a description of activities funded, satisfaction with the amount and speed, the contribution of the funding to limit the spread of COVID-19, and the contribution of the funding to address new challenges.
+Return to footnote
+53
+referrer
+Footnote 54
+Note that this is a formative evaluation and final results in a summative evaluation will be provided during the next cycle of evaluations.
+Return to footnote
+54
+referrer
+Footnote 55
+The region is not identified to protect the privacy of respondents.
+Return to footnote
+55
+referrer
+Footnote 56
+The document review included a review of include publicly available documents that describe the local context as well as the program documents such as the COVID-19 Final Report and Canada-Quebec COVID-19 Agreement and Amendments.
+Return to footnote
+56
+referrer
+Footnote 57
+Core services include rental assistance, landlord or family mediation, utility payments, trusteeship, and other financial related services.
+Return to footnote
+57
+referrer
+Footnote 58
+Secondary services are prevention and shelter diversion services not included in core services.
+Return to footnote
+58
+referrer
+Footnote 59
+The announcement date has not been mentioned in the program’s documents.
+Return to footnote
+59
+referrer
+Page details
+Report a problem on this page
+Date modified:
+2023-07-21

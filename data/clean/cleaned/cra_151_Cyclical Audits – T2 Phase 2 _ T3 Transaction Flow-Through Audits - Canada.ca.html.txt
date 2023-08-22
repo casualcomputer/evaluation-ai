@@ -1,0 +1,161 @@
+Cyclical Audits – T2 Phase 2 / T3 Transaction Flow-Through Audits
+Internal Audit Report
+Corporate Audit and Evaluation Branch
+February 2008
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Methodology
+Findings, recommendations and action plans
+1.0 Effectiveness of source systems as they relate to the accuracy and appropriateness of data input and processing
+2.0 Effectiveness of the RL system processes as they relate to the accuracy and appropriateness of the data posted in the RL
+Conclusion
+Appendix A
+Components of the Cyclical Audit Plan for CRA Administered Revenues
+Appendix B
+T2 Phase 2 Corporate Income Tax – Results Summary
+Appendix C
+T3 Trust Income Tax – Results Summary
+Executive Summary
+The Canada Revenue Agency (CRA) is responsible for assessing and collecting a broad range of taxes on behalf of the federal, provincial and territorial governments. Within CRA, the Assessment and Benefit Services (A&BS) Branch is functionally responsible for administering the assessment and revenue payment processes, while the Finance and Administration (F&A) Branch is responsible for ensuring that these revenues are appropriately accounted for and reported.
+In 2004-2005, at the request of F&A, the Internal Audit Division (IAD) of the Corporate Audit and Evaluation Branch (CAEB) developed a cyclical audit plan to support CRA in meeting its responsibilities with respect to the accounting and reporting of revenues. The plan set out a systematic approach to provide F&A with assurance, over time, of the accuracy and completeness of CRA financial data on tax revenues and the adequacy of controls for detecting and preventing errors.
+The focus of the audit work initially carried out under the cyclical plan has been substantive testing, mostly in the form of transaction data flow-through audits of revenue streams. The flow-through audits were first carried out in 2005-2006 and to date have covered four different revenue streams; T1 (individual income tax), T2 (corporation taxes), T4 (source deductions) and T3 (trust income tax). The findings of the T1, T2, and T4 audits were reported in 2006. The results of the T2 Phase 2 audit (which provided additional coverage of the federal, provincial, and territorial revenues for T2) and the T3 audit are summarized in this report.
+Objective:
+The objective of the T2 and T3 transaction flow-through audits was to provide assurance with respect to the accuracy and appropriateness of the automated flow of revenue data, from source documents to the relevant CRA processing systems through to CRA's corporate accounting system, the Revenue Ledger (RL).
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Conclusion:
+Results of the T2 Phase 2 and T3 audits showed that the data for both these types of transactions flowed accurately and appropriately through CRA's automated systems, from the source documentation of the selected returns through to the respective RL accounts. There were inconsistencies found in the mapping of some T3 return line items to RL accounts, but the amounts involved were minor and the mapping has since been corrected. Nonetheless, management recognized the potential impact of incorrect mapping of federal/provincial/territorial or non-resident line items on the accuracy of CRA's financial reporting and will undertake a review of the current mapping of T3 income trust data to ensure that it is correct and clearly documented by the end of this fiscal year (March 31, 2008).
+Introduction
+The Canada Revenue Agency (CRA) is responsible for assessing and collecting a broad range of taxes on behalf of the federal, provincial, and territorial governments. Within CRA, the Assessment and Benefit Services (A&BS) Branch is functionally responsible for administering the assessment and revenue payment processes, while the Finance and Administration (F&A) Branch is responsible for ensuring that these revenues are appropriately accounted for and reported.
+In 2004-2005, at the request of F&A, the Internal Audit Division (IAD) of the Corporate Audit and Evaluation Branch (CAEB) developed a cyclical audit plan
+[Footnote 1]
+to support CRA in meeting its responsibilities with respect to the accounting and reporting of revenues. The plan set out a systematic approach to provide F&A with assurance, over time, of the accuracy and completeness of CRA financial data on tax revenues and the adequacy of controls for detecting and preventing errors.
+The focus of the audit work initially carried out under the cyclical plan has been substantive testing, mostly in the form of transaction data flow-through audits of revenue streams. These audits involve verifying the accuracy of data throughout CRA's assessment and accounting systems, by tracing information reported on tax returns and schedules through the relevant processing system(s) and on to the general ledger accounts in the Revenue Ledger (RL).
+The first of these audits were conducted in 2005-2006 and covered T1 (personal income tax), T2 (corporation taxes) and T4 (source deductions)
+[Footnote 2]
+. Differences were not detected at that time between the tax information that was input and processed in the assessing and accounting systems for these types of transactions and the information posted to the RL. Since the time these audits were completed F&A has implemented a monitoring framework that is aimed at preventing incomplete or inaccurate accounting or reporting of T1 and T2 transaction on an ongoing basis.
+Two more flow-through audits were initiated in 2006-2007. In the first audit, T2 corporate tax data was further tested to expand the coverage of provincial and territorial revenue, and the second audit looked at the flow of T3 revenue data (trust income tax). The findings for both of these audits are summarized and formally presented in this report.
+Focus of the Audit
+The objective of the T2 and T3 transaction flow-through audits was to provide assurance with respect to the accuracy and appropriateness of the automated flow of revenue data, from source documents to the relevant CRA processing systems through to the RL.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Methodology
+Audit planning and testing for the T2 Phase 2 and T3 flow-through audits was carried out separately between March 2006 and September 2007. Work on each audit included the development of a suitable sampling plan and the random selection of taxpayer returns for review and analysis of the flow of reported revenue amounts. The number of samples was sufficient to trace and verify the accuracy and completeness of the flow of the data through an automated system where items are subject to the same system logic and predefined business rules as they are processed.
+The transaction data reviewed in the T2 Phase 2 audit was taken primarily from the 2004 tax year database while the data for the T3 audit was selected from various tax years, with the majority of the assessments taken from 2005.
+An initial review of the samples was carried out to assess the accuracy of the transaction data input from the source documents and the processing of this data through the relevant assessment and accounting systems. The same information was then used to verify amounts that were posted to taxpayer accounts and the revenue accounts in the RL. The validity of amounts posted to individual assessments and the effectiveness of systems access controls were not assessed as part of this audit.
+The same lines of enquiry were used for both audits and the findings are presented below. Issues that were identified during the conduct of the respective audits were taken up with and addressed by F&A and the appropriate tax program area at the time they became known.
+More detailed information about the sample selection, testing and results of the T2 Phase 2 and T3 audits are provided in Appendix B and Appendix C.
+Findings, Recommendations and Action Plans
+1.0
+Effectiveness of source systems as they relate to the accuracy and appropriateness of data input and processing
+T2 Corporation Income Tax
+Source documentation against which provincial and territorial revenue (and deduction) amounts were traced and verified were the
+T2 Corporate Income Tax Return
+and any supporting schedules used by corporations to report and pay taxes on income. The automated source systems through which information provided on these documents were traced included the Corporation Tax System (CORTAX) and the Standardized Accounting (SA) System. Total corporate (T2) tax revenues for provinces, territories, and First Nations were recently reported in the
+2006-2007 CRA Annual Report to Parliament
+as just over $3.9 B. Total T2 revenues (including federal) were $37.7B.
+A stratified, random sampling approach was used in identifying T2 returns for review to ensure an adequate number would be included per province and territory. The revenue and deduction amounts that had been reported on the resulting 271 sample returns selected were then compared to the assessment and accounting data available in the CORTAX and SA source systems. Some discrepancies were noted, but overall it was confirmed that the tax and credit amounts reported on the T2 returns were allocated to the correct taxpayer account and posted accurately in both CORTAX and SA.
+When discrepancies in amounts were found, they were largely attributable to adjustments in tax and credit calculations that had been made by the system or an assessor based on pre-established tax guidelines. In a few instances, the variance was as a result of a schedule being missed during keying or a difference in the treatment of decimals in recording percentage amounts, but these did not affect the accuracy of the flow of the data itself from CORTAX to SA.
+T3 Trust Income Tax
+Source documentation against which revenue amounts were verified were the
+T3 Trust Income Tax Return
+and the supporting forms or schedules used by individuals in reporting and/or paying taxes on this income. The data input and flow of T3 information was traced through several source systems including the Automated Trust System (ATS), Automated Assessments Control (AAC) System, Automated Subsidiary Ledger (ASL), and Information Declaration System (INFODEC). Approximately $1B
+[Footnote 3]
+was reported by CRA in 2006 for provincial and territorial income taxes levied in relation to T3 trusts.
+A stratified, random approach was used in selecting the T3 returns for review to ensure an adequate number would be included per province, territory, and taxpayer status (e.g., non-resident). A total of 175 samples were then identified from a listing of taxpayer information generated from the ATS and AAC systems.
+(PROTECTED)
+The range of type and complexity of T3 returns is quite broad and the variances could largely be attributed to changes having been made as a result of ATS calculations or tolerances and adjustments or reassessments by assessors based on pre-established tax guidelines. Postings to ASL were consistent with assessments in ATS and/or source documents and T3 amounts were allocated to the appropriate taxpayer account in both ATS and ASL for all samples tested.
+To provide additional assurance on data entry, 30 returns were tested for accuracy of the input of all keyed line items into ATS and eight of the returns were found to have one or more line items that were missed. This, however, had no impact on the flow of the missing amounts to the RL, since the information was later found to have been captured under other line items keyed into ATS. The Information Technology Branch (ITB) indicated that the T3 Redesign project currently in the planning stage would reduce the likelihood of such errors occurring in the future. This would be accomplished through changes to the level of automation in ATS and in ASL, and delivery of the required components is expected by 2013.
+2.0 Effectiveness of the RL system processes as they relate to the accuracy and appropriateness of the data posted in the RL
+T2 Corporation Income Tax
+The review of the data captured in RL for the 271 sample T2 corporation tax returns found that it accurately reflected the data recorded in the CORTAX and SA systems and that the reconciliation procedures between systems were appropriate.
+The RL Account Determination Rules (ADR) Table was searched to identify relevant T2 RL accounts that existed for the CORTAX System (excluding clearing accounts). The amounts recorded in the RL accounts for the sample transactions were then traced using RL mapping documents provided by A&BS. The results indicate that the flow of corporation tax data to the RL is accurate and complete.
+T3 Trust Income Tax
+Overall, no differences were detected between the T3 data processed and amounts posted to the RL from the ATS/AAC and ASL systems. For all samples tested, tax assessment data sent to the RL from the source systems was reconciled to the appropriate clearing accounts, and all disbursements observed in the samples were posted to the appropriate disbursement clearing account.
+At the same time, a review of the mapping of keyed T3 return line items and system calculated fields to the RL revealed that it was not accurate or clearly documented for several line items (for details, see Appendix C). The potential impact of incorrect mapping of federal/provincial/territorial or non-resident line items on the accuracy of the CRA's financial reporting was acknowledged by F&A and A&BS, and prompt action was taken to correct those that had been identified. Even though the individual transaction amounts involved were relatively small, the potential cumulative effect over time of having incorrect mapping or postings adds to the risk of misstatements in financial reporting.
+Recommendation
+F&A should work with A&BS to carry out a comprehensive review of the current mapping of data from the tax forms to source systems to the RL for all T3 income trust data to ensure that all
+of the mapping is correct, is clearly documented, and can be regularly updated.
+Action Plan
+Responsible areas within F&A (Finance Administration Directorate) and A&BS (Business Returns and Payment Processing Directorate) will organize and complete a review of T3 mapping by the end of this fiscal year (March 31, 2008), and any errors that may be discovered in the course of this review will be corrected.
+Conclusion
+Results of the T2 Phase 2 and T3 flow-through audits showed that the data for both of these types of transactions flowed accurately and appropriately through CRA's automated systems; from the source documentation of the selected returns through to the respective RL accounts. There were ambiguities with respect to the mapping between some T3 return line items and the RL, but these did not involve significant dollar value amounts and were promptly addressed by F&A. Nonetheless, management recognized the potential impact of incorrect mapping of federal/provincial/territorial or non-resident line items on the accuracy of the CRA's financial reporting and will undertake a comprehensive review of the current mapping of T3 income trust data to ensure that it is correct and clearly documented
+Appendix A
+Components of the Cyclical Audit Plan for CRA Administered Revenues
+Control Framework Assessment
+– IAD will provide input and support to F&A and its partners (ITB and ABSB) in the development and assessment of a control framework. The overall objective of the F&A project is to develop assurance that adequate controls over revenue assessment and reporting exist, operate as intended, and can be relied upon. Recently, F&A has been focussing on controls over provincial tax revenues and credits in preparation for a controls audit by the Office of the Auditor General (OAG).
+Controls Testing
+– Testing of controls will be accomplished primarily through Accrual Accounting Audits. IAD will perform a series of audits with the objective of assessing whether adequate financial controls are in place and reasonable accrual accounting methodology exists to support the preparation of accurate financial statements. The audits will review controls over such things as timeliness, accuracy, and completeness of the processing of receipts and assessment details by the source systems and the RL. They will also consider the reasonableness and completeness of the accrual accounting methodology and compliance with Treasury Board Secretariat requirements.
+Substantive Testing
+– IAD substantive testing work has historically focussed on the potential risk areas in CRA financial reporting as identified by F&A and the Office of the Auditor General (OAG). Under the plan the other significant component of substantive testing will be a series of transaction flow-through audits. These audits will trace data processing from source documents to the RL, examining the amounts for accuracy and allocation to the appropriate RL accounts. The audits will cycle through all of CRA's different revenue types over the next four years.
+Monitoring Framework Support
+–
+IAD will support F&A in the development of a monitoring framework for revenues. IAD will also share knowledge and any tools it develops as part of its cyclical audit work. The T1 Transaction Flow-through sampling methodology, for example, has been used by F&A as a model for the monitoring work they are performing in the regions.
+Appendix B
+T2 Phase 2 Corporate Income Tax – Results Summary
+T2 Source Documents:
+T2 corporate income tax return and schedules
+Taxpayer remittances (cheques etc.)
+Processing Systems:
+Corporate Taxation (CORTAX) System – used in processing an initial corporate tax assessment (and automated re-assessments of related years).
+Automated Assessments Control (AAC) System – manually assessed T2 returns are reconciled to the debit or credit returns in this system.
+Standardized Accounting (SA) System – integrated business (operational) accounting application for CRA programs including corporate tax (T2).
+Financial Input Processing (FIP) – records, validates, combines, and balances revenue payments received from taxpayers.
+Revenue Ledger (RL) – consolidated general ledger system with summary accounts organized for tracking, controlling, and reporting revenue information fed from operational ledgers.
+Rapid Information for District Offices System (RAPID) – national mainframe menu system used as a means of accessing T2 mainframe systems.
+T2 Assessing Case Management System
+(CSCOR) –
+controls and manages work-in-progress related to the T2 assessing workflow.
+Audit Methodology:
+211 T2 corporate income tax returns were selected using Business Numbers (BNs) from a listing of taxpayer information generated from the CORTAX system. The listing contained amounts assessed during the period January 2005 – January 2006 to establish the population of 2004 tax year-end (TYE) assessments from which the samples could be drawn.
+Stratified, random sampling approach was used to ensure at least 20 returns would be included per province for which the CRA administered taxes.
+Stratified, high-value sampling approach was used to select an additional 35 returns from those provinces for which the CRA administers federal taxes only (combined total of at least 20 samples were traced for these provinces in Phase 1 & Phase 2 of the T2 audit).
+Another sample of 25 incoming T2 corporate income tax returns for TYE 2004, 2005, and 2006 was selected from a tax centre mailroom to verify completeness of the input of tax information. Tax remittances submitted with seven of these returns were also photocopied for use in verifying the accuracy of the flow of payment information from source documents to the RL.
+T2 returns were traced by recording the line items from the return to an Excel spreadsheet and than comparing these to the postings in the CORTAX and SA source systems and the RL accounts.
+Audit Findings:
+No errors were identified with respect to the completeness, accuracy and appropriateness of the flow of data for the samples reviewed. Overall, no differences were detected between the tax assessments processed in the CORTAX assessing system and the SA accounting system and the client tax information that was processed and posted from both systems into RL. A listing of the RL accounts to which data was traced from the sample returns is provided at the end of the summary that follows. No discrepancies were found in the flow of payment/remittance information input through FIP into SA and into RL.
+Audit testing and Results - Summary
+RL Accounts Traced in T2 Flow Through Samples
+The Account Determination Rules (ADR) Table for CORTAX was reviewed in Phase 1 of the audit and 140 T2 RL accounts were found consisting of 22 for revenue and 118 liability. Of these, 39 accounts had balances of zero or no data available as at March 31, 2005, leaving 101 RL accounts into which taxes and credits had been posted. The combined total of sample returns for tax year 2004 that were verified in Phase 1 (112) and Phase 2 (246) resulted in the tracing of information to 58 of the 101 populated accounts (58%). These 58 accounts represented 99% of the more than $45 billion value of T2 taxes and credits recorded in RL as at March 31, 2005.
+Appendix C
+T3 Trust Income Tax – Results Summary
+T3 Source Documents:
+T3 trust income tax return and forms
+Tax remittances
+T3 summary and slips
+Processing Systems:
+Automated Trust System (ATS) – on-line processing system used for capturing, viewing, and updating identification and assessment data on T3 returns.
+Automated Assessments Control (AAC) System – reconciles revenue ledger entries to the debit or credit/refund from manually (re)assessed T3 returns and other returns.
+Automated Subsidiary Ledger (ASL) – accounting system that captures T3 assessment data from ATS and payments data from FIP.
+Financial Input Processing (FIP) – records, validates, combines and balances revenue payments received from taxpayers.
+Revenue Ledger (RL) – consolidated general ledger system with summary accounts organized for tracking, controlling and reporting revenue information fed from operational ledgers.
+Information Declaration System (INFODEC) – used to enter, validate, match, correct and process incoming reporting information including T3 Summary and T3 slip information.
+Audit Methodology:
+T3 trust income tax returns were selected from a listing of taxpayer information generated from the ATS system that contained amounts assessed during the period January 2006 – September 2006 in order to establish the population of T3 (re) assessments from ATS. Stratified, random sampling was used for the selection of 145 samples using the province field to ensure that a minimum of 5 samples was traced for each provincial, territorial, and non-resident return. Stratified, high-value sampling was used to select 20 samples to ensure coverage of high-value returns for provinces that had T3 ATS transactions greater than $10 million. An additional 10 T3 trust income tax returns were selected from a listing of taxpayer information generated from the AAC system in order to provide coverage of manually assessed T3 returns. A total of 175 T3 returns were selected for review.
+Line items from all 175 T3 returns were tracked from the return to an Excel spreadsheet and then compared to the amounts posted in the ATS and ASL source systems and also to the postings in the appropriate RL accounts. For a sub-sample of 30 T3 returns of the 175, all keypunched line items were compared to amounts posted in ATS to provide assurance on data capture.
+A separate sample of 25 T3 trust income tax returns received in the Ottawa Technology Centre (OTC) mailroom was used to verify the completeness of the flow of assessments.
+60 incoming tax remittances at the OTC were photocopied and used to verify the accuracy of the flow of payments from source documents to source systems and RL.
+Interviews were conducted with responsible areas in Taxpayer Services and Debt Management Branch (TS&DMB) and Information Technology Branch (ITB) to review processes in place to update T3 forms and source systems to reflect changes in legislation.
+A walk-through of the process of inputting T3 summaries and slips was conducted, and one T3 summary and associated slips was used to trace the flow of information.
+A review of the mapping of T3 returns information from the T3 source system ATS to the RL was conducted.
+Audit Findings:
+Overall, no errors were identified with respect to the completeness, accuracy and appropriateness of the flow of data for the samples reviewed. 110 of the 173 T3 returns for which amounts on source documents were compared to the assessed amounts in ATS had discrepancies attributed to ATS system tolerances and system calculations, assessment changes by assessors based on pre-established tax guidelines, and one data input error which was subsequently corrected by a letter from the taxpayer. Postings to ASL were consistent with assessments in ATS and/or source documents and T3 assessments were allocated to the appropriate taxpayer account in both ATS and ASL for all samples tested. 8 of the 30 returns tested for accuracy of data input had one or more line items missed for keying, however there was no impact on the flow of data to RL since the information was captured from other line items correctly keyed into ATS.
+Overall, no differences were detected between the data that was processed and posted from the ATS, AAC and ASL systems to RL. No discrepancies were found in the flow of remittance information generated by FIP through ASL and into RL.
+The review of the mapping of keyed T3 return line items and system calculated fields to RL identified some that were not accurate or had not been clearly documented. Incorrect mapping of federal/provincial/territorial or non-resident line items can have a potentially negative impact on the accuracy of CRA's financial reporting. Management took corrective action promptly when made aware of the ones that had been identified.
+Audit testing and Results – Summary
+RL Accounts Traced in T3 Flow Through Samples
+ADR Table for ATSA showed 181 T3 RL accounts. 72 accounts had balances of zero from ATS or no data available at March 31, 2006 leaving 109 populated accounts. The verification of 175 samples in this audit resulted in the tracing of values to 53 of the 109 populated accounts (49%). These accounts stored 98% of the more than $6 billion value for T3 tax and credits present in RL at March 31, 2006.
+Footnotes
+[Footnote 1]
+Cyclical Audit Plan for Administered Revenues -
+key activities are described in Appendix A
+[Footnote 2]
+Audit reports for T1 and the T2 / T4 revenue streams are posted on the CRA Web site
+[Footnote 3]
+Source: CRA Commissioner's 2006-2007 annual report to provincial and territorial governments
+Page details
+Report a problem on this page
+Date modified:
+2008-04-18

@@ -1,0 +1,59 @@
+Summary of the  Evaluation Report - Evaluation of Natural Resources Canada’s Targeted Geoscience Initiative Phase 5 (TGI-5)
+About the Program
+The objective of TGI-5 is to help industry become more effective in finding buried mineral deposits in mineral producing regions of Canada, thereby reducing risk and increasing industry competitiveness, creating jobs, sustaining communities, and generating economic growth. The Program conducts collaborative research and provides grants to academia for research as well as partnering with provinces and the mineral industry.
+Delivered by Natural Resources Canada’s (NRCan) Lands and Minerals (LMS), TGI-5 received approximately $23.2 million (M) in C-based funding for a five-year program and uses $28.9M in NRCan A-base funds. C-base funding expires March 31, 2020.
+What the evaluation found
+Relevance
+The evaluation found that the Program continues to be relevant and well aligned with NRCan’s roles, responsibilities and priorities. Industry need for public geoscience is continuing, driven by the requirement for a better understanding of mineral systems to help industry find minerals at depth. This need was supported throughout the engagement of the Canadian Minerals and Metals Plan (CMMP) released in 2019, as reflected in the strategic directions of economic competitiveness and development, and science, technology and innovation. Industry’s need for public geoscience is also evolving, in step with technology advances, such as machine learning algorithms (MLAs, sometimes referred to as Artificial Intelligence) and 3-D modelling. The need for data generation, analysis and dissemination will continue, and emerging technologies will require future public geoscience programs to keep pace with these technological advances by having modern technology infrastructure and human resources with the requisite skill sets.
+Effectiveness
+Regarding
+effectiveness
+, the evaluation concludes the Program has made good progress in the production of outputs. Key outputs include TGI-4 synthesis products, and TGI-5 open files, presentations, and journal articles. Open files consist of a wide variety of research outputs, such as surveys, research findings on specific ore bodies, and new models. From April 2015 to June 2019, the Program produced 508 outputs. Additional research outputs are anticipated for 2020 and 2021. The evaluation found evidence of some progress towards the Program’s immediate outcomes, but longer-term outcomes will take more time.
+The Program has improved communications in recent years, but has not devoted dedicated resources to the function, which should include raising the awareness of traditional and non-traditional stakeholders about TGI-related activities, programs and outputs.
+The Program’s knowledge transfer focus involved dissemination of knowledge products to target groups through active means (e.g., presentations, push emails such as RSS, etc.) and passive means (e.g., posting on websites, GEOSCAN, etc.). The Program was largely dependent on GEOSCAN, the RSS feed and the Geoscience Data Repository for Geophysical Data to disseminate its knowledge products. These approaches appear to be effective, although monitoring of reach can be improved (e.g., GEOSCAN download information is available, but not the number of RSS subscribers; no information is available from the Repository). Case studies identified that internet bandwidth and slow download speeds for large TGI-5 datasets affect access to information for external stakeholders. The Data Repository contains large datasets that require an appropriate Information Management and Information Technology infrastructure so that users can download information with ease.
+Industry’s awareness of the wider TGI-5 body of knowledge, some of which may be relevant for its own interests, is at issue. Current dissemination approaches, such as RSS feeds and GEOSCAN, may not be the most effective means to inform industry about available knowledge products. TGI-5 should have an effective engagement and information dissemination function as program success is contingent upon useful geoscience knowledge products being used by its stakeholders. This expertise should be recognized as value added.
+Efficiency
+Regarding
+efficiency
+, the evaluation found that the Program design is efficient, but there are areas for improvement.
+The TGI-5 program management structure is lean, consisting of a Program Manager supported by two Project Managers who are also Research Managers. There are three main program management bodies: the TGI-5 Management Committee, the Science Advisory Group and the Industry Advisory Group. The new approach to advisory committees helps leverage national industry organizations with existing geoscience committees and allows industry to provide aggregated feedback. Decisions are tracked and used as inputs into project design.
+Regarding budget and expenditures, the Program has been delivered as planned within normal parameters of variation. Risk management is a strength.
+The Program incurred delays during the planning phase due to a change in approach. This resulted in time delays and expended effort by TGI-5 scientists and stakeholders. Clear processes and transparency in budgeting and project selection are needed.
+Programming of research into five-year funding cycles is not always appropriate. It can create difficulties in terms of contracting Highly Qualified Personnel (HQPs), especially PhDs who require at least four years to complete their studies and to realize research results.
+The Program does not have a consolidated performance measurement framework (PMF) leading to inconsistent results’ reporting. Monitoring of gender-disaggregated and visible minorities data are also areas for improvement.
+About the Evaluation
+The evaluation covers the period from 2015-16 to September 2019. The purpose of the evaluation was to assess the relevance and performance (i.e., effectiveness, efficiency and economy) of the TGI-5 and to identify lessons learned and best practices for successor programs. Project documents were reviewed, and assessed mainly to confirm that key project information was contained in the mid-year and year-end review presentations; in-depth analysis and compilation of project information was not conducted.
+This evaluation is consistent with the requirements of the Treasury Board
+Policy on Results (2016)
+. Details on specific evaluation questions, methods and limitations can be found in the full report.
+Recommendation and Management Reponse and Action Plan
+Recommendations
+Recommendation on Future Program Structure and Needs
+The ADM, LMS assess future program demand for emerging data-related technologies (e.g., data translation, 3-D modeling, MLAs, etc.).
+Management Response
+Management agrees
+LMS will conduct an assessment of future data-related technologies and develop a plan to better utilise innovative disruptive technologies, such as AI, and 3D Visualization, and augmented-reality. The plan will consider both
+in-house and external options for cost effective delivery.
+Due date:
+June 30, 2020
+In addition, LMS will put forth a proposal which, if successful, will allow the development of a digitally-driven, public facing system that creates predictive models of Canada’s mineral resources potential for key commodities, such as critical minerals needed for the development of clean technologies. This will allow data-related technologies to inform mineral exploration and other land use decisions as well as contribute to the development and implementation of the Pan-Canadian Geoscience Strategy.
+Due date:
+December 31, 2020
+Recommendation on Stakeholder Engagement
+The ADM, LMS improve stakeholder engagement function so as to increase stakeholder awareness of, access to and use of TGI products with a specific focus on scientific knowledge aspects of the products.
+Management agrees
+LMS will develop and implement a stakeholder engagement plan designed to increase stakeholder’s awareness of, access to and use of TGI products with a specific focus on the scientific knowledge aspect of the products. LMS will align this work with the development of the Pan-Canadian Geoscience Strategy (PCGS), one of the CMMP’s pan-Canadian initiatives endorsed by Canada’s Mines Ministers at the Energy and Mines Ministers Conference (EMMC) 2019. The plan will assess and put in place the resources (human, financial or other) required to deliver successful engagement. (As part of recommendation 4). LMS will monitor and report on the success of their engagement efforts.
+Due date:
+The first monitoring and reporting on stakeholder engagement plan will be available on December 31, 2020, and on-going after this date.
+Recommendation on Information Dissemination
+The ADM, LMS and the ADM, CMSS (Corporate Management and Services Sector) engage with other GSC programs regarding complementary IM/IT strategies (e.g., for bandwidth, Geoscience database maintenance and use (e.g., licences), etc.) to ensure that target groups’ needs are taken into consideration.
+Management agrees
+LMS will develop an action plan in partnership with ADM, CMSS, to engage with other GSC programs on the development of complementary IM/IT strategies. As part of this plan, collaborative initiatives between NRCan’s LMS and CMSS sectors, and outreach to Shared Services Canada (SSC) and other federal Science and Technology other Government Departments (S&T OGDs), to optimize available IM/IT resources will be detailed.
+Due date:
+The action plan will be available on or before December 31, 2020, and will be updated on an on-going basis after this date.
+Recommendation on Performance Measurement and Reporting
+The ADM, LMS, strengthen the Program’s performance measurement framework (PMF), with a view to simplifying outcomes, obtaining better information on reach, use and usefulness of knowledge products, monitoring industry success stories stemming from TGI research, and including Gender-Based Analysis Plus (GBA+) indicators for regular monitoring.
+Management agrees
+A performance measurement plan will be developed and implemented to strengthen the Program’s PMF, by simplifying outcomes, developing better indicators for information on reach, use and usefulness of knowledge products. Monitoring of industry success stories stemming from TGI research, and development GBA+ indicators will be included. The Program’s Performance Information Profile will be updated according to this plan, and reporting through annual departmental plans and reports will occur.
+Due date:
+The first reporting on PMF will be available on March 31, 2021 and on an on-going basis after this date.

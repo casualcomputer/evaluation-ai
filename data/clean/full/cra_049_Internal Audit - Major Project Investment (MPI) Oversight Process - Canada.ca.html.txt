@@ -1,0 +1,300 @@
+Internal Audit - Major Project Investment (MPI) Oversight Process
+Final report
+Audit, Evaluation, and Risk Branch
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+1.0  Governance
+2.0  Performance Measurement, Monitoring and Reporting
+Executive Summary
+Background
+The Canada Revenue Agency (CRA) has an annual operating budget of more than $4 billion. It undertakes many Major Project Investments (MPI) in the course of carrying out its mandate, accounting for approximately 3.2% of Agency budget in 2014-2015
+Footnote
+1
+. Project investments are focused on addressing the Agency’s strategic priorities as identified annually in the Corporate Business Plan
+Footnote
+2
+as well as responding to Government of Canada priorities. The
+Canada Revenue Agency Act
+confers authority for project management on the CRA directly, and thus requires the establishment of strong internal governance and oversight structures to manage these investments.
+Branches and regions are invited to submit proposals for MPIs on an annual basis. The Resource Management Directorate (RMD) of the Finance and Administration Branch works with branches and regions at all levels to prioritize MPIs using a priority ranking model approved by the Agency Management Committee which includes Government of Canada priorities. The resulting Strategic Investment Plan (SIP) identifies MPIs over a rolling ten-year period, and is reviewed and updated annually to ensure that investment decisions stay aligned with changing Agency and Government of Canada priorities.
+The Finance Committee (FC) also provides oversight to MPIs by the means of a project gating process where reporting is required at key decision points. Initiatives with projected costs of over $20 million also require oversight from the Board of Management.
+Objective
+The objective of the audit is to provide reasonable assurance to CRA senior management that appropriate controls are in place and are working as intended within FC processes for MPIs and that the SIP is in alignment with Agency objectives.
+Conclusion
+Overall, internal controls currently in place support and facilitate Agency strategic investment planning, the project gating structure provides FC with the information needed for project management oversight and there is a strong approval process in place for changes to required project funding. However, certain opportunities exist to improve the process by:
+leveraging enterprise architecture to direct the focus of investment priorities from an Agency-wide perspective to facilitate the identification of individual branch or enterprise proposals;
+reviewing guidelines on the content of project documents and the use of project briefs as a way to reduce administrative burden;
+facilitating the development of and access to qualified project management resources;
+strengthening benefit management; and,
+clarifying existing FC protocols with regards to the funding ceiling.
+Action Plan
+RMD agrees with the findings and recommendations in this audit, which represent a point in time perspective of when the audit was conducted. RMD has reported that plans are in place, and progress has been made to respond to all of the recommendations. These plans include:
+further utilizing existing tools such as governance committees, IT Architecture, and investment portfolio clustering to increase horizontal integration;
+increasing emphasis on making project management training and tools more accessible and visible for all Agency areas;
+formalizing existing and examining new mechanisms that may exist to reduce the administrative burden that surrounds the current process;
+introducing a benefit management process that makes use of benefit mapping and covers the entire project lifecycle; and,
+reviewing its definition and application of the funding ceiling.
+Introduction
+Effective investment planning and project management are essential in providing value for money and sound stewardship in program delivery
+Footnote
+3
+. According to PricewaterhouseCoopers, 97 percent of organizations believe project management is critical to business performance and organizational success
+Footnote
+4
+. Unfortunately, while high-performing organizations successfully complete 89% of their projects, low performers only complete 36%
+Footnote
+5
+.
+The Canada Revenue Agency (CRA), with more than 40,000 employees and an annual operating budget of more than $4 billion, undertakes many Major Project Investments (MPIs) in the course of carrying out its mandate. MPIs accounted for approximately 3.2% of Agency budget in 2014-2015
+Footnote
+6
+. Project investments are focused on addressing the Agency’s strategic priorities as identified annually in the Corporate Business Plan
+Footnote
+7
+as well as responding to Government of Canada priorities. The
+Canada Revenue Agency Act
+confers authority for project management on the CRA directly, and thus requires the establishment of strong internal governance and oversight structures to manage these investments.
+The CRA prioritizes and plans MPIs through the Strategic Investment Plan (SIP) process. Branches and regions are invited annually to submit proposals for investment projects that support the Agency's strategic agenda for the upcoming 10 years. Proposals are ranked according to a priority ranking model approved by the Agency Management Committee (AMC). A portfolio of projects is established taking into account, among other factors, project ranking and Government of Canada priorities. The status and nature of the current portfolio is also examined to help determine the optimal mix and sequencing of proposed projects to manage risks while achieving corporate objectives. The resulting SIP identifies MPIs over a rolling ten-year period and is reviewed and updated annually to ensure that investment decisions stay aligned with changing Agency and Government of Canada priorities.
+The CRA Finance Committee (FC), a senior management committee chaired by the Chief Financial Officer, provides oversight for MPIs, which are formally defined as projects
+Footnote
+8
+:
+with spending in excess of $1 million in any one fiscal year, regardless of the source of funding;
+that pose a significant risk to Agency operations or assets;
+for which that level of oversight is deemed necessary by the AMC, including Treasury Board funded initiatives; or,
+which make a request for incremental funding from the Agency's Strategic Investment Reserve.
+The FC, which is composed of representatives from all branches and regions, meets regularly to oversee the progress of MPIs and ensure that projects are managed effectively to maximize benefits to the CRA. There are typically two extended meetings during the year to provide an update on the Resource Management Strategy. It is during these meetings that senior management considers the Agency’s financial position and projected flexibilities, and makes decisions on the management of funds for both the Operating Reserve and the Strategic Investment Reserve.
+The Strategic Investment Planning and Oversight Division (SIPOD) of the Resource Management Directorate (RMD) in the Finance and Administration Branch provides support and secretariat services to the FC. It also provides guidance to project management teams in the preparation of project reports and performs a challenge role to ensure that information reported is sufficient and reliable for decision making. The FC reporting process includes gates
+Footnote
+9
+, or decision points, requiring the submission of template reports at the end of six project stages:
+Business problem/opportunity definition;
+Options analysis;
+Detailed planning;
+Execution;
+Close-out; and,
+Benefits realization.
+Projects with longer timelines are also required to produce progress reports annually. The FC makes recommendations to AMC for approval regarding portfolio composition and project reports at the various decision gates. Initiatives with a projected cumulative cost of over $20 million also require oversight from the Board of Management.
+In 2015-2016, the CRA was planning to spend $123 million on 33 FC projects
+Footnote
+10
+. Four of these projects (Benefits System Renewal, Collection Limitation Period, Compliance Systems Redesign and T1 Systems Redesign) were also being overseen by the Board of Management.
+Focus of the Audit
+The objective of this audit was to provide reasonable assurance to CRA senior management that appropriate controls are in place and are working as intended within FC processes for MPIs and that the SIP is in alignment with Agency objectives.
+The examination phase of the audit took place from July 2015 to December 2015 and was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Findings, Recommendations, and Action Plans
+1.0 Governance
+The objective of the first line of enquiry is to determine whether:
+1.1 Strategic investment planning reflects Agency priorities, and appropriate controls are in place to ensure project proposals (or submissions) are analyzed and aligned horizontally prior to approval;
+1.2 Reporting requirements and procedures are appropriate to ensure efficient and effective oversight of project delivery in the MPI process;
+1.3 Project management organizational models and practices are aligned with Agency policies, and best practices are identified and shared appropriately within the Agency; and
+1.4 Opportunities for internal red tape reduction are considered.
+1.1 Strategic Investment Planning
+Effective investment planning should ensure that resource allocation takes place in a diligent and rational manner while supporting departmental and government-wide priorities and taking into consideration areas of highest risk
+Footnote
+11
+.
+The SIP process is initiated through a call letter sent to Agency branches and regions requesting the identification of potential MPIs. Project sponsors are required to provide information regarding the project’s alignment with Agency strategy, its potential to mitigate risks identified in the Agency’s Corporate Risk Profile, and whether the proposal will impact other business lines. Government of Canada priorities are also examined and linkages are made to review alignment.
+The proposed projects are then evaluated using a priority ranking model that uses criteria such as support for Government of Canada priorities, risk, client service, horizontality (internal and external) and efficiencies. Evaluation scores are taken into consideration when determining the Agency portfolio. Other factors that are considered include cost, organizational project management capacity, architecture and composition of the current portfolio.
+Overall, controls over the strategic investment planning function were found to be strong. However, an opportunity may exist to gain efficiency with the project submission process.
+A corporate stakeholder group reviews all project proposals in order to identify potential alignment issues, and provides additional information and perspective to project sponsors. It consists of representatives from the:
+Strategic Policy, Agency Strategy and Reporting, and Information Management Divisions of the Strategy and Integration Branch;
+Enterprise Risk Management Division of the Audit, Evaluation and Risk Branch; and,
+IT Architecture, Application Sustainability Programs and External Service Management Division of ITB.
+While this was found to be a good practice, opportunities may exist to gain efficiency by providing increased strategic direction to potential project sponsor branches prior to the preparation of individual proposals. Currently, Agency governance aligns accountabilities primarily with the functional business model, resulting in branch-focused business planning. Efforts are made within some branches to identify alignment with Agency priorities but there is currently no enterprise architecture
+Footnote
+12
+function at the Agency level. An enterprise architecture function that would review potential projects for alignment prior to the development of project submissions for the SIP may reduce duplication and lead to some efficiencies.
+The success of an enterprise architecture function would be dependent on utilizing business analysts that are aware of Agency business functions and needs in order to identify opportunities for high level SIP alignment. Stakeholder feedback indicated that concerns arose from project teams lacking a high level of business understanding and abilities to adequately develop business requirements.
+Recommendation:
+RMD, with FC’s support, should explore options for strengthening the horizontal integration of SIP submissions through the use of an architecture function early in the submission process.
+Management Response and Action Plan:
+RMD supports this recommendation.
+Over the last few years RMD has taken steps to improve horizontal integration of MPI proposals. IT Architectural Assessments were introduced for certain 2013 and 2014 proposals, based on the recommendations of the corporate stakeholder group. The results of these assessments have improved the horizontal integration of submissions in each subsequent year.
+More recently, in the 2015 SIP, the clustering of proposals by investment domain was introduced to better identify linkages and dependencies. In addition, consultation with new and existing governance, such as the CASE Steering Committee and the Business Intelligence DG Steering Committee, has been increased to help identify any overlap or duplication, encourage early integration for current and planned projects, and to help with the prioritization of projects during the SIP process. In fact, specific recommendations were approved by AMC in June 2015 for proposals in two investment domains to be further prioritized by existing or new governance, thereby leading to the creation of the e-interactions programme of projects.
+RMD will continue to use these tools and to encourage horizontal and strategic consultations to take place wherever an opportunity can be identified. For example, during the 2016-17 SIP process, in the first and second quarters of 2016-17, RMD will:
+further develop the concept of clustering by investment domain; and,
+leverage the e-Interactions governance, and advance the structure of the e-Interactions programme to be approved by the Finance Committee.
+1.2 Project Delivery Oversight
+The project gating structure was found to be an efficient and appropriate control for providing the FC with the required information for effective oversight of MPIs. Governance factors found to be working well include:
+the use of risk management within the gating process;
+appropriate communication protocols and tools for stakeholder consultations;
+flexibility within the MPI reporting process to incorporate project and timeline changes; and,
+reporting requirements for multi-phase projects that avoid duplication.
+1.3 Project Management
+Project management at the Agency is supported by the Project Management Policy and the Project Management Directive. RMD provides guidance on project management and recognizes the importance of having a dedicated project management staff for successful project delivery. The establishment of Project Management Offices (PMO) is considered a best practice to help project teams with documentation and the establishment of project requirements, and as a way to maintain and share project management expertise. Smaller branches are encountering difficulties accessing project management resources. The absence of a formal project management education path or training within the Agency also contributes to this issue.
+A recurring issue that was identified is the lack of quality business requirements provided by project sponsors. Providing quality business requirements would benefit several aspects of the process such as preparing accurate projections, establishing the right scope, and properly defining expected benefits.
+Recommendation:
+RMD, with FC’s support, should explore ways of increasing the effectiveness of project management, including supporting common project management training tools, and facilitating access to project management resources and expertise for branches that do not benefit from a PMO.
+Management Response and Action Plan:
+RMD supports this recommendation.
+In recent years, RMD has undertaken research on project management as requested by FC, leading to presentations on Project Management qualifications and PMO size. A lessons-learned repository was also created, which is accessible via the intranet and is available to all project teams as a learning tool. As well, the use of Independent Third Party Reviews on projects as an assessment and learning tool has been fully integrated into the MPI Oversight process. In addition, RMD has enhanced its ability to support effective project management with the certification of RMD analysts in project, programme, portfolio, and benefit management, which began in 2013-14 and is continuing.
+In 2015-16, RMD began working to create a project management community of practice within the Agency. While the internal audit was underway, RMD hosted a day-long project management symposium, with over 130 CRA project management practitioners in attendance. The Project Management Institute has also been engaged to speak directly to the FC, and RMD has been participating in government-wide groups such as the Investment Planning and Project Management Community of Practice, established by the Treasury Board Secretariat’s Chief Information Officer Branch.  Furthermore, and arising directly from the Project Management Symposium, in 2015-16, RMD, in collaboration with representatives from branches, began exploring the development of key elements in support of a Project Manager talent plan to support a PM career path.
+RMD will continue to support the Project Management discipline within the Agency. For example, by the end of the last quarter of 2016-17, RMD will:
+further explore options, which will be presented to FC, for the development of Project Managers within the Agency;
+undertake targeted project management learning events in lieu of the full-day symposium; and,
+improve the lessons-learned repository, including adding the ability to capture lessons learned from the increased emphasis on benefit management.
+1.4 Reduction of Administrative Burden
+Mandatory Information
+The FC reporting process requires the submission of project reports using templates to ensure that key information is presented including:
+whether the problem or opportunity being addressed is quantifiable, when applicable;
+how the expected outcomes and benefits will be measured;
+the time and resources necessary to develop and implement the project;
+the overall capacity of the project team to deliver expected outcomes; and,
+whether the original objectives were met within the approved schedule and budget.
+A review of project gating reports presented to the FC in the last three fiscal years found some inconsistencies in the types and precision of information reported, including information regarding project benefits and costing projections. The prescribed use of templates is meant to minimize those inconsistencies. However, RMD would often apply their judgement and accept reports that do not contain all the recommended information when it was deemed to not affect the quality of FC oversight. This is in effect reducing administrative burden. However, the criteria used to allow certain projects to move forward without prescribed information, likely based on cost and risk, is not defined.
+A recurring theme from interviews with RMD and project sponsors was the labour-intensive process of preparing reports for the FC. If there are sections from the templates that do not provide information essential for FC decision-making, removing those sections or clarifying the circumstances under which they must be completed may alleviate the reporting process and lead to efficiencies.
+Although project sponsors made mention of the labour intensive process of preparing these reports they also felt that this was necessary for effective oversight and to minimize risk in the use of Agency resources.
+The possibility of amending the current threshold of $1 million to exclude smaller, lower risk projects was examined with the aim to decrease the burden on project sponsors. However, no instances were found where this would have been beneficial. In addition, a Targeted Review Study done in 2012 by RMD determined that increasing the threshold for FC monitoring was not advisable because it would weaken FC oversight. Granting authority to the Branches to initiate and manage major projects without being integrated to the SIP would increase the likelihood that single-branch solutions be pursued, thereby increasing overall maintenance costs and posing a risk to the Agency architecture.
+Project Briefs
+The project brief includes all of the information that would have normally been included in the previous steps for the process, such as:
+Business problem/opportunity definition
+Options analysis
+Detailed planning reports
+Project briefs reduce administrative burden (red tape) as a project needs to appear less frequently to FC before moving on to the execution stage. The use of project briefs is usually restricted to small and low risk projects but guidelines on its use are not currently included in the FC protocol. Developing guidelines outlining when the use of a project brief is appropriate would help ensure project sponsors avail of this opportunity to reduce burden when feasible.
+Recommendations:
+RMD should review its guidance to establish and document criteria that will be applied to determine:
+what projects are subject to reduced reporting needs; and,
+circumstances in which project briefs can be used to reduce burden.
+Management Response and Action Plan:
+RMD supports this recommendation.
+In keeping with best practices, RMD has tailored the MPI oversight process in an effort to reduce burden and expedite the process where appropriate. Originally, Project Briefs were introduced to expedite projects where the opportunity and options were already well-defined and part of a formal budget reduction exercise. Since then, their use has been expanded. Currently, projects may present a Project Brief, where some gates and the associated reports are combined, based on their unique nature, advanced stage, risk profile, and/or timing, where it can be demonstrated that the requirements of these gates have been met.
+RMD will continue to tailor the MPI oversight process in an effort to reduce burden and expedite the process where appropriate.  In addition, by the end of the last quarter of 2016-17, RMD will:
+document the purpose of the Project Briefs in its protocol;
+continue to explore the use of programmes to simplify and streamline the oversight process where applicable, with the establishment of the e-Interactions Programme to be approved by FC; and,
+continue to streamline and simplify the MPI Oversight process where applicable.
+2.0 Performance Measurement, Monitoring and Reporting
+The objective of the second line of enquiry is to determine whether:
+2.1 controls are in place and working as intended to ensure projects subject to FC oversight follow established reporting procedures throughout the portfolio management process;
+2.2 benefit measurement guidance is in place and followed so as to provide appropriate information to Agency senior management; and,
+2.3 project costing and project budget utilization are monitored and reported on in accordance with Agency policies and procedures.
+2.1 Use of Established Reporting Procedures
+Discussed in section 1.4.
+2.2 Project Benefit Measurement
+Quantifiable benefits are defined in the detailed planning stage through the means of a Benefits Measurement Plan (BMP). Depending on the nature of the expected benefits, they may be reported in the project close-out report or; if benefits do not materialize for one to two years, they may be reported using the benefits realization report. Although benefits realization is the last step in the gating process, benefits measurement is an integral component of reporting throughout the execution stage.
+A sample of BMPs and benefits realization reports was reviewed. In five out of six cases, some benefits that would have occurred outside the sponsoring branch were not identified and analyzed. Interviewees commented on the hesitation of sponsoring branches to commit to benefits occurring in other branches of the Agency; especially in the case where cost savings and efficiencies may lead to a possible budget reduction for other branches. However, it is important that benefits be identified and analyzed at the Agency level to ensure the FC is presented with a complete picture.
+In addition, project benefits were not always clearly defined and lacked quantitative targets. For example, the stated objectives for one of the projects were to “improve take-up rates for CRA e-services” and “reduce the number of correspondence required to be printed and mailed.” Overall, seven out of nine projects reviewed for the inclusion of quantitative targets referred to benefits in terms of improving processes with no information on the magnitude of the change expected. Of three projects that had financial targets, two had objectives such as “cost reallocation” and “efficiency gains.”
+An examination of project documentation demonstrates that detailed analysis sometimes took place to identify specific measurable benefits; however, the decision was made not to make a commitment in the Benefits Measurement Plan. Information obtained from interviews indicates that this reluctance may be due to the fear that targets will not be met. This hesitation to commit to specific targets makes it more difficult to evaluate the expected benefits of implementing a project in the detailed planning stage and renders the evaluation of realized benefits in the benefit realization stage more difficult as well.
+The reporting on benefits contained in progress reports and the benefit realization reports was also found to not always be consistent and not clearly aligned with the BMP. Changes in the presentation of benefit information and the inclusion of new benefits without reference to the BMP made it difficult to track the evolution of benefits.
+Recommendation:
+RMD should work with project sponsors to ensure specific quantitative objectives are defined in the BMP and that this document is used as the base for subsequent reporting. RMD should also work with project sponsors to ensure that benefits are identified, analyzed, measured and reported at the Agency level when applicable.
+Management Response and Action Plan:
+RMD supports this recommendation.
+In the past, the Agency has had a lack of dedicated benefit management expertise for FC projects. In 2014, RMD began to include Benefit Management practitioner certification as part of its training. To date, the director of RMD, one manager and three analysts have been certified. This enabled RMD to create a benefit management centre of expertise in 2015-16, and as a result RMD has recently (January 2016) taken over the permanent oversight of benefit measurement planning from the Program Evaluation Division (AERB), which had been supporting RMD in this area since 2009.
+Since taking over the dedicated responsibility, RMD has implemented a plan to increase the emphasis on benefit management (rather than measurement) within the FC portfolio as an ongoing activity throughout the lifecycle of the project. A key component is the introduction of benefit mapping. Benefits maps will be developed for all FC monitored projects, either as part of this year’s SIP process or as existing projects proceed to FC for their next reports.
+RMD will continue to pursue its plan to increase the emphasis on benefit management. For example, by the end of the fourth quarter of 2016-17, RMD will:
+update all FC report templates, and the Benefit Management Guide to reflect the changes noted above; and,
+continue to engage with external experts, such as the Project Management Institute, with other departments doing similar work, and with the GOC Investment Planning and Project Management Community of Practice.
+2.3 Project Costing
+The Treasury Board of Canada Secretariat (TBS) stresses the importance of having high-quality cost information to support decision making and performance monitoring
+Footnote
+13
+. Having a range of acceptable costing ranges contributes to the effective management of resources.
+Costing is an integral part of the evaluation of project proposals and provides the baseline information that links resources to results. It is an area of risk, as one in six IT projects has an average cost overrun of 200% and a schedule overrun of 70% according to a Harvard Business Review study
+Footnote
+14
+.
+The FC protocol and reference materials
+Footnote
+15
+detail the various procedures for project costing, such as the reporting requirements for increases or decreases from initial costing projections in gating documents which will be reviewed and approved by FC. There was evidence of a strong costing approval process where appropriate authority levels are being utilized along with a clear trail detailing the rationale as to why project costs had increased or decreased. It was found that FC reviews costing at various stages and ensures that changes in cost are accompanied by reasoning and rationale.
+A sample of costing submissions which included a mix of completed and current projects with total actual/projected cost of close to $200M was examined. As part of the FC process, an estimate of the amount to be spent during the next stage is provided at each FC gate. This estimate is required to be at within a 15% level of certainty. For all the projects in the sample, the combined variance between the estimated and actual/projected cost was $21.9M million or 14% of which $24M can be attributed to one project. In each case a justification for changes in budget has been provided such as delays caused by an external stakeholder, underdeveloped business requirements, or unexpected complexities, and the revised budgets were approved by the FC.
+Overall, there is an opportunity to improve the certainty of projected costing estimates in the preparation of FC reports. However, costing weaknesses can sometimes be the product of factors outside of the CRA’s control such as delays from external stakeholders, or would be partially addressed by increased effectiveness of project management, an issue discussed earlier in this report.
+FC protocols also mandate the establishment of a funding ceiling which is defined as the maximum expenditures that will be devoted to a project. Criteria for establishing this ceiling are the projected value of the benefits of the project to the Agency and the affordability of the project. In the review of a sample of nine projects, costs exceeded the funding ceiling in five cases, and this was initially understood to be a failure in the control. After further analysis it was found that the current definition of the funding ceiling has led to several different interpretations by various stakeholders. Although the presence of a funding ceiling is potentially a good control, there is an opportunity for its definition to be clarified so that it can be applied consistently.
+Recommendation:
+RMD should examine the current definition of the funding ceiling and determine whether to update the definition or remove it from the protocol.
+Management Response and Action Plan:
+RMD supports this recommendation, and will, by the end of the fourth quarter of 2016-17, review and clarify the intent and description of the funding ceiling in the FC protocol.
+Conclusion
+Overall, internal controls currently in place support and facilitate Agency strategic investment planning, the project gating structure provides FC with the information needed for project management oversight and there is a strong approval process in place for changes to required project funding. However, certain opportunities exist to improve the process by:
+leveraging enterprise architecture to direct the focus of investment priorities from an Agency-wide perspective to facilitate the identification of individual branch or enterprise proposals;
+reviewing guidelines on the content of project documents and the use of project briefs as a way to reduce red tape;
+facilitating the development of and access to qualified project management resources;
+strengthening benefit management; and,
+clarifying existing FC protocols with regards to the funding ceiling.
+Footnotes
+Footnote 1
+Overview of Current Investment Portfolio – April 7, 2015 FC Meeting
+Return to footnote
+1
+Referrer
+Footnote 2
+The Agency’s strategic priorities as identified in the Summary of the Corporate Business Plan 2015-2016 to 2017-2018 are service, compliance, integrity and security, innovation, and people.
+Return to footnote
+2
+Referrer
+Footnote 3
+Treasury Board of Canada Secretariat, Policy on Investment Planning – Assets and Acquired Services (2009), Policy on the Management of Projects (2009).
+Return to footnote
+3
+Referrer
+Footnote 4
+PricewaterhouseCoopers. Insights and Trends: Current Portfolio, Programme and Project Management Practices, 2012.
+Return to footnote
+4
+Referrer
+Footnote 5
+Project Management Institute. The High Cost of Low Performance, February 2014.
+Return to footnote
+5
+Referrer
+Footnote 6
+Overview of Current Investment Portfolio – April 7, 2015 FC Meeting
+Return to footnote
+6
+Referrer
+Footnote 7
+The Agency’s strategic priorities as identified in the Summary of the Corporate Business Plan 2015-2016 to 2017-2018 are service, compliance, integrity and security, innovation, and people.
+Return to footnote
+7
+Referrer
+Footnote 8
+Protocol for the Finance Committee, InfoZone, 2015-05-07. Accessed 2015-06-30.
+Return to footnote
+8
+Referrer
+Footnote 9
+A project gate is a key decision and control point that occurs before the next major milestone or a new project phase begins.
+Return to footnote
+9
+Referrer
+Footnote 10
+Overview of Current Investment Portfolio - June 22, 2015 FC Meeting.
+Return to footnote
+10
+Referrer
+Footnote 11
+Treasury Board of Canada Secretariat, Policy on Investment Planning – Assets and Acquired Services (2009).
+Return to footnote
+11
+Referrer
+Footnote 12
+Enterprise architecture (EA) is a discipline for proactively and holistically leading enterprise responses to disruptive forces by identifying and analyzing the execution of change toward desired business vision and outcomes. Gartner IT Glossary.
+http://www.gartner.com/it-glossary/enterprise-architecture-ea/
+, accessed 2016-03-21.
+Return to footnote
+12
+Referrer
+Footnote 13
+Treasury Board of Canada Secretariat, Guideline on Costing.
+Return to footnote
+13
+Referrer
+Footnote 14
+Harvard Business Review. Why Your IT Project May be Riskier than you Think. September 2011.
+Return to footnote
+14
+Referrer
+Footnote 15
+Finance Committee (FC): Protocol, Reporting Templates and Reference Material, http://infozone/english/r2831272/fab-dgfa/rmd-dgr/fc-cf/index-e.asp
+Return to footnote
+15
+Referrer
+Page details
+Report a problem on this page
+Date modified:
+2016-07-07

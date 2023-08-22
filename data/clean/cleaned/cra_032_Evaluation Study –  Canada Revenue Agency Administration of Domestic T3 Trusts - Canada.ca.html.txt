@@ -1,0 +1,165 @@
+Executive summary
+The Income Tax Act treats all trusts as individuals for tax purposes and has imposed limited requirements in recognition that trusts have historically been used to protect assets of an individual once they are deceased and ensure that beneficiaries receive the benefit. Similarly, CRA administrative policies related to trusts also set limited reporting requirements on all trusts regardless of their use.
+Trusts have evolved to increasingly be used in business and investment generating activities. Average annual net business income reported by trusts between 1993-1998 increased 3400% when compared to the 2010-2015 annual averages, but no information is required to be reported by the trust to support the source of that income. In particular, Mutual Fund Trusts have increased in use over the past two decades, and account for the vast majority of income reported and allocations made by trusts.
+Current CRA measures and understanding of trusts have not evolved with the change in the industry. This is because the legislated reporting requirements of trusts have been minimal given their historical use. PROTECTED.
+PROTECTED.
+The 2018 Federal Budget dedicated funds to modernize the CRA’s trust-related information technology infrastructure and introduced enhanced filing and reporting requirements for trusts. The changes require most trusts to file annually and provide identifier information for all parties, PROTECTED.
+Pockets of expertise on the trust business line exist in the CRA; however, program areas that do not have regular exposure to trusts face informational and capacity challenges when dealing with the business line, and no formal mechanisms exist to connect the two groups. Currently, the informal governance structure has separated front-line officials from those with expertise in the business line, and this has impacted external stakeholders’ confidence in the sources provided to them by the CRA to help guide them through their tax obligations. With over 20 programs across the CRA contributing to the administration of the Trust business line, there is an opportunity to leverage existing expertise to further strengthen CRA capacity through improved coordination.
+Summary of recommendations
+The recommendations aim to first, improve the CRA’s ability to verify trust and beneficiary related reporting and second, to strengthen CRA capacity and coordination across areas administering the trust business line.
+Recommendation 1
+The CRA should develop and implement an integrated and horizontal strategy to address gaps in its administration of trusts that would consider the following elements:
+Policies that provide for the information gathered on Trusts and their main parties (i.e. settlor, trustee, beneficiaries).
+The information technology system requirements and human resource capacity to support all administrative and compliance functions.
+The interventions that target various trust types and the related amounts reported by their main parties.
+Recommendation 2
+The CRA should adopt performance measures which would be jointly held across functions and reflect the related amounts flowed through the various parties of the trust.
+Recommendation 3
+The CRA should develop and implement a coordinated, cross-program plan to recognize, resource, and further develop the trust knowledge-base and expertise within the areas that administer the business line.
+Management response
+The CRA agrees with the recommendations in this report and will develop a detailed action plan through the establishment of a holistic tax compliance strategy. The Audit, Evaluation, and Risk Branch will review the strategy and action plan to determine the extent they appear reasonable to address the recommendations.
+1. Introduction
+This evaluation was first included in the Board of Management approved Risk-Based Audit and Evaluation Plan 2015-2018. The Evaluation Framework was approved by the Management Audit and Evaluation Committee on February 9, 2016. Execution of the evaluation study began in November 2016. This report summarizes the findings related to the evaluation issues and research questions identified in the Evaluation Framework (Appendix A).
+The purpose of this engagement is to provide the Commissioner, Canada Revenue Agency (CRA) management, and the Board of Management with information on the outcomes achieved and the effectiveness of CRA’s administration of the T3 trust business line.
+2. Background
+The CRA is responsible for administering hundreds of billions of dollars in taxes annually. The tax revenue it collects is used by federal, provincial, and territorial governments to fund the programs and services that contribute to the quality of life of Canadians. The CRA seeks to protect the integrity of Canada's voluntary compliance system by identifying non-compliance and pursuing individuals, corporations or trusts that do not comply despite a legal obligation to do so.
+The Assessment, Benefit, and Service Branch, Legislative Policy and Regulatory Affairs Branch, Domestic Compliance Programs Branch, and International, Large Business and Investigations Branch are key areas involved in administering the trust business line for the CRA (Appendix B).
+A trust is a legal relationship between three main parties, a “settlor” who transfers assets to a “trustee”, who then manages the assets on behalf of the “beneficiary”. The trust allows the settlor to separate themselves legally and beneficially from the ownership and management of the assets.
+For most trusts, the settlor sets the conditions of how, when, and to whom the assets are, or may be, allocated within a trust agreement. Control over the trust assets is assigned by the settlor to the person(s) known as the trustee(s). The trustee is able to make financial transactions and must manage the trust assets according to the terms and conditions set out in the trust agreement. The beneficiary (individual, corporation, or other trusts) is the intended recipient of the benefits of the assets held within the trust. The terms of these trust agreements govern most transactional matters between the parties.
+A trust is either a testamentary trust or an inter vivos trust:
+Testamentary trusts are generally created on and as a consequence of the death of an individual. The terms of the trust are established by the will or by court order in relation to the deceased’s estate under provincial or territorial law.
+ Inter vivos trusts are typically established by a settlor while they are still living and do not end upon their death. There are many types of trusts that fall under this category.
+Inter vivos trusts can be further classified as Unit Trusts, of which Mutual Fund Trusts account for the majority of reported amounts. Mutual Fund Trusts are unique in that, as commercial trusts, parties become beneficiaries by purchasing their interest in the trust, rather than being selected by the settlor or trustees. Unit Trusts constitute a significant portion of the growth in amounts reported by trusts.
+The Income Tax Act treats trusts as individuals for tax purposes and, as of 2016, almost all trusts have been taxed at the highest marginal Federal tax rate for amounts held within the trust. Trusts can reduce the amounts they are taxed on through expenses, deductions and allocations to beneficiaries (Figure 1).
+Figure 1: Taxation of trusts
+3. Evaluation methodologies
+This evaluation study covers the period from 1993 to 2017. The evaluation used the following methodologies:
+Point in-time and trend analysis of trust production data ranging from the years 1993 to 2015. CRA systems include the Automated Trust System, Audit Information Management System, and Information Declaration System.
+Document and file reviews related to T3 trust activities including legislation, frameworks, guides, policies, procedures, roles and responsibilities, audit reports and quality assurance reports.
+Benchmarking with the United States of America’s Internal Revenue Service.
+Internal auditor survey with 305 respondents conducted during the summer 2017 and interviews with CRA staff responsible for or impacted by T3 trust returns from 8 programs and 5 regions. Approximately 110 officials represented the Assessment, Benefit, and Service, Legislative Policy and Regulatory Affairs, Domestic Compliance Programs, International, Large Business and Investigations, Strategy and Integration, Legal Services, Collections and Verifications, and Appeals Branches.
+External survey with 80 respondents conducted during the fall 2017 and interviews with members and representatives of the Society of Trust and Estate Practitioners.
+4.1.1 Trusts have become increasingly complex and involved in substantially higher value transactions
+The trust industry has evolved substantially over the last two decades from a primarily asset protection mechanism to an income generating one. Several indicators document this trend.
+Increase in the use of trusts as a flow-through entity
+The rise in inter vivos trusts is evidence of trusts being established to take advantage of the flow-through nature of the tool. Historically, trusts were established under common law as a means of ensuring that beneficiaries receive benefit from certain property, primarily through the use of testamentary trusts which protect assets of an individual once they are deceased. By contrast, inter vivos trusts act as a flow-through entity that allows for income generated by property to be split and allocated to multiple beneficiaries to the trust. For instance, between 1993 and 2015:
+Inter vivos trusts represented 27% of trusts filers at the beginning of this period compared to 57% at the end; and,
+the average allocations to beneficiaries increased by almost 270%.
+Increase in income relative to taxes payable
+Trusts have increasingly been involved in income generating businesses and investment activities. For example, when comparing the annual average reported amounts between the five-year periods of 1993-1998 and 2010-2015:
+the average net business income in a trust increased by nearly 3400% ($72 million to $2.5 billion); and,
+average proceeds of dispositions reported by trusts also increased by nearly 475% ($162.4 billion to $930.4 billion).
+Together, these indicate substantial increases in investment and explain why reported capital gains increased by 164% ($11.1 billion to $29.3 billion) during the period. Because of the flow-through nature of trusts and the fact that most trusts are taxed at the highest marginal tax rate, it is expected that the increased income and capital gains realized by trusts should be reflected in the tax returns of their beneficiaries rather than being subject to tax in the trusts.
+Increase in trust involvement with business and investment activities
+Trusts apply deductions and credits to further reduce their taxes payable. Data analysis found that between 2010 and 2015:
+average annual total income reported reached approximately $105.9 billion;
+taxes payable amounts averaged $3.9 billion annually; and,
+when removing credits and deductions, that amount reduced to an average of $0.93 billion annually.
+While the majority of amounts related to trusts need to be tracked in other business lines, the CRA has focused on tracking payment compliance of the amounts specifically owed by trusts.
+Mutual Fund Trusts are investment tools defined as trusts and account for the majority of the changes illustrated in the three points above. Mutual Fund Trusts account for only 1% to 2% of all trust filers, yet report:
+69% of total income from all trusts
+76% of total capital gains
+63% of total allocations from trusts
+In 2015, Mutual Fund Trusts also accounted for 82% of all T3 slips, a 51% increase from 2010. A significant portion of the credits and deductions that decrease the taxes payable comes as a result of the capital gains refund mechanism available to Mutual Fund Trusts (approximately $4 billion in federal taxes were deducted using this mechanism in 2015 alone).
+4.1.2 PROTECTED
+PROTECTED
+4.2.1 PROTECTED
+PROTECTED
+4.2.2 Several measures suggest T3 trust reporting compliance is improving
+One potential indication of improving reporting compliance is the increasing number of audits that result in no adjustments to the taxes paid by the trust. While approximately 75% of trust audits resulted in a tax change in 2007 to 2008 this figure has trended downward, to 58% in 2015 to 2016.
+Other than reliance on audit results, there are alternative ways insight can be gained with respect to trust reporting non-compliance. For example, the total taxable capital gains reported on line 23 of Schedule 1 is supposed to correspond with the amount on line 1 of the T3 Return. Results show that on average, 84% of the amounts claimed on line 1 of the T3 return is supported by total taxable capital gains reported in schedule 1.
+Other proxy indicators suggest trust reporting compliance is high. Over the period 2010 to 2015, 95% or more of trusts have reported using:
+A schedule 8, carrying charges and interest expenses, to support these expenses which work to decrease the taxable income of the trust. These amounts aligned with allocations reported on the T3 return 99% of the time.
+A schedule 9, Income Allocations and Designations to Beneficiaries, to support the total amount of allocations they reported on the T3 trust return. These amounts aligned with allocations reported on the T3 return 100% of the time.
+A schedule 11 federal taxes payable in their T3 return. Approximately 99% of trusts reporting federal taxes payable are supported by this schedule.
+4.2.3 The vast majority of trusts are payment compliant and where non-compliance exists it can often be traced to factors outside of the CRA’s control
+Between 2010 and 2015, taxes payable from trusts were, on average, $3.9 billion. Trust payments after adjustments have increased by nearly 55%, from $830 million in 2010 to $1.3 billion by 2015. Interviews with CRA officials identified two issues that contribute to payment outcomes within the trust business line.
+Firstly, according to the Income Tax Act, some trusts can select their fiscal period end. The Income Tax Act places a deadline of 90 days after year end for individuals to submit their reporting requirements—so, for trusts with a December 31st year end, the deadline for submitting all T3 slips is the end of March. Trust professionals have stated that this does not give them enough time to calculate the correct amounts to report on their trust returns where their filing deadline is close to the date, or on behalf of their individual beneficiary clients’ returns by April 30th.
+Secondly, provincial governments may change the tax rates on trusts at any time. The CRA has to use existing provincial and federal tax rates at the time of assessing and inform taxpayers that the amounts assessed may change as a result of updated tax rates.
+These two issues impact overall payment compliance within the business line. The data suggest that a consistent percentage (4%) of filers overpaid taxes to the CRA representing an average of $502 million over the period 2010 to 2015. Program officials acknowledged this issue was difficult to fix because of the variability of fiscal period ends within the trust filer population. According to the data and interviews with CRA officials, an average of 10% of filers were payment non-compliant between 2010 to 2015, underpaying, on average, $134 million annually over the period.
+4.3.1 PROTECTED
+PROTECTED
+4.4.1 PROTECTED
+PROTECTED
+4.4.2 PROTECTED
+PROTECTED
+4.4.3 PROTECTED
+PROTECTED
+4.4.4 Certain program areas are recognized as having trust experts and can contribute to the development of expertise among front line officers
+There are three classes of programs involved in the administration of the trust business line:
+Mature, dedicated trust teams that have the highest exposure to, and highest expertise in, trust workloads;
+Program areas where trusts are a minor part of their overall workload; and,
+Transitioning, dedicated trust teams that are developing capacity.
+A few key areas are widely viewed across the CRA as experts in the trust business line. Legal Services has dedicated T3 expertise that ensures CRA administrative policy is consistent with the legislative landscape while Legislative Policy and Regulatory Affairs Branch has two dedicated trust teams responsible for responding to both internal and external rulings requests on trust issues. The T3 Trust Returns Assessing Section manages the trust assessing program and is instrumental in developing CRA administrative policy related to the business line.
+For its part, the T3 Trust Returns Assessing Section routinely responds to requests and collaborates with colleagues in other trust programs. The Section officials also stated that the volume of enquiries they receive from various areas in the CRA can be a challenge to address given their mandate and available resourcing. Steps have been taken to encourage other areas to do their own research so that they may develop capacity within their teams. As part of this initiative, the T3 Trust Returns Assessing Section worked with the Learning Development Program to develop an online tool called @T3Help which generated praise among users.
+Knowledge transfer such as this supports other CRA program areas for which trusts are a minor part of the workload. Representatives from T1/T3 accounting sections, T1/T3 accounting enquiries sections, Technical Applications Section, Legislative Services Section, Payments Processing, among others, indicated that they do not have sufficient T3 exposure in their workloads to develop the level of expertise required to address the various challenges that can emerge in the trust workload. One consequence identified was that in many cases roles and responsibilities for the trust workloads were not well-defined where the program was combined with other business line workloads.
+The T3 Audit Program and the Telephone Services Centre of Expertise for trusts (established in 2014) were introduced as dedicated T3 programs. In both of these cases, part of the rationale for the changes in mandate was to develop the specialized knowledge requirements associated with trusts by centralizing the workloads in order to concentrate exposure to the comparatively small business line, thereby developing expertise.
+4.4.5 Evidence suggests that centralization of workloads has had mixed results
+Between 2005 and 2008 the small and medium enterprises section within the Domestic Compliance Programs Branch conducted a Trust Pilot Project which aimed to come up with a comprehensive compliance strategy for domestic trusts. The project found that CRA audit efforts focused on testamentary trusts and were insufficiently resourced. The report recommended increase in inter vivos trust audits which were identified as higher risk, as well as centralization of workloads and resources to build expertise in trust compliance.
+In response to these findings the CRA established a dedicated trust audit program in 2015 with the mandate to audit T3 trust returns filed by inter vivos trust types, while nationalizing the testamentary trust workload. Evidence suggests that the program was successful in increasing the proportion of audits on inter vivos trusts and that, as a result of this shift in focus, the dedicated program saw an increase of 187% (increase of $27.6 million) in total Tax Earned by Audit compared to results from the Small and Medium Enterprises Section the year before it was established.
+One of the objectives of the dedicated program was to increase resources dedicated and used to conducting trust audits; however, the number of CRA-wide trust audit cases actually decreased by 10% during the transition period to the newly dedicated program. Despite the decrease in volume, average Tax Earned by Audit across all audit programs increased by 322% (increase of $53 million) between fiscal years 2014 to 2015 and 2015 to 2016. This increase may be indicative of the benefit which having a dedicated trust program provide insight to larger entity compliance areas such as Aggressive Tax Planning and Related Party Initiative workloads.
+However, there have been challenges in developing capacity which can be traced to CRA filing and reporting requirements.
+Interviews with officials from the dedicated audit program noted that the T3 Workload Selection System provided at the beginning of the transition was insufficient for their needs. In response, a new query using the information available on the Automated Trust System was developed in mid-2017, but officials agree this has had limited impact on file selection due to current filing and reporting requirements, specifically the lack of financial statement information.
+PROTECTED
+The dedicated trust audit program has been resourced primarily at a junior level, AU-01. This may not be appropriate given the increasing complexity within trust structures. The AU-01 level experiences regular turnover which hinders progress towards building expertise. The level also prevents dedicated trust auditors from receiving training which is only made available to higher audit levels. For example, AU-01 auditors in the trust program have to deal with corporate reorganization issues, for which training is only available to AU-02 auditors and above.
+Additionally, the internal survey revealed that auditors were much more confident in their ability to complete audits on trust types with which they had experience (such as personal trusts); those with which they had less exposure (such as Mutual Fund Trusts and Unit Trusts) were often considered more complex and auditors self-assessed less confidence in their ability to audit them. PROTECTED.
+In spite of the limited capacity and historical focus on inter vivos trust compliance, in-house trust-related training has been developed to help build the knowledge base, and initiatives such as the Aggressive Tax Planning Montreal Centre of Expertise are working to develop ways to identify the prevalence of trust-related risk in the Canadian population.
+4.4.6 The timeliness or clarity of some of the CRA’s trust resources may be leading some experts to seek alternative sources
+The evaluation reviewed a sample of the trust-related supports the CRA makes available, including the T3 Guide, tax folios, interpretation bulletins and information circulars on its web site, as well as its telephone services.
+With respect to guides and web pages, trust professionals tend to use CRA resources primarily for processing requirements, such as accessing forms or obtaining a trust number. Beyond these, approximately 80% of trust professionals stated that they accessed non-CRA resources primarily because CRA resources did not provide an adequate level of detail or examples to deal with the complexities of their clients’ needs.
+For example, while over 40% of trust professionals identified calculations of paid/payable, capital gains exemptions, and loss carry-back or carry-forward as the most challenging areas to calculate for their clients, none of the topics included examples to help guide users of the information, or specific definitions of the topic. Given the rising amounts being allocated, and increasing proceeds of dispositions being reported, the importance of providing resources to ensure the complete and accurate reporting of amounts becomes increasingly important.
+The 2016 T3 Guide included hyperlinks to the following information:
+6 Income Tax Folios, which are new tools replacing Interpretation Bulletins;
+21 Interpretation Bulletins, which provide the CRA’s interpretation of specific Income Tax Act provisions; and,
+8 Information Circulars, which inform of a new administrative policy.
+Nearly 60% of Society of Trust and Estate Practitioners members stated that they use the above three information sources. To review the quality of these materials, available information was assessed based on how up-to-date it is and the extent to which it clarifies the Income Tax Act.
+The Income Tax Folios, which reflect the CRA’s efforts in improving Interpretation Bulletins and Information Circulars are up-to-date. Almost two-fifths of the Interpretation Bulletins provisions (37%) and Information Circulars provisions (39%) are “archived” which includes a disclaimer warning that users are responsible for ensuring their reporting applies the most recent tax laws. No direction is provided on how or where to obtain updated information.
+While this may be a concern for new trustees or other parties who seek up-to-date information on the CRA’s positions on trusts, interviews with Society of Trust and Estate Practitioners members found that some appreciated still having access to archived content as their clients’ requirements are based on decisions made years prior. This is supported by the relatively high proportion (59%) of Society of Trust and Estate Practitioners survey respondents who stated that they had used Interpretation Bulletins and Information Circulars over the past couple of years.
+Finally, the presence of the Centre of Expertise telephone line has improved perceived response times by callers, but a large majority noted concerns with the quality of responses received. The Centre of Expertise has also contributed to development of trust specific training materials for enquiries staff, and when needed, turned to sections in Legislative Policy and Regulatory Affairs Branch and T3 Trust Returns Assessing Section to improve their knowledge capacity.
+Given that the majority of income reported by the trust is flowed-out to beneficiaries, a review of the resources available related to reporting amounts from trusts was conducted. It was found that while individual beneficiaries have webpages dedicated to how to report amounts from T3 slips and T5008 slips, including how to calculate the cost of dispositions, there are no similar resources available for corporate beneficiaries.
+5. Conclusion
+Overall, trusts are mostly compliant with their trust-specific reporting requirements. However, evidence suggests there is a lack of understanding of the impacts of trusts on the T1 and T2 business lines and the reporting compliance within those populations. PROTECTED.
+PROTECTED
+6. Recommendations and management response
+CRA has an opportunity to improve its administration of the trust business line by adopting a horizontal approach to its performance management, and improving internal business intelligence and expertise within the CRA. The recommendations aim to first, improve the CRA’s ability to verify trust and beneficiary related reporting and second, to strengthen CRA capacity and coordination across areas administering the trust business line.
+Recommendation 1
+The CRA should develop and implement an integrated and horizontal strategy to address gaps in its administration of trusts that would consider the following elements:
+Policies that provide for the information gathered on Trusts and their main parties (i.e. settlor, trustee, beneficiaries);
+The information technology system requirements and human resource capacity to support all administrative and compliance functions;
+The interventions that target various trust types and the related amounts reported by their main parties.
+Recommendation 2
+The CRA should adopt performance measures which would be jointly held across functions and reflect the related amounts flowed through the various parties of the trust.
+Recommendation 3
+The CRA should develop and implement a coordinated, cross-program plan to recognize, resource, and further develop the trust knowledge-base and expertise within the areas that administer the business line.
+Management response
+The CRA agrees with the recommendations in this report. The CRA will create an Income Tax Trust Compliance Task Force, with representatives from all implicated branches by October 1, 2018. This task force will develop a holistic tax compliance strategy by April 1, 2019. This strategy will map out the income tax trust compliance continuum, identifying key players, capabilities and compliance opportunities, and identify specific initiatives for branches to undertake to address the findings and recommendations in the evaluation report and other gaps that may be found.
+These initiatives will include: reflecting a coordinated approach to identifying CRA compliance program requirements relating to income tax trust reporting and technology investments, identifying appropriate performance measures and create a renewed and sustained CRA community of interest for income tax trust practitioners.
+The action plan provided by the holistic strategy will be reviewed by the Audit, Evaluation, and Risk Branch and subject to the annual follow-up process.
+7. Acknowledgement
+In closing, we would like to acknowledge, recognize, and thank the Assessment, Benefit, and Service, Domestic Compliance Programs, Legislative Policy and Regulatory Affairs, International, Large Business and Investigations, Strategy and Integration, Collections and Verification, Appeals, and Legal Services Branches for the time dedicated and the information provided during the course of this engagement. We would also like to thank the representatives of the Society of Trust and Estate Practitioners for their insights as well as their members who took the time to thoughtfully complete our survey. We also want to recognize the support we received from the Public Affairs Branch for their responsive facilitation of the survey process.
+Appendix A: Evaluation issues and research questions
+Issue
+Do Canadians know, understand, and comply with their trust related obligations?
+Research questions
+Are the rules and regulations around creating and managing trusts understood?
+Are Canadians meeting their filing, reporting, and payment obligations with respect to T3 returns?
+Issue
+Does the CRA effectively administer the T3 trust function?
+Research questions
+Do the T3 trust mechanisms and processes operate in a satisfactory manner?
+Is the CRA managing T3 in a coordinated and collaborative fashion?
+Are there preliminary indications that recent changes to the T3 trust audit program are achieving the desired outcomes?
+Are there any significant barriers to the CRA’s successful administration of T3?
+Appendix B: T3 trust stakeholders
+Appendix C: Glossary
+Page details
+Report a problem on this page
+
+
+
+
+
+
+
+Date modified:
+2018-11-16

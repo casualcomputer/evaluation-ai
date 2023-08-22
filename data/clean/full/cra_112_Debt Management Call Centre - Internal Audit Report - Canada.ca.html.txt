@@ -1,0 +1,161 @@
+Debt Management Call Centre - Internal Audit Report
+Final Report
+Corporate Audit and Evaluation Branch
+June 2010
+Table of Contents
+Executive Summary
+Introduction
+Focus of the Audit
+Findings, recommendations and action plans
+1. Program Management
+2. Program Delivery
+Conclusion
+Executive Summary
+Background:
+An internal audit was originally planned to be conducted in fiscal year 2010-2011; however, Taxpayer Services and Debt Management Branch (TSDMB) management requested that CAEB undertake both an internal audit and an evaluation of the Debt Management Call Centre (DMCC) in 2009-2010. By undertaking both an audit and evaluation at the same time Corporate Audit and Evaluation Branch (CAEB) was able to provide a more comprehensive review of the DMCC, including assessments of both program management and program delivery controls (audit) and program effectiveness (evaluation). A separate report has been prepared on the results of the program evaluation. Although the focus of the audit and evaluation differ, reference has been made to the program evaluation results, when appropriate.
+The Canada Revenue Agency (CRA) addresses outstanding receivables through strategies used by TSDMB. The strategies combine to form the debt management continuum and can be divided into front-end activities that are the responsibility of the Debt Management Research and Analytics Directorate (DMRAD) and field operations that are the responsibility of the Accounts Receivable Directorate (ARD) and Debt Management Compliance Directorate (DMCD). System identification and assignment of accounts is done by the
+Revenue Enforcement Management Information Tracking System
+(REMITS) that scores accounts primarily based on the balance owing and the age of the debt. Other branches within the CRA play a significant role in supporting TSDMB in achieving its objectives. This includes activities such as payment and return processing, communications and technology platforms.
+According to the
+CRA Annual Report to Parliament 2008-2009
+, at the end of the 2008-2009 fiscal year, total tax debt amounted to $24.4 billion, an increase of $1.2 billion (5.2%) over 2007-2008. $3.8 billion of the debt will be subject to lower cost, risk-based debt management strategies, including automated communications, correspondence, and action by the DMCC. Amounts requiring tax services office (TSO) analysis and investigation total $18.1 billion; $1.5 billion was the responsibility of Revenu Québec and the remaining $1 billion of miscellaneous debt were assigned for handling by other means.
+The DMRAD is responsible for the front-end debt management activities for the $3.8 billion of the 2008-2009 debt subject to lower cost debt management strategies. DMRAD is also responsible for modernizing core business functions by developing and implementing the Integrated Revenue Collections (IRC) technology platform in order to enhance its ability to analyze taxpayer behaviour, report on debt components, and assess risk.
+The Front End Operations Division (FEOD), previously known as the Front End Operations, Research and Analytics Division, in DMRAD has responsibility for the prevention and/or detection of taxpayer's non-compliance with their filing and remitting obligations, and the early resolution of accounts prior to their entry into any resource intensive workflows. FEOD is accountable for the development, deployment and delivery of all high-volume, risk based debt management and compliance strategies that leverage paper or electronic mediums, automated system responses and/or telecommunications.
+FEOD has responsibility for all DMCC debt collections management and compliance activities. DMCC is responsible for making outbound calls on call centre status accounts and answering inbound collection and charities calls. More complex field operation activities are carried out by staff located in National Collection Pools, National Compliance Inventory Centres, and/or TSOs. When front-end activities do not result in payment of outstanding debt, strategies are in place to divert accounts to the Pools and TSOs.
+The TSDMB's vision, as outlined in the 2008 Program Delivery Model (PDM), is that by increasing its focus on front-end operations, through the use of enhanced data and technology such as Integrated Revenue Collection (IRC), and through leveraging capacity in the DMCC, the TSDMB will be able to resolve a greater number of these accounts earlier in the debt management continuum, thereby reducing the number of accounts that require a more costly and time intensive series of actions. This approach will free-up collection officers in the field to focus on more complex and high risk accounts that require more in-depth collections interventions. The PDM action plan recognizes the unique position of the DMCC and the opportunities available within the debt management continuum.
+Objective:
+The objective of the audit was to determine whether program management and program delivery internal controls exist and are working as intended. The focus of the audit was on the DMCC debt management and compliance controls, the role of the FEOD and the ability to measure the impact of the DMCC in the debt management continuum.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Conclusion:
+The DMCC has a structure that supports the achievement of its stated goals and objectives with clearly defined roles, responsibilities, and accountabilities. The DMCC has provided the tools and guidance required for staff to carry out their functions. There are, however, opportunities to strengthen program management and program delivery controls, including refining performance measurement indicators and increasing adherence to policies and procedures.
+A comprehensive oversight framework to obtain assurance that the DMCC is operating as intended has not been established or implemented by the FEOD. As such, the FEOD may be missing the opportunity to identify opportunities to increase the efficiency and effectiveness of the DMCC. Currently the FEOD focus is on measuring the number and value of arrangements made at the DMCC. DMCC arrangements include accounts where DMCC agents communicate with taxpayers and agreements are reached to pay outstanding amounts or file required GST/HST returns. The ability for the TSDMB to assess the contribution of the DMCC in the debt management continuum is limited with the current performance measurement indicators. Comparing DMCC performance with Pools/TSOs is difficult because performance for Pools/TSOs is based on the dollars collected and GST/HST returns filed. In addition, there is no evidence that the TSDMB measures the effectiveness of the DMCC in resolving accounts prior to diversion to the more labour-intensive field operations.
+In its
+Debt Management Program Delivery Model Action Plan,
+the TSDMB has made a commitment to review performance measurement throughout the debt management continuum and to make necessary adjustments including the establishment of meaningful performance indicators. The plan, with established timeframes and benchmarks, should be implemented focusing on the ability to measure the effectiveness of the DMCC in the debt management continuum. Indicators should be established to measure the dollars collected/returns filed through DMCC actions and to measure the effectiveness of the DMCC in resolving accounts without intervention by Pools/TSOs.
+The DMCC has established and implemented a program delivery monitoring framework that focuses on improving agent performance. Opportunities to improve program delivery monitoring are evident given that the framework does not include a process to ensure that corrective actions are taken to address deficiencies identified from monitoring. In addition, there is no monitoring of outbound calls, which could affect the ability for the DMCC to identify opportunities to improve performance.
+Action Plan:
+TSDMB agrees with the recommendations and the action plans with milestones are included in this report.
+Introduction
+An internal audit was originally planned to be conducted in fiscal year 2010-2011; however, TSDMB management requested that CAEB undertake both an internal audit and an evaluation of the Debt Management Call Centre (DMCC) in 2009-2010. By undertaking both an audit and evaluation at the same time CAEB was able to provide a more comprehensive review of the DMCC, including assessments of both program management and program delivery controls (audit) and program effectiveness (evaluation). A separate report has been prepared on the results of the program evaluation. Although the focus of the audit and evaluation differ, reference has been made to the program evaluation results, when appropriate.
+The Canada Revenue Agency (CRA) has several collection strategies available to address outstanding receivables, ranging from automated notice of assessments and letters and front-end call centre operations to field operations activities such as face-to-face meetings and field visits. These “strategies” used by Taxpayer Services and Debt Management Branch (TSDMB) combine to form the debt management continuum. System identification and assignment of accounts is done by the
+Revenue Enforcement Management Information Tracking System
+(REMITS) that scores accounts primarily based on the balance owing and the age of the debt. Other branches within the CRA play a significant role in supporting TSDMB in achieving its objectives. This includes activities such as payment and return processing, communications and technology platforms.
+The strategies related to the collection of outstanding debt within the debt management continuum can be divided into front-end and field operations and are managed by the Debt Management Research and Analytics Directorate (DMRAD), the Accounts Receivable Directorate (ARD), and the Debt Management Compliance Directorate (DMCD) of TSDMB. The Front-End Operations Division (FEOD), previously known as the Front End Operations, Research and Analytics Division, is responsible for collection strategies such as self-resolution, automated letters, and telephone contact by the DMCC. Complex field operations enforcement actions are carried out by collection management and compliance staff located in National Collection Pools, National Compliance Inventory Centres, and/or TSOs.
+According to the
+CRA Annual Report to Parliament 2008-2009
+, at the end of the 2008-2009 fiscal year, total tax debt amounted to $24.4 billion, an increase of $1.2 billion (5.2%) over 2007-2008. $3.8 billion of the debt will be subject to lower cost, risk-based debt management strategies, including automated communications, correspondence, and action by the Debt Management Call Centre (DMCC). Amounts requiring tax services office (TSO) analysis and investigation total $18.1 billion; $1.5 billion was the responsibility of Revenu Québec and the remaining $1 billion of miscellaneous debt were assigned for handling by other means.
+The DMRAD is responsible for the front-end debt management activities for the $3.8 billion of the 2008-2009 debt subject to lower cost debt management strategies. DMRAD is also responsible for modernizing core business functions by developing and implementing the Integrated Revenue Collections (IRC) technology platform in order to enhance its ability to analyze taxpayer behaviour, report on debt components, and assess risk.
+For the fiscal year ending March 31, 2009, approximately $35.1 billion of tax unpaid at the time of assessment during 2008-2009 was resolved
+[footnore1]
+compared to approximately $30.5 billion in 2007-2008 (an increase of $4.6 billion or 15.1%). Of this $35.1 billion about $17.5 billion was resolved through front-end automated and DMCC strategies, before moving to the higher cost risk-based field operations strategies. The TSDMB estimates that DMCC actions resulted in total payment arrangements of more than $1.5 billion
+[footnore2]
+; the amount of payments made from those arrangements was not provided.
+The FEOD has functional responsibility for all DMCC collections and compliance activities. The Accounts Receivable Directorate (ARD) had responsibility for the Government Programs workflow until April 2010 when the FEOD assumed responsibility. The Charities Directorate in the Legislative Policy and Regulatory Affairs Branch is functionally responsible for the charities workflow.
+The main responsibility of the DMCC is to attempt to collect the following types of accounts receivables and returns:
+Individual taxpayers (T1) with outstanding balances of less than $100,000;
+Corporate (T2) outstanding balances of less than $100,000;
+Goods and Services Tax/Harmonized Sales Tax (GST/HST) debt of less than $50,000; and
+Outstanding (GST/HST) returns with an estimated payable of $20,000 or less.
+DMCC staff are responsible for making outbound calls on T1, T2, and GST/HST accounts categorized as call centre status accounts through the use of a predictive dialler. The predictive dialler is a computerized system that automatically dials batches of telephone numbers for connection to agents. In addition, DMCC staff answers inbound collection calls as well as charities enquiries.
+The TSDMB vision, as outlined in the 2008 Program Delivery Model (PDM), is enhanced data and technology, and through leveraging capacity in the DMCC, the TSDMB will be able to resolve a greater number of these accounts earlier in the debt management continuum, thereby reducing the number of accounts that require a more costly and time intensive series of actions. This approach will free-up collection officers in the field to focus on more complex and high risk accounts that require more in-depth collections interventions. The PDM action plan recognizes the unique position of the DMCC and the opportunities available within the debt management continuum.
+Focus of the Audit
+The objective of the audit was to determine whether program management and program delivery internal controls exist and are working as intended. The focus of the audit was on the DMCC collection and compliance controls, the role of the FEOD, and the ability to measure the impact of the DMCC in the debt management continuum. The examination phase of the audit took place from April 2009 to December 2009.
+The audit was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing.
+Findings
+, recommendations and action plans
+1. Program Management
+The goals and objectives for the DMCC, to make arrangements for payment of outstanding amounts and filing of GST/HST returns, are linked to the CRA and TSDMB goals for the timely collection of overdue accounts and returns. In addition, since the costs incurred by the DMCC are lower than those that would be incurred in the more labour-intense Pools and TSOs, the DMCC has a direct impact on the efficiency of the debt management continuum. The ability for the TSDMB to measure the effectiveness of the DMCC is, however, limited with the current performance measurement indicators.
+Interview responses and documents reviewed confirm that the DMCC has established a structure that supports the achievement of its stated goals and objectives with clearly defined roles, responsibilities, and accountabilities. The DMCC has provided the tools and guidance required for staff to carry out their functions.
+1.1 Performance Measurement
+Established performance indicators limit the ability for the TSDMB and the FEOD to measure the effectiveness of the DMCC in the debt management continuum. A performance measurement system that directly links DMCC performance to the achievement of goals and objectives would enable the TSDMB to measure the effectiveness of the DMCC in the debt management continuum.
+The 2008
+Debt Management Program Delivery Model Action Plan
+states “There is a necessity to review the way the successes of the TSDMB's programs are evaluated. TSDMB needs to have an integrated approach for managing the resources and performance. A review of the current framework at every step of the continuum to ensure we are measuring the “right things” and to make necessary adjustments including the establishment of meaningful performance indicators and statistical reports will be undertaken.”
+[footnore3]
+The contribution of the DMCC to the CRA and TSDMB goals for the timely collection of overdue accounts and GST/HST returns is currently measured by determining the number and value of arrangements, without considering whether the arrangement is adhered to. Performance measures based on the dollars collected/returns filed through DMCC actions would provide a more accurate indication of the impact of the DMCC in the debt management continuum. In addition, the TSDMB would be able to compare the results for the DMCC with field operations debt management activities where performance is assessed based on the dollars collected.
+System programming limits the ability for the TSDMB to determine the dollars collected and GST/HST returns filed as a result of DMCC action; manual compilation of the data would be labour intensive. The FEOD currently reports the number of arrangements made at the DMCC including amounts that have already been paid and returns that have been submitted without any telephone contact. As noted, the current system does not allow for tracking the results of DMCC arrangements. However, the DMCC Evaluation Report indicates that a methodology for measuring DMCC effectiveness is available and suggests that measurement, using this methodology, could be carried out on a periodic basis.
+[footnore4]
+There is also no evidence that the TSDMB is measuring the effectiveness of the DMCC in preventing accounts from being diverted to the more costly field operations. The FEOD determines the ratio of accounts for which an arrangement is made at the DMCC with those that are referred to Pools/TSOs by DMCC staff. The only accounts considered are ones where action is taken by DMCC staff, regardless of the number of accounts that leave call centre status without DMCC intervention or the number of accounts that are routed to the Pools/TSOs because of a broken arrangement.
+The TSDMB continues to explore opportunities to improve accounts receivable practices and processes through studies and analysis of internal and external accounts receivable practices. The Debt Management Research Section's core responsibilities include research and surveys. However, the FEOD has not established and implemented an oversight framework to obtain assurance that the DMCC is operating as intended. As such, the FEOD may be missing the opportunity to identify opportunities to increase the efficiency and effectiveness of the DMCC.
+Recommendations
+The TSDMB should develop and implement a plan with specific achievable timelines to implement performance measurement indicators that assess DMCC's contribution to the debt management continuum.
+The FEOD should establish and implement a continuous improvement process to ensure the DMCC is operating as intended and to identify opportunities for improvement.
+Action Plans:
+Develop and prototype an operational reporting system designed to support the building of a permanent and sustainable mainframe reporting system; refine current performance indicators; support the monitoring and reporting of key risks; aid in the development of corrective actions and strategies; align operational actions and collection strategies to the source and characteristics of taxpayer non-compliance; and provide functional operational support.
+Interim solution:
+FY 2010/2011 – Prepare an approach to manage and study the DMCC's contribution to the collections continuum (for all business lines) – similar to approach taken by Corporate Audit and Evaluation Branch (CAEB).
+Milestones:
+FY 2010/2011 – Develop and prototype an operational reporting system for all revenue lines as a means to assess DMCC's contribution to the collections continuum.
+T1 component of the prototype is funded through the Integrated Revenue Collections (IRC) technology project.
+The development of GST/HST, T2 components of the prototype will be developed as program capacity, which includes funding, is available.
+Prepare Program Management Framework aimed at evaluating and prioritizing front-end strategy improvements, which will
+include evaluating activities within the DMCC to provide opportunities to maximize its contribution towards payment compliance.
+Milestone:
+FY 2010/2011 – Develop Front-End Operation's Program Management Framework to guide program priorities.
+2. Program Delivery
+The DMCC has provided the tools and guidance required for staff to carry out their functions. Interviews and document review confirm that DMCC specific policies and procedures have been established and communicated to DMCC staff. Agent adherence to established guidelines is supported by a monitoring framework focusing on improving agent performance.
+There are, however, opportunities for improvement. Strengthening the monitoring framework will enable the DMCC to obtain better assurance that the DMCC is operating as intended and would increase assurance that the policies and procedures in place at the DMCC do not inadvertently impede activities performed in the Pools/TSOs.
+2.1 Program Delivery Monitoring
+The DMCC has established and implemented a program delivery monitoring framework, focusing on improving individual agent performance, with defined review criteria and expectations. There are, however, opportunities to increase its effectiveness as a management control. A method to monitor outbound calls has not been developed and a process has not been established and implemented to ensure that corrective actions are taken to rectify deficiencies identified from monitoring.
+The DMCC Quality Support Team (QST) measures adherence to policies and procedures by monitoring inbound calls and conducting account reviews. Inbound calls are monitored through Remote Quality Listening (where the agent is unaware that the call is being listened to) or side-by-side monitoring (where the QST member sits beside the agent and listens to what the agent says). Making outbound calls is an integral part of the DMCC operations and, accordingly, the failure to monitor these calls affects the DMCC's ability to obtain assurance that policies and procedures are consistently followed.
+The DMCC monitoring framework does not currently contain a process that ensures that deficiency trends identified through monitoring are rectified. The framework would be strengthened with a defined process (with accountabilities) to ensure that common procedural errors are identified; the reasons for the deficiencies are determined; plans are implemented to address the issues; and the deficiencies are rectified (i.e. the plan works).
+A statistically valid sample
+[footnore5]
+of T1, T2, and GST/HST accounts completed in April 2008 was analyzed to determine the extent to which call centre agents followed and complied with DMCC policies and procedures. Agents are adhering to the DMCC's established arrangement parameters. There were instances where policies and procedures were not adhered to for providing legal warning and obtaining complete banking information. QST results also indicated that the most common agent errors related to the failure to adhere to instructions on providing legal warning and obtaining banking information.
+Recommendations
+The DMCC, in conjunction with the FEOD, should expand the monitoring framework to include a process to ensure that appropriate actions are taken to rectify deficiency trends identified from monitoring, including adherence to legal warning and banking information procedures.
+The DMCC, in conjunction with the FEOD, should establish a process for monitoring outbound calls, similar to those in place for inbound calls to ensure completeness of the information available for analysis.
+Action Plans:
+Develop and implement a Quality Assurance framework focusing on monitoring activities related to DMCC that will include controls to ensure consistency is achieved in the application of policy and procedures. Quality Monitoring results will assist in discovering opportunities for improvement at every stage of the process.
+Interim Solution:
+FY 2010/2011 – Work in collaboration with and receive regular feedback from the Quality Support Team (QST), of the DMCC to conduct monitoring on an ongoing basis.
+Milestones:
+FY 2010/2011 – Develop and implement a framework, including regular reporting of results, jointly with DMCC.
+FY 2010/2011 – Continuous Improvement Quality Assurance (CIQAS) has scheduled a monitoring visit at the DMCC as part of this year's priority and agenda, with a focus on assessing agent's adherence to national policies and procedures. (The last CIQAS review, performed at the DMCC was conducted in September 2003).
+FY 2011/2012 – Ongoing monitoring as determined by the program review, CIQAS results, as well as parameters established by the program.
+Develop and implement a Quality Assurance framework focusing on monitoring activities related to DMCC that will include controls to address monitoring inbound and outbound calls. Quality Monitoring results will assist in discovering opportunities for improvement at every stage of the process.
+Milestones:
+FY 2010/2011 – Work in collaboration with the Quality Support Team (QST), of the DMCC, to develop a monitoring process for outbound calls.
+FY 2010/2011 – Assess and implement policies and procedures in regards to quality assurance monitoring, to address monitoring outbound calls.
+FY 2010/2011 - Implement framework, jointly with DMCC.
+2.2 Coordination and Communication of Policies and Procedures
+Compatibility in the debt management continuum would increase with assurance that the policies and procedures in place at the DMCC complement performance in the Pools/TSOs. The DMCC is one of the first steps in the debt management continuum; accounts are diverted to Pools/TSOs if balances are not paid or GST/HST returns not filed. Accordingly, the policies and procedures in place at the DMCC can have a direct impact on field operations. To avoid duplication of effort and maintain compatibility throughout the continuum, it would be beneficial to ensure that all stakeholders are aware of DMCC procedures and responsibilities.
+The DMCC provides staff with detailed policies and procedures for the T1, T2 and GST/HST business lines. The FEOD is currently responsible for maintaining and updating these instructions; the responsibility was previously assigned to the Quality Support Team at the DMCC. Since the DMCC procedures can have an impact on the Pools/TSOs, it would be beneficial to have controls in place to ensure that the DMCC instructions do not contravene those in place at Pools/TSOs. Documentation obtained during the planning and examination phases of the audit did not confirm, however, that the FEOD conducted any comparison of DMCC policies with those in place at Pools/TSOs to determine the impact of procedural differences. Although there is evidence of communication with stakeholders, DMCC policies and procedures are not currently available on DMCC/FEOD websites and have not been shared with staff working in Pools/TSOs.
+Subsequent to the audit examination phase, in February 2010, the FEOD conducted a review of the online and offline manuals to ensure alignment with procedures in place at Pools/TSOs. The FEOD expects the DMCC policies and procedures will be posted on the DMRAD website by the end of June 2010.
+The FEOD primarily relies on the DMCC to identify program delivery issues related to policies and procedures. Identified concerns are resolved by the FEOD and are then implemented by the DMCC management team. On-going consultations with representatives from Pools/TSOs would increase the FEOD's ability to ensure that DMCC policy/procedural deficiencies are identified and addressed in a timely manner.
+The 2008
+Debt Management Program Delivery Model Action Plan
+indicates that the DMRAD will review business processes, business rules, resource allocation model, and performance management framework. There is no evidence this review was conducted even though DMCC policies and procedures differ from those in place at the Pools/TSOs (e.g. arrangement parameters; diary entry requirements).
+Recommendations
+The FEOD should work with internal stakeholders to increase communications to enhance understanding throughout the debt management continuum.
+Action Plan:
+Develop and implement a communication strategy targeting all impacted stakeholders, aimed at promoting awareness of how DMCC fits within the debt management continuum. Ongoing support and continuation of work under protocol structure as outlined in the protocol and governance agreement documents between the DMRAD and our partners ARD and DMCD.
+Milestones:
+FY 2010/2011- Prepare and implement a communication strategy for field and internal stakeholders.
+FY 2010/2011 – Meet with regional management teams to provide an overview of Front-end Operations as well as DMCC's role in the Debt Management continuum.
+FY 2010/2011 – Formalize regular meetings with key stakeholders to discuss issues related to horizontal delivery of program.
+CONCLUSION
+The DMCC has a structure that supports the achievement of its stated goals and objectives with clearly defined roles, responsibilities, and accountabilities. The DMCC has provided the tools and guidance required for the staff to carry out their functions.
+TSDMB's ability to obtain assurance that the DMCC is operating as intended would be strengthened by:
+Developing and implementing performance measurement indicators which assess DMCC's contribution to the debt management continuum;
+Establishing and implementing a continuous improvement process;
+Improving communications with stakeholders; and
+Strengthening the program delivery monitoring framework.
+Footnotes
+[Footnote 1]
+CRA Annual Report to Parliament 2008-2009
+[Footnote 2]
+Per TSDMB December 15, 2009
+[Footnote 3]
+Debt Management Program Delivery Model Action Plan – Page 18
+[Footnote 4]
+Debt Management Call Centre Evaluation, p. 13
+[Footnote 5]
+Samples have a 95% confidence level and 5% error rate.
+Page details
+Report a problem on this page
+Date modified:
+2010-11-01

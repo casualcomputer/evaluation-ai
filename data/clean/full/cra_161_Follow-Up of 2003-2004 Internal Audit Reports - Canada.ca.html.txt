@@ -1,0 +1,192 @@
+Follow-Up of 2003-2004 Internal Audit Reports
+Corporate Audit and Evaluation Branch
+March 2007
+Introduction
+Summary of results
+Introduction
+Internal audit professional standards require the Internal Audit (IA) function to perform follow-up activities to determine if management action plans resulting from internal audit recommendations have been implemented and if they have been effective in addressing the identified issues.
+The Canada Revenue Agency (CRA) IA Policy requires the Director General of the Corporate Audit and Evaluation Branch (CAEB) to table follow-up reports on progress against management action plans.
+Annually, IA follows up on audit reports approved by the Internal Audit Management Committee[
+Footnote 1
+] (IAMC) in a preceding fiscal period, unless the risks associated with the audit require an earlier follow-up with separate reporting to IAMC.
+IA's follow-up process consists of an auditee self-assessment, followed by an assessment by IA of the reasonableness of progress. Additional or new audit work is only performed where risks warrant or progress has not been reasonable.
+While the follow-up process relies mostly on the self-assessment approach, the CAEB Business Plan also incorporates follow-up audits, which consist of re-audits of issues considered to be of high risk. The result of these re-audits is reported separately to IAMC, such as the Contracting Follow-Up Report approved in November 2006.
+This year's follow-up process focused on the nine IA reports approved by IAMC during the fiscal year 2003-2004. In addition to these nine reports, IA continued monitoring outstanding action plans from 15 reports from prior years. As a result, this year's follow-up process covered 24 internal audit reports containing a total of 99 management action plans (see attached summary table).
+The follow-up process was conducted in accordance with the
+International Standards for the Professional Practice of Internal Auditing
+.
+Summary of results
+The majority of action plans followed up by IA (85 of 99) have been completed or are no longer relevant as actions or circumstances have overtaken the need to do so.
+At the time of the follow-up, there were 14 action plans still in progress. Nine of the management action plans relate to the audit of External Recruitment. While all actions are underway, the implementation of the external recruitment action plans are also linked to other resourcing activities currently being worked on, such as the introduction of a national Human Resources service delivery model. It is expected the implementation of this new model will be phased in over the next 36 months. Internal Audit realizes that additional time was required to successfully introduce changes of this significance. Thus, the outstanding nine action plans did not present a significant risk at this time.
+Of the remaining five action plans, IA considers that three of these action plans require particular attention given the nature of the risk being addressed or the state of the action plan. Two of these three action plans relate to the Information Exchange Agreement Audit and the other, the Small and Medium Enterprises Audit.
+Information exchange agreement audit (October 2002)
+The Information Exchange Agreement audit was reported to the Internal Audit and Program Evaluation Committee in October 2002 and the Audit Committee of the Board of Management in December 2002.
+The objective of the audit was to determine whether the Agency was using, protecting and destroying confidential client information received from various provincial and federal organizations with which it has information exchange agreements in a manner that was consistent with the terms and conditions contained in those agreements.
+The audit concluded that there were no major weaknesses in the control framework at that time. However, the audit did identify certain controls that needed to be enhanced. With those enhancements, the Agency would be able to undertake agreement-specific audits and be in position to indicate to its partners that all necessary controls over their information are in place and being properly used.
+The audit recommendations placed a focus on improving the management framework related to roles and responsibilities, policies and procedures and controls. The Policy and Legislation Branch agreed to reinforce with the regions, the key organizational elements of the policy governing this activity. Branch management agreed to revise policies to cover the receipt of information and clarify procedures for the transmission of data into the Agency. Controls would be strengthened. For example, monitoring of access to information would be improved; and reporting and training would be enhanced.
+Follow-up activity has demonstrated that the Corporate Strategies and Business Development Branch[
+Footnote 2
+] (CSBDB) has taken action on all seven recommendations made in the audit and CSBDB indicates that work is underway in areas where recommendations have not been fully addressed. In particular, a significant amount of work remains in relation to staff awareness of Memorandum of Understandings (MOUs), the implementation and monitoring of controls, and reporting on the receipt of information.
+CSBDB has submitted a revised strategy concerning raising awareness among staff about MOUs in the Agency. As a result of a number of legislative changes, a training package is being developed and the branch has committed to delivery of training programs throughout spring 2007. In the following two areas, progress in implementing corrective action has been slow.
+During fiscal year 2006-2007, the Security, Risk Management and Internal Affairs Directorate (SRMIAD) of the Finance and Administration Branch reviewed the compliance and monitoring exercise launched in 2003-2004 to assess the degree of conformity to physical security policies. This was done with a view of expanding its efforts to include compliance to the information security policy and integrating into one document both the physical and information compliance monitoring reviews. The SRMIAD intends to pilot this approach during the next fiscal year (2007-2008). The revised document will include specific elements pertaining to MOUs where CRA is in receipt of information from a third party. Furthermore, the Client Relations Directorate of CSBDB has undertaken the review of their training package as it pertains to MOUs. SRMIAD has been approached to assist in this initiative. Finally, as a long term vision, SRMIAD would like to get involved in site visits during the planning stage of MOUs where the CRA will be transferring / exchanging information with a third party.
+The Agency still does not have a formal registry in place to record the information received from and sent to Agency partners. CSBDB indicated that the reporting of receipt of information will be addressed through the development of a National Information Exchange Registry (NIER). Funds have been committed this fiscal year to develop the NIER to record the release of information in early 2007-2008. The reporting on the receipt of information should follow in a subsequent phase.
+Small and medium enterprises audit (December 2000)
+The Small and Medium Enterprises (SME) audit was reported to the Internal Audit and Program Evaluation Committee in December 2000 and the Audit Committee of the Board of Management in March 2001.
+The objective of the audit was to review the achievement of established program goals and objectives, the file selection methods in use in conjunction with the Agency's risk assessment strategy, the management and accountability framework in place, monitoring and reporting methods, and the reliability and integrity of data.
+Follow-up activity has demonstrated that Compliance Programs Branch (CPB) has implemented program assessments to optimize resource utilization, and worked to allocate resources to address high-risk areas and provide appropriate coverage. Team Leader involvement in audits has been encouraged through the program review process and by implementation of the Auditor Apprenticeship Program. In addition, CPB continues to promote the Indirect Verification of Income Techniques (IVIT) course and the branch indicates that the use of IVI techniques continues to increase.
+The audit found that tax services offices were coding many taxpayer requested adjustments (TPRs) as either full compliance audits or restricted audits. This overstates the number of full compliance audits completed, as it includes the taxpayer requested reassessments that were sent to local offices for review, which can impact the reliability of the information for risk assessment purposes. At the time of the audit, CPB committed to an action plan to address this finding. It has been six years since the audit and CPB continues to work on the action plan. Thus, progress in this area needs attention in order to implement the action plan in a more timely manner.
+Office of Primary Interest (OPI)
+Audit Title
+Number of Action Plans
+Complete
+Low Risk or No Longer Relevant / Applicable
+Satisfactory Progress
+Requires Attention
+Prior to 2003-2004 Still Being Monitored
+2003-2004
+F&A
+2001-2002 Selected Fiscal Year-End Procedures
+12
+7
+5
+Prairie
+HRB
+Alternate Work Arrangements
+1
+1
+Appeals
+Appeals Branch Management Framework
+4
+4
+CPB
+ARAP/IRAAP Auditor Recruitment and Apprenticeship Programs
+2
+2
+F&A
+ITB
+Balanced Scorecard Pre-Implementation
+11
+3
+8
+CPB
+Compliance Programs Branch Monitoring
+1
+1
+F&A ITB
+P&L HRB
+Corporate Administrative System (CAS) Security
+1
+1
+CPB
+P&L A&C
+Electronic Commerce
+3
+2
+1
+Québec HRB
+Employment Equity
+1
+1
+HRB
+External Recruitment
+14
+4
+1
+9
+ITB
+HQ IT Support Services
+2
+2
+F&A
+Financial Information Strategy (FIS) / Accrual Accounting in Revenue Ledger
+6
+2
+4
+NOR
+A&C
+GST Credit Returns Prepayment Program
+5
+5
+SOR
+HRB
+Individual Learning Plans
+4
+4
+P&L
+Information Exchange Agreement
+5
+2
+1
+2
+ITB
+IT Management Framework
+3
+3
+SOR
+ITB F&A
+Mainframe Access Profiles
+5
+5
+F&A
+ITB
+Overtime Administration
+1
+1
+F&A
+Public Accounts – Plates and Forms
+3
+1
+2
+NOR
+F&A
+Security of Client Information
+1
+1
+SOR
+F&A
+Security
+2
+2
+CPB
+Small and Medium Enterprises
+5
+3
+1
+1
+Québec
+Teleworking, Hotelling, Desk Sharing and Remote Access
+2
+2
+NOR
+Thunder Bay Tax Services Office (TSO) Management Framework
+5
+5
+TOTALS
+42
+57
+42
+43
+11
+3
+OPI Legend
+A&C Assessment and Collections Branch (now Assessment and Benefit Services Branch)
+Appeals Appeals Branch
+CPB Compliance Programs Branch
+F&A Finance and Administration Branch
+HRB Human Resources Branch
+ITB Information Technology Branch
+NOR Northern Ontario Region (now merged into Ontario Region)
+P&L Policy and Legislation Branch (became Policy and Planning Branch which has since split into Corporate Strategies and Business Development Branch and Legislative Policy and Regulatory Affairs Branch)
+Prairie Prairie Region
+Québec Québec Region
+SOR Southern Ontario Region (now merged into Ontario Region)
+Top of Page
+Footnotes
+[Footnote 1]
+Effective September 2006, oversight for the Program Evaluation function was transferred to the Agency Management Committee (AMC). Accordingly, the Internal Audit and Program Evaluation Committee (IAPEC) became the Internal Audit Management Committee (IAMC) to reflect its oversight of the Internal Audit function only. Program Evaluation follow-up activity will be reported separately to AMC.
+[Footnote 2]
+Effective January 2006, as part of an Agency organizational realignment, Policy and Planning Branch became two separate new branches. One of the two new branches is Corporate Strategies and Business Development Branch. This branch includes the Client Relations Directorate that includes the former Federal and Provincial Affairs Division (FPAD).
+Page details
+Report a problem on this page
+Date modified:
+2007-04-20

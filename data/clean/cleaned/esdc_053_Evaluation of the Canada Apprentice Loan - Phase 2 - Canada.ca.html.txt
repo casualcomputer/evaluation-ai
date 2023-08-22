@@ -1,0 +1,733 @@
+List of figures
+Figure 1: During your technical training period, how easy or difficult was it to make ends meet financially?
+Figure 2: Proportion of Apprentices who had difficulty making ends meet during technical training
+Figure 3: Level of importance of the loan in covering the costs of apprenticeship by subgroup (N=1,083)
+Figure 4: Proportion of recipients that used the loan toward these specifics items  (N=1,083)
+Figure 5: Awareness level of the Canada Apprentice Loan before becoming an apprentice (N=1,525)
+Figure 6: Apprentices first heard about the Canada Apprentice Loan from these promotional elements
+Figure 7: Apprentices received information about the Canada Apprentice Loan from the following sources
+Figure 8: Estimated take-up rate for Canada Apprentice Loan by gender
+Figure 9: Stage during the apprenticeship when loan recipients first applied (N=1,111)
+Figure 10: Level of satisfaction with service delivery by sub-groups (N=1,111)
+Figure 11: Level of satisfaction with the timeliness of the loan (the time from application to receipt). (N=1,083)
+Figure 12: Proportion of apprentices using other financial supports by sub-group (N=1,825)
+Figure 13: Proportion of loan recipients receiving support from other Federal support measures for apprentices
+Figure 14: Proportion of apprentices paid by employer during technical training by selected group (N=1,825)
+Figure 15: Total amount of debt by top 10 Red Seal trades group
+Figure 16: Status of the loan for all the recipients at the end of calendar year 2017
+Figure 17: Proportion of loan recipients who have completed the apprenticeship program and are aware of the Repayment Assistance Program and using the Repayment Assistance Program (N=589)
+Figure 18: Proportion of recipients in repayment using the Repayment Assistance Program
+Figure 19: Proportion of apprentices who had difficulty making ends meet during technical training
+Figure 20: How important does knowing about the Canada Apprentice Loan contribute to your decision to become an Apprentice? (N=564)
+Figure 21: Estimated take-up rate for Canada Apprentice Loan by province
+Figure 22: Proportion of loan recipients receiving support from other Federal support measures for apprentices by trade groups
+Figure 23: Does the employer pay full wage, partial wage of other type of payment by selected group (N=198)
+Figure 24: Proportion of recipients indicating that the loan was important in helping them covering the cost of the apprenticeship training by trade groups (N=1,083)
+Figure 25: Use of Canada Apprentice Loan by trade (N=1,083)
+Figure 26: Total amount of debt by gender
+Figure 27: Level of satisfaction of Canada Apprentice Loan recipients with service delivery by education level (N=1,111)
+Figure 28: Timeliness of the loan by region (the time from application to receipt). (N=1,083)
+Figure 29: Percentage of Recipients in Repayment by status of their apprenticeship (N=1,083)
+Figure 30: Stage at which recipients start repaying their loan (N=354)
+Figure 31: Proportion of loan recipients in repayment using the Repayment Assistance Program
+Figure 32: Proportion of recipients that used the loan toward these specifics items (N=1,083)
+List of tables
+Table 1: Advantages of completing an apprenticeship
+Table 2: Comparing loan recipients and non-recipients: apprentice’s views on their needs during the apprenticeship period
+Table 3: Estimates from a probit model with completion as the dependent variable
+Table 4: Canada Apprentice Loans by calendar year
+Table 5: Thinking more generally about your experience, what else could governments do to help support apprentices during their training?
+Table 6: Average number of loans taken by different groups of recipients
+Table 7: Estimates from a probit model with completion as the dependent variable by gender
+Table 8: Estimates from a nearest-neighbour matching model with completion as the dependent variable
+List of acronyms and abbreviations
+AIG:
+Apprenticeship Incentive Grant
+ACG:
+Apprenticeship Completion Grant
+CAL:
+Canada Apprentice Loan
+CR:
+Core Responsibility
+DRF:
+Departmental Results Framework
+EI:
+Employment Insurance
+ESDC:
+Employment and Social Development Canada
+PRA:
+Prairie Research Associates
+RAIS:
+Registered Apprenticeship Information System
+RS:
+Results Statements
+Introduction
+This report constitutes Phase II of the Evaluation of the Canada Apprentice Loan. Phase I was completed in 2017 and covered program relevance, the use of the loans, administrative costs, and program delivery and awareness. Phase II expands on additional questions about loan repayment and the impact of the loan on completing an apprenticeship.
+This evaluation uses an impact analysis method to estimate the contribution of the loans on the completion of an apprenticeship. Due to omitted variable bias, impacts of the program were reported as contributions.  For more details about this study please see the methodology and limitations section in Annex B.
+The evaluation covers calendar years 2015 to 2019 and complies with the Financial Administration Act and the 2016 Treasury Board Policy on Results.
+Key evaluation findings
+The loan contributes to completion of training
+There is a need for the Canada Apprentice Loan given that most apprentices continue to have difficulty making ends meet during technical training
+The Canada Apprentice Loan responds to the need of various sub-populations
+A higher than average proportion of women, Indigenous recipients, recipients with a disability and older recipients surveyed indicated that the loans were important or very important in covering the costs of training and other related expenses.
+Approximately one-third (37%) of apprentices surveyed are aware of the loan prior to registering
+Of this 37%, one-third (39%) feel that knowing about the loan is an important part of their decision making to participate in an apprenticeship program. Most awareness about the program occurs after registering into a trade school.
+The take up rate has been relatively stable since inception of the program
+During the period between 2015 and 2017, approximately one-third of the eligible population used the loan. The average take-up rate of the Canada Apprentice Loan over this period was 31.6% with a slightly higher rate for women (33.1%)
+A majority of the recipients surveyed are satisfied with the application process (78.6%) and the timeliness (82%) of the loan
+This is consistent with the findings from Phase 1.
+Between 2015 and 2017, 74.1% of the loan recipients were also using both Apprenticeship Grants and Employment Insurance benefits
+During the same period, only 4% of the loan recipients were using the loan as their sole source of federal financial support.
+On average, an apprentice has $5,534 of debt during training
+A large majority (81.5%) started repaying before the end of their first year of training.
+In general, about 10% of recipients start repaying their loan before completing their training
+A small percentage of borrowers in repayment (1.7%) are using the Repayment Assistance Program. This could be due to a low level of awareness about the Repayment Assistance Program.
+Recommendation
+The program should focus on increasing awareness of the loans among underrepresented groups. Both in terms of promoting the program and in terms of providing clarity about its principal features so more apprentices that are in need can benefit.
+Consideration
+The Canada Apprenticeship Loan is only one part of a broader suite of federal support measures for apprenticeships. The Department should consider how the loan links into a broader Apprenticeship Strategy.
+Program background
+The Canada Apprentice Loan was launched in 2015. It offers interest-free loans of up to $4,000 per period of technical training (minimum request of $500). In loan year 2015 to 2016, a total of 16,429 apprentices borrowed from the Canada Apprentice Loan, leading to disbursements totaling $69.4 million.
+The lifetime maximum loan amount is set to $20,000 and/or a maximum of 5 periods of technical training. The program was designed to help registered Red Seal apprentices:
+cover the costs related to their apprenticeship
+to assist more apprentices in completing their training
+The Canada Apprentice Loan builds on other federal government measures that aim to financially support individual apprentices:
+Employment Insurance
+Individuals referred by their province or territory to attend full-time technical training (sometimes referred to as block-release training) may be eligible to receive Employment Insurance benefits
+This can only occur while they are unemployed and attending the training.
+Apprenticeship Grants
+The Apprenticeship Grants are comprised of the Apprenticeship Incentive Grant, the Apprenticeship Completion Grant and the Apprenticeship Incentive Grant for Women
+They allow apprentices to receive up to $4,000 in lifetime grants to pay for tuition, travel, tools, or other expenses up to $8,000 in grants for apprentices who are women.
+Tax deductions
+Tax deductions and credits for supporting apprentices and tradespersons including:
+the Tradesperson’s Tools deduction
+the Tuition Tax Credit and
+the Education Tax Credit
+Role of government in apprenticeship
+In 2015:
+Canadians working in the skilled trades: 4,000,000
+estimated percentage of employed Canadians who worked in a skilled trade: 22.1%
+percentage of Red Seal apprentices who were women: 9%
+the percentage of women who were apprentices when more "traditional" trades such as baker and hairstylist are removed: 5%
+Completing an apprenticeship program can be a challenge for apprentices and it can also vary significantly across jurisdictions and trades. Table 1 below demonstrates that apprentices who completed their programs are more likely to find employment and have, on average, higher earnings.
+Table 1: Advantages of completing an apprenticeship
+Key findings
+Need for the loan
+Both Canada Apprentice Loan recipients and non-recipients indicate that there is a need for the loan given the high cost of technical training and the overall apprenticeships costs.
+Figure 1 shows that close to half of the apprentices surveyed (48.1%) said it was difficult or very difficult to make ends meet during the technical training period.
+The proportion of apprentices who had difficulties making ends meet during the technical training period is higher among loan recipients (52.6%) compared to the non-recipients (42.5%).
+This suggests that there is a need for the Canada Apprentice Loan.
+Figure 1: During your technical training period, how easy or difficult was it to make ends meet financially?
+
+
+Text description of Figure 1
+
+
+
+Source of information: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+There are variations in terms of difficulties making ends meet, showing that some groups have more of a need for the Canada Apprentice Loan than others. Figure 2 indicates certain groups were more likely to say that they had difficulties making ends meet.
+This includes women (51%), apprentices 40 years and older (56.6%), apprentices with a disability (62.7%) and those apprentices with lower annual earnings (66.9%).
+A larger proportion of loan recipients indicated that they have difficulties making ends meet compared to eligible non-recipients.
+The exceptions are those recipients earning more than $150,000 and those between 18 and 24 years old.
+As shown in Figure 19 in Annex E, other groups of apprentices were also more likely to say that they had difficulties making ends meet.
+These include industrial electricians (60.8%), welders (59.4%), plumbers (57.1%) and apprentices being trained in more than one trade (60.9%).
+Figure 2: Proportion of Apprentices who had difficulty making ends meet during technical training
+
+
+Text description of Figure 2
+
+
+
+Source of information: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+The Canada Apprentice Loan contributes to covering the costs of training and other expenses for most recipients (80.8%). A larger contribution was observed for vulnerable groups.
+Figure 3 shows 80.8% of the recipients surveyed indicated that the loans were important or very important in covering the costs of training and other related expenses.
+This proportion is higher among:
+women (88%)
+older apprentices (91%)
+Indigenous (86%)
+recipients with a disability (84.2%)
+those earnings less than $75,000 annually (87.8%)
+Figure 3: Level of importance of the loan in covering the costs of apprenticeship by subgroup (N=1,083)
+
+
+Text description of Figure 3
+
+
+
+Source of information: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Approximately three quarters (79.4%) of recipients surveyed used the Canada Apprenticeship Loan to make ends meet.
+Figure 4 indicates that 39.1% of recipients used the Canada Apprentice Loan to pay tuition and other fees
+Apprentices also used Canada Apprentice Loans to pay for training items such as books, computer or uniforms (37.6%) and to buy tools (25.6%).
+A higher proportion of lower income recipients and recipients with a disability used the Canada Apprentice Loan to pay for tuition and other fees, buy tools or buy books, computer or uniforms specific for training. See Figure 32 in Annex E for full table including income information
+Loans are used differently by different trade groups
+For example, welders (92.9%), steamfitters/pipefitters (92.4%), recipients with a disability (86.1%), those earning less than $75,000 annually (82%) and women (81.5%) are the most likely to report using the Canada Apprentice Loan to make ends meets as indicated by Figure 25 in Annex E.
+This is likely due to the different nature of the work and differences in income
+Figure 4: Proportion of recipients that used the loan toward these specifics items  (N=1,083)
+
+
+Text description of Figure 4
+
+
+
+Source of information: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Awareness
+Approximately one-third (37%) of apprentices are aware of the loan prior to registering as indicated by Figure 5.
+Figure 5 indicates that level of awareness of the loan is lower for women (30.6%) and for apprentices earning less than $25,000 per year (30.4%). This is a low rate of awareness. Considering one-third feel that knowing about the loan is an important part of their deciding to become an apprentice.
+For those who are aware of the loan, Figure 20 in Annex E shows that for 39% of apprentices, knowing about the Canada Apprentice Loan was an important factor (17.4%) or very important factor (21.6%) contributing to the decision to register for apprenticeship training. This proportion is even higher for women (47%) Indigenous apprentices (64.9%), apprentices with a disability (62.5%) and those with annual earnings under $25,000 (59.6%).
+One-third of the apprentices who did not apply for a Canada Apprentice Loan (38.2%) mentioned that awareness was a problem for them. This proportion is even higher for women (52.4%), Indigenous apprentices (49.6%) and apprentices with a disability (49.2%).
+The level of awareness is lower for women (30.6%) compared to men (37.4%).
+Figure 5: Awareness level of the Canada Apprentice Loan before becoming an apprentice (N=1,525)
+
+
+Text description of Figure 5
+
+
+
+Source of information: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Most of the awareness about the program is achieved in class or at school and not prior to the program.
+Figure 6 indicates that 60% of the apprentices who were aware of the Canada Apprentice Loan before taking the Evaluation survey were informed of the loan either in:
+class (44.6%)
+via a classmate (9.8%)
+by the teacher (5.6%)
+This means that awareness of the loan is mostly occurring after registering for the training.
+Figure 6: Apprentices first heard about the Canada Apprentice Loan from these promotional elements
+
+
+Text description of Figure 6
+
+
+
+Source of information: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+A large percentage of the loan recipients made a decision to become an apprentice without knowing about the loan. Most of the information about the program is provided during the training from employers or from the schools.
+Figure 7 shows that the source of information about the loan varies across regions. For example there is a higher percentage of apprentices in Ontario receiving information from union representatives, employers and welcome packages relative to other regions.
+Figure 7: Apprentices received information about the Canada Apprentice Loan from the following sources
+
+
+Text description of Figure 7
+
+
+
+Source of information: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Take-up
+Overall take-up has increased since 2015, but it varies by gender and across jurisdictions.
+Figure 8 indicates that other than in 2015, the take-up rate for women is always higher than the one for men. The average take-up rate for women is at 33.1% while the one for men is at 31.5%.
+Figure 21 in Annex E also indicated that Alberta and Nova Scotia have the highest take-up rates, averaging 44.9% and 42.8% respectively. However, Ontario, Newfoundland and Labrador both have the lowest take-up rate with an average of 15.6% for both. The take-up rate in Ontario is constantly declining between 2015 and 2017.
+A total of 49,550 loans were disbursed to 34,602 apprentices between January 1, 2015 and December 31, 2017.
+Most of the loans are disbursed to apprentices registered in Alberta. In terms of trades, most of the loans are disbursed to construction electricians and to other Red Seal trades.
+The take-up rate for women is 33.1% overall.
+Figure 8: Estimated take-up rate for Canada Apprentice Loan by gender
+
+
+Text description of Figure 8
+
+
+
+Source: ESDC, Linked Canada Apprentice Loan, Apprenticeship Grants and Employment Insurance administrative data
+Just less than half (42%) of loan recipients obtain their first loan either during the year they registered or 1 year after registration.
+The Canada Apprentice Loan allows an apprentice to take up to 5 loans of $4,000 for a maximum lifetime amount of $20,000.
+Apprentices obtain on average approximately 2 loans (see Figure 9).
+Income is the only factor that impacts on the number of loans taken.
+Other demographics as suggested by Table 6 in annex E are not significant factors that contribute to decisions to take loans including:
+gender
+having a disability
+age
+This suggests that there is no relationship between sub-groups and the number of loans taken.  Although, the number of loans taken decrease significantly when income of the recipient increases.
+Figure 9: Stage during the apprenticeship when loan recipients first applied (N=1,111)
+
+
+Text description of Figure 9
+
+
+
+Source of information: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Satisfaction levels
+Most recipients (78.6%) are satisfied or very satisfied with the application process, with the exception of Indigenous recipients and recipients with a disability.
+Figure 10 shows satisfaction with the application process. Indigenous recipients (73%) and recipients with a disability (54.8%) are the least satisfied. Women (86.2%) are the most satisfied with the application process.
+Figure 10 also indicates that 73.9% of the recipients are satisfied or very satisfied about the ease of understanding of the program material.
+Recipients with a disability (55.2%) appear to be less satisfied with the ease of understanding the loan material while women (85.2%) are more satisfied.
+The level of satisfaction with the application process and with the ease of understanding the Canada Apprentice Loan material increases with the level of education (see Figure 27 in Annex E).
+Two reasons were given by apprentices who did not apply for a loan:
+14.2% mentioned being uncomfortable with the idea of having debt
+39.4% of them did not need a loan
+Figure 10: Level of satisfaction with service delivery by sub-groups (N=1,111)
+
+
+Text description of Figure 10
+
+
+
+Source of information: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Most loan recipients are satisfied (29.7%) or very satisfied (52.3%) with the timeliness of the loan.
+Figure 11 indicates that there are variations in the level of being satisfied with the timeliness of the loan among selected groups. Recipients with a disability and Indigenous recipients appear to be slightly less satisfied with the timeliness of the loan as opposed to other groups.
+The geographical variations of level of being satisfied with timeliness can be seen in Figure 28 in Annex E:
+recipients in British Columbia and the Territories (85.2%) are more satisfied
+Ontario (76.2%) are less satisfied
+Figure 11: Level of satisfaction with the timeliness of the loan (the time from application to receipt). (N=1,083)
+
+
+Text description of Figure 11
+
+
+
+Source of information: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Impact of services
+Apprentices suggested changes to the Canada Apprentice Loan and the suite of federal support measures.
+Approximately 4% of apprentices would like to reduce the cost of apprenticeship
+For 4.3% of apprentices, raising awareness about the program could solve many issues, while another 3.8% mentioned that improving information about the loan could help them
+Another 2.8% mentioned that targeting more vulnerable groups, such as single women or low-income families, would be a good solution
+Close to 12% of apprentices surveyed mentioned that more grants or more funds including a targeted grant for specific costs, such as gas, travel and daycare would be useful
+There are some differences between loan recipients and non-recipients as it pertains to their views on enhancing the loan. But these differences are not large and systematic
+For approximately 10% of the apprentices surveyed, solving Employment Insurance issues would provide them a great support as seen in Annex E, Table 5.
+Source: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019.
+Loan and completion
+Using the loan has a positive contribution to completing the apprenticeship training for every trade.
+Table 3 demonstrates that using the Canada Apprentice Loan contributes to completing an apprenticeship program.
+The magnitude of the impact on completing an apprenticeship in compulsory trades is larger when compared to the voluntary trades.
+For women, the loan contributes to completing an apprenticeship program in every trade as seen in Table 7, Annex E. This could be due to the small sample of women using the loan.
+Each extra loan used has a diminishing contribution on the probability of completing the apprenticeship for all trades and compulsory trades. Table 3 reports a negative coefficient for the "number of loans used" measure. This means that the greater contribution comes from the first loan. Table 8 in Annex E also supports this finding.
+Note:
+*** Significant at the 1% confidence level.
+** Significant at the 5% confidence level.
+* Significant at the 10% confidence level.
+Source: Registered Apprenticeship Information System, Apprenticeship Grants and Employment Insurance administrative data
+Other supports
+Approximately 82.5% of apprentices used Employment Insurance during their apprenticeship and 58.4% of apprentices used government loan or grants.
+Figure 12 indicates that approximately 11.8% of apprentices used college bursaries. Roughly 10.6% of them had to rely on another job to finance their training.
+Apprentices with a disability and women tend to rely more on another job, help from parents or family. Apprentices with a disability also rely more on a personal loan compared to other groups. Women apprentices and apprentices with a disability tend to use less employment insurance during their training as seen in Figure 12.
+Figure 12: Proportion of apprentices using other financial supports by sub-group (N=1,825)
+
+
+Text description of Figure 12
+
+
+
+Source: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+A majority of loan recipients (74.1%) received support from the Apprenticeship Grants and Employment Insurance.
+Figure 22 in Annex E indicates that there are notable differences in the pattern of usage of the various federal measures of financial support.
+The 3 trade groups with the lowest proportion of recipients using the loan, the grants and Employment Insurance:
+hairstylists (42.6%)
+cooks (57.1%)
+industrial electricians (44.7%)
+These 3 groups also have the highest proportion of recipients using only the loan as source of financial support. However, the 3 groups with the highest proportion of loan recipients also using both the grants and employment insurance were:
+construction electricians (81.1%)
+plumbers (79.9%)
+automotive service technicians (78.8%)
+Only 4% of recipients use the Canada Apprentice Loan as a sole source of financial support (see Figure 13).
+Figure 13: Proportion of loan recipients receiving support from other Federal support measures for apprentices
+
+
+Text description of Figure 13
+
+
+
+Source: ESDC, Linked Canada Apprentice Loan, Apprenticeship Grants and Employment Insurance administrative data
+A small proportion (10.8%) of apprentices continue to get paid by their employer during the technical training period.
+A large portion of apprentices need to find another source of income during their technical training period as indicated in Figure 14.
+Figure 14 also indicates that the proportion of apprentices who are paid by their employer during the technical training period is higher among certain groups. These include:
+non-recipients
+women
+hairstylists
+cooks
+heavy duty equipment technicians
+Among those who are still being paid during the technical training period, most (51.8%) still receive their full wage. As shown in Figure 23 in Annex E, non-recipients (58.2%) and women (78.2%) are more likely to receive their full wage.
+Figure 14: Proportion of apprentices paid by employer during technical training by selected group (N=1,825)
+
+
+Text description of Figure 14
+
+Proportion of apprentices paid by employer: 14.4%
+Canada Apprentice Loan: 8.0%
+Men: 10.3%
+Women: 16.8%
+Construction electrician: 5.8%
+Carpenter: 3.3%
+Automotive service technician: 10.5%
+Plumber: 3.4%
+Welder: 3.1%
+Hairstylists: 38.6%
+Steamfitter/Pipefitter: 1.9%
+Heavy duty equipment technician: 27.1%
+Cooks: 29.9%
+Industrial mechanics (Millwrights): 19.9%
+Industrial electrician: 19.4%
+Other: 15.5%
+All apprentices: 10.8%
+
+
+
+Source: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Debt
+On average an apprentice has $5,534 of debt during training and there are variations in terms of debt level by trade groups.
+Figure 15 shows that that hairstylists ($4,536) and cooks $4,731 have the lowest amount of debt among trade groups. Millwright is the trade group taking on the most debt with an average debt per apprentice of $5,972. They are followed by steamfitters/pipefitters and heavy duty equipment technicians who take an average of $5,866 and $5,819 in debt respectively.
+The difference in the amount of debt taken by these trade groups relative to the national average is statistically significant. The eligibility requirement that apprentices in some trades have may be driving these differences in the level of indebtedness (in other words hairstylists and cooks).
+Figure 26 in Annex E indicates that men tend to take on more debt than women.
+Figure 15: Total amount of debt by top 10 Red Seal trades group
+
+
+Text description of Figure 15
+
+
+
+Source: ESDC, Canada Apprentice Loan administrative data
+Repayment
+At the end of 2017, a little more than 12% of all the recipients were repaying their loan. Another 6.2% of them had repaid their loan in full.
+Figure 16 indicates that, as of December 31, 2017 the status of the loan recipients:
+the majority of apprentices (74%) were still in training
+another 7% of the apprentices were still within the 6 months post training period where repaying the loan was not required
+Figure 29 in Annex E also indicates that that 71.8% of the recipients surveyed who have either completed or discontinued their training are in repayment. Apprentices still in training are repaying their loans (20.6%).
+Many recipients (81.6%) start repaying their loan before the end of their first year after training completion. About 10% of recipients start repaying their loan before completing their training as shown in Figure 30 in Annex E.
+Figure 16: Status of the loan for all the recipients at the end of calendar year 2017
+
+
+Text description of Figure 16
+
+
+
+Source: ESDC, Canada Apprentice Loan administrative data
+Less than half of recipients who have completed their apprenticeship are aware of the Repayment Assistance Program.
+Figure 17 shows that 43.7% of recipients who have completed their apprenticeship are aware of the Repayment Assistance Program. Awareness is higher among women (48.1%), Indigenous recipients (47.9%) and recipients with a disability (56%).
+Figure 17 also shows that 6.5% of recipients in repayment are using the Repayment Assistance Program. This program tends to be utilized more by women (7.3%), Indigenous recipients (9.7%), and recipients with a disability (14.2%).
+Figure 17: Proportion of loan recipients who have completed the apprenticeship program and are aware of the Repayment Assistance Program and using the Repayment Assistance Program (N=589)
+
+
+Text description of Figure 17
+
+
+
+Source: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Various subgroups are in greater need of assistance when it comes time to repay their loan. This is likely due to lower earnings upon completing apprenticeship training.
+Figure 18 shows that a higher proportion of women in repayment (6.2%) compared to 1.5% of men in repayment use the repayment assistance program. A higher proportion of apprentices from the Atlantic are relying on the repayment assistance program. A higher proportion of hairstylists (30%) and cooks (6.4%) are using the repayment assistance program as seen in Figure 31 in Annex E.
+Figure 18: Proportion of recipients in repayment using the Repayment Assistance Program
+
+
+Text description of Figure 18
+
+
+
+Source: Canada Apprentice Loan administrative data
+Conclusions
+Despite the program being in the developmental stages, the findings indicate a need for the program. Importantly, various lines of evidence confirm that the loan contributes to the apprentices completing their training.
+The program does not have an objective to use the loan as an incentive to join an apprenticeship program. However, it was observed that only one third of apprentices are aware of the loan prior to registering.  Increasing awareness of the loan and its measures may contribute to higher levels of take-up than seen between 2015 and 2017.
+Apprentices are making use of other federal government supports, such as the Apprenticeship Grant and Employment Insurance. Only 4% use the Canada Apprenticeship Loan on its own.
+The program is still in developmental stages and a majority of the apprentices are still in training. This made assessing debt levels and repaying the loan in this evaluation formative in nature. A more comprehensive conclusion about these elements can be reported:
+once the apprentices are no longer in training, and
+the program has identified benchmarks related to take-up and repayment timelines
+Recommendation
+The program should focus on increasing awareness of the loans among underrepresented groups. Both in terms of promoting the program and in terms of providing clarity about its principal features so more apprentices that are in need can benefit.
+Consideration
+The Canada Apprenticeship Loan is only one part of a broader suite of federal support measures for apprenticeships. The department should consider how the loan links into a broader Apprenticeship Strategy.
+Management response and action plan
+Recommendation #1
+The program should focus on increasing awareness of the loans among underrepresented groups. Both in terms of promotion of the program and in terms of providing clarity about its principal features so more apprentices that are in need can benefit.
+Management response and action plan
+The program agrees that increasing CAL awareness and promotion to those individuals that would benefit from the apprenticeship loan. It will improve the uptake and provide the required supports needed to underrepresented groups.
+Actions Planned: The department will include the Canada Apprentice Loan as part of the ongoing development of the Apprenticeship Strategy. It could include raising awareness of ESDC’s apprenticeship supports.
+Anticipated Completion Date: Continuous.
+Consideration #1
+As the Canada Apprenticeship Loan is only one part of a broader suite of federal support measures for apprenticeships. The Department should consider how the loan links into a broader Apprenticeship Strategy.
+Management response and action plan
+The department agrees and supports the need to include the Canadian Apprenticeship Loan as part of a broader Apprenticeship Strategy.
+Actions Planned: the department acknowledges this consideration.
+Anticipated Completion Date: continuous.
+Annex A: Evaluation questions and lines of evidence
+For accessibility reasons, the information is presented in text format. Consult the PDF version for the table.
+Evaluation question #1
+Whether there is a need for the Canada Apprentice Loan, given existing apprentice support measures, the cost of technical training, and overall apprenticeship program costs.
+To what extent do apprentices continue to be paid by their employer during their technical training?
+To what extent do loans meet the needs of the different sub-populations of apprentices?
+Are there other ways of providing support to apprentices during the technical training period that would better meet the needs of apprentices?
+Lines of evidence
+Linked Canada Apprentice Loan, Apprenticeship Grants and Employment Insurance administrative data, Surveys.
+Evaluation questions #2
+The extent to which the Canada Apprentice Loan participation and the take-up matched expectations.
+What is the Canada Apprentice Loan participation and take-up rate by jurisdiction, gender, trade, year of program, etc.?
+Lines of evidence
+Linked Canada Apprentice Loan, Apprenticeship Grants and Employment Insurance administrative data.
+Evaluation question #3
+The timing for loans application as well as the number of applications by apprentices over their apprenticeship program.
+Lines of evidence
+Linked Canada Apprentice Loan, Apprenticeship Grants and Employment Insurance administrative data, Surveys and Linked Registered Apprenticeship Information System with Employment and Social Development Canada administrative database.
+Evaluation questions #4
+The extent to which the Canada Apprentice Loan loans are used to cover the cost of technical training and other related expenses such as tools, additional living expenses, etc.
+Lines of evidence
+Surveys.
+Evaluation question #5
+To what extent are Canada Apprentice Loan borrowers using Repayment Assistance Plan during the first year after being required to start repayment?
+Lines of evidence
+Linked Canada Apprentice Loan, Apprenticeship Grants and Employment Insurance administrative data, Surveys.
+Evaluation question #6
+To what extent is it possible to isolate the impact of the Canada Apprentice Loan on the number of apprentices who complete their apprenticeship training?
+Lines of evidence
+Linked Registered Apprenticeship Information System with Employment and Social Development Canada administrative database.
+Evaluation question #7
+What is the overall amount of debt of Canada Apprentice Loan borrowers by jurisdiction, gender, etc.?
+Lines of evidence
+Linked Canada Apprentice Loan, Apprenticeship Grants and Employment Insurance administrative data.
+Evaluation question #8
+To what extent are Canada Apprentice Loan loans being repaid?
+To what extent are Canada Apprentice Loan borrowers required to start repaying their loans upon completion of their apprenticeship program compared to other reason?
+How does this vary by type of apprenticeship trade?
+To what extent are Canada Apprentice Loan borrowers repaying their entire loan within one year after being required to start repayment?
+Lines of evidence
+Linked Canada Apprentice Loan, Apprenticeship Grants and Employment Insurance administrative data, Surveys.
+Evaluation question #9
+To what extent are apprentices using other financial support such as the Apprenticeship Incentive Grant, Employment Insurance benefits, and/or provincial/territorial financial assistance to cover the costs associated with technical training costs and overall apprenticeship program costs?
+Lines of evidence
+Linked Canada Apprentice Loan, Apprenticeship Grants and Employment Insurance administrative data, Surveys.
+Evaluation question #10
+The impacts of the service delivery strategy in delivering the Canada Apprentice Loan.
+To what extent are Canada Apprentice Loan recipients satisfied with the service delivery?
+Is there any barrier that prevents apprentices from applying for and receiving loans?
+To what extent are Canada Apprentice Loan loans being delivered in a timely fashion?
+Lines of evidence
+Surveys.
+Evaluation question #11
+The extent to which apprentices and stakeholders (for example, career counsellors, unions, industry associations, etc.) are aware of the Canada Apprentice Loan and its features.
+Lines of evidence
+Surveys.
+Annex B: Evaluation approach
+Limitations
+The impact study used for this evaluation suffered from an omitted variable bias. It likely overestimated the impact of the loan on the completion of an apprenticeship. For that reason, the key findings reported mention contribution of the program rather than impact
+The Canada Apprentice Loan was introduced in 2015 and is a relatively new program which has not reached maturity. In addition, given that most (74.2%) of the recipients are still in apprenticeship training, assessment of repayment and impacts on the loan are limited. Efforts to filter out those in training in the analysis were made to respond to the evaluation questions. This sometimes resulted in a low sample size
+The lack of indicators on some outcomes such as take-up rate or time to fully repay the loan make it difficult to assess whether the benchmarks were achieved or not
+The variable for Canada apprentice Loan eligibility was not available in the Registered Apprenticeship Information System (RAIS). In that case, the evaluation had to rely on several proxies. This was done to estimate the take-up rate and the impact of the loan on completion leading to less precise estimates
+Sample size for groups of apprentices such as women and Indigenous apprentices were too small to disaggregate the analysis. It also did not allow for a comprehensive Gender Based Analysis+ analysis
+Lines of evidence and methodology
+Administrative data analysis
+The database used for this study contains and links information on apprentices from 3 sources:
+Canada Apprentice Loan (CAL) administrative data
+Apprenticeship Incentive Grant (AIG) and Apprenticeship Completion Grant (ACG) administrative
+Employment Insurance (EI) administrative data pertaining to apprentices
+These 3 files contains data on apprentices between calendar year 2015 and 2017.
+Surveys
+The database used for this study contains information on apprentices from 2 surveys:
+Random survey of Canada Apprentice Loan recipients
+Interview Method: Online and telephone
+Sample Selection: Stratified random sample
+Time of the Survey: March 18, 2019 to June 2, 2019
+Sample size: n = 968
+Approximate error rate (theoretical): + 3.1%, 19 times out of 20
+Random survey of Canada Apprentice Loan eligible non-recipients
+Interview Method: Telephone and online
+Sample Selection: Stratified random sample
+Time of the Survey: March 18, 2019 to June 2, 2019
+Sample size: n = 853
+Approximate error rate (theoretical): + 3.3%, 19 times out of 20
+Integrated RAIS-ESDC Data Analysis
+The RAIS-ESDC database contains information on apprentices from four sources:
+Apprenticeship Incentive Grant (AIG) and Apprenticeship Completion Grant (ACG) administrative data
+Canada Apprentice Loan administrative data
+Employment Insurance administrative data on apprentices
+Registered Apprenticeship Information System (Statistics Canada)
+Depending on the personal identification information available, the integration of data are done using iterations of several deterministic and probabilistic record linkage methods. A standard probit and a nearest-neighbour matching algorithm applied to an average treatment effect are estimated to assess the impact of the loan:
+on the probability of completing in an apprenticeship
+on the probability of discontinuing in an apprenticeship
+To ensure the group that received Canada Apprentice Loan could be adequately compared to those not receiving the Canada Apprentice Loan, the groups were matched using the following variables:
+number of Canada Apprentice Loan used during apprenticeship training
+stage during the apprenticeship when the Canada Apprentice Loan were used
+gender
+trade groups
+an interaction term of Gender and Trade groups (for example Gender*Trade groups)
+age (at Apprenticeship registration date) in age groups
+province or territory
+Indigenous status
+number of technical levels required or program duration
+program duration proxied by the number of technical training period required
+number of technical training period completed to day
+proportion of Apprenticeship training completed to day in categories
+number of years since registration to apprenticeship
+receipt of Level 1 Apprenticeship Incentive Grant
+receipt of Level 2 Apprenticeship Incentive Grant
+receipt of Apprenticeship Completion Grant
+number of Canada Apprentice Loans received during apprenticeship training
+receipt of Employment Insurance during apprenticeship training
+number of Employment Insurance claims during apprenticeship
+individual earnings up-to 5 years prior to apprenticeship training
+family income up-to 5 years prior to apprenticeship training
+receipt of Employment Insurance benefits up-to 5 years prior to apprenticeship training
+Annex C: Description of the program
+Introduced in 2015, the Canada Apprentice Loan is designed to help registered Red Seal apprentices cover the costs related to their apprenticeship. The program offers interest-free loans to help registered apprentices cope with the cost of their training. The Canada Apprentice Loan assists more apprentices in completing their training and encourages more Canadians to consider a career in the skilled trades. The table below outlines the program’s objectives, delivery and activities.
+Canada Apprentice Loan
+Program objective
+The objective of the Canada Apprenticeship Loan is to offer interest-free loans to help registered apprentices with the cost of their training.  The Canada Apprentice Loan is designed to:
+assist more apprentices in completing their training
+encourage more Canadians to consider a career in the skilled trades
+Delivery
+The program relies on collaboration and coordination between multiple bodies.
+The Canada Apprentice Loan Service Centre handles:
+the administrative responsibilities of processing loan applications
+maintaining records during the borrowing and repayment periods
+Public Services and Procurement Canada handles the disbursement of Canada Apprentice Loan funds. The Canada Revenue Agency is responsible for collections when Canada Apprentice Loans are in default.  Technical training providers must confirm enrolment status in technical training periods before loans can be disbursed.  The relevant province/territory must confirm registration status in an apprenticeship program for an apprentice to maintain eligibility for interest-free status.
+Funding
+In loan year 2015 to 2016, a total of 16,429 apprentices borrowed from the Canada Apprentice Loan, leading to disbursements totaling $69.4 million.
+Funding activities
+The Canada Apprentice Loan was designed to assist apprentices with the costs of completing periods of technical training required by their program, including:
+educational fees
+tools
+equipment, living expenses and forgone wages
+Eligible recipients
+Apprentices in a designated Red Seal trade who go on technical training in a block-release are eligible. Apprentices from Quebec are not participating in block-release training so they are not eligible for the Canada Apprentice Loan.
+Participants
+Participants are defined as all apprentices in a designated Red Seal trade who are attending a technical training in a block release or the equivalent full-time technical training. These are defined by the applicable provincial or territorial apprenticeship authority.
+Annex D: Logic model
+Logic model
+
+
+Text description of Annex D: Logic model
+Departmental Results Framework (DRF)
+Core Responsibility (CR): Learning, Skills Development and Employment
+CR Description:
+
+help Canadians access post-secondary education
+obtain the skills and training needed to participate in a changing labour market, and
+provide supports to those who are temporarily unemployed
+
+Results Statements (RS)
+
+RS1: Canadians access education, training and life-long learning supports to gain the skills and work experience they need
+RS2: More students from low- and middle-income families access and participate in post-secondary education
+RS3: Clients receive high quality, timely and efficient services that meet their needs
+
+Ultimate Outcome
+Canadians have equitable access to post-secondary education, training, and life-long learning opportunities to contribute to a rapidly changing economy.
+Intermediate Outcomes
+
+Canadians complete apprenticeship training
+Borrowers are able to meet their apprentice loan repayment obligations
+
+Immediate Outcomes
+
+Eligible apprentices receive loans to help them participate in apprenticeship training
+Service standards are met
+Borrowers receive repayment assistance and loan forgiveness
+
+Outputs
+
+Loans
+Repayment assistance and loan forgiveness
+
+Activities
+
+Program Administration of Canada Apprentice Loans
+
+Inputs 
+
+Information Technology, Human and Financial Resources
+Annex E: Additional figures and tables
+Figure 19: Proportion of apprentices who had difficulty making ends meet during technical training
+
+
+Text description of Figure 19
+
+
+
+Source: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Figure 20: How important does knowing about the Canada Apprentice Loan contribute to your decision to become an Apprentice? (N=564)
+
+
+Text description of Figure 20
+
+
+
+Source: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Figure 21: Estimated take-up rate for Canada Apprentice Loan by province
+
+
+Text description of Figure 21
+
+
+
+Source: ESDC, Linked Canada Apprentice Loan, Apprenticeship Grants and Employment Insurance administrative data
+Figure 22: Proportion of loan recipients receiving support from other Federal support measures for apprentices by trade groups
+
+
+Text description of Figure 22
+
+
+
+Source: ESDC, Linked Canada Apprentice Loan, Apprenticeship Grants and Employment Insurance administrative data
+Figure 23: Does the employer pay full wage, partial wage of other type of payment by selected group (N=198)?
+
+
+Text description of Figure 23
+
+
+
+Source: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Source: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Source: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Figure 24: Proportion of recipients indicating that the loan was important in helping them covering the cost of the apprenticeship training by trade groups (N=1,083)
+
+
+Text description of Figure 24
+
+
+
+Source: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Figure 25: Use of Canada Apprentice Loan by trade (N=1,083)
+
+
+Text description of Figure 25
+
+
+Source: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Figure 26: Total amount of debt by gender
+
+
+Text description of Figure 26
+
+
+
+Source: ESDC, Canada Apprentice Loan administrative data
+Figure 27: Level of satisfaction of Canada Apprentice Loan recipients with service delivery by education level (N=1,111)
+
+
+Text description of Figure 27
+
+
+
+Source: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Figure 28: Timeliness of the loan by region (the time from application to receipt). (N=1,083)
+
+
+Text description of Figure 28
+
+
+
+Source: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Figure 29: Percentage of Recipients in Repayment by status of their apprenticeship (N=1,083)
+
+
+Text description of Figure 29
+
+
+
+Source: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Figure 30: Stage at which recipients start repaying their loan (N=354)
+
+
+Text description of Figure 30
+
+
+
+Source: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Figure 31: Proportion of loan recipients in repayment using the Repayment Assistance Program
+
+
+Text description of Figure 31
+
+
+
+Source: ESDC, Canada Apprentice Loan administrative data
+Figure 32: Proportion of recipients that used the loan toward these specifics items (N=1,083)
+
+
+Text description of Figure 32
+
+
+
+Source: ESDC-PRA Inc. Survey of Canada Apprentice Loan recipients and eligible non-recipients 2019
+Note: *** Significant at the 1% confidence level.
+Source: Registered Apprenticeship Information System, Apprenticeship Grants and Employment Insurance administrative data
+Note: *** Significant at the 1% confidence level.
+Source: Registered Apprenticeship Information System, Apprenticeship Grants and Employment Insurance administrative data
