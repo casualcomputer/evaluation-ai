@@ -21,6 +21,7 @@ def run_extractors(read_path, save_path, verbose):
     """
     extractors = [
         FullTextExtractor(read_path, save_path, verbose=verbose),
+        CleanedTextExtractor(read_path, save_path, verbose=verbose)
     ]
 
     for extractor in extractors:
