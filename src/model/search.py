@@ -50,11 +50,25 @@ def build_faiss_index(embeddings):
     Returns:
         faiss.IndexIDMap: A Faiss index.
     """
-    index = faiss.IndexIDMap(faiss.IndexFlatIP(embeddings.shape[1]))
-    index.add_with_ids(embeddings, np.array(range(0, embeddings.shape[0])))
-    return index
+    d = embeddings.shape[1] #embeddings' dimension
+    index =  faiss.IndexFlatL2(d) 
+    index.add(encoded_data)
+    
+    # TODO: partition the index with voronoi cells 
+    # URL: https://www.pinecone.io/learn/series/faiss/faiss-tutorial/#Partitioning-The-Index
+    # m = 8  # number of centroid IDs in final compressed vectors
+    # bits = 8 # number of bits in each centroid
 
-def search(query, top_k, index, model):
+    # nlist = 50 # number of partitions (Voronoi cells) we’d like our index to have
+    # quantizer = faiss.IndexFlatL2(d)  # we keep the same L2 distance flat index
+    # index = faiss.IndexIVFPQ(quantizer, d, nlist, m, bits)
+    # index.train(encoded_data)
+    # index.add(encoded_data)
+    
+    return index
+    
+
+def search(query, k, index, model):
     """
     Performs semantic search using the given query and index.
 
@@ -65,13 +79,16 @@ def search(query, top_k, index, model):
         model (SentenceTransformer): Sentence embedding model.
 
     Returns:
-        list: List of top document IDs.
+        list: List of tuples containing (document ID, similarity score).
     """
-    query_vector = model.encode([query]) #TODO: generalize to query vector (single query now)
-    top_k = index.search(query_vector, top_k)
-    top_k_ids = top_k[1].tolist()[0] #TODO: include scores; allow users to choose similarity scores
-    top_k_ids = list(np.unique(top_k_ids))
-    return top_k_ids
+    query_vector = model.encode([query])
+    distances, top_k_ids = index.search(query_vector, k) #top k vectors closest to query_vector
+
+    results = []
+    for i in range(len(top_k_ids[0])):
+        results.append((top_k_ids[0][i], distances[0][i]))  # Capture similarity score
+
+    return results # (document id, similarity)
 
 def main():
     document_list = ["program 1: nudge", "program 2: audit"] # List of document contents
@@ -89,17 +106,11 @@ def main():
 
     # Build Faiss index
     index = build_faiss_index(encoded_data)
-    faiss.write_index(index, 'eval_report.index')
+    #faiss.write_index(index, 'eval_report.index') # load the index in production
 
     # Perform search
     query = "poke"
-    top_k_ids = search(query, top_k=2, index=index, model=model)
-
-    # Print search results
-    print("Your top search results (most to least relevant):\n")
-    for idx, x in enumerate(top_k_ids):
-        print("result number:", idx + 1)
-        print(document_list[x], "\n")
+    search(query, k=2, index=index, model=model)
 
 if __name__ == "__main__":
     main()
