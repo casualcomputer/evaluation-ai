@@ -1,7 +1,13 @@
-# evaluation-ai
+# Evaluation-AI: A LLM for Assessing Government Programs
 
-Open repository of codes to train language models for program evaluations.
+The Evaluation-AI repository is dedicated to building a comprehensive collection of program evaluation reports and leveraging state-of-the-art techniques in large language models (LLMs) to create a powerful tool for assessing government programs. Our mission is to develop a model that can effectively understand and analyze policy frameworks using retrieval-augmented generation (RAG) and a hybrid search strategy. We are committed to transparency and open-source fairness measurement to ensure the reliability and equity of our models.
 
+## Objectives
+Repository of Program Evaluation Reports: 
+- Curate and maintain a rich collection of program evaluation reports, serving as a valuable resource for researchers and practitioners.
+- Advanced LLM Training: Utilize the latest advancements in LLMs to train a model that comprehensively understands policy frameworks and program evaluation contexts.
+- Retrieval-Augmented Generation (RAG): Employ a hybrid search strategy combining traditional retrieval methods with generative capabilities to enhance information extraction and comprehension.
+- Contextual Application: Develop and tailor the tool for various tasks within the program evaluation context, ensuring its relevance and effectiveness in real-world applications.
 
 ## Usage
 ### Clone the repository
