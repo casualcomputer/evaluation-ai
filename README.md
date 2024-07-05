@@ -9,6 +9,20 @@ Repository of Program Evaluation Reports:
 - Retrieval-Augmented Generation (RAG): Employ a hybrid search strategy combining traditional retrieval methods with generative capabilities to enhance information extraction and comprehension.
 - Contextual Application: Develop and tailor the tool for various tasks within the program evaluation context, ensuring its relevance and effectiveness in real-world applications.
 
+## Design:
+
+Backend pipelines:
+1. Scrape and clean reports
+2. RAG for document retrival and summarization
+   a. retrival
+   b. summarization
+   c. LLM validation/critique
+4. Human-in-the-loop for user feedback
+5. Model evaluation and online/batch learning
+
+Frontend:
+1. Chat interface
+
 ## Usage
 ### Clone the repository
 
